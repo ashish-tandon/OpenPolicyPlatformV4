@@ -34,6 +34,14 @@ db-credentials.json
 *.sqlite3
 
 # =============================================================================
+# LARGE DATABASE FILES (GitHub size limit: 100MB)
+# =============================================================================
+openparliament.public.sql
+*.sql
+scrapers-data/**/*.sql
+scrapers-data/**/openparliament.public.sql
+
+# =============================================================================
 # AZURE & QNAP CONFIGURATIONS
 # =============================================================================
 azure-config.json
