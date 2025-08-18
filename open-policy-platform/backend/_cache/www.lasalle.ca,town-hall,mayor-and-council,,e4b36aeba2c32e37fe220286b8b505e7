@@ -1,0 +1,1738 @@
+status: 200
+encoding: utf-8
+Date: Sat, 09 Aug 2025 05:45:00 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Vary: Accept-Encoding
+x-azure-ref: 20250809T054500Z-185659d9b78jvbd6hC1YTO4g3800000005c000000000a9b0
+X-Cache: CONFIG_NOCACHE
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en" class="no-js usn">
+<head>
+            <!-- Google Analytics -->
+        <link rel="dns-prefetch" href="//www.google-analytics.com">
+
+    <!-- Google Fonts -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
+
+<!-- Google -->
+<link rel="dns-prefetch" href="//www.gstatic.com">
+<link rel="preconnect" href="//www.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="preconnect" href="//www.google.com" crossorigin>
+
+<!-- Icons -->
+<link rel="preload" href="/css/GOV/icons/ionicons.woff2?v=4.5.4" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/css/GOV/icons/ionicons.woff?v=4.5.4" as="font" type="font/woff" crossorigin>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=2">
+        <link rel="canonical" href="https://www.lasalle.ca/town-hall/mayor-and-council/" />
+    <title>Mayor and Council | Town of LaSalle</title>
+    <meta name="description" content="">
+            <link rel="alternate" hreflang="en-us" href="https://www.lasalle.ca/town-hall/mayor-and-council/" />
+    <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@TownofLaSalle" />
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Mayor and Council | Town of LaSalle" />
+    <meta property="og:image" content="https://www.lasalle.ca/media/oarl5jyt/lasalle_logo.svg" />
+    <meta property="og:url" content="https://www.lasalle.ca/town-hall/mayor-and-council/" />
+    <meta property="og:description" content="" />
+    <meta property="og:site_name" content="Town of LaSalle" />
+    <meta name="robots" content="index,follow">
+
+    
+
+
+
+
+    <link href="/sb/sitebuilder-ltr-css-bundle.css.v1-8-2-0" media="screen" rel="stylesheet" />
+<link href="/sb/sitebuilder-css-bundle.css.v1-8-2-0" media="screen" rel="stylesheet" />
+<link href="/sb/sitebuilder-css-small-bundle.css.v1-8-2-0" media="screen and (min-width:0) and (max-width:1339px)" rel="stylesheet" />
+<link href="/sb/sitebuilder-css-large-bundle.css.v1-8-2-0" media="screen and (min-width:1340px)" rel="stylesheet" />
+<link rel="stylesheet" media="screen" href="/uSkinned/css/generated/6abaf450-7ecf-4369-8abd-a21d7f375c85.css?version=638802545782030000" />
+<link href="/sb/sitebuilder-css-prnt-bundle.css.v1-8-2-0" media="print" rel="stylesheet" />
+
+<link href="/sb/gov-css-bundle.css.v1-8-2-0" media="screen" rel="stylesheet" />
+
+
+            <link rel="shortcut icon" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=32&amp;height=32">
+        <link rel="apple-touch-icon" sizes="57x57" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=57&amp;height=57">
+        <link rel="apple-touch-icon" sizes="60x60" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=60&amp;height=60">
+        <link rel="apple-touch-icon" sizes="72x72" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=72&amp;height=72">
+        <link rel="apple-touch-icon" sizes="76x76" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=76&amp;height=76">
+        <link rel="apple-touch-icon" sizes="114x114" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=114&amp;height=114">
+        <link rel="apple-touch-icon" sizes="120x120" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=120&amp;height=120">
+        <link rel="apple-touch-icon" sizes="144x144" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=144&amp;height=144">
+        <link rel="apple-touch-icon" sizes="152x152" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=152&amp;height=152">
+        <link rel="apple-touch-icon" sizes="180x180" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=180&amp;height=180">
+        <link rel="icon" sizes="16x16" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=16&amp;height=16">
+        <link rel="icon" sizes="32x32" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=32&amp;height=32">
+        <link rel="icon" sizes="96x96" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=96&amp;height=96">
+        <link rel="icon" sizes="192x192" type="image/png" href="/media/f52hqv5j/lasalle_favicon.png?width=192&amp;height=192">
+        <meta name="msapplication-square70x70logo" content="/media/f52hqv5j/lasalle_favicon.png?width=70&height=70" />
+        <meta name="msapplication-square150x150logo" content="/media/f52hqv5j/lasalle_favicon.png?width=150&height=150" />
+        <meta name="msapplication-wide310x150logo" content="/media/f52hqv5j/lasalle_favicon.png?width=310&height=150" />
+        <meta name="msapplication-square310x310logo" content="/media/f52hqv5j/lasalle_favicon.png?width=310&height=310" />
+
+            <script>
+var notificationExDays = 365;        </script>
+
+    
+<link href="/css/GOV/themes/gs-theme-grandview.css" media="screen" rel="stylesheet">        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-K9Q6DNNDLM"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-K9Q6DNNDLM');
+        </script>
+
+    
+</head>
+<body 
+    
+ class="body-bg body-bg-solid header-14-lg header-01-sm show_header-on-scroll-lg hide_header-on-scroll-sm directional-icons-chevron             secondary-navigation-underline-link-hover  content-underline-link-hover  footer-underline-link-hover    "
+
+>
+
+
+
+    <link rel="stylesheet" href="/css/GOV/modules/alert/alert.css" />
+
+
+
+
+
+
+    
+
+    <!-- Skip links -->
+    <a class="skip-to-content" id="skip-to-content-link" href="#site-content">Skip to main content</a>
+    <a class="skip-to-content" id="skip-to-footer-link" href="#site-footer">Skip to footer</a>
+    <!--// Skip links -->
+
+    <!-- Site -->
+    <div id="site">
+
+        <!-- Header -->
+            <header id="site-header" class="header-bg header-bg-solid" tabindex="-1">
+        <div class="container">
+
+            <div class="row">
+
+                    <div id="logo" >
+        <a href="/" title="Town of LaSalle">
+                                <img src="/media/oarl5jyt/lasalle_logo.svg"  alt="">
+                <span class="sr-only">Town of LaSalle</span>
+        </a>
+    </div>
+
+
+
+                    <!-- Expand -->
+                    <button id="burgerNavStyle" class="expand-header expand-3-bars expand-even-lines expand-active-cross" type="button" aria-expanded="false" aria-label="Expand header">
+                        <span>Menu</span>
+                    </button>
+                    <!--// Expand -->
+                <!-- Main navigation -->
+        <nav aria-label="Main" class="main main-advanced nav-dropdown navigation-dropdown-bg navigation-dropdown-bg-solid">
+            <ul>
+            <li class="has-child mega-menu-header-container  ">
+                <span>
+                    <a href="https://www.lasalle.ca/living-in-lasalle/" >Living in LaSalle</a>
+                </span>
+
+                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Living in LaSalle">
+                        <span aria-hidden="true" class="sr-only">Expand sub pages Living in LaSalle</span>
+                    </button>
+                    <div class="mega-menu header-container items-3">
+                        <div class="menu-container">
+                            
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="/living-in-lasalle/a-to-z-services/" target="_self">A to Z Services</a></li>
+                        <li class=""><a href="/living-in-lasalle/animals/" target="_self">Animals</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/business-building-and-development/building-and-demolition-permits/" target="_blank">Building and Demolition Permits</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/living-in-lasalle/roads-and-traffic/public-works-projects/" target="_blank">Construction Projects</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/town-hall/customer-service-portal/" target="_self">Customer Service</a></li>
+                        <li class=""><a href="/living-in-lasalle/drainage/" target="_self">Drainage</a></li>
+        </ul>
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="/living-in-lasalle/emergency-services/" target="_self">Emergency Services</a></li>
+                        <li class=""><a href="/living-in-lasalle/garbage-and-recycling/" target="_self">Garbage and Recycling</a></li>
+                        <li class=""><a href="/living-in-lasalle/lasalle-fire-service/" target="_self">LaSalle Fire Service</a></li>
+                        <li class=""><a href="/living-in-lasalle/lasalle-police-service/" target="_self">LaSalle Police Service</a></li>
+                        <li class=""><a href="/living-in-lasalle/lasalle-transit/" target="_self">LaSalle Transit</a></li>
+                        <li class=""><a href="https://www.essexcountylibrary.ca/client/en_US/home" target="_blank">Library</a></li>
+        </ul>
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="https://www.lasalle.ca/business-building-and-development/maps/" target="_self">Maps</a></li>
+                        <li class=""><a href="/living-in-lasalle/parking/" target="_self">Parking</a></li>
+                        <li class=""><a href="/living-in-lasalle/property-taxes/" target="_self">Property Taxes</a></li>
+                        <li class=""><a href="/living-in-lasalle/roads-and-traffic/" target="_self">Roads and Traffic</a></li>
+                        <li class=""><a href="/living-in-lasalle/water-and-utilities/" target="_self">Water and Utilities</a></li>
+        </ul>
+
+                        </div>
+                    </div>
+            </li>   
+            <li class="has-child mega-menu-header-container  ">
+                <span>
+                    <a href="https://www.lasalle.ca/recreation-culture-and-community/" >Recreation, Culture and Community</a>
+                </span>
+
+                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Recreation, Culture and Community">
+                        <span aria-hidden="true" class="sr-only">Expand sub pages Recreation, Culture and Community</span>
+                    </button>
+                    <div class="mega-menu header-container items-3">
+                        <div class="menu-container">
+                            
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="/recreation-culture-and-community/active-living-map/" target="_self">Active Living Map</a></li>
+                        <li class=""><a href="/recreation-culture-and-community/boat-ramp/" target="_self">Boat Ramp</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/news/categories/cancellations-and-closures/" target="_blank">Cancellations and Closures</a></li>
+                        <li class=""><a href="/recreation-culture-and-community/community-art/" target="_self">Community Art</a></li>
+        </ul>
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="/recreation-culture-and-community/events/" target="_self">Events</a></li>
+                        <li class=""><a href="/recreation-culture-and-community/facilities-and-rentals/" target="_self">Facilities and Rentals</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/recreation-culture-and-community/recreation-and-sports/fitness-centre/" target="_self">Fitness Centre</a></li>
+                        <li class=""><a href="/recreation-culture-and-community/history/" target="_self">History</a></li>
+        </ul>
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="/recreation-culture-and-community/lasalle-landing/" target="_self">LaSalle Landing</a></li>
+                        <li class=""><a href="/recreation-culture-and-community/parks-and-trails/" target="_self">Parks and Trails</a></li>
+                        <li class=""><a href="/recreation-culture-and-community/recreation-and-sports/" target="_self">Recreation and Sports</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/recreation-culture-and-community/facilities-and-rentals/vollmer-complex/" target="_self">Vollmer Complex</a></li>
+        </ul>
+
+                        </div>
+                    </div>
+            </li>   
+            <li class="has-child mega-menu-header-container  ">
+                <span>
+                    <a href="https://www.lasalle.ca/business-building-and-development/" >Business, Building and Development</a>
+                </span>
+
+                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Business, Building and Development">
+                        <span aria-hidden="true" class="sr-only">Expand sub pages Business, Building and Development</span>
+                    </button>
+                    <div class="mega-menu header-container items-3">
+                        <div class="menu-container">
+                            
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="https://lasalle.bidsandtenders.ca/Module/Tenders/en" target="_blank">Bids and Tenders</a></li>
+                        <li class=""><a href="/business-building-and-development/building-and-demolition-permits/" target="_self">Building and Demolition Permits</a></li>
+                        <li class=""><a href="/business-building-and-development/business-directory/" target="_self">Business Directory</a></li>
+                        <li class=""><a href="/business-building-and-development/development-and-parkland-dedication-charges/" target="_self">Development and Parkland Dedication Charges</a></li>
+        </ul>
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="/business-building-and-development/engineering/" target="_self">Engineering</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/recreation-culture-and-community/facilities-and-rentals/" target="_self">Facility Rentals</a></li>
+                        <li class=""><a href="/business-building-and-development/maps/" target="_self">Maps</a></li>
+                        <li class=""><a href="/business-building-and-development/planning-and-development/" target="_self">Planning and Development</a></li>
+        </ul>
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="https://www.lasalle.ca/business-building-and-development/engineering/right-of-way-permits/" target="_self">Right of Way Permits</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/business-building-and-development/building-and-renovating/sign-permits/" target="_self">Sign Permits</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/living-in-lasalle/water-and-utilities/" target="_self">Water and Utilities</a></li>
+                        <li class=""><a href="/business-building-and-development/zoning/" target="_self">Zoning</a></li>
+        </ul>
+
+                        </div>
+                    </div>
+            </li>   
+            <li class="has-child active mega-menu-header-container  ">
+                <span>
+                    <a href="https://www.lasalle.ca/town-hall/" >Town Hall</a>
+                </span>
+
+                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Town Hall">
+                        <span aria-hidden="true" class="sr-only">Expand sub pages Town Hall</span>
+                    </button>
+                    <div class="mega-menu header-container items-3">
+                        <div class="menu-container">
+                            
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="/town-hall/accessibility/" target="_self">Accessibility</a></li>
+                        <li class=""><a href="/town-hall/access-to-records-and-information/" target="_self">Access to Records and Information</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/town-hall/mayor-and-council/agendas-meetings-and-minutes/" target="_self">Agendas, Meetings and Minutes</a></li>
+                        <li class=""><a href="/town-hall/applications-licences-and-permits/" target="_self">Applications, Licences, and Permits</a></li>
+                        <li class=""><a href="https://lasalle.bidsandtenders.ca/Module/Tenders/en" target="_blank">Bids and Tenders</a></li>
+                        <li class=""><a href="/town-hall/budget-and-finance/" target="_self">Budget and Finance</a></li>
+                        <li class=""><a href="/town-hall/by-laws/" target="_self">By-laws</a></li>
+                        <li class=""><a href="/town-hall/boards-and-committees/" target="_self">Boards and Committees</a></li>
+        </ul>
+        <ul class="justify-content-start text-left">
+                        <li class=""><a href="https://www.lasalle.ca/news/categories/cancellations-and-closures/" target="_blank">Cancellations and Closures</a></li>
+                        <li class=""><a href="/town-hall/careers/" target="_self">Careers</a></li>
+                        <li class=""><a href="/town-hall/commissioning-documents/" target="_self">Commissioning Documents</a></li>
+                        <li class=""><a href="/town-hall/contact-us/" target="_self">Contact Us</a></li>
+                        <li class=""><a href="/town-hall/customer-service/" target="_self">Customer Service</a></li>
+                        <li class=""><a href="/town-hall/departments/" target="_self">Departments</a></li>
+                        <li class=""><a href="/town-hall/elections/" target="_self">Elections</a></li>
+                        <li class=""><a href="/town-hall/get-involved-lasalle/" target="_self">Get Involved, LaSalle</a></li>
+        </ul>
+        <ul class="justify-content-start text-left">
+                        <li class="active"><a href="/town-hall/mayor-and-council/" target="_self">Mayor and Council</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/news/" target="_blank">News</a></li>
+                        <li class=""><a href="/town-hall/plans-reports-and-studies/" target="_self">Plans, Reports, and Studies</a></li>
+                        <li class=""><a href="/town-hall/policies/" target="_self">Policies</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/living-in-lasalle/property-taxes/" target="_self">Property Taxes</a></li>
+                        <li class=""><a href="https://www.lasalle.ca/living-in-lasalle/roads-and-traffic/" target="_self">Roads and Traffic</a></li>
+                        <li class=""><a href="/town-hall/strategic-plan/" target="_self">Strategic Plan</a></li>
+        </ul>
+
+                        </div>
+                    </div>
+            </li>   
+            </ul>
+        </nav>
+                <!--// Main navigation -->
+                <!-- Secondary navigation -->
+                
+        <nav aria-label="Secondary" class="secondary nav-dropdown navigation-dropdown-bg navigation-dropdown-bg-solid">
+            <ul>
+                            <li><span><a href="https://www.lasalle.ca/living-in-lasalle/a-to-z-services/"  >A to Z Services</a></span></li>
+                            <li><span><a href="https://www.lasalle.ca/town-hall/accessibility/"  >Accessibility</a></span></li>
+                            <li><span><a href="https://www.lasalle.ca/town-hall/careers/"  >Careers</a></span></li>
+                            <li><span><a href="https://www.lasalle.ca/town-hall/contact-us/"  >Contact Us</a></span></li>
+                            <li><span><a href="https://forms.lasalle.ca/Contact/Website-Feedback"  >Website Feedback</a></span></li>
+
+            </ul>
+        </nav>
+
+                <!--// Secondary navigation -->
+                <!-- CTA Links -->
+                
+                <!--// CTA Links -->
+                <!-- Site search -->
+                <!--// Site search -->
+                <!-- Site search Advanced -->
+                                            <div class="form site-search-form site-search radio-topnav">
+                                <div class="gs-search-popup-wrapper">
+                                        <div class="gs-search-inputs">
+
+
+    <!-- GOOGLE SEARCH -->
+        <div class="search-form-container google_search_field-topnav" data-placeholder="" data-engine-id="017273995811521060892:1l_mbjsftum  " data-btn="base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid" name="google_search_field-topnav" data-selector="GOVGoogleSearch">
+            <div class="google-search-container site-search-input" aria-label="Site search" data-search="Search">
+                <gcse:searchbox-only></gcse:searchbox-only>
+            </div>
+        </div>
+    <!--// GOOGLE SEARCH -->
+
+                                        </div>
+
+    <!-- SEARCH SELECTION -->
+    <!--// SEARCH SELECTION -->
+
+                                </div>
+
+                                <button class="expand-search" type="button" data-toggle="collapse" aria-label="Expand site search">
+                                    <em>Expand Search</em>
+                                    <i aria-hidden="true" class="icon usn_ion-ios-search search-icon"></i>
+                                    <i aria-hidden="true" class="icon usn_ion-md-close close-icon" tabindex="0"></i>
+                                </button>
+                            </div>
+
+                <!--// Site search Advanced -->
+
+            </div>
+
+        </div>
+    </header>
+
+
+        <!--// Header -->
+        <!-- Content -->
+        <main id="site-content" tabindex="-1">
+
+            
+            
+
+    <section class="content component usn_cmp_banner base-bg base-bg-solid p-0 discover-interior-banner" >  
+
+        <div class="component-inner">
+
+
+                                <div class="item item_overlay item_short-banner  c2-bg c2-bg-solid ">
+
+                            <!-- IMAGE -->
+                            <div class="image lazyload background-image "  style="background-image:url('/media/mqjecmhh/council-chambers-view-2-looking-into-chambers-from-atrium.jpg?rxy=0.4911596741368017,0.6284706382904063&width=750&height=100&v=1dba4d5d99c9ab0&format=webp')"  data-bgset="/media/mqjecmhh/council-chambers-view-2-looking-into-chambers-from-atrium.jpg?rxy=0.4911596741368017,0.6284706382904063&width=3000&height=1000&v=1dba4d5d99c9ab0&format=webp [type:image/webp] | /media/mqjecmhh/council-chambers-view-2-looking-into-chambers-from-atrium.jpg?rxy=0.4911596741368017,0.6284706382904063&width=3000&height=1000&v=1dba4d5d99c9ab0 1x" data-sizes="auto"   role="img" aria-label="">
+
+                            </div>
+                            <!--// IMAGE -->
+
+                    </div>
+
+
+
+        </div>
+    </section>
+    <section class="content component usn_cmp_breadcrumb base-bg base-bg-solid  " >  
+
+        <div class="component-inner">
+                    <div class="container">
+
+
+                <section class="breadcrumb-trail " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+        
+            <nav aria-label="Breadcrumb">
+                <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name"><i class="icon before"></i>Home</span></a><meta itemprop="position" content="1" /></li>
+                        <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/town-hall/" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name"><i class="icon before"></i>Town Hall</span></a><meta itemprop="position" content="2" /></li>
+
+                        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item active" aria-current="page"><span itemprop="name"><i class="icon before"></i>Mayor and Council</span><meta itemprop="position" content="3" /></li>
+                </ol>
+            </nav>
+        
+    </section>
+
+
+
+                    </div>
+        </div>
+    </section>
+
+
+
+
+
+    <section class="content component base-bg base-bg-solid"><div class="container">        <!-- Row -->
+        <div class="row">
+            <div class="heading-col col">
+
+
+                <h1 class="heading main base-heading">Mayor and Council</h1>
+
+                    <!-- For GS Mobile Subnav -->
+                            <button class="gs-subnav-trigger" type="button" aria-controls="gs-subnav-wrapper" aria-expanded="false" aria-label="Toggle sub navigation">
+                                <span aria-hidden="true"></span>
+                                <span class="triggerText">Section Menu</span>
+                            </button>
+
+            </div>
+        </div>
+        <!--// Row -->
+<div class="row justify-content-between">
+    <!-- Content column -->
+    <div class="content-col left-col col-lg-8 col-12 order-1">
+
+            <section class="content component usn_cmp_pods base-bg base-bg-solid  " >  
+
+        <div class="component-inner">
+
+
+
+                        <div class="component-main row listing  listing_basic-grid listing-pods " >
+            <div class="item   items-3 col-12 item_text-below usn_pod_textimage    text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner  ">
+                    <div class="image  imageOriginal ">
+                                    <picture>
+                <source type="image/webp" data-srcset="/media/ibedt5i5/52-town-of-lasalle-council-meloche-edited.jpg?width=819&amp;height=1024&format=webp 1x" width="204" height="256">
+                    <img class="lazyload" src="/media/ibedt5i5/52-town-of-lasalle-council-meloche-edited.jpg?width=204&amp;height=256&format=webp" width="204" height="256" data-srcset="/media/ibedt5i5/52-town-of-lasalle-council-meloche-edited.jpg?width=819&amp;height=1024&format=webp 1x" alt="Mayor Crystal Meloche">
+            </picture>
+
+                    </div>
+                    <div class="info ">
+
+                        <p class="heading sm base-heading " >Mayor Crystal Meloche</p>
+
+                            <div class="text base-text">
+                                <p><a href="mailto:cmeloche@lasalle.ca">E-Mail the Mayor</a></p>
+<p><a href="/town-hall/mayor-and-council/mayor-crystal-meloche/" title="View our Mayor Crystal Meloche page">Visit the Mayor's Page</a></p>
+<p>519-969-7770 ext. 1391</p>
+<p>519-818-6666</p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+            <div class="item   items-3 col-12 item_text-below usn_pod_textimage    text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner  ">
+                    <div class="image  imageOriginal ">
+                                    <picture>
+                <source type="image/webp" data-srcset="/media/ktthevwp/46-town-of-lasalle-council-akpata-edited.jpg?width=819&amp;height=1024&format=webp 1x" width="204" height="256">
+                    <img class="lazyload" src="/media/ktthevwp/46-town-of-lasalle-council-akpata-edited.jpg?width=204&amp;height=256&format=webp" width="204" height="256" data-srcset="/media/ktthevwp/46-town-of-lasalle-council-akpata-edited.jpg?width=819&amp;height=1024&format=webp 1x" alt="Deputy Mayor Michael Akpata">
+            </picture>
+
+                    </div>
+                    <div class="info ">
+
+                        <p class="heading sm base-heading " >Deputy Mayor Michael Akpata</p>
+
+                            <div class="text base-text">
+                                <p><a href="mailto:makpata@lasalle.ca">E-Mail the Deputy Mayor</a></p>
+<p>519-969-7770 ext. 1395</p>
+<p>519-796-3472</p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+            </div>
+
+
+
+
+        </div>
+    </section>
+    <section class="content component usn_cmp_pods base-bg base-bg-solid  " >  
+
+        <div class="component-inner">
+
+
+
+                        <div class="component-main row listing  listing_basic-grid listing-pods " >
+            <div class="item   items-3 col-12 item_text-below usn_pod_textimage    text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner  ">
+                    <div class="image  imageOriginal ">
+                                    <picture>
+                <source type="image/webp" data-srcset="/media/hdnpbt2o/47-town-of-lasalle-council-burns-edited_.jpg?width=819&amp;height=1024&format=webp 1x" width="204" height="256">
+                    <img class="lazyload" src="/media/hdnpbt2o/47-town-of-lasalle-council-burns-edited_.jpg?width=204&amp;height=256&format=webp" width="204" height="256" data-srcset="/media/hdnpbt2o/47-town-of-lasalle-council-burns-edited_.jpg?width=819&amp;height=1024&format=webp 1x" alt="Councillor Terry Burns">
+            </picture>
+
+                    </div>
+                    <div class="info ">
+
+                        <p class="heading sm base-heading " >Councillor Terry Burns</p>
+
+                            <div class="text base-text">
+                                <p><a href="mailto:tburns@lasalle.ca">E-Mail Councillor Burns</a></p>
+<p>519-969-7770 ext. 1393</p>
+<p>519-919-2475</p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+            <div class="item   items-3 col-12 item_text-below usn_pod_textimage    text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner  ">
+                    <div class="image  imageOriginal ">
+                                    <picture>
+                <source type="image/webp" data-srcset="/media/ok0nz0em/48-town-of-lasalle-council-carrick-edited.jpg?width=819&amp;height=1024&format=webp 1x" width="204" height="256">
+                    <img class="lazyload" src="/media/ok0nz0em/48-town-of-lasalle-council-carrick-edited.jpg?width=204&amp;height=256&format=webp" width="204" height="256" data-srcset="/media/ok0nz0em/48-town-of-lasalle-council-carrick-edited.jpg?width=819&amp;height=1024&format=webp 1x" alt="Councillor Mark Carrick">
+            </picture>
+
+                    </div>
+                    <div class="info ">
+
+                        <p class="heading sm base-heading " >Councillor Mark Carrick</p>
+
+                            <div class="text base-text">
+                                <p><a href="mailto:mcarrick@lasalle.ca">E-Mail Councillor Carrick</a></p>
+<p>519-796-3508</p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+            </div>
+
+
+
+
+        </div>
+    </section>
+    <section class="content component usn_cmp_pods base-bg base-bg-solid  " >  
+
+        <div class="component-inner">
+
+
+
+                        <div class="component-main row listing  listing_basic-grid listing-pods " >
+            <div class="item   items-3 col-12 item_text-below usn_pod_textimage    text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner  ">
+                    <div class="image  imageOriginal ">
+                                    <picture>
+                <source type="image/webp" data-srcset="/media/cmbc0edz/50.jpg?width=819&amp;height=1024&format=webp 1x" width="204" height="256">
+                    <img class="lazyload" src="/media/cmbc0edz/50.jpg?width=204&amp;height=256&format=webp" width="204" height="256" data-srcset="/media/cmbc0edz/50.jpg?width=819&amp;height=1024&format=webp 1x" alt="Councillor Jeff Renaud">
+            </picture>
+
+                    </div>
+                    <div class="info ">
+
+                        <p class="heading sm base-heading " >Councillor Jeff Renaud</p>
+
+                            <div class="text base-text">
+                                <div class="lb-callToAction_content">
+<p><a href="mailto:jrenaud@lasalle.ca">E-Mail Councillor Renaud</a></p>
+<p>519-969-7770 ext. 1397</p>
+<p>519-816-0371</p>
+</div>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+            <div class="item   items-3 col-12 item_text-below usn_pod_textimage    text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner  ">
+                    <div class="image  imageOriginal ">
+                                    <picture>
+                <source type="image/webp" data-srcset="/media/js3hdikn/51-town-of-lasalle-council-riccio-spagnuolo-edited.jpg?width=819&amp;height=1024&format=webp 1x" width="204" height="256">
+                    <img class="lazyload" src="/media/js3hdikn/51-town-of-lasalle-council-riccio-spagnuolo-edited.jpg?width=204&amp;height=256&format=webp" width="204" height="256" data-srcset="/media/js3hdikn/51-town-of-lasalle-council-riccio-spagnuolo-edited.jpg?width=819&amp;height=1024&format=webp 1x" alt="Councillor Anita Riccio-Spagnuolo">
+            </picture>
+
+                    </div>
+                    <div class="info ">
+
+                        <p class="heading sm base-heading " >Councillor Anita Riccio-Spagnuolo</p>
+
+                            <div class="text base-text">
+                                <div class="lb-callToAction_content">
+<p><a href="mailto:ARiccio-Spagnuolo@lasalle.ca">E-Mail Councillor Riccio-Spagnuolo</a></p>
+<p>519-969-7770 ext. 1399</p>
+<p>519-990-3230</p>
+</div>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+            </div>
+
+
+
+
+        </div>
+    </section>
+    <section class="content component usn_cmp_anchoredaccordion base-bg base-bg-solid  " >  
+
+        <div class="component-inner">
+
+        <!-- Introduction -->
+        <div class="component-introduction row justify-content-start text-left " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="info col">
+
+                
+
+                    <div class="text base-text">
+                        <h2> List of Past Council Members</h2>
+                    </div>
+            </div>
+        </div>
+        <!--// Introduction -->
+
+
+                        <div class="repeatable accordion anchored-accordion tab-basic " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_1" name="2022-2026" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_1" role="button">
+                                2022-2026
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_1" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-1" class="AccordionContent" aria-labelledby="AccordionTitle-2-1" aria-hidden="false">
+<p>Mayor - Crystal Meloche</p>
+<p>Deputy Mayor - Michael Akpata</p>
+<p>Councillor - Terry Burns</p>
+<p>Councillor - Mark Carrick</p>
+<p>Councillor - Sue Desjarlais (*in memory of Councillor Desjarlais who passed on April 21, 2025)</p>
+<p>Councillor - Jeff Renaud</p>
+<p>Councillor - Anita Riccio-Spagnuolo</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_2" name="2018-2022" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_2" role="button">
+                                2018-2022
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_2" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-2" class="AccordionContent" aria-labelledby="AccordionTitle-2-2" aria-hidden="false">
+<p>Mayor - Marc Bondy</p>
+<p>Deputy Mayor - Crystal Meloche</p>
+<p>Councillor - Michael Akpata</p>
+<p>Councillor - Mark Carrick</p>
+<p>Councillor - Sue Desjarlais</p>
+<p>Councillor - Jeff Renaud</p>
+<p>Councillor - Anita Riccio-Spagnuolo</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_3" name="2014-2018" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_3" role="button">
+                                2014 - 2018
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_3" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-3" class="AccordionContent" aria-labelledby="AccordionTitle-2-3" aria-hidden="false">
+<p>Mayor - Ken Antaya</p>
+<p>Deputy Mayor - Marc Bondy</p>
+<p>Councillor - Michael Akpata</p>
+<p>Councillor - Crystal Meloche</p>
+<p>Councillor - Sue Desjarlais</p>
+<p>Councillor - Terry Burns</p>
+<p>Councillor - Jeff Renaud</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_4" name="2010-2014" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_4" role="button">
+                                2010 - 2014
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_4" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-4" class="AccordionContent" aria-labelledby="AccordionTitle-2-4" aria-hidden="false">
+<p>Mayor - Ken Antaya</p>
+<p>Deputy Mayor - Mark Carrick</p>
+<p>Councillor - Marc Bondy</p>
+<p>Councillor - Crystal Meloche</p>
+<p>Councillor - Sue Desjarlais</p>
+<p>Councillor - Terry Burns</p>
+<p>Councillor - Ray Renaud</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_5" name="2006-2010" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_5" role="button">
+                                2006 - 2010
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_5" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-5" class="AccordionContent" aria-labelledby="AccordionTitle-2-5" aria-hidden="false">
+<p>Mayor - Gary Baxter</p>
+<p>Deputy Mayor - Mark Carrick</p>
+<p>Councillor - Terry Burns</p>
+<p>Councillor - Sue Desjarlais</p>
+<p>Councillor - Wayne Fortin</p>
+<p>Councillor - Ray Renaud</p>
+<p>Councillor - William (Bill) Varga</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_6" name="2003-2006" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_6" role="button">
+                                2003 - 2006
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_6" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-6" class="AccordionContent" aria-labelledby="AccordionTitle-2-6" aria-hidden="false">
+<p>Mayor - Mike Raymond</p>
+<p>Deputy Mayor - William (Bill) Varga</p>
+<p>Councillor - Gary Baxter</p>
+<p>Councillor - Terry Burns</p>
+<p>Councillor - Mark Carrick</p>
+<p>Councillor - Sue Hamdon</p>
+<p>Councillor - Ray Renaud</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_7" name="2000-2003" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_7" role="button">
+                                2000 - 2003
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_7" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-7" class="AccordionContent" aria-labelledby="AccordionTitle-2-7" aria-hidden="false">
+<p>Mayor - William (Bill) Varga</p>
+<p>Deputy Mayor - Mike Raymond</p>
+<p>Councillor - Gary Baxter</p>
+<p>Councillor - Sue Hamdon</p>
+<p>Councillor - Mark Carrick</p>
+<p>Councillor - John Tedesco</p>
+<p>Councillor - Ray Renaud</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_8" name="1997-2000" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_8" role="button">
+                                1997 - 2000
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_8" class="info repeatable-content collapse  ">
+                            <div class="text"><div class="AccordionTrigger open"></div>
+<div id="AccordionPanel-2-8" class="AccordionContent" aria-labelledby="AccordionTitle-2-8" aria-hidden="false">
+<p>Mayor - Vince Marcotte</p>
+<p>Deputy Mayor - William (Bill) Varga</p>
+<p>Councillor - Gary Baxter</p>
+<p>Councillor - Terry Burns</p>
+<p>Councillor - Dennis Pare</p>
+<p>Councillor - Judy Recker</p>
+<p>Councillor - John Tedesco</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_9" name="1994-1997" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_9" role="button">
+                                1994 - 1997
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_9" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-9" class="AccordionContent" aria-labelledby="AccordionTitle-2-9" aria-hidden="false">
+<p>Mayor - Vince Marcotte</p>
+<p>Deputy Mayor - William (Bill) Varga</p>
+<p>Councillor - Terry Burns</p>
+<p>Councillor - Joe Durocher</p>
+<p>Councillor - Judy Recker</p>
+<p>Councillor - John Tedesco</p>
+<p>Councillor - Ray Renaud</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_10" name="1991-1994" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_10" role="button">
+                                1991 - 1994
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_10" class="info repeatable-content collapse  ">
+                            <div class="text"><div class="AccordionTrigger open"></div>
+<div id="AccordionPanel-2-10" class="AccordionContent" aria-labelledby="AccordionTitle-2-10" aria-hidden="false">
+<p>Mayor - Vince Marcotte</p>
+<p>Deputy Mayor - William (Bill) Varga</p>
+<p>Councillor - Terry Burns</p>
+<p>Councillor - Joe Durocher</p>
+<p>Councillor - Mike Raymond</p>
+<p>Councillor - Judy Recker</p>
+<p>Councillor - John Tedesco</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_11" name="1988-1990,TownshipofSandwichWest" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_11" role="button">
+                                1988 - 1990, Township of Sandwich West
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_11" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-11" class="AccordionContent" aria-labelledby="AccordionTitle-2-11" aria-hidden="false">
+<p>Reeve - Vince Marcotte</p>
+<p>Deputy Reeve - William (Bill) Varga</p>
+<p>Councillor - Ron Arkell</p>
+<p>Councillor - Joe Durocher</p>
+<p>Councillor - Mike Raymond</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_12" name="1985-1988,TownshipofSandwichWest" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_12" role="button">
+                                1985 - 1988, Township of Sandwich West
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_12" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-12" class="AccordionContent" aria-labelledby="AccordionTitle-2-12" aria-hidden="false">
+<p>Reeve - Vince Marcotte</p>
+<p>Deputy Reeve - William (Bill) Varga</p>
+<p>Councillor - Ron Arkell</p>
+<p>Councillor - Rick Boughner</p>
+<p>Councillor - Mike Raymond</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_13" name="1982-1985,TownshipofSandwichWest" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_13" role="button">
+                                1982 - 1985, Township of Sandwich West
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_13" class="info repeatable-content collapse  ">
+                            <div class="text"><div id="AccordionPanel-2-13" class="AccordionContent" aria-labelledby="AccordionTitle-2-13" aria-hidden="false">
+<p>Reeve - John Menard</p>
+<p>Deputy Reeve - Eddie Pare</p>
+<p>Councillor - Rick Boughner</p>
+<p>Councillor - Ron Brunet</p>
+<p>Councillor - Vince Marcotte</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_14" name="1980-1982,TownshipofSandwichWest&#xA0;" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_14" role="button">
+                                1980 - 1982, Township of Sandwich West 
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_14" class="info repeatable-content collapse  ">
+                            <div class="text"><div class="AccordionTrigger open"></div>
+<div id="AccordionPanel-2-14" class="AccordionContent" aria-labelledby="AccordionTitle-2-14" aria-hidden="false">
+<p>Reeve - John Menard</p>
+<p>Deputy Reeve - William (Bill) Varga</p>
+<p>Councillor - Reuben Green</p>
+<p>Councillor - Ron Brunet</p>
+<p>Councillor - Vince Marcotte</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_15" name="1977-1980,TownshipofSandwichWest" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_15" role="button">
+                                1977 - 1980, Township of Sandwich West
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_15" class="info repeatable-content collapse  ">
+                            <div class="text"><div class="AccordionTrigger open"></div>
+<div id="AccordionPanel-2-15" class="AccordionContent" aria-labelledby="AccordionTitle-2-15" aria-hidden="false">
+<p>Reeve - John Menard</p>
+<p>Deputy Reeve - William (Bill) Varga</p>
+<p>Councillor - Ron Brunet</p>
+<p>Councillor - Vince Marcotte</p>
+<p>Councillor - Reuben Green (after Sep. 27, 1977)</p>
+<p>Councillor - Al Yaeck (to Sep. 27, 1977)</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_16" name="1975-1976,TownshipofSandwichWest" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_16" role="button">
+                                1975 - 1976, Township of Sandwich West
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_16" class="info repeatable-content collapse  ">
+                            <div class="text"><div class="AccordionTrigger open"></div>
+<div id="AccordionPanel-2-16" class="AccordionContent" aria-labelledby="AccordionTitle-2-16" aria-hidden="false">
+<p>Reeve - John Menard</p>
+<p>Deputy Reeve - Lucien Antaya</p>
+<p>Councillor - Reuben Green</p>
+<p>Councillor - William (Bill) Varga</p>
+<p>Councillor - Al Yaeck</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_17" name="1974,TownshipofSandwichWest" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_17" role="button">
+                                1974, Township of Sandwich West
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_17" class="info repeatable-content collapse  ">
+                            <div class="text"><div class="AccordionTrigger open"></div>
+<div id="AccordionPanel-2-17" class="AccordionContent" aria-labelledby="AccordionTitle-2-17" aria-hidden="false">
+<p>Reeve - H. Runstedler</p>
+<p>Deputy Reeve - John Menard</p>
+<p>Councillor - Lucien Antaya</p>
+<p>Councillor - James McArthur</p>
+<p>Councillor - William (Bill) Varga</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_18" name="1971-1973,TownshipofSandwichWest" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_18" role="button">
+                                1971 - 1973, Township of Sandwich West
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_18" class="info repeatable-content collapse  ">
+                            <div class="text"><div class="AccordionTrigger open"></div>
+<div id="AccordionPanel-2-18" class="AccordionContent" aria-labelledby="AccordionTitle-2-18" aria-hidden="false">
+<p>Reeve - H. Runstedler</p>
+<p>Deputy Reeve - Leonard Cecile</p>
+<p>Councillor - Lucien Antaya</p>
+<p>Councillor - James McArthur</p>
+<p>Councillor - John Menard</p>
+</div></div>
+                        </div>
+                        <p class="tab " >
+                        <a class="nav-link nav-button-link anchored-accordion-item collapsed" data-toggle="collapse" href="#collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_19" name="1968-1970,TownshipofSandwichWest" aria-expanded="false" aria-controls="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_19" role="button">
+                                1968 - 1970, Township of Sandwich West
+                            </a>
+                        </p>
+                        <div id="collapse_ab71dd40-945d-48dc-af31-b2fae7132fc7_19" class="info repeatable-content collapse  ">
+                            <div class="text"><div class="AccordionTrigger open"></div>
+<div id="AccordionPanel-2-19" class="AccordionContent" aria-labelledby="AccordionTitle-2-19" aria-hidden="false">
+<p>Reeve - L. Brunet</p>
+<p>Deputy Reeve - Leonard Cecile</p>
+<p>Councillor - Lucien Antaya</p>
+<p>Councillor - James McArthur</p>
+<p>Councillor - John Menard</p>
+</div></div>
+                        </div>
+            </div>
+
+
+
+
+        </div>
+    </section>
+
+
+
+
+    </div>
+    <!--// Content column -->
+    <!-- Second column -->
+    <div class="right-col col-xl-3 col-lg-4 col-12 order-2">
+                <!-- Sub Navigation Advanced -->
+                <div id="gs-subnav-desktop" aria-label="Sub pages" class="sub">
+                    <div id="gs-subnav-wrapper" class="subnav-cross subnav-title-top">
+                        <nav id="gs-subnav-container" aria-labelledby="gs-subnav-title">
+                            <div id="gs-subnav-title" class="gs-subnav-main-title">
+                                <a href="/town-hall/">
+                                    <span>Town Hall</span>
+                                </a>
+                        </div>
+                            <ul class="gs-subnav gs-subnav-top">
+                                <li class="with-children open">
+                                    <!-- disabled -->
+                                    <a href="/town-hall/mayor-and-council/">
+                                        <span>Mayor and Council</span>
+                                    </a>
+                                    <button class="toggle" type="button" aria-expanded="false">
+                                        <span class="sr-only">Toggle Section</span>
+                                    </button>
+                                    <!-- //disabled -->
+                                    <ul id="gs-subnav-dropdown-0">
+                                        <li class="with-children open">
+                                                <a href="/town-hall/mayor-and-council/"   class="current">
+                                                    <span>Mayor and Council</span>
+                                                </a>
+                                                <button class="toggle" type="button" aria-expanded="false" aria-controls="gs-subnav-dropdown-1">
+                                                    <span class="sr-only">Toggle Section</span>
+                                                </button>
+            <ul>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/mayor-and-council/agendas-meetings-and-minutes/"  class=""><span>
+Agendas, Meetings and Minutes                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/mayor-and-council/agendas-meetings-and-minutes/closed-council-meetings/"  class=""><span>
+Closed Council Meetings                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/mayor-and-council/mayor-crystal-meloche/"  class=""><span>
+Mayor Crystal Meloche                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/mayor-and-council/mayor-crystal-meloche/message-from-the-mayor/"  class=""><span>
+Message from the Mayor                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/mayor-and-council/speaking-before-council/"  class=""><span>
+Speaking Before Council                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/mayor-and-council/strong-mayor-powers/"  class=""><span>
+Strong Mayor Powers                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/mayor-and-council/submit-a-petition/"  class=""><span>
+Submit a Petition                                </span></a>
+                            </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/mayor-and-council/transparency-and-accountability/"  class=""><span>
+Transparency and Accountability                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/mayor-and-council/transparency-and-accountability/disclosure-of-pecuniary-interest/"  class=""><span>
+Disclosure of Pecuniary Interest                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/mayor-and-council/transparency-and-accountability/integrity-commissioner/"  class=""><span>
+Integrity Commissioner                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+			                <ul class="gs-subnav gs-subnav-bottom">
+                                <li class="with-children">
+					                <div class="gs-subnav-extended-wrapper">
+                                    <a href="#" class="gs-subnav-extended-link" role="button" aria-expanded="false" data-open-title="View Full Menu" data-close-title="Close Full Menu" aria-controls="gs-subnav-extended-menu"><span>View Full Menu</span></a>
+                                    <button class="gs-subnav-extended-toggle toggle" type="button" aria-controls="gs-subnav-extended-menu" aria-expanded="false"><span class="sr-only">Toggle Section</span></button>
+					                </div>
+        <ul id="gs-subnav-extended-menu">
+                        <li  class="with-children">
+                            <a target="_self" href="/town-hall/accessibility/"><span>
+Accessibility                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/access-to-records-and-information/"  class=""><span>
+Access to Records and Information                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/access-to-records-and-information/freedom-of-information-request/"  class=""><span>
+Freedom of Information Request                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/access-to-records-and-information/privacy/"  class=""><span>
+Privacy                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/access-to-records-and-information/routine-disclosure/"  class=""><span>
+Routine Disclosure                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="https://www.lasalle.ca/town-hall/mayor-and-council/agendas-meetings-and-minutes/"><span>
+Agendas, Meetings and Minutes                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/applications-licences-and-permits/"  class=""><span>
+Applications, Licences, and Permits                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/living-in-lasalle/fire-service/inspections-permits-and-records/"  class=""><span>
+Fireworks Permit                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/recreation-culture-and-community/recreation-and-sports/shop-town-of-lasalle/"  class=""><span>
+Flag Purchase                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/applications-licences-and-permits/flag-raising/"  class=""><span>
+Flag Raising                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/applications-licences-and-permits/liquor-licence/"  class=""><span>
+Liquor Licence                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/applications-licences-and-permits/lottery-licence/"  class=""><span>
+Lottery Licence                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/applications-licences-and-permits/marriage-licences-and-civil-services/"  class=""><span>
+Marriage Licences and Civil Services                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/town-hall/by-laws/noise-by-law-exemption/"  class=""><span>
+Noise By-Law Exemptions                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/business-building-and-development/building-and-renovating/sign-permits/"  class=""><span>
+Signs Permits                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_blank" href="https://lasalle.bidsandtenders.ca/Module/Tenders/en"><span>
+Bids and Tenders                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/budget-and-finance/"  class=""><span>
+Budget and Finance                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/town-hall/by-laws/administrative-monetary-penalty-system-amps/"  class=""><span>
+Administrative Monetary Penalty System (AMPS)                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/budget-and-finance/fee-schedule/"  class=""><span>
+Fee Schedule                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_blank" href="https://vadim.lasalle.ca:9191/"  class=""><span>
+Online Services                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/living-in-lasalle/property-taxes/pay-my-property-taxes/"  class=""><span>
+Pay My Property Taxes                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/living-in-lasalle/water-and-utilities/water-and-wastewater/pay-my-water-bill/"  class=""><span>
+Pay My Water Bill                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/by-laws/"  class=""><span>
+By-laws                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/by-laws/administrative-monetary-penalty-system-amps/"  class=""><span>
+Administrative Monetary Penalty System (AMPS)                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/living-in-lasalle/animals/"  class=""><span>
+Animals                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/by-laws/by-law-enforcement/"  class=""><span>
+By-law Enforcement                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/business-building-and-development/building-and-renovating/pools-and-fences/"  class=""><span>
+Fences and Pools By-law                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/by-laws/noise-by-law-exemption/"  class=""><span>
+Noise By-law Exemption                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/boards-and-committees/"  class=""><span>
+Boards and Committees                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/boards-and-committees/speak-at-a-commitee-meeting/"  class=""><span>
+Speak at a Commitee Meeting                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/boards-and-committees/accessibility-advisory-committee/"  class=""><span>
+Accessibility Advisory Committee                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/boards-and-committees/committee-of-adjustment/"  class=""><span>
+Committee of Adjustment                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/boards-and-committees/court-of-revision/"  class=""><span>
+Court of Revision                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/boards-and-committees/election-compliance-audit-committee/"  class=""><span>
+Election Compliance Audit Committee                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/boards-and-committees/parks-recreation-and-events-committee/"  class=""><span>
+Parks, Recreation and Events Committee                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_blank" href="https://www.lasalle.ca/living-in-lasalle/lasalle-police-service/police-services-board/"  class=""><span>
+Police Service Board                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/boards-and-committees/waster-and-wastewater-committee/"  class=""><span>
+Waster and Wastewater Committee                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_blank" href="https://www.lasalle.ca/news/categories/cancellations-and-closures/"><span>
+Cancellations and Closures                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/careers/"  class=""><span>
+Careers                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/careers/why-lasalle/"  class=""><span>
+Why LaSalle?                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/careers/types-of-employment/"  class=""><span>
+Types of Employment                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/careers/frequently-asked-questions/"  class=""><span>
+Frequently Asked Questions                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/careers/our-values/"  class=""><span>
+Our Values                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/town-hall/commissioning-documents/"><span>
+Commissioning Documents                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/contact-us/"  class=""><span>
+Contact Us                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/umbraco/preview/?id=14258&amp;culture=en-US"  class=""><span>
+Customer Service                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/contact-us/staff-directory/"  class=""><span>
+Staff Directory                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/contact-us/stay-connected/"  class=""><span>
+Stay Connected                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/town-hall/customer-service/"><span>
+Customer Service                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/departments/"  class=""><span>
+Departments                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/departments/administration/"  class=""><span>
+Administration                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/departments/council-services/"  class=""><span>
+Council Services                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/departments/culture-and-recreation/"  class=""><span>
+Culture and Recreation                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/departments/finance/"  class=""><span>
+Finance                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/departments/human-resources/"  class=""><span>
+Human Resources                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/living-in-lasalle/fire-service/"  class=""><span>
+LaSalle Fire Service                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/living-in-lasalle/lasalle-police-service/"  class=""><span>
+LaSalle Police Services                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/business-building-and-development/planning-and-development/"  class=""><span>
+Planning and Development                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/departments/public-works/"  class=""><span>
+Public Works                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/departments/strategy-and-engagement/"  class=""><span>
+Strategy and Engagement                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/elections/"  class=""><span>
+Elections                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/elections/voter-information/"  class=""><span>
+Voter Information                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/elections/candidate-information/"  class=""><span>
+Candidate Information                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/elections/third-party-advertiser-information/"  class=""><span>
+Third Party Advertiser Information                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/elections/election-resources/"  class=""><span>
+Election Resources                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/elections/accessible-election/"  class=""><span>
+Accessible Election                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/elections/2022-municipal-and-school-board-election/"  class=""><span>
+2022 Municipal and School Board Election                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/town-hall/get-involved-lasalle/"><span>
+Get Involved, LaSalle                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_blank" href="https://www.lasalle.ca/news/"><span>
+News                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/"  class=""><span>
+Plans, Reports, and Studies                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/parks-recreation-and-culture-master-plan/"  class=""><span>
+Parks, Recreation and Culture Master Plan                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="https://www.lasalle.ca/town-hall/strategic-plan/strategic-plan-update/"  class=""><span>
+Town of LaSalle Strategic Plan Update                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/lasalle-waterfront-district-plan/"  class=""><span>
+LaSalle Waterfront District Plan                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/lasalle-landing-waterfront/"  class=""><span>
+LaSalle Landing Waterfront                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/howard-bouffard-secondary-plan/"  class=""><span>
+Howard Bouffard Secondary Plan                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/howard-bouffard-master-drainage-study/"  class=""><span>
+Howard Bouffard Master Drainage Study                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_blank" href="https://www.placespeak.com/en/topic/6535-lasalle-detroit-river-storm-sewer-outfalls/#/overview"  class=""><span>
+LaSalle Detroit River Storm Sewer Outfalls                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/malden-road-ea/"  class=""><span>
+Malden Road EA                                </span></a>
+                            </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/completed-projects/"  class=""><span>
+Completed Projects                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/completed-projects/bouffard-howard-planning-districts/"  class=""><span>
+Bouffard &amp; Howard Planning Districts                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/completed-projects/comprehensive-zoning-by-law/"  class=""><span>
+Comprehensive Zoning By-law                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/completed-projects/economic-development-strategic-plan/"  class=""><span>
+Economic Development Strategic Plan                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/completed-projects/heritage-estates-and-oliver-farms/"  class=""><span>
+Heritage Estates and Oliver Farms                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/completed-projects/three-fire-station-model/"  class=""><span>
+Three Fire Station Model                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/town-hall/plans-reports-and-studies/completed-projects/transportation-and-active-transportation-master-plan/"  class=""><span>
+Transportation and Active Transportation Master Plan                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/town-hall/policies/"><span>
+Policies                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="https://www.lasalle.ca/living-in-lasalle/property-taxes/"><span>
+Property Taxes                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="https://www.lasalle.ca/living-in-lasalle/roads-and-traffic/"><span>
+Roads and Traffic                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/strategic-plan/"  class=""><span>
+Strategic Plan                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li  class="with-children">
+                                <a target="_self" href="/town-hall/strategic-plan/strategic-plan-update/"  class=""><span>
+Strategic Plan Update                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/town-hall/strategic-plan/strategic-plan-update/five-strategic-goals/"  class=""><span>
+Five Strategic Goals                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+            </ul>
+                            </li>
+        </ul>
+                                </li>
+			                </ul>
+                        </nav>
+                    </div>
+                </div>
+                <!--// Sub Navigation Advanced -->
+        <!-- Pods -->
+        <div class="swp">
+
+                <div class="listing listing-pods">
+
+            <div class="item item_has-bg  swp-item item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner c3-bg c3-bg-solid  ">
+                    <div class="info ">
+
+                        <p class="heading  c3-heading " >Contact Us</p>
+
+                            <div class="text c3-text">
+                                <p><strong data-renderer-mark="true">Town of LaSalle</strong><br>5950 Malden Road<br>LaSalle, ON N9H 1S4<br>T. <a href="tel://5199697770" title="tel://5199697770" class="css-1rn59kg" data-testid="link-with-safety" data-renderer-mark="true"><strong data-renderer-mark="true">519-969-7770</strong></a><br>F. <a href="tel://5199694469" title="tel://5199694469" class="css-1rn59kg" data-testid="link-with-safety" data-renderer-mark="true"><strong data-renderer-mark="true">519-969-4469</strong></a><br><a rel="noopener" href="http://maps.google.com/maps?f=d&amp;source=s_d&amp;daddr=5950+Malden+Road,+LaSalle,+ON" target="_blank" title="http://maps.google.com/maps?f=d&amp;source=s_d&amp;daddr=5950+Malden+Road,+LaSalle,+ON" class="css-1rn59kg" data-testid="link-with-safety" data-renderer-mark="true" data-anchor="?f=d&amp;source=s_d&amp;daddr=5950+Malden+Road,+LaSalle,+ON"><strong data-renderer-mark="true">Map this Location</strong></a></p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+
+
+                </div>
+
+        </div>
+        <!--// Pods -->
+
+    </div>
+    <!--// Second column -->
+
+
+    </div></div></section> 
+
+
+
+
+
+
+            
+
+        </main>
+        <!--// Content -->
+        <!-- Footer -->
+                    <footer id="site-footer" class="footer-bg footer-bg-solid" tabindex="-1">
+
+                <!-- Breadcrumb -->
+                
+                <!--// Breadcrumb -->
+
+                <div class="container">
+
+                        <!-- Row -->
+                        <div class="row listing">
+
+                                        <div class="item footer-item usn_pod_image   col-lg-3 col-md-12 col-12 col grandview-footer-logo">
+                                                <div class="inner">
+                                                            <div class="image " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+
+                        <picture>
+                <source type="image/webp" data-srcset="/media/25caqe1k/lasalle-full-logo-white.png?width=3300&amp;height=1425&format=webp 1x" width="825" height="356">
+                    <img class="lazyload" src="/media/25caqe1k/lasalle-full-logo-white.png?width=825&amp;height=356&format=webp" width="825" height="356" data-srcset="/media/25caqe1k/lasalle-full-logo-white.png?width=3300&amp;height=1425&format=webp 1x" alt="">
+            </picture>
+
+
+        </div>
+
+                                                </div>
+                                        </div>
+            <div class="item  footer-item   col-lg-3 col-md-12 col-12 col  item_text-below usn_pod_textimage textAlignmentLeft  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="0.9s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        
+
+                            <div class="text footer-text">
+                                <p><strong data-renderer-mark="true">Town of LaSalle</strong><br>5950 Malden Road<br>LaSalle, ON N9H 1S4<br>T. <a href="tel://5199697770" title="tel://5199697770" class="css-1rn59kg" data-testid="link-with-safety" data-renderer-mark="true"><strong data-renderer-mark="true">519-969-7770</strong></a><br>F. <a href="tel://5199694469" title="tel://5199694469" class="css-1rn59kg" data-testid="link-with-safety" data-renderer-mark="true"><strong data-renderer-mark="true">519-969-4469</strong></a><br><a rel="noopener" href="http://maps.google.com/maps?f=d&amp;source=s_d&amp;daddr=5950+Malden+Road,+LaSalle,+ON" target="_blank" title="http://maps.google.com/maps?f=d&amp;source=s_d&amp;daddr=5950+Malden+Road,+LaSalle,+ON" class="css-1rn59kg" data-testid="link-with-safety" data-renderer-mark="true" data-anchor="?f=d&amp;source=s_d&amp;daddr=5950+Malden+Road,+LaSalle,+ON"><strong data-renderer-mark="true">Map this Location</strong></a></p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+            <div class="item  footer-item   col-lg-3 col-md-6 col-12 col  item_text-below usn_pod_textimage textAlignmentLeft  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="0.9s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading sm footer-heading " >Resources</p>
+
+                            <div class="text footer-text">
+                                <p><a href="/town-hall/accessibility/" title="Accessibility">Accessibility</a><br><a href="/town-hall/careers/" title="Careers">Careers</a><br><a rel="noopener" href="https://www.lasalle.ca/town-hall/contact-us/" target="_blank">Contact Us</a><br><a href="/town-hall/customer-service/" title="Customer Service Portal">Customer Service Request</a><br><a rel="noopener" href="https://www.lasalle.ca/news/" target="_blank">News</a></p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+                                        <div class="item footer-item usn_pod_sociallinks   col-lg-3 col-md-6 col-12 col ">
+                                                <div class="inner">
+                                                    <p class="heading sm footer-heading "  data-os-animation="fadeInDown" data-os-animation-delay="0s" data-os-animation-duration="1s" >Connect with Us</p>        <nav class="social " data-os-animation="fadeInDown" data-os-animation-delay="0s" data-os-animation-duration="1s" aria-label="Social links">
+
+            <ul>
+                        <li>
+                            <span>
+                                <a href="https://www.facebook.com/TownofLaSalle" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                            <img src="/media/1otpokoh/facebook_circle.svg" alt="Facebook Icon">
+                                        <span class="sr-only">Facebook</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                <a href="https://www.instagram.com/town_of_lasalle/" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                            <img src="/media/solbg45u/instagram_circle.svg" alt="Instagram Icon">
+                                        <span class="sr-only">Instagram</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                <a href="https://www.linkedin.com/company/town-of-lasalle-ontario/" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                            <img src="/media/endlbgup/linked_in_circle.svg" alt="LinkedIn Icon">
+                                        <span class="sr-only">LinkedIn</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                <a href="https://x.com/TownofLaSalle" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                            <img src="/media/lkmje5z1/x_circle.svg" alt="">
+                                        <span class="sr-only">Twitter</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                <a href="https://www.youtube.com/c/townoflasalleontario" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                            <img src="/media/4sahvgac/youtube_circle.svg" alt="YouTube Icon">
+                                        <span class="sr-only">YouTube</span>
+                                </a>
+                            </span>
+                        </li>
+            </ul>
+        </nav>
+
+                                                </div>
+                                        </div>
+
+                        </div>
+                        <!--// Row -->
+                    <!-- Row -->
+                    <div class="row">
+
+                        <div class="col">
+                            <nav aria-label="Footer" class="footer-navigation">
+                                <ul>
+                                    <li><div>&copy; 2025 Town of LaSalle</div></li>
+                                                    <li><span><a href="https://www.lasalle.ca/sitemap/"  >Sitemap</a></span></li>
+
+                                    <li class="site-credit">
+                                        <div>Made with </div>
+                                        <span><a target="_blank" rel="noopener" title="Link will open in a new window/tab" href="https://govstack.com/">Govstack</a></span>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+
+                    </div>
+                    <!--// Row -->
+
+                            <!-- Back to top -->
+        <div class="usn_back-to-top position-right">
+            <button id="back-to-top-link" aria-label="Back to top" class="btn base-btn-bg base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders btn-back-to-top">
+                <span></span>
+                <i aria-hidden="true" class="icon"></i><span aria-hidden="true" class="d-none">Back to top</span>
+            </button>
+        </div>
+        <!--// Back to top -->
+
+
+                </div>
+            </footer>
+
+        <!--// Footer -->
+
+    </div>
+    <!--// Site -->
+
+            <!-- Notification -->
+        <div class="usn-notification position-center base-bg closed" id="NotificationPanel">
+            <div class="inner">
+
+                
+
+                    <div class="text base-text">
+                        <p>This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our <a href="/town-hall/access-to-records-and-information/privacy/" title="Privacy">Privacy Policy</a>.</p>
+                    </div>
+                <p class="link">
+                    <button class="btn base-btn-bg base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders accept-cookies">
+                        <span></span>
+                        Agree
+                    </button>
+                </p>
+            </div>
+        </div>
+        <!--// Notification -->
+
+    
+
+
+        <script src="/sb/sitebuilder-js-bundle.js.v1-8-2-0" type="text/javascript"></script>
+        <script src="/sb/gov-js-bundle.js.v1-8-2-0" type="text/javascript"></script>
+        <script async defer src="https://www.google.com/recaptcha/api.js"></script>
+
+<script>
+    $(function(){
+        $('body').attr('data-large-breakpoint', 1340);
+    });
+</script>
+
+<!-- CSS VARS Ponyfill -->
+
+<!-- News Custom Search -->
+<script>
+    $('#btnSearch').click(function (e) {
+        window.location.href = "?search_field=" + $('#txtItemSearch').val() + "&category=" + $('#news-categories').val() + "&startDate=" + $('#dateFrom').val() + "&endDate=" + $('#dateTo').val();
+    });
+    $('#txtItemSearch').keypress(function (e) {
+        if (e.which == '13') {
+            window.location.href = "?search_field=" + $('#txtItemSearch').val() + "&category=" + $('#news-categories').val() + "&startDate=" + $('#dateFrom').val() + "&endDate=" + $('#dateTo').val();
+        }
+    });
+    $('#btnClear').click(function (e) {
+        $('#txtItemSearch').val('');
+        $('#news-categories').get(0).selectedIndex = 0;
+        window.location.href ="/news";
+    });
+</script>
+    <!--Including some scripts for Alerts-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flickity/2.2.2/flickity.pkgd.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script type="text/javascript" src="/scripts/GOV/gs-alerts.js?v=1.5"></script>
+
+
+<!--Cludo Scripts-->
+                                                                                        <script type="text/javascript" src="https://cse.google.com/cse.js?cx=017273995811521060892:1l_mbjsftum  "></script>
+
+    <script type="text/javascript">var _baTheme = 0, _baMode = '<%= Resources.WebResources.Common_includes_browseAloud_BrowseAloudText%>', _baUseCookies = true, _baHideOnLoad = true;</script>
+<script type="text/javascript" src="https://www.browsealoud.com/plus/scripts/ba.js"></script>
+<style>
+#__ba_floatingLaunch {
+    top: auto !important;
+    bottom: 12px !important;
+    right: 68px !important;
+    left: auto !important
+}
+</style>
+    
+    
+
+    
+
+</body>
+<!--
+    ____        _ ____              _ __  __             _____ __   _                      __
+   / __ )__  __(_) / /_   _      __(_) /_/ /_     __  __/ ___// /__(_)___  ____  ___  ____/ /
+  / __  / / / / / / __/  | | /| / / / __/ __ \   / / / /\__ \/ //_/ / __ \/ __ \/ _ \/ __  /
+ / /_/ / /_/ / / / /_    | |/ |/ / / /_/ / / /  / /_/ /___/ / ,< / / / / / / / /  __/ /_/ /
+/_____/\__,_/_/_/\__/    |__/|__/_/\__/_/ /_/   \__,_//____/_/|_/_/_/ /_/_/ /_/\___/\__,_/
+
+Find out more at uSkinned.net
+
+-->
+</html>

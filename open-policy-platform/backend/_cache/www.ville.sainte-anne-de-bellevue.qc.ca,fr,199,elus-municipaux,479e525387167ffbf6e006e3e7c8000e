@@ -1,0 +1,1646 @@
+status: 200
+encoding: utf-8
+Date: Sat, 09 Aug 2025 05:45:14 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: villesainteanned=57400ecfcc3b88f2bd5445d7e234f04b; path=/, villesainteanned_GI2_lang=FR; expires=Mon, 08-Sep-2025 05:45:14 GMT; Max-Age=2592000; path=/, lalangue=FR; expires=Mon, 08-Sep-2025 05:45:14 GMT; Max-Age=2592000; path=/, villesainteannedMemberLangue=FR; expires=Sat, 09-Aug-2025 05:45:13 GMT; Max-Age=0; path=/, villesainteannedRappel=2025-08-09; expires=Sun, 10-Aug-2025 05:45:14 GMT; Max-Age=86400, display_alert_8=1; expires=Sat, 09-Aug-2025 17:45:14 GMT; Max-Age=43200; path=/, display_popup_8=1; expires=Sat, 09-Aug-2025 17:45:14 GMT; Max-Age=43200; path=/
+Keep-Alive: timeout=5, max=49
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+
+            <div class="modal fade ay" id="AnnonceGeneral" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h3 class="modal-title" id="exampleModalLongTitle">Bellevue sur l&rsquo;&eacute;t&eacute; 2025 !</h3>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body"><p><p>Notre programmation estivale est&nbsp;<span>maintenant disponible !</span><br data-start="50" data-end="53" /> D&eacute;couvrez toutes les activit&eacute;s pr&eacute;vues pour cet &eacute;t&eacute;.</p>
+<p><a href="https://visiter.sadb.qc.ca/" target="_blank"><img src="/client_file/upload/Loisirs/2025/SADB-PanNum-ete2025-672x384-v2B.jpg" width="419" class="responsive_img" style="vertical-align: baseline; display: block; margin-left: auto; margin-right: auto;" height="240" /></a></p></p><p style="text-align: center;"><br /><strong><a class="Btn" href="http://visiter.sadb.qc.ca/" target=’_blank’>En savoir plus</a></strong></p>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+                        </div>
+                    </div>
+                </div>
+            </div><!DOCTYPE html>
+<html lang="">
+<head>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache">
+        <meta http-equiv="Content-Security-Policy" content="
+        script-src  'nonce-cbq1ExnIxp'        https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css
+        https://www.googleapi.com
+        https://www.google.com/recaptcha/api.js
+        https://www.googletagmanager.com
+        https://picsum.photos
+        https://fastly.picsum.photos/
+                https://www.gstatic.com
+        https://js.stripe.com/v2/
+        https://static.addtoany.com
+            ">
+    <meta charset="utf-8">
+    <title>Élus municipaux - Ville de Sainte-Anne-de-Bellevue</title>
+    <meta name="description" content="La vie à Sainte-Anne, c’est le plaisir et le calme de la campagne, à 20 minutes du centre-ville de Montréal. Avec un village patrimonial, des installations sportives en tout genre, l’environnement et la vie sauvage en toile de fond et un bord de l’eau exceptionnel, il fait définitevement bon vivre à Sainte-Anne!" />
+
+    <!-- mobile responsive meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Élus municipaux" />
+    <meta property="og:description" content="" />
+    <meta property="og:url" content="https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/elus-municipaux" />
+    <meta property="og:site_name" content="Ville de Sainte-Anne-de-Bellevue" />
+    <meta property="og:updated_time" content="2025-06-04T15:19:04-" /><!-- jquiery ui -->
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/jQuery/jquery-ui.css" nonce="cbq1ExnIxp" />
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/jQuery/jquery.mcustomscrollbar.min.css" nonce="cbq1ExnIxp" />
+
+<!-- Bootstrap-->
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/bootstrap/bootstrap.min.css" nonce="cbq1ExnIxp">
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css" nonce="cbq1ExnIxp">-->
+<!-- magnific popup -->
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/magnific-popup/magnific-popup.css" nonce="cbq1ExnIxp">
+<!-- Slick Carousel -->
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/slick/slick.css" nonce="cbq1ExnIxp">
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/slick/slick-theme.css" nonce="cbq1ExnIxp">
+<!-- themify icon -->
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/themify-icons/themify-icons.css" nonce="cbq1ExnIxp">
+<!-- animate -->
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/animate/animate.css" nonce="cbq1ExnIxp">
+<!-- Aos -->
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/aos/aos.css" nonce="cbq1ExnIxp">
+
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/font-awesome/all.min.css" nonce="cbq1ExnIxp">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" nonce="cbq1ExnIxp">
+<!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" nonce="cbq1ExnIxp">
+ swiper
+<link rel="stylesheet" href="/client_file/themes/biztrox/plugins/swiper/swiper.min.css">-->
+<link href="/client_file/themes/default/css/owl.v2.css?rand=756" rel="stylesheet" type="text/css" nonce="cbq1ExnIxp" />
+<!-- Stylesheets -->
+<link href="/client_file/themes/biztrox/css/style.css?rand=756" rel="stylesheet" nonce="cbq1ExnIxp">
+<link href="/client_file/themes/biztrox/css/module.css?rand=756" rel="stylesheet" nonce="cbq1ExnIxp">
+<!-- Stylesheets -->
+<link href="/client_file/themes/biztrox/css/custom_theme.css?rand=756" rel="stylesheet" nonce="cbq1ExnIxp">
+<link href="/client_file/formulaire/captcha/slidercaptcha.min.css" rel="stylesheet" nonce="cbq1ExnIxp" />
+
+<style>
+    :root {
+        /* --viglob-body-color: ; */
+        --viglob_nav_menu_dropdown_hover_background-color: #FFFFFF00;--viglob_nav_menu_dropdown_hover_text-color: #29ABE3;--viglob_nav_menu_dropdown_menu_background-color: #FAF8F8;--viglob_nav_menu_dropdown_menu_color: #000000;--viglob_nav_nav-item_background-color: #FFFFFF00;--viglob_nav_nav-item_hover_background-color: #FFFFFF00;--viglob_nav_nav-item_padding_horizontal: 15px;--viglob_nav_nav-item_padding_vertical: 10px;    }
+</style>
+
+    <link href="/client_file/themes/biztrox/css/custom.css?rand=242858" rel="stylesheet" nonce="cbq1ExnIxp" type="text/css" />
+<style nonce="cbq1ExnIxp"> 
+.tuile{
+    background:#96FFF8;
+}
+.tuile p{
+    color:#525252;
+}
+.tuile:hover, .tuile_active .tuile{
+    background:#14A1FF;
+}
+.tuile:hover p, .tuile_active .tuile p{
+    color:#000000;
+}
+.tuile_triangle_down:before {
+    border-top: 50px solid #14A1FF;
+}
+.Vtab .resp-tab-active{
+    border-left: 2px solid #14A1FF;
+}
+    .timeline > li > .timeline-badge, .timeline::before {background-color: #1E76B2 !important;}
+    .timeline_titre {color: #1E76B2 !important;}
+    .accordeon_titre a {
+        color : #223057 !important;
+        /*border-top: 1px solid #223057 !important;*/
+    }
+    .accordeon_titre a::after {
+        color : #223057 !important;
+    }
+    .accordeon_titre a:hover {
+        color : #661447 !important;
+        /*border-top: 1px solid #661447 !important;*/
+    }
+    .accordeon_titre a:hover::after {
+        color : #661447 !important;
+    }#quicklink_container a img{opacity: 0.9;} #quicklink_container a:hover img{opacity: 0.2;}
+    .quicklink_text{
+        bottom:0;
+        position: relative;
+    }
+    
+    
+    
+                #quicklink_container .quicklink_text
+                {
+                    min-height: 100px;
+                }#quicklink_1{background-color: #1E76B2; }#quicklink_2{background-color: #1E76B2; }#quicklink_3{background-color: #1E76B2; }#quicklink_4{background-color: #1E76B2; }#quicklink_5{background-color: #1E76B2; }
+                        #quicklink_text_1 {
+                            background-color: rgba(0,0,0,0.5) !important;
+                        }
+                    #quicklink_text_1 .quicklink_text_wrapper > span.text_bottom > p, #quicklink_text_1 .quicklink_text_wrapper > span.text_top > p {
+                        color: #FFFFFF ;
+                    }
+                        #quicklink_text_2 {
+                            background-color: rgba(0,0,0,0.5) !important;
+                        }
+                    #quicklink_text_2 .quicklink_text_wrapper > span.text_bottom > p, #quicklink_text_2 .quicklink_text_wrapper > span.text_top > p {
+                        color: #FFFFFF ;
+                    }
+                        #quicklink_text_3 {
+                            background-color: rgba(0,0,0,0.5) !important;
+                        }
+                    #quicklink_text_3 .quicklink_text_wrapper > span.text_bottom > p, #quicklink_text_3 .quicklink_text_wrapper > span.text_top > p {
+                        color: #FFFFFF ;
+                    }
+                        #quicklink_text_4 {
+                            background-color: rgba(0,0,0,0.5) !important;
+                        }
+                    #quicklink_text_4 .quicklink_text_wrapper > span.text_bottom > p, #quicklink_text_4 .quicklink_text_wrapper > span.text_top > p {
+                        color: #FFFFFF ;
+                    }
+                        #quicklink_text_5 {
+                            background-color: rgba(0,0,0,0.5) !important;
+                        }
+                    #quicklink_text_5 .quicklink_text_wrapper > span.text_bottom > p, #quicklink_text_5 .quicklink_text_wrapper > span.text_top > p {
+                        color: #FFFFFF ;
+                    }
+    /*cookies*/
+
+    body.modal-open #main_nav.opened-cookie-modal , body.modal-open #main_nav.opened-cookie-modal #logo_sticky_nav
+    {
+        display:initial !Important;
+        margin-bottom: 1rem !important;
+    }
+   body {
+    overflow-y: scroll !important;
+    }
+    @media only screen and (max-width: 800px) {
+     .modal-dialog-cookie
+    {
+        width:90% !important;
+    }
+     .modal-dialog-cookie .modal-body button
+    {
+        width:100% !important;
+    }
+
+    }
+    .modal-dialog-cookie
+    {
+            position: fixed;
+            right: 20px; /* Adjust this value for horizontal position */
+            bottom: 20px; /* Adjust this value for vertical position */
+            margin: 0;
+            width:25%;
+            max-width:350px;
+    }
+    .moreinfo
+    {
+     font-weight:bold;
+     cursor:pointer;
+    }
+    .modal-dialog-cookie p
+    {
+        font-size:12px !important;
+    }
+    .modal-dialog-cookie .modal-header
+    {
+    border-bottom: none !important;
+    }#new_page_account .accordeon_title{text-decoration:  ;border:   ;width: ;background:#246492 !important;}
+#wrapper_evenement{text-decoration:  ;border:   ;width: ;background:#D6E4FF;}
+a{text-decoration:  ;border:   ;width: ;}
+li{text-decoration:  ;border:   ;width: ;}
+ul{text-decoration:  ;}
+#logo, #logo img{text-decoration:  ;border:   ;width: ;max-width: 100px !important;
+margin-top:-35px !important;
+margin-bottom:12px !important;
+}
+#embed_cyberimpact > div.modal-dialog{text-decoration:  ;border:   ;width: ;width: 100%;
+max-width: 750px;
+height: 575px;}
+td{text-decoration:  ;
+}
+p{text-decoration:  ;border:   ;width: ;color:#000000;
+font-size: 16px;
+margin: 5px 0 10px 0px;
+line-height:1.3em;}
+h1{text-decoration:  ;border:   ;width: ;    color:#57585a;
+    margin: 0 0 20px 0;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: 500;
+    
+  
+    line-height: 1.3em;
+    }
+h2{text-decoration:  ;border:   ;width: ;color:#57585a;
+margin: 20px 0 10px 0;
+text-transform: none;
+font-size: 30px;
+font-weight: 500;
+padding: 0 0 0px 0;
+line-height: 1.3em;
+font-family: ’Oswald’, sans-serif;
+}
+h3{text-decoration:  ;border:   ;width: ;
+  
+    margin: 5px 0 15px 0;
+   
+color: #57585a;
+text-transform: uppercase;padding: 10px 0 0 0;}
+h4{text-decoration:  ;border:   ;width: ;font-weight: 500;
+    font-size: 24px;
+    margin: 0 0 15px 0;
+    }
+#logo, #logo img , .navbar-brand img{
+        max-width: 250px !important;
+    }
+
+     body {overflow-y: scroll !important;}#wrapper_titre_interne{text-align:right !important;}.dates-alerte{color:#FFFFFF !important;}
+        .image-alerte:hover{
+        background:black ;}
+        #alertes_ui{
+                position:fixed;
+                top:0;
+                right:0;
+                width:100vw;
+                height:100vh;
+                background-color:#289fe9;
+                z-index:10;
+                padding: 2.5% 5%;
+        }
+
+        #alertes_ui_fermeture{
+                position: fixed;
+                top: 30px;
+                right:30px;
+        }
+        .container-alertes > h3{
+                color:;
+        }
+        .container-alertes > .resume-alertes, .intro-texte{
+                color:;
+        }
+
+        #alertes_ui_fermeture ~ table{
+                width:100%;
+        }
+
+        .container-alertes:first-of-type{
+                padding-top:0 !important;
+        }
+
+        .container-alertes{
+                padding-top: 60px;
+        }
+
+        .container-alertes > h3, .container-alertes{
+                border-bottom: 1px solid ;
+        }
+
+        .boutons{
+                margin:20px 5px;
+        }
+
+        .boutons > button{
+                background-color: !important;
+                color: !important;
+                padding: 5px;
+                border-radius: 40px;
+                background-image: none !important;
+        }
+
+        .boutons:hover > button{
+                background-color: !important;
+                color:  !important;
+        }
+
+        .date-alertes{
+                color: FFFFFF;
+        }
+
+        #titre-alertes{
+                color:;
+                font-size: 3.5em;
+        }
+        .btn-primary{
+                border-color:transparent !important;
+        }
+
+        #alertes_ui{
+                overflow-y:scroll !important;
+                height:100%;
+                transition:1s;
+        }
+.container{max-width: 1600px;}.gradient_demi:nth-child(odd){ background : linear-gradient(to left, #747477 50%, #303032 50%)}.gradient_full:nth-child(odd){ background : linear-gradient(to left, #000000 50%, #000000 50%) !important ;} .Btn:hover , .btn:hover { background : #223057 !important ; }.btn , .Btn { border-radius : 9px !important ; } .Btn:hover , .btn:hover { color : #FFFFFF !important ; } a.btn:hover,#sidebar ul li a.menu_membre_page_active { color : #FFFFFF !important ; }.btn , .Btn { color : #223057 !important ; }.navbar-nav a:not( .dropdown-item) { color : #000000 !important ; }
+        .partenaire_slider .owl-item img{
+                max-width: 200px !important;
+            }
+        .navbar-nav a:not(.dropdown-item):hover { color : #29ABE3 !important ; }  #main_nav:hover, #main_nav:hover #navbarNavDropdown { background : #FFFFFF !important ; }
+        #main_nav , .navbar ,#navbarNavDropdown { background : #FFFFFF !important ; } .top-header a , #trigger_menu_p { color : #000000 !important ; } .top-header:hover a:not(#trigger_menu_burger) { color : #000000 !important ; } .top-header:hover  { background-color : #FFFFFF !important ; } .top-header  { background-color : #FFFFFF !important ; } .w-30 { width : 30% !important ; }#contactForm .form-control  {margin-top: 1rem!important;}footer , .bg-secondary {background: #223057 !important;}footer a {color: #FFFFFF !important;}footer .text-white ,footer:not(a) {color: #FFFFFF !important;}footer .text-white ,footer:not(a){color: #FFFFFF !important;}#main_nav {border-bottom : 8px solid #FAF8F8 !important;} .new_event_tag {color: #FFFFFF !important;} .new_event_tag {background : #1E76B2 !important;}
+    .arianne_link a
+    {
+      color : #000000 !important;
+    }
+    .arianne_link .texte_mauve
+    {
+        color : #000000 !important;
+    }
+    .arianne_link
+    {
+        font-size : 16px !important;
+    }
+        .text_slider h3 { color :#223057 !important ;}
+
+    
+
+        @media (max-width: 1000px) {
+            .swiper-slider
+            {
+             height: 260px ;
+
+            }
+            .text_slider h3 {
+            font-size :16px !important;
+            top :10% !important;
+            }
+            .text_slider {  top: 10% !important;     right: 50%; transform: translateX(50%); max-width: unset; width: 98%; height: 75%; }
+            .text_slider h3 { position: absolute; width: 90%; top: 45%; left: 50%; transform: translate(-50%, -50%); }
+            .owl-prev, .owl-next { top: 45%; transform: translateY(-50%); }
+            .owl-prev { left: 0; }
+            .owl-next { right: 0; }
+            .owl-theme .owl-controls .owl-buttons div { color: #333; }
+        }
+        @media screen and (max-width: 500px) {
+
+            .swiper-slider
+            {
+             height: 182px ;
+
+            }
+            .text_slider h3 {
+            font-size :16px !important;
+            top :10% !important;
+            }
+
+            .text_slider { padding: 0 !important;top: 10% !important;   }
+            .text_slider h3 { font-size: 25px; }
+            .owl-theme .owl-controls .owl-buttons div { font-size: 35px; }
+        }</style><!--<link rel="stylesheet" href="/client_file/themes/biztrox/css/global_css.css?rand=1754718314" nonce="cbq1ExnIxp" > -->
+    <!--Favicon-->
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+    </head>
+
+<body class=" d-none " id="">
+    <!-- Modal Fullscreen xl -->
+<div class="modal modal-fullscreen-xl" id="login-fullscreen" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" id="modal_fullscreen_login">
+            <div class="modal-header">
+                <h5 class="modal-title"></h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <section class="d-flex align-items-center justify-content-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 mx-auto">
+                <div class="signup">
+                    <div class="row">
+                        <div class="col-md-5 signup-greeting overlay" id="bg_login_modal" style="">
+                            <img src="/client_file/themes/logos/logo_tag.png?rand=641991" id="logo_signup" alt="logo">
+                            <h4>Authentification</h4><p></p>
+                        </div>
+                        <div class="col-md-7">
+                            <div class="signup-form">
+                                                                <form method="POST" action="/boutique/login.php?action=process" class="row" id="fast_login_form">
+                                    <div class="col-12">
+                                        <h4>Se connecter</h4>
+                                        <p class="float-sm-right">Pas encore membre?
+                                            <a href="/boutique/create_account_step1.php?devenirmembre=1">Créer un compte.</a>
+                                        </p>
+                                    </div>
+                                    <div class="col-12" id="msg_error_login"></div>
+                                    <div class="col-12">
+                                        <input type="text" class="form-control" id="email_address" name="email_address" required placeholder="Identifiant">
+                                    </div>
+                                    <div class="col-12">
+                                        <input type="password" class="form-control" id="login_pass" name="password" required placeholder="Mot de passe">
+                                        <i class="fas fa-eye see_password_js" data-target="#login_pass" style="position: absolute;right: 5%;top: 25%;"></i>
+                                    </div>
+                                    <div>
+                                        <button id="fast_login_form_submit" class="btn btn-primary btn-sm ml-3">Connexion</button>
+                                        <input type="hidden" name="fast_login_ajax" id="fast_login_ajax" value="0" />
+                                    </div>
+                                    <div class="d-none">
+                                        <textarea name="t_UQ8xn7o4"></textarea> <!-- <input type="text" class="form-control" id="login_pass_2" name="t_UQ8xn7o4" value="" placeholder="Mot de passe">-->
+                                    </div>
+                                    <div class="d-none">
+                                        <input type="checkbox" class="form-control" id="stay_loged_in_check" name="ch_UQ8xn7o4" value="1">
+                                    </div>
+                                    <div class="col-sm-8 text-sm-right signup-forgot">
+                                        <!--<p class="signup-with">Or Login with</p>
+                                        <ul class="list-inline">
+                                            <li class="list-inline-item">
+                                                <a href="#" class="bg-facebook">
+                                                    <i class="ti-facebook"></i>
+                                                </a>
+                                            </li>
+                                            <li class="list-inline-item">
+                                                <a href="#" class="bg-google">
+                                                    <i class="ti-google"></i>
+                                                </a>
+                                            </li>
+                                        </ul>-->
+                                        <a id="forgot_code" href="/boutique/login_code_forgotten.php">Identifiant oublié ?</a>
+                                        <a id="forgot_pass" href="/boutique/password_forgotten.php">Mot de passe oublié ?</a>
+                                    </div>
+                                    <div class="col-12" id="signup_remember">
+                                        <div class="check-box-box text-right">
+                                        	                    					   <input type="checkbox" class="check-box" value="1" name="rmb_login"  /><span> Se souvenir de moi</span>
+                    				    </div>
+                                    </div>
+                                    <input type="hidden" name="form_login_modal" value="1" />
+                                                                        <input type="hidden" name="csrf_token" value="f2Z0HvZr2km9jD57Ll7XixygXQW15RcPI2OXuLyv">
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- navigation -->
+
+
+<div id="main" class="">
+    <header>
+        <div class="top-header this">
+    <div class="container">
+        <div class="row">
+
+            <div class="social-menu col-md-4 pt-5">
+                <li class="list-inline-item   " data-wow-delay="12s">
+                    <a href="#" id="searchOpen">
+                        <!-- <i class="ti-search"></i> -->
+                        <i class="fas fa-search orange size-18"></i>
+                    </a>
+                </li>
+
+                <li class="list-inline-item " ><a href="https://www.facebook.com/steannedebellevue" target="_blank" class="face social-icon-outline"><i class="fab fa-facebook-square bleu-fonce"></i></a></li><li class="list-inline-item " ><a class="insta social-icon-outline" id="" href="https://www.instagram.com/sainteannedebellevue/" target="_blank"><i class="fab fa-instagram bleu-fonce"></i></a></li><li class="list-inline-item " ><a class="social-icon-outline yt" id="" href="https://www.youtube.com/@villedesainte-anne-de-bell7371" target="_blank"><i class="fab fa-youtube bleu-fonce"></i></a></li><li class="list-inline-item " ><a class="social-icon-outline linkedIn" id="" href="https://www.linkedin.com/company/ville-de-sainte-anne-de-bellevue/" target="_blank"><i class="fab fa-linkedin bleu-fonce"></i></a></li>            </div>
+            <div class="col-md-4 text-center">
+                <a class="navbar-brand border-0" href="/" id="logo_sticky_nav">
+                            <img src="/client_file/themes/logos/logo_tag.png?rand=169471" class="w-50 thisimg">
+                </a>            </div>
+            <div class="col-md-4 pt-5 text-right">
+                <li class="list-inline-item mr-4">
+                                            </li>
+                
+                <li id="TextTransform" class="list-inline-item mr-4">
+                    <a class="FirstLevel pt-3 mt-3">
+
+                        <span id="BigText" class="mx-1 bold position-relative size-24">A <i class="fas fa-plus size-10 position-absolute"></i></span>
+                        <span id="SmallText" class="mx-1 bold position-relative">A <i class="fas fa-minus size-10 position-absolute"></i></span>
+                    </a>
+                </li>
+                
+                <li class=" list-inline-item  bold " id="" ><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/emploi'>Emploi</a></li>                <li class="list-inline-item   ml-4">
+                    <a href="https://sainte-anne-de-bellevue.appvoila.com/fr/" target="_blank">
+                        <!-- <i class="ti-search"></i> -->
+                        <img src="/client_file/upload/voila_logo_1024x375-768x281.png" class="voila  " />
+                    </a>
+                </li>
+
+
+
+            </div>
+
+        </div>
+    </div>
+</div>    <div class="navigation" id="main_nav"> <!-- class="navigation" -->
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light row">
+                <a class="navbar-brand" href="/" id='logo_sticky_nav'>
+                    <img src="/client_file/themes/logos/logo_tag.png?rand=165852" alt="logo" class="wow fadeIn" data-wow-delay="0.3s">
+                </a>
+                <li class="list-inline-item  show_mobile col-2" data-wow-delay="12s">
+                    <a href="#" id="searchOpen">
+                        <!-- <i class="ti-search"></i> -->
+                        <i class="fas fa-search orange size-18"></i>
+                    </a>
+                </li>
+
+                
+                <li class="list-inline-item col-4 show_mobile ">
+                <a class=" border-0 logo_mobile text-center" href="/" >
+                            <img src="/client_file/themes/logos/logo_tag.png?rand=993208" class="w-50 thisimg" style="width:80px !important;">
+                 </a>
+                </li>
+                <button class="navbar-toggler col-2" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav menu_mobile">
+                        <li class="first_lv_1 nav-item pl-3 pr-3">
+                                                    </li>
+
+
+                                                <li id="first_lv_1" class="first_li   wow fadeIn nav-item  dropdown" data-wow-delay="0s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Ville<span class="caret"></span></a><ul class="dropdown-menu"><li id="first_lv_1" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">À propos<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_1" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/presentation-generale' class="dropdown-item "  >Présentation générale</a></li><li id="first_lv_2" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/historique' class="dropdown-item "  >Historique</a></li><li id="first_lv_3" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/patrimoine' class="dropdown-item "  >Patrimoine</a></li><li id="first_lv_4" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/parcour-historique' class="dropdown-item "  >Parcours historique</a></li><li id="first_lv_5" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/armoirie-et-logo' class="dropdown-item "  >Armoirie et logo</a></li><li id="first_lv_6" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/nos-fleurs-emblemes' class="dropdown-item "  >Nos fleurs emblèmes</a></li><li id="first_lv_7" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/portrait-statistique' class="dropdown-item "  >Portrait statistique</a></li><li id="first_lv_8" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/comment-s-y-rendre' class="dropdown-item "  >Comment s’y rendre</a></li></ul></li><li id="first_lv_2" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Administration<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_9" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/coordonnees' class="dropdown-item "  >Coordonnées</a></li><li id="first_lv_10" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/organigramme' class="dropdown-item "  >Organigramme</a></li><li id="first_lv_11" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/budget' class="dropdown-item "  >Budget</a></li><li id="first_lv_12" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/etats-financiers-et-rapports' class="dropdown-item "  >États financiers et rapports</a></li><li id="first_lv_13" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/gestion-contractuelle' class="dropdown-item "  >Gestion contractuelle</a></li><li id="first_lv_14" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/directive-langue-francais' class="dropdown-item "  >Directive d’utilisation d’une autre langue</a></li></ul></li><li id="first_lv_3" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Taxation et évaluation<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_15" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/taxation-et-evaluation/evaluation-fonciere' class="dropdown-item "  >Évaluation foncière</a></li><li id="first_lv_16" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/taxation-et-evaluation/taxes-municipales' class="dropdown-item "  >Taxes municipales</a></li><li id="first_lv_17" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/taxation-et-evaluation/vente-pour-taxes' class="dropdown-item "  >Vente pour taxes</a></li><li id="first_lv_18" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/taxation-et-evaluation/compteurs-d-eau' class="dropdown-item "  >Compteurs d’eau</a></li></ul></li><li id="first_lv_4" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Règlementation<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_19" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/reglements-municipaux' class="dropdown-item "  >Règlements municipaux</a></li><li id="first_lv_20" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/projets-de-reglements' class="dropdown-item "  >Projets de règlements</a></li><li id="first_lv_21" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/reglements-susceptibles-d-approbation-referendaire' class="dropdown-item "  >Règlements susceptibles d’approbation référendaire</a></li><li id="first_lv_22" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/reglements-d-urbanisme' class="dropdown-item "  >Règlements d’urbanisme</a></li><li id="first_lv_23" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/code-d-ethique' class="dropdown-item "  >Code d’éthique</a></li><li id="first_lv_24" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/politiques-administratives' class="dropdown-item "  >Politiques administratives</a></li><li id="first_lv_25" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/piscines-reesidentielles' class="dropdown-item "  >Piscines résidentielles</a></li></ul></li></ul></li><li id="first_lv_2" class="first_li   wow fadeIn nav-item  dropdown" data-wow-delay="0.2s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Citoyens<span class="caret"></span></a><ul class="dropdown-menu"><li id="first_lv_5" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Services en ligne<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_26" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/services-en-ligne/portail-citoyen-voila-' class="dropdown-item "  >Portail citoyen Voilà!</a></li><li id="first_lv_27" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/services-en-ligne/requetes-et-signalements' class="dropdown-item "  >Requêtes (Voilà!) et signalements</a></li><li id="first_lv_28" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/services-en-ligne/carte-interactive' class="dropdown-item "  >Carte interactive</a></li></ul></li><li id="first_lv_6" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Vie démocratique<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_29" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/seances-du-conseil' class="dropdown-item "  >Séances du conseil</a></li><li id="first_lv_30" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/elus-municipaux' class="dropdown-item "  >Élus municipaux</a></li><li id="first_lv_31" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/comites-consultatifs' class="dropdown-item "  >Comités consultatifs</a></li><li id="first_lv_32" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/procedure-de-demande-de-scrutin' class="dropdown-item "  >Procédure de demande de scrutin</a></li><li id="first_lv_33" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/elections-municipales-et-districts-electoraux' class="dropdown-item "  >Élections municipales et districts électoraux</a></li></ul></li><li id="first_lv_7" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Communauté<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_34" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/documents-d-information-aux-citoyens' class="dropdown-item "  >Documents d’information aux citoyens</a></li><li id="first_lv_35" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/aidons-notre-communaute' class="dropdown-item "  >Aidons notre communauté</a></li><li id="first_lv_36" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/annuaire-communautaire' class="dropdown-item "  >Annuaire communautaire</a></li><li id="first_lv_37" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/associations-sportives' class="dropdown-item "  >Associations sportives</a></li><li id="first_lv_38" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/nouveaux-residents' class="dropdown-item "  >Nouveaux résidents</a></li><li id="first_lv_39" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/courrier-publicitaire' class="dropdown-item "  >Courrier publicitaire</a></li></ul></li><li id="first_lv_8" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Communications<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_40" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communications/panneaux-electroniques' class="dropdown-item "  >Panneaux électroniques</a></li><li id="first_lv_41" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communications/communiques-de-presse' class="dropdown-item "  >Communiqués de presse</a></li><li id="first_lv_42" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communications/medias-sociaux' class="dropdown-item "  >Médias sociaux</a></li><li id="first_lv_43" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communications/infolettres' class="dropdown-item "  >Infolettres</a></li></ul></li></ul></li><li id="first_lv_3" class="first_li   wow fadeIn nav-item  dropdown" data-wow-delay="0.4s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Services<span class="caret"></span></a><ul class="dropdown-menu"><li id="first_lv_9" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/info-travaux' class="dropdown-item "  >Info-Travaux</a></li><li id="first_lv_10" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Affaires juridiques & greffe<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_44" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/affaires-juridiques-greffe/acces-a-l-information' class="dropdown-item "  >Accès à l’information</a></li><li id="first_lv_45" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/affaires-juridiques-greffe/avis-publics' class="dropdown-item "  >Avis publics</a></li><li id="first_lv_46" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/affaires-juridiques-greffe/documents-publics' class="dropdown-item "  >Documents publics</a></li><li id="first_lv_47" class=""><a href='https://www.assermentation.justice.gouv.qc.ca/ServicesPublicsConsultation/Commissaires/Proximite/Criteres.aspx' target='_blank' class="dropdown-item " target="_blank" >Commissaire à l’assermentation</a></li><li id="first_lv_48" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/affaires-juridiques-greffe/reclamations' class="dropdown-item "  >Réclamations</a></li></ul></li><li id="first_lv_11" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Sécurité publique<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_49" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/service-de-police' class="dropdown-item "  >Service de police</a></li><li id="first_lv_50" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/securite-incendie' class="dropdown-item "  >Sécurité incendie</a></li><li id="first_lv_51" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/patrouille-municipale' class="dropdown-item "  >Patrouille municipale</a></li><li id="first_lv_52" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/constats-d-infraction' class="dropdown-item "  >Constats d’infraction</a></li><li id="first_lv_53" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/nuisances' class="dropdown-item "  >Nuisances</a></li><li id="first_lv_54" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/stationnement' class="dropdown-item "  >Stationnement</a></li><li id="first_lv_55" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/securite-routiere' class="dropdown-item "  >Sécurité routière</a></li></ul></li><li id="first_lv_12" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Mesures d’urgence<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_56" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/situation-d-urgence' class="dropdown-item "  >Situation d’urgence</a></li><li id="first_lv_57" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/inondation' class="dropdown-item "  >Inondation</a></li><li id="first_lv_58" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/chaleur-extreme' class="dropdown-item "  >Chaleur extrême</a></li><li id="first_lv_59" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/froid-extreme' class="dropdown-item "  >Froid extrême</a></li><li id="first_lv_60" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/code-red--alertes-d-urgence-' class="dropdown-item "  >CodeRed (alertes d’urgence)</a></li></ul></li><li id="first_lv_13" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Urbanisme<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_61" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/comites-consultatif-d-urbanisme' class="dropdown-item "  >Comités consultatif d’urbanisme</a></li><li id="first_lv_62" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/conservation-du-patrimoine' class="dropdown-item "  >Conservation du patrimoine</a></li><li id="first_lv_63" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/plan-d-implantation-et-d-integration-architecturale--piia-' class="dropdown-item "  >Plan d’implantation et d’intégration architectural</a></li><li id="first_lv_64" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/programme-particulier-d-urbanisme' class="dropdown-item "  >Programme particulier d’urbanisme</a></li><li id="first_lv_65" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/permis-et-formulaires' class="dropdown-item "  >Permis et formulaires</a></li></ul></li></ul></li><li id="first_lv_4" class="first_li   wow fadeIn nav-item  dropdown" data-wow-delay="0.6s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Environnement<span class="caret"></span></a><ul class="dropdown-menu"><li id="first_lv_14" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Gestion des déchets<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_66" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/gestion-des-dechets/calendrier-des-collectes' class="dropdown-item "  >Calendrier des collectes</a></li><li id="first_lv_67" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/gestion-des-dechets/autres-collectes' class="dropdown-item "  >Autres collectes</a></li><li id="first_lv_68" class=""><a href='https://montreal.ca/sujets/ecocentres' target='_blank' class="dropdown-item " target="_blank" >Écocentre</a></li></ul></li><li id="first_lv_15" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Développement durable<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_69" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/developpement-durable/fonds-vers-un-avenir-durable' class="dropdown-item "  >Fonds Vers un avenir durable</a></li><li id="first_lv_70" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/developpement-durable/plan-local-de-developpement-durable' class="dropdown-item "  >Plan local de développement durable</a></li></ul></li><li id="first_lv_16" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Initiatives vertes<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_71" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/sacs-de-plastique-interdits' class="dropdown-item "  >Sacs de plastique interdits</a></li><li id="first_lv_72" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/apiculture-urbaine' class="dropdown-item "  >Apiculture urbaine</a></li><li id="first_lv_73" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/un-arbre-pour-mon-quartier' class="dropdown-item "  >Un arbre pour mon quartier</a></li><li id="first_lv_74" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/ville-amie-des-oiseaux' class="dropdown-item "  >Ville amie des oiseaux</a></li><li id="first_lv_75" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/ville-amie-des-monarques' class="dropdown-item "  >Ville amie des monarques</a></li><li id="first_lv_76" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/une-naissance--un-arbre' class="dropdown-item "  >Une naissance, un arbre</a></li><li id="first_lv_77" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/recuperation-des-materiaux-d-emballage-en-polystyrene' class="dropdown-item "  >Récupération des matériaux d’emballage en polystyr</a></li></ul></li><li id="first_lv_17" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/gestion-des-matieres-residuelles' class="dropdown-item "  >Gestion des matières résiduelles</a></li><li id="first_lv_18" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/eau-potable' class="dropdown-item "  >Eau potable</a></li><li id="first_lv_19" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/agrile-du-frene' class="dropdown-item "  >Agrile du frêne</a></li><li id="first_lv_20" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/foyers-et-appareils-a-combustion-solide' class="dropdown-item "  >Foyers et appareils à combustion solide</a></li><li id="first_lv_21" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/radon' class="dropdown-item "  >Radon</a></li><li id="first_lv_22" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/terrains-contamines' class="dropdown-item "  >Terrains contaminés</a></li><li id="first_lv_23" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/zones-inondables' class="dropdown-item "  >Zones inondables</a></li><li id="first_lv_24" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/reseau-express-metropolitain--rem-' class="dropdown-item "  >Réseau Express Métropolitain (REM)</a></li></ul></li><li id="first_lv_5" class="first_li   wow fadeIn nav-item  dropdown" data-wow-delay="0.8s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Loisirs et culture<span class="caret"></span></a><ul class="dropdown-menu"><li id="first_lv_25" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Bibliothèque<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_78" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/informations-generales' class="dropdown-item "  >Informations générales</a></li><li id="first_lv_79" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/activites' class="dropdown-item "  >Activités</a></li><li id="first_lv_80" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/services-de-prets' class="dropdown-item "  >Services de prêts</a></li><li id="first_lv_81" class=""><a href='https://sadb.mimas.opalsinfo.net/bin/home#0' target='_blank' class="dropdown-item " target="_blank" >Catalogue virtuel</a></li><li id="first_lv_82" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/programme-une-naissance-un-livre' class="dropdown-item "  >Programme une naissance un livre</a></li></ul></li><li id="first_lv_26" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Service des loisirs<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_83" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/service-des-loisirs/informations-generales' class="dropdown-item "  >Informations générales</a></li><li id="first_lv_84" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/service-des-loisirs/carte-acces-chalet-et-rabais-residents' class="dropdown-item "  >Carte accès chalet et rabais résidents</a></li><li id="first_lv_85" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/service-des-loisirs/location-de-salles' class="dropdown-item "  >Location de salles</a></li><li id="first_lv_86" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/service-des-loisirs/modalites-d-inscription' class="dropdown-item "  >Modalités d’inscription</a></li></ul></li><li id="first_lv_27" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Activités et évènements<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_87" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/activites/programmation-saisonniere' class="dropdown-item "  >Programmation saisonnière</a></li><li id="first_lv_88" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/activites/bougebouge-kirkland-2025' class="dropdown-item "  >BougeBouge Kirkland 2025</a></li><li id="first_lv_89" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/activites/artistes-de-rue' class="dropdown-item "  >Artistes de rue</a></li></ul></li><li id="first_lv_28" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/camp-de-jour' class="dropdown-item "  >Camp de jour</a></li><li id="first_lv_29" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Installations récréatives<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_90" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/installations-recreatives/parcs-municipaux' class="dropdown-item "  >Parcs municipaux</a></li><li id="first_lv_91" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/installations-recreatives/piscine-municipale' class="dropdown-item "  >Piscine municipale</a></li><li id="first_lv_92" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/installations-recreatives/terrains-de-sport' class="dropdown-item "  >Terrains de sport</a></li><li id="first_lv_93" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/installations-recreatives/patinoires' class="dropdown-item "  >Patinoires</a></li></ul></li><li id="first_lv_30" class=" "><a href='https://visiter.sadb.qc.ca' class="dropdown-item "  >S’évader sans s’éloigner</a></li><li id="first_lv_31" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/les-parcours-actifs-' class="dropdown-item "  >Les parcours actifs </a></li></ul></li><li id="first_lv_6" class="first_li   wow fadeIn nav-item  dropdown" data-wow-delay="1s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Aînés<span class="caret"></span></a><ul class="dropdown-menu"><li id="first_lv_32" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/municipalite-amie-des-aines--mada-' class="dropdown-item "  >Municipalité amie des aînés (MADA)</a></li><li id="first_lv_33" class=" "><a href='
+https://ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/activites' target='_blank' class="dropdown-item " target="_blank" >Activités du service des loisirs</a></li><li id="first_lv_34" class=" "><a href='
+https://ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/activites' class="dropdown-item "  >Activités de la bibliothèque</a></li><li id="first_lv_35" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Bénévolat<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_94" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/benevolat/s-impliquer-dans-la-communaute' class="dropdown-item "  >S’impliquer dans la communauté</a></li><li id="first_lv_95" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/benevolat/centre-d-action-benevole-ouest-de-l-ile' class="dropdown-item "  >Centre d’action bénévole Ouest-de-l’Île</a></li></ul></li><li id="first_lv_36" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Transport<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_96" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/transport/transport-en-commun' class="dropdown-item "  >Transport en commun</a></li><li id="first_lv_97" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/transport/services-d-accompagnement' class="dropdown-item "  >Services d’accompagnement</a></li></ul></li><li id="first_lv_37" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Sécurité alimentaire<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_98" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite-alimentaire/preparation-des-repas' class="dropdown-item "  >Préparation des repas</a></li><li id="first_lv_99" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite-alimentaire/aide-aux-courses' class="dropdown-item "  >Aide aux courses</a></li><li id="first_lv_100" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite-alimentaire/popote-roulante' class="dropdown-item "  >Popote roulante</a></li></ul></li><li id="first_lv_38" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Sécurité<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_101" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/journee-mondiale-de-lutte-contre-la-maltraitance-des-personnes-ainees' class="dropdown-item "  >Journée mondiale de lutte contre la maltraitance</a></li><li id="first_lv_102" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/service-de-police-' class="dropdown-item "  >Service de Police </a></li><li id="first_lv_103" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/prevention---abus-et-maltraitance' class="dropdown-item "  >Prévention - Abus et maltraitance</a></li><li id="first_lv_104" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/patrouille-municipale' class="dropdown-item "  >Patrouille municipale</a></li><li id="first_lv_105" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/securite-incendie' class="dropdown-item "  >Sécurité incendie</a></li><li id="first_lv_106" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/securicab' class="dropdown-item "  >Sécuricab</a></li></ul></li><li id="first_lv_39" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Logement<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_107" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/logement/square-bellevue' class="dropdown-item "  >Square Bellevue</a></li><li id="first_lv_108" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/logement/etablissements-et-services-offerts' class="dropdown-item "  >Établissements et services offerts</a></li><li id="first_lv_109" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/logement/aide-a-domicile' class="dropdown-item "  >Aide à domicile</a></li><li id="first_lv_110" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/logement/locataires' class="dropdown-item "  >Locataires</a></li></ul></li><li id="first_lv_40" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/ressources' class="dropdown-item "  >Ressources</a></li><li id="first_lv_41" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/services-publics-et-communautaires' class="dropdown-item "  >Services publics et communautaires</a></li><li id="first_lv_42" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/autres-associations' class="dropdown-item "  >Autres organismes et associations</a></li></ul></li><li id="first_lv_7" class="first_li   wow fadeIn nav-item " data-wow-delay="1.2s"><a href='
+https://ville.sainte-anne-de-bellevue.qc.ca/ville/administration/coordonnees' class="nav-link "  >Nous joindre</a></li><li id="first_lv_8" class="first_li   wow fadeIn nav-item  dropdown" data-wow-delay="1.4s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">English<span class="caret"></span></a><ul class="dropdown-menu"><li id="first_lv_43" class=" "><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/info-works' class="dropdown-item "  >Info-Works</a></li><li id="first_lv_44" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Public Security<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_111" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/police-department' class="dropdown-item "  >Police Department</a></li><li id="first_lv_112" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/fire-department' class="dropdown-item "  >Fire Department</a></li><li id="first_lv_113" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/municipal-patrol' class="dropdown-item "  >Municipal Patrol</a></li><li id="first_lv_114" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/statement-of-offense' class="dropdown-item "  >Statement of offense</a></li><li id="first_lv_115" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/nuisances' class="dropdown-item "  >Nuisances</a></li><li id="first_lv_116" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/parking' class="dropdown-item "  >Parking</a></li></ul></li><li id="first_lv_45" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Emergency Measures<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_117" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/emergency-situation' class="dropdown-item "  >Emergency Situation</a></li><li id="first_lv_118" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/extreme-heat' class="dropdown-item "  >Extreme Heat</a></li><li id="first_lv_119" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/flooding' class="dropdown-item "  >Flooding</a></li><li id="first_lv_120" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/extreme-cold' class="dropdown-item "  >Extreme Cold</a></li><li id="first_lv_121" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/code-red--emergency-alerts' class="dropdown-item "  >Code Red (Emergency Alerts)</a></li></ul></li><li id="first_lv_46" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Environment<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_122" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/environment/collection-schedule' class="dropdown-item "  >Collection Schedule</a></li><li id="first_lv_123" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/environment/other-collections' class="dropdown-item "  >Other Collections</a></li><li id="first_lv_124" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/environment/residual-materials-management' class="dropdown-item "  >Residual Materials Management</a></li></ul></li><li id="first_lv_47" class="  dropdown-submenu"><a href="javascript:void(0);" class="dropdown-item dropdown-toggle"  data-toggle="dropdown">Taxation and Assessment<span class="caret"></span></a><ul class="dropdown-menu drop2"><li id="first_lv_125" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/taxation-and-assessment/municipal-taxes' class="dropdown-item "  >Municipal Taxes</a></li><li id="first_lv_126" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/taxation-and-assessment/sale-for-non-payment-of-taxes' class="dropdown-item "  >Sale for non-payment of taxes</a></li><li id="first_lv_127" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/taxation-and-assessment/water-meters' class="dropdown-item "  >Water Meters</a></li><li id="first_lv_128" class=""><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/taxation-and-assessment/property-assessment' class="dropdown-item "  >Property Assessment</a></li></ul></li></ul></li>                    </ul>
+
+                    <ul class="navbar-nav  menu_pc">
+                        <li class="first_lv_1 nav-item pl-3 pr-3">
+                                                    </li>
+
+                        
+                        <li id="first_lv_9" class="first_li pt-2 pb-2 wow fadeIn nav-item  dropdown" data-wow-delay="0s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Ville<span class="caret"></span></a><div class="dropdown-menu horizontal-menu first_dropdown premier_dropdown "><div id="first_lv_48" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >À propos<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_129" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/presentation-generale' >Présentation générale</a></div><div id="first_lv_130" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/historique' >Historique</a></div><div id="first_lv_131" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/patrimoine' >Patrimoine</a></div><div id="first_lv_132" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/parcour-historique' >Parcours historique</a></div><div id="first_lv_133" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/armoirie-et-logo' >Armoirie et logo</a></div><div id="first_lv_134" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/nos-fleurs-emblemes' >Nos fleurs emblèmes</a></div><div id="first_lv_135" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/portrait-statistique' >Portrait statistique</a></div><div id="first_lv_136" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/a-propos/comment-s-y-rendre' >Comment s’y rendre</a></div></div></div><div id="first_lv_49" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Administration<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_137" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/coordonnees' >Coordonnées</a></div><div id="first_lv_138" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/organigramme' >Organigramme</a></div><div id="first_lv_139" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/budget' >Budget</a></div><div id="first_lv_140" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/etats-financiers-et-rapports' >États financiers et rapports</a></div><div id="first_lv_141" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/gestion-contractuelle' >Gestion contractuelle</a></div><div id="first_lv_142" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/administration/directive-langue-francais' >Directive d’utilisation d’une autre langue</a></div></div></div><div id="first_lv_50" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Taxation et évaluation<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_143" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/taxation-et-evaluation/evaluation-fonciere' >Évaluation foncière</a></div><div id="first_lv_144" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/taxation-et-evaluation/taxes-municipales' >Taxes municipales</a></div><div id="first_lv_145" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/taxation-et-evaluation/vente-pour-taxes' >Vente pour taxes</a></div><div id="first_lv_146" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/taxation-et-evaluation/compteurs-d-eau' >Compteurs d’eau</a></div></div></div><div id="first_lv_51" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Règlementation<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_147" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/reglements-municipaux' >Règlements municipaux</a></div><div id="first_lv_148" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/projets-de-reglements' >Projets de règlements</a></div><div id="first_lv_149" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/reglements-susceptibles-d-approbation-referendaire' >Règlements susceptibles d’approbation référendaire</a></div><div id="first_lv_150" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/reglements-d-urbanisme' >Règlements d’urbanisme</a></div><div id="first_lv_151" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/code-d-ethique' >Code d’éthique</a></div><div id="first_lv_152" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/politiques-administratives' >Politiques administratives</a></div><div id="first_lv_153" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville/reglementation/piscines-reesidentielles' >Piscines résidentielles</a></div></div></div></div></li><li id="first_lv_10" class="first_li pt-2 pb-2 wow fadeIn nav-item  dropdown" data-wow-delay="0.2s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Citoyens<span class="caret"></span></a><div class="dropdown-menu horizontal-menu first_dropdown premier_dropdown "><div id="first_lv_52" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Services en ligne<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_154" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/services-en-ligne/portail-citoyen-voila-' >Portail citoyen Voilà!</a></div><div id="first_lv_155" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/services-en-ligne/requetes-et-signalements' >Requêtes (Voilà!) et signalements</a></div><div id="first_lv_156" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/services-en-ligne/carte-interactive' >Carte interactive</a></div></div></div><div id="first_lv_53" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Vie démocratique<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_157" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/seances-du-conseil' >Séances du conseil</a></div><div id="first_lv_158" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/elus-municipaux' >Élus municipaux</a></div><div id="first_lv_159" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/comites-consultatifs' >Comités consultatifs</a></div><div id="first_lv_160" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/procedure-de-demande-de-scrutin' >Procédure de demande de scrutin</a></div><div id="first_lv_161" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique/elections-municipales-et-districts-electoraux' >Élections municipales et districts électoraux</a></div></div></div><div id="first_lv_54" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Communauté<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_162" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/documents-d-information-aux-citoyens' >Documents d’information aux citoyens</a></div><div id="first_lv_163" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/aidons-notre-communaute' >Aidons notre communauté</a></div><div id="first_lv_164" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/annuaire-communautaire' >Annuaire communautaire</a></div><div id="first_lv_165" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/associations-sportives' >Associations sportives</a></div><div id="first_lv_166" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/nouveaux-residents' >Nouveaux résidents</a></div><div id="first_lv_167" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communaute/courrier-publicitaire' >Courrier publicitaire</a></div></div></div><div id="first_lv_55" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Communications<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_168" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communications/panneaux-electroniques' >Panneaux électroniques</a></div><div id="first_lv_169" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communications/communiques-de-presse' >Communiqués de presse</a></div><div id="first_lv_170" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communications/medias-sociaux' >Médias sociaux</a></div><div id="first_lv_171" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/communications/infolettres' >Infolettres</a></div></div></div></div></li><li id="first_lv_11" class="first_li pt-2 pb-2 wow fadeIn nav-item  dropdown" data-wow-delay="0.4s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Services<span class="caret"></span></a><div class="dropdown-menu horizontal-menu first_dropdown premier_dropdown "><div id="first_lv_57" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Affaires juridiques & greffe<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_172" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/affaires-juridiques-greffe/acces-a-l-information' >Accès à l’information</a></div><div id="first_lv_173" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/affaires-juridiques-greffe/avis-publics' >Avis publics</a></div><div id="first_lv_174" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/affaires-juridiques-greffe/documents-publics' >Documents publics</a></div><div id="first_lv_175" class="dropdown-item  a1 pl-0"><a href='https://www.assermentation.justice.gouv.qc.ca/ServicesPublicsConsultation/Commissaires/Proximite/Criteres.aspx' target='_blank' >Commissaire à l’assermentation</a></div><div id="first_lv_176" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/affaires-juridiques-greffe/reclamations' >Réclamations</a></div></div></div><div id="first_lv_58" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Sécurité publique<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_177" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/service-de-police' >Service de police</a></div><div id="first_lv_178" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/securite-incendie' >Sécurité incendie</a></div><div id="first_lv_179" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/patrouille-municipale' >Patrouille municipale</a></div><div id="first_lv_180" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/constats-d-infraction' >Constats d’infraction</a></div><div id="first_lv_181" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/nuisances' >Nuisances</a></div><div id="first_lv_182" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/stationnement' >Stationnement</a></div><div id="first_lv_183" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/securite-publique/securite-routiere' >Sécurité routière</a></div></div></div><div id="first_lv_59" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Mesures d’urgence<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_184" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/situation-d-urgence' >Situation d’urgence</a></div><div id="first_lv_185" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/inondation' >Inondation</a></div><div id="first_lv_186" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/chaleur-extreme' >Chaleur extrême</a></div><div id="first_lv_187" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/froid-extreme' >Froid extrême</a></div><div id="first_lv_188" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/mesures-d-urgence/code-red--alertes-d-urgence-' >CodeRed (alertes d’urgence)</a></div></div></div><div id="first_lv_60" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Urbanisme<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_189" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/comites-consultatif-d-urbanisme' >Comités consultatif d’urbanisme</a></div><div id="first_lv_190" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/conservation-du-patrimoine' >Conservation du patrimoine</a></div><div id="first_lv_191" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/plan-d-implantation-et-d-integration-architecturale--piia-' >Plan d’implantation et d’intégration architectural</a></div><div id="first_lv_192" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/programme-particulier-d-urbanisme' >Programme particulier d’urbanisme</a></div><div id="first_lv_193" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/urbanisme/permis-et-formulaires' >Permis et formulaires</a></div></div></div><div id="first_lv_60" class="dropdown-item secone bordure ziri  dropdown-submenu"><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services/info-travaux' class="seconde  underline-none" >Info-Travaux</a></div></div></div></li><li id="first_lv_12" class="first_li pt-2 pb-2 wow fadeIn nav-item  dropdown" data-wow-delay="0.6s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Environnement<span class="caret"></span></a><div class="dropdown-menu horizontal-menu first_dropdown premier_dropdown "><div id="first_lv_61" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Gestion des déchets<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_194" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/gestion-des-dechets/calendrier-des-collectes' >Calendrier des collectes</a></div><div id="first_lv_195" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/gestion-des-dechets/autres-collectes' >Autres collectes</a></div><div id="first_lv_196" class="dropdown-item  a1 pl-0"><a href='https://montreal.ca/sujets/ecocentres' target='_blank' >Écocentre</a></div></div></div><div id="first_lv_62" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Développement durable<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_197" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/developpement-durable/fonds-vers-un-avenir-durable' >Fonds Vers un avenir durable</a></div><div id="first_lv_198" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/developpement-durable/plan-local-de-developpement-durable' >Plan local de développement durable</a></div></div></div><div id="first_lv_63" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Initiatives vertes<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_199" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/sacs-de-plastique-interdits' >Sacs de plastique interdits</a></div><div id="first_lv_200" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/apiculture-urbaine' >Apiculture urbaine</a></div><div id="first_lv_201" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/un-arbre-pour-mon-quartier' >Un arbre pour mon quartier</a></div><div id="first_lv_202" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/ville-amie-des-oiseaux' >Ville amie des oiseaux</a></div><div id="first_lv_203" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/ville-amie-des-monarques' >Ville amie des monarques</a></div><div id="first_lv_204" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/une-naissance--un-arbre' >Une naissance, un arbre</a></div><div id="first_lv_205" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/initiatives-vertes/recuperation-des-materiaux-d-emballage-en-polystyrene' >Récupération des matériaux d’emballage en polystyr</a></div></div></div><div id="first_lv_71" class="dropdown-item secone bordure ziri "><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/gestion-des-matieres-residuelles' class="seconde  underline-none" >Gestion des matières résiduelles</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/eau-potable' class="seconde  underline-none" >Eau potable</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/agrile-du-frene' class="seconde  underline-none" >Agrile du frêne</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/foyers-et-appareils-a-combustion-solide' class="seconde  underline-none" >Foyers et appareils à combustion solide</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/radon' class="seconde  underline-none" >Radon</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/terrains-contamines' class="seconde  underline-none" >Terrains contaminés</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/zones-inondables' class="seconde  underline-none" >Zones inondables</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement/reseau-express-metropolitain--rem-' class="seconde  underline-none" >Réseau Express Métropolitain (REM)</a></div></div></div></li><li id="first_lv_13" class="first_li pt-2 pb-2 wow fadeIn nav-item  dropdown" data-wow-delay="0.8s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Loisirs et culture<span class="caret"></span></a><div class="dropdown-menu horizontal-menu first_dropdown premier_dropdown "><div id="first_lv_72" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Bibliothèque<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_206" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/informations-generales' >Informations générales</a></div><div id="first_lv_207" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/activites' >Activités</a></div><div id="first_lv_208" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/services-de-prets' >Services de prêts</a></div><div id="first_lv_209" class="dropdown-item  a1 pl-0"><a href='https://sadb.mimas.opalsinfo.net/bin/home#0' target='_blank' >Catalogue virtuel</a></div><div id="first_lv_210" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/programme-une-naissance-un-livre' >Programme une naissance un livre</a></div></div></div><div id="first_lv_73" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Service des loisirs<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_211" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/service-des-loisirs/informations-generales' >Informations générales</a></div><div id="first_lv_212" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/service-des-loisirs/carte-acces-chalet-et-rabais-residents' >Carte accès chalet et rabais résidents</a></div><div id="first_lv_213" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/service-des-loisirs/location-de-salles' >Location de salles</a></div><div id="first_lv_214" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/service-des-loisirs/modalites-d-inscription' >Modalités d’inscription</a></div></div></div><div id="first_lv_74" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Activités et évènements<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_215" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/activites/programmation-saisonniere' >Programmation saisonnière</a></div><div id="first_lv_216" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/activites/bougebouge-kirkland-2025' >BougeBouge Kirkland 2025</a></div><div id="first_lv_217" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/activites/artistes-de-rue' >Artistes de rue</a></div></div></div><div id="first_lv_76" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Installations récréatives<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_218" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/installations-recreatives/parcs-municipaux' >Parcs municipaux</a></div><div id="first_lv_219" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/installations-recreatives/piscine-municipale' >Piscine municipale</a></div><div id="first_lv_220" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/installations-recreatives/terrains-de-sport' >Terrains de sport</a></div><div id="first_lv_221" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/installations-recreatives/patinoires' >Patinoires</a></div></div></div><div id="first_lv_78" class="dropdown-item secone bordure ziri "><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/camp-de-jour' class="seconde  underline-none" >Camp de jour</a></div><div class="dropdown-item"><a href='https://visiter.sadb.qc.ca' class="seconde  underline-none" >S’évader sans s’éloigner</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/les-parcours-actifs-' class="seconde  underline-none" >Les parcours actifs </a></div></div></div></li><li id="first_lv_14" class="first_li pt-2 pb-2 wow fadeIn nav-item  dropdown" data-wow-delay="1s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">Aînés<span class="caret"></span></a><div class="dropdown-menu horizontal-menu first_dropdown premier_dropdown "><div id="first_lv_82" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Bénévolat<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_222" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/benevolat/s-impliquer-dans-la-communaute' >S’impliquer dans la communauté</a></div><div id="first_lv_223" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/benevolat/centre-d-action-benevole-ouest-de-l-ile' >Centre d’action bénévole Ouest-de-l’Île</a></div></div></div><div id="first_lv_83" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Transport<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_224" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/transport/transport-en-commun' >Transport en commun</a></div><div id="first_lv_225" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/transport/services-d-accompagnement' >Services d’accompagnement</a></div></div></div><div id="first_lv_84" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Sécurité alimentaire<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_226" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite-alimentaire/preparation-des-repas' >Préparation des repas</a></div><div id="first_lv_227" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite-alimentaire/aide-aux-courses' >Aide aux courses</a></div><div id="first_lv_228" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite-alimentaire/popote-roulante' >Popote roulante</a></div></div></div><div id="first_lv_85" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Sécurité<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_229" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/journee-mondiale-de-lutte-contre-la-maltraitance-des-personnes-ainees' >Journée mondiale de lutte contre la maltraitance</a></div><div id="first_lv_230" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/service-de-police-' >Service de Police </a></div><div id="first_lv_231" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/prevention---abus-et-maltraitance' >Prévention - Abus et maltraitance</a></div><div id="first_lv_232" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/patrouille-municipale' >Patrouille municipale</a></div><div id="first_lv_233" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/securite-incendie' >Sécurité incendie</a></div><div id="first_lv_234" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/securite/securicab' >Sécuricab</a></div></div></div><div id="first_lv_86" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Logement<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_235" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/logement/square-bellevue' >Square Bellevue</a></div><div id="first_lv_236" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/logement/etablissements-et-services-offerts' >Établissements et services offerts</a></div><div id="first_lv_237" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/logement/aide-a-domicile' >Aide à domicile</a></div><div id="first_lv_238" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/logement/locataires' >Locataires</a></div></div></div><div id="first_lv_89" class="dropdown-item secone bordure ziri "><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/municipalite-amie-des-aines--mada-' class="seconde  underline-none" >Municipalité amie des aînés (MADA)</a></div><div class="dropdown-item"><a href='
+https://ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/activites' target='_blank' class="seconde  underline-none" >Activités du service des loisirs</a></div><div class="dropdown-item"><a href='
+https://ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture/bibliotheque/activites' class="seconde  underline-none" >Activités de la bibliothèque</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/ressources' class="seconde  underline-none" >Ressources</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/services-publics-et-communautaires' class="seconde  underline-none" >Services publics et communautaires</a></div><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines/autres-associations' class="seconde  underline-none" >Autres organismes et associations</a></div></div></div></li><li id="first_lv_15" class="first_li pt-2 pb-2 wow fadeIn nav-item " data-wow-delay="1.2s"><a href='
+https://ville.sainte-anne-de-bellevue.qc.ca/ville/administration/coordonnees' class="nav-link "  >Nous joindre</a></li><li id="first_lv_16" class="first_li pt-2 pb-2 wow fadeIn nav-item  dropdown" data-wow-delay="1.4s"><a href="javascript:void(0);" class="nav-link dropdown-toggle"  data-toggle="dropdown">English<span class="caret"></span></a><div class="dropdown-menu horizontal-menu first_dropdown premier_dropdown "><div id="first_lv_91" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Public Security<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_239" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/police-department' >Police Department</a></div><div id="first_lv_240" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/fire-department' >Fire Department</a></div><div id="first_lv_241" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/municipal-patrol' >Municipal Patrol</a></div><div id="first_lv_242" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/statement-of-offense' >Statement of offense</a></div><div id="first_lv_243" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/nuisances' >Nuisances</a></div><div id="first_lv_244" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/public-security/parking' >Parking</a></div></div></div><div id="first_lv_92" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Emergency Measures<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_245" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/emergency-situation' >Emergency Situation</a></div><div id="first_lv_246" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/extreme-heat' >Extreme Heat</a></div><div id="first_lv_247" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/flooding' >Flooding</a></div><div id="first_lv_248" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/extreme-cold' >Extreme Cold</a></div><div id="first_lv_249" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/emergency-measures/code-red--emergency-alerts' >Code Red (Emergency Alerts)</a></div></div></div><div id="first_lv_93" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Environment<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_250" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/environment/collection-schedule' >Collection Schedule</a></div><div id="first_lv_251" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/environment/other-collections' >Other Collections</a></div><div id="first_lv_252" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/environment/residual-materials-management' >Residual Materials Management</a></div></div></div><div id="first_lv_94" class="dropdown-item secone bordure  dropdown-submenu"><a href="javascript:void(0);" class="seconde bleu-clair underline-none" >Taxation and Assessment<span class="caret"></span></a><div class=" horizontal-menu second-dropdown show"><div id="first_lv_253" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/taxation-and-assessment/municipal-taxes' >Municipal Taxes</a></div><div id="first_lv_254" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/taxation-and-assessment/sale-for-non-payment-of-taxes' >Sale for non-payment of taxes</a></div><div id="first_lv_255" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/taxation-and-assessment/water-meters' >Water Meters</a></div><div id="first_lv_256" class="dropdown-item  a1 pl-0"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/taxation-and-assessment/property-assessment' >Property Assessment</a></div></div></div><div id="first_lv_94" class="dropdown-item secone bordure ziri  dropdown-submenu"><div class="dropdown-item"><a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english/info-works' class="seconde  underline-none" >Info-Works</a></div></div></div></li>                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+    </header>
+
+
+    <!-- /* vg-69467 */ -->
+    <!-- <link rel="stylesheet" type="text/css" href="../../inc/contactUs.css?rand='.rand(100000,999999)"> -->
+<link rel="stylesheet" type="text/css" href="/inc/components/contactUs/client/inc/contactUs.css?rand=910990">
+
+
+
+
+<div id="request-contactUs" class="wow animated fadeInRight" data-wow-delay="0.2s">
+    <div id="contactUs-tab">
+        <span style="background-color: #1E76B2">
+            Contactez-nous!</span>
+    </div>
+    <div id="contactUs-form">
+        <a id="close" class="contactUs-close" href="javascript:void(0);">
+            <img src="/client_file/themes/biztrox/interface/close.png">
+        </a>
+        <div>
+            <div class="clearfix"></div>
+<br />
+<div id="Module-ContactForm">
+
+        
+    <form action="" method="post" id="contactFormSide">
+
+        <div class="Field">
+            <label>Nom<sup class="MandatoryField">*</sup></label>
+            <input type="text" name="NomF" style="width: 90%;" value="" required="required" />
+        </div>
+
+        <div class="Field">
+            <label>Courriel<sup class="MandatoryField">*</sup></label>
+            <input type="text" name="CourrielF" style="width: 90%;" value="" required="required" />
+        </div>
+
+        <div class="Field">
+            <label>Téléphone</label>
+            <input type="text" name="telephoneF" style="width: 90%;" value="" />
+        </div>
+
+        <div class="Field">
+            <label>Sujet<sup class="MandatoryField">*</sup></label>
+            <input type="text" name="SujetF" style="width: 90%;" value="" required="required" />
+        </div>
+
+        <div class="Field">
+            <label>Commentaires<sup class="MandatoryField">*</sup></label>
+            <textarea name="MessageF" cols="" rows="" style="width: 90%;" required="required"></textarea>
+        </div>
+        <div class="Field d-none">
+            <label class="col-sm-3 col-form-label" for="MessageF">Veuillez entrer votre mot de passe de récupération<sup class="MandatoryField text-danger">*</sup>
+            </label>
+            <div class="col-sm-9">
+                <input type="text" name="t_UQ8xn7o4" value="" />
+            </div>
+        </div>
+
+        <div class="Field d-none">
+            <label class="col-sm-3 col-form-label" for="MessageF">Veuillez entrer votre mot de passe de récupération<sup class="MandatoryField text-danger">*</sup>
+            </label>
+            <div class="col-sm-9">
+                <input type="checkbox" name="ch_UQ8xn7o4" value="1" />
+            </div>
+        </div>
+        <br />
+                        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+                <div style="" class="g-recaptcha" data-sitekey="6LdkwQcqAAAAAN8wcHYAdo034i0YjFYvGIXxJoIM"></div>
+                <input class="BtnFormsInput" name="submit" type="submit" value="Envoyer" />
+                        <br />
+        <input type="hidden" name="action" value="send" />
+
+    </form>
+
+</div>
+
+        </div>
+
+    </div>
+</div><div class="search-form">
+    <input type="hidden" name="rechercher_type" value="0">
+    <input type="hidden" name="search_from" value="menu">
+    <input type="hidden" name="rechercheparF" value="all">
+	<input name="search_all" type="hidden" value="all">
+    <input type="hidden" name="change_section" value="null">
+    <a href="#" class="close" id="searchClose">
+        <i class="ti-close"></i>
+    </a>
+    <div class="container">
+        <form method="GET" action="/rechercher.php" class="row">
+            <div class="col-lg-10 mx-auto">
+                <h3>Recherche</h3>
+                <div class="input-wrapper">
+                    <input type="text" class="form-control" name="rechercher" id="search" placeholder="Entrez un mot clé..." required>
+                    <button><i class="ti-search"></i></button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>     <div id="entete_image_interne" class="wow animated fadeIn row img-gradient-img_entete_default" data-wow-delay="0.2s">
+     	        <img src="/client_file/themes/biztrox/interface/site/-906.png" title="Élus municipaux"  />
+        <div class="container fix_overflow">
+            <div class="col-md-12 fix_overflow text-right" id="wrapper_titre_interne">
+                 <h1 id="slogant_page_interne" class="fix_overflow wow fadeIn" data-wow-delay="0.75s">Élus municipaux</h1>            </div>
+        </div>
+     </div>
+    <div class="fil_arianne bg-photo pb-2 px-5 py-3 bg-gris">
+<div class="bg-gris row">
+<h4 class="col-md-8 px-0 mx-0">Élus municipaux</h4>
+<div class="arianne_link col-md-4 text-right px-0 mx-0">
+   <a href="/">Accueil</a>
+            <span class="separateur-arianne"> > </span>         <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens'>Citoyens</a>
+               <span class="separateur-arianne"> > </span>         <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens/vie-democratique'>Vie démocratique</a>
+               <span class="separateur-arianne"> > </span>        
+         
+         <span class="texte_mauve">Élus municipaux</span>
+      </div>
+<div class="section_color section1448"></div>
+</div>
+</div><section id="section_top" class="section m-4">
+
+<div class="container wow animated fadeIn layout_1 " id="main_wrapper_interne" data-wow-delay="0.4s">
+<!-- //VG-069466 -->
+<div class="row layout_1_page">
+    <div class="col-md-12" style="overflow: hidden;">
+<h1>Élus municipaux</h1>
+<p><img src="/client_file/upload/Conseillers/Cookie_Sainte-Anne-de-Bellevue_draft_v0.3_(2).jpg" width="524" class="responsive_img" style="vertical-align: baseline; float: right;" height="426" /></p>
+<h2>Maire</h2>
+<p>Paola Hawa | <a href="mailto:phawa@sadb.qc.ca">phawa@sadb.qc.ca</a> <br />Présidente du <a href="https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens//comites-consultatifs">Comité consultatif d'urbanisme (CCU)</a><br /><a href="https://www.ville.sainte-anne-de-bellevue.qc.ca/client_file/upload/pdf/citoyens/vie_democratique/Lettremairefinale.pdf" target="_blank">Communiqué de Madame le maire</a></p>
+<h2>Conseiller district 1</h2>
+<p>Ryan Young | <a href="mailto:ryoung@sadb.qc.ca?subject=">ryoung@sadb.qc.ca</a></p>
+<h2>Conseiller district 2</h2>
+<p>Jean-Pierre Cardinal | <a href="mailto:jpcardinal@sadb.qc.ca?subject=">jpcardinal@sadb.qc.ca</a><br />Président du <a href="https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens//comites-consultatifs">Comité consultatif sur la circulation et la sécurité publique</a></p>
+<h2>Conseiller district 3</h2>
+<p>Daniel Boyer | <a href="mailto:dboyer@sadb.qc.ca?subject=">dboyer@sadb.qc.ca</a><br />Président du <a href="https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens//comites-consultatifs">Comité consultatif sur le développement communautaire</a></p>
+<h2>Conseiller district 4</h2>
+<p>Tom Broad | <a href="mailto:tbroad@sadb.qc.ca?subject=">tbroad@sadb.qc.ca</a></p>
+<h2>Conseiller district 5</h2>
+<p>Yvan Labelle | <a href="mailto:ylabelle@sadb.qc.ca?subject=">ylabelle@sadb.qc.ca</a></p>
+<h2>Conseiller district 6</h2>
+<p>Denis Gignac | <a href="mailto:dgignac@sadb.qc.ca">dgignac@sadb.qc.ca</a></p>
+<h2><b>Attestation de participation</b></h2>
+<p><a href="https://www.ville.sainte-anne-de-bellevue.qc.ca/client_file/upload/Conseillers/Attestation_de_participation_formation_sur_lEthique_et_deontologie.pdf" target="_blank">Formation des membres du conseil sur l’éthique et la déontologie en matière municipale (article 15 de la <i>Loi sur l'éthique et la déontologie en matière municipale</i> (chapitre E-15.1.0.1)</a>)</p><!-- footer -->
+
+        </div>
+        <div class="col-md-4 no-over">
+            
+</div><!-- id="main_wrapper_interne" --><!-- faux, je ferme div#4 -->
+
+
+    </div><!-- je ferme div#3 -->
+
+    </div><!-- je ferme div#2  -->
+
+        </div><!-- je ferme div#1  -->
+
+</section></div>
+<footer class="bg-secondary wow animated fadeIn">
+    <div class="py-50 border-bottom">
+        <div class="container">
+                            <div class="row">
+                    <div class="col-md-4">
+                        <div class="mb-5 mb-md-0 text-center text-md-left" id="logo_footer_wrapper">
+                            <!-- logo -->
+                            <img src="https://ville.sainte-anne-de-bellevue.qc.ca/client_file/themes/logos/logoFooter_tag.png" />
+                            <p class="text-white mb-30"></p>
+                            <!-- social icon -->
+                            <ul class="list-inline">
+                                 <li class="list-inline-item   show_mobile ">
+                    <a href="https://sainte-anne-de-bellevue.appvoila.com/fr/" target="_blank">
+                        <!-- <i class="ti-search"></i> -->
+                        <img src="/client_file/upload/voila_mobile.png" class="voila  wow animated fadeIn" data-wow-delay="0.3s" style="height: 40px;
+    width: 40px;" />
+                    </a>
+                </li>
+                                <li class="list-inline-item wow animated fadeIn" data-wow-delay="0.3s"><a href="https://www.facebook.com/steannedebellevue" target="_blank" class="face social-icon-outline"><i class="fab fa-facebook-f"></i></a></li><li class="list-inline-item wow animated fadeIn" data-wow-delay="0.3s"><a class="insta social-icon-outline" id="" href="https://www.instagram.com/sainteannedebellevue/" target="_blank"><i class="fab fa-instagram"></i></a></li><li class="list-inline-item wow animated fadeIn" data-wow-delay="0.3s"><a class="social-icon-outline yt" id="" href="https://www.youtube.com/@villedesainte-anne-de-bell7371" target="_blank"><i class="fab fa-youtube"></i></a></li><li class="list-inline-item wow animated fadeIn" data-wow-delay="0.3s"><a class="social-icon-outline linkedIn" id="" href="https://www.linkedin.com/company/ville-de-sainte-anne-de-bellevue/" target="_blank"><i class="fab fa-linkedin"></i></a></li>                            </ul>
+                        </div>
+                    </div>
+                    <!-- footer links -->
+                    <div class="col-md-4 col-12 ">
+
+
+                        <div class="footer-links row pt-2">
+
+                                                                    <div class="col-md-4 mb-3">
+                                            <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/ville' class=""><span>Ville</span></a>
+                                        </div>
+                                                                    <div class="col-md-4 mb-3">
+                                            <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/citoyens' class="active"><span>Citoyens</span></a>
+                                        </div>
+                                                                    <div class="col-md-4 mb-3">
+                                            <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/services' class=""><span>Services</span></a>
+                                        </div>
+                                                                    <div class="col-md-4 mb-3">
+                                            <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/environnement' class=""><span>Environnement</span></a>
+                                        </div>
+                                                                    <div class="col-md-4 mb-3">
+                                            <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/loisirs-et-culture' class=""><span>Loisirs et culture</span></a>
+                                        </div>
+                                                                    <div class="col-md-4 mb-3">
+                                            <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/aines' class=""><span>Aînés</span></a>
+                                        </div>
+                                                                    <div class="col-md-4 mb-3">
+                                            <a href='
+https://ville.sainte-anne-de-bellevue.qc.ca/ville/administration/coordonnees' class=""><span>Nous joindre</span></a>
+                                        </div>
+                                                                    <div class="col-md-4 mb-3">
+                                            <a href='https://www.ville.sainte-anne-de-bellevue.qc.ca/english' class=""><span>English</span></a>
+                                        </div>
+                                                    </div>
+                    </div>
+                    <!-- footer links -->
+                    <!--<div class="col-md-4 col-6">
+                        <h4 class="text-white mb-4">Adresse</h4>
+                        <p class="text-white mb-4">109, rue Sainte-Anne<br />
+Sainte-Anne-de-Bellevue (Québec) H9X 1M2</p>
+                    </div>
+                    -->
+                    <div class="col-md-4 col-12 infolettrefooter">
+                        <div class="box_element col-md-"><div class="box_element col-md-">
+    <div class="" id="infolettre_home_wrapper" style="overflow-x: hidden;">
+    	<h3 style="font-size: 23px;">Recevez notre infolettre !</h3>
+    	<p class="light">Restez informé ! Recevez nos bulletins d’information directement par courriel !</p>
+            <a class="Btn " href="javascript:void(0);" data-toggle="modal" data-target="#embed_cyberimpact">M'inscrire</a>
+            <div class="modal fade" id="embed_cyberimpact">
+                <div class="modal-dialog" style="width:500px; height:500px;">
+                    <div class="modal-content bmd-modalContent">
+                        <div class="modal-body" >
+                            <iframe src=https://app.cyberimpact.com/clients/2735/subscribe-forms/43EB8A5F-CEA6-4AA6-910E-10192235958A width="450" height="663" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe>
+                            <br /><button type="button" class="Btn" data-dismiss="modal">Fermer</button>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal-dialog -->
+            </div>
+    </div></div></div>                    </div>
+                </div>
+                    </div>
+    </div>
+    <!-- copyright -->
+    <div class="pt-4 pb-3 position-relative wow fadeInDown" data-wow-delay="0.5s">
+        <div class="container ">
+            <div class="row">
+                <div class="text-white text-center col-md-7">
+                   <p>
+
+                       <a class="text-underline" href="/ville/reglementation/politiques-administratives">Politique de confidentialité</a> 2025 &copy;  Ville de Sainte-Anne-de-Bellevue                    </p>
+                </div>
+            </div>
+        </div>
+        <!-- back to top -->
+        <button class="back-to-top p-0">
+            <i class="fa fa-chevron-up"></i>
+        </button>
+    </div>
+</footer>
+<!-- the id main -->
+
+<div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" data-dismiss="modal">
+        <div class="modal-content">
+            <div class="modal-header padding-0">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Fermer</span></button>
+                <p class="text-left" id="text_img_fullsize"></p>
+            </div>
+            <div class="modal-body">
+                <img src="" class="imagepreview w-100">
+            </div>
+            <div class="modal-footer">
+                <div class="col-xs-12"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" tabindex="-1" id="iframe_modal" data-backdrop="false">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"> <span aria-hidden="true">&times;</span> </button>
+                <iframe class="iframe_modal" frameborder="0"></iframe>
+            </div>
+            <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button></div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" tabindex="-1" id="modal_gi2_small" data-backdrop="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"> <span aria-hidden="true">&times;</span> </button>
+                <iframe class="iframe_modal" frameborder="0"></iframe>
+            </div>
+            <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button></div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" tabindex="-1" id="modal_gi2_large" data-backdrop="false">
+    <div class="modal-dialog modal-xl">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"> <span aria-hidden="true">&times;</span> </button>
+                <iframe class="iframe_modal" frameborder="0"></iframe>
+            </div>
+            <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button></div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="modal_gi2_medium" tabindex="-1" data-backdrop="false">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Fermer"> <span aria-hidden="true">&times;</span> </button>
+                <iframe class="iframe_modal" frameborder="0"></iframe>
+            </div>
+            <div class="modal-footer"><button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button></div>
+        </div>
+    </div>
+</div>
+       <div class="modal fade" id="cookiemodal">
+            <div class="modal-dialog-cookie">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header pb-0 mb-0">
+
+                        <button type="button" class="closemodalcookie float-right mt-0 " data-dismiss="modal">&times;</button>
+                        <h3 class="mt-2 font-weight-bolder text-dark">PARAMÈTRES DE COOKIES</h3>
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body pt-0 mt-0">
+
+                        <p style="text-align: justify;">En cliquant sur <strong>&laquo; Accepter &raquo;</strong>, vous acceptez le stockage de <a href="https://ville.sainte-anne-de-bellevue.qc.ca/politique-de-cookies">t&eacute;moins (cookies)</a> sur votre appareil pour am&eacute;liorer les performances de notre site Web et recueillir certaines statistiques de fr&eacute;quentation via Google Analytics.&nbsp;Le respect de votre vie priv&eacute;e est important pour nous, nous ne collectons aucune donn&eacute;e personnelle sans votre consentement.</p><a class="moreinfo" href="/politique-de-cookies" target="_blank"> Plus d'informations  </a>
+                        <div class="row w-100 mt-2">
+                            <div class=" col-md-6 overflow-hidden ml-0  pr-1"> <button class="Btn btn accepter closemodalcookie w-100 d-flex justify-content-center ">Accepter </button> </div>
+                            <div class=" col-md-6 overflow-hidden mr-0 pr-0 pl-1"><button class="Btn btn refuser closemodalcookie w-100 d-flex justify-content-center ">Refuser</button></div>
+                            <div class=" col-md-12 overflow-hidden ml-0  mr-0 pr-0"><button class="Btn btn overflow-hidden d-flex justify-content-center param w-100 mt-0">PARAMÈTRES</button> </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="paramodal">
+            <div class="modal-dialog-cookie">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header pb-0 mb-0">
+                        <button type="button" class="closemodalparam closemodalcookie float-right mt-0" data-dismiss="modal">&times;</button>
+                        <h3 class="mt-2 font-weight-bolder text-dark">PARAMÈTRES DE COOKIES</h3>
+
+                    </div>
+
+                    <!-- Modal body -->
+                    <div class="modal-body pt-0 mt-0">
+
+                        <p style="text-align: justify;">En cliquant sur <strong>&laquo; Accepter &raquo;</strong>, vous acceptez le stockage de <a href="https://ville.sainte-anne-de-bellevue.qc.ca/politique-de-cookies">t&eacute;moins (cookies)</a> sur votre appareil pour am&eacute;liorer les performances de notre site Web et recueillir certaines statistiques de fr&eacute;quentation via Google Analytics.&nbsp;Le respect de votre vie priv&eacute;e est important pour nous, nous ne collectons aucune donn&eacute;e personnelle sans votre consentement.</p>
+
+                        <form id="formparam">
+
+                            <label for="checkbox1">
+                                <input type="checkbox" id="necessaire" name="necessaire" class="classparam" checked disabled> <b>Strictement nécessaire (toujours actif)</b>
+                                <p>Ces fichiers témoins sont essentiels au fonctionnement de base de notre site Web. Ils ne peuvent être désactivés.</p>
+                            </label><br>
+
+                            <label for="checkbox4">
+                                <input type="checkbox" id="analyse" name="analyse" class="classparam" checked>
+                                <b>Analytique</b>
+                                <p>Ce type de cookie est utilisé pour collecter des informations sur la façon dont les visiteurs utilisent le site. Il enregistre des données telles que le nombre de visiteurs, la durée de la visite sur le site, les pages visitées et les liens cliqués. Ces informations peuvent ensuite être utilisées pour analyser et améliorer les performances du site, ainsi que pour comprendre les préférences et les comportements des utilisateurs.</p>
+                            </label><br>
+
+                            <button  class="w-100 accepter_all btn closemodalcookie" > Accepter tous les cookies </button>
+                            <button  class="w-100 save_param mt-0 btn closemodalcookie" >Enregistrer les paramètres</button>
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <!-- jQuery -->
+<script src="/client_file/themes/biztrox/plugins/jQuery/jquery.min.js" type="text/javascript" nonce="cbq1ExnIxp"></script>
+<script src="/client_file/themes/biztrox/plugins/jQuery/jquery-ui.min.js" nonce="cbq1ExnIxp"></script>
+<script src="/client_file/themes/biztrox/plugins/jQuery/jquery.mcustomscrollbar.concat.min.js" nonce="cbq1ExnIxp"></script>
+<script type="text/javascript" src="/js/jquery.inputmask.bundle.js" nonce="cbq1ExnIxp"></script>
+<script src="/admin/js/jquery.dataTables.min.js" nonce="cbq1ExnIxp"></script>
+<script src="/admin/js/datatable.js" nonce="cbq1ExnIxp"></script>
+<!-- <script src="https://cdn.datatables.net/buttons/2.2.2/js/dataTables.buttons.min.js"></script>-->
+<!--<script src="https://raw.githubusercontent.com/DataTables/Plugins/master/api/sum().js"></script> -->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>-->
+<!--<script src="https://cdn.datatables.net/buttons/2.2.2/js/buttons.html5.min.js"></script>-->
+<!--<script src="https://cdn.datatables.net/buttons/2.2.2/js/buttons.print.min.js"></script>-->
+<!-- datatables 1/2 -->
+<script src="/client_file/themes/biztrox/plugins/datatables/dataTables.buttons.min.js" nonce="cbq1ExnIxp"></script>
+<script src="/client_file/themes/biztrox/plugins/datatables/sum().js" nonce="cbq1ExnIxp"></script>
+<!-- jszip
+<script src="/client_file/themes/biztrox/plugins/ajax/jszip.min.js"  nonce="cbq1ExnIxp"></script>-->
+<!--<script src="/client_file/themes/biztrox/plugins/ajax/pdfmake.js"></script>-->
+<!-- vfs_fonts
+<script src="/client_file/themes/biztrox/plugins/ajax/vfs_fonts.js"  nonce="cbq1ExnIxp"></script>-->
+<!-- datatables 2/2-->
+<script src="/client_file/themes/biztrox/plugins/datatables/buttons.html5.min.js" nonce="cbq1ExnIxp"></script>
+<script src="/client_file/themes/biztrox/plugins/datatables/buttons.print.min.js" nonce="cbq1ExnIxp"></script>
+<!-- Bootstrap JS -->
+<script src="/client_file/themes/biztrox/plugins/bootstrap/bootstrap.min.js" nonce="cbq1ExnIxp"></script>
+<script src="/client_file/themes/biztrox/plugins/bootstrap/easy-responsive-tabs.js" nonce="cbq1ExnIxp"></script>
+<!-- magnific popup
+<script src="/client_file/themes/biztrox/plugins/magnific-popup/jquery.magnific.popup.min.js" nonce="cbq1ExnIxp"></script>-->
+<!-- slick slider
+<script src="/client_file/themes/biztrox/plugins/slick/slick.min.js" nonce="cbq1ExnIxp"></script> -->
+<!-- filter
+<script src="/client_file/themes/biztrox/plugins/filterizr/jquery.filterizr.min.js" nonce="cbq1ExnIxp"></script>-->
+<!-- Google Map -->
+
+<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
+<script  src="/client_file/themes/biztrox/plugins/google-map/gmap.js"></script>-->
+<!--<script src="/client_file/themes/biztrox/plugins/googleapi/googleapi.js"></script>-->
+<!-- Syo Timer
+<script src="/client_file/themes/biztrox/plugins/syotimer/jquery.syotimer.js" nonce="cbq1ExnIxp"></script>-->
+<!-- aos
+<script src="/client_file/themes/biztrox/plugins/aos/aos.js" nonce="cbq1ExnIxp"></script>-->
+
+<script src="/client_file/themes/biztrox/js/wow.js" nonce="cbq1ExnIxp"></script>
+
+<!-- swiper
+<script src="/client_file/themes/biztrox/plugins/swiper/swiper.min.js"></script>-->
+<!-- owl slider -->
+<script type="text/javascript" src="/client_file/themes/default/javascript/owl.v2.js" nonce="cbq1ExnIxp"></script>
+<!-- Main Script -->
+<script src="/client_file/themes/biztrox/js/theme.js?rand=1754718315" nonce="cbq1ExnIxp"></script>
+
+<!-- Custom Script -->
+
+    <script nonce="cbq1ExnIxp" async src="https://www.googletagmanager.com/gtag/js?id=G-354JYQ4DN2"></script><script nonce="cbq1ExnIxp" type="text/javascript" src="/inc/components/contactUs/client/inc/contactUs.js?rand=634921"></script><script src="/client_file/themes/biztrox/js/module.js?rand=1754718315" nonce="cbq1ExnIxp"></script>
+<script src="/client_file/themes/biztrox/js/custom.js?rand=1754718315" nonce="cbq1ExnIxp"></script>
+
+
+<script src="/client_file/formulaire/captcha/longbow.slidercaptcha.js" nonce="cbq1ExnIxp"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer nonce="cbq1ExnIxp"></script>
+<!--<script src="/client_file/themes/biztrox/plugins/googlecaptcha/captcha.js"></script> -->
+<script nonce="cbq1ExnIxp">$(document).ready(function(){
+                    $('#AnnonceGeneral').modal('show');
+
+                    $.ajax({
+                        type: "POST",
+                        url: "/update_nb_vues.php",
+                        data: { popup_displayed: "true", security_salt : "464683dfdfgdfgnidfsgsdgsd4584625dsd749"}
+                    });
+                    
+    $('#main_wrapper_interne img').each(function () {
+        var data = $(this).attr('alt');
+        var elem_style = $(this).attr('style');
+        if(!data){data = $(this).attr('title');}
+        var img_class = $(this).attr('class');
+        var check_specific_class;
+        var check_specific_class2;
+        if(img_class){
+            check_specific_class = img_class.match(/jb/g);	//visioneuse img
+            check_specific_class2 = img_class.match(/no_caption/g);
+        }
+        if(data && !check_specific_class && !check_specific_class2){
+            var spc_width_style;
+            var style_width = $(this).attr('width');
+            if(style_width!=''){
+                if(isNumeric(style_width))
+                {spc_width_style='width:'+style_width+'px;';}
+                else{spc_width_style='width:'+style_width+';';}
+            }
+            $(this).removeAttr('style');
+            $(this).wrap("<div class='img_caption' style='"+ spc_width_style + elem_style +"'></div>").parent('.img_caption').attr('data-alt', data);
+        }
+    });
+function adjustTextareaHeight(textarea) {
+    textarea.style.height = "auto";
+    var newHeight = textarea.scrollHeight;
+    if (newHeight == 0) {
+        textarea.style.height = "auto";
+    } else {
+        textarea.style.height = newHeight + "px";
+    }
+}
+$("textarea").on("input", function() {
+    adjustTextareaHeight(this);
+});
+
+$("textarea").each(function() {
+    adjustTextareaHeight(this);
+});
+$(".back-to-top").click(function(){
+    $("html, body").animate({
+        scrollTop: 0
+    }, "slow");
+    return false;
+
+});
+$("#main_slider").owlCarousel({autoplay:false,loop:true,autoplayTimeout:5000,
+autoplayHoverPause : true,
+nav: true,
+dots: false,
+autoplayTimeout: 2000,
+goToFirstSpeed: 3000,
+singleItem : true,
+autoHeight : true,
+animateOut:"slideOutRight",animateIn:"slideInLeft",slideTransition:"fade",items:1,
+    navText: [
+       "<i class='fa fa-chevron-left'></i>",
+       "<i class='fa fa-chevron-right'></i>"
+    ]
+});
+
+$("#slider_3").owlCarousel({autoplay:true,loop:true,autoplayTimeout:5000,
+autoplayHoverPause : true,
+nav: true,
+dots: false,
+autoplayTimeout: 2000,
+goToFirstSpeed: 3000,
+singleItem : false,
+items:4,
+autoHeight : true,
+animateOut:"fadeOut",animateIn:"fadeIn",slideTransition:"backSlide",
+    margin:10,
+    nav:true,
+    navText: [
+       "<i class='fa fa-chevron-left'></i>",
+       "<i class='fa fa-chevron-right'></i>"
+    ],
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:1
+        },
+        900:{
+            items:4
+        }
+    }
+});
+    
+    //VG-070433
+    $('.closemodalcookie').on('click', function() {
+        //console.log('closemodalcookie');
+        $('body').removeClass('modal-open');
+    });
+
+    // si on clique dehors du modal ,on peut pu cliquer sur autre chose
+    $('#cookiemodal').on('hidden.bs.modal', function () {
+        $('#cookiemodal').removeClass('show')
+    });
+
+    var currentURL = window.location.href;
+
+    function getCookieValue(cookieName) {
+
+        const cookies = document.cookie.split('; ');
+
+
+        for (let i = 0; i < cookies.length; i++) {
+            const cookiePair = cookies[i].split('=');
+
+            // Trim any leading or trailing spaces
+            const name = cookiePair[0].trim();
+            const value = cookiePair[1];
+
+
+            if (name === cookieName) {
+                // Decode and return the cookie value
+                return decodeURIComponent(value);
+            }
+        }
+
+
+        return null;
+    }
+
+    function removeFirstWordBeforeDot(url) {
+     const match = url.match(/https:\/\/(www\.)?([^/]+)\//);
+
+
+      if (match && match[2]) {
+
+        return match[2];
+      } else {
+
+        return '';
+      }
+    }
+
+    function removeBeforeFirstDotAndWww(url) {
+
+    const dotIndex = url.indexOf('.');
+
+
+    const secondSlashIndex = url.indexOf('/', url.indexOf('/') + 1);
+    let parser  = new URL(url);
+    let modifiedUrl = parser.hostname;
+
+
+    if (modifiedUrl.startsWith('www.')) {
+                modifiedUrl = modifiedUrl.slice(3);
+        }
+
+
+    return modifiedUrl;
+}
+
+    function removeFirstWordBeforeDot2(inputString) {
+
+    const dotIndex = inputString.indexOf('.');
+
+
+    if (dotIndex !== -1 && dotIndex > 0) {
+
+        const result = inputString.substring(dotIndex + 1);
+        return result;
+    } else {
+
+        return inputString;
+    }
+    }
+
+    var updatedURL = removeFirstWordBeforeDot(currentURL);
+
+    var another_ulrl = removeFirstWordBeforeDot2(updatedURL);
+
+
+   var other_url = removeBeforeFirstDotAndWww(currentURL);
+
+
+
+    function deleteCookie(name,URL) {
+
+        document.cookie = name + '=; Path=/; Domain=' + URL + '; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+
+
+    }
+
+    function isCookieSet(cookieName) {
+        var cookies = document.cookie.split(';');
+
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i].trim();
+            if (cookie.indexOf(cookieName + '=') === 0) {
+                return true; // Cookie found
+            }
+        }
+
+        return false; // Cookie not found
+    }
+
+    function listCookies() {
+        var cookies = document.cookie.split(';');
+        var cookieList = {};
+
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i].trim();
+            var eqPos = cookie.indexOf('=');
+            var name = eqPos > -1 ? cookie.substring(0, eqPos) : cookie;
+            var value = eqPos > -1 ? cookie.substring(eqPos + 1) : '';
+
+            cookieList[name] = value;
+        }
+
+        return cookieList;
+    }
+
+
+
+
+    function setSessionCookie(cookieName, cookieValue) {
+
+
+
+       var expirationDate = new Date();
+       expirationDate.setTime(expirationDate.getTime() + (400 * 24 * 60 * 60 * 1000));
+
+
+
+        var cookieString = cookieName + '=' + encodeURIComponent(cookieValue) + '; path=/; expires=' + expirationDate.toUTCString();
+
+        document.cookie = cookieString;
+    }
+
+    function deleteCookiesStartingWith(prefix) {
+        var cookies = document.cookie.split(';');
+
+        for (var i = 0; i < cookies.length; i++) {
+            var cookie = cookies[i].trim();
+            if (cookie.indexOf(prefix) === 0) {
+                // Delete the cookie that starts with the specified prefix
+                var cookieName = cookie.split('=')[0];
+
+                deleteCookie(cookieName,updatedURL);
+                deleteCookie(cookieName,another_ulrl);
+                deleteCookie(cookieName,other_url);
+
+            }
+        }
+    }
+
+    function deleteAllCookies() {
+        var cookies = document.cookie.split(';');
+
+
+
+        deleteCookiesStartingWith('_ga');
+        deleteCookiesStartingWith('__ut');
+        deleteCookiesStartingWith('_cl');
+
+
+        setSessionCookie('decision_cookie', '1');
+    }
+    var cookieNameToCheck = 'decision_cookie';
+    var isSet = isCookieSet(cookieNameToCheck);
+    var vallcookie= getCookieValue(cookieNameToCheck);
+    if (isSet) {
+        $('#cookiemodal').modal('hide');
+        $('#cookiemodal').hide();
+        $('#cookiemodal').removeClass('show');
+        if(vallcookie=='1')
+        {
+
+            deleteAllCookies();
+        }
+
+    } else {
+        $('#cookiemodal').addClass('show'); 
+        $('#cookiemodal').modal('show');
+        $('#main_nav').addClass('opened-cookie-modal');
+
+    }
+
+    $('.refuser').click(function() {
+
+        deleteAllCookies();
+
+
+
+        $('#cookiemodal').modal('hide');
+        $('#cookiemodal').hide();
+        $('#cookiemodal').removeClass('show');
+
+
+    });
+
+    $('.closemodalcookie').click(function() {
+
+
+
+
+        $('#cookiemodal').modal('hide');
+        $('#cookiemodal').hide();
+        $('#cookiemodal').removeClass('show');
+
+
+
+    });
+
+    $('.closemodalparam').click(function() {
+
+
+
+
+        $('#paramodal').modal('hide');
+        $('#paramodal').hide();
+        $('#paramodal').removeClass('show');
+
+
+
+    });
+
+
+    $('.accepter').click(function() {
+
+
+
+
+        setSessionCookie('decision_cookie', '2');
+        $('#cookiemodal').modal('hide');
+        $('#cookiemodal').hide();
+        $('#cookiemodal').removeClass('show');
+
+
+
+    });
+
+    $('.accepter_all').click(function(e) {
+
+        e.preventDefault();
+
+
+
+        setSessionCookie('decision_cookie', '2');
+        $('#paramodal').modal('hide');
+        $('#paramodal').hide();
+        $('#paramodal').removeClass('show');
+
+
+
+    });
+
+    $('.param').click(function() {
+
+
+
+        $('#cookiemodal').modal('hide');
+        $('#cookiemodal').hide();
+        $('#cookiemodal').removeClass('show');
+
+        $('#paramodal').addClass('show'); 
+        $('#paramodal').modal('show');
+
+
+
+    });
+    $('.save_param').click(function(e) {
+
+        e.preventDefault();
+
+
+        var checkedCheckboxes = [];
+        $('.classparam:checked').each(function() {
+            checkedCheckboxes.push($(this).attr('name'));
+        });
+        
+        if (!(checkedCheckboxes.includes('analyse'))) {
+
+            deleteAllCookies();
+        }
+        else
+        {
+
+        setSessionCookie('decision_cookie', '2');
+
+        }
+        $('#paramodal').modal('hide');
+        $('#paramodal').hide();
+        $('#paramodal').removeClass('show');
+
+    });
+
+
+
+           
+ var fontsize =100;
+
+ $("#SmallText").click(function () {
+
+
+
+        var fontSizemenu = $('.FirstLevel').css('font-size').split('px')[0];
+        var fontSizemenu=fontSizemenu - 5;
+        $('.FirstLevel').css("font-size", fontSizemenu + "px");
+
+         var fontSizelien = $('a').css('font-size').split('px')[0];
+        fontSizelien=fontSizelien - 5;
+       $('a').css("font-size", fontSizelien + "px");
+
+         var fontSizeh5 = $('h5').css('font-size').split('px')[0];
+
+        fontSizeh5=parseInt(fontSizeh5) - 5;
+       $('h5').css("font-size", fontSizeh5 + "px");
+
+
+       var fontSpan = $('span').css('font-size').split('px')[0];
+
+        fontSpan=parseInt(fontSpan) - 5;
+        $('span').css("font-size", fontSpan + "px");
+
+       var fontP = $('p').css('font-size').split('px')[0];
+
+        fontP=parseInt(fontP) - 5;
+        $('p').css("font-size", fontP + "px");
+
+        var fonth3 = $('h3').css('font-size').split('px')[0];
+
+        fonth3=parseInt(fonth3) - 5;
+        $('h3').css("font-size", fonth3 + "px");
+
+
+        var fonth4 = $('h4').css('font-size').split('px')[0];
+
+        fonth4=parseInt(fonth4) - 5;
+        $('h4').css("font-size", fonth4 + "px");
+          var fonth2 = $('h2').css('font-size').split('px')[0];
+
+        fonth2=parseInt(fonth2) - 5;
+        $('h2').css("font-size", fonth2 + "px");
+
+    });
+  $("#BigText").click(function () {
+
+
+         var fontSizemenu = $('.FirstLevel').css('font-size').split('px')[0];
+        fontSizemenu=fontSizemenu + 5;
+        $('.FirstLevel').css("font-size", fontSizemenu + "px");
+
+         var fontSizelien = $('a').css('font-size').split('px')[0];
+          //console.log(fontSizelien);
+        fontSizelien=parseInt(fontSizelien) + 5;
+       $('a').css("font-size", fontSizelien + "px");
+
+        var fontSizeh5 = $('h5').css('font-size').split('px')[0];
+        console.log(fontSizeh5);
+        fontSizeh5=parseInt(fontSizeh5) + 5;
+        $('h5').css("font-size", fontSizeh5 + "px");
+          console.log(fontSizeh5);
+
+        var fontSpan = $('span').css('font-size').split('px')[0];
+
+        fontSpan=parseInt(fontSpan) + 5;
+        $('span').css("font-size", fontSpan + "px");
+
+       var fontP = $('p').css('font-size').split('px')[0];
+
+        fontP=parseInt(fontP) + 5;
+        $('p').css("font-size", fontP + "px");
+
+        var fonth3 = $('h3').css('font-size').split('px')[0];
+
+        fonth3=parseInt(fonth3) + 5;
+        $('h3').css("font-size", fonth3 + "px");
+
+        var fonth4 = $('h4').css('font-size').split('px')[0];
+
+        fonth4=parseInt(fonth4) + 5;
+        $('h4').css("font-size", fonth4 + "px");
+
+
+        var fonth2 = $('h2').css('font-size').split('px')[0];
+
+        fonth2=parseInt(fonth2) + 5;
+        $('h2').css("font-size", fonth2 + "px");
+    });
+
+    
+$(".login-btn").click(function(){$("#login-fullscreen").modal("show");});
+$(".collapsed").each(function() {
+    $(this).attr("data-parent", "");
+});
+    function isMobile() {
+        return window.innerWidth <= 768 || /Mobi|Android/i.test(navigator.userAgent);
+    }
+    if (isMobile()) {
+        const iframes = document.querySelectorAll("iframe");
+        iframes.forEach(function(iframe) {
+        console.log("iframe.src",iframe.src);
+            if (iframe.src && iframe.src.includes("facebook.com")) {
+                iframe.remove();  // Remove the iframe
+            }
+        });
+    }
+ 
+$("#main_slider").owlCarousel({autoplay:true,loop:true,autoplayTimeout:5000,
+    autoplayHoverPause : true,
+    nav: true,
+    dots: false,
+    autoplayTimeout: 2000,
+    goToFirstSpeed: 3000,
+    singleItem : true,
+    autoHeight : true,
+    animateOut:"fadeOut",animateIn:"fadeIn",slideTransition:"fade",items:1,
+        navText: [
+           "<i class='fa fa-chevron-left'></i>",
+           "<i class='fa fa-chevron-right'></i>"
+        ]
+}); $("body").removeClass("d-none"); 
+});
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag("js", new Date());
+        gtag("config", "G-354JYQ4DN2");$(".alertes-lien-container").click(function(){
+
+        if($("#alertes_ui").css("transform") == "matrix(1, 0, 0, 1, 0, 0)"){
+            $("#alertes_ui").css("transform", "translateX(100vw)");
+        }else{
+            $("#alertes_ui").css("transform", "translateX(0)");
+            $("body").css("overflow", "hidden");
+        }
+
+
+  });
+
+  $(".modal_alert_launch").click(function(){
+        $("body").addClass("opened-alert");
+    });
+
+    $("#alertes_ui_fermeture").click(function(){
+        if($("#alertes_ui").css("transform", "translateX(0)")){
+            $("#alertes_ui").css("transform", "translateX(100vw)");
+            $("body").css("overflow", "visible");
+        }
+    });
+
+    $('.preloader img').attr('src','/client_file/themes/biztrox/images/bleu_roling.gif');
+
+var dropdownItems = document.querySelectorAll('.navbar-nav .dropdown-toggle');
+
+    dropdownItems.forEach(function (dropdownItem) {
+        dropdownItem.addEventListener('mouseover', function () {
+        if ($(window).width() > 767) {
+            //console.log('redt--> ');
+            var dropdownMenu = this.nextElementSibling;
+
+            if (dropdownMenu) {
+                var windowWidth = $(window).width();
+                var dd = windowWidth - ($('.menu_pc #first_lv_9').offset().left + $('.menu_pc #first_lv_9').width());
+                var dropdownMenuLeft = this.getBoundingClientRect().left;
+
+
+                var dropdownMenuDistanceFromLeft = windowWidth - dropdownMenuLeft;
+
+
+                var distance =dropdownMenuDistanceFromLeft-dd;
+                var distance = distance-80+40;
+                var menuPcElement = document.getElementsByClassName('menu_pc')[0];
+
+
+                var menuPcWidth = menuPcElement.clientWidth;
+                dropdownMenu.style.transform = 'translateX('+distance+'px)';
+
+                dropdownMenu.style.width = menuPcWidth+'px';
+
+            }
+        }
+        });
+    });
+    $('.accordion .panel .card-header a').click(function(){
+      $(this).parent().parent().toggleClass('accordeon_ouvert');
+
+    }
+    );
+
+    $('.dropdown-submenu a.dropdown-toggle').on('click', function(e) {
+    console.log('clicked');
+    $(this).find('.caret').toggleClass('opened-carret');
+
+
+    });
+    
+element_embed_cyberimpact=document.getElementById("embed_cyberimpact");
+if (typeof(element_embed_cyberimpact) != "undefined" && element_embed_cyberimpact != null)
+    document.body.appendChild(element_embed_cyberimpact);    /* 067667 Pour regler le probleme de superposition */
+$(".btn-infolettre").click(function(){
+    document.getElementById("form_home_infolettre").submit();
+    return false;
+})</script><script nonce="cbq1ExnIxp"  src="https://ami.activis.ai/static/chatbot/js/chatbubble.js" data-id="7252c33f-ebd4-4054-bd26-e6b7e9e60003" data-domain="https://ami.activis.ai" data-position="right" ></script>
+<!--<script type="text/javascript" src="/client_file/themes/biztrox/js/global_js_docready.js?rand=1754718315"></script>
+<script type="text/javascript" src="/client_file/themes/biztrox/js/global_js.js?rand=1754718315"></script>
+-->
+</body>
+</html>

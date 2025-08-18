@@ -1,0 +1,138 @@
+Name,Path,Type,Schedule,Priority,Has People.py,Has Init.py,Has Requirements,Size,Tested,Status
+Ca Yt Municipalities,scrapers/scrapers-ca/disabled/ca_yt_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Nb Municipalities,scrapers/scrapers-ca/disabled/ca_nb_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Sk Municipalities,scrapers/scrapers-ca/disabled/ca_sk_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Nl Municipalities,scrapers/scrapers-ca/disabled/ca_nl_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Municipalities,scrapers/scrapers-ca/disabled/ca_municipalities,unknown,unknown,low,True,True,False,small,False,not_tested
+Ca Nt Municipalities,scrapers/scrapers-ca/disabled/ca_nt_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Ab Candidates,scrapers/scrapers-ca/disabled/ca_ab_candidates,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Bc Municipalities,scrapers/scrapers-ca/disabled/ca_bc_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Pe Municipalities,scrapers/scrapers-ca/disabled/ca_pe_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Ns Municipalities,scrapers/scrapers-ca/disabled/ca_ns_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Bc Municipalities Candidates,scrapers/scrapers-ca/disabled/ca_bc_municipalities_candidates,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Mb Candidates,scrapers/scrapers-ca/disabled/ca_mb_candidates,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Mb Municipalities,scrapers/scrapers-ca/disabled/ca_mb_municipalities,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Candidates,scrapers/scrapers-ca/disabled/ca_candidates,unknown,unknown,low,True,True,False,small,False,not_tested
+Civic-Scraper,scrapers/civic-scraper,civic,unknown,low,False,False,False,large,False,not_tested
+Openparliament,scrapers/openparliament,federal,daily,high,False,False,False,large,True,working
+Ca Qc Pointe Claire,scrapers/scrapers-ca/ca_qc_pointe_claire,provincial,weekly,high,True,True,False,small,True,working
+Ca On Ottawa,scrapers/scrapers-ca/ca_on_ottawa,municipal,monthly,high,True,True,False,small,True,working
+Ca On Burlington,scrapers/scrapers-ca/ca_on_burlington,provincial,weekly,high,True,True,False,small,True,working
+Ca On St Catharines,scrapers/scrapers-ca/ca_on_st_catharines,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Sherbrooke,scrapers/scrapers-ca/ca_qc_sherbrooke,provincial,weekly,high,True,True,False,small,True,working
+Ca Bc Coquitlam,scrapers/scrapers-ca/ca_bc_coquitlam,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Dollard Des Ormeaux,scrapers/scrapers-ca/ca_qc_dollard_des_ormeaux,provincial,weekly,high,True,True,False,small,True,working
+Ca On Woolwich,scrapers/scrapers-ca/ca_on_woolwich,provincial,weekly,high,True,True,False,small,True,working
+Ca On Welland,scrapers/scrapers-ca/ca_on_welland,provincial,weekly,high,True,True,False,small,True,working
+Ca On Lincoln,scrapers/scrapers-ca/ca_on_lincoln,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Terrebonne,scrapers/scrapers-ca/ca_qc_terrebonne,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On Vaughan,scrapers/scrapers-ca/ca_on_vaughan,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On Guelph,scrapers/scrapers-ca/ca_on_guelph,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Qc Brossard,scrapers/scrapers-ca/ca_qc_brossard,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On North Dumfries,scrapers/scrapers-ca/ca_on_north_dumfries,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On London,scrapers/scrapers-ca/ca_on_london,municipal,monthly,medium,True,True,False,small,True,working
+Ca On Caledon,scrapers/scrapers-ca/ca_on_caledon,provincial,weekly,high,True,True,False,small,True,working
+Ca Ab Calgary,scrapers/scrapers-ca/ca_ab_calgary,municipal,monthly,high,True,True,False,small,True,working
+Ca On Sault Ste Marie,scrapers/scrapers-ca/ca_on_sault_ste_marie,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Qc Levis,scrapers/scrapers-ca/ca_qc_levis,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Ab Lethbridge,scrapers/scrapers-ca/ca_ab_lethbridge,municipal,monthly,medium,True,True,False,small,True,working
+Ca Bc Richmond,scrapers/scrapers-ca/ca_bc_richmond,municipal,monthly,medium,True,True,False,small,True,working
+Ca On Thunder Bay,scrapers/scrapers-ca/ca_on_thunder_bay,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Bc Langley City,scrapers/scrapers-ca/ca_bc_langley_city,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Kirkland,scrapers/scrapers-ca/ca_qc_kirkland,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Nb Saint John,scrapers/scrapers-ca/ca_nb_saint_john,provincial,weekly,high,True,True,False,small,True,working
+Ca On Oshawa,scrapers/scrapers-ca/ca_on_oshawa,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On Wellesley,scrapers/scrapers-ca/ca_on_wellesley,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On Newmarket,scrapers/scrapers-ca/ca_on_newmarket,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Ab Grande Prairie County No 1,scrapers/scrapers-ca/ca_ab_grande_prairie_county_no_1,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Ab Strathcona County,scrapers/scrapers-ca/ca_ab_strathcona_county,provincial,weekly,high,True,True,False,small,True,working
+Ca On Markham,scrapers/scrapers-ca/ca_on_markham,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On Fort Erie,scrapers/scrapers-ca/ca_on_fort_erie,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On Kitchener,scrapers/scrapers-ca/ca_on_kitchener,municipal,monthly,medium,True,True,False,small,True,working
+Ca Nt,scrapers/scrapers-ca/ca_nt,provincial,weekly,high,True,True,False,small,True,working
+Ca Ns,scrapers/scrapers-ca/ca_ns,provincial,weekly,high,True,True,False,small,True,working
+Ca Bc Victoria,scrapers/scrapers-ca/ca_bc_victoria,municipal,monthly,medium,True,True,False,small,True,working
+Ca Bc Abbotsford,scrapers/scrapers-ca/ca_bc_abbotsford,provincial,weekly,high,True,True,False,small,True,working
+Ca On Uxbridge,scrapers/scrapers-ca/ca_on_uxbridge,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Bc,scrapers/scrapers-ca/ca_bc,provincial,weekly,high,True,True,False,small,True,working
+Ca On Milton,scrapers/scrapers-ca/ca_on_milton,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On Clarington,scrapers/scrapers-ca/ca_on_clarington,provincial,weekly,high,True,True,False,small,True,working
+Ca Nl St John S,scrapers/scrapers-ca/ca_nl_st_john_s,municipal,monthly,medium,True,True,False,small,True,working
+Ca On Lasalle,scrapers/scrapers-ca/ca_on_lasalle,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca On Hamilton,scrapers/scrapers-ca/ca_on_hamilton,municipal,monthly,medium,True,True,False,small,True,working
+Ca Ab,scrapers/scrapers-ca/ca_ab,provincial,weekly,high,True,True,False,small,True,working
+Ca On Wilmot,scrapers/scrapers-ca/ca_on_wilmot,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Mb Winnipeg,scrapers/scrapers-ca/ca_mb_winnipeg,municipal,monthly,high,True,True,False,small,True,working
+Ca On Niagara,scrapers/scrapers-ca/ca_on_niagara,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Bc Saanich,scrapers/scrapers-ca/ca_bc_saanich,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Cote Saint Luc,scrapers/scrapers-ca/ca_qc_cote_saint_luc,provincial,weekly,high,True,True,False,small,False,not_tested
+Ca Nu,scrapers/scrapers-ca/ca_nu,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Laval,scrapers/scrapers-ca/ca_qc_laval,provincial,weekly,high,True,True,False,small,True,working
+Ca On Haldimand County,scrapers/scrapers-ca/ca_on_haldimand_county,provincial,weekly,high,True,True,False,small,True,working
+Ca On Cambridge,scrapers/scrapers-ca/ca_on_cambridge,provincial,weekly,high,True,True,False,small,True,working
+Ca On Kawartha Lakes,scrapers/scrapers-ca/ca_on_kawartha_lakes,provincial,weekly,high,True,True,False,small,True,working
+Ca Pe,scrapers/scrapers-ca/ca_pe,provincial,weekly,high,True,True,False,small,True,working
+Ca On Mississauga,scrapers/scrapers-ca/ca_on_mississauga,municipal,monthly,medium,True,True,False,small,True,working
+Ca On Waterloo Region,scrapers/scrapers-ca/ca_on_waterloo_region,provincial,weekly,high,True,True,False,small,True,working
+Ca Bc Surrey,scrapers/scrapers-ca/ca_bc_surrey,municipal,monthly,medium,True,True,False,small,True,working
+Ca On Whitby,scrapers/scrapers-ca/ca_on_whitby,provincial,weekly,high,True,True,False,small,True,working
+Ca Sk Regina,scrapers/scrapers-ca/ca_sk_regina,municipal,monthly,medium,True,True,False,small,True,working
+Ca Pe Summerside,scrapers/scrapers-ca/ca_pe_summerside,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Saint Jerome,scrapers/scrapers-ca/ca_qc_saint_jerome,provincial,weekly,high,True,True,False,small,True,working
+Ca Sk,scrapers/scrapers-ca/ca_sk,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Trois Rivieres,scrapers/scrapers-ca/ca_qc_trois_rivieres,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Montreal,scrapers/scrapers-ca/ca_qc_montreal,municipal,monthly,high,True,True,False,small,True,working
+Ca Qc Montreal Est,scrapers/scrapers-ca/ca_qc_montreal_est,municipal,monthly,high,True,True,False,small,True,working
+Ca Sk Saskatoon,scrapers/scrapers-ca/ca_sk_saskatoon,municipal,monthly,medium,True,True,False,small,True,working
+Ca Ns Halifax,scrapers/scrapers-ca/ca_ns_halifax,municipal,monthly,medium,True,True,False,small,True,working
+Ca Qc Westmount,scrapers/scrapers-ca/ca_qc_westmount,provincial,weekly,high,True,True,False,small,True,working
+Ca Bc Burnaby,scrapers/scrapers-ca/ca_bc_burnaby,municipal,monthly,medium,True,True,False,small,True,working
+Ca Qc Gatineau,scrapers/scrapers-ca/ca_qc_gatineau,municipal,monthly,medium,True,True,False,small,True,working
+Ca Qc,scrapers/scrapers-ca/ca_qc,provincial,weekly,high,True,True,False,small,True,working
+Ca On Georgina,scrapers/scrapers-ca/ca_on_georgina,provincial,weekly,high,True,True,False,small,True,working
+Ca On Peel,scrapers/scrapers-ca/ca_on_peel,provincial,weekly,high,True,True,False,small,True,working
+Ca On Brantford,scrapers/scrapers-ca/ca_on_brantford,provincial,weekly,high,True,True,False,small,True,working
+Ca Ab Grande Prairie,scrapers/scrapers-ca/ca_ab_grande_prairie,provincial,weekly,high,True,True,False,small,True,working
+Ca Nb Moncton,scrapers/scrapers-ca/ca_nb_moncton,municipal,monthly,medium,True,True,False,small,True,working
+Ca Ns Cape Breton,scrapers/scrapers-ca/ca_ns_cape_breton,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Longueuil,scrapers/scrapers-ca/ca_qc_longueuil,provincial,weekly,high,True,True,False,small,True,working
+Ca On Oakville,scrapers/scrapers-ca/ca_on_oakville,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Dorval,scrapers/scrapers-ca/ca_qc_dorval,provincial,weekly,high,True,True,False,small,True,working
+Ca On Ajax,scrapers/scrapers-ca/ca_on_ajax,provincial,weekly,high,True,True,False,small,True,working
+Ca On Waterloo,scrapers/scrapers-ca/ca_on_waterloo,provincial,weekly,high,True,True,False,small,True,working
+Ca Nb Fredericton,scrapers/scrapers-ca/ca_nb_fredericton,municipal,monthly,medium,True,True,False,small,True,working
+Ca On Niagara On The Lake,scrapers/scrapers-ca/ca_on_niagara_on_the_lake,provincial,weekly,high,True,True,False,small,True,working
+Ca On King,scrapers/scrapers-ca/ca_on_king,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Beaconsfield,scrapers/scrapers-ca/ca_qc_beaconsfield,provincial,weekly,high,True,True,False,small,True,working
+Ca Bc Kelowna,scrapers/scrapers-ca/ca_bc_kelowna,provincial,weekly,high,True,True,False,small,True,working
+Ca On Greater Sudbury,scrapers/scrapers-ca/ca_on_greater_sudbury,provincial,weekly,high,True,True,False,small,True,working
+Ca Pe Stratford,scrapers/scrapers-ca/ca_pe_stratford,provincial,weekly,high,True,True,False,small,True,working
+Ca On Whitchurch Stouffville,scrapers/scrapers-ca/ca_on_whitchurch_stouffville,provincial,weekly,high,True,True,False,small,True,working
+Ca On Chatham Kent,scrapers/scrapers-ca/ca_on_chatham_kent,provincial,weekly,high,True,True,False,small,True,working
+Ca On,scrapers/scrapers-ca/ca_on,provincial,weekly,high,True,True,False,small,True,working
+Ca On Belleville,scrapers/scrapers-ca/ca_on_belleville,provincial,weekly,high,True,True,False,small,True,working
+Ca On Richmond Hill,scrapers/scrapers-ca/ca_on_richmond_hill,municipal,monthly,medium,True,True,False,small,True,working
+Ca On Toronto,scrapers/scrapers-ca/ca_on_toronto,municipal,monthly,high,True,True,False,small,True,working
+Ca Bc Vancouver,scrapers/scrapers-ca/ca_bc_vancouver,municipal,monthly,high,True,True,False,small,True,working
+Ca Nl,scrapers/scrapers-ca/ca_nl,provincial,weekly,high,True,True,False,small,True,working
+Ca Nb,scrapers/scrapers-ca/ca_nb,provincial,weekly,high,True,True,False,small,True,working
+Ca On Kingston,scrapers/scrapers-ca/ca_on_kingston,provincial,weekly,high,True,True,False,small,True,working
+Ca On Lambton,scrapers/scrapers-ca/ca_on_lambton,provincial,weekly,high,True,True,False,small,True,working
+Ca Bc New Westminster,scrapers/scrapers-ca/ca_bc_new_westminster,provincial,weekly,high,True,True,False,small,True,working
+Ca On Windsor,scrapers/scrapers-ca/ca_on_windsor,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Quebec,scrapers/scrapers-ca/ca_qc_quebec,municipal,monthly,high,True,True,False,small,True,working
+Ca Mb,scrapers/scrapers-ca/ca_mb,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Saguenay,scrapers/scrapers-ca/ca_qc_saguenay,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Senneville,scrapers/scrapers-ca/ca_qc_senneville,provincial,weekly,high,True,True,False,small,True,working
+Ca Pe Charlottetown,scrapers/scrapers-ca/ca_pe_charlottetown,municipal,monthly,medium,True,True,False,small,True,working
+Ca Bc Langley,scrapers/scrapers-ca/ca_bc_langley,provincial,weekly,high,True,True,False,small,True,working
+Ca Ab Edmonton,scrapers/scrapers-ca/ca_ab_edmonton,municipal,monthly,high,True,True,False,small,True,working
+Ca On Brampton,scrapers/scrapers-ca/ca_on_brampton,municipal,monthly,medium,True,True,False,small,True,working
+Ca On Huron,scrapers/scrapers-ca/ca_on_huron,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Mercier,scrapers/scrapers-ca/ca_qc_mercier,provincial,weekly,high,True,True,False,small,True,working
+Ca On Grimsby,scrapers/scrapers-ca/ca_on_grimsby,provincial,weekly,high,True,True,False,small,True,working
+Ca On Pickering,scrapers/scrapers-ca/ca_on_pickering,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Saint Jean Sur Richelieu,scrapers/scrapers-ca/ca_qc_saint_jean_sur_richelieu,provincial,weekly,high,True,True,False,small,True,working
+Ca Qc Sainte Anne De Bellevue,scrapers/scrapers-ca/ca_qc_sainte_anne_de_bellevue,provincial,weekly,high,True,True,False,small,True,working
+Ca Ab Wood Buffalo,scrapers/scrapers-ca/ca_ab_wood_buffalo,provincial,weekly,high,True,True,False,small,True,working
+Ca Yt,scrapers/scrapers-ca/ca_yt,provincial,weekly,high,True,True,False,small,True,working

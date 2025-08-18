@@ -1,0 +1,2843 @@
+status: 200
+encoding: UTF-8
+Date: Sat, 09 Aug 2025 05:45:06 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Cache-Control: must-revalidate, no-cache, private
+x-drupal-dynamic-cache: UNCACHEABLE (response policy)
+content-language: en
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+x-generator: Drupal 10 (https://www.drupal.org)
+x-xss-protection: 1
+strict-transport-security: max-age=31536000
+x-drupal-cache: UNCACHEABLE (response policy)
+vary: Accept-Encoding
+x-request-id: v-0058238e-74e4-11f0-a5ce-abf107b63406
+x-ah-environment: prod
+Age: 0
+via: varnish
+x-cache: MISS
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 96c4f2016a2d39c5-YYZ
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><script async src="https://www.googletagmanager.com/gtag/js?id=UA-50772612-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-50772612-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});</script>
+<link rel="canonical" href="https://www.burnaby.ca/our-city/mayor-and-council" />
+<meta property="og:image" content="https://cdn1-originals.webdamdb.com/14045_123956477?cache=1625002778&amp;response-content-disposition=inline;filename=FacebookLinkPhoto.jpg&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9jZG4xLW9yaWdpbmFscy53ZWJkYW1kYi5jb20vMTQwNDVfMTIzOTU2NDc3P2NhY2hlPTE2MjUwMDI3NzgmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmU7ZmlsZW5hbWU9RmFjZWJvb2tMaW5rUGhvdG8uanBnIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoyMTQ3NDE0NDAwfX19XX0_&amp;Signature=OxH~OFGm3K9v-g2q029LCgnyBMONorg6tRsCVHcYI-q0uvhVchYAW-1Emf1AY1VHWke0BKJ0pO1OW2XYx6d0auRA~USvkp83MNdDrwcnUCOnXdE34RH6jTcYM4IeFiosj5d5K13bL0NRVWzXxv3Q1lMAk7cwNKp3lZZR5oywLUQzbRHSDopRdRn-RlS4p3CYUuJzIeQbB5iOzS7M-Rrwtqt-08E0SxysfiTIomNu97r1e52iQpsrJMBMhUsdHIPQt~LRaBg5HOuWShbTkeX9j6sfXbW87GtRHPlef8M3RRbDEmtx61cbVH-9FWPC~bw7lRtzvjLkMBHbrdZyc93zCw__&amp;Key-Pair-Id=APKAI2ASI2IOLRFF2RHA" />
+<script>!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '571359084446177');; fbq('track', 'PageView');fbq("track", "ViewContent", {"content_name":"Mayor and Council","content_type":"landing_page","content_ids":["1111"]});</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=571359084446177&ev=PageView&noscript=1"/></noscript><meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/burnaby/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/default/files/google_tag/burnaby_ca/google_tag.script.js?t0n8oy" defer></script>
+
+    <title>Mayor and Council | City of Burnaby</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/burnaby/images/apple-touch-icon.png?v=2">
+    <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/burnaby/images/favicon-32x32.png?v=2">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/burnaby/images/favicon-16x16.png?v=2">
+    <link rel="manifest" href="/themes/custom/burnaby/images/site.webmanifest?v=2">
+    <link rel="mask-icon" href="/themes/custom/burnaby/images/safari-pinned-tab.svg?v=2" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#00aba9">
+    <meta name="msapplication-config" content="/themes/custom/burnaby/images/browserconfig.xml?v=2">
+    <meta name="theme-color" content="#ffffff">
+    <style>
+      /* CSS Aggregation breaks when this is included in style.scss */
+      @import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap");
+    </style>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css__C_MbF9pFzR6mjoUjWs3a3PnxqoVojQGou0QsXEWR9g.css?delta=0&amp;language=en&amp;theme=burnaby&amp;include=eJxtj2GOAyEIhS9k5EgGlc64i0JE27qn30knkyZN_8B7j-QDsI0SZQCe3d-kVxdnbxgXbCwR2SVGswURjS5dyQw3sss3ycdMOkHuU5E9_uDzDNpBRC5_5OjYMVagGilDQh1FmmNcMkfIxZLcqS-QRknYKXbcOupuF_Kd-Nl0Ri62U3Ydczgh8Jb-dayVqkxBRaeGyJJ-Db5kzpYNqueD90IPg1f1VfJkcg-0MPZiYRrdJsOH_wfSEX9J" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_WjdQI7jnaGcDFwisyONaVjZGWa2vVgUjmXTgj1Gxf0w.css?delta=1&amp;language=en&amp;theme=burnaby&amp;include=eJxtj2GOAyEIhS9k5EgGlc64i0JE27qn30knkyZN_8B7j-QDsI0SZQCe3d-kVxdnbxgXbCwR2SVGswURjS5dyQw3sss3ycdMOkHuU5E9_uDzDNpBRC5_5OjYMVagGilDQh1FmmNcMkfIxZLcqS-QRknYKXbcOupuF_Kd-Nl0Ri62U3Ydczgh8Jb-dayVqkxBRaeGyJJ-Db5kzpYNqueD90IPg1f1VfJkcg-0MPZiYRrdJsOH_wfSEX9J" />
+
+    <script src="https://use.fontawesome.com/releases/v5.12.0/js/all.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v5.12.0/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=ak5ljydc6qojmdedllh4sa" async="true"></script>
+    <script type="text/javascript" async="" src="//siteimproveanalytics.com/js/siteanalyze_560717.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale = 1.0" />
+  </head>
+  <body class="path-node page-node-type-landing-page">
+    <a id="top"></a>
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QQTVV4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+    <div class="region region-alert">
+    <div class="views-element-container block block-views block-views-blocksite-alerts-block-1" id="block-views-block-site-alerts-block-1">
+  
+    
+      <div><div class="view view-site-alerts view-id-site_alerts view-display-id-block_1 js-view-dom-id-9c9425cda9da057d52f3ff7b14930f1b31b38b8367ed2dd7d34da819fab07f45">
+  
+    
+      
+  
+          </div>
+</div>
+
+  </div>
+
+  </div>
+
+
+  <header role="banner" class="site-header">
+  <div class="site-header__drawer">
+    <div class="site-header__wrapper l-header-wrapper">
+      <section class="site-header__left">
+        <a href="/" class="site-header__logo">
+          <img src="/themes/custom/burnaby/logo.svg" alt="Home">
+        </a>
+      </section>
+      <section class="site-header__middle">
+        <nav role="navigation" aria-label="Main Menu" id="block-main-menu" class="block block-menu navigation menu--main">
+            
+
+  <ul class="menu menu-level-0">
+            
+      <li class="menu-item menu-item--expanded" id="menu-link-46">
+        <a href="/services-and-payments" data-drupal-link-system-path="node/21">Services &amp; Payments</a>
+                  <button data-ctrly="menu-link-46" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item menu-item--collapsed" id="menu-link-51">
+        <a href="/services-and-payments/recycling-and-garbage" data-drupal-link-system-path="node/31">Recycling &amp; Garbage</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-56">
+        <a href="/services-and-payments/property-taxes" data-drupal-link-system-path="node/101">Property Taxes</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-61">
+        <a href="/services-and-payments/utility-fees-and-charges" data-drupal-link-system-path="node/141">Utility Fees &amp; Charges</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-296">
+        <a href="/services-and-payments/bylaw-enforcement-and-tickets" data-drupal-link-system-path="node/161">Bylaw Enforcement &amp; Tickets</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-76">
+        <a href="/services-and-payments/development-permits-construction" data-drupal-link-system-path="node/171">Development, Permits &amp; Construction</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-81">
+        <a href="/services-and-payments/roads-and-traffic" data-drupal-link-system-path="node/276">Roads &amp; Traffic</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-86">
+        <a href="/services-and-payments/water-and-sewers" data-drupal-link-system-path="node/386">Waters &amp; Sewers</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-91">
+        <a href="/services-and-payments/trees" data-drupal-link-system-path="node/421">Trees</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-71">
+        <a href="/services-and-payments/permits-and-applications" data-drupal-link-system-path="node/441">Permits &amp; Applications</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-126">
+        <a href="/services-and-payments/community-safety" data-drupal-link-system-path="node/451">Community Safety</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-96">
+        <a href="/services-and-payments/pets-and-animals" data-drupal-link-system-path="node/506">Pets &amp; Animals</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-101">
+        <a href="/services-and-payments/seniors-and-family-support" data-drupal-link-system-path="node/526">Seniors &amp; Family Support</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-116">
+        <a href="/services-and-payments/maps-and-open-data" data-drupal-link-system-path="node/571">Maps &amp; Open Data</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-121">
+        <a href="/services-and-payments/venue-rentals" data-drupal-link-system-path="node/576">Venue Rentals</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-106">
+        <a href="/services-and-payments/libraries-and-archives" data-drupal-link-system-path="node/676">Libraries &amp; Archives</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/services-and-payments/community-safety/alertable-public-alerting-system">Sign up for Alertable—an alert system to keep you informed of emergencies in your community.</a></div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded" id="menu-link-6">
+        <a href="/recreation-and-arts" data-drupal-link-system-path="node/86">Recreation &amp; Arts</a>
+                  <button data-ctrly="menu-link-6" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item" id="menu-link-131">
+        <a href="/recreation-and-arts/activities-and-registration" data-drupal-link-system-path="node/1656">Activities &amp; Registration</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-136">
+        <a href="/recreation-and-arts/events" data-drupal-link-system-path="node/781">Events</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-141">
+        <a href="/recreation-and-arts/arts-and-culture-facilities" data-drupal-link-system-path="node/786">Arts &amp; Culture Facilities</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-146">
+        <a href="/recreation-and-arts/recreation-facilities" data-drupal-link-system-path="node/881">Recreation Facilities</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-151">
+        <a href="/services-and-payments/venue-rentals" data-drupal-link-system-path="node/576">Venue Rentals</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-4146">
+        <a href="/recreation-and-arts/summer-fun" data-drupal-link-system-path="node/4721">Summer Fun</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/webreg">Browse and enroll in activities on WebReg, our online registration system.</a></div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded" id="menu-link-11">
+        <a href="/explore-outdoors" data-drupal-link-system-path="node/91">Explore Outdoors</a>
+                  <button data-ctrly="menu-link-11" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item menu-item--collapsed" id="menu-link-156">
+        <a href="/explore-outdoors/be-park-smart" data-drupal-link-system-path="node/911">Be Park Smart</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-161">
+        <a href="/explore-outdoors/parks" data-drupal-link-system-path="node/916">Parks</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-166">
+        <a href="/explore-outdoors/picnic-sites" data-drupal-link-system-path="node/966">Picnic Sites</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-171">
+        <a href="/explore-outdoors/dog-off-leash-areas" data-drupal-link-system-path="node/971">Dog Off-Leash Areas</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-176">
+        <a href="/explore-outdoors/eco-sculptures" data-drupal-link-system-path="node/976">Eco-sculptures</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-181">
+        <a href="/explore-outdoors/gardens-and-flower-displays" data-drupal-link-system-path="node/981">Gardens &amp; Flower Displays</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-186">
+        <a href="/explore-outdoors/walking-hiking-and-biking" data-drupal-link-system-path="node/986">Walking, Hiking &amp; Biking</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-191">
+        <a href="/explore-outdoors/improving-accessibility" data-drupal-link-system-path="node/1031">Improving Accessibility</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/recreation-and-arts/recreation-facilities/sports-fields/sports-field-status">Check weekly playing conditions of the City&#039;s sports fields. Updates made on Fridays.</a></div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded" id="menu-link-16">
+        <a href="/business" data-drupal-link-system-path="node/96">Business</a>
+                  <button data-ctrly="menu-link-16" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item" id="menu-link-196">
+        <a href="/business/doing-business-with-the-city" data-drupal-link-system-path="node/1036">Doing Business with the City</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-201">
+        <a href="/business/operating-a-business-in-burnaby" data-drupal-link-system-path="node/1081">Operating a Business in Burnaby</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-206">
+        <a href="/business/business-licences" data-drupal-link-system-path="node/1101">Business Licences</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-211">
+        <a href="/business/filming-in-burnaby" data-drupal-link-system-path="node/1106">Filming in Burnaby</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-4016">
+        <a href="/business/cannabis-licences" data-drupal-link-system-path="node/8136">Cannabis Licences</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-4026">
+        <a href="/business/liquor-licences" data-drupal-link-system-path="node/8131">Liquor Licences</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/business/doing-business-with-the-city/bid-opportunities">View our current bid opportunities and latest results.</a></div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded menu-item--active-trail" id="menu-link-26">
+        <a href="/our-city" data-drupal-link-system-path="node/106">Our City</a>
+                  <button data-ctrly="menu-link-26" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item menu-item--active-trail" id="menu-link-216">
+        <a href="/our-city/mayor-and-council" data-drupal-link-system-path="node/1111" class="is-active" aria-current="page">Mayor &amp; Council</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-221">
+        <a href="/our-city/meetings-and-public-hearings" data-drupal-link-system-path="node/1156">Meetings &amp; Public Hearings</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-226">
+        <a href="/our-city/city-departments" data-drupal-link-system-path="node/1206">City Departments</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-231">
+        <a href="/our-city/bylaws" data-drupal-link-system-path="node/1261">Bylaws</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-236">
+        <a href="/our-city/financial-and-annual-reports" data-drupal-link-system-path="node/1271">Financial &amp; Annual Reports</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-41">
+        <a href="/our-city/contact-us" data-drupal-link-system-path="node/1276">Contact Us</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--collapsed" id="menu-link-241">
+        <a href="/our-city/whats-new" data-drupal-link-system-path="node/1281">What&#039;s New</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-246">
+        <a href="/our-city/strategies-and-plans" data-drupal-link-system-path="node/1306">Strategies &amp; Plans</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--collapsed" id="menu-link-251">
+        <a href="/our-city/projects" data-drupal-link-system-path="node/1421">Projects</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-256">
+        <a href="/our-city/programs-and-policies" data-drupal-link-system-path="node/1461">Programs &amp; Policies</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-261">
+        <a href="/our-city/get-involved" data-drupal-link-system-path="node/1511">Get Involved</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-266">
+        <a href="/our-city/about-burnaby" data-drupal-link-system-path="node/1566">About Burnaby</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-271">
+        <a href="/our-city/diversity-and-inclusion" data-drupal-link-system-path="node/1581">Diversity &amp; Inclusion</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-276">
+        <a href="/our-city/awards-and-community-recognition" data-drupal-link-system-path="node/1611">Awards &amp; Community Recognition</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-981">
+        <a href="/our-city/access-to-information" data-drupal-link-system-path="node/2831">Access to Information</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/our-city/get-involved/jobs-and-careers">We&#039;re hiring! The City of Burnaby has been named as one of BC’s Top Employers.</a></div>
+      
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+        </nav>
+                <button data-ctrly="site-header__search-container" class="search-button js-toggle-search">
+          
+
+<svg  class="search-button__icon search-button__icon--open icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-search"
+  
+  >
+      <title id="title-icon-search">Search</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-search"></use>
+</svg>
+          
+
+<svg  class="search-button__icon search-button__icon--close icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-close-2"
+  
+  >
+      <title id="title-icon-close-2">Close Search Bar</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-close-2"></use>
+</svg>
+        </button>
+      </section>
+      <section class="site-header__right">
+        <div id="language-picker" class="site-header__language-picker">
+          
+
+<svg  class="site-header__language-picker__icon icon-globe"
+
+      role="img"
+  
+      aria-labelledby="title-icon-globe"
+  
+  >
+      <title id="title-icon-globe">Change Site Language</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-globe"></use>
+</svg>
+          
+<div class="gtranslate_wrapper"></div><script>window.gtranslateSettings = {"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline","float_switcher_open_direction":"top","switcher_open_direction":"bottom","default_language":"en","native_language_names":1,"detect_browser_language":0,"add_new_line":1,"select_language_label":"Select Language","flag_size":32,"flag_style":"2d","globe_size":60,"alt_flags":[],"wrapper_selector":".gtranslate_wrapper","url_structure":"none","custom_domains":null,"languages":["en","ar","bg","zh-CN","zh-TW","hr","cs","da","nl","fi","fr","de","el","hi","it","ja","ko","no","pl","pt","ro","ru","es","sv","ca","tl","iw","id","lv","lt","sr","sk","sl","uk","vi","sq","et","gl","hu","mt","th","tr","fa","af","ms","sw","ga","cy","be","is","mk","yi","hy","az","eu","ka","ht","ur","bn","bs","ceb","eo","gu","ha","hmn","ig","jw","kn","km","lo","la","mi","mr","mn","ne","pa","so","ta","te","yo","zu","my","ny","kk","mg","ml","si","st","su","tg","uz","am","co","haw","ku","ky","lb","ps","sm","gd","sn","sd","fy","xh"],"custom_css":""}</script><script>(function(){var js = document.createElement('script');js.setAttribute('src', '/modules/contrib/gtranslate/js/dropdown.js');js.setAttribute('data-gt-orig-url', '/our-city/mayor-and-council');js.setAttribute('data-gt-orig-domain', 'www.burnaby.ca');document.body.appendChild(js);})();</script>
+        </div>
+                  <a id="button-contact-us" class="site-header__contact-us button" href="/our-city/contact-us">Contact Us</a>
+                <button data-ctrly="drawer" class="site-header__menu-button js-toggle-drawer hamburger hamburger--spring" type="button">
+          <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+          </span>
+        </button>
+      </section>
+    </div>
+    <div id="drawer" class="drawer">
+      <div class="js-drawer-fetch-element" data-fetch="#block-main-menu"></div>
+      <div class="js-drawer-fetch-element" data-fetch="#language-picker"></div>
+      <div class="js-drawer-fetch-element" data-fetch="#button-contact-us"></div>
+    </div>
+  </div>
+    <div class="search-modal" id="site-header__search-container" tabindex="0">
+    <div class="search-modal__wrapper l-header-wrapper">
+      <form action="/search/results" class="form-search-bar">
+        <input id="search-bar" name="keys" type="text" class="form-search-bar__input" placeholder="I am looking for…"/>
+        <button class="form-search-bar__submit" type="submit">
+          
+
+<svg  class="form-search-bar__submit__icon icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-search"
+  
+  >
+      <title id="title-icon-search">Search</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-search"></use>
+</svg>
+        </button>
+      </form>
+    </div>
+  </div>
+  <div class="site-header__decoration"></div>
+</header>
+<div class="site-header__ctrly-cover"></div>
+<div class="site-header__spacer"></div>
+
+  <main role="main" class="l-container">
+
+      
+<div class="hero-landing">
+  
+
+  <div class="hero-landing__content">
+          <div class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/">Home</a>
+              </li>
+          <li>
+                  <a href="/our-city">Our City</a>
+              </li>
+          <li>
+                  Mayor &amp; Council
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+    
+    <h1 class="hero-landing__title">
+      <span class="field field--name-title field--type-string field--label-hidden">Mayor and Council</span>
+
+    </h1>
+  </div>
+
+  </div>
+
+
+    
+      
+
+      
+        <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+      <div class="layout-content">
+        <a id="main-content" tabindex="-1"></a>
+                  <div class="region region-content">
+    <div id="block-burnaby-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article about="/our-city/mayor-and-council" class="node node--type-landing-page node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+      <div class="layout layout--onecol l-section">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-extra-field-blocknodelanding-pagelinks">
+  
+    
+      
+  </div>
+
+    </div>
+  </div>
+    <div id="bios" class="l-section l-section--full">
+        <div >
+      
+
+
+
+<div class="block block-layout-builder block-inline-blockrad-wysiwyg" style="max-width: 100%; max-height: 100%;">
+  
+    
+      
+            <div class="clearfix text-formatted wysiwyg field field--name-field-rad-wysiwyg-body field--type-text-long field--label-hidden field__item"><div data-embed-button="acquia_dam" data-entity-embed-display="view_mode:media.rad_embed" data-entity-type="media" data-entity-uuid="0a452635-37e2-4c02-a1f2-df8761d66096" data-langcode="en" class="align-right embedded-entity" data-entity-embed-display-settings="[]"><article class="media media--type-acquia-dam-asset media--view-mode-rad-embed">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-file field--type-file field--label-hidden field__item">    <img loading="lazy" srcset="/sites/default/files/styles/rad_widescreen_800w/public/acquiadam/2022-12/Burnaby-Mayor-and-Council.jpg?h=6b7011a3&amp;itok=Y4_i7YkM 800w, /sites/default/files/styles/rad_widescreen_1100w/public/acquiadam/2022-12/Burnaby-Mayor-and-Council.jpg?h=6b7011a3&amp;itok=tfjIsLP4 1100w, /sites/default/files/styles/rad_widescreen_1400w/public/acquiadam/2022-12/Burnaby-Mayor-and-Council.jpg?h=6b7011a3&amp;itok=xt-QcfU3 1400w, /sites/default/files/styles/rad_widescreen_1920w/public/acquiadam/2022-12/Burnaby-Mayor-and-Council.jpg?h=6b7011a3&amp;itok=Z7pM2WU8 1920w" sizes="100vw" width="800" height="450" src="/sites/default/files/styles/rad_widescreen_800w/public/acquiadam/2022-12/Burnaby-Mayor-and-Council.jpg?h=6b7011a3&amp;itok=Y4_i7YkM" typeof="foaf:Image">
+
+
+</div>
+      
+  </article>
+</div>
+
+
+<h2>Meet your mayor and 8 councillors, people you chose to serve you</h2>
+
+<p>Elected for a 4-year term, they are the governing body of our city. Council provides leadership and creates policies for the safety, welfare, health and success of our community.</p>
+</div>
+      
+  </div>
+<div class="block block-biography block-layout-builder block-inline-blockbiography biography biography--horizontal">
+  
+    
+  <ul class="grid grid--4 grid--biography">
+            <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/Mayor-Hurley_1700x1700.jpg?h=0287e584&amp;itok=RR-WXya5" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Mayor Mike Hurley</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/mayor-mike-hurley" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+
+      </ul>
+</div>
+<div class="block block-biography block-layout-builder block-inline-blockbiography biography biography--horizontal">
+  
+    
+  <ul class="grid grid--4 grid--biography">
+            <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/Pietro-Calendino_1700x1700.jpg?h=0287e584&amp;itok=uBHZmRjM" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Councillor Pietro Calendino</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/councillor-pietro-calendino" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+  <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/Sav-Dhaliwal_1700x1700-v2.jpg?h=0287e584&amp;itok=-gtWE8ub" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Councillor Sav Dhaliwal</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/councillor-sav-dhaliwal" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+  <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/Alison-Gu_1700x1700.jpg?h=0287e584&amp;itok=NC1AqXxZ" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Councillor Alison Gu</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/councillor-alison-gu" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+  <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/Joe-Keithly_1700x1700.jpg?h=0287e584&amp;itok=r9QiHSM6" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Councillor Joe Keithley</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/councillor-joe-keithley" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+
+      </ul>
+</div>
+<div class="block block-biography block-layout-builder block-inline-blockbiography biography biography--horizontal">
+  
+    
+  <ul class="grid grid--4 grid--biography">
+            <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/Richard-Lee-1700x1700.jpg?h=0287e584&amp;itok=MeUWjxJD" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Councillor Richard T. Lee</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/councillor-richard-t-lee" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+  <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/Maita-Santiago-1700x1700v2.jpg?h=0287e584&amp;itok=REhUtplC" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Councillor Maita Santiago</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/councillor-maita-santiago" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+  <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/Daniel-Tetrault-1700x1700.jpg?h=0287e584&amp;itok=K45l9lhn" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Councillor Daniel Tetrault</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/councillor-daniel-tetrault" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+  <li class="grid__item biography__item">
+      <figure class="biography__figure">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-square">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/rad_square_600w/public/acquiadam/2022-11/James-Wang_1700x1700.jpg?h=0287e584&amp;itok=RgM9c8Le" width="600" height="600" typeof="foaf:Image" class="image-style-rad-square-600w" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+  
+  <div class="biography__content">
+    <h3 class="biography__title">Councillor James Wang</h3>
+    <p class="biography__role"> </p>
+    <p class="biography__description"></p>
+          <a href="/our-city/mayor-and-council/councillor-james-wang" class="biography__link">
+        View profile
+        
+
+<svg  class="biography__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+      </div>
+</li>
+
+
+      </ul>
+</div>
+
+    </div>
+  </div>
+      <div id="section-4" class="l-section l-section--grid">
+            <div  class="rad-layout__grid-top">
+      <div class="block block-layout-builder block-inline-blockgallery-highlights">
+  
+    
+    <div class="gallery-highlights">
+  <ul class="gallery-highlights__list grid grid--3">
+          <li class="grid__item">
+                  <article class="gallery-highlight">
+  <div class="gallery-highlight__container">
+    <figure class="gallery-highlight__image">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-classic">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">    <img loading="eager" srcset="/sites/default/files/styles/rad_classic_600w/public/acquiadam/2022-12/Council-chambers.jpg?h=6de883b3&amp;itok=JOnPDeaP 600w, /sites/default/files/styles/rad_classic_900w/public/acquiadam/2022-12/Council-chambers.jpg?h=6de883b3&amp;itok=5xPlWF-O 900w, /sites/default/files/styles/rad_classic_1200w/public/acquiadam/2022-12/Council-chambers.jpg?h=6de883b3&amp;itok=XqRc56-7 1200w" sizes="100vw" width="600" height="400" src="/sites/default/files/styles/rad_classic_600w/public/acquiadam/2022-12/Council-chambers.jpg?h=6de883b3&amp;itok=JOnPDeaP" typeof="foaf:Image" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+    <div class="gallery-highlight__content">
+      <h2 class="gallery-highlight__title">Meetings and public hearings</h2>
+              <div class="gallery-highlight__description wysiwyg">
+          View upcoming meetings and find agenda, reports and minutes. Watch live sessions and learn how to take part. 
+        </div>
+            <a href="/our-city/meetings-and-public-hearings" class="gallery-highlight__link gallery-highlight__link--has-text">
+        <span class="gallery-highlight__link__text">Learn more</span>
+        
+
+<svg  class="gallery-highlight__link__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+    </div>
+
+  </div>
+</article>
+
+              </li>
+          <li class="grid__item">
+                  <article class="gallery-highlight">
+  <div class="gallery-highlight__container">
+    <figure class="gallery-highlight__image">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-classic">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">    <img loading="eager" srcset="/sites/default/files/styles/rad_classic_600w/public/acquiadam/2022-02/Elections%202022%20Page%201280x720.jpg?h=c673cd1c&amp;itok=bYnqfaQI 600w, /sites/default/files/styles/rad_classic_900w/public/acquiadam/2022-02/Elections%202022%20Page%201280x720.jpg?h=c673cd1c&amp;itok=NM0cAQZ4 900w, /sites/default/files/styles/rad_classic_1200w/public/acquiadam/2022-02/Elections%202022%20Page%201280x720.jpg?h=c673cd1c&amp;itok=3rnxsEh3 1200w" sizes="100vw" width="600" height="400" src="/sites/default/files/styles/rad_classic_600w/public/acquiadam/2022-02/Elections%202022%20Page%201280x720.jpg?h=c673cd1c&amp;itok=bYnqfaQI" typeof="foaf:Image" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+    <div class="gallery-highlight__content">
+      <h2 class="gallery-highlight__title">Elections</h2>
+              <div class="gallery-highlight__description wysiwyg">
+          The next Local Government Election will take place in 2026. View results from the 2022 Local Government Election. 
+        </div>
+            <a href="/our-city/mayor-and-council/elections" class="gallery-highlight__link gallery-highlight__link--has-text">
+        <span class="gallery-highlight__link__text">Learn more</span>
+        
+
+<svg  class="gallery-highlight__link__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+    </div>
+
+  </div>
+</article>
+
+              </li>
+          <li class="grid__item">
+                  <article class="gallery-highlight">
+  <div class="gallery-highlight__container">
+    <figure class="gallery-highlight__image">
+      <article class="media media--type-acquia-dam-image media--view-mode-rad-classic">
+  
+      
+            <div class="field field--name-field-acquiadam-asset-image field--type-image field--label-hidden field__item">    <img loading="eager" srcset="/sites/default/files/styles/rad_classic_600w/public/acquiadam/2022-10/2022InauguralMeet_1280x720.jpg?h=c673cd1c&amp;itok=xPD24b98 600w, /sites/default/files/styles/rad_classic_900w/public/acquiadam/2022-10/2022InauguralMeet_1280x720.jpg?h=c673cd1c&amp;itok=PWK8E7-s 900w, /sites/default/files/styles/rad_classic_1200w/public/acquiadam/2022-10/2022InauguralMeet_1280x720.jpg?h=c673cd1c&amp;itok=6ugqXz1k 1200w" sizes="100vw" width="600" height="400" src="/sites/default/files/styles/rad_classic_600w/public/acquiadam/2022-10/2022InauguralMeet_1280x720.jpg?h=c673cd1c&amp;itok=xPD24b98" typeof="foaf:Image" />
+
+
+</div>
+      
+  </article>
+
+    </figure>
+    <div class="gallery-highlight__content">
+      <h2 class="gallery-highlight__title">Proclamations</h2>
+              <div class="gallery-highlight__description wysiwyg">
+          We&#039;re pleased to recognize the many events, causes, individuals, and groups important to our community.
+        </div>
+            <a href="/our-city/mayor-and-council/proclamations" class="gallery-highlight__link gallery-highlight__link--has-text">
+        <span class="gallery-highlight__link__text">View proclamations</span>
+        
+
+<svg  class="gallery-highlight__link__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+      </a>
+    </div>
+
+  </div>
+</article>
+
+              </li>
+      </ul>
+  <div class="storybook-invisible-buffer">Needs some content here to make the featured events component expand to the full width of the page. Needs some content here to make the featured events component expand to the full width of the page. Needs some content here to make the featured events component expand to the full width of the page. </div>
+</div>
+</div>
+
+
+
+<div  class="accordion__item">
+  
+    
+  <div class="accordion__item-header">
+    <h4 class="accordion__item-title">
+      <button class="accordion__item-toggle accordion__expand-option" role="tab" id="accordion-tab-1351542662" aria-controls="accordion-tabpanel-1351542662"  aria-expanded="false" aria-selected="false">
+        Mayor’s role
+      </button>
+    </h4>
+  </div>
+  <div class="accordion__item-content wysiwyg" role="tabpanel" id="accordion-tabpanel-1351542662" aria-labeledby="accordion-tab-1351542662">
+    <p>The mayor is the City’s head and chief executive officer. The mayor performs the duties of a councillor and carries out additional functions, such as:</p>
+
+<ul>
+	<li data-gc-list-depth="1" data-gc-list-style="bullet">Provide leadership to the council by recommending bylaws, resolutions and other measures to ensure peace, order and good governance of the municipality.</li>
+	<li data-gc-list-depth="1" data-gc-list-style="bullet">Preside at council meetings and communicate information to the council.</li>
+	<li data-gc-list-depth="1" data-gc-list-style="bullet">Provide direction to municipal officers while respecting the implementation of municipal policies, programs and other directions of council.</li>
+	<li data-gc-list-depth="1" data-gc-list-style="bullet">Perform other duties like attending and hosting ceremonies, meeting visiting dignitaries and officials and participating in fundraising and local community events.</li>
+</ul>
+
+  </div>
+</div>
+
+
+
+<div  class="accordion__item">
+  
+    
+  <div class="accordion__item-header">
+    <h4 class="accordion__item-title">
+      <button class="accordion__item-toggle accordion__expand-option" role="tab" id="accordion-tab-483769089" aria-controls="accordion-tabpanel-483769089"  aria-expanded="false" aria-selected="false">
+        Acting mayor&#039;s role
+      </button>
+    </h4>
+  </div>
+  <div class="accordion__item-content wysiwyg" role="tabpanel" id="accordion-tabpanel-483769089" aria-labeledby="accordion-tab-483769089">
+    <p>The council member who is responsible for acting in place of the mayor when the mayor is absent, unable to act or if the office of the mayor is vacant.&nbsp;</p>
+
+<p><strong>2025 schedule</strong></p>
+
+<ul>
+	<li>January: Councillor Pietro Calendino</li>
+	<li>February: Councillor Sav Dhaliwal</li>
+	<li>March: Councillor Alison Gu</li>
+	<li>April: Councillor Joe Keithley</li>
+	<li>May: Councillor Richard T. Lee</li>
+	<li>June: Councillor Maita Santiago</li>
+	<li>July: Councillor Daniel Tetrault</li>
+	<li>August: Councillor James Wang</li>
+	<li>September: Councillor Pietro Calendino</li>
+	<li>October: Councillor Sav Dhaliwal</li>
+	<li>November: Councillor Alison Gu</li>
+	<li>December: Councillor Joe Keithley</li>
+</ul>
+
+  </div>
+</div>
+
+
+
+<div  class="accordion__item">
+  
+    
+  <div class="accordion__item-header">
+    <h4 class="accordion__item-title">
+      <button class="accordion__item-toggle accordion__expand-option" role="tab" id="accordion-tab-1009570081" aria-controls="accordion-tabpanel-1009570081"  aria-expanded="false" aria-selected="false">
+        Councillor’s role
+      </button>
+    </h4>
+  </div>
+  <div class="accordion__item-content wysiwyg" role="tabpanel" id="accordion-tabpanel-1009570081" aria-labeledby="accordion-tab-1009570081">
+    <p>Every council member has the following responsibilities:</p>
+
+<ul>
+	<li data-gc-list-depth="1" data-gc-list-style="bullet">Consider the well-being and interests of the municipality and its community.</li>
+	<li data-gc-list-depth="1" data-gc-list-style="bullet">Contribute to the development and evaluation of the policies and programs of the municipality.</li>
+	<li data-gc-list-depth="1" data-gc-list-style="bullet">Participate in council and committee meetings and carry out other duties assigned by the council.</li>
+</ul>
+
+  </div>
+</div>
+
+
+
+<div  class="accordion__item">
+  
+    
+  <div class="accordion__item-header">
+    <h4 class="accordion__item-title">
+      <button class="accordion__item-toggle accordion__expand-option" role="tab" id="accordion-tab-498801919" aria-controls="accordion-tabpanel-498801919"  aria-expanded="false" aria-selected="false">
+        How we make decisions
+      </button>
+    </h4>
+  </div>
+  <div class="accordion__item-content wysiwyg" role="tabpanel" id="accordion-tabpanel-498801919" aria-labeledby="accordion-tab-498801919">
+    <p>Council decides what the City and you, its citizens, need and make policies that meet those needs. Issues that concern you, such as budget allocation, bylaws, land zoning, infrastructure and others, are debated and discussed at council meetings. After considering an issue or item, a member of the council makes a motion. If a second council member agrees with it, the item moves forward. All the members then vote on it. Once a decision is made, the City staff get to work.</p>
+
+<p>You're an important part of the City's decision-making process and can engage with us by:</p>
+
+<ul>
+	<li>Attending city <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5174c67f-6a15-464e-a38e-48c3d2548599" href="/recreation-and-arts/events" title="Events">events</a>, <a href="https://yourvoice.burnaby.ca/">open houses </a>and <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="cb50352b-1855-41d2-b31a-d19f88a390d4" href="/our-city/meetings-and-public-hearings" title="Meetings &amp; Public Hearings">public meetings</a>.</li>
+	<li><a data-gc-link="https://www.burnaby.ca/Our-City-Hall/Elections.html" href="/elections">Voting</a> in your local government elections to make your voice heard.</li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f6bd6924-0c5c-4af7-943d-8b78301b4713" data-gc-link="https://www.burnaby.ca/Our-City-Hall/Mayor---Council/Council-Meetings/Council-Meeting-Webcast.html" href="/our-city/meetings-and-public-hearings/council-meetings" title="Council Meetings">Watching and commenting on council meetings</a>.</li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="5b985f59-b1ca-4da1-b48c-27023ba02f80" data-gc-link="https://www.burnaby.ca/Our-City-Hall/Mayor---Council/Appear-as-a-Delegation.html" href="/our-city/meetings-and-public-hearings/appear-as-a-delegation" title="Appear as a Delegation">Speaking as a delegation</a>.</li>
+	<li>Visiting the city’s website to stay up-to-date.</li>
+	<li>Following us on <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="24066306-bfe0-482f-b697-e5bbceb51c4c" data-gc-link="https://www.burnaby.ca/About-Burnaby/News-and-Media/Social-Media.html" href="/our-city/whats-new/social-media" title=" Social Media">social media</a> to see what we’re up to.</li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="3647a47e-6268-4814-8c3e-0c80cbd81bff" data-gc-link="https://www.burnaby.ca/Things-To-Do/Volunteering.html" href="/our-city/get-involved/volunteer" title="Volunteer">Volunteering</a> with committees, programs and services.</li>
+	<li>View and provide feedback on our <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="ff1f0c38-a5d9-4de4-8122-0df497dba561" href="/our-city/whats-new/public-notices" title="Public Notices">public notices</a>.</li>
+</ul>
+
+  </div>
+</div>
+<div class="block block-layout-builder block-inline-blockbanner">
+  
+    
+    <div class="banner banner--green  banner--width--default">
+      <div class="banner__container">
+            <div class="banner__content">
+        <div class="banner__description wysiwyg">
+          <h3>Council-in-brief</h3>
+
+<p>View highlights from the latest Council meetings.&nbsp;</p>
+
+        </div>
+                  <a href="/our-city/meetings-and-public-hearings/council-meetings#council-in-brief"  class="banner__link">
+            <span class="banner__link__text">Learn more</span>
+          </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+        <div  class="rad-layout__grid grid grid--3">
+      <div class="block block-layout-builder block-inline-blockrad-card">
+  
+    
+      <div class='grid__item card is-link'>
+      <figure class="card__figure">
+        <img loading="lazy" src="/sites/default/files/styles/rad_classic_900w/public/acquiadam/2021-07/metrotown-skyline-from-southeast.jpg?h=5ad3515b&amp;itok=B_p_oGHw" width="900" height="600" alt="" typeof="foaf:Image" class="image-style-rad-classic-900w" />
+
+
+
+    </figure>
+  
+  <div class="card__content">
+        <h3 class="card__title">
+      <a href="/our-city/strategies-and-plans/housing-and-homelessness-strategy" class="card__link">        HOME: Burnaby’s Housing + Homelessness Strategy
+      </a>    </h3>
+    <div class="card__description"><p>Improving housing affordability and preventing and ending homelessness is one of our top priorities. The HOME: Burnaby’s Housing and Homelessness Strategy is a comprehensive, action-oriented roadmap that will help us address these pressing challenges.</p>
+</div>
+    <span class="card__link-text" aria-hidden="true">
+      
+
+<svg  class="card__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+    </span>
+  </div>
+</div>
+  </div>
+<div class="block block-layout-builder block-inline-blockrad-card">
+  
+    
+      <div class='grid__item card is-link'>
+      <figure class="card__figure">
+        <img loading="lazy" src="/sites/default/files/styles/rad_classic_900w/public/acquiadam/2021-07/two-trees-with-red-leaves.jpg?h=2240b8e9&amp;itok=G6UJCXrB" width="900" height="600" alt="" typeof="foaf:Image" class="image-style-rad-classic-900w" />
+
+
+
+    </figure>
+  
+  <div class="card__content">
+        <h3 class="card__title">
+      <a href="/our-city/strategies-and-plans/climate-action" class="card__link">        Climate action
+      </a>    </h3>
+    <div class="card__description"><p>We&#039;ve developed a climate action framework to ensure that climate action remains a high priority and provides a pathway to a carbon-neutral community by 2050.</p>
+</div>
+    <span class="card__link-text" aria-hidden="true">
+      
+
+<svg  class="card__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+    </span>
+  </div>
+</div>
+  </div>
+<div class="block block-layout-builder block-inline-blockrad-card">
+  
+    
+      <div class='grid__item card is-link'>
+      <figure class="card__figure">
+        <img loading="lazy" src="/sites/default/files/styles/rad_classic_900w/public/acquiadam/2021-07/your-voice-housing.jpg?h=7dc5673a&amp;itok=-4LcZCEF" width="900" height="600" alt="" typeof="foaf:Image" class="image-style-rad-classic-900w" />
+
+
+
+    </figure>
+  
+  <div class="card__content">
+        <h3 class="card__title">
+      <a href="https://yourvoice.burnaby.ca/" class="card__link">        Share your voice
+      </a>    </h3>
+    <div class="card__description"><p>Your Voice is the city&#039;s new online hub for you to share, discuss, and collaborate on creating sustainable solutions for important issues, challenges and opportunities in our community.</p>
+</div>
+    <span class="card__link-text" aria-hidden="true">
+      
+
+<svg  class="card__arrow"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-right"></use>
+</svg>
+    </span>
+  </div>
+</div>
+  </div>
+
+    </div>
+      </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+      </div>
+      
+    
+                                
+      
+        <div class="region region-bottom">
+    <div class="was-this-useful-form was-this-useful webform-submission-form block block-was-this-useful" data-drupal-selector="was-this-useful-form" id="block-wasthisuseful">
+  
+    
+      <form data-action="/our-city/mayor-and-council" class="antibot" action="/antibot" method="post" id="was-this-useful-form" accept-charset="UTF-8">
+  <noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<div id="form-container" class="helpful js-form-wrapper form-wrapper" data-drupal-selector="edit-container"><p class="helpful__text">Was this page useful?</p><button id="edit-yes" class="helpful__btn helpful__btn--yes button js-form-submit form-submit">
+  
+
+<svg  class="helpful__icon"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-thumbs-up"></use>
+</svg>
+  Yes
+</button>
+<button id="edit-no" class="helpful__btn helpful__btn--no button js-form-submit form-submit">
+  
+
+<svg  class="helpful__icon"
+
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-thumbs-down"></use>
+</svg>
+  No
+</button>
+<div class="was-this-useful__popup js-form-wrapper form-wrapper" id="popup-container" name="popup" data-drupal-selector="edit-popup"><p class="was-this-useful__popup__answer--yes">Thank you! We are glad this page helped.</p><p class="was-this-useful__popup__answer--no">Thanks for letting us know.</p><div class="js-form-item form-item js-form-type-textarea form-type-textarea js-form-item-message form-item-message form-no-label">
+      <label for="edit-message" class="visually-hidden">Feedback</label>
+        <div class="form-textarea-wrapper">
+  <textarea placeholder="How can we make this page more useful?" maxlength="1000" class="was-this-useful__popup__message form-textarea resize-vertical" data-drupal-selector="edit-message" aria-describedby="edit-message--description" id="edit-message" name="message" rows="3" cols="60"></textarea>
+</div>
+
+            <div id="edit-message--description" class="description">
+      Limit to 1000 characters.
+    </div>
+  </div>
+<fieldset name="response_type" class="was-this-useful__popup__response fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper" data-drupal-selector="edit-response-type" id="edit-response-type--wrapper">
+      <legend>
+    <span class="fieldset-legend">Response needed:</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-response-type" class="form-radios"><div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-response-type form-item-response-type">
+        <input name="response_type" class="was-this-useful__popup__response form-radio" data-drupal-selector="edit-response-type-null" type="radio" id="edit-response-type-null" value="null" checked="checked" />
+
+        <label for="edit-response-type-null" class="option">I do not need a response</label>
+      </div>
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-response-type form-item-response-type">
+        <input name="response_type" class="was-this-useful__popup__response form-radio" data-drupal-selector="edit-response-type-email" type="radio" id="edit-response-type-email" value="email" />
+
+        <label for="edit-response-type-email" class="option">Contact me by email</label>
+      </div>
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-response-type form-item-response-type">
+        <input name="response_type" class="was-this-useful__popup__response form-radio" data-drupal-selector="edit-response-type-phone" type="radio" id="edit-response-type-phone" value="phone" />
+
+        <label for="edit-response-type-phone" class="option">Contact me by phone</label>
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="form-item-user-info js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name">Name:</label>
+        <input class="was-this-useful__popup__user-info was-this-useful__popup__name form-text" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="60" maxlength="60" data-drupal-states="{&quot;required&quot;:{&quot;:input[name=\u0022response_type\u0022]&quot;:[{&quot;value&quot;:&quot;email&quot;},&quot;or&quot;,{&quot;value&quot;:&quot;phone&quot;}]},&quot;visible&quot;:{&quot;:input[name=\u0022response_type\u0022]&quot;:[{&quot;value&quot;:&quot;email&quot;},&quot;or&quot;,{&quot;value&quot;:&quot;phone&quot;}]}}" />
+
+        </div>
+<div class="form-item-user-info js-form-item form-item js-form-type-email form-type-email js-form-item-email form-item-email">
+      <label for="edit-email">Email:</label>
+        <input class="was-this-useful__popup__user-info was-this-useful__popup__email form-email" data-drupal-selector="edit-email" type="email" id="edit-email" name="email" value="" size="60" maxlength="254" data-drupal-states="{&quot;required&quot;:{&quot;:input[name=\u0022response_type\u0022]&quot;:{&quot;value&quot;:&quot;email&quot;}},&quot;visible&quot;:{&quot;:input[name=\u0022response_type\u0022]&quot;:{&quot;value&quot;:&quot;email&quot;}}}" />
+
+        </div>
+<div class="form-item-user-info js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-phone form-item-phone">
+      <label for="edit-phone">Phone:</label>
+        <input class="was-this-useful__popup__user-info was-this-useful__popup__phone form-text" data-drupal-selector="edit-phone" type="text" id="edit-phone" name="phone" value="" size="60" maxlength="256" data-drupal-states="{&quot;required&quot;:{&quot;:input[name=\u0022response_type\u0022]&quot;:{&quot;value&quot;:&quot;phone&quot;}},&quot;visible&quot;:{&quot;:input[name=\u0022response_type\u0022]&quot;:{&quot;value&quot;:&quot;phone&quot;}}}" />
+
+        </div>
+<input class="was-this-useful__popup__send button js-form-submit form-submit" data-drupal-selector="edit-send" type="submit" id="edit-send" name="op" value="Send" />
+</div>
+</div>
+<input data-drupal-selector="edit-title" type="hidden" name="title" value="Mayor and Council" />
+<input data-drupal-selector="edit-path" type="hidden" name="path" value="/node/1111" />
+<input data-drupal-selector="edit-alias" type="hidden" name="alias" value="/our-city/mayor-and-council" />
+<input data-drupal-selector="edit-honeypot-time" type="hidden" name="honeypot_time" value="t1bFDQMKHQ0WOV5K8c-xvYcXz64qQoNUaXzdGqwwr8E" />
+<input autocomplete="off" data-drupal-selector="form-x-zcmqvgxmihwblepzblptk7ij2or7nxhkgm342-kk" type="hidden" name="form_build_id" value="form-X__ZCmqvgXmIhwblEpzBlPtK7Ij2OR7NxHkgM342-kk" />
+<input data-drupal-selector="edit-was-this-useful-form" type="hidden" name="form_id" value="was_this_useful_form" />
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" />
+<div class="url_homepage-textfield js-form-wrapper form-wrapper" style="display: none !important;"><div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-url-homepage form-item-url-homepage">
+      <label for="edit-url-homepage">Leave this field blank</label>
+        <input autocomplete="off" data-drupal-selector="edit-url-homepage" type="text" id="edit-url-homepage" name="url_homepage" value="" size="20" maxlength="128" class="form-text" />
+
+        </div>
+</div>
+
+
+</form>
+
+  </div>
+
+  </div>
+
+
+    </main>
+
+  </div>
+
+  <div class="site-footer__back-to-top back-to-top">
+  
+
+<svg  class="back-to-top__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-up"></use>
+</svg>
+  <a href="#top" class="back-to-top__link">Back to Top</a>
+</div>
+<footer class="site-footer" role="contentinfo">
+  <div class="l-container">
+    <div class="site-footer__top">
+      <address class="site-footer__address address">
+        City Hall<br />
+        4949 Canada Way<br />
+        Burnaby, BC, Canada<br />
+        V5G 1M2<br />
+      </address>
+      <nav class="menu--footer">
+        
+        <ul class="menu">
+                  <li class="menu-item">
+        <a href="/our-city/get-involved/jobs-and-careers" title="View our job openings" data-drupal-link-system-path="node/1551">Careers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/our-city/contact-us" title="View our city directory or send us a message" data-drupal-link-system-path="node/1276">Contact Us</a>
+              </li>
+                <li class="menu-item">
+        <a href="/our-city/whats-new/all-news" title="View all city news" data-drupal-link-system-path="node/1596">News</a>
+              </li>
+                <li class="menu-item">
+        <a href="/yourvoice" title="View city initiatives and share your voice">Your Voice</a>
+              </li>
+                <li class="menu-item">
+        <a href="/our-city/whats-new/burnaby-connect-app" data-drupal-link-system-path="node/5321">BurnabyConnect App</a>
+              </li>
+      </ul>
+    
+
+
+      </nav>
+            <nav class="menu--social">
+        <ul class="social-links" aria-label="Social Media Accounts">
+                      <li class="social-links__item">
+              <a href="https://twitter.com/CityofBurnaby" aria-label="Follow us on Twitter" class="social-links__link external-link">
+                
+
+<svg  class="social-links__link__icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-twitter"
+  
+  >
+      <title id="title-icon-twitter">Twitter</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-twitter"></use>
+</svg>
+              </a>
+            </li>
+                                <li class="social-links__item">
+              <a href="https://www.facebook.com/cityofburnaby" aria-label="Follow us on Facebook" class="social-links__link external-link">
+                
+
+<svg  class="social-links__link__icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-facebook"
+  
+  >
+      <title id="title-icon-facebook">Facebook</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-facebook"></use>
+</svg>
+              </a>
+            </li>
+                                <li class="social-links__item">
+              <a href="https://www.instagram.com/cityofburnaby/" aria-label="Follow us on Instagram" class="social-links__link external-link">
+                
+
+<svg  class="social-links__link__icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-instagram"
+  
+  >
+      <title id="title-icon-instagram">Instagram</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-instagram"></use>
+</svg>
+              </a>
+            </li>
+                                <li class="social-links__item">
+              <a href="https://www.youtube.com/user/TheCityofBurnaby" aria-label="Follow us on YouTube" class="social-links__link external-link">
+                
+
+<svg  class="social-links__link__icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-youtube"
+  
+  >
+      <title id="title-icon-youtube">YouTube</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-youtube"></use>
+</svg>
+              </a>
+            </li>
+                                <li class="social-links__item">
+              <a href="https://ca.linkedin.com/company/city-of-burnaby " aria-label="Follow us on LinkedIn" class="social-links__link external-link">
+                
+
+<svg  class="social-links__link__icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-linkedin"
+  
+  >
+      <title id="title-icon-linkedin">LinkedIn</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-linkedin"></use>
+</svg>
+              </a>
+            </li>
+                                <li class="social-links__item">
+              <a href="/our-city/whats-new/sign-up-for-enewsletters" aria-label="Contact us by email" class="social-links__link external-link">
+                
+
+<svg  class="social-links__link__icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-email"
+  
+  >
+      <title id="title-icon-email">Email</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-email"></use>
+</svg>
+              </a>
+            </li>
+                  </ul>
+                  <ul class="menu staff-login">
+            <li class="menu-item">
+              
+
+<svg  class="staff-login__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-lock"></use>
+</svg>
+              <a href="https://portal.burnaby.ca/irj/portal/ext">Staff Login</a>
+            </li>
+          </ul>
+              </nav>
+      <div class="site-footer__territory-acknowledgement">
+        <p>We respectfully acknowledge that the City of Burnaby is located on the unceded territories of the&nbsp;<a href="https://www.musqueam.bc.ca/our-story/our-territory/" style="color: #fff; text-decoration: underline;" target="blank">xʷməθkʷəy̓əm (Musqueam)</a>,&nbsp;<a href="https://www.squamish.net/about-our-nation/our-land/" style="color: #fff; text-decoration: underline;" target="blank">Sḵwx̱wú7mesh (Squamish)</a>,&nbsp;<a href="https://twnation.ca/about/" style="color: #fff; text-decoration: underline;" target="blank">səlilwətaɬ (Tsleil-Waututh)</a>, and&nbsp;<a href="https://www.kwikwetlem.com/our-territory.htm" style="color: #fff; text-decoration: underline;" target="blank">kʷikʷəƛ̓əm (Kwikwetlem)</a>&nbsp;Peoples. Each Nation has distinct histories and distinct traditional territories that fully or partially encompass the city.</p>
+
+<p>We encourage you to learn more about the Host Nations whose ancestors have occupied and used these lands, including parts of present-day Burnaby, for thousands of years.</p>
+
+      </div>
+    </div>
+    <div class="site-footer__bottom">
+      <button class="sitemap__toggle js-toggle-sitemap" data-ctrly="sitemap">
+        Sitemap
+        
+
+<svg  class="sitemap__icon"
+
+      role="img"
+  
+      aria-labelledby="title-icon-arrow-dropdown"
+  
+  >
+      <title id="title-icon-arrow-dropdown">Expand</title>
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+      </button>
+      <p class="site-footer__copyright">&#169; 2025 City of Burnaby</p>
+      <nav class="menu--legal">
+        
+        <ul class="menu">
+                  <li class="menu-item">
+        <a href="/privacy-statement" data-drupal-link-system-path="node/2491">Privacy Statement</a>
+              </li>
+                <li class="menu-item">
+        <a href="/using-our-website" data-drupal-link-system-path="node/2496">Using Our Website</a>
+              </li>
+      </ul>
+    
+
+
+      </nav>
+    </div>
+  </div>
+</footer>
+<div id="sitemap" class="sitemap js-sitemap">
+  <div class="l-container">
+    <nav class="sitemap__nav">
+      
+
+  <ul class="menu menu-level-0">
+            
+      <li class="menu-item menu-item--expanded" id="menu-link-46">
+        <a href="/services-and-payments" data-drupal-link-system-path="node/21">Services &amp; Payments</a>
+                  <button data-ctrly="menu-link-46" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item menu-item--collapsed" id="menu-link-51">
+        <a href="/services-and-payments/recycling-and-garbage" data-drupal-link-system-path="node/31">Recycling &amp; Garbage</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-56">
+        <a href="/services-and-payments/property-taxes" data-drupal-link-system-path="node/101">Property Taxes</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-61">
+        <a href="/services-and-payments/utility-fees-and-charges" data-drupal-link-system-path="node/141">Utility Fees &amp; Charges</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-296">
+        <a href="/services-and-payments/bylaw-enforcement-and-tickets" data-drupal-link-system-path="node/161">Bylaw Enforcement &amp; Tickets</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-76">
+        <a href="/services-and-payments/development-permits-construction" data-drupal-link-system-path="node/171">Development, Permits &amp; Construction</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-81">
+        <a href="/services-and-payments/roads-and-traffic" data-drupal-link-system-path="node/276">Roads &amp; Traffic</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-86">
+        <a href="/services-and-payments/water-and-sewers" data-drupal-link-system-path="node/386">Waters &amp; Sewers</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-91">
+        <a href="/services-and-payments/trees" data-drupal-link-system-path="node/421">Trees</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-71">
+        <a href="/services-and-payments/permits-and-applications" data-drupal-link-system-path="node/441">Permits &amp; Applications</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-126">
+        <a href="/services-and-payments/community-safety" data-drupal-link-system-path="node/451">Community Safety</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-96">
+        <a href="/services-and-payments/pets-and-animals" data-drupal-link-system-path="node/506">Pets &amp; Animals</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-101">
+        <a href="/services-and-payments/seniors-and-family-support" data-drupal-link-system-path="node/526">Seniors &amp; Family Support</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-116">
+        <a href="/services-and-payments/maps-and-open-data" data-drupal-link-system-path="node/571">Maps &amp; Open Data</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-121">
+        <a href="/services-and-payments/venue-rentals" data-drupal-link-system-path="node/576">Venue Rentals</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-106">
+        <a href="/services-and-payments/libraries-and-archives" data-drupal-link-system-path="node/676">Libraries &amp; Archives</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/services-and-payments/community-safety/alertable-public-alerting-system">Sign up for Alertable—an alert system to keep you informed of emergencies in your community.</a></div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded" id="menu-link-6">
+        <a href="/recreation-and-arts" data-drupal-link-system-path="node/86">Recreation &amp; Arts</a>
+                  <button data-ctrly="menu-link-6" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item" id="menu-link-131">
+        <a href="/recreation-and-arts/activities-and-registration" data-drupal-link-system-path="node/1656">Activities &amp; Registration</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-136">
+        <a href="/recreation-and-arts/events" data-drupal-link-system-path="node/781">Events</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-141">
+        <a href="/recreation-and-arts/arts-and-culture-facilities" data-drupal-link-system-path="node/786">Arts &amp; Culture Facilities</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-146">
+        <a href="/recreation-and-arts/recreation-facilities" data-drupal-link-system-path="node/881">Recreation Facilities</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-151">
+        <a href="/services-and-payments/venue-rentals" data-drupal-link-system-path="node/576">Venue Rentals</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-4146">
+        <a href="/recreation-and-arts/summer-fun" data-drupal-link-system-path="node/4721">Summer Fun</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/webreg">Browse and enroll in activities on WebReg, our online registration system.</a></div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded" id="menu-link-11">
+        <a href="/explore-outdoors" data-drupal-link-system-path="node/91">Explore Outdoors</a>
+                  <button data-ctrly="menu-link-11" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item menu-item--collapsed" id="menu-link-156">
+        <a href="/explore-outdoors/be-park-smart" data-drupal-link-system-path="node/911">Be Park Smart</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-161">
+        <a href="/explore-outdoors/parks" data-drupal-link-system-path="node/916">Parks</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-166">
+        <a href="/explore-outdoors/picnic-sites" data-drupal-link-system-path="node/966">Picnic Sites</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-171">
+        <a href="/explore-outdoors/dog-off-leash-areas" data-drupal-link-system-path="node/971">Dog Off-Leash Areas</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-176">
+        <a href="/explore-outdoors/eco-sculptures" data-drupal-link-system-path="node/976">Eco-sculptures</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-181">
+        <a href="/explore-outdoors/gardens-and-flower-displays" data-drupal-link-system-path="node/981">Gardens &amp; Flower Displays</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-186">
+        <a href="/explore-outdoors/walking-hiking-and-biking" data-drupal-link-system-path="node/986">Walking, Hiking &amp; Biking</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-191">
+        <a href="/explore-outdoors/improving-accessibility" data-drupal-link-system-path="node/1031">Improving Accessibility</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/recreation-and-arts/recreation-facilities/sports-fields/sports-field-status">Check weekly playing conditions of the City&#039;s sports fields. Updates made on Fridays.</a></div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded" id="menu-link-16">
+        <a href="/business" data-drupal-link-system-path="node/96">Business</a>
+                  <button data-ctrly="menu-link-16" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item" id="menu-link-196">
+        <a href="/business/doing-business-with-the-city" data-drupal-link-system-path="node/1036">Doing Business with the City</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-201">
+        <a href="/business/operating-a-business-in-burnaby" data-drupal-link-system-path="node/1081">Operating a Business in Burnaby</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-206">
+        <a href="/business/business-licences" data-drupal-link-system-path="node/1101">Business Licences</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-211">
+        <a href="/business/filming-in-burnaby" data-drupal-link-system-path="node/1106">Filming in Burnaby</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-4016">
+        <a href="/business/cannabis-licences" data-drupal-link-system-path="node/8136">Cannabis Licences</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-4026">
+        <a href="/business/liquor-licences" data-drupal-link-system-path="node/8131">Liquor Licences</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/business/doing-business-with-the-city/bid-opportunities">View our current bid opportunities and latest results.</a></div>
+      
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--expanded menu-item--active-trail" id="menu-link-26">
+        <a href="/our-city" data-drupal-link-system-path="node/106">Our City</a>
+                  <button data-ctrly="menu-link-26" class="js-toggle-submenu menu-toggle">
+            
+
+<svg  class="menu-toggle__icon"
+
+      aria-hidden="true" role="img"
+  
+  
+  >
+      <use xlink:href="/themes/custom/burnaby/dist/icons.svg#icon-arrow-dropdown"></use>
+</svg>
+          </button>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+              
+  <ul class="menu menu-level-1">
+            
+      <li class="menu-item menu-item--active-trail" id="menu-link-216">
+        <a href="/our-city/mayor-and-council" data-drupal-link-system-path="node/1111" class="is-active" aria-current="page">Mayor &amp; Council</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-221">
+        <a href="/our-city/meetings-and-public-hearings" data-drupal-link-system-path="node/1156">Meetings &amp; Public Hearings</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-226">
+        <a href="/our-city/city-departments" data-drupal-link-system-path="node/1206">City Departments</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-231">
+        <a href="/our-city/bylaws" data-drupal-link-system-path="node/1261">Bylaws</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-236">
+        <a href="/our-city/financial-and-annual-reports" data-drupal-link-system-path="node/1271">Financial &amp; Annual Reports</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-41">
+        <a href="/our-city/contact-us" data-drupal-link-system-path="node/1276">Contact Us</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--collapsed" id="menu-link-241">
+        <a href="/our-city/whats-new" data-drupal-link-system-path="node/1281">What&#039;s New</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-246">
+        <a href="/our-city/strategies-and-plans" data-drupal-link-system-path="node/1306">Strategies &amp; Plans</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item menu-item--collapsed" id="menu-link-251">
+        <a href="/our-city/projects" data-drupal-link-system-path="node/1421">Projects</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-256">
+        <a href="/our-city/programs-and-policies" data-drupal-link-system-path="node/1461">Programs &amp; Policies</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-261">
+        <a href="/our-city/get-involved" data-drupal-link-system-path="node/1511">Get Involved</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-266">
+        <a href="/our-city/about-burnaby" data-drupal-link-system-path="node/1566">About Burnaby</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-271">
+        <a href="/our-city/diversity-and-inclusion" data-drupal-link-system-path="node/1581">Diversity &amp; Inclusion</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-276">
+        <a href="/our-city/awards-and-community-recognition" data-drupal-link-system-path="node/1611">Awards &amp; Community Recognition</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+                
+      <li class="menu-item" id="menu-link-981">
+        <a href="/our-city/access-to-information" data-drupal-link-system-path="node/2831">Access to Information</a>
+                                  
+  
+  <div class="menu_link_content menu-link-contentmain view-mode-default menu-dropdown menu-dropdown-1 menu-type-default">
+              
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+
+            <div class="field field--name-field-menu-main-cta field--type-link field--label-hidden field__item"><a href="/our-city/get-involved/jobs-and-careers">We&#039;re hiring! The City of Burnaby has been named as one of BC’s Top Employers.</a></div>
+      
+      </div>
+
+
+
+              </li>
+        </ul>
+
+
+    </nav>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1111","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx9kFtuAyEMRTdEYUkjA84MqcEUm6R09SUZZdJGVX_wvcfILyiaPKuDPdoTt2x8bwX8cBACt5i4HGQl9kCHbRhGIHwLDGE7qNSWFA-r4AmFm2IzgUBkOA-CD51RBFaUhy8cZ44buth6BbJwhs9fQBT09v-GUplly4Tnj45t7PPfM2UqoPSFBuduOhbMHqMLUPW20YmLwnXOldH90FYu6385K1vKZmVeCReYjYemIO4VGILBXZeYJPBlDua4YGAyFRqsDeomj22exPZSu6ckG0bTIC57EfeU9n44SbnOZpVrr4snDu_i_mBGhijm_diXhFdx99dmjp3QXEEW3ZIsXfDUyb34byFk07Y","theme":"burnaby","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/our-city\/mayor-and-council?ajax_form=1":true},"google_analytics":{"account":"UA-50772612-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"simple_popup_blocks":{"settings":[]},"antibot":{"forms":{"was-this-useful-form":{"id":"was-this-useful-form","key":"ckPY7RZyNrNB45JOqxxVFwK2al3R3Tn5ld2uKKLorSm"}}},"ajax":{"edit-send":{"callback":"::submitFormAjax","wrapper":"form-container","event":"mousedown","keypress":true,"prevent":"click","url":"\/our-city\/mayor-and-council?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Send"}},"edit-yes":{"callback":"::submitFormAjax","wrapper":"form-container","event":"mousedown","keypress":true,"prevent":"click","url":"\/our-city\/mayor-and-council?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Yes"}}},"user":{"uid":0,"permissionsHash":"d6ab31d0dcce91b621dfebf86eb8b71a728e63b5e92380bac4d34199209768fb"}}</script>
+<script src="/sites/default/files/js/js_PHSRbDjAoK7rhNk9EQzh3qynX7lzcYRN-4T_gdQau3o.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=burnaby&amp;include=eJx9zmEOgyAMBeALMTkSKVgRh5S1Zc7bj8TEbGbZr_I-mpdC0eRJLRxzmIhX4xsX8LuFEIjHROWUmMlDPiNj2EPGWyAI86lSOSmeUcFnFGJFNr0P7citQh5ggdcXiIKiHJRKXy8dl0dD3o-7JioKW-9a0X68B3nGf3-DzGk1kShmdNBLd01B7BWMpLV2qFRbdT5TuIv9YWYDcToncU1watle8hvjIIXS"></script>
+<script src="https://cdn.recyclecoach.com/webapp/js/loader.min.js"></script>
+<script src="/themes/custom/burnaby/components/00-base/icons/svgxuse.min.js?t0n8oy" defer></script>
+<script src="/sites/default/files/js/js_Tbvjq_bFvSnBic2fjm2EQwEolcXJuzo8X02eY3VLSYA.js?scope=footer&amp;delta=3&amp;language=en&amp;theme=burnaby&amp;include=eJx9zmEOgyAMBeALMTkSKVgRh5S1Zc7bj8TEbGbZr_I-mpdC0eRJLRxzmIhX4xsX8LuFEIjHROWUmMlDPiNj2EPGWyAI86lSOSmeUcFnFGJFNr0P7citQh5ggdcXiIKiHJRKXy8dl0dD3o-7JioKW-9a0X68B3nGf3-DzGk1kShmdNBLd01B7BWMpLV2qFRbdT5TuIv9YWYDcToncU1watle8hvjIIXS"></script>
+
+    <script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_560717.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+  </body>
+</html>

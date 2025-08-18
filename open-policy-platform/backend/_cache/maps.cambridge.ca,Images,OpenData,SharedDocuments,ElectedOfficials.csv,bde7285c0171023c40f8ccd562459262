@@ -1,0 +1,21 @@
+status: 200
+encoding: None
+Content-Type: application/octet-stream
+Last-Modified: Mon, 07 Nov 2022 17:49:20 GMT
+Accept-Ranges: bytes
+ETag: "25e77443d1f2d81:0"
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+Date: Sat, 09 Aug 2025 05:45:00 GMT
+Content-Length: 2245
+
+District name,District ID,Primary role,Name,First name,Last name,Gender,Party name,Email,Photo URL,Source URL,Website,Address line 1,Address line 2,Locality,Province,Postal code,Phone,Fax,Cell,Facebook,Twitter
+Ward 1,1,Councillor,Donna Reid,Donna,Reid,F,,reidd@cambridge.ca,https://www.cambridge.ca/en/your-city/resources/Donna-Reid.jpg,http://www.cambridge.ca/en/your-city/ward-1-councillor-donna-reid.aspx,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,
+Ward 2,2,Councillor,Mike Devine,Mike,Devine,M,,devinem@cambridge.ca,https://www.cambridge.ca/en/your-city/resources/Mike-Devine.jpg,http://www.cambridge.ca/en/your-city/councillor-mike-devine.aspx,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,
+Ward 3,3,Councillor,Corey Kimpson,Corey,Kimpson,F,,kimpsonc@cambridge.ca,,,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,
+Ward 4,4,Councillor,Ross Earnshaw,Ross,Earnshaw,M,,earnshaer@cambridge.ca,,,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,
+Ward 5,5,Councillor,Sheri Roberts,Sheri,Roberts,F,,robertss@cambridge.ca,,,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,
+Ward 6,6,Councillor,Adam Cooper,Adam,Cooper,M,,coopera@cambridge.ca,,,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,
+Ward 7,7,Councillor,Scott Hamilton,Scott,Hamilton,M,,hamiltons@cambridge.ca,https://www.cambridge.ca/en/your-city/resources/Scott-Hamilton.jpg,https://www.cambridge.ca/en/your-city/councillor-hamilton-s-biography.aspx,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,
+Ward 8,8,Councillor,Nicholas Ermeta,Nicholas,Ermeta,M,,ermetan@cambridge.ca,https://www.cambridge.ca/en/your-city/resources/Nicholas-Ermeta.jpg,http://www.cambridge.ca/en/your-city/councillor-nicholas-ermeta.aspx,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,
+Cambridge,,Mayor,Jan Liggett,Jan,Liggett,F,,mayor@cambridge.ca,https://www.cambridge.ca/en/your-city/resources/Jan-Liggett.jpg,http://www.cambridge.ca/en/your-city/councillor-jan-liggett.aspx,,50 Dickson St,2nd floor,Cambridge,ON,N1R 8S1,1 519 740 4517,1 519 740 4663,,,

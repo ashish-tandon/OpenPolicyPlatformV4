@@ -1,0 +1,34 @@
+status: 200
+encoding: None
+Date: Sat, 09 Aug 2025 05:45:00 GMT
+Content-Type: application/octet-stream
+Content-Length: 4980
+Connection: keep-alive
+Content-MD5: F2ffYBlVwN4i/HY88fSaAg==
+Last-Modified: Fri, 02 May 2025 04:32:40 GMT
+Accept-Ranges: bytes
+ETag: "0x8DD89325FEF0F30"
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: f462787d-401e-004f-1df0-0812f0000000
+x-ms-version: 2018-03-28
+x-ms-meta-lastEditDate: 1550246439397
+x-ms-meta-recordCount: 10
+x-ms-creation-time: Fri, 02 May 2025 04:32:40 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,x-ms-meta-lastEditDate,x-ms-meta-recordCount,Content-Type,ETag,Last-Modified,x-ms-creation-time,Content-MD5,x-ms-lease-status,x-ms-lease-state,x-ms-blob-type,x-ms-server-encrypted,Accept-Ranges,Content-Length,Date,Transfer-Encoding
+Access-Control-Allow-Origin: *
+
+﻿District name,District ID,Primary role,First name,Last name,Gender,Party name,Email,Photo URL,Source URL,Website,Address line 1,Address line 2,Locality,Province,Postal code,Phone,Fax,Cell,Facebook,Twitter,ObjectId,x,y
+City of Saint John,,Mayor,Don,Darling,M,,don.darling@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/c7809b95-7faf-4c58-b220-cda4f51762c6,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/c7809b95-7faf-4c58-b220-cda4f51762c6,,15 Market Square,,Saint John,NB,E2L 4L1,1 506 658-2912,1 506 674-4214,1 506 658-2912,,,1,-7354071.3057,5664569.6121
+City of Saint John,,Deputy Mayor ,Shirley,McAlary,F,,shirley.mcalary@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/9904941a-d5e4-4802-be96-6d13119ab721,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/9904941a-d5e4-4802-be96-6d13119ab721,,84 Tudor Lane,,Saint John,NB,E2K 5T6,1 506 648-0487,1 506 674-4214,1 506 977-3852,https://www.facebook.com/shirley.mcalary?fref=ts ,,2,-7357538.7688,5668687.8187
+City of Saint John,At Large,Councillor,Gary,Sullivan,M,,gary.sullivan@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/d180869b-e234-4a7b-afaa-8edb60ce3ba6,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/d180869b-e234-4a7b-afaa-8edb60ce3ba6,,15 Market Square,,Saint John,NB,E2L 4L1,1 506 639-1603,1 506 674-4214,1 506 639-1603,,,3,-7354071.3057,5664569.6121
+Ward 1,1,Councillor,Blake,Armstrong,M,,blake.armstrong@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/58be1cc6-05f2-42bd-907f-dc0971edba98,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/58be1cc6-05f2-42bd-907f-dc0971edba98,,466 Brian Lane,,Saint John,NB,E2M 1R4,1 506 639-1506,1 506 674-4214,1 506 639-1506,,,4,-7356038.0036,5661695.1678
+Ward 1,1,Councillor,Greg,Norton,M,,greg.norton@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/100c1dd7-0404-467b-8824-27022a1a9923,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/100c1dd7-0404-467b-8824-27022a1a9923,http://inpoli.com/GregNorton ,18 Coster Street,,Saint John,NB,E2M 3V3,1 506 977-3848,1 506 674-4214,1 506 977-3848,https://www.facebook.com/greg.norton.140?fref=ts ,https://twitter.com/GregNortonSJ ,5,-7358403.5941,5661692.5715
+Ward 2,2,Councillor,Sean,Casey,M,,sean.casey@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/dd1ebebd-8dcd-4012-a261-1b57d8e62cee,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/dd1ebebd-8dcd-4012-a261-1b57d8e62cee,,14 Gorman Avenue,,Saint John,NB,E2K 2W1,1 506 639-1334,1 506 674-4214,1 506 639-1334,,,6,-7355363.8721,5665850.3549
+Ward 2,2,Councillor,John,MacKenzie,M,,john.mackenzie@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/eebb8e0a-b893-48f8-abe9-1f9d04e889a7,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/eebb8e0a-b893-48f8-abe9-1f9d04e889a7,,2 Crerar Court,,Saint John,NB,E2K 2T4,1 506 977-3849,1 506 674-4214,1 506 977-3849,https://www.facebook.com/JohnMackenzie4SJCommonCouncil/?fref=ts,https://twitter.com/JMackenzieSJ ,7,-7355158.6713,5665537.5199
+Ward 3,3,Councillor,Donna,Reardon,F,,donna.reardon@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/671c1eee-de1d-4e04-b704-98a3e3ce1113,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/671c1eee-de1d-4e04-b704-98a3e3ce1113,,200 Germain Street,,Saint John,NB,E2L 2G4,1 506 977-3853,1 506 674-4214,1 506 977-3853,,https://twitter.com/DonnaReardonsj ,8,-7353715.2979,5664089.3995
+Ward 4,4,Councillor,David,Merrithew,M,,david.merrithew@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/f00a9396-6ace-4168-a136-abd799fafbb2,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/f00a9396-6ace-4168-a136-abd799fafbb2,,170 Cosy Lake Road,,Saint John,NB,E2N 1P8,1 506 977-3854,1 506 674-4214,1 506 977-3854,,,9,-7337676.7493,5677193.1637
+Ward 4,4,Councillor,Ray,Strowbridge,M,,ray.strowbridge@saintjohn.ca,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/0f154e38-fc3b-4810-8925-584b8fcccc59,http://www.saintjohn.ca/en/home/cityhall/mayor-and-council/councillors.aspx/Details/cmId/0f154e38-fc3b-4810-8925-584b8fcccc59,,15 Market Square,,Saint John,NB,E2L 4L1,1 506 977-3846,1 506 674-4214,1 506 977-3846,https://www.facebook.com/ray.strowbridge.3?fref=ts ,https://twitter.com/raystrowbridge ,10,-7354071.3057,5664569.6121

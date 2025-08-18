@@ -1,0 +1,2124 @@
+status: 200
+encoding: UTF-8
+Date: Sat, 09 Aug 2025 05:45:09 GMT
+Server: Apache
+Cache-Control: no-cache, private
+Set-Cookie: october_session=eyJpdiI6IkFTOFVxSlB6bUswTFhWdFFBaU90WHc9PSIsInZhbHVlIjoiSWRVMTIyeElvWi9jWlhnTEpzaHFDMVpCOEhwZmpIeTk3a0d5NXZoVmYxbXJ6Z2pPaEpmTm84amNOS3poUS92N3VPT05ZTzdjbGNqQUp3NHoyR092eHl2b1J1aTQ3OFVWTFJJQi9HdlpXT1Axa0xaZHl6bEpUOGs3eHh5WEkrejQiLCJtYWMiOiJjNjZmZTk2YzJmNGJmNDk0ZmY0MDc5YzBjNTNiMTRlMzExM2NlM2JlNDViYTc0YTE1YzQyMDUyMGUzZjBkZGU2IiwidGFnIjoiIn0%3D; path=/; httponly; samesite=lax
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html class="show-page-transition js-has-pseudo" data-zoom="625" lang="fr">
+    <head>
+         <!-- TITLE -->
+    <title>Conseil municipal | Ville de Beaconsfield</title>
+    <meta name="description" content="Consultez&#x20;la&#x20;page&#x20;&#x00AB;&#x20;Conseil&#x20;municipal&#x20;&#x00BB;&#x20;sur&#x20;le&#x20;site&#x20;de&#x20;la&#x20;Ville&#x20;de&#x20;Beaconsfield." />
+
+<!-- META -->
+    <meta charset="UTF-8"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.beaconsfield.ca/fr/ma-ville/votre-conseil/conseil-municipal" />
+    <meta property="og:site_name" content="" />
+    <meta property="og:image" content="https://www.beaconsfield.ca/storage/app/media/tiles/city_council.jpg" />
+    <meta property="og:title" content="Conseil municipal | Ville de Beaconsfield" />
+    <meta property="og:description" content="Consultez la page « Conseil municipal » sur le site de la Ville de Beaconsfield." />
+    
+<!-- FAVICON -->
+    <link href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+
+<!-- CSS -->
+    <link rel="stylesheet" href="https://www.beaconsfield.ca/themes/beaconsfield/assets/dist/build.css?v=1752851481">
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RQY8XYPED9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-RQY8XYPED9');
+    </script>
+    </head>
+    <body class="o-page o-page--detail">
+        <div class="page-transition">
+    <div class="page-transition__container"></div>
+</div>
+        <div data-namespace="standard" data-scroller-destination="scroll-to-top">
+            <div class="c-overlay-cookies" data-overlay="cookies">
+    <div class="c-overlay-cookies__container">
+        <div class="c-overlay-cookies__content">
+            <span class="c-overlay-cookies__title">Politique de protection des renseignements personnels</span>
+            <p class="c-overlay-cookies__text">Ce site utilise des témoins de navigation afin de vous offrir une expérience optimale.</p>
+        </div>
+        <div class="c-overlay-cookies__buttons">
+            <a class="c-overlay-cookies__button-find-out-more" href="https://www.beaconsfield.ca/storage/app/media/ma-ville/administration-et-finances/Acces-au-document-et-protection-des-renseignements-personnels/Politique%20de%20confidentialité.pdf" target="_blank">
+                <span>En savoir plus</span>
+            </a>
+            <button class="c-overlay-cookies__button-accept || js-overlay-cookies-button-accept js-close-overlay-cookies">
+                <span>J’accepte</span>
+            </button>
+        </div>
+    </div>
+</div>
+
+
+
+            <div class="c-overlay-share" data-overlay="share">
+    <div class="c-overlay-share__container">
+        <button class="c-overlay-share__button-close || js-close-overlay-share" title="Fermer">
+            <span class="c-overlay-share__button-close-x"></span>
+        </button>
+        <h2 class="c-overlay-share__title">Où souhaitez-vous<br />partager cette page ?</h2>
+        <div id="Share-buttons" class="c-overlay-share__list share-btn"  data-url="https://www.beaconsfield.ca/fr/ma-ville/votre-conseil/conseil-municipal">
+            <a id="facebookShareBtn" class="c-overlay-share__link c-overlay-share__facebook trk-fb" data-id="fb" title="Facebook">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-facebook"></use>
+                </svg>
+            </a>
+            <a id="twitterShareBtn" class="c-overlay-share__link c-overlay-share__twitter trk-tw" data-id="tw" title="X">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-twitter-x"></use>
+                </svg>
+            </a>
+            <a id="emailShareBtn" class="c-overlay-share__link c-overlay-share__email trk-mail" data-id="mail" title="Courriel">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-mail"></use>
+                </svg>
+            </a>
+            <a id="copyShareBtn" class="c-overlay-share__link c-overlay-share__copy trk-copy || js-share-copy" data-id="copy" title="L'URL du site">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-copy"></use>
+                </svg>
+            </a>
+        </div>
+    </div>
+    <div class="c-overlay-share__background || js-close-overlay-share"></div>
+</div>            <div class="c-overlay-dropdown" data-overlay="dropdown">
+    <div class="c-overlay-dropdown__container">
+        <div class="c-overlay-dropdown__content">
+                                    <div class="c-overlay-dropdown__left">
+    <ul class="c-overlay-dropdown__buttons-list">
+                    <li class="c-overlay-dropdown__buttons-list-item">
+                <button class="c-overlay-dropdown__button" data-js="trigger-overlay-dropdown" data-section="ma-ville" type="button">
+                    <span>Ma ville</span>
+                    <svg>
+                        <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                    </svg>
+                </button>
+            </li>
+                    <li class="c-overlay-dropdown__buttons-list-item">
+                <button class="c-overlay-dropdown__button" data-js="trigger-overlay-dropdown" data-section="services" type="button">
+                    <span>Services</span>
+                    <svg>
+                        <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                    </svg>
+                </button>
+            </li>
+                    <li class="c-overlay-dropdown__buttons-list-item">
+                <button class="c-overlay-dropdown__button" data-js="trigger-overlay-dropdown" data-section="culture-et-loisirs" type="button">
+                    <span>Culture et loisirs</span>
+                    <svg>
+                        <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                    </svg>
+                </button>
+            </li>
+            </ul>
+    <div class="c-overlay-dropdown__cta">
+                    <div class="c-block-card">
+    <div class="c-block-card__picture-container">
+        <picture class="c-block-card__picture">
+                        <img class="c-block-card__img || cover || lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/32_13_0_0_crop/img_a5f35136e0da7d9d5bb059b5838f5e40.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/320_125_0_0_crop/img_62be490c171aa179ed5c39c081431648.jpg" alt="">
+        </picture>
+    </div>
+    <div class="c-block-card__text-block">
+        <div class="c-block-card__shape-container">
+            <img class="c-block-card__shape" src="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/b-card.svg">
+        </div>
+        <h4 class="c-block-card__title">Des questions?</h4>
+        <a class="c-block-card__button" href="https://www.beaconsfield.ca/fr/nous-joindre" target="_self">
+            <span>Nous joindre</span>
+        </a>
+    </div>
+</div>                        </div>
+</div>
+<div class="c-overlay-dropdown__right">
+    <div class="c-overlay-dropdown__sections">
+        <button class="c-overlay-dropdown__button-close" data-js="close-overlay-dropdown" type="button">
+            <span>Fermer</span>
+            <span>
+                <svg>
+                    <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x"></use>
+                </svg>
+            </span>
+        </button>
+                    <div class="c-overlay-dropdown__section" data-section="ma-ville">
+                <div class="c-overlay-dropdown__section-top">
+                    <h3 class="c-overlay-dropdown__section-title">Ma ville</h3>
+                </div>
+                <div class="c-overlay-dropdown__section-content">
+                                                <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/ma-ville/vivre-a-beaconsfield">
+            <span>Vivre à Beaconsfield</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/actualites" target="_self">
+            <span>Actualités</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/carte-interactive" target="_self">
+            <span>Carte interactive</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/vivre-a-beaconsfield/arbres-et-bancs-commemoratifs" target="_self">
+            <span>Commémoration</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/vivre-a-beaconsfield/contexte-et-histoire" target="_self">
+            <span>Contexte et histoire</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/vivre-a-beaconsfield/etre-un-bon-voisin" target="_self">
+            <span>Être un bon voisin</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/evenements" target="_self">
+            <span>Événements à venir</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://beaconsfieldenligne.ca/IC3Prod/#/U2010" target="_blank">
+            <span>Inscriptions en ligne</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/vivre-a-beaconsfield/bulletin-municipal-contact" target="_self">
+            <span>Magazine CONTACT et Info-flash</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/nous-joindre" target="_self">
+            <span>Nous joindre</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/vivre-a-beaconsfield/nouveaux-residents" target="_self">
+            <span>Nouveaux résidents</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/vivre-a-beaconsfield/portail-citoyen-1" target="_self">
+            <span>Portail citoyen</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/recherche-par-adresse" target="_self">
+            <span>Recherche par adresse</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/vivre-a-beaconsfield/sondages-et-etudes" target="_self">
+            <span>Sondages et études</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/ma-ville/administration-et-finances">
+            <span>Administration et finances</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/acces-aux-documents-et-protection-des-renseignements-personnels" target="_self">
+            <span>Accès aux documents et protection des renseignements personnels</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/agglomeration-et-cmm" target="_self">
+            <span>Agglomération et CMM</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/appel-doffres-contrats-et-gestion-sous-contractuelle" target="_self">
+            <span>Appel d&#039;offres, contrats et gestion sous-contractuelle</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/assermentation" target="_self">
+            <span>Assermentation</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/avis-publics" target="_self">
+            <span>Avis publics</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/budget-et-rapport-financier-2025" target="_self">
+            <span>Budget et rapport financier</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/emplois" target="_self">
+            <span>Emplois</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/faire-une-reclamation" target="_self">
+            <span>Faire une réclamation</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/reglements-municipaux" target="_self">
+            <span>Règlements municipaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/administration-et-finances/taxes-et-role-devaluation-fonciere" target="_self">
+            <span>Taxes et rôle d&#039;évaluation foncière</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/ma-ville/votre-conseil">
+            <span>Votre conseil</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/votre-conseil/conseil-municipal" target="_self">
+            <span>Conseil municipal</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/votre-conseil/comites-consultatifs" target="_self">
+            <span>Comités</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/carte-interactive/districts-electoraux/tous-les-districts" target="_self">
+            <span>Districts éléctoraux</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/votre-conseil/elections-municipales" target="_self">
+            <span>Élections municipales 2025</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/ma-ville/votre-conseil/seances-du-conseil-et-proces-verbaux" target="_self">
+            <span>Séances du conseil et procès-verbaux</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+                            </div>
+            </div>
+                    <div class="c-overlay-dropdown__section" data-section="services">
+                <div class="c-overlay-dropdown__section-top">
+                    <h3 class="c-overlay-dropdown__section-title">Services</h3>
+                </div>
+                <div class="c-overlay-dropdown__section-content">
+                                                <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/services/services-aux-citoyens">
+            <span>Services aux citoyens</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/animaux" target="_self">
+            <span>Animaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/assermentation-1" target="_self">
+            <span>Assermentation</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/carte-interactive" target="_self">
+            <span>Carte interactive</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/connectons-beaconsfield-1" target="_self">
+            <span>Connectons Beaconsfield</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/demande-de-permis-et-certificats" target="_self">
+            <span>Demande de permis et certificats</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/deneigement-1" target="_self">
+            <span>Déneigement</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/reclamation" target="_self">
+            <span>Faire une réclamation</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/gestion-des-matieres-residuelles" target="_self">
+            <span>Gestion des matières résiduelles</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://beaconsfieldenligne.ca/IC3Prod/#/U2010" target="_self">
+            <span>Inscription en ligne</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/portail-citoyen" target="_self">
+            <span>Portail citoyen</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/registre-personnes-vulnerables" target="_self">
+            <span>Registre des personnes en situation de vulnérabilité</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/reservation-de-salles-et-d-installations" target="_self">
+            <span>Réservation de salles et d&#039;installations</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/securite-publique" target="_self">
+            <span>Sécurité publique</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/services-aux-aines" target="_self">
+            <span>Services aux aînés</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/services-en-ligne" target="_self">
+            <span>Services en ligne</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/services-aux-citoyens/taxes-et-role-d-evaluation-fonciere" target="_self">
+            <span>Taxes et rôle d&#039;évaluation foncière</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/services/environnement-et-travaux-publics">
+            <span>Environnement et travaux publics</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/action-climatique-1" target="_self">
+            <span>Action climatique</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/air" target="_self">
+            <span>Air</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/arbres-et-vegetaux" target="_self">
+            <span>Arbres et végétaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/deneigement" target="_self">
+            <span>Déneigement</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/devenir-plus-resilient" target="_self">
+            <span>Devenir plus résilient</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/eau" target="_self">
+            <span>Eau</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/gestion-matieres-residuelles" target="_self">
+            <span>Gestion des matières résiduelles</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/parcs-et-espaces-verts" target="_self">
+            <span>Parcs et espaces verts</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/reduire-notre-impact" target="_self">
+            <span>Réduire notre impact</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/environnement-et-travaux-publics/travaux-publics" target="_self">
+            <span>Travaux publics</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/services/urbanisme-et-permis">
+            <span>Urbanisme et permis</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/urbanisme-et-permis/revision-du-plan-durbanisme" target="_self">
+            <span>Concordance du plan d&#039;urbanisme</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/urbanisme-et-permis/documentation" target="_self">
+            <span>Documentation</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/urbanisme-et-permis/ppcmoi" target="_self">
+            <span>PPCMOI</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/urbanisme-et-permis/permis-et-certificats" target="_self">
+            <span>Permis et certificats</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://www.beaconsfield.ca/fr/ma-ville/administration-et-finances/reglements-municipaux#reglements-portant-sur-les-permis-et-lhabitation" target="_self">
+            <span>Réglementation d&#039;urbanisme</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/services/urbanisme-et-permis/securite-publique-1" target="_self">
+            <span>Sécurité publique</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://www.beaconsfield.ca/fr/recherche-par-adresse" target="_self">
+            <span>Trouvez votre zonage</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+                            </div>
+            </div>
+                    <div class="c-overlay-dropdown__section" data-section="culture-et-loisirs">
+                <div class="c-overlay-dropdown__section-top">
+                    <h3 class="c-overlay-dropdown__section-title">Culture et loisirs</h3>
+                </div>
+                <div class="c-overlay-dropdown__section-content">
+                                                <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire">
+            <span>Loisirs et vie communautaire</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://www.beaconsfield.ca/fr/culture-et-loisirs/bibliotheque-et-culture/services-et-associations-culturels" target="_self">
+            <span>Associations reconnues</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/bourses-et-subventions" target="_self">
+            <span>Bourses et subventions</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/camps-de-jour" target="_self">
+            <span>Camps d’été</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/connectons-beaconsfield" target="_self">
+            <span>Connectons Beaconsfield</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://www.beaconsfield.ca/fr/evenements/" target="_self">
+            <span>Événements spéciaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/fete-de-quartier" target="_self">
+            <span>Fête de quartier</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/horaire-des-activites-libres" target="_self">
+            <span>Horaire des activités libres</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://beaconsfieldenligne.ca/IC3Prod/#/U2010" target="_blank">
+            <span>Inscription aux activités</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/plan-daccessibilite-universelle" target="_self">
+            <span>Plan d&#039;accessibilité universelle</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/programmation-des-loisirs-et-des-activites" target="_self">
+            <span>Programmation des loisirs et des activités</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/registre-des-personnes-vulnerables" target="_self">
+            <span>Registre des personnes en situation de vulnérabilité</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/reservation-de-salles-et-installations" target="_self">
+            <span>Réservation de salles et d&#039;installations</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/services-aux-aines-mada" target="_self">
+            <span>Services aux aînés</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/culture-et-loisirs/installations-et-parcs">
+            <span>Installations et parcs</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/installations-et-parcs/acces-a-leau-programme-dacces-lakeshore" target="_self">
+            <span>Accès à l&#039;eau</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/carte-interactive/parcs-et-espaces-verts/tous-les-parcs" target="_self">
+            <span>Carte interactive des parcs et installations</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/installations-et-parcs/centre-recreatif" target="_self">
+            <span>Centre récréatif</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/installations-et-parcs/parcs-et-terrains-de-jeux" target="_self">
+            <span>Parcs et terrains de jeux</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/installations-et-parcs/patinoires-exterieures-et-ski-de-fond" target="_self">
+            <span>Patinoires extérieures et ski de fond</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/installations-et-parcs/piscines-communautaires" target="_self">
+            <span>Piscines communautaires</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/installations-et-parcs/reservation-de-salles-et-dinstallations" target="_self">
+            <span>Réservation de salles et d&#039;installations</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-dropdown__section-block">
+        <a class="c-overlay-dropdown__list-title" href="/fr/culture-et-loisirs/bibliotheque-et-culture">
+            <span>Bibliothèque et culture</span>
+        </a>
+        <ul class="c-overlay-dropdown__list">
+                                        <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://www.beaconsfieldbiblio.ca/client/fr_CA/francais" target="_blank">
+            <span>Bibliothèque</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="https://www.culturebeaconsfield.ca/" target="_self">
+            <span>Centre culturel</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/evenements/evenements-speciaux" target="_self">
+            <span>Événements spéciaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/evenements/expositions" target="_self">
+            <span>Expositions</span>
+        </a>
+    </li>
+    <li class="c-overlay-dropdown__list-item">
+        <a class="c-overlay-dropdown__link" href="/fr/culture-et-loisirs/bibliotheque-et-culture/services-et-associations-culturels" target="_self">
+            <span>Services et associations</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+                            </div>
+            </div>
+            </div>
+</div>                    </div>
+    </div>
+</div>            <div class="c-overlay-menu" data-overlay="menu">
+    <div class="c-overlay-menu__container">
+        <div class="c-overlay-menu__scrollbar-container">
+            <div class="c-overlay-menu__scrollbar || js-menu-interface-scrollbar">
+                <div class="c-overlay-menu__content || js-menu-interface-scroll-to">
+                                            <div class="c-overlay-menu__interfaces || js-menu-interfaces">
+    <div class="c-overlay-menu__interface-container">
+        <div class="c-overlay-menu__interface" data-menu-interface="main" data-menu-interface-level="1">
+            <div class="c-overlay-menu__top-section">
+                <button class="c-overlay-menu__button-close" data-js="close-overlay-menu" type="button">
+                    <svg>
+                        <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x"></use>
+                    </svg>
+                </button>
+            </div>
+            <div class="c-overlay-menu__interface-content">
+                <ul class="c-overlay-menu__primary-buttons-list">
+                                            <li class="c-overlay-menu__primary-buttons-list-item">
+                            <button class="c-overlay-menu__primary-button" data-menu-button="ma-ville" type="button">
+                                <span>Ma ville</span>
+                                <svg>
+                                    <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                                </svg>
+                            </button>
+                        </li>
+                                            <li class="c-overlay-menu__primary-buttons-list-item">
+                            <button class="c-overlay-menu__primary-button" data-menu-button="services" type="button">
+                                <span>Services</span>
+                                <svg>
+                                    <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                                </svg>
+                            </button>
+                        </li>
+                                            <li class="c-overlay-menu__primary-buttons-list-item">
+                            <button class="c-overlay-menu__primary-button" data-menu-button="culture-et-loisirs" type="button">
+                                <span>Culture et loisirs</span>
+                                <svg>
+                                    <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                                </svg>
+                            </button>
+                        </li>
+                                    </ul>
+
+                <div class="c-overlay-menu__cta">
+                    <div class="c-overlay-menu__lang">
+                        <button class="c-overlay-menu__button-fr --active"
+                            type="button"
+                            data-request="onSwitchLocale"
+                            data-request-data="locale: 'fr'">
+                            <span>FR</span>
+                        </button>
+                        <span>/</span>
+                        <button class="c-overlay-menu__button-en "
+                            type="button"
+                            data-request="onSwitchLocale"
+                            data-request-data="locale: 'en'">
+                            <span>EN</span>
+                        </button>
+                    </div>
+                                <div class="c-block-card">
+    <div class="c-block-card__picture-container">
+        <picture class="c-block-card__picture">
+                        <img class="c-block-card__img || cover || lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/32_13_0_0_crop/img_a5f35136e0da7d9d5bb059b5838f5e40.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/320_125_0_0_crop/img_62be490c171aa179ed5c39c081431648.jpg" alt="">
+        </picture>
+    </div>
+    <div class="c-block-card__text-block">
+        <div class="c-block-card__shape-container">
+            <img class="c-block-card__shape" src="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/b-card.svg">
+        </div>
+        <h4 class="c-block-card__title">Des questions?</h4>
+        <a class="c-block-card__button" href="https://www.beaconsfield.ca/fr/nous-joindre" target="_self">
+            <span>Nous joindre</span>
+        </a>
+    </div>
+</div>                                                            </div>
+            </div>
+        </div>
+    </div>
+
+            <div class="c-overlay-menu__interface-container">
+            <div class="c-overlay-menu__interface" data-menu-interface="ma-ville" data-menu-interface-level="2">
+                <div class="c-overlay-menu__top-section">
+                    <button class="c-overlay-menu__button-back" data-menu-button="main" type="button">
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-left" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-left"></use>
+                            <span>Retour</span>
+                        </svg>
+                    </button>
+                    <button class="c-overlay-menu__button-close" data-js="close-overlay-menu" type="button">
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x"></use>
+                        </svg>
+                    </button>
+                </div>
+                                        <div class="c-overlay-menu__interface-block">
+    <h4 class="c-overlay-menu__interface-title">Ma ville</h4>
+</div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/ma-ville/vivre-a-beaconsfield">
+            <span>Vivre à Beaconsfield</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/actualites" target="_self">
+            <span>Actualités</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/carte-interactive" target="_self">
+            <span>Carte interactive</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/vivre-a-beaconsfield/arbres-et-bancs-commemoratifs" target="_self">
+            <span>Commémoration</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/vivre-a-beaconsfield/contexte-et-histoire" target="_self">
+            <span>Contexte et histoire</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/vivre-a-beaconsfield/etre-un-bon-voisin" target="_self">
+            <span>Être un bon voisin</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/evenements" target="_self">
+            <span>Événements à venir</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://beaconsfieldenligne.ca/IC3Prod/#/U2010" target="_blank">
+            <span>Inscriptions en ligne</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/vivre-a-beaconsfield/bulletin-municipal-contact" target="_self">
+            <span>Magazine CONTACT et Info-flash</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/nous-joindre" target="_self">
+            <span>Nous joindre</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/vivre-a-beaconsfield/nouveaux-residents" target="_self">
+            <span>Nouveaux résidents</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/vivre-a-beaconsfield/portail-citoyen-1" target="_self">
+            <span>Portail citoyen</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/recherche-par-adresse" target="_self">
+            <span>Recherche par adresse</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/vivre-a-beaconsfield/sondages-et-etudes" target="_self">
+            <span>Sondages et études</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/ma-ville/administration-et-finances">
+            <span>Administration et finances</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/acces-aux-documents-et-protection-des-renseignements-personnels" target="_self">
+            <span>Accès aux documents et protection des renseignements personnels</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/agglomeration-et-cmm" target="_self">
+            <span>Agglomération et CMM</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/appel-doffres-contrats-et-gestion-sous-contractuelle" target="_self">
+            <span>Appel d&#039;offres, contrats et gestion sous-contractuelle</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/assermentation" target="_self">
+            <span>Assermentation</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/avis-publics" target="_self">
+            <span>Avis publics</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/budget-et-rapport-financier-2025" target="_self">
+            <span>Budget et rapport financier</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/emplois" target="_self">
+            <span>Emplois</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/faire-une-reclamation" target="_self">
+            <span>Faire une réclamation</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/reglements-municipaux" target="_self">
+            <span>Règlements municipaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/administration-et-finances/taxes-et-role-devaluation-fonciere" target="_self">
+            <span>Taxes et rôle d&#039;évaluation foncière</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/ma-ville/votre-conseil">
+            <span>Votre conseil</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/votre-conseil/conseil-municipal" target="_self">
+            <span>Conseil municipal</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/votre-conseil/comites-consultatifs" target="_self">
+            <span>Comités</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/carte-interactive/districts-electoraux/tous-les-districts" target="_self">
+            <span>Districts éléctoraux</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/votre-conseil/elections-municipales" target="_self">
+            <span>Élections municipales 2025</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/ma-ville/votre-conseil/seances-du-conseil-et-proces-verbaux" target="_self">
+            <span>Séances du conseil et procès-verbaux</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+                        </div>
+        </div>
+            <div class="c-overlay-menu__interface-container">
+            <div class="c-overlay-menu__interface" data-menu-interface="services" data-menu-interface-level="2">
+                <div class="c-overlay-menu__top-section">
+                    <button class="c-overlay-menu__button-back" data-menu-button="main" type="button">
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-left" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-left"></use>
+                            <span>Retour</span>
+                        </svg>
+                    </button>
+                    <button class="c-overlay-menu__button-close" data-js="close-overlay-menu" type="button">
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x"></use>
+                        </svg>
+                    </button>
+                </div>
+                                        <div class="c-overlay-menu__interface-block">
+    <h4 class="c-overlay-menu__interface-title">Services</h4>
+</div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/services/services-aux-citoyens">
+            <span>Services aux citoyens</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/animaux" target="_self">
+            <span>Animaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/assermentation-1" target="_self">
+            <span>Assermentation</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/carte-interactive" target="_self">
+            <span>Carte interactive</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/connectons-beaconsfield-1" target="_self">
+            <span>Connectons Beaconsfield</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/demande-de-permis-et-certificats" target="_self">
+            <span>Demande de permis et certificats</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/deneigement-1" target="_self">
+            <span>Déneigement</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/reclamation" target="_self">
+            <span>Faire une réclamation</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/gestion-des-matieres-residuelles" target="_self">
+            <span>Gestion des matières résiduelles</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://beaconsfieldenligne.ca/IC3Prod/#/U2010" target="_self">
+            <span>Inscription en ligne</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/portail-citoyen" target="_self">
+            <span>Portail citoyen</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/registre-personnes-vulnerables" target="_self">
+            <span>Registre des personnes en situation de vulnérabilité</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/reservation-de-salles-et-d-installations" target="_self">
+            <span>Réservation de salles et d&#039;installations</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/securite-publique" target="_self">
+            <span>Sécurité publique</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/services-aux-aines" target="_self">
+            <span>Services aux aînés</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/services-en-ligne" target="_self">
+            <span>Services en ligne</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/services-aux-citoyens/taxes-et-role-d-evaluation-fonciere" target="_self">
+            <span>Taxes et rôle d&#039;évaluation foncière</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/services/environnement-et-travaux-publics">
+            <span>Environnement et travaux publics</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/action-climatique-1" target="_self">
+            <span>Action climatique</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/air" target="_self">
+            <span>Air</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/arbres-et-vegetaux" target="_self">
+            <span>Arbres et végétaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/deneigement" target="_self">
+            <span>Déneigement</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/devenir-plus-resilient" target="_self">
+            <span>Devenir plus résilient</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/eau" target="_self">
+            <span>Eau</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/gestion-matieres-residuelles" target="_self">
+            <span>Gestion des matières résiduelles</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/parcs-et-espaces-verts" target="_self">
+            <span>Parcs et espaces verts</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/reduire-notre-impact" target="_self">
+            <span>Réduire notre impact</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/environnement-et-travaux-publics/travaux-publics" target="_self">
+            <span>Travaux publics</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/services/urbanisme-et-permis">
+            <span>Urbanisme et permis</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/urbanisme-et-permis/revision-du-plan-durbanisme" target="_self">
+            <span>Concordance du plan d&#039;urbanisme</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/urbanisme-et-permis/documentation" target="_self">
+            <span>Documentation</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/urbanisme-et-permis/ppcmoi" target="_self">
+            <span>PPCMOI</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/urbanisme-et-permis/permis-et-certificats" target="_self">
+            <span>Permis et certificats</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://www.beaconsfield.ca/fr/ma-ville/administration-et-finances/reglements-municipaux#reglements-portant-sur-les-permis-et-lhabitation" target="_self">
+            <span>Réglementation d&#039;urbanisme</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/services/urbanisme-et-permis/securite-publique-1" target="_self">
+            <span>Sécurité publique</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://www.beaconsfield.ca/fr/recherche-par-adresse" target="_self">
+            <span>Trouvez votre zonage</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+                        </div>
+        </div>
+            <div class="c-overlay-menu__interface-container">
+            <div class="c-overlay-menu__interface" data-menu-interface="culture-et-loisirs" data-menu-interface-level="2">
+                <div class="c-overlay-menu__top-section">
+                    <button class="c-overlay-menu__button-back" data-menu-button="main" type="button">
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-left" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-left"></use>
+                            <span>Retour</span>
+                        </svg>
+                    </button>
+                    <button class="c-overlay-menu__button-close" data-js="close-overlay-menu" type="button">
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x"></use>
+                        </svg>
+                    </button>
+                </div>
+                                        <div class="c-overlay-menu__interface-block">
+    <h4 class="c-overlay-menu__interface-title">Culture et loisirs</h4>
+</div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire">
+            <span>Loisirs et vie communautaire</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://www.beaconsfield.ca/fr/culture-et-loisirs/bibliotheque-et-culture/services-et-associations-culturels" target="_self">
+            <span>Associations reconnues</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/bourses-et-subventions" target="_self">
+            <span>Bourses et subventions</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/camps-de-jour" target="_self">
+            <span>Camps d’été</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/connectons-beaconsfield" target="_self">
+            <span>Connectons Beaconsfield</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://www.beaconsfield.ca/fr/evenements/" target="_self">
+            <span>Événements spéciaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/fete-de-quartier" target="_self">
+            <span>Fête de quartier</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/horaire-des-activites-libres" target="_self">
+            <span>Horaire des activités libres</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://beaconsfieldenligne.ca/IC3Prod/#/U2010" target="_blank">
+            <span>Inscription aux activités</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/plan-daccessibilite-universelle" target="_self">
+            <span>Plan d&#039;accessibilité universelle</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/programmation-des-loisirs-et-des-activites" target="_self">
+            <span>Programmation des loisirs et des activités</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/registre-des-personnes-vulnerables" target="_self">
+            <span>Registre des personnes en situation de vulnérabilité</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/reservation-de-salles-et-installations" target="_self">
+            <span>Réservation de salles et d&#039;installations</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/loisirs-et-vie-communautaire/services-aux-aines-mada" target="_self">
+            <span>Services aux aînés</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/culture-et-loisirs/installations-et-parcs">
+            <span>Installations et parcs</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/installations-et-parcs/acces-a-leau-programme-dacces-lakeshore" target="_self">
+            <span>Accès à l&#039;eau</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/carte-interactive/parcs-et-espaces-verts/tous-les-parcs" target="_self">
+            <span>Carte interactive des parcs et installations</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/installations-et-parcs/centre-recreatif" target="_self">
+            <span>Centre récréatif</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/installations-et-parcs/parcs-et-terrains-de-jeux" target="_self">
+            <span>Parcs et terrains de jeux</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/installations-et-parcs/patinoires-exterieures-et-ski-de-fond" target="_self">
+            <span>Patinoires extérieures et ski de fond</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/installations-et-parcs/piscines-communautaires" target="_self">
+            <span>Piscines communautaires</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/installations-et-parcs/reservation-de-salles-et-dinstallations" target="_self">
+            <span>Réservation de salles et d&#039;installations</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+    <div class="c-overlay-menu__interface-block">
+        <a class="c-overlay-menu__list-title" href="/fr/culture-et-loisirs/bibliotheque-et-culture">
+            <span>Bibliothèque et culture</span>
+        </a>
+        <ul class="c-overlay-menu__list">
+                                        <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://www.beaconsfieldbiblio.ca/client/fr_CA/francais" target="_blank">
+            <span>Bibliothèque</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="https://www.culturebeaconsfield.ca/" target="_self">
+            <span>Centre culturel</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/evenements/evenements-speciaux" target="_self">
+            <span>Événements spéciaux</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/evenements/expositions" target="_self">
+            <span>Expositions</span>
+        </a>
+    </li>
+    <li class="c-overlay-menu__list-item">
+        <a class="c-overlay-menu__link" href="/fr/culture-et-loisirs/bibliotheque-et-culture/services-et-associations-culturels" target="_self">
+            <span>Services et associations</span>
+        </a>
+    </li>
+                    </ul>
+    </div>
+                        </div>
+        </div>
+    </div>                            </div>
+            </div>
+        </div>
+    </div>
+    <div class="c-overlay-menu__background" data-js="close-overlay-menu"></div>
+</div>            <div class="c-overlay-search" data-overlay="search">
+    <div class="c-overlay-search__container">
+        <div class="c-overlay-search__search-block">
+            <h3 class="c-overlay-search__search-block-title">Que recherchez-vous aujourd’hui ?</h3>
+            <div class="c-overlay-search__search-field-container">
+                <form class="c-search-field" action="https://www.beaconsfield.ca/fr/recherche">
+                    <div class="c-search-field__input-container">
+                        <input class="c-search-field__input || js-input-to-clear" data-input="overlay-search-input" type="search" name="q" autocomplete="off" value="" placeholder="Lancer une recherche">
+                        <button class="c-search-field__x || js-clear-input" type="button" title="Effacer">
+                            <svg>
+                                <use xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x"></use>
+                            </svg>
+                        </button>
+                    </div>
+                    <button class="c-search-field__search-button" type="submit" title="Rechercher">
+                        <svg>
+                            <use xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-search"></use>
+                        </svg>
+                    </button>
+                </form>
+            </div>
+            <button class="c-overlay-search__button-close" data-js="close-overlay-search" type="button">
+                <svg>
+                    <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x"></use>
+                </svg>
+            </button>
+        </div>
+        <div class="c-overlay-search__sections">
+
+            <!-- Suggestions -->
+            <div class="c-overlay-search__section" data-section="suggestions">
+                <div class="c-overlay-search__suggestions">
+                    <div class="c-overlay-search__suggestions-content">
+                                                    <span class="c-overlay-search__list-title">Tendances actuelles</span>
+                            <ul class="c-overlay-search__list">
+                                                                    <li class="c-overlay-search__list-item">
+                                        <a class="c-overlay-search__suggestion" href="https://www.beaconsfield.ca/fr/recherche?q=Actualités">
+                                            <span>Actualités</span>
+                                        </a>
+                                    </li>
+                                                                    <li class="c-overlay-search__list-item">
+                                        <a class="c-overlay-search__suggestion" href="https://www.beaconsfield.ca/fr/recherche?q=Avis publics">
+                                            <span>Avis publics</span>
+                                        </a>
+                                    </li>
+                                                                    <li class="c-overlay-search__list-item">
+                                        <a class="c-overlay-search__suggestion" href="https://www.beaconsfield.ca/fr/recherche?q=Bibliothèque">
+                                            <span>Bibliothèque</span>
+                                        </a>
+                                    </li>
+                                                                    <li class="c-overlay-search__list-item">
+                                        <a class="c-overlay-search__suggestion" href="https://www.beaconsfield.ca/fr/recherche?q=Collectes">
+                                            <span>Collectes</span>
+                                        </a>
+                                    </li>
+                                                                    <li class="c-overlay-search__list-item">
+                                        <a class="c-overlay-search__suggestion" href="https://www.beaconsfield.ca/fr/recherche?q=Inscriptions">
+                                            <span>Inscriptions</span>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </div>
+                    <div class="c-overlay-search__cta">
+                                            </div>
+                    <a class="c-overlay-search__address-search-button" href="https://www.beaconsfield.ca/fr/recherche-par-adresse">
+                        <span>Recherche par adresse</span>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Résultats -->
+            <div class="c-overlay-search__section || js-overlay-search-section-content" data-section="results" id="autocomplete">
+                            </div>
+        </div>
+    </div>
+    <div class="c-overlay-search__background" data-js="close-overlay-search"></div>
+</div>            
+                        <header class="c-header">
+    <div class="c-header__container">
+        <div class="c-header__left">
+            <a class="c-header__logo-container" href="https://www.beaconsfield.ca/fr" title="Vers l'accueil">
+                <img class="c-header__logo" src="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/beaconsfield_logo_horizontal_couleur.svg" alt="Logo | Ville de Beaconsfield">
+            </a>
+            <ul class="c-header__list">
+                                            <li class="c-header__list-item">
+        <button class="c-header__dropdown-button" data-js="trigger-overlay-dropdown" data-section="ma-ville" data-dropdown-button="ma-ville" type="button">
+            <svg>
+                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-orange-dot" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-orange-dot"></use>
+            </svg>
+            <span>Ma ville</span>
+        </button>
+    </li>
+    <li class="c-header__list-item">
+        <button class="c-header__dropdown-button" data-js="trigger-overlay-dropdown" data-section="services" data-dropdown-button="services" type="button">
+            <svg>
+                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-orange-dot" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-orange-dot"></use>
+            </svg>
+            <span>Services</span>
+        </button>
+    </li>
+    <li class="c-header__list-item">
+        <button class="c-header__dropdown-button" data-js="trigger-overlay-dropdown" data-section="culture-et-loisirs" data-dropdown-button="culture-et-loisirs" type="button">
+            <svg>
+                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-orange-dot" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-orange-dot"></use>
+            </svg>
+            <span>Culture et loisirs</span>
+        </button>
+    </li>
+                        </ul>
+        </div>
+        <div class="c-header__right">
+            <div class="c-header__lang">
+                <button class="c-header__button-fr --active"
+                    type="button"
+                    data-request="onSwitchLocale"
+                    data-request-data="locale: 'fr'">
+                    <span>FR</span>
+                </button>
+                <span>/</span>
+                <button class="c-header__button-en "
+                    type="button"
+                    data-request="onSwitchLocale"
+                    data-request-data="locale: 'en'">
+                    <span>EN</span>
+                </button>
+            </div>
+            <ul class="c-header__zoom-buttons-list">
+                <li class="c-header__zoom-buttons-list-item">
+                    <button class="c-header__zoom-button || js-zoom-font-size-option is-active" data-zoom="62.5">
+                        <span>A</span>
+                    </button>
+                </li>
+                <li class="c-header__zoom-buttons-list-item">
+                    <button class="c-header__zoom-button || js-zoom-font-size-option" data-zoom="70">
+                        <span>A</span>
+                    </button>
+                </li>
+                <li class="c-header__zoom-buttons-list-item">
+                    <button class="c-header__zoom-button || js-zoom-font-size-option" data-zoom="75">
+                        <span>A</span>
+                    </button>
+                </li>
+            </ul>
+            <a class="c-header__button-contact" href="https://www.beaconsfield.ca/fr/nous-joindre">
+                <span>Nous joindre</span>
+                <svg>
+                    <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-mail" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-mail"></use>
+                </svg>
+            </a>
+            <button class="c-header__button-hamburger" data-js="open-overlay-menu">
+                <span class="c-header__button-hamburger-lines">
+                    <span class="c-header__button-hamburger-line"></span>
+                    <span class="c-header__button-hamburger-line"></span>
+                    <span class="c-header__button-hamburger-line"></span>
+                    <span class="c-header__button-hamburger-line"></span>
+                </span>
+            </button>
+            <button class="c-header__button-search" data-js="trigger-overlay-search" data-section="suggestions" type="button">
+                <svg>
+                    <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-search" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-search"></use>
+                </svg>
+                <svg>
+                    <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-x"></use>
+                </svg>
+            </button>
+        </div>
+    </div>
+</header>            
+<div class="o-layout --page-detail">
+        <div class="o-layout --page-detail">
+
+                                            <section class="o-section --page-title">
+    <div class="c-page-title || js-scrollfire scrollfire-fade-up">
+        <div class="c-page-title__breadcrumb-section">
+            <div class="c-page-title__breadcrumb-section-content">
+                <div class="c-page-title__shape-container">
+                    <img class="c-page-title__shape" src="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/b.svg">
+                </div>
+                                    <div class="c-breadcrumb">
+    <p class="c-breadcrumb__list">
+        <a class="c-breadcrumb__link-item" href="https://www.beaconsfield.ca/fr">
+            <span>Accueil</span>
+            <span class="c-breadcrumb__space"></span>
+        </a>
+                                    <a class="c-breadcrumb__link-item" href="/fr/ma-ville">
+                    <span class="c-breadcrumb__space"></span>
+                    <span>Ma ville</span>
+                </a>
+                                                <a class="c-breadcrumb__link-item" href="/fr/ma-ville/votre-conseil">
+                    <span class="c-breadcrumb__space"></span>
+                    <span>Votre conseil</span>
+                </a>
+                                                <span class="c-breadcrumb__item">
+                    <span class="c-breadcrumb__space"></span>
+                    <span>Conseil municipal</span>
+                </span>
+                        </p>
+</div>                            </div>
+                            <button class="c-page-title__overlay-button" data-js="toggle-overlay-navigation">
+                    <span>Dans cette page</span>
+                    <svg>
+                        <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-chevron-down" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-chevron-down"></use>
+                    </svg>
+                </button>
+                <div class="c-overlay-navigation" data-overlay="navigation">
+    <div class="c-overlay-navigation__container" data-overlay-container="navigation">
+        <ul class="c-overlay-navigation__list">
+                            <li class="c-overlay-navigation__list-item">
+                    <a class="c-overlay-navigation__button" data-js="toggle-overlay-navigation" href="#georges-bourelle">
+                        <span>Georges Bourelle</span>
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li class="c-overlay-navigation__list-item">
+                    <a class="c-overlay-navigation__button" data-js="toggle-overlay-navigation" href="#dominique-godin">
+                        <span>Dominique Godin</span>
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li class="c-overlay-navigation__list-item">
+                    <a class="c-overlay-navigation__button" data-js="toggle-overlay-navigation" href="#martin-st-jean">
+                        <span>Martin St-Jean</span>
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li class="c-overlay-navigation__list-item">
+                    <a class="c-overlay-navigation__button" data-js="toggle-overlay-navigation" href="#robert-mercuri">
+                        <span>Robert Mercuri</span>
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li class="c-overlay-navigation__list-item">
+                    <a class="c-overlay-navigation__button" data-js="toggle-overlay-navigation" href="#david-newell">
+                        <span>David Newell</span>
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li class="c-overlay-navigation__list-item">
+                    <a class="c-overlay-navigation__button" data-js="toggle-overlay-navigation" href="#roger-moss">
+                        <span>Roger Moss</span>
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li class="c-overlay-navigation__list-item">
+                    <a class="c-overlay-navigation__button" data-js="toggle-overlay-navigation" href="#peggy-alexopoulos">
+                        <span>Peggy Alexopoulos</span>
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                        </svg>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+</div>                    </div>
+        <div class="c-page-title__container">
+            <div class="c-page-title__content">
+                <div class="c-page-title__text-block">
+                    <h1 class="c-page-title__title">Conseil municipal</h1>
+                </div>
+                                    <div class="c-page-title__picture-container">
+                                                                            <picture class="c-page-title__picture">
+                                <img class="c-page-title__img || cover || lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/48_27_0_0_crop/img_4dac1d3e00209e2de4fae31ca19b0c23.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/480_265_0_0_crop/img_20e9ce9b278a7e4fb58ddef95af62a75.jpg" alt="">
+                            </picture>
+                                                                    </div>
+                            </div>
+            <div class="c-page-title__bottom-section">
+                <button class="c-button-share || js-open-overlay-share" type="button" >
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share"></use>
+        </svg>
+    </span>
+    <span>Partager</span>
+</button>                
+                            </div>
+        </div>
+    </div>
+</section>
+    <section class="o-section --with-aside">
+
+        <section class="o-section --aside">
+    <div class="c-aside --default">
+        <div class="c-aside__container || js-scrollfire scrollfire-fade-up">
+            <div class="c-aside__sticky-container">
+                <div class="c-aside__sticky-element">
+                                                                                                </div>
+            </div>
+        </div>
+    </div>
+</section>
+        <section class="o-section --page-content">
+
+            <section class="o-section --cms-content">
+                <div class="c-cms-content">
+                    <div class="c-cms-content__container">
+                        <div class="c-cms-content__content || js-scrollfire scrollfire-fade-up">
+                                                                                        <div class="c-cms-content__content">
+                                    <div class="s-cms-content">
+                                        <p><strong>Les citoyens de Beaconsfield sont repr&eacute;sent&eacute;s au Conseil municipal par un maire et six (6) conseillers. Beaconsfield est divis&eacute; en six (6) districts &eacute;lectoraux.&nbsp;</strong>Chaque district est repr&eacute;sent&eacute; par un(e) conseiller(&egrave;re) municipal(e) &eacute;lu(e) par les &eacute;lecteurs du district. Le maire est &eacute;lu par l&rsquo;ensemble des &eacute;lecteurs de la Ville. &nbsp;&nbsp;</p><p class=" buttons buttons--first"><a class="fr-file secondary-button" href="https://www.beaconsfield.ca/fr/carte-interactive/districts-electoraux" rel="noopener noreferrer" target="_blank"><span>Consultez la carte des districts &eacute;lectoraux</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            </section>
+
+            
+            
+                                <section class="o-section --rubrics rubrics-no-title">
+                <div class="c-rubrics || js-scrollfire scrollfire-fade-up">
+            <div class="c-rubrics__list || js-accordions">
+                                    <div class="c-rubric-card || js-accordion" id="accordion-georges-bourelle">
+    <div class="c-rubric-card__header || js-accordion-toggle">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus || o-plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                            <span class="c-rubric-card__surtitle">Maire</span>
+                        <h2 class="c-rubric-card__title">Georges Bourelle</h2>
+        </div>
+                            <picture class="c-rubric-card__picture || o-picture">
+                <img class="c-rubric-card__img || cover lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/14_90_0_0_crop/img_4195dd4a9c2a15ae166c8ac83ae33ca0.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/140_90_0_0_crop/img_10773edd9dd8ec1cee7611cddff55e1e.jpg" alt="">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__cms-content">
+                                        <div class="s-cms-content s-cms-content--rubric">
+                        <p><a href="mailto:georges.bourelle@beaconsfield.ca" rel="noopener noreferrer" target="_blank"><span>georges.bourelle@beaconsfield.ca</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-section">
+                <button class="c-button-share || js-open-overlay-share" type="button"  data-rubric="georges-bourelle" >
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share"></use>
+        </svg>
+    </span>
+    <span>Partager</span>
+</button>            </div>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-dominique-godin">
+    <div class="c-rubric-card__header || js-accordion-toggle">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus || o-plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                            <span class="c-rubric-card__surtitle">District 1</span>
+                        <h2 class="c-rubric-card__title">Dominique Godin</h2>
+        </div>
+                            <picture class="c-rubric-card__picture || o-picture">
+                <img class="c-rubric-card__img || cover lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/14_90_0_0_crop/img_7f7b60e61d826d6688a7ae9db16b9d97.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/140_90_0_0_crop/img_7e0a4afd221fd9229bff12f14a8be741.jpg" alt="">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__cms-content">
+                                            <a href="https://www.beaconsfield.ca/fr/carte-interactive/districts-electoraux/tous-les-districts/dominique-godin" class="c-button-see-on-map c-button-see-on-map--rubric">
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map"></use>
+        </svg>
+    </span>
+    <span>Voir sur la carte</span>
+</a>                                        <div class="s-cms-content s-cms-content--rubric">
+                        <p><a href="mailto:dominique.godin@beaconsfield.ca" rel="noopener noreferrer" target="_blank"><span>dominique.godin@beaconsfield.ca</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p><p class=" buttons buttons--first"><a class="primary-button" href="/fr/ma-ville/votre-conseil/comites-consultatifs#comite-consultatif-de-culture-et-loisirs" rel="noopener noreferrer" target="_blank"><span>Comit&eacute; consultatif de culture et loisirs</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-section">
+                <button class="c-button-share || js-open-overlay-share" type="button"  data-rubric="dominique-godin" >
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share"></use>
+        </svg>
+    </span>
+    <span>Partager</span>
+</button>            </div>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-martin-st-jean">
+    <div class="c-rubric-card__header || js-accordion-toggle">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus || o-plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                            <span class="c-rubric-card__surtitle">District 2</span>
+                        <h2 class="c-rubric-card__title">Martin St-Jean</h2>
+        </div>
+                            <picture class="c-rubric-card__picture || o-picture">
+                <img class="c-rubric-card__img || cover lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/14_90_0_0_crop/img_b9b53be2e128d6377868a0a900b4a166.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/140_90_0_0_crop/img_52a0514d2dae867a404938cd3cb8fae8.jpg" alt="">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__cms-content">
+                                            <a href="https://www.beaconsfield.ca/fr/carte-interactive/districts-electoraux/tous-les-districts/martin-st-jean" class="c-button-see-on-map c-button-see-on-map--rubric">
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map"></use>
+        </svg>
+    </span>
+    <span>Voir sur la carte</span>
+</a>                                        <div class="s-cms-content s-cms-content--rubric">
+                        <p><a href="mailto:martin.st-jean@beaconsfield.ca" target="_blank"><span>martin.st-jean@beaconsfield.ca</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a>&nbsp;</p><p class=" buttons buttons--first"><a class="primary-button" href="/fr/ma-ville/votre-conseil/comites-consultatifs#comite-consultatif-de-circulation" rel="noopener noreferrer" target="_blank"><span>Comit&eacute; consultatif de circulation</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-section">
+                <button class="c-button-share || js-open-overlay-share" type="button"  data-rubric="martin-st-jean" >
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share"></use>
+        </svg>
+    </span>
+    <span>Partager</span>
+</button>            </div>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-robert-mercuri">
+    <div class="c-rubric-card__header || js-accordion-toggle">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus || o-plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                            <span class="c-rubric-card__surtitle">District 3</span>
+                        <h2 class="c-rubric-card__title">Robert Mercuri</h2>
+        </div>
+                            <picture class="c-rubric-card__picture || o-picture">
+                <img class="c-rubric-card__img || cover lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/14_90_0_0_crop/img_886a98df1918cb2b09ad8119fbe5578b.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/140_90_0_0_crop/img_6a3fbbd615672e56a53a504b8deca1e9.jpg" alt="">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__cms-content">
+                                            <a href="https://www.beaconsfield.ca/fr/carte-interactive/districts-electoraux/tous-les-districts/robert-mercuri" class="c-button-see-on-map c-button-see-on-map--rubric">
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map"></use>
+        </svg>
+    </span>
+    <span>Voir sur la carte</span>
+</a>                                        <div class="s-cms-content s-cms-content--rubric">
+                        <p><a href="mailto:robert.mercuri@beaconsfield.ca" rel="noopener noreferrer" target="_blank"><span>robert.mercuri@beaconsfield.ca</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a>&nbsp;</p><p class=" buttons buttons--first"><a class="primary-button" href="/fr/ma-ville/votre-conseil/comites-consultatifs#comite-de-finances" rel="noopener noreferrer" target="_blank"><span>Comit&eacute; de finances</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-section">
+                <button class="c-button-share || js-open-overlay-share" type="button"  data-rubric="robert-mercuri" >
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share"></use>
+        </svg>
+    </span>
+    <span>Partager</span>
+</button>            </div>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-david-newell">
+    <div class="c-rubric-card__header || js-accordion-toggle">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus || o-plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                            <span class="c-rubric-card__surtitle">District 4</span>
+                        <h2 class="c-rubric-card__title">David Newell</h2>
+        </div>
+                            <picture class="c-rubric-card__picture || o-picture">
+                <img class="c-rubric-card__img || cover lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/14_90_0_0_crop/img_14df4302fab9ca6ce7e4f698b85c43d6.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/140_90_0_0_crop/img_6f78b00e6d0493773f4f28e98f85b969.jpg" alt="">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__cms-content">
+                                            <a href="https://www.beaconsfield.ca/fr/carte-interactive/districts-electoraux/tous-les-districts/david-newell" class="c-button-see-on-map c-button-see-on-map--rubric">
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map"></use>
+        </svg>
+    </span>
+    <span>Voir sur la carte</span>
+</a>                                        <div class="s-cms-content s-cms-content--rubric">
+                        <p><a href="mailto:david.newell@beaconsfield.ca" rel="noopener noreferrer" target="_blank"><span>david.newell@beaconsfield.ca</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a>&nbsp;</p><p class=" buttons buttons--first"><a class="primary-button" href="/fr/ma-ville/votre-conseil/comites-consultatifs#comite-consultatif-durbanisme" rel="noopener noreferrer" target="_blank"><span>Comit&eacute; consultatif d'urbanisme</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-section">
+                <button class="c-button-share || js-open-overlay-share" type="button"  data-rubric="david-newell" >
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share"></use>
+        </svg>
+    </span>
+    <span>Partager</span>
+</button>            </div>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-roger-moss">
+    <div class="c-rubric-card__header || js-accordion-toggle">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus || o-plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                            <span class="c-rubric-card__surtitle">District 5</span>
+                        <h2 class="c-rubric-card__title">Roger Moss</h2>
+        </div>
+                            <picture class="c-rubric-card__picture || o-picture">
+                <img class="c-rubric-card__img || cover lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/14_90_0_0_crop/img_f0b34f88bdb120161600dd2a6e6718ac.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/140_90_0_0_crop/img_1cedfa754c5dbf8d9f066f1ccec2c9b2.jpg" alt="">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__cms-content">
+                                            <a href="https://www.beaconsfield.ca/fr/carte-interactive/districts-electoraux/tous-les-districts/roger-moss" class="c-button-see-on-map c-button-see-on-map--rubric">
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map"></use>
+        </svg>
+    </span>
+    <span>Voir sur la carte</span>
+</a>                                        <div class="s-cms-content s-cms-content--rubric">
+                        <p><a href="mailto:roger.moss@beaconsfield.ca" rel="noopener noreferrer" target="_blank"><span>roger.moss@beaconsfield.ca</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p><p class=" buttons buttons--first"><a class="primary-button" href="/fr/ma-ville/votre-conseil/comites-consultatifs#comite-consultatif-de-lenvironnement" rel="noopener noreferrer" target="_blank"><span>Comit&eacute; consultatif de l'environnement</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-section">
+                <button class="c-button-share || js-open-overlay-share" type="button"  data-rubric="roger-moss" >
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share"></use>
+        </svg>
+    </span>
+    <span>Partager</span>
+</button>            </div>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-peggy-alexopoulos">
+    <div class="c-rubric-card__header || js-accordion-toggle">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus || o-plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                            <span class="c-rubric-card__surtitle">District 6</span>
+                        <h2 class="c-rubric-card__title">Peggy Alexopoulos</h2>
+        </div>
+                            <picture class="c-rubric-card__picture || o-picture">
+                <img class="c-rubric-card__img || cover lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/14_90_0_0_crop/img_59fcbc257e9dc04b6359515e8c164005.jpg" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/140_90_0_0_crop/img_8ccec999f30533e411875152e8db17ef.jpg" alt="">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__cms-content">
+                                            <a href="https://www.beaconsfield.ca/fr/carte-interactive/districts-electoraux/tous-les-districts/peggy-alexopoulos" class="c-button-see-on-map c-button-see-on-map--rubric">
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-map"></use>
+        </svg>
+    </span>
+    <span>Voir sur la carte</span>
+</a>                                        <div class="s-cms-content s-cms-content--rubric">
+                        <p><a href="mailto:peggy.alexopoulos@beaconsfield.ca" target="_blank"><span>peggy.alexopoulos@beaconsfield.ca</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p><p class=" buttons buttons--first"><a class="primary-button" href="/fr/ma-ville/votre-conseil/comites-consultatifs#comite-du-mada-municipalite-amie-des-aines" rel="noopener noreferrer" target="_blank"><span>Comit&eacute; du MADA (Municipalit&eacute; amie des a&icirc;n&eacute;s)</span><svg><use href="/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-external"></use></svg></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-section">
+                <button class="c-button-share || js-open-overlay-share" type="button"  data-rubric="peggy-alexopoulos" >
+    <span>
+        <svg>
+            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-share"></use>
+        </svg>
+    </span>
+    <span>Partager</span>
+</button>            </div>
+        </div>
+    </div>
+</div>                            </div>
+        </div>
+    </section>
+                                            
+            
+                            <section class="o-section --cms-content">
+                    <div class="c-cms-content">
+                        <div class="c-cms-content__container">
+                            <div class="c-cms-content__content || js-scrollfire scrollfire-fade-up">
+                                <div class="s-cms-content">
+                                    <h2>Formation &eacute;thique et d&eacute;ontologique obligatoire</h2><p>Conform&eacute;ment &agrave; l&rsquo;article 15 de la <em>Loi sur l&rsquo;&eacute;thique et la d&eacute;ontologie en mati&egrave;re municipale</em>, tous les nouveaux &eacute;lus et membres r&eacute;&eacute;lus du conseil municipal doivent suivre une formation en &eacute;thique et en d&eacute;ontologie dans les six mois suivant le d&eacute;but de leur mandat.</p><p>Conform&eacute;ment &agrave; l&rsquo;article 15, la Ville de Beaconsfield tient &agrave; jour sur son site Internet la liste des membres du conseil qui ont particip&eacute; &agrave; la formation.</p><ul><li><strong>Georges Bourelle</strong>, maire &ndash; Formation suivie le 21 avril 2022</li><li><strong>Dominique Godin</strong>, conseill&egrave;re district 1 &ndash; Formation suivie le 20 janvier 2022</li><li><strong>Martin</strong><strong>St-Jean</strong>, conseiller district 2 &ndash; autoris&eacute; &agrave; dispenser les formations en &eacute;thique et d&eacute;ontologie en mati&egrave;re municipale par la Commission municipale du Qu&eacute;bec et a ainsi suivi la formation obligatoire.</li><li><strong>Robert Mercuri</strong>, conseiller district 3 &ndash; Formation suivie le 19 f&eacute;vrier 2022</li><li><strong>David Newell</strong>, conseiller district 4 &ndash; Formation suivie le 20 janvier 2022</li><li><strong>Roger Moss</strong>, conseiller district 5 &ndash; Formation suivie le 20 janvier 2022</li><li><strong>Peggy Alexopoulos</strong>, conseill&egrave;re district 6 &ndash; Formation suivie le 19 f&eacute;vrier 2022</li></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            
+        </section>
+
+    </section>
+
+                            <section class="o-section --showcase || js-scrollfire scrollfire-fade-up">
+            <a class="c-showcase" href="https://www.beaconsfield.ca/fr/recherche-par-adresse" target="_self">
+                <div class="c-showcase__container">
+                <div class="c-showcase__left">
+                                            <span class="c-showcase__tag">Recherche par adresse</span>
+                                        <h2 class="c-showcase__title">Trouvez votre zonage</h2>
+                                            <p class="c-showcase__description">Trouvez votre zonage d&#039;urbanisme, votre conseiller, les détails sur les collectes par votre secteur, et plus!</p>
+                                                                <span class="c-showcase__button">
+                            <span>En savoir plus</span>
+                        </span>
+                                    </div>
+                <div class="c-showcase__right">
+                    <div class="c-showcase__picture-container">
+                        <div class="c-showcase__shape-container">
+                            <img class="c-showcase__shape" src="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/b-showcase.svg">
+                        </div>
+                                                <picture class="c-showcase__picture">
+                            <img class="c-showcase__img || cover || lazy" src="https://www.beaconsfield.ca/storage/app/resources/resize/61_41_0_0_crop/img_481c09af9360572e38146d675e8fa0e1.png" data-src="https://www.beaconsfield.ca/storage/app/resources/resize/610_410_0_0_crop/img_4007df3aa1b3dfae920462df92f933be.png" alt="">
+                        </picture>
+                    </div>
+                </div>
+            </div>
+            </a>
+    </section>            
+</div></div>            <footer class="c-footer">
+    <div class="c-footer__container">
+        <div class="c-footer__newsletter-section">
+            <div class="c-footer__newsletter-section-text-block">
+                <span class="c-footer__newsletter-section-surtitle">Abonnements</span>
+                <h3 class="c-footer__newsletter-section-title">Pour ne rien manquer,<br> inscrivez-vous à nos différents services</h3>
+            </div>
+            <a class="c-footer__newsletter-section-button" href="https://www.beaconsfield.ca/fr/abonnements">
+                <span>S’inscrire</span>
+            </a>
+            <div class="c-footer__shape-container">
+                <img class="c-footer__shape" src="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/footer-b.svg">
+            </div>
+        </div>
+        <div class="c-footer__bottom-section">
+            <div class="c-footer__bottom-left">
+                <a class="c-footer__logo-container" href="https://www.beaconsfield.ca/fr" title="Vers l'accueil">
+                    <img class="c-footer__logo" src="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/beaconsfield_logo_horizontal_blanc.svg" alt="Logo | Ville de Beaconsfield">
+                </a>
+                <ul class="c-footer__social-medias-list --mobile">
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://www.facebook.com/BeaconsfieldQuebec/" title="Nous suivre sur Facebook" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-facebook" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-facebook"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://www.instagram.com/beaconsfield_qc/" title="Nous suivre sur Instagram" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-instagram" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-instagram"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://www.youtube.com/@evenementsvirtuelsbeaconsf3672" title="Nous suivre sur Youtube" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-youtube" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-youtube"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://ca.linkedin.com/company/beaconsfieldqc" title="Nous suivre sur LinkedIn" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-linkedin" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-linkedin"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://www.beaconsfield.ca/fr/a-votre-service/bciti-votre-portail-citoyen" title="Notre portail" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-bciti" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-bciti"></use>
+                            </svg>
+                        </a>
+                    </li>
+                </ul>
+                <div class="c-footer__copyright">
+                    <div class="c-footer__copyright-items">
+                        <span class="c-footer__copyright-item">© Ville de Beaconsfield, 2025</span>
+                        <a class="c-footer__copyright-link --policy" href="https://www.beaconsfield.ca/storage/app/media/ma-ville/administration-et-finances/Acces-au-document-et-protection-des-renseignements-personnels/Politique%20de%20confidentialité.pdf" target="_blank">
+                            <span>Politique de confidentialité</span>
+                        </a>
+                        <a class="c-footer__copyright-link --blanko" href="https://www.blanko.ca/fr" target="_blank" rel="noopener noreferrer">
+                            <span>Blanko</span>
+                        </a>
+                    </div>
+                    <img class="c-footer__copyright-logo" src="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/mm_logo_fr.svg" alt="Mobilité Montréal">
+                </div>
+            </div>
+            <div class="c-footer__bottom-center">
+
+                <ul class="c-footer__list">
+            <li class="c-footer__list-item">
+            <a id="fast-link13" class="c-footer__link js-bottom-link" href="https://www.beaconsfield.ca/fr/actualites" target="_self">
+                <span>Actualités</span>
+            </a>
+        </li>
+            <li class="c-footer__list-item">
+            <a id="fast-link1" class="c-footer__link js-bottom-link" href="https://www.beaconsfield.ca/fr/services/services-aux-citoyens/gestion-des-matieres-residuelles" target="_self">
+                <span>Calendrier des collectes</span>
+            </a>
+        </li>
+            <li class="c-footer__list-item">
+            <a id="fast-link5" class="c-footer__link js-bottom-link" href="https://www.beaconsfield.ca/fr/carte-interactive" target="_self">
+                <span>Carte interactive</span>
+            </a>
+        </li>
+            <li class="c-footer__list-item">
+            <a id="fast-link21" class="c-footer__link js-bottom-link" href="https://www.beaconsfield.ca/fr/directive-linguistique" target="_self">
+                <span>Directive linguistique</span>
+            </a>
+        </li>
+            <li class="c-footer__list-item">
+            <a id="fast-link12" class="c-footer__link js-bottom-link" href="https://www.beaconsfield.ca/fr/evenements" target="_self">
+                <span>Événements</span>
+            </a>
+        </li>
+            <li class="c-footer__list-item">
+            <a id="fast-link20" class="c-footer__link js-bottom-link" href="https://www.beaconsfield.ca/storage/app/media/ma-ville/administration-et-finances/netiquette/netiquette.pdf" target="_self">
+                <span>Nétiquette</span>
+            </a>
+        </li>
+    </ul>
+                <ul class="c-footer__social-medias-list">
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://www.facebook.com/BeaconsfieldQuebec/" title="Nous suivre sur Facebook" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-facebook" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-facebook"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://www.instagram.com/beaconsfield_qc/" title="Nous suivre sur Instagram" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-instagram" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-instagram"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://www.youtube.com/@evenementsvirtuelsbeaconsf3672" title="Nous suivre sur Youtube" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-youtube" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-youtube"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://ca.linkedin.com/company/beaconsfieldqc" title="Nous suivre sur LinkedIn" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-linkedin" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-linkedin"></use>
+                            </svg>
+                        </a>
+                    </li>
+                    <li class="c-footer__social-medias-list-item">
+                        <a class="c-footer__social-media-link" href="https://www.beaconsfield.ca/fr/a-votre-service/bciti-votre-portail-citoyen" title="Notre portail" target="_blank" rel="noopener noreferrer">
+                            <svg>
+                                <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-bciti" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-bciti"></use>
+                            </svg>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="c-footer__bottom-right">
+                <h4 class="c-footer__question">Vous avez des questions ou voulez communiquer avec nous ?</h4>
+                <div class="c-footer__buttons">
+                    <a class="c-footer__button-contact" href="https://www.beaconsfield.ca/fr/nous-joindre">
+                        <span>Nous joindre</span>
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-mail" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-mail"></use>
+                        </svg>
+                    </a>
+                    <button class="c-footer__button-scroll-to-top" type="button" title="Vers le haut de la page" data-scroller-button="scroll-to-top">
+                        <svg>
+                            <use href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right" xlink:href="https://www.beaconsfield.ca/themes/beaconsfield/assets/medias/images/icons/symbols.svg#ico-arrow-right"></use>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>        </div>
+
+        <!-- SCRIPTS -->
+    <script type="text/javascript" src="https://www.beaconsfield.ca/combine/4e9a2e0519e24bc6c5578e22ca2102f0-1702369104.js"></script>
+    <script src="https://www.beaconsfield.ca/themes/beaconsfield/assets/dist/build.js?v=1752851482"></script>
+
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDIN3gRGlbHpcm1y9vTGBicRNqLY4T2Xt4&libraries=places"></script>
+    
+    <script src="/modules/system/assets/js/framework-extras.js"></script>
+<link rel="stylesheet" property="stylesheet" href="/modules/system/assets/css/framework-extras.css">
+    <script src="https://www.beaconsfield.ca/plugins/blanko/links/assets/js/links.js"></script>
+<script src="https://www.beaconsfield.ca/plugins/blanko/core/assets/js/logDocumentClickCount.js"></script>
+    <script src="https://www.beaconsfield.ca/plugins/blanko/forms/assets/dist/build.js"></script>
+    <script src="https://www.beaconsfield.ca/plugins/blanko/forms/assets/js/dropzone.js"></script>
+    <script src="https://www.beaconsfield.ca/plugins/blanko/forms/assets/js/file-multi.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js?hl=fr&render=6LeEq14rAAAAAMA-emHBIPIOcEfx9r4Qy5HwKDlg"></script>
+        <script>
+            window.config = {
+                theme_path : 'beaconsfield',
+                googleRecaptchaKey : '6LeEq14rAAAAAMA-emHBIPIOcEfx9r4Qy5HwKDlg',
+            }
+        </script>
+    </body>
+</html>

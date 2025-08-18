@@ -1,0 +1,2733 @@
+status: 200
+encoding: UTF-8
+Connection: Keep-Alive
+Keep-Alive: timeout=5, max=100
+Cache-Control: public, s-maxage=5, max-age=0
+Surrogate-Control: content="ESI/1.0"
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Sat, 09 Aug 2025 05:44:52 GMT
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=edge
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: geolocation=(self), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), accelerometer=(), gyroscope=(), fullscreen=(self), autoplay=(self)
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+
+<!DOCTYPE html>
+<html lang="fr-CA">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+            <link rel="stylesheet" href="/assets/css/vendors/all.min.css">
+        <link rel="stylesheet" href="/assets/css/style.min.css">
+        <script type="text/javascript" src="https://www.bugherd.com/sidebarv2.js?apikey=ruhtyhro7iogyqgr9fseea" async="true"></script>
+        <link rel="icon" href="/assets/images/favicon.ico">
+        <!-- Hotjar Tracking Code for https://www.pointe-claire.ca -->
+        <script>
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:6458005,hjsv:6};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+        </script>
+        <script type="text/javascript" charset="UTF-8" src="//cdn.cookie-script.com/s/92285820861c3d4e192b255d762c3fad.js"></script>
+    <title>Votre conseil municipal | Ville de Pointe-Claire</title>
+<script>window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments)};
+gtag('js', new Date());
+gtag('config', 'G-NZ64EF0R1V', {'send_page_view': true,'anonymize_ip': false,'link_attribution': false,'allow_display_features': false});
+</script><meta name="generator" content="SEOmatic">
+<meta name="description" content="Découvrez Pointe-Claire : accédez facilement aux services municipaux, explorez les activités culturelles et sportives, consultez les actualités locales et…">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="robots" content="all">
+<meta content="fr_CA" property="og:locale">
+<meta content="en_CA" property="og:locale:alternate">
+<meta content="Ville de Pointe-Claire" property="og:site_name">
+<meta content="website" property="og:type">
+<meta content="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal" property="og:url">
+<meta content="Votre conseil municipal" property="og:title">
+<meta content="Découvrez Pointe-Claire : accédez facilement aux services municipaux, explorez les activités culturelles et sportives, consultez les actualités locales et…" property="og:description">
+<meta content="https://www.pointe-claire.ca/assets/images/images/_1200x630_crop_center-center_82_none/103134/Logo-Pointe-Claire.jpg?mtime=1745617003" property="og:image">
+<meta content="1200" property="og:image:width">
+<meta content="630" property="og:image:height">
+<meta content="Ville de Pointe-Claire" property="og:image:alt">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@">
+<meta name="twitter:title" content="Votre conseil municipal">
+<meta name="twitter:description" content="Découvrez Pointe-Claire : accédez facilement aux services municipaux, explorez les activités culturelles et sportives, consultez les actualités locales et…">
+<meta name="twitter:image" content="https://www.pointe-claire.ca/assets/images/images/_1200x630_crop_center-center_82_none/103134/Logo-Pointe-Claire.jpg?mtime=1745617003">
+<meta name="twitter:image:width" content="1200">
+<meta name="twitter:image:height" content="630">
+<meta name="twitter:image:alt" content="Ville de Pointe-Claire">
+<link href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal" rel="canonical">
+<link href="https://www.pointe-claire.ca/" rel="home">
+<link type="text/plain" href="https://www.pointe-claire.ca/humans.txt" rel="author">
+<link href="https://www.pointe-claire.ca/en/democracy-and-civic-engagement/municipal-council/your-city-council" rel="alternate" hreflang="en-ca">
+<link href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal" rel="alternate" hreflang="x-default">
+<link href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal" rel="alternate" hreflang="fr-ca">
+<link href="https://www.pointe-claire.ca/cpresources/278015cd/assets/admin-bar-LZfp_Bew.css" rel="stylesheet">
+<link href="https://www.pointe-claire.ca/cpresources/a3e90e30/css/front-end/plugin/freeform.css?v=1751934993" rel="stylesheet">
+<link href="https://www.pointe-claire.ca/cpresources/45eb4e30/_main.css?v=1754340260" rel="stylesheet">
+<style>@layer admin-bar {
+            admin-bar {
+                &:not(:defined) {
+                    display: block;
+                    height: var(--admin-bar-height, 43px);
+                    
+                    & > * {
+                        display: none;
+                    }
+                }
+            }
+        }
+</style></head>
+    <body class="page page-votre-conseil-municipal"><script async src="https://www.googletagmanager.com/gtag/js?id=G-NZ64EF0R1V"></script>
+
+        <span id="blitz-inject-1" class="blitz-inject" data-blitz-id="1" data-blitz-uri="/_dynamic" data-blitz-params="action=blitz/include/dynamic&amp;index=965171145" data-blitz-property=""></span>
+                                <header>
+    <div class="alertes-carousel"></div>
+    <div class="top-menu">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col col-5 left">
+                    <div class="menu-button" id="hamburger-icon">
+                        <div class="hamburger-icon">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                        <p>Menu</p>
+                    </div>
+
+                    <a href="/nous-joindre" class="d-none d-lg-inline-block">Nous joindre</a>
+
+                    <div class="language-switcher d-none d-lg-inline-block">
+                        
+                        <ul class="language-links">
+                                                            <li class="active">
+                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal">
+                                        fr
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="https://www.pointe-claire.ca/en/democracy-and-civic-engagement/municipal-council/your-city-council">
+                                        en
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+
+                <div class="col col-2 text-center p-0">
+                    <a href="https://www.pointe-claire.ca/" class="d-inline-flex align-items-center justify-content-center logo">
+                        <img src="/assets/images/pointe-claire-logo.svg" alt="Pointe-Claire" />
+                    </a>
+                </div>
+
+                <div class="col col-5 right">
+                    <div class="language-switcher ms-0 me-2 d-inline-flex align-self-center d-lg-none">
+                        
+                        <ul class="language-links">
+                                                            <li class="active">
+                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal">
+                                        fr
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="https://www.pointe-claire.ca/en/democracy-and-civic-engagement/municipal-council/your-city-council">
+                                        en
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+
+                    
+                    <div class="search-input">
+                        <button type="submit" id="startSearch" class="d-inline-flex align-items-center">
+                            <span class="search-button">
+                                <span class="search-icon"></span>
+                            </span>
+                            <p>Recherche</p>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="lang-popover">
+                <h3>Would you prefer to always view this site in french?</h3>
+                <p>Your web browser is set to use English.</p>
+
+                <div class="close">
+                    <svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="22.6274" cy="22.6274" r="15.5" transform="rotate(45 22.6274 22.6274)" stroke="currentcolor"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M28.2843 18.3845C28.6748 17.994 28.6748 17.3609 28.2843 16.9703C27.8938 16.5798 27.2606 16.5798 26.8701 16.9703L22.6274 21.213L18.3848 16.9703C17.9943 16.5798 17.3611 16.5798 16.9706 16.9703C16.5801 17.3609 16.5801 17.994 16.9706 18.3845L21.2132 22.6272L16.9706 26.8698C16.5801 27.2603 16.5801 27.8935 16.9706 28.284C17.3611 28.6746 17.9943 28.6746 18.3848 28.284L22.6274 24.0414L26.8701 28.284C27.2606 28.6746 27.8938 28.6746 28.2843 28.284C28.6748 27.8935 28.6748 27.2604 28.2843 26.8698L24.0417 22.6272L28.2843 18.3845Z" fill="currentcolor"/>
+</svg>
+                </div>
+
+                <a class="btn btn-white" href="javascript:void(0)">
+                    Switch to english
+                    <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div id="nav" class="menu-popup">
+    <div class="menu-container container">
+        <div class="row">
+            <div class="col col-12 col-lg-4">
+                <ul>
+                    <li class="menu-item">
+                        <label>Accès rapides</label>
+
+                                                <ul class="sub-menu">
+                                                                                                                            
+                                <li class="nav-button">
+                                    <a href="https://www.pointe-claire.ca/collectes-et-matieres-residuelles/collectes/calendrier-et-guide-des-collectes">
+                                                                                    <img src="https://www.pointe-claire.ca/assets/images/Icones/collecte-icon.svg" alt="Collecte icon">
+                                                                                Connaître les jours de collecte d'ordure
+                                    </a>
+                                </li>
+                                                                                                                            
+                                <li class="nav-button">
+                                    <a href="https://www.pointe-claire.ca/organisation-municipale/emplois/emplois-a-la-ville">
+                                                                                    <img src="https://www.pointe-claire.ca/assets/images/Icones/travailler-ville.svg" alt="Travailler ville">
+                                                                                Travailler à la Ville
+                                    </a>
+                                </li>
+                                                                                                                            
+                                <li class="nav-button">
+                                    <a href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/programmation-culturelle-sportive/sports-loisirs-et-programmation-culturelle">
+                                                                                    <img src="https://www.pointe-claire.ca/assets/images/Icones/loisirs-culture-evenements-icon.svg" alt="Loisirs culture evenements icon">
+                                                                                Voir la programmation sports, loisirs et culture
+                                    </a>
+                                </li>
+                                                                                                                            
+                                <li class="nav-button">
+                                    <a href="https://www.pointe-claire.ca/faire-une-requete">
+                                                                                    <img src="https://www.pointe-claire.ca/assets/images/Icones/icons-requete.svg" alt="Icons requete">
+                                                                                Faire une requête<br>à la Ville
+                                    </a>
+                                </li>
+                                                                                                                            
+                                <li class="nav-button">
+                                    <a href="https://www.pointe-claire.ca/territoire-et-urbanisme/lieux-et-secteurs-de-pointe-claire/trouvez-un-lieu">
+                                                                                    <img src="https://www.pointe-claire.ca/assets/images/Icones/trouver-un-lieu.png" alt="Trouver un lieu">
+                                                                                Trouvez un lieu
+                                    </a>
+                                </li>
+                                                                                                                            
+                                <li class="nav-button">
+                                    <a href="https://www.pointe-claire.ca/territoire-et-urbanisme/lieux-et-secteurs-de-pointe-claire/carte-interactive">
+                                                                                    <img src="https://www.pointe-claire.ca/assets/images/Icones/carte-interactive-icon.svg" alt="Carte interactive icon">
+                                                                                Carte de la Ville
+                                    </a>
+                                </li>
+                                                                                                                            
+                                <li class="nav-button">
+                                    <a href="https://www.pointe-claire.ca/nous-joindre">
+                                                                                    <img src="https://www.pointe-claire.ca/assets/images/Icones/organisation-municipale-icon.svg" alt="Organisation municipale icon">
+                                                                                Nous joindre
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </li>
+                </ul>
+            </div>
+
+                        <div class="col col-12 col-lg-8">
+                <ul class="categories">
+                    <li class="menu-item">
+                        <label>Catégories</label>
+
+                        <ul class="sub-menu">
+                                                                                            
+                                <li data-menu="1023" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/affaires-entreprises-icon.svg" alt="">
+                                                                                        Affaires et entreprises
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-et-entreprises/appels-doffres-et-soumissions" class="parent ">
+                                                        Appels d'offres et soumissions
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-et-entreprises/developpement-economique" class="parent ">
+                                                        Développement économique
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-et-entreprises/commerces-et-entreprises" class="parent ">
+                                                        Commerces et entreprises
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-et-entreprises/permis-et-subventions-pour-entreprises" class="parent ">
+                                                        Permis et subventions pour entreprises
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-et-entreprises/evenements-speciaux" class="parent ">
+                                                        Événements spéciaux
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="22459" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/affaires-juridiques-icon.svg" alt="">
+                                                                                        Affaires juridiques et greffe
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-juridiques/acces-a-linformation" class="parent ">
+                                                        Accès à l'information et renseignements personnels
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-juridiques/affaires-juridiques" class="parent ">
+                                                        Affaires juridiques
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-juridiques/reclamation" class="parent ">
+                                                        Réclamation
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-juridiques/reglements-municipaux" class="parent ">
+                                                        Règlements municipaux
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-juridiques/archives" class="parent ">
+                                                        Archives
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="1841" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/culture-sport-loisirs-icon.svg" alt="">
+                                                                                        Bibliothèque, culture, sports et loisirs
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/programmation-culturelle-sportive" class="parent ">
+                                                        Programmation et inscription
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/culture-et-bibliotheque" class="parent ">
+                                                        Culture et bibliothèque
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/sports-et-loisirs" class="parent ">
+                                                        Sports et loisirs
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/parcs-et-installations-exterieures" class="parent ">
+                                                        Parcs et installations extérieures
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/camps" class="parent ">
+                                                        Camps
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/equipes-et-associations-sportives" class="parent ">
+                                                        Équipes et Associations sportives
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="1173" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/dechets-icon.svg" alt="">
+                                                                                        Collectes et matières résiduelles
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/collectes-et-matieres-residuelles/collectes" class="parent ">
+                                                        Collectes
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/collectes-et-matieres-residuelles/bacs-pour-les-collectes" class="parent ">
+                                                        Bacs pour les collectes
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/collectes-et-matieres-residuelles/bonne-gestion-des-matieres-residuelles" class="parent ">
+                                                        Bonne gestion des matières résiduelles
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/collectes-et-matieres-residuelles/recherche-par-matiere" class="parent ">
+                                                        Recherche par matière
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="41802" class="categorie-open active">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/democratie-participation-citoyenne-icon.svg" alt="">
+                                                                                        Démocratie et participation citoyenne
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal" class="parent active">
+                                                        Conseil municipal
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/seances-du-conseil" class="parent ">
+                                                        Séances du conseil
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/elections" class="parent ">
+                                                        Élections 2025
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/comites-municipaux" class="parent ">
+                                                        Comités municipaux
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/avis-publics-et-proces-verbaux" class="parent ">
+                                                        Avis publics et procès-verbaux
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/pointe-claire-vous-consulte" class="parent ">
+                                                        Pointe-Claire vous consulte !
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="1609" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/environnement-icon.svg" alt="">
+                                                                                        Environnement
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/environnement/accompagnement-et-outils" class="parent ">
+                                                        Accompagnement et outils environnementaux
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/environnement/arbres-et-canope" class="parent ">
+                                                        Arbres et canopée
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/environnement/eau-potable" class="parent ">
+                                                        Eau potable
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/environnement/qualite-de-lair-et-des-sols" class="parent ">
+                                                        Qualité de l'air et des sols
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/environnement/transition-ecologique" class="parent ">
+                                                        Transition écologique
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="1644" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/faune-flore-especes-icon.svg" alt="">
+                                                                                        Faune, flore et espèces
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/faune-flore-et-especes/animaux-domestiques" class="parent ">
+                                                        Animaux domestiques
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/faune-flore-et-especes/animaux-sauvages" class="parent ">
+                                                        Animaux sauvages
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/faune-flore-et-especes/preservation-de-la-faune" class="parent ">
+                                                        Préservation de la faune
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/faune-flore-et-especes/flore-urbaine" class="parent ">
+                                                        Flore urbaine
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="1400" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/histoire-patrimoine.svg" alt="">
+                                                                                        Histoire et patrimoine
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/histoire-et-patrimoine/patrimoine" class="parent ">
+                                                        Patrimoine
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/histoire-et-patrimoine/portrait-de-pointe-claire" class="parent ">
+                                                        Portrait de Pointe-Claire
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/histoire-et-patrimoine/tourisme" class="parent ">
+                                                        Tourisme
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="2253" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/reseaux-publics-circulation-icon.svg" alt="">
+                                                                                        Infrastructures, réseaux publics et circulation
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/reseaux-routiers-et-infrastructures-publics/circulation" class="parent ">
+                                                        Circulation
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/permis-et-certificats/renovation-et-travaux/demandes-en-ligne" class="parent ">
+                                                        Demande de permis et dépôt de requêtes en ligne
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/reseaux-routiers-et-infrastructures-publics/deneigement" class="parent ">
+                                                        Déneigement
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/reseaux-routiers-et-infrastructures-publics/egout-et-aqueduc" class="parent ">
+                                                        Égout et aqueduc
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/reseaux-routiers-et-infrastructures-publics/stationnement" class="parent ">
+                                                        Stationnement
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/reseaux-routiers-et-infrastructures-publics/transport-en-commun" class="parent ">
+                                                        Transport en commun
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/reseaux-routiers-et-infrastructures-publics/travaux-et-grands-chantiers" class="parent ">
+                                                        Travaux et grands chantiers
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="2004" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/organisation-municipale-icon.svg" alt="">
+                                                                                        Organisation municipale
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/organisation-municipale/agglomeration-de-montreal" class="parent ">
+                                                        Agglomération de Montréal
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/organisation-municipale/budget-et-finances-municipales" class="parent ">
+                                                        Budget et finances municipales
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/organisation-municipale/emplois" class="parent ">
+                                                        Emplois
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/organisation-municipale/nouvelles-et-medias" class="parent ">
+                                                        Nouvelles et médias
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/organisation-municipale/plans-et-politiques" class="parent ">
+                                                        Plans et politiques
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/organisation-municipale/publications-et-communications" class="parent ">
+                                                        Publications et communications
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="2127" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/permis-certificats-icon.svg" alt="">
+                                                                                        Permis et certificats
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/permis-et-certificats/permis-arbres-et-pesticides" class="parent ">
+                                                        Permis arbres et pesticides
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/permis-et-certificats/renovation-et-travaux" class="parent ">
+                                                        Rénovation, construction et travaux
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/permis-et-certificats/permis-de-stationnement" class="parent ">
+                                                        Permis de stationnement
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/affaires-et-entreprises/permis-et-subventions-pour-entreprises" class="parent ">
+                                                        Permis et subventions pour entreprises
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/permis-et-certificats/autres-types-de-permis" class="parent ">
+                                                        Autres types de permis
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="2362" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/sante-securite-publique.svg" alt="">
+                                                                                        Santé et sécurité publique
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/sante-et-securite-publique/securite-publique" class="parent ">
+                                                        Sécurité publique
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/sante-et-securite-publique/securite-routiere" class="parent ">
+                                                        Sécurité routière
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/sante-et-securite-publique/unite-de-sauvetage-volontaire-pc" class="parent ">
+                                                        Unité de sauvetage volontaire de Pointe-Claire
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/sante-et-securite-publique/systeme-avis-et-alertes" class="parent ">
+                                                        Système avis et alertes
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/sante-et-securite-publique/police-et-pompier" class="parent ">
+                                                        Police et pompiers
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/sante-et-securite-publique/mesures-durgence" class="parent ">
+                                                        Mesures d'urgence
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="2430" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/banner-wp/taxes-evaluation-fonciere.svg" alt="">
+                                                                                        Taxes et évaluation foncière
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/taxes-et-evaluation-fonciere/notaires-et-agents-immobiliers" class="parent ">
+                                                        Notaires et agents immobiliers
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/taxes-et-evaluation-fonciere/taxation" class="parent ">
+                                                        Taxation
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/taxes-et-evaluation-fonciere/evaluation-fonciere" class="parent ">
+                                                        Évaluation foncière
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="2500" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/territoire-urbanisme-icon.svg" alt="">
+                                                                                        Territoire et urbanisme
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/territoire-et-urbanisme/lieux-et-secteurs-de-pointe-claire" class="parent ">
+                                                        Lieux et secteurs de la Ville
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/territoire-et-urbanisme/plan-durbanisme-et-zonage" class="parent ">
+                                                        Plan d'urbanisme et zonage
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/reseaux-routiers-et-infrastructures-publics/travaux-et-grands-chantiers/renseignements-generaux-pour-les-residents-sur-chantier" class="parent ">
+                                                        Renseignements généraux pour les résidents sur chantier
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/reseaux-routiers-et-infrastructures-publics/travaux-et-grands-chantiers" class="parent ">
+                                                        Travaux et grands chantiers
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                                                            
+                                <li data-menu="1258" class="categorie-open ">
+                                    <label>
+                                        <div>
+                                                                                            <img class="icon" src="https://www.pointe-claire.ca/assets/images/Icones/communaute-icon.svg" alt="">
+                                                                                        Vie communautaire
+                                        </div>
+                                        <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                                        <img src="/assets/icons/arrow-right-white.svg" alt="Flêche">
+                                    </label>
+                                                                                                                <ul class="responsive-menu">
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/vie-communautaire/services-aux-citoyens" class="parent ">
+                                                        Services aux citoyens
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/vie-communautaire/services-aux-aines" class="parent ">
+                                                        Services aux personnes aînées
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/vie-communautaire/accessibilite-universelle" class="parent ">
+                                                        Accessibilité universelle
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/vie-communautaire/location-de-salles-et-de-chalets" class="parent ">
+                                                        Location de salles et de chalets
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/vie-communautaire/organismes-communautaires" class="parent ">
+                                                        Organismes communautaires
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/vie-communautaire/programmes-et-subventions" class="parent ">
+                                                        Programmes et subventions
+                                                    </a>
+                                                </li>
+                                                                                            <li>
+                                                    <a href="https://www.pointe-claire.ca/vie-communautaire/bon-voisinage" class="parent ">
+                                                        Bon voisinage
+                                                    </a>
+                                                </li>
+                                                                                    </ul>
+                                                                    </li>
+                                                    </ul>
+                    </li>
+                </ul>
+            </div>
+            <a href="/nous-joindre" class="d-block mb-3 d-lg-none">Nous joindre</a>
+        </div>
+    </div>
+    <div class="search-container container">
+        <div class="loader"></div>
+        <div class="input-container">
+            <img src="/assets/icons/search.svg" alt="Recherche">
+            <input type="text" name="recherche" placeholder="Que cherchez-vous?" id="search-input"/>
+        </div>
+
+        <div class="recherches-populaires-container">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="recherches-populaires">
+                    <p>Recherches populaires :</p>
+
+                                                                                            <a class="single-recherche-populaire keyword" rel-searching="Horaire des piscines" href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/sports-et-loisirs/centre-aquatique-pointe-claire---services-et-activites">Horaire des piscines</a>
+                                                                                                <a class="single-recherche-populaire keyword" rel-searching="Règlement sur l&#039;eau" href="https://www.pointe-claire.ca/environnement/eau-potable/reglementation-sur-leau">Règlement sur l&#039;eau</a>
+                                                                                                <a class="single-recherche-populaire keyword" rel-searching="Collectes" href="https://www.pointe-claire.ca/collectes-et-matieres-residuelles/collectes">Collectes</a>
+                                                                                                <a class="single-recherche-populaire keyword" rel-searching="Programmation" href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/programmation-culturelle-sportive/sports-loisirs-et-programmation-culturelle">Programmation</a>
+                                                                                                <a class="single-recherche-populaire keyword" rel-searching="Emplois" href="https://www.pointe-claire.ca/organisation-municipale/emplois/emplois-a-la-ville">Emplois</a>
+                                                            </div>
+            </div>
+        </div>
+    </div>
+</div>
+                <a class="btn btn-see-all-results btn-primary-light text-white mt-3" href="/recherche">
+            Voir tous les résultats
+            <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+        </a>
+    </div>
+    <div class="background"></div>
+</div>
+
+
+
+</header>
+        <main class="wrapper">
+                
+<div class="breadcrumbs" aria-label="Breadcrumb">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                                    <a class="" href="https://www.pointe-claire.ca/">
+                                                Accueil                    </a>
+                                    <a class="" href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne">
+                                                   <img src="/assets/icons/arrow-right.svg" alt="Flêche">
+                                                Démocratie et participation citoyenne                    </a>
+                                    <a class="" href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal">
+                                                   <img src="/assets/icons/arrow-right.svg" alt="Flêche">
+                                                Conseil municipal                    </a>
+                                    <a class="last" href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal">
+                                                   <img src="/assets/icons/arrow-right.svg" alt="Flêche">
+                                                Votre conseil municipal                    </a>
+                            </div>
+        </div>
+    </div>
+</div>
+
+    
+
+    <div class="container">
+        <h1 class="page-title">Votre conseil municipal</h1>
+
+            </div>
+
+            
+                <section class="section-container">
+                            <div class="section-content">
+        
+        
+            
+        
+    <div  class="container " style=" ">
+                
+                                
+        
+        
+        <div class="columns-content spacing  " style="
+                          --padding-top-desktop: 0rem;
+            --padding-right-desktop: 0rem;
+            --padding-bottom-desktop: 0rem;
+            --padding-left-desktop: 0rem;
+
+            --padding-top-mobile: 0rem;
+            --padding-right-mobile: 0rem;
+            --padding-bottom-mobile: 0rem;
+            --padding-left-mobile: 0rem;
+                     --margin-top-desktop: 3rem;
+            --margin-right-desktop: 0rem;
+            --margin-bottom-desktop: 0rem;
+            --margin-left-desktop: 0rem;
+
+            --margin-top-mobile: 3rem;
+            --margin-right-mobile: 0rem;
+            --margin-bottom-mobile: 0rem;
+            --margin-left-mobile: 0rem;
+        ">
+            <div class="row">
+                <div class="col">
+                                            
+
+
+<div class="module listingConseilMunicipal" style="        --padding-top-desktop: 0rem;
+        --padding-right-desktop: 0rem;
+        --padding-bottom-desktop: 0rem;
+        --padding-left-desktop: 0rem;
+
+        --padding-top-mobile: 0rem;
+        --padding-right-mobile: 0rem;
+        --padding-bottom-mobile: 0rem;
+        --padding-left-mobile: 0rem;
+         --margin-top-desktop: 3rem;
+        --margin-right-desktop: 0rem;
+        --margin-bottom-desktop: 0rem;
+        --margin-left-desktop: 0rem;
+
+        --margin-top-mobile: 0rem;
+        --margin-right-mobile: 0rem;
+        --margin-bottom-mobile: 0rem;
+        --margin-left-mobile: 0rem;
+">
+                <div class="listing-council-members">
+    <h2>Conseil municipal 2021-2025</h2>
+
+    <div class="council-members">
+    
+                    <div class="single-member single-accordeon mayor" >
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/tim-thomas.jpeg" alt="Tim Thomas">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Tim Thomas</h2>
+                            <p class="position">Maire</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">Pointe-Claire
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                            </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:tim.thomas@pointe-claire.ca">tim.thomas@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1207">514 630-1207</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>PME MTL Ouest-de-l’Île</p><p>Association des municipalités de banlieue</p><p>Conseil d’agglomération de Montréal</p><p>Comités du conseil d’agglomération </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=1>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/claude-cousineau.jpg" alt="Claude Cousineau">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Claude Cousineau</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 1 - Cedar / Le Village
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:claude.cousineau@pointe-claire.ca">claude.cousineau@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1288">514 630-1288</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité consultatif d’urbanisme (CCU) – substitut #2 </p><p>Comité de démolition </p><p>Comité de retraite – substitut  </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=2>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Paul_Bissonnette.jpg" alt="Paul Bissonnette">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Paul Bissonnette</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 2 - Lakeside
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:paul.bissonnette@pointe-claire.ca">paul.bissonnette@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1289">514 630-1289</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité de circulation</p><p>Comité de démolition – substitut</p><p>Comité de retraite</p><p>PME MTL Ouest-de-l’Île – substitut  </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=3>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Kelly_Thorstad.jpg" alt="Kelly Thorstad-Cullen">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Kelly Thorstad-Cullen</h2>
+                            <p class="position">Conseillère municipale</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 3 - Valois
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:kelly.thorstad-cullen@pointe-claire.ca">kelly.thorstad-cullen@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1290">514 630-1290</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité consultatif d’urbanisme (CCU) – présidente  </p><p>Comité consultatif sur l’environnement et le développement durable </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=4>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Tara_Stainforth.jpg" alt="Tara Stainforth">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Tara Stainforth</h2>
+                            <p class="position">Conseillère municipale</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 4 - Cedar Park Heights
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:tara.stainforth@pointe-claire.ca">tara.stainforth@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1291">514 630-1291</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité consultatif d’urbanisme (CCU) – substitut #1  </p><p>Comité consultatif jeunesse</p><p>Comité sur la diversité et l’inclusion sociale</p><p>Comité sur l’accessibilité </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=5>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Cynthia-Homan.jpg" alt="Cynthia Homan">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Cynthia Homan</h2>
+                            <p class="position">Conseillère municipale</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 5 - Lakeside Heights
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:cynthia.homan@pointe-claire.ca">cynthia.homan@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1292">514 630-1292</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Club de canoë kayak de Pointe-Claire</p><p>Comité consultatif de Stewart Hall</p><p>Comité sur la diversité et l’inclusion sociale</p><p>Comité de circulation – substitut  </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=6>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Bruno_Tremblay.jpg" alt="Bruno Tremblay">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Bruno Tremblay</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 6 - Seigniory
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:bruno.tremblay@pointe-claire.ca">bruno.tremblay@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514-630-1293">514-630-1293</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité consultatif de la bibliothèque</p><p>Comité consultatif sur l’environnement et le développement durable</p><p>Comité d’art public</p><p>Comité de démolition </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=7>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Eric_Stork.jpg" alt="Eric Stork">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Eric Stork</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 7 - Northview
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:eric.stork@pointe-claire.ca">eric.stork@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1294">514 630-1294</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Club aquatique de Pointe-Claire inc.</p><p>Comité consultatif d’urbanisme (CCU) – observateur  </p><p>Comité des finances </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=8>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Brent_Cowan.jpg" alt="Brent Cowan">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Brent Cowan</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 8 - Oneida
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:brent.cowan@pointe-claire.ca">brent.cowan@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1295">514 630-1295</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité de démolition – agit comme président  </p><p>Comité des finances</p><p>Comité des mesures d’urgence</p><p>Unité de sauvetage volontaire de Pointe-Claire</p><p>Corps des cadets de Pointe-Claire </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    </section>
+                <section class="section-container">
+                            <div class="section-content">
+        
+        
+            
+        
+    <div  class="container " style=" ">
+                
+                                
+        
+        
+        <div class="columns-content spacing  " style="
+                          --padding-top-desktop: 0rem;
+            --padding-right-desktop: 0rem;
+            --padding-bottom-desktop: 0rem;
+            --padding-left-desktop: 0rem;
+
+            --padding-top-mobile: 0rem;
+            --padding-right-mobile: 0rem;
+            --padding-bottom-mobile: 0rem;
+            --padding-left-mobile: 0rem;
+                     --margin-top-desktop: 8rem;
+            --margin-right-desktop: 0rem;
+            --margin-bottom-desktop: 0rem;
+            --margin-left-desktop: 0rem;
+
+            --margin-top-mobile: 3rem;
+            --margin-right-mobile: 0rem;
+            --margin-bottom-mobile: 0rem;
+            --margin-left-mobile: 0rem;
+        ">
+            <div class="row">
+                <div class="col">
+                                            
+
+
+<div class="module champTexte" style="        --padding-top-desktop: 0rem;
+        --padding-right-desktop: 0rem;
+        --padding-bottom-desktop: 0rem;
+        --padding-left-desktop: 0rem;
+
+        --padding-top-mobile: 0rem;
+        --padding-right-mobile: 0rem;
+        --padding-bottom-mobile: 0rem;
+        --padding-left-mobile: 0rem;
+         --margin-top-desktop: 3rem;
+        --margin-right-desktop: 0rem;
+        --margin-bottom-desktop: 0rem;
+        --margin-left-desktop: 0rem;
+
+        --margin-top-mobile: 0rem;
+        --margin-right-mobile: 0rem;
+        --margin-bottom-mobile: 0rem;
+        --margin-left-mobile: 0rem;
+">
+            
+<div class="text-black" style="text-align: left">
+    <h2>Pour connaître votre district et votre conseiller municipal</h2>
+    <div style="clear: both;margin-top: -1.5rem;"></div>
+</div>
+
+    </div>
+                                            
+
+
+<div class="module searchAddress" style="        --padding-top-desktop: 0rem;
+        --padding-right-desktop: 0rem;
+        --padding-bottom-desktop: 0rem;
+        --padding-left-desktop: 0rem;
+
+        --padding-top-mobile: 0rem;
+        --padding-right-mobile: 0rem;
+        --padding-bottom-mobile: 0rem;
+        --padding-left-mobile: 0rem;
+         --margin-top-desktop: 3rem;
+        --margin-right-desktop: 0rem;
+        --margin-bottom-desktop: 0rem;
+        --margin-left-desktop: 0rem;
+
+        --margin-top-mobile: 0rem;
+        --margin-right-mobile: 0rem;
+        --margin-bottom-mobile: 0rem;
+        --margin-left-mobile: 0rem;
+">
+            <div class="search-address">
+    <div class="search-box">
+        <input type="text" placeholder="Recherche par nom ou mot-clé" id="search-address"/>
+        <div class="button">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd"
+                      d="M12 7C12 9.76143 9.76143 12 7 12C4.23858 12 2 9.76142 2 7C2 4.23858 4.23858 2 7 2C9.76142 2 12 4.23858 12 7ZM12.6064 11.1922C13.4816 10.0236 14 8.57234 14 7C14 3.13401 10.866 0 7 0C3.13401 0 0 3.13401 0 7C0 10.866 3.13401 14 7 14C8.57234 14 10.0236 13.4816 11.1922 12.6064L14.2929 15.7071C14.6834 16.0976 15.3166 16.0976 15.7071 15.7071C16.0976 15.3166 16.0976 14.6834 15.7071 14.2929L12.6064 11.1922Z"
+                      fill="currentcolor"/>
+            </svg>
+        </div>
+    </div>
+    <div class="list-address"></div>
+    <div class="row">
+        <div class="col">
+            <div class="council-members">
+    
+                    <div class="single-member single-accordeon mayor" >
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/tim-thomas.jpeg" alt="Tim Thomas">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Tim Thomas</h2>
+                            <p class="position">Maire</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">Pointe-Claire
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                            </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:tim.thomas@pointe-claire.ca">tim.thomas@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1207">514 630-1207</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>PME MTL Ouest-de-l’Île</p><p>Association des municipalités de banlieue</p><p>Conseil d’agglomération de Montréal</p><p>Comités du conseil d’agglomération </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=1>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/claude-cousineau.jpg" alt="Claude Cousineau">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Claude Cousineau</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 1 - Cedar / Le Village
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:claude.cousineau@pointe-claire.ca">claude.cousineau@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1288">514 630-1288</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité consultatif d’urbanisme (CCU) – substitut #2 </p><p>Comité de démolition </p><p>Comité de retraite – substitut  </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=2>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Paul_Bissonnette.jpg" alt="Paul Bissonnette">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Paul Bissonnette</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 2 - Lakeside
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:paul.bissonnette@pointe-claire.ca">paul.bissonnette@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1289">514 630-1289</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité de circulation</p><p>Comité de démolition – substitut</p><p>Comité de retraite</p><p>PME MTL Ouest-de-l’Île – substitut  </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=3>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Kelly_Thorstad.jpg" alt="Kelly Thorstad-Cullen">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Kelly Thorstad-Cullen</h2>
+                            <p class="position">Conseillère municipale</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 3 - Valois
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:kelly.thorstad-cullen@pointe-claire.ca">kelly.thorstad-cullen@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1290">514 630-1290</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité consultatif d’urbanisme (CCU) – présidente  </p><p>Comité consultatif sur l’environnement et le développement durable </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=4>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Tara_Stainforth.jpg" alt="Tara Stainforth">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Tara Stainforth</h2>
+                            <p class="position">Conseillère municipale</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 4 - Cedar Park Heights
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:tara.stainforth@pointe-claire.ca">tara.stainforth@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1291">514 630-1291</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité consultatif d’urbanisme (CCU) – substitut #1  </p><p>Comité consultatif jeunesse</p><p>Comité sur la diversité et l’inclusion sociale</p><p>Comité sur l’accessibilité </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=5>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Cynthia-Homan.jpg" alt="Cynthia Homan">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Cynthia Homan</h2>
+                            <p class="position">Conseillère municipale</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 5 - Lakeside Heights
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:cynthia.homan@pointe-claire.ca">cynthia.homan@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1292">514 630-1292</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Club de canoë kayak de Pointe-Claire</p><p>Comité consultatif de Stewart Hall</p><p>Comité sur la diversité et l’inclusion sociale</p><p>Comité de circulation – substitut  </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=6>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Bruno_Tremblay.jpg" alt="Bruno Tremblay">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Bruno Tremblay</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 6 - Seigniory
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:bruno.tremblay@pointe-claire.ca">bruno.tremblay@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514-630-1293">514-630-1293</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité consultatif de la bibliothèque</p><p>Comité consultatif sur l’environnement et le développement durable</p><p>Comité d’art public</p><p>Comité de démolition </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=7>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Eric_Stork.jpg" alt="Eric Stork">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Eric Stork</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 7 - Northview
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:eric.stork@pointe-claire.ca">eric.stork@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1294">514 630-1294</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Club aquatique de Pointe-Claire inc.</p><p>Comité consultatif d’urbanisme (CCU) – observateur  </p><p>Comité des finances </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    <div class="single-member single-accordeon " data-district=8>
+            <div class="member-header" data-opener-accordeon>
+                <div class="row">
+                    <div class="col-4">
+                                                <div class="member-photo">
+                            <img src="https://www.pointe-claire.ca/assets/images/Conseil-municipal/Brent_Cowan.jpg" alt="Brent Cowan">
+                        </div>
+                    </div>
+
+                    <div class="col-8 member-infos">
+                        <div class="member-infos-content">
+                            <h2 class="text-black">Brent Cowan</h2>
+                            <p class="position">Conseiller municipal</p>
+                        </div>
+
+                        <div class="member-location">
+                            <p>
+                                <img src="/assets/images/pin-primary-dark.svg" alt="">District 8 - Oneida
+                            </p>
+                            <div class="toggle-icon">
+                                <img src="/assets/images/accordeon-plus.svg" alt="Plus">
+                                <img src="/assets/images/accordeon-minus.svg" alt="Moins">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="member-content" data-drawer-accordeon>
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                                                                                                                                                        </div>
+
+                    <div class="col-12 col-md-8">
+                        <div class="member-details">
+                            <div class="contact-info">
+                                <h4 class="text-black">Contact</h4>
+                                <ul>
+                                                                            <li>
+                                            <img src="/assets/images/email-primary-dark-icon.svg" alt="Email">
+                                            <a href="mailto:brent.cowan@pointe-claire.ca">brent.cowan@pointe-claire.ca</a>
+                                        </li>
+                                                                                                                <li>
+                                            <img src="/assets/images/phone-primary-dark-icon.svg" alt="Phone">
+                                            <a href="tel:514 630-1295">514 630-1295</a>
+                                        </li>
+                                                                    </ul>
+
+                                <div class="socials">
+                                                                    </div>
+                            </div>
+
+                            <div class="member-functions">
+                                <h4 class="text-black">Fonctions</h4>
+                                <p>Comité de démolition – agit comme président  </p><p>Comité des finances</p><p>Comité des mesures d’urgence</p><p>Unité de sauvetage volontaire de Pointe-Claire</p><p>Corps des cadets de Pointe-Claire </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            <div class="sectors-collect">
+    
+            <div class="sector" data-sector="A">
+            <div class="row">
+                <div class="col col-12 col-lg-4">
+                    <img src="/assets/images/images/carte-fr-2021-768x707.png" alt="">
+                </div>
+                <div class="col col-12 col-lg-8">
+                    <h2>Secteur de collecte A</h2>
+                    <p>Le secteur A inclut l’ensemble du secteur à l’ouest du boulevard Saint-Jean ainsi que l’ensemble du secteur au sud de l’autoroute 20.</p>
+
+                                            <div class="link-container">
+                            <a href="https://www.pointe-claire.ca/assets/images/Documents/25-6629-calendrier-collectes-2025-secteur-a-web.pdf" target="_blank" class="link-collect">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                                    <path d="M18 19H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h5c.55 0 1-.45 1-1s-.45-1-1-1H5c-1.11 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-6c0-.55-.45-1-1-1s-1 .45-1 1v5c0 .55-.45 1-1 1zM14 4c0 .55.45 1 1 1h2.59l-9.13 9.13c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0L19 6.41V9c0 .55.45 1 1 1s1-.45 1-1V4c0-.55-.45-1-1-1h-5c-.55 0-1 .45-1 1z"
+                                          fill="currentcolor"/>
+                                </svg>
+                                <span>Calendrier des collectes 2025 - secteur A</span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+            <div class="sector" data-sector="B">
+            <div class="row">
+                <div class="col col-12 col-lg-4">
+                    <img src="/assets/images/images/carte-fr-2021-768x707.png" alt="">
+                </div>
+                <div class="col col-12 col-lg-8">
+                    <h2>Secteur de collecte B</h2>
+                    <p>Le secteur B se trouve à la fois au nord de l’autoroute 20, à l’est du boulevard Saint-Jean et au sud du boulevard Hymus.</p>
+
+                                            <div class="link-container">
+                            <a href="https://www.pointe-claire.ca/assets/images/Documents/pages-de-25-6629-calendrier-collectes-2025-secteur-b-web.pdf" target="_blank" class="link-collect">
+                                <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                                    <path d="M0 0h24v24H0V0z" fill="none"/>
+                                    <path d="M18 19H6c-.55 0-1-.45-1-1V6c0-.55.45-1 1-1h5c.55 0 1-.45 1-1s-.45-1-1-1H5c-1.11 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2v-6c0-.55-.45-1-1-1s-1 .45-1 1v5c0 .55-.45 1-1 1zM14 4c0 .55.45 1 1 1h2.59l-9.13 9.13c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0L19 6.41V9c0 .55.45 1 1 1s1-.45 1-1V4c0-.55-.45-1-1-1h-5c-.55 0-1 .45-1 1z"
+                                          fill="currentcolor"/>
+                                </svg>
+                                <span>Calendrier des collectes 2025 - secteur B</span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    </section>
+                <section class="section-container">
+                            <div class="section-content">
+        
+        
+            
+        
+    <div  class="container " style=" ">
+                
+                                
+        
+        
+        <div class="columns-content spacing  " style="
+                          --padding-top-desktop: 0rem;
+            --padding-right-desktop: 0rem;
+            --padding-bottom-desktop: 0rem;
+            --padding-left-desktop: 0rem;
+
+            --padding-top-mobile: 0rem;
+            --padding-right-mobile: 0rem;
+            --padding-bottom-mobile: 0rem;
+            --padding-left-mobile: 0rem;
+                     --margin-top-desktop: 3rem;
+            --margin-right-desktop: 0rem;
+            --margin-bottom-desktop: 0rem;
+            --margin-left-desktop: 0rem;
+
+            --margin-top-mobile: 3rem;
+            --margin-right-mobile: 0rem;
+            --margin-bottom-mobile: 0rem;
+            --margin-left-mobile: 0rem;
+        ">
+            <div class="row">
+                <div class="col">
+                                            
+
+
+<div class="module relatedPages" style="        --padding-top-desktop: 0rem;
+        --padding-right-desktop: 0rem;
+        --padding-bottom-desktop: 0rem;
+        --padding-left-desktop: 0rem;
+
+        --padding-top-mobile: 0rem;
+        --padding-right-mobile: 0rem;
+        --padding-bottom-mobile: 0rem;
+        --padding-left-mobile: 0rem;
+         --margin-top-desktop: 3rem;
+        --margin-right-desktop: 0rem;
+        --margin-bottom-desktop: 0rem;
+        --margin-left-desktop: 0rem;
+
+        --margin-top-mobile: 0rem;
+        --margin-right-mobile: 0rem;
+        --margin-bottom-mobile: 0rem;
+        --margin-left-mobile: 0rem;
+">
+            <div class="related-pages">
+    <h2 class="text-primary-dark">Ces pages pourraient vous intéresser</h2>
+
+    <div class="listing-pages">
+                    <div class="single-box single-page">
+                <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/seances-du-conseil">
+                    <p>Séances du conseil</p>
+
+                    <div class="text-right">
+                        <img src="/assets/images/arrow.svg" alt="Flêche">
+                    </div>
+                </a>
+            </div>
+                    <div class="single-box single-page">
+                <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne">
+                    <p>Démocratie et participation citoyenne</p>
+
+                    <div class="text-right">
+                        <img src="/assets/images/arrow.svg" alt="Flêche">
+                    </div>
+                </a>
+            </div>
+        
+                                    <div class="single-box single-page">
+                    <a href="https://www.pointe-claire.ca/nous-joindre">
+                        <p>Communiquez avec la ville</p>
+
+                        <div class="text-right">
+                            <img src="/assets/images/arrow.svg" alt="Flêche">
+                        </div>
+                    </a>
+                </div>
+                        </div>
+</div>
+
+    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    </section>
+        <section class="section-container">
+    <div class="container">
+        <div class="feedback-component">
+            <h5 class="text-black">Cette page vous a-t-elle été utile&nbsp;?</h5>
+
+            <div class="feedback-options">
+                <label>
+                    <span class="radio-container">
+                        <input type="radio" name="feedback" value="oui">
+                    </span>
+                    Oui
+                </label>
+                <label>
+                    <span class="radio-container">
+                        <input type="radio" name="feedback" value="non">
+                    </span>
+                    Non
+                </label>
+            </div>
+
+            <div id="feedback-form" class="feedback-form hidden">
+                <h6 class="text-black">Merci d'avoir donné votre avis. Que pourrions-nous améliorer&nbsp;?</h6>
+                <p class="note">Merci d'éviter d’inscrire des renseignements personnels. Nous n’envoyons aucune réponse, mais nous prenons vos commentaires en considération.</p>
+                                                            
+
+<form novalidate method="post" data-freeform data-id="9a3c86-form-xnBKPXKvb-jygryErp3-rn0ZdLRvTNSZOYzrtGbIpSX8pehedut95lIvvNtU" data-handle="cettePageVousATElleTUtile" data-ajax data-disable-submit data-show-processing-spinner data-auto-scroll="1" data-show-processing-text data-processing-text="Traitement..." data-success-message="Le formulaire a été soumis avec succès !" data-error-message="Désolé, une erreur s&#039;est produite lors de l&#039;envoi du formulaire. Veuillez réessayer." class="freeform-form" data-freeform-basic-light>
+<input type="hidden" id="form-input-pageUtile" class="freeform-input" name="pageUtile" value="">
+<input type="hidden" id="form-input-currentUrl" class="freeform-input" name="currentUrl" value="">
+<input type="hidden" name="action" value="freeform/submit" />
+<div id="9a3c86-form-xnBKPXKvb-jygryErp3-rn0ZdLRvTNSZOYzrtGbIpSX8pehedut95lIvvNtU" data-scroll-anchor></div>
+<input type="hidden" name="freeform-action" value="submit" />
+<input type="hidden" name="formHash" value="xnBKPXKvb-jygryErp3-rn0ZdLRvTNSZOYzrtGbIpSX8pehedut95lIvvNtU" />
+
+
+
+    
+    
+        
+                <div class="freeform-row">
+            
+                
+                <div class="freeform-col-12 freeform-fieldtype-textarea" data-field-container="commentaire" data-field-type="textarea"><label class="freeform-label freeform-required" for="form-input-commentaire">Commentaire</label><textarea id="form-input-commentaire" class="freeform-input" name="commentaire" rows="5" placeholder=""  data-required></textarea></div>
+
+                    </div>
+    
+
+
+<div data-freeform-recaptcha-container data-captcha="recaptcha" data-sitekey="6Ld4micrAAAAAFceJUIpcL1XiqOaqwsr1110XmR4" data-theme="light" data-size="normal" data-version="v3" data-action="submit" data-locale="fr"></div>
+<div data-rules-json="{&quot;values&quot;:{&quot;pageUtile&quot;:&quot;&quot;,&quot;currentUrl&quot;:&quot;&quot;,&quot;commentaire&quot;:&quot;&quot;},&quot;rules&quot;:{&quot;fields&quot;:[],&quot;buttons&quot;:[]}}"></div>
+<div data-freeform-controls>
+<div>
+<div>
+<button data-freeform-action="submit" data-button-container="submit" name="form_page_submit" type="submit">Envoyer</button>
+</div>
+</div>
+<div>
+</div>
+</div>
+<input type="hidden" name="freeform_payload" value="7OvyBEfv7RtrKhm+7BBYoWJjYzE1MGRmODYzNTQ2NzQ0M2FjNmNhMzVmN2EzYzQxYzc3ZDM1MjQxMTk0MmRjYWE4MjFkY2RmOGExYjc5NzmWeuNWQR5qpFuEZuw8F6T/1bMc9u7KCv/GQgawdmvvuQhSAWIyIT2PUuC4TngH9MCFVPJPjFMvEeLbyPXBoNp5Qc6ZG5sUflF3w59tJpq47PG/LTMI3Omco7SgZeQnv8g7qvviOT9k6kJQv5HqXHi/1tHY3O5PfKwiSXmnhlwhn5cA7Z/llHB+fhqFxERQNFLiXP69yJf/Yr4jwLHyKRi/MMszMawYoubmcsMOjHkQXAzZE1vjY5BvErcx15503G90oEZdyuQ+Kcfozm1Ye0ukwkrKvEr5vbocm7+9NWMgfQW1HR+cjvOUGf0z68WdeJZjC6sgauVvSabo7RzblNSPTQ5rtBzfCjjMgbBrzCCRZagwhNob77WznmaFR7X3bs1dnrsBZRKD9nbWs09Ix1PdqBV6jFqvOaO+1DrcJKxrZPu+47zft2kcz5/xWwprseUdA5LkcgHqbJqYsDEcsv4uSRb/1Vpq6XYVNqyxf4JsTpNLKLRI+NHLw/6wE4K2kde3imbjOBwuRS6JJgbbQdmzGTulJQ2I009LK/V73ec1d9KEqdzHWl+j1zL34VLKj4r0yBFYZznh2J4Vdxbt3y4B/OI1CUxtmJO+0MkW9w+vLxi9ssv0wrddLP4lv4CfSkXlc5JxAnZq18Iq2iipr3ClF1Jo9Qgjq2iB779KrdLhfjuQ238Ya5yRN6RhjDqNK1J9CMhYMt+JNUILdgmd6B0eJeMAPGvxPuhx5obTMc0qpFaBJ9HlVVmafpFgdr162tFO9cRFwwpVQRdIyiZt6sPC1V3gXTi/6g/ClSuLgJj57dbx+WWaXPK7C8bWeF0OtsYLMllx3ditZAu08bVhVxyXmgnfFp98xI3E7yKdA5u20PDh/SGA2nau4t8yUIQUW0wJGNPXd/z8yXVNA3Iukoq/q/kr7DxnX2HPNVeHOuYM/2d0OvCEpikPsepqPCKFoGbD3J745C4iWk47JXUNsv1SVppiKIgxOl4bO5z9rQoPGhH4McboYfhU0vcC9eQa5Ab4ktY67+gSEjLLk5G8MQFCF+usIeD+LyMAFLuJiXNYJ3IwErQt3tm7UN8drxxwAVbPGN+6deWiywbF+aJUFhbHXvMlZRpPlyVWO/1nZJs3ObarvUDxmaT49Rk2Zc4UAN2Iprmk4hI6DXg2WmNeJlqwGvlDP1Mpkv2jzKmq8abG4Soq4E0ntrUTnckDZWF2YPwv5x90Sr+xK6BcsFujD9TG5SYJmM0hYkUsN/a/0GQNhhuvLpHcophE5z1zqVYtYn/P2HCqlxN55Yk2JC5tKaf90rByuOnaQI3eo2xCqYUcMCGd4yak4Dkg2EtwWecU1tut2ufu6oUZcDS8GIaR6s6xvgS9Vf+5Uye9OxBTJA3R3cqgwnkV17rpWEG+rX33o37jhDRDJPY9UhAO0mlONa3kQWApAk31cO4FL+HIZXcb85cPWov8+qKC/fpIuiggqELT8vLvL56upW+mKRCiiWJjmeYokHhjU4goFV7Ieec8Ho2cnznuJ1BE9FRLiZMZ9211l8LKtEGxglvActe3UBtRagOqcEixG/e177AZMHfodSYF0ytfKy6WWmZHkAUaqyHcHMV1a33Sup0mNTaJ0TSUcQkExRFOxrqvlt5x7vtGJXQ49zyRRxWyoP8HEbLkbpirOjjUDjVan0w7on49QSonT3Rb8/WeRg/1Vr8XSfVkgk52AZbzA8K11ysqK37tsIaUt3Gk529Yog1DX4khl/92YJeMRpTwhHWXH8HjmcrSLrnqfTbzz2510SnJu+Q61dM+i5J9H6EC67IEw8X905lcI1u59qSfHm6PcBvanqrz2sjcKNxfVkPRO3BkJ+TpSzgOnM7ixjzELb1qyVI11b+HIoKeivXHjvLSOM0fj38xGZhyTTBX5a8sslOJw22vPw3RWgecsfJWoAF+L2SE9Hw/3psnRoVGGUF6ofCCifKKZaqrB7tgIT36HoUqV30WG+7ZtoIJEA0bgMFbB6eUG7luAGtVOvNkmUv4J4rZ3Zjf4b46Ux2PPS1A9P7HN60G7n7W8eiBmWkH54MGcQTdxMRIr2xpF3qqjj+WNzK/rb99F8jgkpAbUBOV+hURUWGqpDk=" /></form>
+
+                                    
+                <div class="feedback-help">
+                    <img src="/assets/images/interrogation-icon.svg" alt="">
+                    <p>Si vous avez une question, souhaitez un suivi ou avez besoin d'assistance : <a href="/nous-joindre">contactez la Ville</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+            <div class="scroll-top">
+    <div>
+        <svg width="25" height="35" viewBox="0 0 25 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.3672 3.01566L10.3672 32.8677C10.3672 34.0453 11.3218 35 12.4995 35C13.6771 35 14.6318 34.0453 14.6318 32.8677L14.6318 3.01566C14.6318 1.83803 13.6771 0.883373 12.4995 0.883373C11.3218 0.883373 10.3672 1.83803 10.3672 3.01566Z" fill="#0085CA"/>
+            <path d="M10.9918 1.50821L1.94526 10.5547C1.11255 11.3875 1.11255 12.7375 1.94526 13.5703C2.77797 14.403 4.12806 14.403 4.96077 13.5703L14.0073 4.52372C14.84 3.69101 14.84 2.34092 14.0073 1.50821C13.1746 0.675495 11.8245 0.675496 10.9918 1.50821Z" fill="#0085CA"/>
+            <path d="M10.9926 4.52383L20.0391 13.5704C20.8718 14.4031 22.2219 14.4031 23.0546 13.5704C23.8873 12.7377 23.8873 11.3876 23.0546 10.5549L14.0081 1.50832C13.1754 0.675611 11.8253 0.675612 10.9926 1.50832C10.1599 2.34103 10.1599 3.69112 10.9926 4.52383Z" fill="#0085CA"/>
+        </svg>
+    </div>
+</div>            <div class="newsletter-container">
+    <div class="container">
+        <div class="row align-items-center justify-content-around">
+            <div class="col col-12 col-lg-8">
+                <h3>Inscrivez-vous à nos infolettres&nbsp;!</h3>
+            </div>
+
+            <div class="col col-12 col-lg-4 text-start text-lg-end">
+                <div class="button-container mt-2 mt-lg-0">
+                    <a href="/organisation-municipale/publications-et-communications/infolettres" class="btn btn-primary-dark">
+                        Je m'inscris <svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Group">
+        <path id="Vector" d="M14.6214 5.02539H0.974761C0.436415 5.02539 0 5.46181 0 6.00015C0 6.5385 0.436415 6.97491 0.974761 6.97491H14.6214C15.1598 6.97491 15.5962 6.5385 15.5962 6.00015C15.5962 5.46181 15.1598 5.02539 14.6214 5.02539Z" fill="currentcolor"/>
+        <path id="Vector_2" d="M15.3111 5.31066L11.1756 1.1751C10.7949 0.794432 10.1777 0.794432 9.79707 1.1751C9.4164 1.55577 9.4164 2.17295 9.79707 2.55362L13.9326 6.68918C14.3133 7.06985 14.9305 7.06985 15.3111 6.68918C15.6918 6.30851 15.6918 5.69133 15.3111 5.31066Z" fill="currentcolor"/>
+        <path id="Vector_3" d="M13.9322 5.31092L9.79668 9.44648C9.41601 9.82715 9.41601 10.4443 9.79668 10.825C10.1773 11.2057 10.7945 11.2057 11.1752 10.825L15.3108 6.68944C15.6914 6.30878 15.6914 5.69159 15.3108 5.31092C14.9301 4.93025 14.3129 4.93025 13.9322 5.31092Z" fill="currentcolor"/>
+    </g>
+</svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        </main>
+        <footer>
+    <div class="container">
+        <div class="top">
+            <div class="row">
+                <ul class="footer-menu col-12 col-lg-5 order-1 order-lg-0">
+                                                                <li><a href="https://www.pointe-claire.ca/organisation-municipale/emplois">Emplois</a></li>
+                                            <li><a href="https://www.pointe-claire.ca/organisation-municipale/nouvelles-et-medias/actualites">Actualités</a></li>
+                                            <li><a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/avis-publics-et-proces-verbaux/avis-publics">Avis publics</a></li>
+                                            <li><a href="https://www.pointe-claire.ca/organisation-municipale/nouvelles-et-medias">Nouvelles et médias</a></li>
+                                            <li><a href="https://www.pointe-claire.ca/bibliotheque-culture-sports-et-loisirs/programmation-culturelle-sportive/calendrier-des-evenements-et-activites">Calendrier des événements et activités</a></li>
+                                            <li><a href="https://www.pointe-claire.ca/territoire-et-urbanisme/lieux-et-secteurs-de-pointe-claire/carte-interactive">Carte de la Ville</a></li>
+                                            <li><a href="https://www.pointe-claire.ca/collectes-et-matieres-residuelles/collectes/signaler-un-probleme-de-collecte">Signaler un problème de collecte</a></li>
+                                    </ul>
+                <div class="contact-info col-12 col-lg-4 order-0 order-lg-1">
+                    <h5>Contactez-nous</h5>
+
+                    <div class="content">
+                        <ul>
+                                                                                            <li>
+                                    <a href="tel:+15146301200">
+                                        <img src="/assets/images/phone-icon.svg" alt="Téléphone">
+                                        <span>514 630-1200</span>
+                                    </a>
+                                </li>
+                                                                                        <li>
+                                    <a href="mailto:communications@pointe-claire.ca">
+                                        <img style="margin-top: 4px;" src="/assets/images/email-icon.svg" alt="Courriel">
+                                        <span>communications@pointe-claire.ca</span>
+                                    </a>
+                                </li>
+                                                                                                                    <li>
+                                    <a href="https://www.pointe-claire.ca/territoire-et-urbanisme/lieux-et-secteurs-de-pointe-claire/trouvez-un-lieu/hotel-de-ville" target="_blank">
+                                        <img src="/assets/images/pin-icon.svg" alt="Épingle">
+                                        <div>
+                                            <strong>Hôtel de ville</strong><br>
+                                            451 boulevard Saint-Jean<br>
+                                            Pointe-Claire (Québec) H9R 3J3
+                                        </div>
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+                <div class="socials col-12 col-lg-3 order-2 order-lg-2">
+                    <h5>Suivez-nous&nbsp;!</h5>
+
+                    <ul>
+                                                                                <li>
+                                <a href="https://www.facebook.com/ville.city.pointeclaire" target="_blank">
+                                                                            <img src="https://www.pointe-claire.ca/assets/images/Icones/fb-icon.svg" alt="Fb icon">
+                                                                        Facebook
+                                </a>
+                            </li>
+                                                                                <li>
+                                <a href="https://www.instagram.com/ville.city.pointe.claire/" target="_blank">
+                                                                            <img src="https://www.pointe-claire.ca/assets/images/Icones/instagram-icon.svg" alt="Instagram icon">
+                                                                        Instagram
+                                </a>
+                            </li>
+                                                                                <li>
+                                <a href="https://www.linkedin.com/company/ville-city-pointe-claire" target="_blank">
+                                                                            <img src="https://www.pointe-claire.ca/assets/images/Icones/linkedin-icon.svg" alt="Linkedin icon">
+                                                                        LinkedIn
+                                </a>
+                            </li>
+                                                                                <li>
+                                <a href="https://www.youtube.com/channel/UCkvGMOKLdauGq-wkE9exvfA" target="_blank">
+                                                                            <img src="https://www.pointe-claire.ca/assets/images/Icones/yt-icon.svg" alt="Yt icon">
+                                                                        YouTube
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="bottom">
+            <div class="row align-items-center">
+                <div class=" col-12 col-lg-2 text-center text-lg-start mb-2 mb-lg-0">
+                    <a href="https://www.pointe-claire.ca/"><img src="/assets/images/pointe-claire-logo_w.svg" alt="Pointe-Claire"></a>
+                </div>
+                <div class="copyright col-12 col-lg-8">
+                    <p class="order-1 order-xxl-0" >© Ville de Pointe-Claire, 2025. Tous droits réservés.</p>
+                    <ul class="legal-links order-0 order-xxl-1">
+                                                                            <li>
+                                <a href="https://www.pointe-claire.ca/en/legal-notice">Mentions légales</a>
+                            </li>
+                                                    <li>
+                                <a href="https://www.pointe-claire.ca/en/municipal-organization/plans-and-policies/confidentiality-policy">Politique de confidentialité</a>
+                            </li>
+                                                <li>
+                            <a href="javascript:void(0);" onclick="CookieScript.instance.show();">Gestion des fichiers témoins (Cookies)</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class=" col-12 col-lg-2 text-center text-lg-end">
+                    <div class="language-switcher">
+                        
+                        <ul class="language-links">
+                            
+                                                            <li class="active">
+                                    <a href="https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal">
+                                                                                Français
+                                    </a>
+                                </li>
+                                                            <li class="">
+                                    <a href="https://www.pointe-claire.ca/en/democracy-and-civic-engagement/municipal-council/your-city-council">
+                                                                                English
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+                    <script src="/assets/js/vendors/all.min.js"></script>
+            <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/i18n/jquery-ui-i18n.min.js"></script>
+            <script src="/assets/js/main.min.js"></script>
+            <script type="application/ld+json">{"@context":"http://schema.org","@graph":[{"@type":"WebSite","author":{"@id":"https://www.pointe-claire.ca#identity"},"copyrightHolder":{"@id":"https://www.pointe-claire.ca#identity"},"copyrightYear":"2024","creator":{"@id":"#creator"},"dateCreated":"2024-11-06T17:43:43-05:00","dateModified":"2025-05-26T12:58:40-04:00","datePublished":"2024-11-06T17:43:00-05:00","description":"Découvrez Pointe-Claire : accédez facilement aux services municipaux, explorez les activités culturelles et sportives, consultez les actualités locales et restez connecté à votre communauté.","headline":"Votre conseil municipal","image":{"@type":"ImageObject","url":"https://www.pointe-claire.ca/assets/images/images/_1200x630_crop_center-center_82_none/103134/Logo-Pointe-Claire.jpg?mtime=1745617003"},"inLanguage":"fr-ca","mainEntityOfPage":"https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal","name":"Votre conseil municipal","publisher":{"@id":"#creator"},"url":"https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal"},{"@id":"https://www.pointe-claire.ca#identity","@type":"Place","address":{"@type":"PostalAddress","addressCountry":"Canada","addressLocality":"Pointe-Claire","addressRegion":"Québec","postalCode":"H9R 3J3","streetAddress":"451 Saint-Jean Boulevard"},"description":"Pointe-Claire est une ville de l'agglomération de Montréal, au Québec bordant le lac Saint-Louis.","geo":{"@type":"GeoCoordinates","latitude":"45.448733","longitude":"-73.817254"},"image":{"@type":"ImageObject","height":"67","url":"https://www.pointe-claire.ca/assets/images/images/Logo-Pointe-Claire.svg","width":"133"},"logo":{"@type":"ImageObject","height":"60","url":"https://www.pointe-claire.ca/assets/images/images/_600x60_fit_center-center_82_none/103134/Logo-Pointe-Claire.jpg?mtime=1745617003","width":"119"},"name":"Ville de Pointe-Claire","telephone":"514-630-1200","url":"https://www.pointe-claire.ca"},{"@id":"#creator","@type":"Organization"},{"@type":"BreadcrumbList","description":"Breadcrumbs list","itemListElement":[{"@type":"ListItem","item":"https://www.pointe-claire.ca/","position":1},{"@type":"ListItem","item":"https://www.pointe-claire.ca/democratie-et-participation-citoyenne","name":"Démocratie et participation citoyenne","position":2},{"@type":"ListItem","item":"https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal","name":"Conseil municipal","position":3},{"@type":"ListItem","item":"https://www.pointe-claire.ca/democratie-et-participation-citoyenne/conseil-municipal/votre-conseil-municipal","name":"Votre conseil municipal","position":4}],"name":"Breadcrumbs"}]}</script><script type="module" src="https://www.pointe-claire.ca/cpresources/278015cd/assets/admin-bar-48L20TqC.js" defer></script>
+<script src="https://www.pointe-claire.ca/cpresources/a3e90e30/js/scripts/front-end/captchas/recaptcha/v3.js?v=1751934993"></script>
+<script src="https://www.pointe-claire.ca/cpresources/a3e90e30/js/scripts/front-end/plugin/freeform.js?v=1751934993"></script>
+<script src="https://www.pointe-claire.ca/cpresources/45eb4e30/_main.js?v=1754340260"></script>
+<script>var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
+    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
+    return new (P || (P = Promise))(function (resolve, reject) {
+        function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
+        function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
+        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        step((generator = generator.apply(thisArg, _arguments || [])).next());
+    });
+};
+addInjectScriptEventListener();
+function addInjectScriptEventListener() {
+    const injectScriptEvent = 'DOMContentLoaded';
+    if (injectScriptEvent === 'load') {
+        window.addEventListener('load', injectElements, { once: true });
+    }
+    else {
+        document.addEventListener(injectScriptEvent, injectElements, { once: true });
+    }
+}
+function injectElements() {
+    return __awaiter(this, void 0, void 0, function* () {
+        if (!document.dispatchEvent(new CustomEvent('beforeBlitzInjectAll', {
+            cancelable: true,
+        }))) {
+            return;
+        }
+        const elements = document.querySelectorAll('.blitz-inject:not(.blitz-inject--injected)');
+        const injectElements = {};
+        const promises = [];
+        elements.forEach(element => {
+            var _a;
+            const injectElement = {
+                element: element,
+                id: element.getAttribute('data-blitz-id'),
+                uri: element.getAttribute('data-blitz-uri'),
+                params: element.getAttribute('data-blitz-params'),
+                property: element.getAttribute('data-blitz-property'),
+            };
+            if (document.dispatchEvent(new CustomEvent('beforeBlitzInject', {
+                cancelable: true,
+                detail: injectElement,
+            }))) {
+                const url = injectElement.uri + (injectElement.params ? (injectElement.uri.indexOf('?') !== -1 ? '&' : '?') + injectElement.params : '');
+                injectElements[url] = (_a = injectElements[url]) !== null && _a !== void 0 ? _a : [];
+                injectElements[url].push(injectElement);
+            }
+        });
+        for (const url in injectElements) {
+            promises.push(replaceUrls(url, injectElements[url]));
+        }
+        yield Promise.all(promises);
+        document.dispatchEvent(new CustomEvent('afterBlitzInjectAll'));
+    });
+}
+function replaceUrls(url, injectElements) {
+    return __awaiter(this, void 0, void 0, function* () {
+        const response = yield fetch(url);
+        if (response.status >= 300) {
+            return null;
+        }
+        const responseText = yield response.text();
+        let responseJson;
+        if (url.indexOf('blitz/csrf/json') !== -1) {
+            responseJson = JSON.parse(responseText);
+        }
+        injectElements.forEach(injectElement => {
+            var _a;
+            if (injectElement.property) {
+                injectElement.element.innerHTML = (_a = responseJson[injectElement.property]) !== null && _a !== void 0 ? _a : '';
+            }
+            else {
+                injectElement.element.innerHTML = responseText;
+            }
+            injectElement.element.classList.add('blitz-inject--injected');
+            document.dispatchEvent(new CustomEvent('afterBlitzInject', {
+                detail: injectElement,
+            }));
+        });
+    });
+};</script></body>
+</html>
+<!-- Cached by Blitz on 2025-08-08T09:21:50-04:00 -->

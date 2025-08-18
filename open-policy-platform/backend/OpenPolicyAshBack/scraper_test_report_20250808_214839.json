@@ -1,0 +1,1093 @@
+{
+  "timestamp": "2025-08-08T21:48:39.010849",
+  "system_resources": {
+    "cpu_count": 16,
+    "memory_gb": 64.0,
+    "current_cpu_usage": 0.0,
+    "current_memory_usage": 0.0
+  },
+  "summary": {
+    "total_scrapers": 51,
+    "successful": 1,
+    "failed": 50,
+    "skipped": 0,
+    "success_rate": 1.9607843137254901,
+    "total_records_collected": 5,
+    "total_records_inserted": 0,
+    "size_breakdown": {
+      "small": 31,
+      "medium": 14,
+      "large": 6
+    }
+  },
+  "category_stats": {
+    "parliamentary": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "provincial": {
+      "total": 14,
+      "successful": 0,
+      "failed": 14,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 9,
+      "medium": 2,
+      "large": 3
+    },
+    "municipal": {
+      "total": 34,
+      "successful": 1,
+      "failed": 33,
+      "records_collected": 5,
+      "records_inserted": 0,
+      "small": 21,
+      "medium": 11,
+      "large": 2
+    },
+    "civic": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "update": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    }
+  },
+  "failed_scrapers": [
+    {
+      "name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "error": "No people.py file found in ../../scrapers/openparliament"
+    },
+    {
+      "name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer"
+    },
+    {
+      "name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat"
+    },
+    {
+      "name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "signal only works in main thread of the main interpreter"
+    },
+    {
+      "name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "error": "No people.py file found in ../../scrapers/civic-scraper"
+    },
+    {
+      "name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "error": "No people.py file found in ../../scripts"
+    }
+  ],
+  "detailed_results": [
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "success",
+      "start_time": "2025-08-08T21:48:38.587596",
+      "end_time": "2025-08-08T21:48:38.967331",
+      "records_collected": 5,
+      "records_inserted": 0,
+      "error_message": null,
+      "execution_time": 0.0001327991485595703,
+      "memory_usage": 53.1,
+      "cpu_usage": 7.3
+    },
+    {
+      "scraper_name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.968830",
+      "end_time": "2025-08-08T21:48:38.969050",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/openparliament",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.969966",
+      "end_time": "2025-08-08T21:48:38.972707",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 5.1975250244140625e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.970581",
+      "end_time": "2025-08-08T21:48:38.973472",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 1.621246337890625e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.970152",
+      "end_time": "2025-08-08T21:48:38.973056",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 2.002716064453125e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.970352",
+      "end_time": "2025-08-08T21:48:38.973518",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.867813110351562e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.970836",
+      "end_time": "2025-08-08T21:48:38.973654",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 1.5735626220703125e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.971695",
+      "end_time": "2025-08-08T21:48:38.974000",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 1.0013580322265625e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.972591",
+      "end_time": "2025-08-08T21:48:38.974545",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 9.775161743164062e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.971242",
+      "end_time": "2025-08-08T21:48:38.974845",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 9.059906005859375e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.973780",
+      "end_time": "2025-08-08T21:48:38.975568",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.867813110351562e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.973959",
+      "end_time": "2025-08-08T21:48:38.976283",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 3.0994415283203125e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.974689",
+      "end_time": "2025-08-08T21:48:38.976888",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 8.821487426757812e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.974667",
+      "end_time": "2025-08-08T21:48:38.976931",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.152557373046875e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.974714",
+      "end_time": "2025-08-08T21:48:38.977230",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.9141387939453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.974864",
+      "end_time": "2025-08-08T21:48:38.977719",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.152557373046875e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.979839",
+      "end_time": "2025-08-08T21:48:38.982607",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.9141387939453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.979348",
+      "end_time": "2025-08-08T21:48:38.980671",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 1.4066696166992188e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.980753",
+      "end_time": "2025-08-08T21:48:38.983166",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.9141387939453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.979188",
+      "end_time": "2025-08-08T21:48:38.981371",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 8.106231689453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.979068",
+      "end_time": "2025-08-08T21:48:38.980093",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 1.0013580322265625e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.981192",
+      "end_time": "2025-08-08T21:48:38.983282",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.9141387939453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.979503",
+      "end_time": "2025-08-08T21:48:38.982497",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.152557373046875e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.980299",
+      "end_time": "2025-08-08T21:48:38.984759",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 1.0013580322265625e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.980220",
+      "end_time": "2025-08-08T21:48:38.984910",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.9141387939453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.982978",
+      "end_time": "2025-08-08T21:48:38.984961",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 2.002716064453125e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.981867",
+      "end_time": "2025-08-08T21:48:38.985052",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.9141387939453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.981458",
+      "end_time": "2025-08-08T21:48:38.985387",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 5.245208740234375e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.985438",
+      "end_time": "2025-08-08T21:48:38.986949",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.982325",
+      "end_time": "2025-08-08T21:48:38.985638",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.9141387939453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.980527",
+      "end_time": "2025-08-08T21:48:38.986001",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 5.9604644775390625e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.983098",
+      "end_time": "2025-08-08T21:48:38.986230",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.198883056640625e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.984429",
+      "end_time": "2025-08-08T21:48:38.986255",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 5.7220458984375e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.986789",
+      "end_time": "2025-08-08T21:48:38.988138",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.983506",
+      "end_time": "2025-08-08T21:48:38.986895",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 5.9604644775390625e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.984867",
+      "end_time": "2025-08-08T21:48:38.987398",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 5.9604644775390625e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.984818",
+      "end_time": "2025-08-08T21:48:38.987706",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 5.7220458984375e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.985304",
+      "end_time": "2025-08-08T21:48:38.988231",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 5.7220458984375e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.986956",
+      "end_time": "2025-08-08T21:48:38.988948",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.867813110351562e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.985833",
+      "end_time": "2025-08-08T21:48:38.989199",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 8.106231689453125e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.987166",
+      "end_time": "2025-08-08T21:48:38.989671",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 2.7179718017578125e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.988028",
+      "end_time": "2025-08-08T21:48:38.990351",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 8.821487426757812e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.987806",
+      "end_time": "2025-08-08T21:48:38.991073",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 6.198883056640625e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.987939",
+      "end_time": "2025-08-08T21:48:38.991283",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 9.059906005859375e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.988198",
+      "end_time": "2025-08-08T21:48:38.991648",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.152557373046875e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.988145",
+      "end_time": "2025-08-08T21:48:38.991863",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.152557373046875e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.989143",
+      "end_time": "2025-08-08T21:48:38.992404",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.867813110351562e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.988692",
+      "end_time": "2025-08-08T21:48:38.992461",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 7.152557373046875e-06,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:38.981731",
+      "end_time": "2025-08-08T21:48:39.009281",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "signal only works in main thread of the main interpreter",
+      "execution_time": 1.0967254638671875e-05,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:39.010127",
+      "end_time": "2025-08-08T21:48:39.010204",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/civic-scraper",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:48:39.010552",
+      "end_time": "2025-08-08T21:48:39.010611",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scripts",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    }
+  ]
+}

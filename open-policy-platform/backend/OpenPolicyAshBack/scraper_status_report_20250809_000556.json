@@ -1,0 +1,69 @@
+{
+  "timestamp": "2025-08-09T00:05:56.866596",
+  "jobs": {
+    "federal_parliament": {
+      "enabled": true,
+      "priority": "high",
+      "schedule": "0 2 * * *",
+      "last_execution": null
+    },
+    "ontario_legislature": {
+      "enabled": true,
+      "priority": "medium",
+      "schedule": "0 3 * * *",
+      "last_execution": null
+    },
+    "quebec_legislature": {
+      "enabled": true,
+      "priority": "medium",
+      "schedule": "0 4 * * *",
+      "last_execution": null
+    },
+    "british_columbia_legislature": {
+      "enabled": true,
+      "priority": "medium",
+      "schedule": "0 5 * * *",
+      "last_execution": null
+    },
+    "toronto_city_council": {
+      "enabled": true,
+      "priority": "medium",
+      "schedule": "0 6 * * *",
+      "last_execution": null
+    },
+    "montreal_city_council": {
+      "enabled": true,
+      "priority": "medium",
+      "schedule": "0 7 * * *",
+      "last_execution": null
+    },
+    "vancouver_city_council": {
+      "enabled": true,
+      "priority": "medium",
+      "schedule": "0 8 * * *",
+      "last_execution": null
+    },
+    "civic_data": {
+      "enabled": true,
+      "priority": "low",
+      "schedule": "0 9 * * *",
+      "last_execution": null
+    }
+  },
+  "running_jobs": [],
+  "performance_metrics": {
+    "total_executions": 0,
+    "successful_executions": 0,
+    "failed_executions": 0,
+    "total_records_collected": 0,
+    "total_records_inserted": 0,
+    "average_execution_time": 0.0,
+    "system_memory_usage": 45.8,
+    "system_cpu_usage": 9.3
+  },
+  "system_health": {
+    "memory_usage": 46.0,
+    "cpu_usage": 11.1,
+    "disk_usage": 0.8
+  }
+}

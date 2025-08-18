@@ -1,0 +1,2874 @@
+status: 200
+encoding: UTF-8
+Server: nginx/1.20.2
+Date: Sat, 09 Aug 2025 05:45:01 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 25503
+Connection: keep-alive
+Keep-Alive: timeout=20
+Cache-Control: max-age=2764800, public
+X-Drupal-Dynamic-Cache: MISS
+Content-language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Drupal-Cache: MISS
+Last-Modified: Sat, 09 Aug 2025 05:26:46 GMT
+ETag: "1754717206-gzip"
+Content-Encoding: gzip
+X-Request-ID: v-7122b4d8-74e1-11f0-8824-2b9f0051fd4d
+X-AH-Environment: prod
+Age: 1094
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 6
+Accept-Ranges: bytes
+X-DIS-Request-ID: 761a90166971fb293c79683f0e1b8af1
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="https://www.markham.ca/about-city-markham/city-hall/regional-ward-councillors/jim-jones-regional-councillor" />
+<meta name="msvalidate.01" content="7F99A7043A6BB444BCEE247502396E22" />
+<meta name="google-site-verification" content="W7lPrBE-KNeMyYzYkMVITewC7dIKVMWjFhkLdj2-8Ek" />
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/default/files/favicons/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/sites/default/files/favicons/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/sites/default/files/favicons/favicon-16x16.png"/>
+<link rel="manifest" href="/sites/default/files/favicons/site.webmanifest"/>
+<meta name="msapplication-TileColor" content="#2d89ef"/>
+<meta name="theme-color" content="#ffffff"/>
+<meta name="favicon-generator" content="Drupal responsive_favicons + realfavicongenerator.net" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "url": "https://www.markham.ca/about-city-markham/city-hall/regional-ward-councillors/jim-jones-regional-councillor",
+            "name": "Jim Jones, Regional Councillor",
+            "location": {
+                "@type": "Place",
+                "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Markham",
+                    "addressRegion": "Ontario",
+                    "addressCountry": "Canada"
+                }
+            }
+        }
+    ]
+}</script>
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Jim Jones, Regional Councillor | City of Markham</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" media="all" href="/modules/contrib/ajax_loader/css/throbber-general.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/controlgroup.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/checkboxradio.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/resizable.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/button.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/dialog.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/misc/components/progress.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/misc/components/ajax-progress.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/modules/contrib/poll/css/poll.base.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/modules/contrib/poll/css/poll.theme.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/modules/custom/markham_custom/css/global-ui.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/ckeditor5/css/ckeditor5.dialog.fix.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/filter/css/filter.caption.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/media/css/filter.caption.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/modules/contrib/addtoany/css/addtoany.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/modules/contrib/ajax_loader/css/wave.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/themes/custom/markham/css/accordion.frontend.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/core/modules/layout_discovery/layouts/onecol/onecol.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/Glide.js/3.6.0/css/glide.core.min.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/markham/dist/style.css?t0o1lp" />
+<link rel="stylesheet" media="(min-width: 425px)" href="/themes/custom/markham/dist/split/style-min-width-425.css?t0o1lp" />
+<link rel="stylesheet" media="(min-width: 640px)" href="/themes/custom/markham/dist/split/style-min-width-640.css?t0o1lp" />
+<link rel="stylesheet" media="(min-width: 768px)" href="/themes/custom/markham/dist/split/style-min-width-768.css?t0o1lp" />
+<link rel="stylesheet" media="(min-width: 1024px)" href="/themes/custom/markham/dist/split/style-min-width-1024.css?t0o1lp" />
+<link rel="stylesheet" media="(min-width: 1280px)" href="/themes/custom/markham/dist/split/style-min-width-1280.css?t0o1lp" />
+<link rel="stylesheet" media="all" href="/themes/custom/markham/css/color-overrides.css?t0o1lp" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/99511","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxdUAFuBCEI_JDVJxlUzrWnYgCb29-X5nrb5hJCZhiSGYBSlGCeAX6BvzFNdfAJj9gJCnL4h70eTCkhu4SqyBEfiwRLvLVuVELFiQzd5TuWpsQRciYujWa40NMCZ3GVqHaMCjVUa-_c_zi7DidtjaVJpi_kM9DETN0N4PsBI-QDNJFevHZKcMkxb1F6TeNu74Jkpt6jktVyw2JDeF7jMyy1vG5QFBQxGAdMqPaTwntB96bY_WrfqZbRLWCoDOuQ18LfxO-5dupNDixumeW1Yvijt3kXJ6cojpBA8BujKqCp","theme":"markham","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"gtag":{"tagId":"G-XKB479XEZE","consentMode":false,"otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxLoader":{"markup":"\u003Cdiv class=\u0022ajax-throbber sk-wave\u0022\u003E\n              \u003Cdiv class=\u0022sk-wave-rect\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-wave-rect\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-wave-rect\u0022\u003E\u003C\/div\u003E\n              \u003Cdiv class=\u0022sk-wave-rect\u0022\u003E\u003C\/div\u003E\n            \u003C\/div\u003E","hideAjaxMessage":false,"alwaysFullscreen":false,"throbberPosition":"body"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":1}},"mo_session_manager":{"logout_timeout":600000,"mo_autologout_response_time":10000,"mo_modal_message":"You\u0027ve been inactive for a while. Would you like to continue your session?","mo_modal_width":"800","mo_modal_title":"Logout Alert","mo_modal_yes_button_text":"Yes","mo_modal_no_button_text":"No, logout","mo_redirect_after_logout":"https:\/\/www.markham.ca\/user\/logout","mo_local_storage_enabled":"1","mo_local_storage_key":"hlat","mo_session_access_token_expiry":"","mo_session_server_logout_url":"https:\/\/www.markham.ca\/user\/logout","mo_access_token":null,"mo_current_user_id":0},"user":{"uid":0,"permissionsHash":"1ec36ed5a7578f63c3c8765ef474e476a820f6f74ca648bed454a228e1e31461"}}</script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.3.13"></script>
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.4.1/dist/alpine.min.js" type="module"></script>
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.4.1/dist/alpine-ie11.min.js" nomodule defer></script>
+<script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?t0o1lp"></script>
+
+  </head>
+  <body class="path-node-99511 node-type-staff no-sidebars markham-theme">
+    <style>:root {--mk-color-1:#434C78;--mk-color-2:#6E2E5C;--mk-color-3:#AF4622;--mk-color-4:#285D61;--mk-color-5:#B31E4F;--mk-color-6:#0B7253;--mk-color2-1:#5965A0;--mk-color2-2:#933D7B;--mk-color2-3:#CC2101;--mk-color2-4:#0C7884;--mk-color2-5:#86163B;--mk-color2-6:#28523D;}</style>
+    <style>:root{--mk-current-color: #434C78;--mk-current-color2: #5965A0;}</style>
+        <div role="navigation" aria-labelledby="main-content">
+      <a href="#main-content" class="sr-only focus:not-sr-only">
+        Skip to main content
+      </a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<div class="layout-container flex flex-col min-h-screen">
+
+  
+  <header role="banner" id="markham-page-header">
+      <div>
+    
+
+
+<div id="block-header" class="block--header-with-utility-simple">
+  
+    
+  
+    
+    
+    
+
+
+
+
+
+
+
+<div
+  class="header-with-utlity-menu relative xl:h-auto"
+  x-data="{
+    mobileMenuOpen: false,
+    searchOpen: false,
+    searchOpenMobile: false,
+    showInteractiveElementsCb: null,
+    trapFocusKeydownEventListenerCb: null,
+    stopScrolling() {
+      document.querySelector('body').classList.add('stop-scrolling');
+    },
+    enableScrolling() {
+      document.querySelector('body').classList.remove('stop-scrolling');
+    },
+    openMobileMenu() {
+      this.searchOpen = false;
+      this.mobileMenuOpen = true;
+
+      const firstFocusableEl = document.querySelector('.js-close-mobile-menu');
+      const lastFocusableEl = document.querySelector('.js-translate-button');
+
+      const items = [
+        firstFocusableEl,
+        ...document.querySelectorAll('.button--level-1'),
+        ...document.querySelectorAll('.js-utility-menu a, .js-utility-menu button'),
+        document.querySelector('.js-level-access'),
+        document.querySelector('.js-high-contrast'),
+        lastFocusableEl
+      ];
+
+      this.openTrapElement(firstFocusableEl, lastFocusableEl, items, () => this.closeMobileMenu());
+    },
+    closeMobileMenu() {
+      this.mobileMenuOpen = false;
+      this.closeTrapElement();
+    },
+    openSearchModal(isMobile = true) {
+      this.closeMobileMenu();
+      this.stopScrolling();
+
+      let firstFocusableEl;
+      let wrapper;
+
+      if (isMobile) {
+        wrapper = document.querySelector('.js-search-mobile-wrapper');
+        firstFocusableEl = document.querySelector('.js-search-mobile-close');
+        this.searchOpenMobile = true;
+      } else {
+        wrapper = document.querySelector('.js-search-wrapper');
+        firstFocusableEl = document.querySelector('.js-search-close');
+        this.searchOpen = true;
+      }
+
+      const items = [firstFocusableEl, ...wrapper.querySelectorAll('input')];
+      this.openTrapElement(firstFocusableEl, items[items.length - 1], items, () => this.closeSearch(isMobile));
+    },
+    closeSearch(isMobile = true) {
+      this.enableScrolling();
+      this.searchOpenMobile = false;
+      this.searchOpen = false;
+
+      this.closeTrapElement(
+        document.querySelector(isMobile ? '.js-search-mobile-open' : '.js-search-open')
+      );
+    },
+    openTrapElement(firstEl, lastEl, items, closeCb) {
+      window.setTimeout(() => firstEl.focus(), 10);
+      this.showInteractiveElementsCb = this.hideInteractiveElements([...items, ...document.querySelectorAll('[aria-hidden=true]')]);
+
+      this.trapFocusKeydownEventListenerCb = (e) => {
+        if (typeof closeCb === 'function') {
+          const KEYCODE_ESCAPE = 27;
+          if (e.key === 'Escape' || e.keyCode === KEYCODE_ESCAPE) {
+            closeCb();
+          }
+        }
+
+        this.trapFocus(e, firstEl, lastEl, items);
+      };
+
+      window.addEventListener('keydown', this.trapFocusKeydownEventListenerCb);
+    },
+    closeTrapElement(element) {
+      if (element instanceof HTMLElement) {
+        setTimeout(() => element.focus(), 0);
+      }
+
+      if (typeof this.trapFocusKeydownEventListenerCb === 'function') {
+        window.removeEventListener('keydown', this.trapFocusKeydownEventListenerCb);
+        this.trapFocusKeydownEventListenerCb = null;
+      }
+
+      if (typeof this.showInteractiveElementsCb === 'function') {
+        this.showInteractiveElementsCb();
+        this.showInteractiveElementsCb = null;
+      }
+    },
+    hideInteractiveElements(exceptions) {
+      const elements = Array.from(document.querySelectorAll('a, button, input, select, textarea, [tabindex]:not([tabindex=\'-1\'])'))
+        .filter(el => !exceptions.includes(el));
+
+      elements.forEach(element => element.setAttribute('aria-hidden', true));
+
+      return () => elements.forEach(element => element.removeAttribute('aria-hidden'));
+    },
+    slideToggle() {
+      let button = event.target;
+      let container = event.target.nextElementSibling;
+      let parentContainer = button.parentElement.parentElement;
+
+      button.children[0].classList.toggle('hidden')
+      button.children[1].classList.toggle('hidden')
+
+      container.querySelectorAll('.link--level-2')
+        .forEach(item => container.classList.contains('active')
+          ? item.setAttribute('aria-hidden', true)
+          : item.removeAttribute('aria-hidden')
+        );
+
+      /** Slide down. */
+      if(!container.classList.contains('active')) {
+        button.setAttribute('aria-expanded', true);
+        /** Show the container. */
+        container.classList.add('active')
+        container.style.height = 'auto'
+
+        /** Get the computed height of the container. */
+        var height = container.clientHeight + 'px'
+
+        /** Set the height of the content as 0px, */
+        /** so we can trigger the slide down animation. */
+        container.style.height = '0px'
+
+        /** Do this after the 0px has applied. */
+        /** It's like a delay or something. MAGIC! */
+        setTimeout(() => {
+          container.style.height = height;
+
+          if (parentContainer.classList.contains('active')) {
+            parentContainer.style.height = 'auto';
+
+            setTimeout(() => {
+              var parentHeight = parentContainer.children[0].offsetHeight + 'px';
+              parentContainer.style.height = parentHeight;
+            }, 500);
+          }
+        }, 0)
+
+      /** Slide up. */
+      } else {
+        button.setAttribute('aria-expanded', false);
+        /** Set the height as 0px to trigger the slide up animation. */
+        container.style.height = '0px'
+
+        if (parentContainer.classList.contains('active')) {
+          parentContainer.style.height = 'auto';
+
+          setTimeout(() => {
+            var parentHeight = parentContainer.children[0].offsetHeight + 'px';
+            parentContainer.style.height = parentHeight;
+          }, 500);
+        }
+
+        /** Remove the `active` class when the animation ends. */
+        container.addEventListener('transitionend', () => {
+          container.classList.remove('active')
+        }, {once: true})
+      }
+    },
+    trapFocus(e, firstFocusableEl, lastFocusableEl, items) {
+      const KEYCODE_TAB = 9;
+      const KEYCODE_ARROW_DOWN = 40;
+      const KEYCODE_ARROW_UP = 38;
+
+      if (e.key === 'Tab' || e.keyCode === KEYCODE_TAB) {
+        /* shift + tab */
+        if ( e.shiftKey && document.activeElement === firstFocusableEl) {
+          lastFocusableEl.focus();
+          e.preventDefault();
+        }
+        /* tab */
+        else if (!e.shiftKey && document.activeElement === lastFocusableEl) {
+          firstFocusableEl.focus();
+          e.preventDefault();
+        }
+      }
+
+      const isDownArrowKey = e.key === 'ArrowDown' || e.keyCode === KEYCODE_ARROW_DOWN;
+      const isUpArrowKey = e.key === 'ArrowUp' || e.keyCode === KEYCODE_ARROW_UP;
+
+      if (isDownArrowKey || isUpArrowKey) {
+        e.preventDefault();
+        const direction = isDownArrowKey ? 1 : -1;
+        let idx = items.indexOf(e.target) + direction;
+
+        if (idx >= items.length) {
+          idx = 0;
+        } else if (idx < 0) {
+          idx = items.length - 1;
+        }
+
+        while (idx >= 0 && idx < items.length && items[idx].offsetParent === null) {
+          idx += direction;
+        }
+
+        items[idx].focus();
+      }
+    }
+  }">
+
+    <div class="w-screen h-screen bg-veryLightGrey absolute inset-0 z-20 flex items-center justify-center hidden js-search-wrapper" :class="{ 'hidden': ! searchOpen }">
+      <button aria-label="Close Search" class="header__search-close button absolute uppercase text-white js-search-close flex items-center" @click="closeSearch(false)">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M8,9.3L9.3,8l5.7,5.7L20.7,8L22,9.4L16.3,15l5.7,5.7L20.7,22 L15,16.3L9.3,22L8,20.7l5.7-5.7L8,9.3z"/>
+        <path style="fill:#676D78;" d="M27,30H3c-1.7,0-3-1.3-3-3V3c0-1.7,1.3-3,3-3h24c1.7,0,3,1.3,3,3v24C30,28.7,28.7,30,27,30z M3,1 C1.9,1,1,1.9,1,3v24c0,1.1,0.9,2,2,2h24c1.1,0,2-0.9,2-2V3c0-1.1-0.9-2-2-2H3z"/>
+      </svg>
+      <span class="sr-only">Close Search</span>
+    </button>
+
+    <div class="h-5/12 flex flex-col justify-between items-center">
+      <div class="bg-white p-8 rounded-lg shadow-lg space-y-4 markham-search-box-header">
+  <img src="/themes/custom/markham/images/logo.png" alt="City of Markham logo">
+  <div class="views-exposed-form bef-exposed-form block--views-exposed-filter-block" data-drupal-selector="views-exposed-form-search-content-page-1" id="block-markham-exposedformsearch-contentpage-1">
+    
+        
+          <form action="/search" method="get" id="views-exposed-form-search-content-page-1" accept-charset="UTF-8">
+  <div class="search-summary"></div><div class="search-box"><div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-keys js-form-item-keys">
+      
+        <input placeholder="What are you looking for?" data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" class="form-text" aria-label="Search"/>
+
+        </div>
+<div data-drupal-selector="edit-actions" class="button js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search-content" type="submit" id="edit-submit-search-content" value="Search" class="button js-form-submit form-submit" />
+</div>
+</div>
+
+</form>
+
+      </div>
+</div>
+
+    </div>
+  </div>
+
+    <div class="bg-white py-3">
+    <div class="container mx-auto xl:h-auto flex justify-between xl:justify-start items-center px-4">
+
+            <div>
+                <a href="/" class="header__logo link inline-block">
+                <img src="/themes/custom/markham/images/logo.png" alt="City of Markham logo">
+    
+        </a>
+              </div>
+
+      <div class="text-sm whitespace-no-wrap lg:block flex-1 sr-only sm:not-sr-only sm:ml-6">
+        The Official Site of The City of Markham
+      </div>
+
+      <div>
+        <div class="-mr-2 -my-2 flex xl:hidden justify-end items-center">
+
+          <a href="/services/shopcart"
+             aria-label="Open shopping cart"
+             class="button header__utility-button bg-lightGrey content-center inline-flex items-center justify-center mr-4">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M14.4 14.4C14.4 15.288 13.688 16 12.8 16C12.3757 16 11.9687 15.8314 11.6686 15.5314C11.3686 15.2313 11.2 14.8243 11.2 14.4C11.2 13.512 11.912 12.8 12.8 12.8C13.2243 12.8 13.6313 12.9686 13.9314 13.2686C14.2314 13.5687 14.4 13.9757 14.4 14.4ZM4.8 12.8C3.912 12.8 3.2 13.512 3.2 14.4C3.2 14.8243 3.36857 15.2313 3.66863 15.5314C3.96869 15.8314 4.37565 16 4.8 16C5.688 16 6.4 15.288 6.4 14.4C6.4 13.512 5.688 12.8 4.8 12.8ZM4.96 10.104L4.936 10.2C4.936 10.312 5.024 10.4 5.136 10.4H14.4V12H4.8C4.37565 12 3.96869 11.8314 3.66863 11.5314C3.36857 11.2313 3.2 10.8243 3.2 10.4C3.2 10.12 3.272 9.856 3.392 9.632L4.48 7.672L1.6 1.6H0V0H2.616L3.368 1.6H15.2C15.64 1.6 16 1.96 16 2.4C16 2.536 15.96 2.672 15.904 2.8L13.04 7.976C12.768 8.464 12.24 8.8 11.64 8.8H5.68L4.96 10.104ZM6 7.2H7.2V5.6H5.248L6 7.2ZM8 5.6V7.2H10.4V5.6H8ZM10.4 4.8V3.2H8V4.8H10.4ZM12.888 5.6H11.2V7.2H12L12.888 5.6ZM14.224 3.2H11.2V4.8H13.336L14.224 3.2ZM4.112 3.2L4.864 4.8H7.2V3.2H4.112Z" fill="#2F353F"/>
+  </svg>
+
+            <span class="sr-only">Open shopping cart</span>
+          </a>
+
+                    <button
+            aria-label="Search"
+            class="button search__button search__button--mobile header__utility-button bg-lightGrey js-search-mobile-open"
+            @click="openSearchModal(true);"
+            x-transition:enter="transition ease-out duration-500"
+            x-transition:enter-start="opacity-0"
+            x-transition:enter-end="opacity-100">
+              <svg class="w-6 h-6 fill-current text-black" id="Layer_icon_mobile" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.5 19.52">
+    <defs><style>.cls-1{stroke:#000;stroke-miterlimit:10;stroke-width:0.56px;}</style></defs>
+    <path class="cls-1" d="M19,17.83l-5.37-5.37a7.25,7.25,0,1,0-1.08,1.09l5.36,5.37a.39.39,0,0,0,.55,0l.54-.55A.38.38,0,0,0,19,17.83Zm-11-4.19a5.78,5.78,0,1,1,5.78-5.77A5.78,5.78,0,0,1,7.9,13.64Z"/>
+  </svg>
+
+            <span class="sr-only">Search</span>
+          </button>
+
+          
+                    <div x-show="!mobileMenuOpen" class="ml-8">
+            <button
+              class="button header__utility-button bg-lightGrey inline-flex items-center justify-center rounded-md hover:bg-gray-100 focus:bg-gray-100 transition duration-150 ease-in-out text-"
+              @click="openMobileMenu()"
+              aria-label="Open Mobile Menu"
+              type="button">
+                <svg class="h-6 w-6" id="Expand_icon_mobile" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 18.48">
+    <path d="M24,2.75H1.51A1.24,1.24,0,0,1,.25,1.51,1.24,1.24,0,0,1,1.51.28H24a1.24,1.24,0,1,1,0,2.47Z" transform="translate(-0.25 -0.28)"/>
+    <path d="M24,10.75H1.51a1.24,1.24,0,1,1,0-2.47H24a1.24,1.24,0,1,1,0,2.47Z" transform="translate(-0.25 -0.28)"/>
+    <path d="M24,18.75H1.51a1.24,1.24,0,1,1,0-2.47H24a1.24,1.24,0,1,1,0,2.47Z" transform="translate(-0.25 -0.28)"/>
+  </svg>
+
+              <span class="sr-only">Open Mobile Menu</span>
+            </button>
+          </div>
+
+                    <div x-show="mobileMenuOpen" class="flex ml-8">
+            <div>
+              <button
+                class="button header__utility-button bg-lightGrey inline-flex items-center justify-center rounded-md transition duration-150 ease-in-out text- js-close-mobile-menu"
+                @click="closeMobileMenu()"
+                aria-label="Close Mobile Menu"
+                type="button">
+                  <svg class="h-6 w-6" id="Close_icon_mobile" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 19">
+    <path d="M18.38,2.41l-16,16a1.26,1.26,0,0,1-1.78,0,1.26,1.26,0,0,1,0-1.77l16-16a1.24,1.24,0,1,1,1.76,1.76Z"/>
+    <path d="M18.38,16.62l-16-16A1.26,1.26,0,0,0,.63.64a1.26,1.26,0,0,0,0,1.77l16,16a1.24,1.24,0,1,0,1.76-1.76Z"/>
+  </svg>
+
+                <span class="sr-only">Close Mobile Menu</span>
+              </button>
+            </div>
+          </div>
+        </div>
+
+                <div class="container mx-auto hidden xl:flex justify-end items-center">
+          <a href="https://www.levelaccess.com/a/cityofmarkham/?utm_source=cityofmarkhamhomepg&amp;utm_medium=iconsmall&amp;utm_term=eachannelpage&amp;utm_content=footer&amp;utm_campaign=cityofmarkham" class="inline-block mr-12">
+            <img src="/themes/custom/markham/images/icons/level-access.svg" width="58" height="22px" alt="Markham in partnership with Level Access."/>
+          </a>
+
+          <ul class="flex mr-8">
+            <li><button type="button" href="#" class="high-contrast-toggle text-sm text-mainBlue inline-block mr-3 p-2">High Contrast</button></li>
+            <li class="gtranslate-container">
+              <button type="button" href="#" class="text-sm text-mainBlue inline-block p-2 gtranslate-trigger">Translate</button>
+              <div class="gtranslate-block" style="display:none;">
+                <div class="block--gtranslate-block">
+  
+    
+      
+<div class="gtranslate_wrapper"></div><script>window.gtranslateSettings = {"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline","float_switcher_open_direction":"top","switcher_open_direction":"bottom","default_language":"en","native_language_names":1,"detect_browser_language":0,"add_new_line":1,"select_language_label":"Select Language","flag_size":32,"flag_style":"2d","globe_size":60,"alt_flags":[],"wrapper_selector":".gtranslate_wrapper","url_structure":"none","custom_domains":null,"languages":["en","ar","bg","zh-CN","zh-TW","hr","cs","da","nl","fi","fr","de","el","hi","it","ja","ko","no","pl","pt","ro","ru","es","sv","ca","tl","iw","id","lv","lt","sr","sk","sl","uk","vi","sq","et","gl","hu","mt","th","tr","fa","af","ms","sw","ga","cy","be","is","mk","yi","hy","az","eu","ka","ht","ur","bn","bs","ceb","eo","gu","ha","hmn","ig","jw","kn","km","lo","la","mi","mr","mn","ne","pa","so","ta","te","yo","zu","my","ny","kk","mg","ml","si","st","su","tg","uz","am","co","haw","ku","ky","lb","ps","sm","gd","sn","sd","fy","xh"],"custom_css":""};</script><script>(function(){var js = document.createElement('script');js.setAttribute('src', 'https://cdn.gtranslate.net/widgets/latest/dropdown.js');js.setAttribute('data-gt-orig-url', '/about-city-markham/city-hall/regional-ward-councillors/jim-jones-regional-councillor');js.setAttribute('data-gt-orig-domain', 'www.markham.ca');document.body.appendChild(js);})();</script>
+  </div>
+
+              </div>
+            </li>
+          </ul>
+
+          <a href="/services/shopcart"
+             aria-label="Open shopping cart"
+             class="button header__utility-button bg-lightGrey content-center inline-flex items-center justify-center mr-4">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M14.4 14.4C14.4 15.288 13.688 16 12.8 16C12.3757 16 11.9687 15.8314 11.6686 15.5314C11.3686 15.2313 11.2 14.8243 11.2 14.4C11.2 13.512 11.912 12.8 12.8 12.8C13.2243 12.8 13.6313 12.9686 13.9314 13.2686C14.2314 13.5687 14.4 13.9757 14.4 14.4ZM4.8 12.8C3.912 12.8 3.2 13.512 3.2 14.4C3.2 14.8243 3.36857 15.2313 3.66863 15.5314C3.96869 15.8314 4.37565 16 4.8 16C5.688 16 6.4 15.288 6.4 14.4C6.4 13.512 5.688 12.8 4.8 12.8ZM4.96 10.104L4.936 10.2C4.936 10.312 5.024 10.4 5.136 10.4H14.4V12H4.8C4.37565 12 3.96869 11.8314 3.66863 11.5314C3.36857 11.2313 3.2 10.8243 3.2 10.4C3.2 10.12 3.272 9.856 3.392 9.632L4.48 7.672L1.6 1.6H0V0H2.616L3.368 1.6H15.2C15.64 1.6 16 1.96 16 2.4C16 2.536 15.96 2.672 15.904 2.8L13.04 7.976C12.768 8.464 12.24 8.8 11.64 8.8H5.68L4.96 10.104ZM6 7.2H7.2V5.6H5.248L6 7.2ZM8 5.6V7.2H10.4V5.6H8ZM10.4 4.8V3.2H8V4.8H10.4ZM12.888 5.6H11.2V7.2H12L12.888 5.6ZM14.224 3.2H11.2V4.8H13.336L14.224 3.2ZM4.112 3.2L4.864 4.8H7.2V3.2H4.112Z" fill="#2F353F"/>
+  </svg>
+
+            <span class="sr-only">Open shopping cart</span>
+          </a>
+
+          <button
+            class="button search__button header__utility-button bg-lightGrey content-center inline-flex items-center justify-center js-search-open"
+            aria-label="Search"
+            @click="openSearchModal(false)"
+            @focus="$dispatch('close-flyout');">
+              <svg class="w-3 h-3 fill-current text-black" id="Search_icon" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.5 19.52">
+    <defs><style>.cls-1{stroke:#000;stroke-miterlimit:10;stroke-width:0.56px;}</style></defs>
+    <path class="cls-1" d="M19,17.83l-5.37-5.37a7.25,7.25,0,1,0-1.08,1.09l5.36,5.37a.39.39,0,0,0,.55,0l.54-.55A.38.38,0,0,0,19,17.83Zm-11-4.19a5.78,5.78,0,1,1,5.78-5.77A5.78,5.78,0,0,1,7.9,13.64Z"/>
+  </svg>
+
+            <span class="sr-only">Search</span>
+          </button>
+
+          
+<nav class="flex items-center header__utility-simple-links ml-4" aria-label="Secondary desktop">
+                             <a href="https://www.markham.ca/moLogin?appname=Markham-Cognito" class="link--level-1 link inline-block text-xs font-normal text-white bg-brightBlue p-2" data-drupal-link-system-path="sc/mkmlogin">Sign in</a>
+            
+</nav>
+
+                  </div>
+      </div>
+            <div
+        x-description="Mobile menu, show/hide based on mobile menu state."
+        :class="{ 'hidden': ! mobileMenuOpen, 'js-mobile-menu-wrapper': true}"
+        x-transition:enter="duration-200 ease-out"
+        x-transition:enter-start="opacity-0 scale-95"
+        x-transition:enter-end="opacity-100 scale-100"
+        x-transition:leave="duration-100 ease-in"
+        x-transition:leave-start="opacity-100 scale-100"
+        x-transition:leave-end="opacity-0 scale-95"
+        class="absolute inset-x-0 top-full transition transform xl:hidden bg-veryLightGrey hidden mobile-menu-container z-20">
+        <div class="js-main-menu container mx-auto px-4 py-4">
+                    
+<nav class="block--main-mobile flex flex-col divide-y divide-borderGrey divide-opacity-50" aria-label="Main mobile" id="block-main-mobile" @mouseleave="$dispatch('close-flyout');">
+                                <div class="relative link__container--level-1-mobile text-normal text-black font-semibold">
+          <button @click="slideToggle()" class="button--level-1 group inline-flex items-center w-full items-center leading-6 px-4 py-3 transition ease-in-out duration-150" aria-expanded="false">
+            About The City of Markham
+            <div class="w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M3.9,14l-1.3-1.1L8.2,7L2.6,1.1L3.9,0l6.6,7L3.9,14z"/>
+      </svg>
+    </div>
+            <div class="hidden w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M0,4.4l1.1-1.3L7,8.6l5.9-5.6L14,4.4l-7,6.6L0,4.4z"/>
+      </svg>
+    </div>
+          </button>
+
+          <div class="link__toggle-mobile">
+            <div>
+                            <a href="/about-the-city-of-markham"
+                class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 text-normal leading-6 border-t border-b border-borderGrey border-opacity-50">
+                Overview
+              </a>
+
+                              <a href="/about-city-markham/city-hall" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  City Hall
+                </a>
+                              <a href="/about-city-markham/events" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Events
+                </a>
+                              <a href="/about-the-city-of-markham/corporate-asset-management" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Corporate Asset Management
+                </a>
+                              <a href="https://visitmarkham.ca/" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Destination Markham
+                </a>
+                              <a href="/diversity-equity-inclusion-and-accessibility" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Diversity, Equity, Inclusion and Accessibility
+                </a>
+                              <a href="/about-city-markham/donations" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Donations
+                </a>
+                              <a href="/about-city-markham/employment" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Employment
+                </a>
+                              <a href="/about-the-city-of-markham/markham-heritage" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Markham Heritage
+                </a>
+                              <a href="/about-the-city-of-markham/markhamnow" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Markham Now
+                </a>
+                              <a href="https://www.markham.ca/about-city-markham/millie-markhams-official-city-mascot" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Millie, Markham’s City Mascot
+                </a>
+                              <a href="/about-city-markham/open-data-markham" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Open Data
+                </a>
+                              <a href="/about-the-city-of-markham/renting-space" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Renting Space
+                </a>
+                              <a href="/about-city-markham/seniors-and-older-adults" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Seniors &amp; Older Adults
+                </a>
+                              <a href="/about-the-city-of-markham/sustainability" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Sustainability
+                </a>
+                              <a href="/about-the-city-of-markham/volunteering" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Volunteering
+                </a>
+                          </div>
+          </div>
+        </div>
+                        <div class="relative link__container--level-1-mobile text-normal text-black font-semibold">
+          <button @click="slideToggle()" class="button--level-1 group inline-flex items-center w-full items-center leading-6 px-4 py-3 transition ease-in-out duration-150" aria-expanded="false">
+            Arts, Culture &amp; Library
+            <div class="w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M3.9,14l-1.3-1.1L8.2,7L2.6,1.1L3.9,0l6.6,7L3.9,14z"/>
+      </svg>
+    </div>
+            <div class="hidden w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M0,4.4l1.1-1.3L7,8.6l5.9-5.6L14,4.4l-7,6.6L0,4.4z"/>
+      </svg>
+    </div>
+          </button>
+
+          <div class="link__toggle-mobile">
+            <div>
+                            <a href="/arts-culture-library"
+                class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 text-normal leading-6 border-t border-b border-borderGrey border-opacity-50">
+                Overview
+              </a>
+
+                              <a href="https://flatomarkhamtheatre.ca/" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Flato Markham Theatre
+                </a>
+                              <a href="/arts-culture-library/heintzman-house" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Heintzman House
+                </a>
+                              <a href="/arts-culture-library/markham-museum" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Markham Museum
+                </a>
+                              <a href="https://www.markhampubliclibrary.ca/" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Markham Public Library
+                </a>
+                              <a href="/arts-culture-library/public-art" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Public Art
+                </a>
+                              <a href="https://varleyartgallery.ca/" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Varley Art Gallery
+                </a>
+                          </div>
+          </div>
+        </div>
+                        <div class="relative link__container--level-1-mobile text-normal text-black font-semibold">
+          <button @click="slideToggle()" class="button--level-1 group inline-flex items-center w-full items-center leading-6 px-4 py-3 transition ease-in-out duration-150" aria-expanded="false">
+            Sports, Recreation &amp; Fitness
+            <div class="w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M3.9,14l-1.3-1.1L8.2,7L2.6,1.1L3.9,0l6.6,7L3.9,14z"/>
+      </svg>
+    </div>
+            <div class="hidden w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M0,4.4l1.1-1.3L7,8.6l5.9-5.6L14,4.4l-7,6.6L0,4.4z"/>
+      </svg>
+    </div>
+          </button>
+
+          <div class="link__toggle-mobile">
+            <div>
+                            <a href="/sports-recreation-fitness"
+                class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 text-normal leading-6 border-t border-b border-borderGrey border-opacity-50">
+                Overview
+              </a>
+
+                              <a href="/sports-recreation-fitness/sports-recreation-programs" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Sports &amp; Recreation Programs
+                </a>
+                              <a href="/sports-recreation-fitness/community-centres-libraries" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Community Centres &amp; Libraries
+                </a>
+                              <a href="/sports-recreation-fitness/fitness" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Fitness
+                </a>
+                              <a href="/sports-recreation-fitness/community-allotment-gardens" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Community &amp; Allotment Gardens
+                </a>
+                              <a href="https://www.markhampanamcentre.ca/" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Markham Pan Am Centre
+                </a>
+                              <a href="/sports-recreation-fitness/parks-trails" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Parks &amp; Trails
+                </a>
+                              <a href="/about-the-city-of-markham/renting-space" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Renting Space
+                </a>
+                              <a href="/sports-recreation-fitness/shinrin-yoku-forest-bathing-or-forest-therapy" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Shinrin Yoku, Forest Bathing or Forest Therapy
+                </a>
+                          </div>
+          </div>
+        </div>
+                        <div class="relative link__container--level-1-mobile text-normal text-black font-semibold">
+          <button @click="slideToggle()" class="button--level-1 group inline-flex items-center w-full items-center leading-6 px-4 py-3 transition ease-in-out duration-150" aria-expanded="false">
+            Neighbourhood Services
+            <div class="w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M3.9,14l-1.3-1.1L8.2,7L2.6,1.1L3.9,0l6.6,7L3.9,14z"/>
+      </svg>
+    </div>
+            <div class="hidden w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M0,4.4l1.1-1.3L7,8.6l5.9-5.6L14,4.4l-7,6.6L0,4.4z"/>
+      </svg>
+    </div>
+          </button>
+
+          <div class="link__toggle-mobile">
+            <div>
+                            <a href="/neighbourhood-services"
+                class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 text-normal leading-6 border-t border-b border-borderGrey border-opacity-50">
+                Overview
+              </a>
+
+                              <a href="/neighbourhood-services/environmental-conservation" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Environmental Conservation
+                </a>
+                              <a href="/neighbourhood-services/fire-services-emergency-preparedness" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Fire Services &amp; Emergency Preparedness
+                </a>
+                              <a href="/neighbourhood-services/good-neighbour-handbook" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Good Neighbour Handbook
+                </a>
+                              <a href="/about-city-markham/sustainability/sustainability-tips/keep-markham-beautiful" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Keep Markham Beautiful
+                </a>
+                              <a href="/neighbourhood-services/recycling-garbage" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Recycling &amp; Garbage
+                </a>
+                              <a href="/neighbourhood-services/roads-sidewalks" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Roads &amp; Sidewalks
+                </a>
+                              <a href="/neighbourhood-services/traffic" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Traffic
+                </a>
+                              <a href="https://www.markham.ca/neighbourhood-services/trees" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Trees
+                </a>
+                              <a href="/sports-recreation-fitness/parks-trails/walking-and-cycling" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Walking and Cycling
+                </a>
+                              <a href="/neighbourhood-services/water-sewer" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Water &amp; Sewer
+                </a>
+                          </div>
+          </div>
+        </div>
+                        <div class="relative link__container--level-1-mobile text-normal text-black font-semibold">
+          <button @click="slideToggle()" class="button--level-1 group inline-flex items-center w-full items-center leading-6 px-4 py-3 transition ease-in-out duration-150" aria-expanded="false">
+            Permits, Licences &amp; Taxes
+            <div class="w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M3.9,14l-1.3-1.1L8.2,7L2.6,1.1L3.9,0l6.6,7L3.9,14z"/>
+      </svg>
+    </div>
+            <div class="hidden w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M0,4.4l1.1-1.3L7,8.6l5.9-5.6L14,4.4l-7,6.6L0,4.4z"/>
+      </svg>
+    </div>
+          </button>
+
+          <div class="link__toggle-mobile">
+            <div>
+                            <a href="/permits-licences-taxes"
+                class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 text-normal leading-6 border-t border-b border-borderGrey border-opacity-50">
+                Overview
+              </a>
+
+                              <a href="/permits-licences-taxes/administrative-monetary-penalty-system" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Administrative Monetary Penalty System
+                </a>
+                              <a href="/permits-licences-taxes/animal-services" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Animal Services
+                </a>
+                              <a href="/about-the-city-of-markham/seniors-older-adults/government-services/cemeteries-burials" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Cemeteries &amp; Burials
+                </a>
+                              <a href="/permits-licences-taxes/licences-registrations" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Licences &amp; Registrations
+                </a>
+                              <a href="/permits-licences-taxes/parking" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Parking
+                </a>
+                              <a href="/permits-licences-taxes/permits" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Permits
+                </a>
+                              <a href="/permits-licences-taxes/property-taxes" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Property Taxes
+                </a>
+                              <a href="/permits-licences-taxes/wedding-services" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Wedding Services
+                </a>
+                          </div>
+          </div>
+        </div>
+                        <div class="relative link__container--level-1-mobile text-normal text-black font-semibold">
+          <button @click="slideToggle()" class="button--level-1 group inline-flex items-center w-full items-center leading-6 px-4 py-3 transition ease-in-out duration-150" aria-expanded="false">
+            Economic Development &amp; Business
+            <div class="w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M3.9,14l-1.3-1.1L8.2,7L2.6,1.1L3.9,0l6.6,7L3.9,14z"/>
+      </svg>
+    </div>
+            <div class="hidden w-3 h-3 ml-auto pointer-events-none">      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+           width="14px" height="14px" viewBox="0 0 14 14" style="enable-background:new 0 0 14 14;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M0,4.4l1.1-1.3L7,8.6l5.9-5.6L14,4.4l-7,6.6L0,4.4z"/>
+      </svg>
+    </div>
+          </button>
+
+          <div class="link__toggle-mobile">
+            <div>
+                            <a href="/economic-development-business"
+                class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 text-normal leading-6 border-t border-b border-borderGrey border-opacity-50">
+                Overview
+              </a>
+
+                              <a href="/economic-development-business/bids-tenders" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Bids &amp; Tenders
+                </a>
+                              <a href="/economic-development-business/building-permits" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Building Permits
+                </a>
+                              <a href="https://markhambusiness.ca/" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Economic Development
+                </a>
+                              <a href="/economic-development-business/planning-development-services" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Planning &amp; Development Services
+                </a>
+                              <a href="https://markhambusiness.ca/helping-businesses/small-business-services" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Small Business Help
+                </a>
+                              <a href="/economic-development-business/sponsorships-partnerships-advertising" class="link link--level-2 block px-8 py-3 space-y-1 transition ease-in-out duration-150 leading-6 border-b border-borderGrey border-opacity-50">
+                  Sponsorships, Partnerships &amp; Advertising
+                </a>
+                          </div>
+          </div>
+        </div>
+            
+</nav>
+        </div>
+                <div class="js-utility-menu utility--mobile container mx-auto px-4">
+          
+<nav class="flex flex-col divide-y divide-borderGrey divide-opacity-50 header__utility-simple-links--mobile text-normal text-black font-semibold"  aria-label="Secondary mobile">
+                                              <a href="https://www.markham.ca/moLogin?appname=Markham-Cognito" class="link--level-1 link px-4 py-3 border-b-2 border-transparent" data-drupal-link-system-path="sc/mkmlogin">Sign in</a>
+                    
+</nav>
+        </div>
+        
+
+        <div class="container mx-auto px-4">
+          <a href="https://www.levelaccess.com/a/cityofmarkham/?utm_source=cityofmarkhamhomepg&amp;utm_medium=iconsmall&amp;utm_term=eachannelpage&amp;utm_content=footer&amp;utm_campaign=cityofmarkham" class="w-full text-normal text-black font-semibold flex items-center px-4 py-3 border-t border-b border-borderGrey border-opacity-50 js-level-access">
+            <img src="/themes/custom/markham/images/icons/level-access.svg" width="58"
+                 height="22px"
+                 class="mr-2"
+                 alt="Markham in partnership with Level Access."/>
+            Markham in partnership with Level Access
+          </a>
+        </div>
+
+        <div class="container mx-auto px-4">
+          <button type="button" class="high-contrast-toggle w-full text-normal text-black font-semibold flex items-center px-4 py-3 border-t border-b border-borderGrey border-opacity-50 js-high-contrast">High Contrast</button>
+        </div>
+
+        <div class="gtranslate-container container mx-auto px-4 mb-4">
+          <button type="button" class="w-full text-normal text-black font-semibold flex items-center gtranslate-trigger px-4 py-3 border-b border-borderGrey border-opacity-50 js-translate-button">
+            <div class="mr-2">          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+               width="16px" height="17px" viewBox="0 0 16 17" style="enable-background:new 0 0 16 17;" xml:space="preserve">
+            <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M1.7,0.5C1.3,0.5,0.8,0.7,0.5,1C0.2,1.3,0,1.8,0,2.2
+              c0,0.3,0.3,0.6,0.6,0.6c0.3,0,0.6-0.3,0.6-0.6c0-0.2,0.1-0.3,0.2-0.4c0.1-0.1,0.3-0.2,0.4-0.2c0.3,0,0.6-0.3,0.6-0.6
+              C2.3,0.8,2,0.5,1.7,0.5z M1.1,10.2c0-0.3-0.3-0.6-0.6-0.6C0.3,9.6,0,9.9,0,10.2c0,0.5,0.2,0.9,0.5,1.2c0.3,0.3,0.8,0.5,1.2,0.5
+              c0.3,0,0.6-0.3,0.6-0.6c0-0.3-0.3-0.6-0.6-0.6c-0.2,0-0.3-0.1-0.4-0.2C1.2,10.5,1.1,10.4,1.1,10.2z M9.1,1.1c0-0.3,0.3-0.6,0.6-0.6
+              c0.5,0,0.9,0.2,1.2,0.5c0.3,0.3,0.5,0.8,0.5,1.2c0,0.3-0.3,0.6-0.6,0.6c-0.3,0-0.6-0.3-0.6-0.6c0-0.2-0.1-0.3-0.2-0.4
+              C10,1.7,9.9,1.6,9.7,1.6C9.4,1.6,9.1,1.4,9.1,1.1z M4.6,0.5C4.3,0.5,4,0.8,4,1.1c0,0.3,0.3,0.6,0.6,0.6h2.3c0.3,0,0.6-0.3,0.6-0.6
+              c0-0.3-0.3-0.6-0.6-0.6H4.6z M0.6,4.5c0.3,0,0.6,0.3,0.6,0.6v2.3c0,0.3-0.3,0.6-0.6,0.6C0.3,7.9,0,7.7,0,7.4V5.1
+              C0,4.8,0.3,4.5,0.6,4.5z M10.9,5.1c-0.3,0-0.6,0.3-0.6,0.6v4.6c0,0.2-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.2-0.4,0.2H5.1
+              c-0.3,0-0.6,0.3-0.6,0.6v3.4c0,0.5,0.2,0.9,0.5,1.2c0.3,0.3,0.8,0.5,1.2,0.5h8c0.5,0,0.9-0.2,1.2-0.5c0.3-0.3,0.5-0.8,0.5-1.2v-8
+              c0-0.5-0.2-0.9-0.5-1.2c-0.3-0.3-0.8-0.5-1.2-0.5H10.9z M11.4,10.2v-4h2.9c0.2,0,0.3,0.1,0.4,0.2c0.1,0.1,0.2,0.3,0.2,0.4v8
+              c0,0.2-0.1,0.3-0.2,0.4c-0.1,0.1-0.3,0.2-0.4,0.2h-8c-0.2,0-0.3-0.1-0.4-0.2c-0.1-0.1-0.2-0.3-0.2-0.4v-2.9h4c0.5,0,0.9-0.2,1.2-0.5
+              C11.2,11.1,11.4,10.7,11.4,10.2z"/>
+          </svg>
+        </div>Translate
+          </button>
+          <div class="gtranslate-block" style="display:none;">
+            <div class="block--gtranslate-block">
+  
+    
+      
+<div class="gtranslate_wrapper"></div><script>window.gtranslateSettings = {"switcher_horizontal_position":"left","switcher_vertical_position":"bottom","horizontal_position":"inline","vertical_position":"inline","float_switcher_open_direction":"top","switcher_open_direction":"bottom","default_language":"en","native_language_names":1,"detect_browser_language":0,"add_new_line":1,"select_language_label":"Select Language","flag_size":32,"flag_style":"2d","globe_size":60,"alt_flags":[],"wrapper_selector":".gtranslate_wrapper","url_structure":"none","custom_domains":null,"languages":["en","ar","bg","zh-CN","zh-TW","hr","cs","da","nl","fi","fr","de","el","hi","it","ja","ko","no","pl","pt","ro","ru","es","sv","ca","tl","iw","id","lv","lt","sr","sk","sl","uk","vi","sq","et","gl","hu","mt","th","tr","fa","af","ms","sw","ga","cy","be","is","mk","yi","hy","az","eu","ka","ht","ur","bn","bs","ceb","eo","gu","ha","hmn","ig","jw","kn","km","lo","la","mi","mr","mn","ne","pa","so","ta","te","yo","zu","my","ny","kk","mg","ml","si","st","su","tg","uz","am","co","haw","ku","ky","lb","ps","sm","gd","sn","sd","fy","xh"],"custom_css":""};</script><script>(function(){var js = document.createElement('script');js.setAttribute('src', 'https://cdn.gtranslate.net/widgets/latest/dropdown.js');js.setAttribute('data-gt-orig-url', '/about-city-markham/city-hall/regional-ward-councillors/jim-jones-regional-councillor');js.setAttribute('data-gt-orig-domain', 'www.markham.ca');document.body.appendChild(js);})();</script>
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <div class="container mx-auto px-4">
+    
+<nav class="block--main hidden xl:flex justify-end items-center space-x-10" aria-label="Main desktop" id="block-main" @mouseleave="$dispatch('close-flyout');">
+    
+  
+                                  <div  class="header__desktop-menu-item menu-item menu-item--expanded menu-item--active-trail">
+          <div x-data="{
+            flyoutMenuOpen: false,
+            keydownCb: null,
+            tabKeypressHandlerSetup() {
+              this.keydownCb = (e) => {
+                const KEYCODE_TAB = 9;
+                if (e.key !== 'Tab' && e.keyCode !== KEYCODE_TAB) {
+                  return;
+                }
+
+                const menuItemContainer = e.target.closest('.menu-item');
+
+                if (menuItemContainer) {
+                  const itemsContainer = menuItemContainer.querySelector('.header__desktop-menu-container')
+
+                  if (itemsContainer) {
+                    const items = itemsContainer.querySelectorAll('a, button');
+
+                    if (
+                      (e.shiftKey && document.activeElement === items[0])
+                      || (!e.shiftKey && document.activeElement === items[items.length - 1])
+                    ) {
+                      this.flyoutMenuOpen = false;
+                      this.tabKeypressHandlerRemove();
+                    }
+                  }
+                }
+              };
+
+              window.addEventListener('keydown', this.keydownCb);
+            },
+            tabKeypressHandlerRemove() {
+              if (typeof this.keydownCb === 'function') {
+                window.removeEventListener('keydown', this.keydownCb);
+              }
+            },
+            setupListeners(container, dispatch) {
+              const SPACE = 32;
+              const ENTER = 13;
+
+              container.querySelectorAll('.js-main-menu-first-level-item')
+                .forEach(item => {
+                  item.addEventListener('keydown', (e) => {
+                    if ([ENTER, SPACE].includes(e.which) || ['Enter', 'Space'].includes(e.key)) {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      dispatch('close-flyout');
+                      this.flyoutMenuOpen = true;
+
+                      const menuLinkContainer = e.target.closest('.js-link-container');
+
+                      setTimeout(() => menuLinkContainer.querySelector('.js-flyout-container a').focus());
+                    }
+
+                    this.handleLeftRightArrows(e, dispatch);
+                  });
+                });
+
+              const allContainerLinks = container.querySelectorAll('a');
+              allContainerLinks.forEach(link => link.addEventListener('keydown', (e) => {
+                if (this.flyoutMenuOpen) {
+                  this.handleUpDownArrows(e, [...allContainerLinks], dispatch);
+                }
+              }));
+            },
+
+            handleUpDownArrows(e, allContainerLinks, dispatch) {
+              const ARROW_UP = 38;
+              const ARROW_DOWN = 40;
+
+              if ([ARROW_UP, ARROW_DOWN].includes(e.which) || ['ArrowUp', 'ArrowDown'].includes(e.key)) {
+                let nextItem = null;
+                let currentLinkIdx = allContainerLinks.findIndex(el => el === e.target);
+
+                if ([ARROW_UP].includes(e.which) || ['ArrowUp'].includes(e.key)) {
+                  nextItem = currentLinkIdx > 0
+                    ? allContainerLinks[currentLinkIdx - 1]
+                    : allContainerLinks[allContainerLinks.length - 1];
+                }
+
+                if ([ARROW_DOWN].includes(e.which) || ['ArrowDown'].includes(e.key)) {
+                  nextItem = currentLinkIdx < allContainerLinks.length - 1
+                    ? allContainerLinks[currentLinkIdx + 1]
+                    : allContainerLinks[0];
+                }
+
+                if (nextItem) {
+                  nextItem.focus();
+                }
+              }
+            },
+
+            handleLeftRightArrows(e, dispatch) {
+              const ARROW_LEFT = 37;
+              const ARROW_RIGHT = 39;
+
+              if ([ARROW_LEFT, ARROW_RIGHT].includes(e.which) || ['ArrowLeft', 'ArrowRight'].includes(e.key)) {
+                let nextItem = null;
+                dispatch('close-flyout');
+
+                if ([ARROW_LEFT].includes(e.which) || ['ArrowLeft'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').previousElementSibling;
+
+                  if (!nextItem) {
+                    const menuItems = e.target.closest('.block--main').children;
+                    nextItem = menuItems[menuItems.length - 1];
+                  }
+                }
+
+                if ([ARROW_RIGHT].includes(e.which) || ['ArrowRight'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').nextElementSibling;
+
+                  if (!nextItem) {
+                    nextItem = e.target.closest('.block--main').children[0];
+                  }
+                }
+
+                if (nextItem) {
+                  nextItem.querySelector('.js-main-menu-first-level-item').focus();
+                }
+              }
+            },
+          }"
+          @keyup.away="flyoutMenuOpen = false"
+          @close-flyout.window="flyoutMenuOpen = false; tabKeypressHandlerRemove()"
+          class="relative link__container--level-1 js-link-container"
+          x-init="setupListeners($el, $dispatch)"
+          >
+                        <a href="/about-the-city-of-markham" class="link--level-1 header__desktop-menu-level-1 link uppercase group inline-flex items-center space-x-2 leading-19px py-4 font-medium focus:outline-none hover:no-underline focus:no-underline transition ease-in-out duration-150 text-text js-main-menu-first-level-item" @mouseenter="$dispatch(&#039;close-flyout&#039;); flyoutMenuOpen = true;" @keyup.escape.window="$dispatch(&#039;close-flyout&#039;);" x-state:on="Item active" x-state:off="Item inactive" :aria-expanded="flyoutMenuOpen ? &quot;true&quot; : &quot;false&quot;" aria-haspopup="true" data-drupal-link-system-path="node/30469">About The City of Markham</a>
+
+                                    <div class="bg-white header__desktop-menu-container absolute transform left-0 translate-x-23/100-negative px-2 w-screen max-w-300 sm:px-0 js-flyout-container"
+                 x-description="Flyout menu, show/hide based on flyout menu state."
+
+                 @mouseleave="flyoutMenuOpen = false;"
+                 x-show="flyoutMenuOpen" :class="flyoutMenuOpen ? 'flyout_open' : ''"
+                 x-transition:enter="transition ease-out duration-200"
+                 x-transition:enter-start="opacity-0 translate-y-1"
+                 x-transition:enter-end="opacity-100 translate-y-0"
+                 x-transition:leave="transition ease-in"
+                 x-transition:leave-start="opacity-100 translate-y-0"
+                 x-transition:leave-end="opacity-0 translate-y-1"
+                 style="display:none;">
+              <div class="shadow-lg">
+                <div class="ring-1 ring-black ring-opacity-5 overflow-hidden">
+                  <ul class="z-20 relative grid gap-0 px-6 py-2 divide-y" role="list">
+                                                              <li role="listitem">
+                        <a href="/about-city-markham/city-hall" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30504">City Hall</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-city-markham/events" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30621">Events</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-the-city-of-markham/corporate-asset-management" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30720">Corporate Asset Management</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="https://visitmarkham.ca/" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Destination Markham</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/diversity-equity-inclusion-and-accessibility" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30647">Diversity, Equity, Inclusion and Accessibility</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-city-markham/donations" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/5190561">Donations</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-city-markham/employment" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30705">Employment</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-the-city-of-markham/markham-heritage" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30662">Markham Heritage</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-the-city-of-markham/markhamnow" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/420881">Markham Now</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="https://www.markham.ca/about-city-markham/millie-markhams-official-city-mascot" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Millie, Markham’s City Mascot</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-city-markham/open-data-markham" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30718">Open Data</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-the-city-of-markham/renting-space" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30846">Renting Space</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-city-markham/seniors-and-older-adults" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30650">Seniors &amp; Older Adults</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-the-city-of-markham/sustainability" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30683">Sustainability</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-the-city-of-markham/volunteering" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30644">Volunteering</a>
+                      </li>
+                                      </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+                                      <div  class="header__desktop-menu-item menu-item menu-item--expanded">
+          <div x-data="{
+            flyoutMenuOpen: false,
+            keydownCb: null,
+            tabKeypressHandlerSetup() {
+              this.keydownCb = (e) => {
+                const KEYCODE_TAB = 9;
+                if (e.key !== 'Tab' && e.keyCode !== KEYCODE_TAB) {
+                  return;
+                }
+
+                const menuItemContainer = e.target.closest('.menu-item');
+
+                if (menuItemContainer) {
+                  const itemsContainer = menuItemContainer.querySelector('.header__desktop-menu-container')
+
+                  if (itemsContainer) {
+                    const items = itemsContainer.querySelectorAll('a, button');
+
+                    if (
+                      (e.shiftKey && document.activeElement === items[0])
+                      || (!e.shiftKey && document.activeElement === items[items.length - 1])
+                    ) {
+                      this.flyoutMenuOpen = false;
+                      this.tabKeypressHandlerRemove();
+                    }
+                  }
+                }
+              };
+
+              window.addEventListener('keydown', this.keydownCb);
+            },
+            tabKeypressHandlerRemove() {
+              if (typeof this.keydownCb === 'function') {
+                window.removeEventListener('keydown', this.keydownCb);
+              }
+            },
+            setupListeners(container, dispatch) {
+              const SPACE = 32;
+              const ENTER = 13;
+
+              container.querySelectorAll('.js-main-menu-first-level-item')
+                .forEach(item => {
+                  item.addEventListener('keydown', (e) => {
+                    if ([ENTER, SPACE].includes(e.which) || ['Enter', 'Space'].includes(e.key)) {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      dispatch('close-flyout');
+                      this.flyoutMenuOpen = true;
+
+                      const menuLinkContainer = e.target.closest('.js-link-container');
+
+                      setTimeout(() => menuLinkContainer.querySelector('.js-flyout-container a').focus());
+                    }
+
+                    this.handleLeftRightArrows(e, dispatch);
+                  });
+                });
+
+              const allContainerLinks = container.querySelectorAll('a');
+              allContainerLinks.forEach(link => link.addEventListener('keydown', (e) => {
+                if (this.flyoutMenuOpen) {
+                  this.handleUpDownArrows(e, [...allContainerLinks], dispatch);
+                }
+              }));
+            },
+
+            handleUpDownArrows(e, allContainerLinks, dispatch) {
+              const ARROW_UP = 38;
+              const ARROW_DOWN = 40;
+
+              if ([ARROW_UP, ARROW_DOWN].includes(e.which) || ['ArrowUp', 'ArrowDown'].includes(e.key)) {
+                let nextItem = null;
+                let currentLinkIdx = allContainerLinks.findIndex(el => el === e.target);
+
+                if ([ARROW_UP].includes(e.which) || ['ArrowUp'].includes(e.key)) {
+                  nextItem = currentLinkIdx > 0
+                    ? allContainerLinks[currentLinkIdx - 1]
+                    : allContainerLinks[allContainerLinks.length - 1];
+                }
+
+                if ([ARROW_DOWN].includes(e.which) || ['ArrowDown'].includes(e.key)) {
+                  nextItem = currentLinkIdx < allContainerLinks.length - 1
+                    ? allContainerLinks[currentLinkIdx + 1]
+                    : allContainerLinks[0];
+                }
+
+                if (nextItem) {
+                  nextItem.focus();
+                }
+              }
+            },
+
+            handleLeftRightArrows(e, dispatch) {
+              const ARROW_LEFT = 37;
+              const ARROW_RIGHT = 39;
+
+              if ([ARROW_LEFT, ARROW_RIGHT].includes(e.which) || ['ArrowLeft', 'ArrowRight'].includes(e.key)) {
+                let nextItem = null;
+                dispatch('close-flyout');
+
+                if ([ARROW_LEFT].includes(e.which) || ['ArrowLeft'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').previousElementSibling;
+
+                  if (!nextItem) {
+                    const menuItems = e.target.closest('.block--main').children;
+                    nextItem = menuItems[menuItems.length - 1];
+                  }
+                }
+
+                if ([ARROW_RIGHT].includes(e.which) || ['ArrowRight'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').nextElementSibling;
+
+                  if (!nextItem) {
+                    nextItem = e.target.closest('.block--main').children[0];
+                  }
+                }
+
+                if (nextItem) {
+                  nextItem.querySelector('.js-main-menu-first-level-item').focus();
+                }
+              }
+            },
+          }"
+          @keyup.away="flyoutMenuOpen = false"
+          @close-flyout.window="flyoutMenuOpen = false; tabKeypressHandlerRemove()"
+          class="relative link__container--level-1 js-link-container"
+          x-init="setupListeners($el, $dispatch)"
+          >
+                        <a href="/arts-culture-library" class="link--level-1 header__desktop-menu-level-1 link uppercase group inline-flex items-center space-x-2 leading-19px py-4 font-medium focus:outline-none hover:no-underline focus:no-underline transition ease-in-out duration-150 text-text js-main-menu-first-level-item" @mouseenter="$dispatch(&#039;close-flyout&#039;); flyoutMenuOpen = true;" @keyup.escape.window="$dispatch(&#039;close-flyout&#039;);" x-state:on="Item active" x-state:off="Item inactive" :aria-expanded="flyoutMenuOpen ? &quot;true&quot; : &quot;false&quot;" aria-haspopup="true" data-drupal-link-system-path="node/30724">Arts, Culture &amp; Library</a>
+
+                                    <div class="bg-white header__desktop-menu-container absolute transform left-0 translate-x-23/100-negative px-2 w-screen max-w-300 sm:px-0 js-flyout-container"
+                 x-description="Flyout menu, show/hide based on flyout menu state."
+
+                 @mouseleave="flyoutMenuOpen = false;"
+                 x-show="flyoutMenuOpen" :class="flyoutMenuOpen ? 'flyout_open' : ''"
+                 x-transition:enter="transition ease-out duration-200"
+                 x-transition:enter-start="opacity-0 translate-y-1"
+                 x-transition:enter-end="opacity-100 translate-y-0"
+                 x-transition:leave="transition ease-in"
+                 x-transition:leave-start="opacity-100 translate-y-0"
+                 x-transition:leave-end="opacity-0 translate-y-1"
+                 style="display:none;">
+              <div class="shadow-lg">
+                <div class="ring-1 ring-black ring-opacity-5 overflow-hidden">
+                  <ul class="z-20 relative grid gap-0 px-6 py-2 divide-y" role="list">
+                                                              <li role="listitem">
+                        <a href="https://flatomarkhamtheatre.ca/" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Flato Markham Theatre</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/arts-culture-library/heintzman-house" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30782">Heintzman House</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/arts-culture-library/markham-museum" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30726">Markham Museum</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="https://www.markhampubliclibrary.ca/" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Markham Public Library</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/arts-culture-library/public-art" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30794">Public Art</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="https://varleyartgallery.ca/" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Varley Art Gallery</a>
+                      </li>
+                                      </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+                                      <div  class="header__desktop-menu-item menu-item menu-item--expanded">
+          <div x-data="{
+            flyoutMenuOpen: false,
+            keydownCb: null,
+            tabKeypressHandlerSetup() {
+              this.keydownCb = (e) => {
+                const KEYCODE_TAB = 9;
+                if (e.key !== 'Tab' && e.keyCode !== KEYCODE_TAB) {
+                  return;
+                }
+
+                const menuItemContainer = e.target.closest('.menu-item');
+
+                if (menuItemContainer) {
+                  const itemsContainer = menuItemContainer.querySelector('.header__desktop-menu-container')
+
+                  if (itemsContainer) {
+                    const items = itemsContainer.querySelectorAll('a, button');
+
+                    if (
+                      (e.shiftKey && document.activeElement === items[0])
+                      || (!e.shiftKey && document.activeElement === items[items.length - 1])
+                    ) {
+                      this.flyoutMenuOpen = false;
+                      this.tabKeypressHandlerRemove();
+                    }
+                  }
+                }
+              };
+
+              window.addEventListener('keydown', this.keydownCb);
+            },
+            tabKeypressHandlerRemove() {
+              if (typeof this.keydownCb === 'function') {
+                window.removeEventListener('keydown', this.keydownCb);
+              }
+            },
+            setupListeners(container, dispatch) {
+              const SPACE = 32;
+              const ENTER = 13;
+
+              container.querySelectorAll('.js-main-menu-first-level-item')
+                .forEach(item => {
+                  item.addEventListener('keydown', (e) => {
+                    if ([ENTER, SPACE].includes(e.which) || ['Enter', 'Space'].includes(e.key)) {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      dispatch('close-flyout');
+                      this.flyoutMenuOpen = true;
+
+                      const menuLinkContainer = e.target.closest('.js-link-container');
+
+                      setTimeout(() => menuLinkContainer.querySelector('.js-flyout-container a').focus());
+                    }
+
+                    this.handleLeftRightArrows(e, dispatch);
+                  });
+                });
+
+              const allContainerLinks = container.querySelectorAll('a');
+              allContainerLinks.forEach(link => link.addEventListener('keydown', (e) => {
+                if (this.flyoutMenuOpen) {
+                  this.handleUpDownArrows(e, [...allContainerLinks], dispatch);
+                }
+              }));
+            },
+
+            handleUpDownArrows(e, allContainerLinks, dispatch) {
+              const ARROW_UP = 38;
+              const ARROW_DOWN = 40;
+
+              if ([ARROW_UP, ARROW_DOWN].includes(e.which) || ['ArrowUp', 'ArrowDown'].includes(e.key)) {
+                let nextItem = null;
+                let currentLinkIdx = allContainerLinks.findIndex(el => el === e.target);
+
+                if ([ARROW_UP].includes(e.which) || ['ArrowUp'].includes(e.key)) {
+                  nextItem = currentLinkIdx > 0
+                    ? allContainerLinks[currentLinkIdx - 1]
+                    : allContainerLinks[allContainerLinks.length - 1];
+                }
+
+                if ([ARROW_DOWN].includes(e.which) || ['ArrowDown'].includes(e.key)) {
+                  nextItem = currentLinkIdx < allContainerLinks.length - 1
+                    ? allContainerLinks[currentLinkIdx + 1]
+                    : allContainerLinks[0];
+                }
+
+                if (nextItem) {
+                  nextItem.focus();
+                }
+              }
+            },
+
+            handleLeftRightArrows(e, dispatch) {
+              const ARROW_LEFT = 37;
+              const ARROW_RIGHT = 39;
+
+              if ([ARROW_LEFT, ARROW_RIGHT].includes(e.which) || ['ArrowLeft', 'ArrowRight'].includes(e.key)) {
+                let nextItem = null;
+                dispatch('close-flyout');
+
+                if ([ARROW_LEFT].includes(e.which) || ['ArrowLeft'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').previousElementSibling;
+
+                  if (!nextItem) {
+                    const menuItems = e.target.closest('.block--main').children;
+                    nextItem = menuItems[menuItems.length - 1];
+                  }
+                }
+
+                if ([ARROW_RIGHT].includes(e.which) || ['ArrowRight'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').nextElementSibling;
+
+                  if (!nextItem) {
+                    nextItem = e.target.closest('.block--main').children[0];
+                  }
+                }
+
+                if (nextItem) {
+                  nextItem.querySelector('.js-main-menu-first-level-item').focus();
+                }
+              }
+            },
+          }"
+          @keyup.away="flyoutMenuOpen = false"
+          @close-flyout.window="flyoutMenuOpen = false; tabKeypressHandlerRemove()"
+          class="relative link__container--level-1 js-link-container"
+          x-init="setupListeners($el, $dispatch)"
+          >
+                        <a href="/sports-recreation-fitness" class="link--level-1 header__desktop-menu-level-1 link uppercase group inline-flex items-center space-x-2 leading-19px py-4 font-medium focus:outline-none hover:no-underline focus:no-underline transition ease-in-out duration-150 text-text js-main-menu-first-level-item" @mouseenter="$dispatch(&#039;close-flyout&#039;); flyoutMenuOpen = true;" @keyup.escape.window="$dispatch(&#039;close-flyout&#039;);" x-state:on="Item active" x-state:off="Item inactive" :aria-expanded="flyoutMenuOpen ? &quot;true&quot; : &quot;false&quot;" aria-haspopup="true" data-drupal-link-system-path="node/30795">Sports, Recreation &amp; Fitness</a>
+
+                                    <div class="bg-white header__desktop-menu-container absolute transform right-0 translate-x-23/100 px-2 w-screen max-w-300 sm:px-0 js-flyout-container"
+                 x-description="Flyout menu, show/hide based on flyout menu state."
+
+                 @mouseleave="flyoutMenuOpen = false;"
+                 x-show="flyoutMenuOpen" :class="flyoutMenuOpen ? 'flyout_open' : ''"
+                 x-transition:enter="transition ease-out duration-200"
+                 x-transition:enter-start="opacity-0 translate-y-1"
+                 x-transition:enter-end="opacity-100 translate-y-0"
+                 x-transition:leave="transition ease-in"
+                 x-transition:leave-start="opacity-100 translate-y-0"
+                 x-transition:leave-end="opacity-0 translate-y-1"
+                 style="display:none;">
+              <div class="shadow-lg">
+                <div class="ring-1 ring-black ring-opacity-5 overflow-hidden">
+                  <ul class="z-20 relative grid gap-0 px-6 py-2 divide-y" role="list">
+                                                              <li role="listitem">
+                        <a href="/sports-recreation-fitness/sports-recreation-programs" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/3315876">Sports &amp; Recreation Programs</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/sports-recreation-fitness/community-centres-libraries" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30797">Community Centres &amp; Libraries</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/sports-recreation-fitness/fitness" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30823">Fitness</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/sports-recreation-fitness/community-allotment-gardens" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30698">Community &amp; Allotment Gardens</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="https://www.markhampanamcentre.ca/" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Markham Pan Am Centre</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/sports-recreation-fitness/parks-trails" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30830">Parks &amp; Trails</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-the-city-of-markham/renting-space" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30846">Renting Space</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/sports-recreation-fitness/shinrin-yoku-forest-bathing-or-forest-therapy" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30844">Shinrin Yoku, Forest Bathing or Forest Therapy</a>
+                      </li>
+                                      </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+                                      <div  class="header__desktop-menu-item menu-item menu-item--expanded">
+          <div x-data="{
+            flyoutMenuOpen: false,
+            keydownCb: null,
+            tabKeypressHandlerSetup() {
+              this.keydownCb = (e) => {
+                const KEYCODE_TAB = 9;
+                if (e.key !== 'Tab' && e.keyCode !== KEYCODE_TAB) {
+                  return;
+                }
+
+                const menuItemContainer = e.target.closest('.menu-item');
+
+                if (menuItemContainer) {
+                  const itemsContainer = menuItemContainer.querySelector('.header__desktop-menu-container')
+
+                  if (itemsContainer) {
+                    const items = itemsContainer.querySelectorAll('a, button');
+
+                    if (
+                      (e.shiftKey && document.activeElement === items[0])
+                      || (!e.shiftKey && document.activeElement === items[items.length - 1])
+                    ) {
+                      this.flyoutMenuOpen = false;
+                      this.tabKeypressHandlerRemove();
+                    }
+                  }
+                }
+              };
+
+              window.addEventListener('keydown', this.keydownCb);
+            },
+            tabKeypressHandlerRemove() {
+              if (typeof this.keydownCb === 'function') {
+                window.removeEventListener('keydown', this.keydownCb);
+              }
+            },
+            setupListeners(container, dispatch) {
+              const SPACE = 32;
+              const ENTER = 13;
+
+              container.querySelectorAll('.js-main-menu-first-level-item')
+                .forEach(item => {
+                  item.addEventListener('keydown', (e) => {
+                    if ([ENTER, SPACE].includes(e.which) || ['Enter', 'Space'].includes(e.key)) {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      dispatch('close-flyout');
+                      this.flyoutMenuOpen = true;
+
+                      const menuLinkContainer = e.target.closest('.js-link-container');
+
+                      setTimeout(() => menuLinkContainer.querySelector('.js-flyout-container a').focus());
+                    }
+
+                    this.handleLeftRightArrows(e, dispatch);
+                  });
+                });
+
+              const allContainerLinks = container.querySelectorAll('a');
+              allContainerLinks.forEach(link => link.addEventListener('keydown', (e) => {
+                if (this.flyoutMenuOpen) {
+                  this.handleUpDownArrows(e, [...allContainerLinks], dispatch);
+                }
+              }));
+            },
+
+            handleUpDownArrows(e, allContainerLinks, dispatch) {
+              const ARROW_UP = 38;
+              const ARROW_DOWN = 40;
+
+              if ([ARROW_UP, ARROW_DOWN].includes(e.which) || ['ArrowUp', 'ArrowDown'].includes(e.key)) {
+                let nextItem = null;
+                let currentLinkIdx = allContainerLinks.findIndex(el => el === e.target);
+
+                if ([ARROW_UP].includes(e.which) || ['ArrowUp'].includes(e.key)) {
+                  nextItem = currentLinkIdx > 0
+                    ? allContainerLinks[currentLinkIdx - 1]
+                    : allContainerLinks[allContainerLinks.length - 1];
+                }
+
+                if ([ARROW_DOWN].includes(e.which) || ['ArrowDown'].includes(e.key)) {
+                  nextItem = currentLinkIdx < allContainerLinks.length - 1
+                    ? allContainerLinks[currentLinkIdx + 1]
+                    : allContainerLinks[0];
+                }
+
+                if (nextItem) {
+                  nextItem.focus();
+                }
+              }
+            },
+
+            handleLeftRightArrows(e, dispatch) {
+              const ARROW_LEFT = 37;
+              const ARROW_RIGHT = 39;
+
+              if ([ARROW_LEFT, ARROW_RIGHT].includes(e.which) || ['ArrowLeft', 'ArrowRight'].includes(e.key)) {
+                let nextItem = null;
+                dispatch('close-flyout');
+
+                if ([ARROW_LEFT].includes(e.which) || ['ArrowLeft'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').previousElementSibling;
+
+                  if (!nextItem) {
+                    const menuItems = e.target.closest('.block--main').children;
+                    nextItem = menuItems[menuItems.length - 1];
+                  }
+                }
+
+                if ([ARROW_RIGHT].includes(e.which) || ['ArrowRight'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').nextElementSibling;
+
+                  if (!nextItem) {
+                    nextItem = e.target.closest('.block--main').children[0];
+                  }
+                }
+
+                if (nextItem) {
+                  nextItem.querySelector('.js-main-menu-first-level-item').focus();
+                }
+              }
+            },
+          }"
+          @keyup.away="flyoutMenuOpen = false"
+          @close-flyout.window="flyoutMenuOpen = false; tabKeypressHandlerRemove()"
+          class="relative link__container--level-1 js-link-container"
+          x-init="setupListeners($el, $dispatch)"
+          >
+                        <a href="/neighbourhood-services" class="link--level-1 header__desktop-menu-level-1 link uppercase group inline-flex items-center space-x-2 leading-19px py-4 font-medium focus:outline-none hover:no-underline focus:no-underline transition ease-in-out duration-150 text-text js-main-menu-first-level-item" @mouseenter="$dispatch(&#039;close-flyout&#039;); flyoutMenuOpen = true;" @keyup.escape.window="$dispatch(&#039;close-flyout&#039;);" x-state:on="Item active" x-state:off="Item inactive" :aria-expanded="flyoutMenuOpen ? &quot;true&quot; : &quot;false&quot;" aria-haspopup="true" data-drupal-link-system-path="node/30847">Neighbourhood Services</a>
+
+                                    <div class="bg-white header__desktop-menu-container absolute transform right-0 translate-x-23/100 px-2 w-screen max-w-300 sm:px-0 js-flyout-container"
+                 x-description="Flyout menu, show/hide based on flyout menu state."
+
+                 @mouseleave="flyoutMenuOpen = false;"
+                 x-show="flyoutMenuOpen" :class="flyoutMenuOpen ? 'flyout_open' : ''"
+                 x-transition:enter="transition ease-out duration-200"
+                 x-transition:enter-start="opacity-0 translate-y-1"
+                 x-transition:enter-end="opacity-100 translate-y-0"
+                 x-transition:leave="transition ease-in"
+                 x-transition:leave-start="opacity-100 translate-y-0"
+                 x-transition:leave-end="opacity-0 translate-y-1"
+                 style="display:none;">
+              <div class="shadow-lg">
+                <div class="ring-1 ring-black ring-opacity-5 overflow-hidden">
+                  <ul class="z-20 relative grid gap-0 px-6 py-2 divide-y" role="list">
+                                                              <li role="listitem">
+                        <a href="/neighbourhood-services/environmental-conservation" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30921">Environmental Conservation</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/neighbourhood-services/fire-services-emergency-preparedness" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30941">Fire Services &amp; Emergency Preparedness</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/neighbourhood-services/good-neighbour-handbook" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/4025361">Good Neighbour Handbook</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-city-markham/sustainability/sustainability-tips/keep-markham-beautiful" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30958">Keep Markham Beautiful</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/neighbourhood-services/recycling-garbage" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30883">Recycling &amp; Garbage</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/neighbourhood-services/roads-sidewalks" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30848">Roads &amp; Sidewalks</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/neighbourhood-services/traffic" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30858">Traffic</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="https://www.markham.ca/neighbourhood-services/trees" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Trees</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/sports-recreation-fitness/parks-trails/walking-and-cycling" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30835">Walking and Cycling</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/neighbourhood-services/water-sewer" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30902">Water &amp; Sewer</a>
+                      </li>
+                                      </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+                                      <div  class="header__desktop-menu-item menu-item menu-item--expanded">
+          <div x-data="{
+            flyoutMenuOpen: false,
+            keydownCb: null,
+            tabKeypressHandlerSetup() {
+              this.keydownCb = (e) => {
+                const KEYCODE_TAB = 9;
+                if (e.key !== 'Tab' && e.keyCode !== KEYCODE_TAB) {
+                  return;
+                }
+
+                const menuItemContainer = e.target.closest('.menu-item');
+
+                if (menuItemContainer) {
+                  const itemsContainer = menuItemContainer.querySelector('.header__desktop-menu-container')
+
+                  if (itemsContainer) {
+                    const items = itemsContainer.querySelectorAll('a, button');
+
+                    if (
+                      (e.shiftKey && document.activeElement === items[0])
+                      || (!e.shiftKey && document.activeElement === items[items.length - 1])
+                    ) {
+                      this.flyoutMenuOpen = false;
+                      this.tabKeypressHandlerRemove();
+                    }
+                  }
+                }
+              };
+
+              window.addEventListener('keydown', this.keydownCb);
+            },
+            tabKeypressHandlerRemove() {
+              if (typeof this.keydownCb === 'function') {
+                window.removeEventListener('keydown', this.keydownCb);
+              }
+            },
+            setupListeners(container, dispatch) {
+              const SPACE = 32;
+              const ENTER = 13;
+
+              container.querySelectorAll('.js-main-menu-first-level-item')
+                .forEach(item => {
+                  item.addEventListener('keydown', (e) => {
+                    if ([ENTER, SPACE].includes(e.which) || ['Enter', 'Space'].includes(e.key)) {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      dispatch('close-flyout');
+                      this.flyoutMenuOpen = true;
+
+                      const menuLinkContainer = e.target.closest('.js-link-container');
+
+                      setTimeout(() => menuLinkContainer.querySelector('.js-flyout-container a').focus());
+                    }
+
+                    this.handleLeftRightArrows(e, dispatch);
+                  });
+                });
+
+              const allContainerLinks = container.querySelectorAll('a');
+              allContainerLinks.forEach(link => link.addEventListener('keydown', (e) => {
+                if (this.flyoutMenuOpen) {
+                  this.handleUpDownArrows(e, [...allContainerLinks], dispatch);
+                }
+              }));
+            },
+
+            handleUpDownArrows(e, allContainerLinks, dispatch) {
+              const ARROW_UP = 38;
+              const ARROW_DOWN = 40;
+
+              if ([ARROW_UP, ARROW_DOWN].includes(e.which) || ['ArrowUp', 'ArrowDown'].includes(e.key)) {
+                let nextItem = null;
+                let currentLinkIdx = allContainerLinks.findIndex(el => el === e.target);
+
+                if ([ARROW_UP].includes(e.which) || ['ArrowUp'].includes(e.key)) {
+                  nextItem = currentLinkIdx > 0
+                    ? allContainerLinks[currentLinkIdx - 1]
+                    : allContainerLinks[allContainerLinks.length - 1];
+                }
+
+                if ([ARROW_DOWN].includes(e.which) || ['ArrowDown'].includes(e.key)) {
+                  nextItem = currentLinkIdx < allContainerLinks.length - 1
+                    ? allContainerLinks[currentLinkIdx + 1]
+                    : allContainerLinks[0];
+                }
+
+                if (nextItem) {
+                  nextItem.focus();
+                }
+              }
+            },
+
+            handleLeftRightArrows(e, dispatch) {
+              const ARROW_LEFT = 37;
+              const ARROW_RIGHT = 39;
+
+              if ([ARROW_LEFT, ARROW_RIGHT].includes(e.which) || ['ArrowLeft', 'ArrowRight'].includes(e.key)) {
+                let nextItem = null;
+                dispatch('close-flyout');
+
+                if ([ARROW_LEFT].includes(e.which) || ['ArrowLeft'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').previousElementSibling;
+
+                  if (!nextItem) {
+                    const menuItems = e.target.closest('.block--main').children;
+                    nextItem = menuItems[menuItems.length - 1];
+                  }
+                }
+
+                if ([ARROW_RIGHT].includes(e.which) || ['ArrowRight'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').nextElementSibling;
+
+                  if (!nextItem) {
+                    nextItem = e.target.closest('.block--main').children[0];
+                  }
+                }
+
+                if (nextItem) {
+                  nextItem.querySelector('.js-main-menu-first-level-item').focus();
+                }
+              }
+            },
+          }"
+          @keyup.away="flyoutMenuOpen = false"
+          @close-flyout.window="flyoutMenuOpen = false; tabKeypressHandlerRemove()"
+          class="relative link__container--level-1 js-link-container"
+          x-init="setupListeners($el, $dispatch)"
+          >
+                        <a href="/permits-licences-taxes" class="link--level-1 header__desktop-menu-level-1 link uppercase group inline-flex items-center space-x-2 leading-19px py-4 font-medium focus:outline-none hover:no-underline focus:no-underline transition ease-in-out duration-150 text-text js-main-menu-first-level-item" @mouseenter="$dispatch(&#039;close-flyout&#039;); flyoutMenuOpen = true;" @keyup.escape.window="$dispatch(&#039;close-flyout&#039;);" x-state:on="Item active" x-state:off="Item inactive" :aria-expanded="flyoutMenuOpen ? &quot;true&quot; : &quot;false&quot;" aria-haspopup="true" data-drupal-link-system-path="node/30963">Permits, Licences &amp; Taxes</a>
+
+                                    <div class="bg-white header__desktop-menu-container absolute transform right-0 translate-x-23/100 px-2 w-screen max-w-300 sm:px-0 js-flyout-container"
+                 x-description="Flyout menu, show/hide based on flyout menu state."
+
+                 @mouseleave="flyoutMenuOpen = false;"
+                 x-show="flyoutMenuOpen" :class="flyoutMenuOpen ? 'flyout_open' : ''"
+                 x-transition:enter="transition ease-out duration-200"
+                 x-transition:enter-start="opacity-0 translate-y-1"
+                 x-transition:enter-end="opacity-100 translate-y-0"
+                 x-transition:leave="transition ease-in"
+                 x-transition:leave-start="opacity-100 translate-y-0"
+                 x-transition:leave-end="opacity-0 translate-y-1"
+                 style="display:none;">
+              <div class="shadow-lg">
+                <div class="ring-1 ring-black ring-opacity-5 overflow-hidden">
+                  <ul class="z-20 relative grid gap-0 px-6 py-2 divide-y" role="list">
+                                                              <li role="listitem">
+                        <a href="/permits-licences-taxes/administrative-monetary-penalty-system" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/31012">Administrative Monetary Penalty System</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/permits-licences-taxes/animal-services" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/320621">Animal Services</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/about-the-city-of-markham/seniors-older-adults/government-services/cemeteries-burials" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/31014">Cemeteries &amp; Burials</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/permits-licences-taxes/licences-registrations" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/31005">Licences &amp; Registrations</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/permits-licences-taxes/parking" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/31006">Parking</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/permits-licences-taxes/permits" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30986">Permits</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/permits-licences-taxes/property-taxes" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/30964">Property Taxes</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/permits-licences-taxes/wedding-services" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/320581">Wedding Services</a>
+                      </li>
+                                      </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+                                      <div  class="header__desktop-menu-item menu-item menu-item--expanded">
+          <div x-data="{
+            flyoutMenuOpen: false,
+            keydownCb: null,
+            tabKeypressHandlerSetup() {
+              this.keydownCb = (e) => {
+                const KEYCODE_TAB = 9;
+                if (e.key !== 'Tab' && e.keyCode !== KEYCODE_TAB) {
+                  return;
+                }
+
+                const menuItemContainer = e.target.closest('.menu-item');
+
+                if (menuItemContainer) {
+                  const itemsContainer = menuItemContainer.querySelector('.header__desktop-menu-container')
+
+                  if (itemsContainer) {
+                    const items = itemsContainer.querySelectorAll('a, button');
+
+                    if (
+                      (e.shiftKey && document.activeElement === items[0])
+                      || (!e.shiftKey && document.activeElement === items[items.length - 1])
+                    ) {
+                      this.flyoutMenuOpen = false;
+                      this.tabKeypressHandlerRemove();
+                    }
+                  }
+                }
+              };
+
+              window.addEventListener('keydown', this.keydownCb);
+            },
+            tabKeypressHandlerRemove() {
+              if (typeof this.keydownCb === 'function') {
+                window.removeEventListener('keydown', this.keydownCb);
+              }
+            },
+            setupListeners(container, dispatch) {
+              const SPACE = 32;
+              const ENTER = 13;
+
+              container.querySelectorAll('.js-main-menu-first-level-item')
+                .forEach(item => {
+                  item.addEventListener('keydown', (e) => {
+                    if ([ENTER, SPACE].includes(e.which) || ['Enter', 'Space'].includes(e.key)) {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      dispatch('close-flyout');
+                      this.flyoutMenuOpen = true;
+
+                      const menuLinkContainer = e.target.closest('.js-link-container');
+
+                      setTimeout(() => menuLinkContainer.querySelector('.js-flyout-container a').focus());
+                    }
+
+                    this.handleLeftRightArrows(e, dispatch);
+                  });
+                });
+
+              const allContainerLinks = container.querySelectorAll('a');
+              allContainerLinks.forEach(link => link.addEventListener('keydown', (e) => {
+                if (this.flyoutMenuOpen) {
+                  this.handleUpDownArrows(e, [...allContainerLinks], dispatch);
+                }
+              }));
+            },
+
+            handleUpDownArrows(e, allContainerLinks, dispatch) {
+              const ARROW_UP = 38;
+              const ARROW_DOWN = 40;
+
+              if ([ARROW_UP, ARROW_DOWN].includes(e.which) || ['ArrowUp', 'ArrowDown'].includes(e.key)) {
+                let nextItem = null;
+                let currentLinkIdx = allContainerLinks.findIndex(el => el === e.target);
+
+                if ([ARROW_UP].includes(e.which) || ['ArrowUp'].includes(e.key)) {
+                  nextItem = currentLinkIdx > 0
+                    ? allContainerLinks[currentLinkIdx - 1]
+                    : allContainerLinks[allContainerLinks.length - 1];
+                }
+
+                if ([ARROW_DOWN].includes(e.which) || ['ArrowDown'].includes(e.key)) {
+                  nextItem = currentLinkIdx < allContainerLinks.length - 1
+                    ? allContainerLinks[currentLinkIdx + 1]
+                    : allContainerLinks[0];
+                }
+
+                if (nextItem) {
+                  nextItem.focus();
+                }
+              }
+            },
+
+            handleLeftRightArrows(e, dispatch) {
+              const ARROW_LEFT = 37;
+              const ARROW_RIGHT = 39;
+
+              if ([ARROW_LEFT, ARROW_RIGHT].includes(e.which) || ['ArrowLeft', 'ArrowRight'].includes(e.key)) {
+                let nextItem = null;
+                dispatch('close-flyout');
+
+                if ([ARROW_LEFT].includes(e.which) || ['ArrowLeft'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').previousElementSibling;
+
+                  if (!nextItem) {
+                    const menuItems = e.target.closest('.block--main').children;
+                    nextItem = menuItems[menuItems.length - 1];
+                  }
+                }
+
+                if ([ARROW_RIGHT].includes(e.which) || ['ArrowRight'].includes(e.key)) {
+                  nextItem = e.target.closest('.menu-item').nextElementSibling;
+
+                  if (!nextItem) {
+                    nextItem = e.target.closest('.block--main').children[0];
+                  }
+                }
+
+                if (nextItem) {
+                  nextItem.querySelector('.js-main-menu-first-level-item').focus();
+                }
+              }
+            },
+          }"
+          @keyup.away="flyoutMenuOpen = false"
+          @close-flyout.window="flyoutMenuOpen = false; tabKeypressHandlerRemove()"
+          class="relative link__container--level-1 js-link-container"
+          x-init="setupListeners($el, $dispatch)"
+          >
+                        <a href="/economic-development-business" class="link--level-1 header__desktop-menu-level-1 link uppercase group inline-flex items-center space-x-2 leading-19px py-4 font-medium focus:outline-none hover:no-underline focus:no-underline transition ease-in-out duration-150 text-text js-main-menu-first-level-item" @mouseenter="$dispatch(&#039;close-flyout&#039;); flyoutMenuOpen = true;" @keyup.escape.window="$dispatch(&#039;close-flyout&#039;);" x-state:on="Item active" x-state:off="Item inactive" :aria-expanded="flyoutMenuOpen ? &quot;true&quot; : &quot;false&quot;" aria-haspopup="true" data-drupal-link-system-path="node/4013221">Economic Development &amp; Business</a>
+
+                                    <div class="bg-white header__desktop-menu-container absolute transform right-0 translate-x-23/100 px-2 w-screen max-w-300 sm:px-0 js-flyout-container"
+                 x-description="Flyout menu, show/hide based on flyout menu state."
+
+                 @mouseleave="flyoutMenuOpen = false;"
+                 x-show="flyoutMenuOpen" :class="flyoutMenuOpen ? 'flyout_open' : ''"
+                 x-transition:enter="transition ease-out duration-200"
+                 x-transition:enter-start="opacity-0 translate-y-1"
+                 x-transition:enter-end="opacity-100 translate-y-0"
+                 x-transition:leave="transition ease-in"
+                 x-transition:leave-start="opacity-100 translate-y-0"
+                 x-transition:leave-end="opacity-0 translate-y-1"
+                 style="display:none;">
+              <div class="shadow-lg">
+                <div class="ring-1 ring-black ring-opacity-5 overflow-hidden">
+                  <ul class="z-20 relative grid gap-0 px-6 py-2 divide-y" role="list">
+                                                              <li role="listitem">
+                        <a href="/economic-development-business/bids-tenders" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/31141">Bids &amp; Tenders</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/economic-development-business/building-permits" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/3315886">Building Permits</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="https://markhambusiness.ca/" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Economic Development</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/economic-development-business/planning-development-services" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/31056">Planning &amp; Development Services</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="https://markhambusiness.ca/helping-businesses/small-business-services" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text">Small Business Help</a>
+                      </li>
+                                          <li role="listitem">
+                        <a href="/economic-development-business/sponsorships-partnerships-advertising" class="link--level-2 link block leading-6 ease-in-out capitalize duration-150 py-3 space-y-1 transition font-normal text-text" data-drupal-link-system-path="node/31148">Sponsorships, Partnerships &amp; Advertising</a>
+                      </li>
+                                      </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+            
+</nav>
+  </div>
+
+    <div class="w-screen h-screen bg-veryLightGrey z-20 flex items-center justify-center hidden js-search-mobile-wrapper" :class="{ 'hidden': ! searchOpenMobile }">
+      <button aria-label="Close Search" class="header__search-close header__search-close--mobile button js-search-mobile-close absolute uppercase text-white flex items-center" @click="closeSearch(true)">
+      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" style="enable-background:new 0 0 30 30;" xml:space="preserve">
+        <path style="fill-rule:evenodd;clip-rule:evenodd;fill:#1E1F22;" d="M8,9.3L9.3,8l5.7,5.7L20.7,8L22,9.4L16.3,15l5.7,5.7L20.7,22 L15,16.3L9.3,22L8,20.7l5.7-5.7L8,9.3z"/>
+        <path style="fill:#676D78;" d="M27,30H3c-1.7,0-3-1.3-3-3V3c0-1.7,1.3-3,3-3h24c1.7,0,3,1.3,3,3v24C30,28.7,28.7,30,27,30z M3,1 C1.9,1,1,1.9,1,3v24c0,1.1,0.9,2,2,2h24c1.1,0,2-0.9,2-2V3c0-1.1-0.9-2-2-2H3z"/>
+      </svg>
+      <span class="sr-only">Close Search</span>
+    </button>
+
+    <dizv class="h-5/12 flex flex-col justify-between items-center">
+      <div class="bg-white p-8 rounded-lg shadow-lg space-y-4 markham-search-box-header">
+  <img src="/themes/custom/markham/images/logo.png" alt="City of Markham logo">
+  <div class="views-exposed-form bef-exposed-form block--views-exposed-filter-block" data-drupal-selector="views-exposed-form-search-content-page-1" id="block-markham-exposedformsearch-contentpage-1">
+    
+        
+          <form action="/search" method="get" id="views-exposed-form-search-content-page-1" accept-charset="UTF-8">
+  <div class="search-summary"></div><div class="search-box"><div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-keys js-form-item-keys">
+      
+        <input placeholder="What are you looking for?" data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" class="form-text" aria-label="Search"/>
+
+        </div>
+<div data-drupal-selector="edit-actions" class="button js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search-content" type="submit" id="edit-submit-search-content" value="Search" class="button js-form-submit form-submit" />
+</div>
+</div>
+
+</form>
+
+      </div>
+</div>
+
+    </dizv>
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main class="grow">
+    <a id="main-content" aria-hidden="true"></a>
+    <div class="layout-content">
+        <div>
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-markham-mainpagecontent" class="block--system-main-block">
+  
+    
+      
+
+<article data-history-node-id="99511" class="lb-in-use">
+
+  
+    
+
+  
+  <div>
+      <div class="container mx-auto px-4 no-container-content layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+<div class="block--system-breadcrumb-block">
+  
+  
+          
+<div class="container mx-auto px-4 mt-10 mb-10 breadcrumb-wrapper">
+  <nav class="flex" aria-label="Breadcrumb">
+    <ol class="text-black font-light flex flex-wrap">
+                                                        <li class="breadcrumb-item breadcrumb-item--with-link"><a href="/about-the-city-of-markham" class="leading-6 font-light text-black hover:text-mainBlue">About The City of Markham</a></li>
+                                                                  <li class="breadcrumb-item breadcrumb-item--with-link"><a href="/about-city-markham/city-hall" class="leading-6 font-light text-black hover:text-mainBlue">City Hall</a></li>
+                                                                  <li class="breadcrumb-item breadcrumb-item--with-link"><a href="/about-city-markham/city-hall/regional-ward-councillors" class="leading-6 font-light text-black hover:text-mainBlue">Regional &amp; Ward Councillors</a></li>
+                                                                  <li
+                class="breadcrumb-item breadcrumb-item--no-link"
+                 aria-current="page"               >
+                <span class="leading-6 font-light text-black">Jim Jones, Regional Councillor</span>
+              </li>
+                                        </ol>
+  </nav>
+</div>
+  </div>
+
+<div class="block--field-block field-block--node--staff--title">
+  
+    
+
+            <h1>Jim Jones, Regional Councillor</h1>
+
+      </div>
+
+<div class="block--spacer block"><div class="spacer-block spacer-harorrejkl-702 d-flex justify-content-center"></div><style>.spacer-harorrejkl-702{height:40px;}@media (min-width: 640px) {.spacer-harorrejkl-702{height:;}}@media (min-width: 768px) {.spacer-harorrejkl-702{height:;}}@media (min-width: 1024px){.spacer-harorrejkl-702{height:;}}@media (min-width: 1280px) {.spacer-harorrejkl-702{height: ;}}</style></div>
+    </div>
+  </div>
+  <div class="container mx-auto px-4 no-container-content no-gaps layout--threecol-section--33-34-33 no-match-height layout layout--threecol-section">
+    
+    <div class="layout__region--container">
+              <div  class="committee-image-left-section layout__region layout__region--first">
+          
+<div class="block--field-block field-block--node--staff--field-staff-photo">
+  
+    
+
+            
+
+
+  <div class="field-container field-container--label--staff-photo field-container--entity-type--node field-container--name--field-staff-photo">
+    <div class="field-label visually-hidden">Staff Photo</div>
+              <div class="field-content field-content--label--staff-photo field-content--entity-type--node field-content--name--field-staff-photo"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image">  <img loading="lazy" src="/sites/default/files/styles/webp/public/2024-08/jim-jones_0.jpeg.webp?itok=Fn-9sNdT" width="300" height="330" alt="" />
+
+
+</div>
+      
+  </div>
+</div>
+          </div>
+
+      </div>
+
+        </div>
+      
+              <div  class="pd-x-16 pd-y-32 bg-white committee-right-info-section layout__region layout__region--second">
+          
+<div class="block--field-block field-block--node--staff--field-mailing-address">
+  
+      <h1>Mailing Address</h1>
+    
+
+            
+
+
+  <div class="field-container field-container--label--mailing-address field-container--entity-type--node field-container--name--field-mailing-address">
+    <div class="field-label visually-hidden">Mailing Address</div>
+              <div class="field-content field-content--label--mailing-address field-content--entity-type--node field-content--name--field-mailing-address"><p class="address" translate="no"><span class="address-line1">101 Town Centre Boulevard</span><br>
+<span class="locality">Markham</span> <span class="administrative-area">ON</span> <span class="postal-code">L3R 9W3</span><br>
+<span class="country">Canada</span></p></div>
+          </div>
+
+      </div>
+
+<div class="block--field-block field-block--node--staff--field-phone-number">
+  
+      <h1>Phone:</h1>
+    
+
+            
+
+
+  <div class="field-container field-container--label--phone-number field-container--entity-type--node field-container--name--field-phone-number">
+    <div class="field-label visually-hidden">Phone Number</div>
+              <div class="field-content field-content--label--phone-number field-content--entity-type--node field-content--name--field-phone-number"><a href="tel:905.479.7757">905.479.7757</a></div>
+          </div>
+
+      </div>
+
+<div class="block--field-block field-block--node--staff--field-email">
+  
+      <h1>Email:</h1>
+    
+
+            
+
+
+  <div class="field-container field-container--label--email field-container--entity-type--node field-container--name--field-email">
+    <div class="field-label visually-hidden">Email</div>
+              <div class="field-content field-content--label--email field-content--entity-type--node field-content--name--field-email"><a href="mailto:jjones@markham.ca">jjones@markham.ca</a></div>
+          </div>
+
+      </div>
+<div class="block--simple-block">
+  
+    
+      <div class="block--spacer"><div class="spacer-block d-flex justify-content-center" style="height:40px"></div></div>
+  </div>
+
+<div class="block--basic">
+  
+    
+
+            
+
+
+            <div class="formatted-text field-content field-content--label--body field-content--entity-type--block-content field-content--name--body"><p><a href="https://www.jimjones.ca/">Visit Regional Councillor, Jim Jones' website.</a></p></div>
+      
+      </div>
+
+        </div>
+      
+              <div  class="pd-x-16 pd-t-32-lg pd-b-32 bg-white committee-right-info-section-2 layout__region layout__region--third">
+          
+<div class="block--field-block field-block--node--staff--field-executive-assitant">
+  
+      <h1>Executive Assistant</h1>
+    
+
+            
+
+
+  <div class="field-container field-container--label--executive-assistant field-container--entity-type--node field-container--name--field-executive-assitant">
+    <div class="field-label visually-hidden">Executive Assistant</div>
+              <div class="field-content field-content--label--executive-assistant field-content--entity-type--node field-content--name--field-executive-assitant">Lara Coombs</div>
+          </div>
+
+      </div>
+
+<div class="block--field-block field-block--node--staff--field-phone-2">
+  
+      <h1>Phone:</h1>
+    
+
+            
+
+
+  <div class="field-container field-container--label--phone-2 field-container--entity-type--node field-container--name--field-phone-2">
+    <div class="field-label visually-hidden">Phone 2</div>
+              <div class="field-content field-content--label--phone-2 field-content--entity-type--node field-content--name--field-phone-2"><a href="tel:905.475.4882">905.475.4882</a></div>
+          </div>
+
+      </div>
+
+<div class="block--field-block field-block--node--staff--field-email-2">
+  
+      <h1>Email:</h1>
+    
+
+            
+
+
+  <div class="field-container field-container--label--email-2 field-container--entity-type--node field-container--name--field-email-2">
+    <div class="field-label visually-hidden">Email 2</div>
+              <div class="field-content field-content--label--email-2 field-content--entity-type--node field-content--name--field-email-2"><a href="mailto:lcoombs@markham.ca">lcoombs@markham.ca</a></div>
+          </div>
+
+      </div>
+
+        </div>
+          </div>
+  </div>
+  <div class="container mx-auto px-4 no-container-content layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+<div class="block--spacer block block--spacer-40px"><div class="spacer-block spacer-tabalkicpe-568 d-flex justify-content-center"></div><style>.spacer-tabalkicpe-568{height:40px;}@media (min-width: 640px) {.spacer-tabalkicpe-568{height:;}}@media (min-width: 768px) {.spacer-tabalkicpe-568{height:;}}@media (min-width: 1024px){.spacer-tabalkicpe-568{height:;}}@media (min-width: 1280px) {.spacer-tabalkicpe-568{height: ;}}</style></div>
+<div class="block--basic">
+  
+    
+
+            
+
+
+            <div class="formatted-text field-content field-content--label--body field-content--entity-type--block-content field-content--name--body"><dl class="ckeditor-accordion"><dt>Committee Involvement</dt><dd><p><strong>Standing Committees</strong></p><ul><li>Markham Council</li><li>General Committee</li><li>Chair, Development Services Committee<br>&nbsp;</li></ul><p><strong>Advisory Boards and Committees</strong></p><ul><li>Theatre Advisory Board<br>&nbsp;</li></ul><p><strong>Statutory and other Committees</strong></p><ul><li>Communications Committee and Information Technology Sub-Committee</li><li>Cornell Hub Committee</li><li>Landgstaff Implementation Committee</li><li>Licensing Committee</li><li>Parking Advisory Committee</li><li>Toronto Liaison Committee (Chair)</li><li>Yonge Subway Advisory Task Force</li><li>York Regional Council, Committees &amp; Boards</li></ul></dd><dt>Transit Oriented Communities</dt><dd><p><span>For more information on why planning at the Corridor Level is important, please read </span><a href="/sites/default/files/2024-07/Stouffville%2BImagination%2B-%2BAvenir%2Bv4.TOC_.pdf" data-entity-type="file" data-entity-uuid="abbc08e2-5e36-4cf9-aa3d-880089418a8a" data-entity-substitution="file" title="Stouffville+Imagination+-+Avenir+v4.TOC_.pdf">Creating A Complete Destination Transit Oriented Development Interactive Corridor Economy</a><span>.&nbsp;</span></p></dd><dt>GTA Crosstown</dt><dd><p><span>To learn more about Regional Councillor Jones' vision for an east west light rail transit corridor with transit oriented communities at each stop, please visit </span><a href="http://www.jimjones.ca/">www.jimjones.ca</a><span>.&nbsp; Coming soon to this portal as well!</span></p></dd><dt>Ward Map - <span>Electoral Wards 2022-2026</span></dt><dd><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image">  <img loading="lazy" src="/sites/default/files/styles/webp/public/2024-08/City-of-Markham-Ward-Map-2024.png.webp?itok=LlvaAVOo" width="1366" height="838" alt="City of Markham Ward Map">
+
+
+</div>
+      
+  </div>
+</dd></dl></div>
+      
+      </div>
+
+    </div>
+  </div>
+  <div class="container mx-auto px-4 containerize-content mr-y-56 bg-lightGrey committee-personal-message layout layout--onecol-section">
+    
+    <div class="layout__region--container">
+              <div  class="layout__region layout__region--first">
+          
+        </div>
+          </div>
+  </div>
+  <div class="no-container no-container-content layout--no-bottom-gap layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+<div class="block--mayor-social-icons-block match-against">
+  
+    
+      <div class="connect-with-mayor-social-icons relative w-full match-height bg-darkGreen">
+  <div class="connect-with-mayor-social-icons relative container mx-auto">
+
+    <div class="md:pl-10 px-6 py-10 lg:px-8 flex justify-evenly flex-col">
+
+                  
+
+
+      
+
+  <h2
+    class="heading mb-8 uppercase text-white"
+      >
+    Connect with Regional Councillor, Jim Jones.
+  </h2>
+
+      <ul class="flex gap-4" role="list">
+                                                                                                                                                                                                                                                                                                                                                <li role="listitem">
+              <a href="mailto:jjones@markham.ca"
+                 aria-label="Connect with Regional Councillor, Jim Jones. Email me"
+                 target="_blank"
+                 rel='noreferrer noopener'>
+                
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--icon">
+  
+      
+
+
+            <div class="field-content field-content--label--icon-image field-content--entity-type--media field-content--name--field-icon-media-image">  <img loading="lazy" src="/sites/default/files/styles/medium/public/2023-12/Screenshot%20%2866%29%20%282%29.png.webp?itok=74OiRBEi" width="45" height="45" alt="" />
+
+
+</div>
+      
+  </div>
+</div>
+          </div>
+
+  
+                <span class="sr-only">Connect with Regional Councillor, Jim Jones. Email me</span>
+              </a>
+            </li>
+                                                            </ul>
+    </div>
+
+  </div>
+</div>
+  </div>
+
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+      <footer role="contentinfo" aria-label="Footer">
+        <div>
+    
+                                          
+  
+                                                    
+  
+
+                                                  
+                          
+                          
+                          
+                          
+                          
+                                
+          
+                                              
+                      
+          
+
+<div id="block-footer-2" class="block--footer-simple-settings">
+      
+<div class="footer-columns bg-text pt-16 pb-8 text-white text-xs">
+  <div class="container mx-auto px-4">
+
+    <div class="footer__columns lg:flex">
+      <div class="footer__left lg:w-1/2 mb-15 lg:mb-0 lg:pr-12">
+                <div class="mb-8">
+          
+
+
+            <div class="field-content field-content--label--footer-logo field-content--entity-type--block-content field-content--name--field-footer-logo">  <img loading="lazy" width="130" height="40" src="/sites/default/files/2023-04/logo-white.svg" alt="City of Markham logo" />
+
+</div>
+      
+        </div>
+
+                  <div class="mb-6">
+            
+
+
+            <div class="formatted-text field-content field-content--label--contact-info field-content--entity-type--block-content field-content--name--field-contact-info"><p><a style="color:white;font-size:14px;" href="https://www.markham.ca/contact-us">Contact us if you require accessible formats and communication supports.</a></p></div>
+      
+          </div>
+        
+        <div class="flex flex-wrap footer__social_links gap-4">
+                                  <a href="https://www.facebook.com/cityofmarkham"
+               class="bg-background rounded-full flex items-center justify-center"
+               aria-label="opens Facebook in a new window"
+               target="_blank"
+               rel='noreferrer noopener'>
+              
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="7" height="14" viewBox="0 0 7 14" fill="none">
+  <path d="M5.29685 2.92188C4.4156 2.92188 4.35935 3.2125 4.35935 3.76563L4.34998 4.94688H6.41247L6.16873 7H4.34998V13.1406H1.63123V7H0.271851V4.94688H1.6406V3.61563C1.6406 1.89063 2.40935 0.859375 4.58435 0.859375H6.43123V2.92188H5.29685Z" fill="#2F353F"></path>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+  
+              <span class="sr-only">opens Facebook in a new window</span>
+            </a>
+                                  <a href="https://x.com/cityofmarkham"
+               class="bg-background rounded-full flex items-center justify-center"
+               aria-label="opens Twitter in a new window"
+               target="_blank"
+               rel='noreferrer noopener'>
+              
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" id="Layer_2" version="1.1" viewBox="0 0 30 30">
+  <g id="Layer_21" data-name="Layer_2">
+    <path d="M22.6,3h3.9l-8.8,10.2,10.3,13.8h-8.1l-6.4-8.2-7.3,8.2h-3.9l9.5-10.9L1.9,3h8.2l5.7,7.5s6.7-7.5,6.7-7.5ZM21.3,24.5h2.2L9,5.4h-2.4l14.7,19.1Z"></path>
+  </g>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+  
+              <span class="sr-only">opens Twitter in a new window</span>
+            </a>
+                                  <a href="https://www.youtube.com/cityofmarkham"
+               class="bg-background rounded-full flex items-center justify-center"
+               aria-label="opens YouTube in a new window"
+               target="_blank"
+               rel='noreferrer noopener'>
+              
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12" fill="none">
+  <path d="M6.5 7.96875V3.65625L10.5313 5.8125L6.5 7.96875ZM13.4375 0.65625H2.84375C1.625 0.65625 0.6875 1.6875 0.6875 2.90625V9.09375C0.6875 10.3125 1.625 11.3438 2.84375 11.3438H13.4375C14.6562 11.3438 15.5938 10.3125 15.5938 9.09375V2.90625C15.5938 1.6875 14.6562 0.65625 13.4375 0.65625Z" fill="#2F353F"></path>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+  
+              <span class="sr-only">opens YouTube in a new window</span>
+            </a>
+                                  <a href="https://ca.linkedin.com/company/city-of-markham"
+               class="bg-background rounded-full flex items-center justify-center"
+               aria-label="opens LinkedIn in a new window"
+               target="_blank"
+               rel='noreferrer noopener'>
+              
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="13" height="12" viewBox="0 0 13 12" fill="none">
+  <path d="M3.26253 11.4562H0.543776V3.95623H3.26253V11.4562Z" fill="#2F353F"></path>
+  <path d="M1.14018 0.769837C1.3665 0.62057 1.63205 0.541876 1.90315 0.543733C2.08246 0.543729 2.25999 0.579198 2.42554 0.648099C2.59108 0.716999 2.74135 0.817969 2.8677 0.945193C2.99406 1.07242 3.09399 1.22338 3.16175 1.38939C3.22951 1.5554 3.26376 1.73318 3.26253 1.91248C3.26252 2.18359 3.182 2.4486 3.03118 2.67388C2.88036 2.89917 2.66604 3.0746 2.41539 3.17792C2.16473 3.28123 1.88904 3.30778 1.62328 3.25421C1.35751 3.20063 1.11365 3.06933 0.922603 2.87697C0.731558 2.68461 0.601942 2.43985 0.550192 2.17372C0.498442 1.90759 0.526889 1.63209 0.631926 1.38216C0.736962 1.13222 0.913857 0.919104 1.14018 0.769837Z" fill="#2F353F"></path>
+  <path d="M7.3594 5.16561C7.3594 5.16561 7.6219 3.94686 9.6469 3.94686H9.65628C11.2125 3.94686 12.1407 5.23123 12.15 7.35936V11.4469H9.4219V7.35936C9.4219 6.59061 9.18753 5.98123 8.53128 5.98123C7.36878 5.98123 7.36878 7.35936 7.36878 7.35936V11.4562H4.64065V3.95623H7.3594V5.16561Z" fill="#2F353F"></path>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+  
+              <span class="sr-only">opens LinkedIn in a new window</span>
+            </a>
+                                  <a href="https://www.flickr.com/photos/cityofmarkham/albums/"
+               class="bg-background rounded-full flex items-center justify-center"
+               aria-label="opens Flickr in a new window"
+               target="_blank"
+               rel='noreferrer noopener'>
+              
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="14" height="7" viewBox="0 0 14 7" fill="none">
+  <path d="M13.3398 4.80827C13.6622 4.32572 13.8343 3.75839 13.8343 3.17802V3.16865C13.8318 2.39203 13.5216 1.64806 12.9716 1.09979C12.4215 0.551512 11.6766 0.243644 10.9 0.243648C10.3196 0.243648 9.75225 0.415746 9.2697 0.73818C8.78714 1.06061 8.41104 1.5189 8.18894 2.05509C7.96685 2.59127 7.90874 3.18128 8.02196 3.75049C8.13518 4.3197 8.41466 4.84256 8.82504 5.25294C9.23541 5.66332 9.75827 5.94279 10.3275 6.05601C10.8967 6.16924 11.4867 6.11113 12.0229 5.88903C12.5591 5.66694 13.0174 5.29083 13.3398 4.80827Z" fill="#2F353F"></path>
+  <path d="M5.8398 4.80827C6.16223 4.32572 6.33433 3.75839 6.33433 3.17802L6.37183 3.16865C6.37062 2.78091 6.29258 2.39726 6.14222 2.03987C5.99186 1.68247 5.77217 1.35842 5.49582 1.08644C5.21948 0.814455 4.89198 0.599937 4.53224 0.455279C4.1725 0.31062 3.78766 0.238691 3.39995 0.243648C2.81959 0.243648 2.25226 0.415746 1.7697 0.73818C1.28715 1.06061 0.911039 1.5189 0.688943 2.05509C0.466847 2.59127 0.408737 3.18128 0.521961 3.75049C0.635184 4.3197 0.914656 4.84256 1.32504 5.25294C1.73542 5.66332 2.25827 5.94279 2.82748 6.05601C3.3967 6.16924 3.9867 6.11113 4.52289 5.88903C5.05908 5.66694 5.51736 5.29083 5.8398 4.80827Z" fill="#2F353F"></path>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+  
+              <span class="sr-only">opens Flickr in a new window</span>
+            </a>
+                                  <a href="https://www.instagram.com/cityofmarkham/"
+               class="bg-background rounded-full flex items-center justify-center"
+               aria-label="opens Instagram in a new window"
+               target="_blank"
+               rel='noreferrer noopener'>
+              
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" version="1.1" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st1 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .st2 {
+        fill: #ebeff2;
+      }
+
+      .st3 {
+        display: none;
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="30" height="30"></rect>
+    </clipPath>
+  </defs>
+  <g id="Layer_11" data-name="Layer_1" class="st3">
+    <g class="st4">
+      <g id="Social__x2F__Instagram.svg">
+        <g id="socialInstagram">
+          <circle id="Ellipse_1" class="st2" cx="15" cy="15" r="15"></circle>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Layer_2">
+    <g id="instagram">
+      <g id="Group_4546">
+        <path id="Vector" class="st1" d="M22.3,8.4c-.4,0-.5-.2-.5-.5s.2-.5.5-.5"></path>
+        <path id="Vector_2" class="st1" d="M22.3,8.4c.4,0,.5-.2.5-.5s-.2-.5-.5-.5"></path>
+      </g>
+      <path id="Rectangle_2" class="st1" d="M2.9,8c0-2.8,2.3-5.1,5.1-5.1h13.9c2.9,0,5.2,2.3,5.2,5.2v13.9c0,2.9-2.3,5.2-5.2,5.2h-13.9c-2.9,0-5.2-2.3-5.2-5.2v-13.9h0Z"></path>
+      <path id="Ellipse_11" class="st1" d="M10,15c0,2.9,2.3,5.2,5.2,5.2s5.2-2.3,5.2-5.2-2.3-5.2-5.2-5.2-5.2,2.3-5.2,5.2"></path>
+    </g>
+  </g>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+  
+              <span class="sr-only">opens Instagram in a new window</span>
+            </a>
+                                  <a href="/services/enews"
+               class="bg-background rounded-full flex items-center justify-center"
+               aria-label="opens Email in a new window"
+               target="_blank"
+               rel='noreferrer noopener'>
+              
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="18" height="12" viewBox="0 0 18 12" fill="none">
+  <path d="M10.875 6L12.75 7.6875L16.5 11.0625M16.5 11.0625H1.5M16.5 11.0625V0.9375M1.5 11.0625L5.25 7.6875L7.125 6M1.5 11.0625V0.9375M1.5 0.9375L5.25 4.3125L7.875 6.65625C8.53125 7.21875 9.46875 7.21875 10.125 6.65625L12.75 4.3125L16.5 0.9375M1.5 0.9375H16.5" stroke="#2F353F" stroke-width="1.17188" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+  
+              <span class="sr-only">opens Email in a new window</span>
+            </a>
+                  </div>
+      </div>
+
+      <div class="footer__right lg:w-1/2 lg:pl-12 md:flex">
+                
+        <div id="footer-menus" class="flex flex-wrap w-full container lg:w-3/4 lg:pr-12 border-l border-grey pl-2 mb-8 lg:mb-0">
+                                  <ul class="footer-menu md:flex-col md:items-center md:columns-2 md:relative" role="list">
+                                              <li role="listitem">
+                  
+
+      
+
+  <a
+    class="inline-block text-black text-base transition ease-in-out link pt-3 pb-3 inline-block mr-4 md:mr-0 md:flex md:flex-col text-white md:px-2"
+    href="/contact-us"
+      >
+          Contact Us
+      </a>
+                </li>
+                                              <li role="listitem">
+                  
+
+      
+
+  <a
+    class="inline-block text-black text-base transition ease-in-out link pt-3 pb-3 inline-block mr-4 md:mr-0 md:flex md:flex-col text-white md:px-2"
+    href="/social-media"
+      >
+          Social Media
+      </a>
+                </li>
+                                              <li role="listitem">
+                  
+
+      
+
+  <a
+    class="inline-block text-black text-base transition ease-in-out link pt-3 pb-3 inline-block mr-4 md:mr-0 md:flex md:flex-col text-white md:px-2"
+    href="/services"
+      >
+          Services A-Z
+      </a>
+                </li>
+                                              <li role="listitem">
+                  
+
+      
+
+  <a
+    class="inline-block text-black text-base transition ease-in-out link pt-3 pb-3 inline-block mr-4 md:mr-0 md:flex md:flex-col text-white md:px-2"
+    href="/sitemap"
+      >
+          Site Map
+      </a>
+                </li>
+                                              <li role="listitem">
+                  
+
+      
+
+  <a
+    class="inline-block text-black text-base transition ease-in-out link pt-3 pb-3 inline-block mr-4 md:mr-0 md:flex md:flex-col text-white md:px-2"
+    href="/diversity-equity-inclusion-and-accessibility"
+      >
+          Accessibility &amp; Diversity
+      </a>
+                </li>
+                                              <li role="listitem">
+                  
+
+      
+
+  <a
+    class="inline-block text-black text-base transition ease-in-out link pt-3 pb-3 inline-block mr-4 md:mr-0 md:flex md:flex-col text-white md:px-2"
+    href="/about-city-markham/employment"
+      >
+          Employment
+      </a>
+                </li>
+                                              <li role="listitem">
+                  
+
+      
+
+  <a
+    class="inline-block text-black text-base transition ease-in-out link pt-3 pb-3 inline-block mr-4 md:mr-0 md:flex md:flex-col text-white md:px-2"
+    href="/about-the-city-of-markham/volunteering"
+      >
+          Volunteering
+      </a>
+                </li>
+                                              <li role="listitem">
+                  
+
+      
+
+  <a
+    class="inline-block text-black text-base transition ease-in-out link pt-3 pb-3 inline-block mr-4 md:mr-0 md:flex md:flex-col text-white md:px-2"
+    href="/about-city-markham/terms-use-privacy-policy"
+      >
+          Terms of Use &amp; Privacy Policy
+      </a>
+                </li>
+                            <div class="footer-menu__divider hidden md:block absolute top-0 h-full bg-grey"></div>
+            </ul>
+                  </div>
+
+        <ul class="lg:w-1/4 lg:pl-4 flex md:block items-center justify-between">
+                      <li>
+              <a href="/online-services" class="flex pt-3 pb-4">
+                
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="12" height="16" viewBox="0 0 12 16" fill="none">
+  <path d="M3.872 13.5306C4.00913 13.5306 4.14318 13.4899 4.2572 13.4137C4.37122 13.3375 4.46008 13.2293 4.51256 13.1026C4.56504 12.9759 4.57877 12.8365 4.55201 12.702C4.52526 12.5675 4.45923 12.4439 4.36226 12.347C4.2653 12.25 4.14176 12.184 4.00727 12.1572C3.87277 12.1305 3.73337 12.1442 3.60668 12.1967C3.47999 12.2492 3.3717 12.338 3.29552 12.452C3.21933 12.5661 3.17867 12.7001 3.17867 12.8372C3.17867 13.0211 3.25172 13.1975 3.38174 13.3275C3.51177 13.4575 3.68812 13.5306 3.872 13.5306ZM10.9333 0.431901C10.8506 0.395142 10.7572 0.390628 10.6713 0.419246C10.5855 0.447863 10.5134 0.507544 10.4693 0.586567C9.69067 1.77057 8.66134 2.87457 6.784 1.81323C5.71734 1.21057 5.00267 1.4079 4.50667 1.7119C4.25142 1.87783 4.03464 2.09646 3.8709 2.35312C3.70715 2.60977 3.60024 2.8985 3.55734 3.1999C2.6066 3.27761 1.71994 3.71029 1.07366 4.4119C0.427387 5.11351 0.0688457 6.03266 0.0693364 6.98657V11.8239C0.0693364 12.3233 0.167695 12.8178 0.358797 13.2791C0.549899 13.7405 0.830001 14.1597 1.18311 14.5128C1.53622 14.8659 1.95542 15.146 2.41679 15.3371C2.87815 15.5282 3.37263 15.6266 3.872 15.6266C4.37138 15.6266 4.86586 15.5282 5.32722 15.3371C5.78858 15.146 6.20778 14.8659 6.56089 14.5128C6.914 14.1597 7.19411 13.7405 7.38521 13.2791C7.57631 12.8178 7.67467 12.3233 7.67467 11.8239V6.9599C7.66908 6.02269 7.31758 5.12056 6.68762 4.42663C6.05767 3.73269 5.19364 3.29584 4.26134 3.1999C4.34562 2.83743 4.56745 2.52189 4.88 2.3199C5.376 2.0159 5.70134 2.05857 6.48 2.45323C6.90127 2.7058 7.37566 2.85659 7.86544 2.89362C8.35522 2.93066 8.84688 2.85291 9.30134 2.66657C10.1014 2.32462 10.7418 1.69179 11.0933 0.895901C11.1133 0.854938 11.1251 0.810429 11.1279 0.764924C11.1307 0.719419 11.1244 0.673811 11.1096 0.630711C11.0947 0.587611 11.0715 0.547865 11.0413 0.513751C11.011 0.479636 10.9743 0.451822 10.9333 0.431901ZM6.98134 11.8026C6.98134 12.6272 6.65375 13.4181 6.07063 14.0012C5.48752 14.5843 4.69665 14.9119 3.872 14.9119C3.04736 14.9119 2.25649 14.5843 1.67337 14.0012C1.09026 13.4181 0.76267 12.6272 0.76267 11.8026V7.9999H6.98134V11.8026ZM6.98134 6.96523V7.3119H0.76267V6.96523C0.761837 6.20003 1.0432 5.46139 1.55292 4.89067C2.06263 4.31994 2.7649 3.95721 3.52534 3.8719V7.30657H4.21867V3.8719C4.97819 3.95711 5.67972 4.31908 6.18931 4.88868C6.6989 5.45828 6.98086 6.19562 6.98134 6.9599V6.96523Z" fill="#7ACD5E"></path>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+   <span class="ml-4">Online services</span>
+              </a>
+            </li>
+                      <li>
+              <a href="/about-city-markham/access-markham-mobile-app" class="flex pt-3 pb-4">
+                
+      
+
+
+  <div class="field-container field-container--label--icon field-container--entity-type--paragraph field-container--name--field-media">
+    <div class="field-label visually-hidden">Icon</div>
+              <div class="field-content field-content--label--icon field-content--entity-type--paragraph field-content--name--field-media"><div class="media--image">
+  
+      
+            <div class="field-content image media field-media-image"><svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="10" height="16" viewBox="0 0 10 16" fill="none">
+  <path d="M8.76001 3.14673V12.6401" stroke="#7ACD5E" stroke-miterlimit="10"></path>
+  <path d="M0.65332 12.6399V14.2932C0.65332 14.7199 1.02665 15.0932 1.45332 15.0932H7.95999C8.38665 15.0932 8.75999 14.7199 8.75999 14.2932V12.6399" stroke="#7ACD5E" stroke-miterlimit="10"></path>
+  <path d="M0.65332 3.14673V12.6401" stroke="#7ACD5E" stroke-miterlimit="10"></path>
+  <path d="M8.75999 3.14667V1.97334C8.75999 1.54667 8.38665 1.17334 7.95999 1.17334H1.45332C1.02665 1.17334 0.65332 1.54667 0.65332 1.97334V3.14667V3.20001" stroke="#7ACD5E" stroke-miterlimit="10"></path>
+  <path d="M8.75999 3.14673H0.65332" stroke="#7ACD5E" stroke-miterlimit="10"></path>
+  <path d="M8.75999 12.6399H0.65332" stroke="#7ACD5E" stroke-miterlimit="10"></path>
+  <path d="M4.70654 14.4534C5.03055 14.4534 5.29321 14.1907 5.29321 13.8667C5.29321 13.5427 5.03055 13.28 4.70654 13.28C4.38253 13.28 4.11987 13.5427 4.11987 13.8667C4.11987 14.1907 4.38253 14.4534 4.70654 14.4534Z" fill="#7ACD5E"></path>
+</svg></div>
+      
+  </div>
+</div>
+          </div>
+
+   <span class="ml-4">Mobile App</span>
+              </a>
+            </li>
+                  </ul>
+      </div>
+    </div>
+
+    <div class="footer__bottom mt-8 lg:mt-18 border-t border-grey pt-4">
+                  &copy; Copyright 2025 City of Markham. All Rights Reserved.​
+    </div>
+  </div>
+</div>
+  </div>
+<div id="block-markham-scrolltotop" class="block--block-scroll-to-top">
+  
+    
+      <a href="#markham-page-header" id="scroll-to-top" aria-label="Back to top" title="Scroll to top" class="fixed rounded-full bg-black inline-flex">
+  <span class="hidden md:inline-block">Back to top</span><i></i></a>
+  </div>
+
+  </div>
+
+    </footer>
+  
+    <div id="comm100-button-cbb6279f-8dec-4bcd-a7b2-7ec1d3944c2f"></div>
+  
+</div>
+  </div>
+
+    
+    
+    <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupal.js?v=10.3.13"></script>
+<script src="/core/misc/drupal.init.js?v=10.3.13"></script>
+<script src="/themes/custom/markham/js/section-margin-padding.js?t0o1lp"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/core/assets/vendor/tua-body-scroll-lock/tua-bsl.umd.min.js?v=10.3.13"></script>
+<script src="https://static.addtoany.com/menu/page.js" defer></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=10.3.13"></script>
+<script src="/core/misc/progress.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/debounce.js?v=10.3.13"></script>
+<script src="/core/misc/announce.js?v=10.3.13"></script>
+<script src="/core/misc/message.js?v=10.3.13"></script>
+<script src="/core/misc/ajax.js?v=10.3.13"></script>
+<script src="/modules/contrib/ajax_loader/js/ajax-throbber.js?v=1.x"></script>
+<script src="/themes/custom/markham/js/remove-id-from-autocomplete.js?t0o1lp"></script>
+<script src="/themes/custom/markham/js/wysiwyg-source-save-issue.js?t0o1lp"></script>
+<script src="/themes/custom/markham/js/live-preview-color-picker-helper.js?t0o1lp"></script>
+<script src="/themes/custom/markham/js/section-gradient.js?t0o1lp"></script>
+<script src="/themes/custom/markham/js/section-background-image.js?t0o1lp"></script>
+<script src="/themes/custom/markham/js/match-height.js?t0o1lp"></script>
+<script src="/themes/custom/markham/js/common.js?t0o1lp"></script>
+<script src="/themes/custom/markham/js/user.theme.js?t0o1lp"></script>
+<script src="/modules/contrib/google_tag/js/gtag.ajax.js?t0o1lp"></script>
+<script src="/themes/custom/markham/js/accordion.frontend.js?t0o1lp"></script>
+<script src="/core/misc/displace.js?v=10.3.13"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=10.3.13"></script>
+<script src="/core/misc/position.js?v=10.3.13"></script>
+<script src="/core/misc/dialog/dialog-deprecation.js?v=10.3.13"></script>
+<script src="/core/misc/dialog/dialog.js?v=10.3.13"></script>
+<script src="/core/misc/dialog/dialog.position.js?v=10.3.13"></script>
+<script src="/core/misc/dialog/dialog.jquery-ui.js?v=10.3.13"></script>
+<script src="/core/modules/ckeditor5/js/ckeditor5.dialog.fix.js?v=10.3.13"></script>
+<script src="/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.5"></script>
+<script src="/modules/custom/mo_session_manager/js/mo_post_logout.js?v=10.3.13"></script>
+<script src="/themes/custom/markham/js/chatbot.js?t0o1lp"></script>
+<script src="/modules/custom/markham_custom/js/scroll-to-top.js?t0o1lp"></script>
+<script src="/modules/contrib/better_exposed_filters/js/better_exposed_filters.js?t0o1lp"></script>
+
+  </body>
+</html>

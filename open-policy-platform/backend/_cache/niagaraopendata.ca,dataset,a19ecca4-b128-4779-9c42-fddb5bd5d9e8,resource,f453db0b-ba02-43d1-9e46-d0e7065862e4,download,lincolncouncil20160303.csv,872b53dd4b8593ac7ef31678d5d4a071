@@ -1,0 +1,22 @@
+status: 200
+encoding: None
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 09 Aug 2025 05:44:53 GMT
+Content-Type: application/octet-stream
+Content-Length: 2095
+Connection: keep-alive
+Last-Modified: Mon, 29 Jan 2024 13:53:10 GMT
+Cache-Control: public, max-age=0, must-revalidate
+Expires: Sat, 09 Aug 2025 17:44:53 GMT
+ETag: "1706536390.3703504-2095-1004999016"
+
+District name,District ID,Primary role,First name,Last name,Gender,Party name,Email,Photo URL,Source URL,Website,Address line 1,Address line 2,Locality,Province,Postal code,Phone,Fax,Cell,Facebook,Twitter
+Ward 1,1,Councillor,Adam,Russell,M,,arussell@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X307,,
+Ward 1,1,Councillor,Dianne,Rintjema,F,,drintjema@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X309,,
+Ward 2,2,Councillor,Tony,Brunet,M,,tbrunet@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X303,,
+Ward 2,2,Councillor,J.D.,Pachereva,M,,jdpachereva@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X306,,
+Ward 3,3,Councillor,Paul,MacPherson,M,,pmacpherson@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X305,,
+Ward 3,3,Councillor,Mike,Mikolic,M,,mmikolic@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X310,,
+Ward 4,4,Councillor,Greg,Reimer,M,,greimer@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X308,,
+Ward 4,4,Councillor,Lynn,Timmers,F,,ltimmers@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X304,,
+,,Mayor,Sandra,Easton,F,,seaston@lincoln.ca,,https://lincoln.ca/council,https://lincoln.ca/council,4800 South Service Road,,Beamsville,Ontario,L0R 1B1,905-563-8205,905-563-6566,905-563-2799 X248,,

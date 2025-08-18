@@ -1,0 +1,32 @@
+{
+  "deployment_start": "2025-08-09T09:44:58.132074",
+  "deployment_end": "2025-08-09T09:46:17.600647",
+  "deployment_duration_seconds": 79.468573,
+  "deployment_status": {
+    "database": false,
+    "api": false,
+    "frontend": true,
+    "monitoring": true,
+    "security": true,
+    "performance": true
+  },
+  "success_rate": 66.66666666666666,
+  "components_deployed": [
+    "database",
+    "api",
+    "frontend",
+    "monitoring",
+    "security",
+    "performance"
+  ],
+  "successful_components": [
+    "frontend",
+    "monitoring",
+    "security",
+    "performance"
+  ],
+  "failed_components": [
+    "database",
+    "api"
+  ]
+}

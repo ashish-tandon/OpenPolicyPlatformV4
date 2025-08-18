@@ -1,0 +1,1490 @@
+status: 200
+encoding: UTF-8
+Date: Sat, 09 Aug 2025 05:45:08 GMT
+Server: Apache
+Cache-Control: no-cache, private
+Set-Cookie: october_session=eyJpdiI6InIxZXp1NjI3WmlWbXBiVnd2d1RDamc9PSIsInZhbHVlIjoicEhELzJuMHlMVS9LeENKTnhvRjRLWThUcXYvSTZTMVg4SE15cDRINHpOdDk1aUJPMzhVYmk1bVhFamN5SUlsdmFsR0JYTk9RYVpBQ2N2Mmx2cUlTWmdvd0RGMllydjhwaEp1OU00SWFaeENadXpGaGNMVG94WW0xcHZCZjh6MDAiLCJtYWMiOiI2OTY5ZDA4MGE5ZDM3MjU3NzY3YmIyMjFlN2FkZDU4NmI2NTQ5OTFmODBlODkzMjcyZGY4NGFkYzc2MmZmZmJiIiwidGFnIjoiIn0%3D; path=/; httponly; samesite=lax
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Keep-Alive: timeout=5, max=100
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html class="show-page-transition js-has-pseudo" lang="en">
+    <head>
+         <!-- TITLE -->
+    <title>Municipal Council | City of Dorval</title>
+    <meta name="description" content="Visit&#x20;the&#x20;&quot;Municipal&#x20;Council&quot;&#x20;page&#x20;on&#x20;the&#x20;City&#x20;of&#x20;Dorval&#x2019;s&#x20;website." />
+
+<!-- META -->
+    <meta charset="UTF-8"/>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"/>
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/municipal-council" />
+    <meta property="og:site_name" content="Cité de Dorval" />
+    <meta property="og:image" content="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/share.jpg" />
+    <meta property="og:title" content="Municipal Council | City of Dorval" />
+    <meta property="og:description" content="Visit the &quot;Municipal Council&quot; page on the City of Dorval’s website." />
+
+<!-- FAVICON -->
+    <link href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+<!-- CSS -->
+    <link rel="stylesheet" href="https://www.ville.dorval.qc.ca/themes/dorval/assets/dist/build.css?v=1745861127">
+
+    
+            <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-GJKEY744DR"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-GJKEY744DR');
+        </script>
+        </head>
+    <body class="o-page o-page--home" data-scroller-destination="body">
+        <div class="page-transition">
+    <div class="page-transition__container"></div>
+</div>
+        <div data-namespace="home">
+            <div class="c-overlay-cookies" data-overlay="cookies">
+    <div class="c-overlay-cookies__container">
+        <button class="c-overlay-cookies__button-close || js-overlay-cookies-button-close" title="Close"></button>
+        <div class="c-overlay-cookies__content">
+            <span class="c-overlay-cookies__title">Personal information and confidentiality policy</span>
+            <p class="c-overlay-cookies__text">This site uses cookies to optimize your browsing experience and track how you interact with it. By clicking "I accept", you consent to the use of these cookies. For more details on how we handle this information, see our <a href="/en/the-city/administration-and-finance/policies-and-action-plans#confidentiality-policy" target="_blank"><span>confidentiality policy</span></a>.</p>
+        </div>
+        <div class="c-overlay-cookies__buttons">
+            <a class="c-overlay-cookies__button-refuse || js-overlay-cookies-button-refuse" href="/en/the-city/administration-and-finance/cookies">
+                <span>I refuse</span>
+            </a>
+            <button class="c-overlay-cookies__button-accept || js-overlay-cookies-button-accept">
+                <span>I accept</span>
+            </button>
+        </div>
+    </div>
+</div>            <div class="c-overlay-menu-desktop" data-overlay="menuDesktop">
+    <div class="c-overlay-menu-desktop__container">
+        <div class="c-overlay-menu-desktop__content">
+
+            <div class="c-overlay-menu-desktop__left">
+                <div class="c-overlay-menu-desktop__main">
+
+                    <div class="c-overlay-menu-desktop__scroll">
+                        <div class="c-overlay-menu-desktop__nav-primary">
+                            <ul class="c-accordion-menu || js-menu-accordions">
+                                        <li class="c-accordion-menu__sections || js-menu-accordion">
+        <button class="c-accordion-menu__section-button || js-menu-accordion-toggle" tabindex="0" role="button" aria-expanded="false">
+            <span class="c-accordion-menu__section-button-text">The City</span>
+            <svg class="c-accordion-menu__section-button-svg" role="img">
+                <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-bas" xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-bas"></use>
+            </svg>
+        </button>
+        <div class="c-accordion-menu__section-content || js-menu-accordion-content" aria-hidden="true">
+            <div class="c-accordion-menu__section-transition">
+                <ul class="c-accordion-menu__links-list">
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="decouvrir-dorval">
+                                <span>Discover Dorval</span>
+                            </button>
+                        </li>
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="administration-et-finances">
+                                <span>Administration and Finance</span>
+                            </button>
+                        </li>
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="vie-democratique">
+                                <span>Democratic Life</span>
+                            </button>
+                        </li>
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="information-citoyenne">
+                                <span>Citizen Information</span>
+                            </button>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </li>
+    <li class="c-accordion-menu__sections || js-menu-accordion">
+        <button class="c-accordion-menu__section-button || js-menu-accordion-toggle" tabindex="0" role="button" aria-expanded="false">
+            <span class="c-accordion-menu__section-button-text">Services</span>
+            <svg class="c-accordion-menu__section-button-svg" role="img">
+                <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-bas" xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-bas"></use>
+            </svg>
+        </button>
+        <div class="c-accordion-menu__section-content || js-menu-accordion-content" aria-hidden="true">
+            <div class="c-accordion-menu__section-transition">
+                <ul class="c-accordion-menu__links-list">
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="residents">
+                                <span>Residents</span>
+                            </button>
+                        </li>
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="services-en-ligne">
+                                <span>Online Services</span>
+                            </button>
+                        </li>
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="entreprises">
+                                <span>Businesses</span>
+                            </button>
+                        </li>
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="vie-communautaire">
+                                <span>Community Life</span>
+                            </button>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </li>
+    <li class="c-accordion-menu__sections || js-menu-accordion">
+        <button class="c-accordion-menu__section-button || js-menu-accordion-toggle" tabindex="0" role="button" aria-expanded="false">
+            <span class="c-accordion-menu__section-button-text">Environment and Road Maintenance</span>
+            <svg class="c-accordion-menu__section-button-svg" role="img">
+                <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-bas" xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-bas"></use>
+            </svg>
+        </button>
+        <div class="c-accordion-menu__section-content || js-menu-accordion-content" aria-hidden="true">
+            <div class="c-accordion-menu__section-transition">
+                <ul class="c-accordion-menu__links-list">
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="environnement">
+                                <span>Environment</span>
+                            </button>
+                        </li>
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="infrastructures-urbaines">
+                                <span>Urban Infrastructure</span>
+                            </button>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </li>
+    <li class="c-accordion-menu__sections || js-menu-accordion">
+        <button class="c-accordion-menu__section-button || js-menu-accordion-toggle" tabindex="0" role="button" aria-expanded="false">
+            <span class="c-accordion-menu__section-button-text">Leisure and Culture</span>
+            <svg class="c-accordion-menu__section-button-svg" role="img">
+                <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-bas" xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-bas"></use>
+            </svg>
+        </button>
+        <div class="c-accordion-menu__section-content || js-menu-accordion-content" aria-hidden="true">
+            <div class="c-accordion-menu__section-transition">
+                <ul class="c-accordion-menu__links-list">
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="activites-de-sports-et-de-loisirs">
+                                <span>Sport and Leisure Activities</span>
+                            </button>
+                        </li>
+                                            <li class="c-accordion-menu__links-list-item">
+                            <button class="c-accordion-menu__link" data-menu-interface-button="arts-et-culture">
+                                <span>Arts and Culture</span>
+                            </button>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </li>
+                            </ul>
+                        </div>
+                        <div class="c-overlay-menu-desktop__nav-secondary">
+                            <div class="c-overlay-menu-desktop__nav-secondary-transition">
+
+                                    <div class="c-overlay-menu-desktop__bottom-nav">
+        <div class="c-secondary-menu">
+            <div class="c-secondary-menu__items">
+                                    <a data-type-value="beige" id=&quot;fast-link16&quot; href="https://www.ville.dorval.qc.ca/en/contact-us"  class="c-secondary-menu__item || js-fast-link">Contact Us</a>
+                                    <a data-type-value="beige" id=&quot;fast-link21&quot; href="https://www.ville.dorval.qc.ca/en/events"  class="c-secondary-menu__item || js-fast-link">Events</a>
+                                    <a data-type-value="beige" id=&quot;fast-link17&quot; href="https://www.ville.dorval.qc.ca/en/interactive-map"  class="c-secondary-menu__item || js-fast-link">Interactive Map</a>
+                                    <a data-type-value="beige" id=&quot;fast-link20&quot; href="https://www.ville.dorval.qc.ca/en/news"  class="c-secondary-menu__item || js-fast-link">News</a>
+                            </div>
+        </div>
+    </div>
+
+                                <div class="c-overlay-menu-desktop__social">
+                                    <div class="c-social-links c-social-links--dark">
+    <a href="https://www.facebook.com/citededorval" class="c-social-links__item" target="_blank" title="Facebook">
+        <svg class="c-social-links__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-facebook"></use></svg>
+    </a>
+    <a href="https://ca.linkedin.com/company/city-of-dorval" class="c-social-links__item" target="_blank" title="LinkedIn">
+        <svg class="c-social-links__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-linkedin"></use></svg>
+    </a>
+    <a href="https://www.youtube.com/@citededorvalcityofdorval4548" class="c-social-links__item" target="_blank" title="YouTube">
+        <svg class="c-social-links__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-youtube"></use></svg>
+    </a>
+</div>                                </div>
+                            </div>
+                        </div>
+                        <div class="c-overlay-menu-desktop__nav-mobile">
+                            <div class="c-overlay-menu-desktop__size-toggle" data-teleport-container="size-toggle" data-teleport-max="768"></div>
+                            <div class="c-overlay-menu-desktop__lang-switcher" data-teleport-container="lang-switcher" data-teleport-max="768"></div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="c-overlay-menu-desktop__right || js-desktop-overlay-right-section">
+                <div class="c-overlay-menu-desktop__panel || js-dropdown-panel" data-interface-container="menu" data-collapsed="true">
+                    <div class="c-overlay-menu-desktop__panel-page" data-interface="empty" data-interface-level="1"></div>
+
+                                    <div class="c-overlay-menu-desktop__panel-page" data-interface="decouvrir-dorval" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Discover Dorval</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/events"  class="c-overlay-menu-desktop__panel-link">Events</a>
+                                    <a href="/en/the-city/discover-dorval/history-of-dorval"  class="c-overlay-menu-desktop__panel-link">History of Dorval</a>
+                                    <a href="/en/interactive-map"  class="c-overlay-menu-desktop__panel-link">Interactive Map</a>
+                                    <a href="/en/news"  class="c-overlay-menu-desktop__panel-link">News</a>
+                                    <a href="/en/the-city/discover-dorval/portrait-of-the-city"  class="c-overlay-menu-desktop__panel-link">Portrait of the City</a>
+                                    <a href="/en/contact-us"  class="c-overlay-menu-desktop__panel-link">Contact Us</a>
+                            </div>
+        </div>
+            <div class="c-overlay-menu-desktop__panel-page" data-interface="administration-et-finances" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Administration and Finance</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/the-city/administration-and-finance/access-to-information-request"  class="c-overlay-menu-desktop__panel-link">Access to Information Request</a>
+                                    <a href="/en/the-city/administration-and-finance/budget-and-finance"  class="c-overlay-menu-desktop__panel-link">Budget and Finance</a>
+                                    <a href="/en/the-city/administration-and-finance/call-for-tenders-and-contracts"  class="c-overlay-menu-desktop__panel-link">Call for Tenders and Contracts</a>
+                                    <a href="/en/the-city/administration-and-finance/jobs"  class="c-overlay-menu-desktop__panel-link">Job Offers</a>
+                                    <a href="/en/the-city/administration-and-finance/municipal-by-laws"  class="c-overlay-menu-desktop__panel-link">Municipal By-Laws</a>
+                                    <a href="/en/contact-us#services-information"  class="c-overlay-menu-desktop__panel-link">Municipal Services</a>
+                                    <a href="/en/the-city/administration-and-finance/municipal-taxes-and-assessment"  class="c-overlay-menu-desktop__panel-link">Municipal Taxes and Assessment</a>
+                                    <a href="/en/the-city/administration-and-finance/policies-and-action-plans"  class="c-overlay-menu-desktop__panel-link">Policies and Action Plans</a>
+                                    <a href="/en/the-city/administration-and-finance/public-notices"  class="c-overlay-menu-desktop__panel-link">Public Notices</a>
+                                    <a href="/en/the-city/administration-and-finance/sale-of-goods-belonging-to-the-city"  class="c-overlay-menu-desktop__panel-link">Sale of Goods Belonging to the City</a>
+                            </div>
+        </div>
+            <div class="c-overlay-menu-desktop__panel-page" data-interface="vie-democratique" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Democratic Life</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/the-city/democratic-life/2025-municipal-elections"  class="c-overlay-menu-desktop__panel-link">2025 Municipal Elections</a>
+                                    <a href="/en/the-city/democratic-life/municipal-council"  class="c-overlay-menu-desktop__panel-link">Municipal Council</a>
+                                    <a href="/en/the-city/democratic-life/municipal-council-meetings"  class="c-overlay-menu-desktop__panel-link">Municipal Council Meetings</a>
+                                    <a href="/en/the-city/democratic-life/electoral-districts"  class="c-overlay-menu-desktop__panel-link">Electoral Districts</a>
+                                    <a href="/en/the-city/democratic-life/committees"  class="c-overlay-menu-desktop__panel-link">Committees</a>
+                                    <a href="/en/the-city/democratic-life/citizen-participation"  class="c-overlay-menu-desktop__panel-link">Citizen Participation</a>
+                            </div>
+        </div>
+            <div class="c-overlay-menu-desktop__panel-page" data-interface="information-citoyenne" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Citizen Information</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/the-city/citizen-information/access-information-request"  class="c-overlay-menu-desktop__panel-link">Access to Information Request</a>
+                                    <a href="/en/contact-us"  class="c-overlay-menu-desktop__panel-link">Contact Us</a>
+                                    <a href="/en/the-city/citizen-information/info-work-1"  class="c-overlay-menu-desktop__panel-link">Info-Work</a>
+                                    <a href="/en/news"  class="c-overlay-menu-desktop__panel-link">News</a>
+                                    <a href="/en/the-city/citizen-information/public-notices-1"  class="c-overlay-menu-desktop__panel-link">Public Notices</a>
+                                    <a href="/en/the-city/citizen-information/publications"  class="c-overlay-menu-desktop__panel-link">Publications</a>
+                                    <a href="/en/newsletter"  class="c-overlay-menu-desktop__panel-link">Subscribe to the newsletter</a>
+                            </div>
+        </div>
+                <div class="c-overlay-menu-desktop__panel-page" data-interface="residents" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Residents</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/services/residents/administration-of-oaths"  class="c-overlay-menu-desktop__panel-link">Administration of Oaths</a>
+                                    <a href="/en/services/residents/block-parties"  class="c-overlay-menu-desktop__panel-link">Block Parties</a>
+                                    <a href="/en/services/residents/claims"  class="c-overlay-menu-desktop__panel-link">Claims</a>
+                                    <a href="/en/services/residents/collections-waste-materials"  class="c-overlay-menu-desktop__panel-link">Collections and Waste Materials</a>
+                                    <a href="/en/environment-and-road-maintenance/environment"  class="c-overlay-menu-desktop__panel-link">Environment</a>
+                                    <a href="https://www.ville.dorval.qc.ca/en/interactive-map/services-and-facilities/free-wireless-internet-network-access-point"  class="c-overlay-menu-desktop__panel-link">Internet</a>
+                                    <a href="/en/services/residents/municipal-court"  class="c-overlay-menu-desktop__panel-link">Municipal Court</a>
+                                    <a href="/en/services/residents/municipal-taxes-assessment"  class="c-overlay-menu-desktop__panel-link">Municipal Taxes and Assessment</a>
+                                    <a href="/en/services/residents/permit-and-certificate-request"  class="c-overlay-menu-desktop__panel-link">Permit and Certificate Request</a>
+                                    <a href="/en/services/residents/programs-and-subsidies"  class="c-overlay-menu-desktop__panel-link">Programs and Subsidies</a>
+                                    <a href="/en/services/residents/public-safety"  class="c-overlay-menu-desktop__panel-link">Public Safety</a>
+                                    <a href="/en/services/residents/public-transportation"  class="c-overlay-menu-desktop__panel-link">Public Transportation</a>
+                                    <a href="/en/services/residents/snow-removal"  class="c-overlay-menu-desktop__panel-link">Snow Removal</a>
+                            </div>
+        </div>
+            <div class="c-overlay-menu-desktop__panel-page" data-interface="services-en-ligne" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Online Services</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/services/online-services/dog-and-cat-licenses"  class="c-overlay-menu-desktop__panel-link">Dog and Cat Licenses</a>
+                                    <a href="/en/services/online-services/ticketing"  class="c-overlay-menu-desktop__panel-link">Online Ticketing</a>
+                                    <a href="/en/services/online-services/payment-of-fines"  class="c-overlay-menu-desktop__panel-link">Payment of Fines</a>
+                                    <a href="/en/services/online-services/permit-and-certificate"  class="c-overlay-menu-desktop__panel-link">Permit and Certificate</a>
+                                    <a href="/en/services/online-services/registration-courses-and-activities"  class="c-overlay-menu-desktop__panel-link">Registration for Courses and Activities</a>
+                                    <a href="/en/services/online-services/requests-and-complaints"  class="c-overlay-menu-desktop__panel-link">Requests and Complaints</a>
+                            </div>
+        </div>
+            <div class="c-overlay-menu-desktop__panel-page" data-interface="entreprises" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Businesses</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/services/businesses/call-for-tenders-contracts"  class="c-overlay-menu-desktop__panel-link">Call for Tenders and Contracts</a>
+                                    <a href="/en/services/businesses/commerce-dorval"  class="c-overlay-menu-desktop__panel-link">Commerce Dorval</a>
+                                    <a href="/en/services/businesses/occupancy-permit"  class="c-overlay-menu-desktop__panel-link">Occupancy Permit</a>
+                                    <a href="/en/services/businesses/pme-mtl-ouest-de-lile"  class="c-overlay-menu-desktop__panel-link">PME MTL Ouest-de-l’Île</a>
+                                    <a href="/en/services/businesses/useful-information-for-businesses"  class="c-overlay-menu-desktop__panel-link">Useful Information for Businesses</a>
+                            </div>
+        </div>
+            <div class="c-overlay-menu-desktop__panel-page" data-interface="vie-communautaire" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Community Life</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/services/community-life/associations-directory"  class="c-overlay-menu-desktop__panel-link">Associations Directory</a>
+                                    <a href="/en/services/community-life/community-aid"  class="c-overlay-menu-desktop__panel-link">Community Aid</a>
+                                    <a href="/en/services/community-life/community-centres"  class="c-overlay-menu-desktop__panel-link">Community Centres</a>
+                                    <a href="/en/services/community-life/first-citizen-section"  class="c-overlay-menu-desktop__panel-link">First Citizen Section</a>
+                                    <a href="/en/services/community-life/funds-to-assist-and-support"  class="c-overlay-menu-desktop__panel-link">Funds to Assist and Support</a>
+                                    <a href="/en/interactive-map/services-and-facilities/health-establishments"  class="c-overlay-menu-desktop__panel-link">Health Establishments</a>
+                                    <a href="/en/interactive-map/services-and-facilities/schools"  class="c-overlay-menu-desktop__panel-link">Schools</a>
+                                    <a href="/en/services/community-life/teenage-section"  class="c-overlay-menu-desktop__panel-link">Teenage Section</a>
+                                    <a href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/committees#universal-inclusion-committee"  class="c-overlay-menu-desktop__panel-link">Universal Inclusion Committee</a>
+                                    <a href="/en/services/community-life/volunteering"  class="c-overlay-menu-desktop__panel-link">Volunteering</a>
+                            </div>
+        </div>
+                <div class="c-overlay-menu-desktop__panel-page" data-interface="environnement" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Environment</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/environment-and-road-maintenance/environment/air-and-water-quality"  class="c-overlay-menu-desktop__panel-link">Air and Water Quality</a>
+                                    <a href="/en/environment-and-road-maintenance/environment/animals-and-insects"  class="c-overlay-menu-desktop__panel-link">Animals and Insects</a>
+                                    <a href="/en/environment-and-road-maintenance/environment/drinking-water-and-wastewater"  class="c-overlay-menu-desktop__panel-link">Drinking Water and Wastewater</a>
+                                    <a href="/en/the-city/democratic-life/committees"  class="c-overlay-menu-desktop__panel-link">Environmental Committees</a>
+                                    <a href="/en/environment-and-road-maintenance/environment/environmental-nuisances"  class="c-overlay-menu-desktop__panel-link">Environmental Nuisances</a>
+                                    <a href="/en/services/residents/programs-and-subsidies"  class="c-overlay-menu-desktop__panel-link">Environmental Subsidies</a>
+                                    <a href="/en/environment-and-road-maintenance/environment/gardening"  class="c-overlay-menu-desktop__panel-link">Gardening</a>
+                                    <a href="/en/environment-and-road-maintenance/environment/collections-and-waste-materials"  class="c-overlay-menu-desktop__panel-link">Pickups and Waste Materials</a>
+                                    <a href="/en/environment-and-road-maintenance/environment/reducing-our-impact"  class="c-overlay-menu-desktop__panel-link">Reducing Our Impact</a>
+                                    <a href="/en/environment-and-road-maintenance/environment/trees-and-plants"  class="c-overlay-menu-desktop__panel-link">Trees and Plants</a>
+                                    <a href="https://www.ville.dorval.qc.ca/en/services/residents/programs-and-subsidies#wood-burning"  class="c-overlay-menu-desktop__panel-link">Wood Burning</a>
+                            </div>
+        </div>
+            <div class="c-overlay-menu-desktop__panel-page" data-interface="infrastructures-urbaines" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Urban Infrastructure</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="https://www.ville.dorval.qc.ca/en/services/residents/programs-and-subsidies#charging-station-for-electric-vehicle"  class="c-overlay-menu-desktop__panel-link">Charging Station for Electric Vehicle</a>
+                                    <a href="/en/environment-and-road-maintenance/urban-infrastructure/equipment-and-road-maintenance"  class="c-overlay-menu-desktop__panel-link">Equipment and Road Maintenance</a>
+                                    <a href="/en/environment-and-road-maintenance/urban-infrastructure/info-work"  class="c-overlay-menu-desktop__panel-link">Info-Work</a>
+                                    <a href="/en/environment-and-road-maintenance/urban-infrastructure/permit-certificate"  class="c-overlay-menu-desktop__panel-link">Permit and Certificate</a>
+                                    <a href="/en/environment-and-road-maintenance/urban-infrastructure/snow-removal-1"  class="c-overlay-menu-desktop__panel-link">Snow Removal</a>
+                            </div>
+        </div>
+                <div class="c-overlay-menu-desktop__panel-page" data-interface="activites-de-sports-et-de-loisirs" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Sport and Leisure Activities</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/aquatic-membership"  class="c-overlay-menu-desktop__panel-link">Aquatic Membership</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/courses-and-activities"  class="c-overlay-menu-desktop__panel-link">Courses and Activities</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/day-camp"  class="c-overlay-menu-desktop__panel-link">Day Camp</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/dorval-activity-card"  class="c-overlay-menu-desktop__panel-link">Dorval Activity Card</a>
+                                    <a href="/en/events"  class="c-overlay-menu-desktop__panel-link">Events</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/gymnasium-activities"  class="c-overlay-menu-desktop__panel-link">Gymnasium Activities</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/open-artificial-turf-field"  class="c-overlay-menu-desktop__panel-link">Open Artificial Turf Field</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/parks-and-green-spaces"  class="c-overlay-menu-desktop__panel-link">Parks and Green Spaces</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/registration-for-courses-and-activities"  class="c-overlay-menu-desktop__panel-link">Registration for Courses and Activities</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/rental-and-reservation-of-halls-facilities-and-sports-fields"  class="c-overlay-menu-desktop__panel-link">Rental and Reservation of Halls, Facilities, and Sports Fields</a>
+                                    <a href="/en/leisure-and-culture/sport-and-leisure-activities/sports-facilities"  class="c-overlay-menu-desktop__panel-link">Sports Facilities</a>
+                            </div>
+        </div>
+            <div class="c-overlay-menu-desktop__panel-page" data-interface="arts-et-culture" data-interface-level="1">
+            <div class="c-overlay-menu-desktop__panel-back">
+                <button href="#" class="c-button-back || js-panel-back">
+                    <svg class="c-button-back__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                    <span class="c-button-back__text">Retour</span>
+                </button>
+            </div>
+            <div class="c-overlay-menu-desktop__panel-title">Arts and Culture</div>
+            <div class="c-overlay-menu-desktop__panel-links">
+                                    <a href="https://www.ville.dorval.qc.ca/en/the-city/citizen-information/publications#library-and-culture-brochure"  class="c-overlay-menu-desktop__panel-link">Brochure - Library and Culture</a>
+                                    <a href="/en/leisure-and-culture/arts-and-culture/courses-and-activities-1"  class="c-overlay-menu-desktop__panel-link">Courses and Activities</a>
+                                    <a href="/en/leisure-and-culture/arts-and-culture/cultural-facilities"  class="c-overlay-menu-desktop__panel-link">Cultural Facilities</a>
+                                    <a href="/en/leisure-and-culture/arts-and-culture/cultural-mediation"  class="c-overlay-menu-desktop__panel-link">Cultural Mediation</a>
+                                    <a href="/en/leisure-and-culture/arts-and-culture/online-ticketing"  class="c-overlay-menu-desktop__panel-link">Online Ticketing</a>
+                                    <a href="/en/leisure-and-culture/arts-and-culture/public-art-works"  class="c-overlay-menu-desktop__panel-link">Public Art Works</a>
+                                    <a href="/en/leisure-and-culture/arts-and-culture/registration-courses-activities"  class="c-overlay-menu-desktop__panel-link">Registration for Courses and Activities</a>
+                                    <a href="/en/leisure-and-culture/arts-and-culture/street-pianos"  class="c-overlay-menu-desktop__panel-link">Street Pianos</a>
+                            </div>
+        </div>
+    
+                </div>
+
+                <div class="c-overlay-menu-desktop__links-container || js-desktop-overlay-fast-links">
+                        <div class="c-fast-links">
+        <div class="c-fast-links__heading">Quick Links</div>
+        <div class="c-fast-links__items">
+                            <a data-type-value="green" id=&quot;fast-link19&quot; href="https://www.ville.dorval.qc.ca/en/the-city/administration-and-finance/call-for-tenders-and-contracts"  class="c-fast-links__item || js-fast-link">
+    <span class="c-fast-links__text">Call for Tenders</span>
+    <svg class="c-fast-links__icon" role="img"><use href="/plugins/blanko/design/assets/icones/frontend/icons-stroke-small.svg#ico-formulaire" ></use></svg>
+</a>                            <a data-type-value="green" id=&quot;fast-link12&quot; href="https://consultations-dorval.ca/" target="_blank" class="c-fast-links__item || js-fast-link">
+    <span class="c-fast-links__text">Dorval Citizen Participation</span>
+    <svg class="c-fast-links__icon" role="img"><use href="/plugins/blanko/design/assets/icones/frontend/icons-stroke-small.svg#ico-chat" ></use></svg>
+</a>                            <a data-type-value="green" id=&quot;fast-link18&quot; href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/municipal-council"  class="c-fast-links__item || js-fast-link">
+    <span class="c-fast-links__text">Municipal Council</span>
+    <svg class="c-fast-links__icon" role="img"><use href="/plugins/blanko/design/assets/icones/frontend/icons-stroke-small.svg#ico-bonhomme-2" ></use></svg>
+</a>                            <a data-type-value="green" id=&quot;fast-link15&quot; href="https://www.ville.dorval.qc.ca/en/the-city/administration-and-finance/public-notices"  class="c-fast-links__item || js-fast-link">
+    <span class="c-fast-links__text">Public Notices</span>
+    <svg class="c-fast-links__icon" role="img"><use href="/plugins/blanko/design/assets/icones/frontend/icons-stroke-small.svg#ico-avis" ></use></svg>
+</a>                    </div>
+    </div>
+                </div>
+
+                            <picture class="c-overlay-menu-desktop__picture">
+            <img class="c-overlay-menu-desktop__img cover lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/136_95_0_0_crop/img_dce55a0bd25adcd7c8b13f61ff157014.jpg" data-src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/1360_958_0_0_crop/img_6277e9fd81239c93ec7d8e5ce474c07f.jpg" alt="">
+        </picture>
+    
+            </div>
+
+        </div>
+        <div class="c-overlay-menu-desktop__background || js-close-overlay-menu-desktop"></div>
+    </div>
+</div>            <div class="c-overlay-search" data-overlay="search">
+    <div class="c-overlay-search__container">
+        <div class="c-overlay-search__sections || js-search-sections">
+
+            <div class="c-overlay-search__section" data-search-section="suggestions">
+                <div class="c-overlay-search__section-inner">
+                                    </div>
+                <div class="c-overlay-search__buttons">
+                    <button class="c-overlay-search__button || js-close-overlay-search">
+                        <div class="c-overlay-search__button-text">Close</div>
+                        <svg class="c-overlay-search__button-svg" role="img">
+                            <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-x"></use>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+            <div class="c-overlay-search__section" data-search-section="results">
+                <div id="autocomplete">
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="c-overlay-search__background || js-close-overlay-search"></div>
+</div>            <div class="c-overlay-share" data-overlay="share">
+    <div class="c-overlay-share__container">
+        <button class="c-overlay-share__button-close || js-close-overlay-share" title="Close">
+            <svg role="img">
+                <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-x" xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-x"></use>
+            </svg>
+        </button>
+        <h2 class="c-overlay-share__title">Where do you want<br />to share <span class="js-overlay-share-inner-text"></span> ?</h2>
+        <div id="Share-buttons" class="c-overlay-share__list share-btn"  data-url="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/municipal-council">
+            <a class="c-overlay-share__link c-overlay-share__facebook trk-fb" data-id="fb" title="Facebook">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-facebook"
+                         xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-facebook"></use>
+                </svg>
+            </a>
+            <a class="c-overlay-share__link c-overlay-share__twitter trk-tw" data-id="tw" title="X">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-elon"
+                         xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-elon"></use>
+                </svg>
+            </a>
+            <a class="c-overlay-share__link c-overlay-share__email trk-mail" data-id="mail" title="Email">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-courriel"
+                         xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-courriel"></use>
+                </svg>
+            </a>
+            <a class="c-overlay-share__link c-overlay-share__copy trk-copy" data-id="copy" title="Site URL">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-lien"
+                         xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-lien"></use>
+                </svg>
+            </a>
+            <a class="c-overlay-share__link c-overlay-share__shareSheet trk-shareSheet" data-id="share" title="More options">
+                <svg class="c-overlay-share__svg" role="img">
+                    <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-trois-points"
+                         xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-trois-points"></use>
+                </svg>
+            </a>
+        </div>
+    </div>
+    <div class="c-overlay-share__background || js-close-overlay-share"></div>
+</div>
+                            <div class="c-overlay-calendar" data-overlay="calendar">
+    <div class="c-overlay-calendar__container">
+
+        <div class="c-overlay-calendar__heading">
+            <button class="c-overlay-calendar__button-close || js-close-overlay-calendar" title="Close">
+                <span class="c-overlay-calendar__button-close-text">Close</span>
+                <span class="c-overlay-calendar__button-close-x"></span>
+            </button>
+                        <picture class="c-overlay-calendar__picture">
+                <img class="c-overlay-calendar__img || cover lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/58_30_0_0_crop/img_6df7c9f838dab9706adc3bbdbc2b21cb.jpg" data-src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/580_300_0_0_crop/img_ce8d13f65b78ea786cdfcad9f8dbcfee.jpg" alt="">
+            </picture>
+        </div>
+
+        <div class="c-overlay-calendar__content">
+            <div class="c-overlay-calendar__content-transition">
+                <div class="c-overlay-calendar__calendar">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+<div class="c-calendar || js-calendar" data-list="1-1-2024,2-1-2024,3-1-2024,4-1-2024,5-1-2024,6-1-2024,7-1-2024,8-1-2024,9-1-2024,10-1-2024,11-1-2024,12-1-2024,13-1-2024,14-1-2024,15-1-2024,16-1-2024,17-1-2024,18-1-2024,19-1-2024,20-1-2024,21-1-2024,22-1-2024,23-1-2024,24-1-2024,25-1-2024,26-1-2024,27-1-2024,28-1-2024,29-1-2024,30-1-2024,31-1-2024,1-2-2024,2-2-2024,3-2-2024,4-2-2024,5-2-2024,6-2-2024,7-2-2024,8-2-2024,9-2-2024,10-2-2024,11-2-2024,12-2-2024,13-2-2024,14-2-2024,15-2-2024,16-2-2024,17-2-2024,18-2-2024,19-2-2024,20-2-2024,21-2-2024,22-2-2024,23-2-2024,24-2-2024,25-2-2024,26-2-2024,27-2-2024,28-2-2024,29-2-2024,1-3-2024,2-3-2024,3-3-2024,4-3-2024,5-3-2024,6-3-2024,7-3-2024,8-3-2024,9-3-2024,10-3-2024,11-3-2024,12-3-2024,13-3-2024,14-3-2024,15-3-2024,16-3-2024,17-3-2024,18-3-2024,19-3-2024,20-3-2024,21-3-2024,22-3-2024,23-3-2024,24-3-2024,25-3-2024,26-3-2024,27-3-2024,28-3-2024,29-3-2024,30-3-2024,31-3-2024,1-4-2024,2-4-2024,3-4-2024,4-4-2024,5-4-2024,6-4-2024,7-4-2024,8-4-2024,9-4-2024,10-4-2024,11-4-2024,12-4-2024,13-4-2024,14-4-2024,15-4-2024,16-4-2024,17-4-2024,18-4-2024,19-4-2024,20-4-2024,21-4-2024,22-4-2024,23-4-2024,24-4-2024,25-4-2024,26-4-2024,27-4-2024,28-4-2024,29-4-2024,30-4-2024,1-5-2024,2-5-2024,3-5-2024,4-5-2024,5-5-2024,6-5-2024,7-5-2024,8-5-2024,9-5-2024,10-5-2024,11-5-2024,12-5-2024,13-5-2024,14-5-2024,15-5-2024,16-5-2024,17-5-2024,18-5-2024,19-5-2024,20-5-2024,21-5-2024,22-5-2024,23-5-2024,24-5-2024,25-5-2024,26-5-2024,27-5-2024,28-5-2024,29-5-2024,30-5-2024,31-5-2024,1-6-2024,2-6-2024,3-6-2024,4-6-2024,5-6-2024,6-6-2024,7-6-2024,8-6-2024,9-6-2024,10-6-2024,11-6-2024,12-6-2024,13-6-2024,14-6-2024,15-6-2024,16-6-2024,17-6-2024,18-6-2024,19-6-2024,20-6-2024,21-6-2024,22-6-2024,23-6-2024,24-6-2024,25-6-2024,26-6-2024,27-6-2024,28-6-2024,29-6-2024,30-6-2024,1-7-2024,2-7-2024,3-7-2024,4-7-2024,5-7-2024,6-7-2024,7-7-2024,8-7-2024,9-7-2024,10-7-2024,11-7-2024,12-7-2024,13-7-2024,14-7-2024,15-7-2024,16-7-2024,17-7-2024,18-7-2024,19-7-2024,20-7-2024,21-7-2024,22-7-2024,23-7-2024,24-7-2024,25-7-2024,26-7-2024,27-7-2024,28-7-2024,29-7-2024,30-7-2024,31-7-2024,1-8-2024,2-8-2024,3-8-2024,4-8-2024,5-8-2024,6-8-2024,7-8-2024,8-8-2024,9-8-2024,10-8-2024,11-8-2024,12-8-2024,13-8-2024,14-8-2024,15-8-2024,16-8-2024,17-8-2024,18-8-2024,19-8-2024,20-8-2024,21-8-2024,22-8-2024,23-8-2024,24-8-2024,25-8-2024,26-8-2024,27-8-2024,28-8-2024,29-8-2024,30-8-2024,31-8-2024,1-9-2024,2-9-2024,3-9-2024,4-9-2024,5-9-2024,6-9-2024,7-9-2024,8-9-2024,9-9-2024,10-9-2024,11-9-2024,12-9-2024,13-9-2024,14-9-2024,15-9-2024,16-9-2024,17-9-2024,18-9-2024,19-9-2024,20-9-2024,21-9-2024,22-9-2024,23-9-2024,24-9-2024,25-9-2024,26-9-2024,27-9-2024,28-9-2024,29-9-2024,30-9-2024,1-10-2024,2-10-2024,3-10-2024,4-10-2024,5-10-2024,6-10-2024,7-10-2024,8-10-2024,9-10-2024,10-10-2024,11-10-2024,12-10-2024,13-10-2024,14-10-2024,15-10-2024,16-10-2024,17-10-2024,18-10-2024,19-10-2024,20-10-2024,21-10-2024,22-10-2024,23-10-2024,24-10-2024,25-10-2024,26-10-2024,27-10-2024,28-10-2024,29-10-2024,30-10-2024,31-10-2024,1-11-2024,2-11-2024,3-11-2024,4-11-2024,5-11-2024,6-11-2024,7-11-2024,8-11-2024,9-11-2024,10-11-2024,11-11-2024,12-11-2024,13-11-2024,14-11-2024,15-11-2024,16-11-2024,17-11-2024,18-11-2024,19-11-2024,20-11-2024,21-11-2024,22-11-2024,23-11-2024,24-11-2024,25-11-2024,26-11-2024,27-11-2024,28-11-2024,29-11-2024,30-11-2024,1-12-2024,2-12-2024,3-12-2024,4-12-2024,5-12-2024,6-12-2024,7-12-2024,8-12-2024,9-12-2024,10-12-2024,11-12-2024,12-12-2024,13-12-2024,14-12-2024,15-12-2024,16-12-2024,17-12-2024,18-12-2024,19-12-2024,20-12-2024,21-12-2024,22-12-2024,23-12-2024,24-12-2024,25-12-2024,26-12-2024,27-12-2024,28-12-2024,29-12-2024,30-12-2024,31-12-2024,1-1-2025,2-1-2025,3-1-2025,4-1-2025,5-1-2025,6-1-2025,7-1-2025,8-1-2025,9-1-2025,10-1-2025,11-1-2025,12-1-2025,13-1-2025,14-1-2025,15-1-2025,16-1-2025,17-1-2025,18-1-2025,19-1-2025,20-1-2025,21-1-2025,22-1-2025,23-1-2025,24-1-2025,25-1-2025,26-1-2025,27-1-2025,28-1-2025,29-1-2025,30-1-2025,31-1-2025,1-2-2025,2-2-2025,3-2-2025,4-2-2025,5-2-2025,6-2-2025,7-2-2025,8-2-2025,9-2-2025,10-2-2025,11-2-2025,12-2-2025,13-2-2025,14-2-2025,15-2-2025,16-2-2025,17-2-2025,18-2-2025,19-2-2025,20-2-2025,21-2-2025,22-2-2025,23-2-2025,24-2-2025,25-2-2025,26-2-2025,27-2-2025,28-2-2025,1-3-2025,2-3-2025,3-3-2025,4-3-2025,5-3-2025,6-3-2025,7-3-2025,8-3-2025,9-3-2025,10-3-2025,11-3-2025,12-3-2025,13-3-2025,14-3-2025,15-3-2025,16-3-2025,17-3-2025,18-3-2025,19-3-2025,20-3-2025,21-3-2025,22-3-2025,23-3-2025,24-3-2025,25-3-2025,26-3-2025,27-3-2025,28-3-2025,29-3-2025,30-3-2025,31-3-2025,1-4-2025,2-4-2025,3-4-2025,4-4-2025,5-4-2025,6-4-2025,7-4-2025,8-4-2025,9-4-2025,10-4-2025,11-4-2025,12-4-2025,13-4-2025,14-4-2025,15-4-2025,16-4-2025,17-4-2025,18-4-2025,19-4-2025,20-4-2025,21-4-2025,22-4-2025,23-4-2025,24-4-2025,25-4-2025,26-4-2025,27-4-2025,28-4-2025,29-4-2025,30-4-2025,1-5-2025,2-5-2025,3-5-2025,4-5-2025,5-5-2025,6-5-2025,7-5-2025,8-5-2025,9-5-2025,10-5-2025,11-5-2025,12-5-2025,13-5-2025,14-5-2025,15-5-2025,16-5-2025,17-5-2025,18-5-2025,19-5-2025,20-5-2025,21-5-2025,22-5-2025,23-5-2025,24-5-2025,25-5-2025,26-5-2025,27-5-2025,28-5-2025,29-5-2025,30-5-2025,31-5-2025,1-6-2025,2-6-2025,3-6-2025,4-6-2025,5-6-2025,6-6-2025,7-6-2025,8-6-2025,9-6-2025,10-6-2025,11-6-2025,12-6-2025,13-6-2025,14-6-2025,15-6-2025,16-6-2025,17-6-2025,18-6-2025,19-6-2025,20-6-2025,21-6-2025,22-6-2025,23-6-2025,24-6-2025,25-6-2025,26-6-2025,27-6-2025,28-6-2025,29-6-2025,30-6-2025,1-7-2025,2-7-2025,3-7-2025,4-7-2025,5-7-2025,6-7-2025,7-7-2025,8-7-2025,9-7-2025,10-7-2025,11-7-2025,12-7-2025,13-7-2025,14-7-2025,15-7-2025,16-7-2025,17-7-2025,18-7-2025,19-7-2025,20-7-2025,21-7-2025,22-7-2025,23-7-2025,24-7-2025,25-7-2025,26-7-2025,27-7-2025,28-7-2025,29-7-2025,30-7-2025,31-7-2025,1-8-2025,2-8-2025,3-8-2025,4-8-2025,5-8-2025,6-8-2025,7-8-2025,8-8-2025,9-8-2025,10-8-2025,11-8-2025,12-8-2025,13-8-2025,14-8-2025,15-8-2025,16-8-2025,17-8-2025,18-8-2025,19-8-2025,20-8-2025,21-8-2025,22-8-2025,23-8-2025,24-8-2025,25-8-2025,26-8-2025,27-8-2025,28-8-2025,29-8-2025,30-8-2025,31-8-2025,1-9-2025,2-9-2025,3-9-2025,4-9-2025,5-9-2025,6-9-2025,7-9-2025,8-9-2025,9-9-2025,10-9-2025,11-9-2025,12-9-2025,13-9-2025,14-9-2025,15-9-2025,16-9-2025,17-9-2025,18-9-2025,19-9-2025,20-9-2025,21-9-2025,22-9-2025,23-9-2025,24-9-2025,25-9-2025,26-9-2025,27-9-2025,28-9-2025,29-9-2025,30-9-2025,1-10-2025,2-10-2025,3-10-2025,4-10-2025,5-10-2025,6-10-2025,7-10-2025,8-10-2025,9-10-2025,10-10-2025,11-10-2025,12-10-2025,13-10-2025,14-10-2025,15-10-2025,16-10-2025,17-10-2025,18-10-2025,19-10-2025,20-10-2025,21-10-2025,22-10-2025,23-10-2025,24-10-2025,25-10-2025,26-10-2025,27-10-2025,28-10-2025,29-10-2025,30-10-2025,31-10-2025,1-11-2025,2-11-2025,3-11-2025,4-11-2025,5-11-2025,6-11-2025,7-11-2025,8-11-2025,9-11-2025,10-11-2025,11-11-2025,12-11-2025,13-11-2025,14-11-2025,15-11-2025,16-11-2025,17-11-2025,18-11-2025,19-11-2025,20-11-2025,21-11-2025,22-11-2025,23-11-2025,24-11-2025,25-11-2025,26-11-2025,27-11-2025,28-11-2025,29-11-2025,30-11-2025,1-12-2025,2-12-2025,3-12-2025,4-12-2025,5-12-2025,6-12-2025,7-12-2025,8-12-2025,9-12-2025,10-12-2025,11-12-2025,12-12-2025,13-12-2025,14-12-2025,15-12-2025,16-12-2025,17-12-2025,18-12-2025,19-12-2025,20-12-2025,21-12-2025,22-12-2025,23-12-2025,24-12-2025,25-12-2025,26-12-2025,27-12-2025,28-12-2025,29-12-2025,30-12-2025,31-12-2025,6-9-2024,7-9-2024,8-9-2024,9-9-2024,10-9-2024,11-9-2024,12-9-2024,13-9-2024,14-9-2024,15-9-2024,16-9-2024,17-9-2024,18-9-2024,19-9-2024,20-9-2024,21-9-2024,22-9-2024,23-9-2024,24-9-2024,25-9-2024,26-9-2024,27-9-2024,28-9-2024,29-9-2024,30-9-2024,1-10-2024,2-10-2024,3-10-2024,4-10-2024,5-10-2024,6-10-2024,7-10-2024,8-10-2024,9-10-2024,10-10-2024,11-10-2024,12-10-2024,13-10-2024,14-10-2024,15-10-2024,16-10-2024,17-10-2024,18-10-2024,19-10-2024,20-10-2024,21-10-2024,22-10-2024,23-10-2024,24-10-2024,25-10-2024,26-10-2024,27-10-2024,28-10-2024,29-10-2024,30-10-2024,31-10-2024,1-11-2024,2-11-2024,3-11-2024,4-11-2024,5-11-2024,6-11-2024,7-11-2024,8-11-2024,9-11-2024,10-11-2024,11-11-2024,12-11-2024,13-11-2024,14-11-2024,15-11-2024,16-11-2024,17-11-2024,18-11-2024,19-11-2024,20-11-2024,21-11-2024,22-11-2024,23-11-2024,24-11-2024,25-11-2024,26-11-2024,27-11-2024,28-11-2024,29-11-2024,30-11-2024,1-12-2024,2-12-2024,3-12-2024,4-12-2024,5-12-2024,6-12-2024,7-12-2024,8-12-2024,9-12-2024,10-12-2024,11-12-2024,12-12-2024,13-12-2024,14-12-2024,15-12-2024,16-12-2024,17-12-2024,18-12-2024,19-12-2024,20-12-2024,21-12-2024,22-12-2024,23-12-2024,24-12-2024,25-12-2024,26-12-2024,27-12-2024,28-12-2024,29-12-2024,30-12-2024,31-12-2024,1-1-2025,2-1-2025,3-1-2025,4-1-2025,5-1-2025,6-1-2025,7-1-2025,8-1-2025,9-1-2025,10-1-2025,11-1-2025,12-1-2025,13-1-2025,14-1-2025,15-1-2025,16-1-2025,17-1-2025,18-1-2025,19-1-2025,20-1-2025,21-1-2025,22-1-2025,23-1-2025,24-1-2025,25-1-2025,26-1-2025,27-1-2025,28-1-2025,29-1-2025,30-1-2025,31-1-2025,1-2-2025,2-2-2025,3-2-2025,4-2-2025,5-2-2025,6-2-2025,7-2-2025,8-2-2025,9-2-2025,10-2-2025,11-2-2025,12-2-2025,13-2-2025,14-2-2025,15-2-2025,16-2-2025,17-2-2025,18-2-2025,19-2-2025,20-2-2025,21-2-2025,22-2-2025,23-2-2025,24-2-2025,25-2-2025,26-2-2025,27-2-2025,28-2-2025,1-3-2025,2-3-2025,3-3-2025,4-3-2025,5-3-2025,6-3-2025,7-3-2025,8-3-2025,9-3-2025,10-3-2025,11-3-2025,12-3-2025,13-3-2025,14-3-2025,15-3-2025,16-3-2025,17-3-2025,18-3-2025,19-3-2025,20-3-2025,21-3-2025,22-3-2025,23-3-2025,24-3-2025,25-3-2025,26-3-2025,27-3-2025,28-3-2025,29-3-2025,30-3-2025,6-9-2024,7-9-2024,8-9-2024,9-9-2024,10-9-2024,11-9-2024,12-9-2024,13-9-2024,14-9-2024,15-9-2024,16-9-2024,17-9-2024,18-9-2024,19-9-2024,20-9-2024,21-9-2024,22-9-2024,23-9-2024,24-9-2024,25-9-2024,26-9-2024,27-9-2024,28-9-2024,29-9-2024,30-9-2024,1-10-2024,2-10-2024,3-10-2024,4-10-2024,5-10-2024,6-10-2024,7-10-2024,8-10-2024,9-10-2024,10-10-2024,11-10-2024,12-10-2024,13-10-2024,14-10-2024,15-10-2024,16-10-2024,17-10-2024,18-10-2024,19-10-2024,20-10-2024,21-10-2024,22-10-2024,23-10-2024,24-10-2024,25-10-2024,26-10-2024,27-10-2024,28-10-2024,29-10-2024,30-10-2024,31-10-2024,1-11-2024,2-11-2024,3-11-2024,4-11-2024,5-11-2024,6-11-2024,7-11-2024,8-11-2024,9-11-2024,10-11-2024,11-11-2024,12-11-2024,13-11-2024,14-11-2024,15-11-2024,16-11-2024,17-11-2024,18-11-2024,19-11-2024,20-11-2024,21-11-2024,22-11-2024,23-11-2024,24-11-2024,25-11-2024,26-11-2024,27-11-2024,28-11-2024,29-11-2024,30-11-2024,1-12-2024,2-12-2024,3-12-2024,4-12-2024,5-12-2024,6-12-2024,7-12-2024,8-12-2024,9-12-2024,10-12-2024,11-12-2024,12-12-2024,13-12-2024,14-12-2024,15-12-2024,16-12-2024,17-12-2024,18-12-2024,19-12-2024,20-12-2024,21-12-2024,22-12-2024,23-12-2024,24-12-2024,25-12-2024,26-12-2024,27-12-2024,28-12-2024,29-12-2024,30-12-2024,31-12-2024,1-1-2025,2-1-2025,3-1-2025,4-1-2025,5-1-2025,6-1-2025,7-1-2025,8-1-2025,9-1-2025,10-1-2025,11-1-2025,12-1-2025,13-1-2025,14-1-2025,15-1-2025,16-1-2025,17-1-2025,18-1-2025,19-1-2025,20-1-2025,21-1-2025,22-1-2025,23-1-2025,24-1-2025,25-1-2025,26-1-2025,27-1-2025,28-1-2025,29-1-2025,30-1-2025,31-1-2025,1-2-2025,2-2-2025,3-2-2025,4-2-2025,5-2-2025,6-2-2025,7-2-2025,8-2-2025,9-2-2025,10-2-2025,11-2-2025,12-2-2025,13-2-2025,14-2-2025,15-2-2025,16-2-2025,17-2-2025,18-2-2025,19-2-2025,20-2-2025,21-2-2025,22-2-2025,23-2-2025,24-2-2025,25-2-2025,26-2-2025,27-2-2025,28-2-2025,1-3-2025,2-3-2025,3-3-2025,4-3-2025,5-3-2025,6-3-2025,7-3-2025,8-3-2025,9-3-2025,10-3-2025,11-3-2025,12-3-2025,13-3-2025,14-3-2025,15-3-2025,16-3-2025,17-3-2025,18-3-2025,19-3-2025,20-3-2025,21-3-2025,22-3-2025,23-3-2025,24-3-2025,25-3-2025,26-3-2025,27-3-2025,28-3-2025,29-3-2025,30-3-2025,16-3-2025,17-3-2025,22-3-2025,23-3-2025,24-3-2025,25-3-2025,26-3-2025,27-3-2025,28-3-2025,29-3-2025,30-3-2025,31-3-2025,1-4-2025,2-4-2025,3-4-2025,4-4-2025,5-4-2025,6-4-2025,7-4-2025,8-4-2025,9-4-2025,10-4-2025,11-4-2025,12-4-2025,13-4-2025,14-4-2025,15-4-2025,16-4-2025,17-4-2025,18-4-2025,19-4-2025,20-4-2025,21-4-2025,4-4-2025,5-4-2025,6-4-2025,7-4-2025,8-4-2025,9-4-2025,10-4-2025,11-4-2025,12-4-2025,13-4-2025,14-4-2025,15-4-2025,16-4-2025,17-4-2025,18-4-2025,19-4-2025,20-4-2025,21-4-2025,22-4-2025,23-4-2025,24-4-2025,25-4-2025,26-4-2025,27-4-2025,28-4-2025,29-4-2025,30-4-2025,1-5-2025,2-5-2025,3-5-2025,4-5-2025,5-5-2025,6-5-2025,7-5-2025,8-5-2025,9-5-2025,10-5-2025,11-5-2025,12-5-2025,13-5-2025,14-5-2025,15-5-2025,16-5-2025,17-5-2025,18-5-2025,19-5-2025,20-5-2025,21-5-2025,22-5-2025,23-5-2025,24-5-2025,25-5-2025,26-5-2025,27-5-2025,28-5-2025,29-5-2025,30-5-2025,31-5-2025,1-6-2025,2-6-2025,3-6-2025,4-6-2025,5-6-2025,6-6-2025,7-6-2025,8-6-2025,9-6-2025,10-6-2025,11-6-2025,12-6-2025,13-6-2025,14-6-2025,15-6-2025,16-6-2025,17-6-2025,18-6-2025,19-6-2025,20-6-2025,21-6-2025,22-6-2025,23-6-2025,24-6-2025,25-6-2025,26-6-2025,27-6-2025,28-6-2025,29-6-2025,30-6-2025,1-7-2025,2-7-2025,3-7-2025,4-7-2025,5-7-2025,6-7-2025,7-7-2025,8-7-2025,9-7-2025,10-7-2025,11-7-2025,12-7-2025,13-7-2025,14-7-2025,15-7-2025,16-7-2025,17-7-2025,18-7-2025,19-7-2025,20-7-2025,21-7-2025,22-7-2025,23-7-2025,24-7-2025,25-7-2025,26-7-2025,27-7-2025,28-7-2025,29-7-2025,30-7-2025,31-7-2025,1-8-2025,2-8-2025,3-8-2025,4-8-2025,5-8-2025,6-8-2025,7-8-2025,8-8-2025,9-8-2025,10-8-2025,11-8-2025,12-8-2025,13-8-2025,14-8-2025,15-8-2025,16-8-2025,17-8-2025,18-8-2025,19-8-2025,20-8-2025,21-8-2025,22-8-2025,23-8-2025,24-8-2025,25-8-2025,26-8-2025,27-8-2025,28-8-2025,29-8-2025,30-8-2025,31-8-2025,4-4-2025,5-4-2025,6-4-2025,7-4-2025,8-4-2025,9-4-2025,10-4-2025,11-4-2025,12-4-2025,13-4-2025,14-4-2025,15-4-2025,16-4-2025,17-4-2025,18-4-2025,19-4-2025,20-4-2025,21-4-2025,22-4-2025,23-4-2025,24-4-2025,25-4-2025,26-4-2025,27-4-2025,28-4-2025,29-4-2025,30-4-2025,1-5-2025,2-5-2025,3-5-2025,4-5-2025,5-5-2025,6-5-2025,7-5-2025,8-5-2025,9-5-2025,10-5-2025,11-5-2025,12-5-2025,13-5-2025,14-5-2025,15-5-2025,16-5-2025,17-5-2025,18-5-2025,19-5-2025,20-5-2025,21-5-2025,22-5-2025,23-5-2025,24-5-2025,25-5-2025,26-5-2025,27-5-2025,28-5-2025,29-5-2025,30-5-2025,31-5-2025,1-6-2025,2-6-2025,3-6-2025,4-6-2025,5-6-2025,6-6-2025,7-6-2025,8-6-2025,9-6-2025,10-6-2025,11-6-2025,12-6-2025,13-6-2025,14-6-2025,15-6-2025,16-6-2025,17-6-2025,18-6-2025,19-6-2025,20-6-2025,21-6-2025,22-6-2025,23-6-2025,24-6-2025,25-6-2025,26-6-2025,27-6-2025,28-6-2025,29-6-2025,30-6-2025,1-7-2025,2-7-2025,3-7-2025,4-7-2025,5-7-2025,6-7-2025,7-7-2025,8-7-2025,9-7-2025,10-7-2025,11-7-2025,12-7-2025,13-7-2025,14-7-2025,15-7-2025,16-7-2025,17-7-2025,18-7-2025,19-7-2025,20-7-2025,21-7-2025,22-7-2025,23-7-2025,24-7-2025,25-7-2025,26-7-2025,27-7-2025,28-7-2025,29-7-2025,30-7-2025,31-7-2025,1-8-2025,2-8-2025,3-8-2025,4-8-2025,5-8-2025,6-8-2025,7-8-2025,8-8-2025,9-8-2025,10-8-2025,11-8-2025,12-8-2025,13-8-2025,14-8-2025,15-8-2025,16-8-2025,17-8-2025,18-8-2025,19-8-2025,20-8-2025,21-8-2025,22-8-2025,23-8-2025,24-8-2025,25-8-2025,26-8-2025,27-8-2025,28-8-2025,29-8-2025,30-8-2025,31-8-2025,1-9-2025,14-4-2025,23-4-2025,1-5-2025,2-5-2025,3-5-2025,4-5-2025,1-5-2025,2-5-2025,3-5-2025,4-5-2025,5-5-2025,6-5-2025,7-5-2025,8-5-2025,9-5-2025,10-5-2025,11-5-2025,12-5-2025,13-5-2025,14-5-2025,15-5-2025,16-5-2025,17-5-2025,18-5-2025,19-5-2025,20-5-2025,21-5-2025,22-5-2025,23-5-2025,24-5-2025,25-5-2025,26-5-2025,27-5-2025,28-5-2025,29-5-2025,30-5-2025,31-5-2025,1-6-2025,2-6-2025,3-6-2025,4-6-2025,5-6-2025,6-6-2025,7-6-2025,8-6-2025,9-6-2025,10-6-2025,11-6-2025,12-6-2025,13-6-2025,14-6-2025,15-6-2025,16-6-2025,17-6-2025,18-6-2025,19-6-2025,20-6-2025,21-6-2025,22-6-2025,23-6-2025,24-6-2025,25-6-2025,26-6-2025,27-6-2025,28-6-2025,29-6-2025,30-6-2025,1-7-2025,2-7-2025,3-7-2025,4-7-2025,5-7-2025,6-7-2025,7-7-2025,8-7-2025,9-7-2025,10-7-2025,11-7-2025,12-7-2025,13-7-2025,14-7-2025,15-7-2025,16-7-2025,17-7-2025,18-7-2025,19-7-2025,20-7-2025,21-7-2025,22-7-2025,23-7-2025,24-7-2025,25-7-2025,26-7-2025,27-7-2025,28-7-2025,29-7-2025,30-7-2025,31-7-2025,1-8-2025,2-5-2025,9-5-2025,10-5-2025,11-5-2025,12-5-2025,13-5-2025,14-5-2025,15-5-2025,16-5-2025,17-5-2025,18-5-2025,10-5-2025,10-5-2025,12-5-2025,17-5-2025,20-5-2025,21-5-2025,23-5-2025,25-5-2025,29-5-2025,30-5-2025,31-5-2025,1-6-2025,2-6-2025,3-6-2025,4-6-2025,5-6-2025,6-6-2025,7-6-2025,8-6-2025,9-6-2025,10-6-2025,11-6-2025,12-6-2025,13-6-2025,14-6-2025,15-6-2025,16-6-2025,17-6-2025,18-6-2025,19-6-2025,20-6-2025,21-6-2025,22-6-2025,23-6-2025,24-6-2025,25-6-2025,26-6-2025,27-6-2025,28-6-2025,29-6-2025,30-6-2025,1-7-2025,2-7-2025,3-7-2025,4-7-2025,5-7-2025,6-7-2025,7-7-2025,8-7-2025,9-7-2025,10-7-2025,11-7-2025,12-7-2025,13-7-2025,14-7-2025,15-7-2025,16-7-2025,17-7-2025,18-7-2025,19-7-2025,20-7-2025,21-7-2025,22-7-2025,23-7-2025,24-7-2025,25-7-2025,26-7-2025,27-7-2025,28-7-2025,29-7-2025,30-7-2025,31-7-2025,1-8-2025,2-8-2025,3-8-2025,4-8-2025,5-8-2025,6-8-2025,7-8-2025,8-8-2025,9-8-2025,10-8-2025,11-8-2025,12-8-2025,13-8-2025,14-8-2025,15-8-2025,16-8-2025,17-8-2025,18-8-2025,19-8-2025,20-8-2025,21-8-2025,22-8-2025,23-8-2025,24-8-2025,25-8-2025,26-8-2025,27-8-2025,28-8-2025,29-8-2025,30-8-2025,31-8-2025,7-6-2025,8-6-2025,14-6-2025,16-6-2025,19-6-2025,20-6-2025,21-6-2025,22-6-2025,23-6-2025,24-6-2025,25-6-2025,26-6-2025,27-6-2025,28-6-2025,29-6-2025,30-6-2025,1-7-2025,2-7-2025,3-7-2025,4-7-2025,5-7-2025,6-7-2025,7-7-2025,8-7-2025,9-7-2025,10-7-2025,11-7-2025,12-7-2025,13-7-2025,14-7-2025,15-7-2025,16-7-2025,17-7-2025,18-7-2025,19-7-2025,20-7-2025,21-7-2025,22-7-2025,23-7-2025,24-7-2025,25-7-2025,26-7-2025,27-7-2025,28-7-2025,29-7-2025,30-7-2025,31-7-2025,1-8-2025,2-8-2025,3-8-2025,4-8-2025,5-8-2025,6-8-2025,7-8-2025,8-8-2025,9-8-2025,10-8-2025,11-8-2025,12-8-2025,13-8-2025,14-8-2025,15-8-2025,16-8-2025,17-8-2025,18-8-2025,19-8-2025,20-8-2025,21-8-2025,22-8-2025,23-8-2025,24-8-2025,25-8-2025,26-8-2025,27-8-2025,28-8-2025,29-8-2025,30-8-2025,31-8-2025,1-9-2025,2-9-2025,3-9-2025,4-9-2025,5-9-2025,6-9-2025,7-9-2025,8-9-2025,9-9-2025,10-9-2025,11-9-2025,12-9-2025,13-9-2025,14-9-2025,15-9-2025,16-9-2025,17-9-2025,18-9-2025,19-9-2025,20-9-2025,21-9-2025,22-9-2025,23-9-2025,24-9-2025,25-9-2025,26-9-2025,27-9-2025,28-9-2025,29-9-2025,30-9-2025,1-10-2025,2-10-2025,3-10-2025,4-10-2025,5-10-2025,6-10-2025,7-10-2025,8-10-2025,9-10-2025,10-10-2025,11-10-2025,12-10-2025,13-10-2025,14-10-2025,15-10-2025,16-10-2025,17-10-2025,18-10-2025,19-10-2025,20-10-2025,21-10-2025,22-10-2025,23-10-2025,24-10-2025,25-10-2025,26-10-2025,27-10-2025,28-10-2025,29-10-2025,30-10-2025,31-10-2025,1-11-2025,2-11-2025,24-6-2025,25-6-2025,26-6-2025,27-6-2025,24-6-2025,1-7-2025,5-7-2025,7-7-2025,8-7-2025,10-7-2025,14-7-2025,14-7-2025,17-7-2025,20-7-2025,20-7-2025,21-7-2025,24-7-2025,28-7-2025,31-7-2025,2-8-2025,4-8-2025,6-8-2025,8-8-2025,9-8-2025,10-8-2025,11-8-2025,12-8-2025,13-8-2025,14-8-2025,15-8-2025,16-8-2025,17-8-2025,12-8-2025,20-8-2025,23-8-2025,25-8-2025,6-9-2025,8-9-2025,9-9-2025,10-9-2025,11-9-2025,12-9-2025,13-9-2025,14-9-2025,15-9-2025,16-9-2025,17-9-2025,18-9-2025,19-9-2025,20-9-2025,21-9-2025,22-9-2025,23-9-2025,24-9-2025,25-9-2025,26-9-2025,27-9-2025,28-9-2025,29-9-2025,30-9-2025,1-10-2025,2-10-2025,3-10-2025,4-10-2025,5-10-2025,6-10-2025,7-10-2025,8-10-2025,9-10-2025,10-10-2025,11-10-2025,12-10-2025,13-10-2025,14-10-2025,15-10-2025,16-10-2025,17-10-2025,18-10-2025,19-10-2025,20-10-2025,21-10-2025,22-10-2025,23-10-2025,24-10-2025,25-10-2025,26-10-2025,27-10-2025,28-10-2025,29-10-2025,30-10-2025,31-10-2025,1-11-2025,2-11-2025,3-11-2025,4-11-2025,5-11-2025,6-11-2025,7-11-2025,8-11-2025,9-11-2025,10-11-2025,11-11-2025,12-11-2025,13-11-2025,14-11-2025,15-11-2025,16-11-2025,17-11-2025,18-11-2025,19-11-2025,20-11-2025,21-11-2025,22-11-2025,23-11-2025,24-11-2025,25-11-2025,26-11-2025,27-11-2025,28-11-2025,29-11-2025,30-11-2025,1-12-2025,2-12-2025,3-12-2025,4-12-2025,5-12-2025,6-12-2025,7-12-2025,8-12-2025,9-12-2025,10-12-2025,11-12-2025,12-12-2025,13-12-2025,14-12-2025,15-12-2025,16-12-2025,17-12-2025,18-12-2025,19-12-2025,20-12-2025,21-12-2025,22-12-2025,23-12-2025,24-12-2025,25-12-2025,26-12-2025,27-12-2025,28-12-2025,29-12-2025,30-12-2025,31-12-2025,1-1-2026,2-1-2026,3-1-2026,4-1-2026,5-1-2026,6-1-2026,7-1-2026,8-1-2026,9-1-2026,10-1-2026,11-1-2026,12-1-2026,13-1-2026,14-1-2026,15-1-2026,16-1-2026,17-1-2026,18-1-2026,19-1-2026,20-1-2026,21-1-2026,22-1-2026,23-1-2026,24-1-2026,25-1-2026,26-1-2026,27-1-2026,28-1-2026,29-1-2026,30-1-2026,31-1-2026,1-2-2026,2-2-2026,3-2-2026,4-2-2026,5-2-2026,6-2-2026,7-2-2026,8-2-2026,9-2-2026,10-2-2026,11-2-2026,12-2-2026,13-2-2026,14-2-2026,15-2-2026,16-2-2026,17-2-2026,18-2-2026,19-2-2026,20-2-2026,21-2-2026,22-2-2026,23-2-2026,24-2-2026,25-2-2026,26-2-2026,27-2-2026,28-2-2026,1-3-2026,2-3-2026,3-3-2026,4-3-2026,5-3-2026,6-3-2026,7-3-2026,8-3-2026,9-3-2026,10-3-2026,11-3-2026,12-3-2026,13-3-2026,14-3-2026,15-3-2026,16-3-2026,17-3-2026,18-3-2026,19-3-2026,20-3-2026,21-3-2026,22-3-2026,23-3-2026,24-3-2026,25-3-2026,26-3-2026,27-3-2026,28-3-2026,29-3-2026,9-9-2025,10-9-2025,15-9-2025,17-9-2025,18-9-2025,19-9-2025,20-9-2025,21-9-2025,26-9-2025,28-9-2025,7-10-2025,12-10-2025,13-10-2025,18-10-2025,19-10-2025,20-10-2025,21-10-2025,22-10-2025,23-10-2025,24-10-2025,25-10-2025,7-11-2025,8-11-2025,9-11-2025,8-11-2025,9-11-2025,10-11-2025,11-11-2025,12-11-2025,13-11-2025,14-11-2025,15-11-2025,16-11-2025,17-11-2025,21-11-2025,23-11-2025,30-11-2025,8-12-2025,11-7-2025,12-7-2025,13-7-2025,14-7-2025,15-7-2025,16-7-2025,17-7-2025,18-7-2025,19-7-2025,20-7-2025,21-7-2025,22-7-2025,23-7-2025,24-7-2025,25-7-2025,26-7-2025,27-7-2025,28-7-2025,29-7-2025,30-7-2025,31-7-2025,1-8-2025,2-8-2025,3-8-2025,4-8-2025,5-8-2025,6-8-2025,7-8-2025,8-8-2025,9-8-2025,10-8-2025,11-8-2025,12-8-2025,13-8-2025,14-8-2025,15-8-2025,16-8-2025,17-8-2025,18-8-2025,19-8-2025,20-8-2025,21-8-2025,22-8-2025,23-8-2025,24-8-2025,25-8-2025,26-8-2025,27-8-2025,28-8-2025,29-8-2025,30-8-2025,31-8-2025,1-9-2025,2-9-2025,3-9-2025,4-9-2025,5-9-2025,6-9-2025,7-9-2025,8-9-2025,9-9-2025,10-9-2025,11-9-2025,12-9-2025,13-9-2025,14-9-2025,15-9-2025,16-9-2025,17-9-2025,18-9-2025,19-9-2025,20-9-2025,21-9-2025,22-9-2025,23-9-2025,24-9-2025,25-9-2025,26-9-2025,27-9-2025,28-9-2025,29-9-2025,30-9-2025,1-10-2025,2-10-2025,3-10-2025,4-10-2025,5-10-2025,6-10-2025,7-10-2025,8-10-2025,9-10-2025,10-10-2025,11-10-2025,12-10-2025,13-10-2025,14-10-2025,15-10-2025,16-10-2025,17-10-2025,18-10-2025,19-10-2025,20-10-2025,21-10-2025,22-10-2025,23-10-2025,24-10-2025,25-10-2025,26-10-2025,27-10-2025,28-10-2025,29-10-2025,30-10-2025,31-10-2025,1-11-2025,2-11-2025,3-11-2025,4-11-2025,5-11-2025,6-11-2025,7-11-2025,8-11-2025,9-11-2025,10-11-2025,11-11-2025,12-11-2025,13-11-2025,14-11-2025,15-11-2025,16-11-2025,17-11-2025,18-11-2025,19-11-2025,20-11-2025,21-11-2025,22-11-2025,23-11-2025,24-11-2025,25-11-2025,26-11-2025,27-11-2025,28-11-2025,29-11-2025,30-11-2025," data-date=""></div>                </div>
+            </div>
+        </div>
+
+        <div class="c-overlay-calendar__legend">
+
+            <div class="c-calendar-legend">
+                <div class="c-calendar-legend__padding">
+                    <div class="c-calendar-legend__grid">
+                        <div class="c-calendar-legend__item">
+                            <div class="c-calendar-legend__date-dot"></div>
+                            Events
+                        </div>
+                        <div class="c-calendar-legend__item">
+                            <div class="c-calendar-legend__date-today">10</div>
+                            Today
+                        </div>
+                        <div class="c-calendar-legend__item">
+                            <div class="c-calendar-legend__date-active">10</div>
+                            Selected
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <a href="https://www.ville.dorval.qc.ca/en/events" class="c-overlay-calendar__button-all-dates || js-close-overlay-calendar">
+            <span>See all events</span>
+        </a>
+
+    </div>
+    <div class="c-overlay-calendar__background || js-close-overlay-calendar"></div>
+</div>            
+            
+            
+            <div class="c-message-box || js-message-box">
+    <div class="c-message-box__container">
+        <span class="c-message-box__text">L’adresse URL a bien été copiée dans votre presse-papier.</span>
+    </div>
+</div>            <header class="c-header">
+    <div class="c-header__top || js-header-top">
+        <div class="c-header__logo-container || js-logo-container">
+            <a href="https://www.ville.dorval.qc.ca/en" class="c-header__logo" title="Back to home">
+                <svg class="c-header__logo-svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/logos/logos.svg#logo-dorval"></use></svg>
+            </a>
+        </div>
+                <div class="c-header__search-container">
+            <form class="c-search-field" action="https://www.ville.dorval.qc.ca/en/search">
+                <div class="c-search-field__grid">
+                    <div class="c-search-field__magnifier-container">
+                        <label class="c-search-field__magnifier" for="search-field">
+                            <svg class="c-search-field__magnifier-svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-loupe"></use></svg>
+                        </label>
+                    </div>
+                    <div class="c-search-field__input-container">
+                        <input class="c-search-field__input || js-input-to-clear || js-header-search-field-input || js-overlay-search-field-input" id="dtSearchInputHeader" data-input="search-input" type="search" name="q" placeholder=" " autocomplete="off"/>
+                        <label class="c-search-field__input-label || typer js-header-search-field-input-label" for="q" data-delay="75" data-words="Tax bill, Collections, Jobs, Activities, Library" data-colors="#6B6B6B"></label>
+                        <button class="c-search-field__clear || js-header-search-x" type="reset" title="Erase"></button>
+                    </div>
+                    <div class="c-search-field__submit-container">
+                        <button class="c-search-field__submit" type="submit">
+                            <span>Search</span>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="c-header__menu-button-container">
+            <button class="c-button-menu || js-toggle-overlay-menu-desktop">
+                <span class="c-button-menu__inner">
+                    <span class="c-button-menu__hamburger">
+                        <span class="c-button-menu__line"></span>
+                        <span class="c-button-menu__line"></span>
+                        <span class="c-button-menu__line"></span>
+                        <span class="c-button-menu__line"></span>
+                    </span>
+                    <span class="c-button-menu__label">Menu</span>
+                </span>
+            </button>
+        </div>
+            </div>
+
+            <div class="c-header__bottom || js-header-bottom">
+            <div class="c-header__breadcrumbs">
+                                    <div class="c-breadcrumbs">
+    <div class="c-breadcrumbs__texts">
+        <span class="c-breadcrumbs__link-container">
+            <a class="c-breadcrumbs__link" href="https://www.ville.dorval.qc.ca/en">Home</a>
+        </span>
+                                    <span class="c-breadcrumbs__link-container">
+                    <a class="c-breadcrumbs__link" href="/en/the-city">The City</a>
+                </span>
+                                                <span class="c-breadcrumbs__link-container">
+                    <a class="c-breadcrumbs__link" href="/en/the-city/democratic-life">Democratic Life</a>
+                </span>
+                        </div>
+</div>                            </div>
+            <div class="c-header__buttons">
+
+                            <div class="c-header__button c-header__button--link">
+            <a data-type-value="secondary" id=&quot;fast-link16&quot; href="https://www.ville.dorval.qc.ca/en/contact-us"  class="c-button-header || js-fast-link">
+                <span>Contact Us</span>
+            </a>
+        </div>
+            <div class="c-header__button c-header__button--link">
+            <a data-type-value="secondary" id=&quot;fast-link17&quot; href="https://www.ville.dorval.qc.ca/en/interactive-map"  class="c-button-header || js-fast-link">
+                <span>Interactive Map</span>
+            </a>
+        </div>
+    
+                <div class="c-header__button">
+                    <div class="c-header__lang-switcher" data-teleport-container="lang-switcher" data-teleport-min="768">
+                        <div class="c-lang-switcher c-lang-switcher--en" data-teleport-element="lang-switcher">
+                            <div class="c-lang-switcher__langs">
+                                <button class="c-lang-switcher__lang" data-lang="fr" data-request="onSwitchLocale" data-request-data="locale: 'fr'" title="Français">Fr</button>
+                                <button class="c-lang-switcher__lang" data-lang="en" data-request="onSwitchLocale" data-request-data="locale: 'en'" title="English">En</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="c-header__button">
+                    <div class="c-header__size-toggle" data-teleport-container="size-toggle" data-teleport-min="768">
+                        <button class="c-font-size-toggle || js-size-toggle" title="Change the text size" data-teleport-element="size-toggle">
+                            <span class="c-font-size-toggle__items">
+                                <span class="c-font-size-toggle__item c-font-size-toggle__item--small || js-size-toggle-option" data-zoom="62.5">A</span>
+                                <span class="c-font-size-toggle__item c-font-size-toggle__item--big || js-size-toggle-option" data-zoom="70">A</span>
+                                <span class="c-font-size-toggle__item c-font-size-toggle__item--bigger || js-size-toggle-option" data-zoom="80">A</span>
+                            </span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>            <div class="o-page__main">
+                <div class="o-page__content">
+                        <div class="o-layout o-layout--page-home">
+
+    <section class="o-section o-section--page-top">
+        <div class="c-page-top || js-page-top c-page-top--no-image ">
+    <div class="c-page-top__content">
+        <div class="c-page-top__content-inner">
+            <h1 class="c-page-top__title || js-scrollfire scrollfire-fade-up">Municipal Council</h1>
+                    </div>
+        <div class="c-page-top__buttons">
+            <button class="c-page-top__print || js-print-page" title="Print the page">
+                <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-imprimante"></use></svg>
+            </button>
+            <button class="c-page-top__share || js-open-overlay-share" title="Share the page">
+                <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use></svg>
+            </button>
+        </div>
+    </div>
+
+            <div class="c-page-top__side || js-page-top-side">
+                                        <div class="c-page-top__button-container">
+                    <button  class="c-page-top__button || js-toggle-overlay-in-this-page" >
+                                                <span>Find in this page</span>
+                        <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-liste"></use><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-x"></use></svg>                    </button>
+                                            <div class="c-page-top__in-this-page" data-overlay="inThisPage">
+                            <div class="c-page-top__in-this-page-wrapper || js-in-this-page-height">
+                                <div class="c-page-top__in-this-page-padding">
+                                    <div class="c-page-top__in-this-page-content">
+                                        <div class="c-page-top__in-this-page-list">
+                                                                                            <a href="#mayor" class="c-page-top__in-this-page-item">Marc Doret</a>
+                                                                                            <a href="#district-1" class="c-page-top__in-this-page-item">Paul Trudeau</a>
+                                                                                            <a href="#district-2" class="c-page-top__in-this-page-item">Pascal Brault</a>
+                                                                                            <a href="#district-3" class="c-page-top__in-this-page-item">Bob Le Sage</a>
+                                                                                            <a href="#district-4" class="c-page-top__in-this-page-item">Nicole Duchastel</a>
+                                                                                            <a href="#district-5" class="c-page-top__in-this-page-item">Christopher von Roretz</a>
+                                                                                            <a href="#district-6" class="c-page-top__in-this-page-item">Jean-François Leroux</a>
+                                                                                            <a href="#role-and-responsibilities-of-the-municipal-council" class="c-page-top__in-this-page-item">Role and responsibilities of the municipal council</a>
+                                                                                            <a href="#districts" class="c-page-top__in-this-page-item">Electoral Districts</a>
+                                                                                            <a href="#code-of-ethics-and-good-conduct" class="c-page-top__in-this-page-item">Code of ethics and good conduct</a>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+                                </div>
+    
+</div>    </section>
+
+    
+            <section class="o-section o-section--cms-content">
+            <div class="c-cms-content">
+                <div class="c-cms-content__container">
+                                                                <div class="c-cms-content__introduction || js-scrollfire scrollfire-fade-up" style="--scrollfire-delay: 250ms">
+                            <div class="s-cms-introduction">
+                                <p>Composed of a mayor and six councillors, the municipal council assumes the duties incumbent upon them by law. It monitors the quality of life of citizens and ensures that the services offered adequately meet the needs of the community.</p>
+                            </div>
+                        </div>
+                                                                <div class="c-cms-content__content || js-scrollfire scrollfire-fade-up" style="--scrollfire-delay: 500ms">
+                                                            <div class="s-cms-content">
+                                    <div class="emphasis emphasis-blue"><h2>Attend municipal council meetings</h2><p class="buttons buttons--first buttons--last"><a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/municipal-council-meetings"><span class="text-container">Learn more</span></a></p></div>
+                                </div>
+                                                    </div>
+                                    </div>
+        </section>
+    
+    
+
+    
+                                <section class="o-section o-section--rubrics">
+                    <div class="c-section-header">
+                <div class="c-section-header__container || js-scrollfire scrollfire-fade-up">
+                    <h2 class="c-section-header__title c-large-title">Council Members</h2>
+                </div>
+            </div>
+        
+        <div class="c-rubrics || js-scrollfire scrollfire-fade-up">
+            <div class="c-rubrics__list || js-accordions">
+                                    <div class="c-rubric-card || js-accordion" id="accordion-mayor">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-mayor">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                        <span class="c-rubric-card__surtitle">Mayor of the City of Dorval</span>
+                        <h2 class="c-rubric-card__title">Marc Doret</h2>
+        </div>
+                    <picture class="c-rubric-card__picture">
+                                <img class="c-rubric-card__img lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/28_18_0_0_crop/img_abf965a4fa08d1649397a3419dd19732.jpg" data-src="https://www.ville.dorval.qc.ca/resize/40da9a96e8fc05e728bf4c8885f43855-1" alt="" style="--position: center;">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-mayor" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                                    <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p><strong>Email:</strong> <a href="mailto:mdoret@ville.dorval.qc.ca" target="_blank" rel="noopener noreferrer"><span class="text-container">mdoret@ville.dorval.qc.ca</span><svg><use href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe" xlink:href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe"></use></svg></a></p><p><em><strong>&ldquo;</strong>Welcome to the City of Dorval&rsquo;s website!</em></p><p><em>Whether you are a Dorval citizen, a resident from a surrounding city or a tourist, I invite you to take a few moments to explore our site, which offers a wealth of information on our beautiful City.</em></p><p><em>Among other things, it will provide you with information on services offered by the municipality, news involving our community, details on the plethora of events and activities organized by the City, as well as by-laws and many other topics that may be of interest to you.</em></p><p><em>In brief, through this site, you will discover why it&rsquo;s so great to live in Dorval!<strong>&rdquo;</strong></em></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="mayor" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-mayor" aria-expanded="false" aria-controls="accordion-content-mayor">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-district-1">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-district-1">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                        <span class="c-rubric-card__surtitle">Councillor – District 1</span>
+                        <h2 class="c-rubric-card__title">Paul Trudeau</h2>
+        </div>
+                    <picture class="c-rubric-card__picture">
+                                <img class="c-rubric-card__img lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/28_18_0_0_crop/img_d2a050e4b7289fd7ed22b487f772afdb.jpg" data-src="https://www.ville.dorval.qc.ca/resize/32c7b787ebe57735727ce86afa2289ad-1" alt="" style="--position: center;">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-district-1" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__map-button-container">
+                    <a href="https://www.ville.dorval.qc.ca/en/interactive-map/electoral-districts/all-the-districts/district-1" class="c-rubric-card__map-button">
+                        <span>See on map</span>
+                        <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                    </a>
+                </div>
+                                        <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p><strong>Email:</strong> <a href="mailto:ptrudeau@ville.dorval.qc.ca" target="_blank" rel="noopener noreferrer"><span class="text-container">ptrudeau@ville.dorval.qc.ca</span><svg><use href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe" xlink:href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe"></use></svg></a></p><p class="buttons buttons--first buttons--last"><a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/electoral-districts#electoral-district-no-1"><span class="text-container">Learn more about District 1</span></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="district-1" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-district-1" aria-expanded="false" aria-controls="accordion-content-district-1">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-district-2">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-district-2">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                        <span class="c-rubric-card__surtitle">Councillor – District 2</span>
+                        <h2 class="c-rubric-card__title">Pascal Brault</h2>
+        </div>
+                    <picture class="c-rubric-card__picture">
+                                <img class="c-rubric-card__img lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/28_18_0_0_crop/img_ccadeb6351631726c95d1fe59cbaf974.jpg" data-src="https://www.ville.dorval.qc.ca/resize/85205319f7154485c2f3ea744e3737b6-1" alt="" style="--position: center;">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-district-2" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__map-button-container">
+                    <a href="https://www.ville.dorval.qc.ca/en/interactive-map/electoral-districts/all-the-districts/district-2" class="c-rubric-card__map-button">
+                        <span>See on map</span>
+                        <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                    </a>
+                </div>
+                                        <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p><strong>Email:</strong> <a href="mailto:pbrault@ville.dorval.qc.ca" target="_blank" rel="noopener noreferrer"><span class="text-container">pbrault@ville.dorval.qc.ca</span><svg><use href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe" xlink:href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe"></use></svg></a></p><p class="buttons buttons--first buttons--last"><a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/electoral-districts#electoral-district-no-2"><span class="text-container">Learn more about District 2</span></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="district-2" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-district-2" aria-expanded="false" aria-controls="accordion-content-district-2">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-district-3">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-district-3">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                        <span class="c-rubric-card__surtitle">Councillor – District 3</span>
+                        <h2 class="c-rubric-card__title">Bob Le Sage</h2>
+        </div>
+                    <picture class="c-rubric-card__picture">
+                                <img class="c-rubric-card__img lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/28_18_0_0_crop/img_85f245ffb81bf3a4cc2fd67d41b901dd.jpg" data-src="https://www.ville.dorval.qc.ca/resize/b5e6d1aebf6f24cf04d8278aaae40ac1-1" alt="" style="--position: center;">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-district-3" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__map-button-container">
+                    <a href="https://www.ville.dorval.qc.ca/en/interactive-map/electoral-districts/all-the-districts/district-3" class="c-rubric-card__map-button">
+                        <span>See on map</span>
+                        <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                    </a>
+                </div>
+                                        <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p><strong>Email:</strong> <a href="mailto:blesage@ville.dorval.qc.ca" target="_blank" rel="noopener noreferrer"><span class="text-container">blesage@ville.dorval.qc.ca</span><svg><use href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe" xlink:href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe"></use></svg></a></p><p class="buttons buttons--first buttons--last"><a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/electoral-districts#electoral-district-no-3"><span class="text-container">Learn more about District 3</span></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="district-3" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-district-3" aria-expanded="false" aria-controls="accordion-content-district-3">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-district-4">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-district-4">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                        <span class="c-rubric-card__surtitle">Councillor – District 4</span>
+                        <h2 class="c-rubric-card__title">Nicole Duchastel</h2>
+        </div>
+                    <picture class="c-rubric-card__picture">
+                                <img class="c-rubric-card__img lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/28_18_0_0_crop/img_cf6b0c999885fbea3bcb2a0105015fe2.jpg" data-src="https://www.ville.dorval.qc.ca/resize/d71a184930e5bb26fb6a94c5c6c68d40-1" alt="" style="--position: center;">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-district-4" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__map-button-container">
+                    <a href="https://www.ville.dorval.qc.ca/en/interactive-map/electoral-districts/all-the-districts/district-4" class="c-rubric-card__map-button">
+                        <span>See on map</span>
+                        <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                    </a>
+                </div>
+                                        <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p><strong>Email:</strong> <a href="mailto:nduchastel@ville.dorval.qc.ca" target="_blank" rel="noopener noreferrer"><span class="text-container">nduchastel@ville.dorval.qc.ca</span><svg><use href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe" xlink:href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe"></use></svg></a></p><p class="buttons buttons--first buttons--last"><a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/electoral-districts#electoral-district-no-4"><span class="text-container">Learn more about District 4</span></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="district-4" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-district-4" aria-expanded="false" aria-controls="accordion-content-district-4">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-district-5">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-district-5">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                        <span class="c-rubric-card__surtitle">Councillor – District 5</span>
+                        <h2 class="c-rubric-card__title">Christopher von Roretz</h2>
+        </div>
+                    <picture class="c-rubric-card__picture">
+                                <img class="c-rubric-card__img lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/28_18_0_0_crop/img_c2fd9d0850dde6066190f2da62e9128b.jpg" data-src="https://www.ville.dorval.qc.ca/resize/3b941125b6120520b6eca821310382d0-1" alt="" style="--position: center;">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-district-5" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__map-button-container">
+                    <a href="https://www.ville.dorval.qc.ca/en/interactive-map/electoral-districts/all-the-districts/district-5" class="c-rubric-card__map-button">
+                        <span>See on map</span>
+                        <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                    </a>
+                </div>
+                                        <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p><strong>Email:</strong> <a href="mailto:cvonroretz@ville.dorval.qc.ca" target="_blank" rel="noopener noreferrer"><span class="text-container">cvonroretz@ville.dorval.qc.ca</span><svg><use href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe" xlink:href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe"></use></svg></a></p><p class="buttons buttons--first buttons--last"><a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/electoral-districts#electoral-district-no-5"><span class="text-container">Learn more about District 5</span></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="district-5" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-district-5" aria-expanded="false" aria-controls="accordion-content-district-5">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-district-6">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-district-6">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                        <span class="c-rubric-card__surtitle">Councillor – District 6</span>
+                        <h2 class="c-rubric-card__title">Jean-François Leroux</h2>
+        </div>
+                    <picture class="c-rubric-card__picture">
+                                <img class="c-rubric-card__img lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/28_18_0_0_crop/img_cedb83c8b8a3f7fd7be00da05002be07.jpg" data-src="https://www.ville.dorval.qc.ca/resize/0ea79524500ee2788d0e2a72f28ed743-1" alt="" style="--position: center;">
+            </picture>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-district-6" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                        <div class="c-rubric-card__map-button-container">
+                    <a href="https://www.ville.dorval.qc.ca/en/interactive-map/electoral-districts/all-the-districts/district-6" class="c-rubric-card__map-button">
+                        <span>See on map</span>
+                        <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                    </a>
+                </div>
+                                        <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p><strong>Email:</strong> <a href="mailto:jfleroux@ville.dorval.qc.ca" target="_blank" rel="noopener noreferrer"><span class="text-container">jfleroux@ville.dorval.qc.ca</span><svg><use href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe" xlink:href="/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lien-externe"></use></svg></a></p><p class="buttons buttons--first buttons--last"><a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/electoral-districts#electoral-district-no-6"><span class="text-container">Learn more about District 6</span></a></p>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="district-6" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-district-6" aria-expanded="false" aria-controls="accordion-content-district-6">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-role-and-responsibilities-of-the-municipal-council">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-role-and-responsibilities-of-the-municipal-council">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                    <h2 class="c-rubric-card__title">Role and responsibilities of the municipal council</h2>
+        </div>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-role-and-responsibilities-of-the-municipal-council" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                                    <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p>The municipal council assumes the duties incumbent upon them by law. It monitors the quality of life of citizens and ensures that the services offered adequately meet the needs of the community. When it makes decisions on guidelines and priorities for the municipality, it takes into account the interests of the entire population and its decisions take the form of resolutions or by-laws adopted at a meeting held in accordance with the provisions of the Cities and Towns Act.</p><p>The municipal council holds monthly public meetings at the "Quatre Vents" residence (12 Dahlia Avenue), at 8 p.m. These meetings are open to the public and a question period is set aside for residents. The agenda of the meeting is available online the day prior to the meeting.</p><div class="emphasis emphasis-blue"><p>To consult the council meeting schedule or to view the agendas, the minutes of the council meetings, and the video recordings of the meetings, visit the council meetings page. </p><p class="buttons buttons--first buttons--last"><a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/municipal-council-meetings"><span class="text-container">Council Meetings</span></a></p></div>
+                    </div>
+                </div>
+                                                <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="role-and-responsibilities-of-the-municipal-council" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-role-and-responsibilities-of-the-municipal-council" aria-expanded="false" aria-controls="accordion-content-role-and-responsibilities-of-the-municipal-council">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-districts">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-districts">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                    <h2 class="c-rubric-card__title">Electoral Districts</h2>
+        </div>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-districts" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                                    <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p>The City of Dorval&rsquo;s territory, which in January 2020 had a total of 14,536 domiciled voters and 23 non-domiciled voters, for a grand total of 14,559 voters, is divided into 6 electoral districts (average of 2,427 voters per district). Note that, unless otherwise indicated, the centre of the indicated traffic lanes and demarcations constitutes the effective limit.</p><p class="buttons buttons--first buttons--last"><a class="primary-button" href="/en/interactive-map/electoral-districts/all-the-districts"><span class="text-container">See on the map</span></a> <a class="primary-button" href="https://www.ville.dorval.qc.ca/en/the-city/democratic-life/electoral-districts"><span class="text-container">Description of the districts</span></a></p>
+                    </div>
+                </div>
+                                        <div class="c-rubric-card__documents">
+                                            <a class="c-document-card" href="https://www.ville.dorval.qc.ca/storage/app/media/la-cite/administration-et-finances/reglements-municipaux/reglements-en-vigueur/carte-detaillee-districts-2021-2025.pdf" target="_blank">
+    <div class="c-document-card__svg-container">
+        <svg class="c-document-card__svg" role="img">
+            <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telecharger"
+                 xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telecharger"></use>
+        </svg>
+    </div>
+    <div class="c-document-card__content">
+                    <span class="c-document-card__surtitle">Currently in effect</span>
+                <h3 class="c-document-card__title">Map of electoral districts  <br /> 2021-2025</h3>
+    </div>
+    </a>                                            <a class="c-document-card" href="https://www.ville.dorval.qc.ca/storage/app/media/la-cite/administration-et-finances/reglements-municipaux/reglements-en-vigueur/en/reglement-rcm-101-2024-districts-electoraux-en.pdf" target="_blank">
+    <div class="c-document-card__svg-container">
+        <svg class="c-document-card__svg" role="img">
+            <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telecharger"
+                 xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telecharger"></use>
+        </svg>
+    </div>
+    <div class="c-document-card__content">
+                    <span class="c-document-card__surtitle">RCM-101-2024 | Effective October 31, 2024 – In effect for the 2025 election</span>
+                <h3 class="c-document-card__title">Division of the City's territory into six electoral districts</h3>
+    </div>
+    </a>                                            <a class="c-document-card" href="https://www.ville.dorval.qc.ca/storage/app/media/la-cite/administration-et-finances/reglements-municipaux/reglements-en-vigueur/rcm-101-2024-carte-districts-2025-2029-vf.pdf" target="_blank">
+    <div class="c-document-card__svg-container">
+        <svg class="c-document-card__svg" role="img">
+            <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telecharger"
+                 xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telecharger"></use>
+        </svg>
+    </div>
+    <div class="c-document-card__content">
+                    <span class="c-document-card__surtitle">In effect for the 2025 election</span>
+                <h3 class="c-document-card__title">Map of electoral districts  <br /> 2025-2029</h3>
+    </div>
+    </a>                                    </div>
+                                    <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="districts" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-districts" aria-expanded="false" aria-controls="accordion-content-districts">Close</a>
+        </div>
+    </div>
+</div>                                    <div class="c-rubric-card || js-accordion" id="accordion-code-of-ethics-and-good-conduct">
+    <div class="c-rubric-card__header || js-accordion-toggle" tabindex="0" role="button" aria-expanded="false" aria-controls="accordion-content-code-of-ethics-and-good-conduct">
+        <div class="c-rubric-card__plus-container">
+            <div class="c-rubric-card__plus"></div>
+        </div>
+        <div class="c-rubric-card__text">
+                                        <span class="c-rubric-card__surtitle">Elected municipal officials</span>
+                        <h2 class="c-rubric-card__title">Code of ethics and good conduct</h2>
+        </div>
+            </div>
+    <div class="c-rubric-card__content || js-accordion-content" id="accordion-content-code-of-ethics-and-good-conduct" aria-hidden="true">
+        <div class="c-rubric-card__transition">
+                                                    <div class="c-rubric-card__cms-content">
+                    <div class="s-cms-content s-cms-content--rubric">
+                        <p>Elected representatives and municipal employees must respect a code of ethics and professional conduct, the principles of which are listed in the documents below. </p>
+                    </div>
+                </div>
+                                        <div class="c-rubric-card__documents">
+                                            <a class="c-document-card" href="https://www.ville.dorval.qc.ca/storage/app/media/la-cite/administration-et-finances/reglements-municipaux/reglements-en-vigueur/en/reglement-rcm-88-2022-code-of-ethics-and-conduct-of-elected-municipal-officers-ang.pdf" target="_blank">
+    <div class="c-document-card__svg-container">
+        <svg class="c-document-card__svg" role="img">
+            <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telecharger"
+                 xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telecharger"></use>
+        </svg>
+    </div>
+    <div class="c-document-card__content">
+                    <span class="c-document-card__surtitle">RCM-88-2022 | Updated as at March 2, 2022</span>
+                <h3 class="c-document-card__title">Code of ethics and good conduct of elected municipal officials</h3>
+    </div>
+    </a>                                    </div>
+                                    <div class="c-rubric-card__button-share-rubric">
+                <button class="c-button-share-rubric || js-open-overlay-share" type="button" data-rubric="code-of-ethics-and-good-conduct" data-share="this page" aria-controls="share" aria-haspopup="true">
+                    <span class="c-button-share-rubric__text">Share</span>
+                    <svg class="c-button-share-rubric__svg" role="img">
+                        <use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"
+                             xlink:href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-partager"></use>
+                    </svg>
+                </button>
+            </div>
+            <a class="c-rubric-card__screen-reader-anchor-button || js-accordion-toggle" href="#accordion-code-of-ethics-and-good-conduct" aria-expanded="false" aria-controls="accordion-content-code-of-ethics-and-good-conduct">Close</a>
+        </div>
+    </div>
+</div>                            </div>
+        </div>
+    </section>
+
+        
+            
+    
+    
+    <!-- Composantes de page -->
+                <section class="o-section o-section--information">
+        <div class="c-information-box || js-scrollfire scrollfire-fade-up">
+            <div class="c-information-box__heading">Information</div>
+
+                            <div class="c-information-box__content">
+                    <div class="c-information-box__content-cms">
+                        <div class="s-cms-content s-cms-content--information">
+                            <h3>Cabinet of elected officials</h3>                        </div>
+                    </div>
+
+                    <div class="c-information-box__contact-infos">
+                        <div class="c-contact-infos">
+                            <div class="c-contact-infos__list">
+                                                                                                                                    <div class="c-contact-infos__item">
+                                        <svg class="c-contact-infos__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-telephone"></use></svg>
+                                        <div class="c-contact-infos__text"><a href="tel:5146334042"><span>514 633-4042</span></a>
+                                                                                    </div>
+                                    </div>
+                                                                                                                            </div>
+                        </div>
+                    </div>
+
+                    <div class="c-information-box__social">
+                        <div class="c-social-links c-social-links--dark">
+                                                                                                                                                                    </div>
+                    </div>
+                </div>
+                    </div>
+    </section>
+                <section class="o-section o-section--events-slider">
+        <div class="c-events-slider">
+            <div class="c-events-slider__top">
+                <h2 class="c-events-slider__heading || js-scrollfire scrollfire-fade-up">
+                    <div class="c-home-heading">Upcoming Council Meetings</div>
+                </h2>
+                <div class="c-events-slider__nav">
+                    <div class="c-events-slider__pagination">
+                        <div class="c-slider-pagination" data-swiper-pagination="events"></div>
+                    </div>
+                    <div class="c-events-slider__arrows">
+                        <div class="c-slider-arrows">
+                            <button class="c-slider-arrows__button" data-swiper-prev="events" title="View previous events">
+                                <svg class="c-slider-arrows__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-gauche"></use></svg>
+                            </button>
+                            <button class="c-slider-arrows__button" data-swiper-next="events" title="View next events">
+                                <svg class="c-slider-arrows__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-chevron-droit"></use></svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="c-events-slider__main">
+            <div class="c-events-slider__slides || js-scrollfire scrollfire-fade-up" data-swiper="events">
+                <div class="c-events-slider__slides-wrapper || swiper-wrapper">
+                                            <div class="c-events-slider__slide || swiper-slide">
+                                
+<a href="https://www.ville.dorval.qc.ca/en/events/municipal-council/august-council-meeting" class="c-event-card hover-button">
+    <span class="c-event-card__box">
+        <span class="c-event-card__content">
+            <span class="c-event-card__title">August Council Meeting</span>
+            <span class="c-event-card__category">
+                <span class="c-pill">Municipal Council</span>
+            </span>
+            <span class="c-event-card__date">
+                Monday August 25
+            </span>
+        </span>
+                    <span class="c-event-card__picture-container">
+                <picture class="c-event-card__picture">
+                    <img class="c-event-card__img || cover lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/135_70_0_0_crop/img_f8f82397aa4ed95101e4ea8d84710d85.JPG" data-src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/1350_700_0_0_crop/img_c079407003ac64435d866df5743c0563.JPG" alt="">
+                </picture>
+            </span>
+            </span>
+    <span class="c-event-card__event-infos">
+        <span class="c-event-infos">
+                            <span class="c-event-infos__item">
+                    <svg class="c-event-infos__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-horloge"></use></svg>
+                    <span class="c-event-infos__text">8&nbsp;p.m.</span>
+                </span>
+                        <span class="c-event-infos__item">
+                <svg class="c-event-infos__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                <span class="c-event-infos__text">In the chapel of the « Quatre Vents » residence (12 Dahlia Avenue, in Dorval)</span>
+            </span>
+        </span>
+    </span>
+</a>                        </div>
+                                            <div class="c-events-slider__slide || swiper-slide">
+                                
+<a href="https://www.ville.dorval.qc.ca/en/events/municipal-council/september-council-meeting" class="c-event-card hover-button">
+    <span class="c-event-card__box">
+        <span class="c-event-card__content">
+            <span class="c-event-card__title">September Council Meeting</span>
+            <span class="c-event-card__category">
+                <span class="c-pill">Municipal Council</span>
+            </span>
+            <span class="c-event-card__date">
+                Monday September 15
+            </span>
+        </span>
+                    <span class="c-event-card__picture-container">
+                <picture class="c-event-card__picture">
+                    <img class="c-event-card__img || cover lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/135_70_0_0_crop/img_f8f82397aa4ed95101e4ea8d84710d85.JPG" data-src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/1350_700_0_0_crop/img_c079407003ac64435d866df5743c0563.JPG" alt="">
+                </picture>
+            </span>
+            </span>
+    <span class="c-event-card__event-infos">
+        <span class="c-event-infos">
+                            <span class="c-event-infos__item">
+                    <svg class="c-event-infos__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-horloge"></use></svg>
+                    <span class="c-event-infos__text">8&nbsp;p.m.</span>
+                </span>
+                        <span class="c-event-infos__item">
+                <svg class="c-event-infos__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                <span class="c-event-infos__text">In the chapel of the « Quatre Vents » residence (12 Dahlia Avenue, in Dorval)</span>
+            </span>
+        </span>
+    </span>
+</a>                        </div>
+                                            <div class="c-events-slider__slide || swiper-slide">
+                                
+<a href="https://www.ville.dorval.qc.ca/en/events/municipal-council/november-council-meeting" class="c-event-card hover-button">
+    <span class="c-event-card__box">
+        <span class="c-event-card__content">
+            <span class="c-event-card__title">November Council Meeting</span>
+            <span class="c-event-card__category">
+                <span class="c-pill">Municipal Council</span>
+            </span>
+            <span class="c-event-card__date">
+                Monday November 17
+            </span>
+        </span>
+                    <span class="c-event-card__picture-container">
+                <picture class="c-event-card__picture">
+                    <img class="c-event-card__img || cover lazy" src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/135_70_0_0_crop/img_f8f82397aa4ed95101e4ea8d84710d85.JPG" data-src="https://www.ville.dorval.qc.ca/storage/app/resources/resize/1350_700_0_0_crop/img_c079407003ac64435d866df5743c0563.JPG" alt="">
+                </picture>
+            </span>
+            </span>
+    <span class="c-event-card__event-infos">
+        <span class="c-event-infos">
+                            <span class="c-event-infos__item">
+                    <svg class="c-event-infos__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-horloge"></use></svg>
+                    <span class="c-event-infos__text">8&nbsp;p.m.</span>
+                </span>
+                        <span class="c-event-infos__item">
+                <svg class="c-event-infos__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                <span class="c-event-infos__text">In the chapel of the « Quatre Vents » residence (12 Dahlia Avenue, in Dorval)</span>
+            </span>
+        </span>
+    </span>
+</a>                        </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="c-events-slider__buttons">
+            <div class="c-events-slider__button">
+                <a href="https://www.ville.dorval.qc.ca/en/events/municipal-council" class="c-button-square c-button-square--sage">
+                    <span>See all events</span>
+                </a>
+            </div>
+            <div class="c-events-slider__button">
+                <button class="c-button-square c-button-square--lime || js-open-overlay-calendar">
+                    <span>Calendar</span>
+                    <svg role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-evenement"></use></svg>
+                </a>
+            </div>
+        </div>
+    </section>
+    
+</div>                </div>
+                <div class="o-page__sticky-track">
+                    <div class="o-page__sticky-buttons">
+                        <div class="o-page__sticky-button">
+                            <a href="https://www.ville.dorval.qc.ca/en/events" class="c-button-sticky c-button-sticky--white" title="See the events">
+                                <svg class="c-button-sticky__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-evenement"></use></svg>
+                            </a>
+                        </div>
+                        <div class="o-page__sticky-button">
+                            <a href="https://www.ville.dorval.qc.ca/en/interactive-map" class="c-button-sticky c-button-sticky--white" title="See the map">
+                                <svg class="c-button-sticky__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-lieu"></use></svg>
+                            </a>
+                        </div>
+                                            </div>
+                </div>
+                <div class="o-page__cookies-track">
+                    <div class="o-page__sticky-cookies">
+                        <button class="c-button-cookies || js-button-cookies" title="Open the cookie management interface">
+                            <svg class="c-button-cookies__svg" >
+                                <path d="M21,13c0,3.2-4.5,5.9-10,5.9c-5.5,0-10-2.6-10-5.9c0-0.4,0.1-0.8,0.2-1.2c0.9,2.8,5,5,9.8,5c4.8,0,8.9-2.1,9.8-5 C20.9,12.2,21,12.6,21,13z"/>
+                                <path d="M11,3.1c-5.4,0-9.8,2.4-9.8,5.3c0,3,4.4,5.3,9.8,5.3s9.8-2.4,9.8-5.3C20.8,5.5,16.4,3.1,11,3.1z M10.1,10.7L7.3,9.2 l0.7-1.3l2.1,1l4-2.5l0.8,1.3L10.1,10.7z"/>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <footer class="c-footer">
+    <div class="c-footer__inner">
+        <div class="c-footer__back-to-top-container">
+            <button class="c-footer__back-to-top" data-scroller-button="body" title="Back to top">
+                <svg class="c-footer__back-to-top-svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiStroke.svg#ico-fleche-haut"></use></svg>
+            </button>
+        </div>
+
+        <div class="c-footer__grid">
+            <div class="c-footer__newsletter">
+                <div class="c-footer__newsletter-heading">Subscribe to our newsletter to receive the latest news from the City!</div>
+                <div class="c-footer__newsletter-button-container">
+                    <a href="https://www.ville.dorval.qc.ca/en/newsletter" class="c-footer__newsletter-button">Subscribe to the newsletter</a>
+                </div>
+            </div>
+
+                <div class="c-footer__links-container">
+        <div class="c-footer-links">
+            <div class="c-footer-links__title">Quick Links</div>
+            <ul class="c-footer-links__items">
+                                    <li class="c-footer-links__item">
+                        <a data-type-value="bottom" id=&quot;fast-link19&quot; href="https://www.ville.dorval.qc.ca/en/the-city/administration-and-finance/call-for-tenders-and-contracts"  class="c-footer-links__link || js-fast-link">Call for Tenders</a>
+                    </li>
+                                    <li class="c-footer-links__item">
+                        <a data-type-value="bottom" id=&quot;fast-link16&quot; href="https://www.ville.dorval.qc.ca/en/contact-us"  class="c-footer-links__link || js-fast-link">Contact Us</a>
+                    </li>
+                                    <li class="c-footer-links__item">
+                        <a data-type-value="bottom" id=&quot;fast-link21&quot; href="https://www.ville.dorval.qc.ca/en/events"  class="c-footer-links__link || js-fast-link">Events</a>
+                    </li>
+                                    <li class="c-footer-links__item">
+                        <a data-type-value="bottom" id=&quot;fast-link10&quot; href="https://www.ville.dorval.qc.ca/en/environment-and-road-maintenance/urban-infrastructure/info-work"  class="c-footer-links__link || js-fast-link">Info-Work</a>
+                    </li>
+                                    <li class="c-footer-links__item">
+                        <a data-type-value="bottom" id=&quot;fast-link17&quot; href="https://www.ville.dorval.qc.ca/en/interactive-map"  class="c-footer-links__link || js-fast-link">Interactive Map</a>
+                    </li>
+                                    <li class="c-footer-links__item">
+                        <a data-type-value="bottom" id=&quot;fast-link11&quot; href="https://www.ville.dorval.qc.ca/en/jobs"  class="c-footer-links__link || js-fast-link">Job offers</a>
+                    </li>
+                                    <li class="c-footer-links__item">
+                        <a data-type-value="bottom" id=&quot;fast-link20&quot; href="https://www.ville.dorval.qc.ca/en/news"  class="c-footer-links__link || js-fast-link">News</a>
+                    </li>
+                                    <li class="c-footer-links__item">
+                        <a data-type-value="bottom" id=&quot;fast-link23&quot; href="https://www.ville.dorval.qc.ca/en/services/online-services"  class="c-footer-links__link || js-fast-link">Online Services</a>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+
+        </div>
+        <div class="c-footer__subfooter">
+            <div class="c-footer__copyrights">
+                <div class="c-footer__copyright-item">
+                    &copy; City of Dorval, 2025
+                </div>
+                <div class="c-footer__copyright-item">
+                    <a href="/en/the-city/administration-and-finance/policies-and-action-plans#confidentiality-policy" class="c-footer__copyright-link">Confidentiality policy</a>
+                </div>
+                <div class="c-footer__copyright-item">
+                    <a href="https://blanko.ca" target="_blank" class="c-footer__copyright-link"><strong>Blanko</strong></a>
+                </div>
+            </div>
+            <div class="c-footer__social">
+                <div class="c-social-links ">
+    <a href="https://www.facebook.com/citededorval" class="c-social-links__item" target="_blank" title="Facebook">
+        <svg class="c-social-links__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-facebook"></use></svg>
+    </a>
+    <a href="https://ca.linkedin.com/company/city-of-dorval" class="c-social-links__item" target="_blank" title="LinkedIn">
+        <svg class="c-social-links__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-linkedin"></use></svg>
+    </a>
+    <a href="https://www.youtube.com/@citededorvalcityofdorval4548" class="c-social-links__item" target="_blank" title="YouTube">
+        <svg class="c-social-links__svg" role="img"><use href="https://www.ville.dorval.qc.ca/themes/dorval/assets/medias/images/symbols/uiFill.svg#ico-youtube"></use></svg>
+    </a>
+</div>            </div>
+        </div>
+    </div>
+</footer>        </div>
+
+        <script>
+            window.config = {
+                theme_path : 'dorval',
+                environment : 'production'
+            }
+        </script>
+
+        <!-- SCRIPTS -->
+    <script type="text/javascript" src="https://www.ville.dorval.qc.ca/combine/514614cae3aaa59624dd556d4b5379f2-1704896012.js"></script>
+    <script src="https://www.ville.dorval.qc.ca/themes/dorval/assets/dist/build.js?v=1745861127"></script>
+
+            <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyABr0iVpsXMijASpqv8FS8lI1uIiaxgjGY&libraries=places"></script>
+    
+    <script src="/modules/system/assets/js/framework-extras.js"></script>
+<link rel="stylesheet" property="stylesheet" href="/modules/system/assets/css/framework-extras.css">
+    <script src="https://www.ville.dorval.qc.ca/plugins/blanko/links/assets/js/links.js"></script>
+
+    <script src="https://www.ville.dorval.qc.ca/plugins/blanko/forms/assets/dist/build.js"></script>
+    <script src="https://www.ville.dorval.qc.ca/plugins/blanko/forms/assets/js/dropzone.js"></script>
+    <script src="https://www.ville.dorval.qc.ca/plugins/blanko/forms/assets/js/file-multi.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js?hl=en&render=explicit"></script>    </body>
+</html>

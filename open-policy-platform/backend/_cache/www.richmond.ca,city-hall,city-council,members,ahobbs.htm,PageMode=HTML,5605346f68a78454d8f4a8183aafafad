@@ -1,0 +1,1108 @@
+status: 200
+encoding: ISO-8859-1
+Content-Type: text/html
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+X-Server-Farm: Prod01
+Date: Fri, 08 Aug 2025 21:46:33 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Transfer-Encoding: chunked
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script type="text/javascript">
+<!--
+var ipjIsDebug=false;
+var ipVirDir="/";
+var ipSysImageDir="/system/images";
+var ipSiteTemplateDir="/__shared/templates";
+var ipDynamicFQDN="https://cms.richmond.ca";
+var ipCurrentPageClass="ContentPage";
+var ipCurrentPageDefID="21313";
+var ipCurrentTemplateID="69";
+//-->
+</script>
+<script src="/__shared/scripts/ip-utilities.js?ver=21.1.84.0" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+ipjPageSiteID=4;
+ipjPageSiteGroupID=0;
+//-->
+</script>
+<script src="/__shared/scripts/ip-ulaccordion.js?ver=21.1.84.0" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+//-->
+</script>
+<meta name="Generator" content="IronPoint v7"/>
+<meta name="UpdateDateTime" content="1/23/2024 4:31:57 PM"/>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Councillor Andy Hobbs - City of Richmond, BC</title>
+<meta name="CategoryFilter" content="City Hall">
+<link rel="stylesheet" href="/__shared/templates/assets/fonts/fontawesome/css/all.min.css">
+<link rel="stylesheet" href="/__shared/templates/assets/js/slick/slick.min.css">
+<link rel="stylesheet" href="/__shared/templates/assets/js/slick/slick-theme.min.css">
+<link rel="stylesheet" href="/__shared/templates/assets/js/slick/accessible-slick-theme.min.css">
+<link rel="stylesheet" href="/__shared/templates/assets/css/normalize.min.css">
+<link rel="stylesheet" href="/__shared/templates/assets/css/main.min.css">
+<link rel="shortcut icon" type="image/jpg" href="/__shared/templates/assets/img/favicon/favicon180.png">
+<link rel="apple-touch-icon image_src" href="/__shared/templates/assets/img/favicon/favicon180.png">
+<style>
+.hero.hero--sidebar {display: none;}
+.hero.hero--sidebar + nav {margin-top: 0;}
+</style>
+</head>
+<body id="thebody" class="section3091"><a href="#content" class="skip-link">Skip to main content</a>
+<header class="header" id="header"  data-nosnippet>
+<div class="alerts__container">
+<div class="container">
+<div class="alerts">
+<div class="alerts__header">
+<h2 class="alerts__heading"><span class="fa-solid fa-triangle-exclamation alerts__heading-icon"></span>Alerts</h2>
+<div class="alerts__source carousel-source"><script language='javascript'>function iptdRegisterTabControl(tabControlID){
+eval("iptdTabIDs" + tabControlID + " = new Array();")
+eval("iptdCancelCycling" + tabControlID + " = false;")
+}
+function iptdRegisterTab(tabControlID, tabID){
+var iptdTabIDs = eval("iptdTabIDs" + tabControlID);
+var cllElement = document.getElementById("cll" + tabControlID + tabID);
+cllElement.onmouseover=function (){iptdSwitchHover(this, true);}
+cllElement.onmouseout=function (){iptdSwitchHover(this, false);}
+cllElement.onclick=function (){iptdTabClick(tabControlID, tabID);}
+iptdTabIDs.push(tabID);
+}
+function iptdTabClick(tabControlID, tabID){
+eval("iptdCancelCycling" + tabControlID + " = true;");
+iptdSelectTab(tabControlID, tabID);
+}
+function iptdSelectTab(tabControlID, tabID){
+if (tabID=="" || !document.getElementById("div" + tabControlID + "Loaded")) return;
+var iptdTabIDs = eval("iptdTabIDs" + tabControlID);
+for (i=0; i<iptdTabIDs.length; i++){
+if (iptdTabIDs[i] !=tabID) iptdDeSelectTab(tabControlID, iptdTabIDs[i]);
+}
+document.getElementById("div" + tabControlID + tabID).style.display = "block";
+var t=document.getElementById("cll" + tabControlID + tabID);
+t.className = "ipf-tabdisplay-tabitem-selected";
+if(t.getAttribute("data-initialized")!="true"){
+t.setAttribute("data-initialized","true");
+eval("iptdTabInit_"+tabControlID+"_"+tabID+"('div"+tabControlID+tabID+"');");
+}else{
+eval("iptdTabShow_"+tabControlID+"_"+tabID+"('div"+tabControlID+tabID+"');");
+}
+}
+function iptdDeSelectTab(tabControlID, tabID){
+if (tabID=="" || !document.getElementById("div" + tabControlID + "Loaded")) return;
+document.getElementById("div" + tabControlID + tabID).style.display = "none";
+document.getElementById("cll" + tabControlID + tabID).className = "ipf-tabdisplay-tabitem";
+}
+function iptdSwitchHover(cllElement, blnHoverOn){
+if (blnHoverOn && cllElement.className=="ipf-tabdisplay-tabitem") cllElement.className="ipf-tabdisplay-tabitem-hover";
+if (!blnHoverOn && cllElement.className=="ipf-tabdisplay-tabitem-hover") cllElement.className="ipf-tabdisplay-tabitem";
+}
+function iptdCycleTabs(tabControlID, interval, tabIndex){
+var iptdCancelCycling = eval("iptdCancelCycling" + tabControlID);
+if (iptdCancelCycling) return;
+var iptdTabIDs=eval("iptdTabIDs" + tabControlID);
+tabIndex++;
+if (tabIndex>iptdTabIDs.length-1) tabIndex=0;
+iptdSelectTab(tabControlID, iptdTabIDs[tabIndex]);
+setTimeout("iptdCycleTabs('" + tabControlID + "'," + interval + "," + tabIndex + ")", interval);
+}</script><div class="ipb-tabitem-hover" style="display:none;">
+
+</div><div class="ipf-tabdisplay-container" style="height:300px;width:400px;">
+	<div class="ipf-tabdisplay-contentarea">
+
+	</div>
+</div></div>
+<button class="alerts__trigger" aria-controls="alerts-wrapper" aria-expanded="false">Expand</button>
+</div>
+<div class="alerts__wrapper alerts__wrapper--inline" aria-hidden="true" id="alerts-wrapper" style="display:none;">
+<div class="alerts__carousel"></div>
+<nav class="alerts__nav carousel-nav">
+<button class="carousel-nav__prev fa-regular fa-chevron-left" aria-label="Previous slide"></button>
+<div class="carousel-nav__dots"></div>
+<button class="carousel-nav__next fa-regular fa-chevron-right" aria-label="Next slide"></button>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div class="header__top">
+<div class="container">
+<nav class="menu menu--header">
+<ul>
+<li><a href="https://myrichmond.richmond.ca/">MyRichmond</a></li>
+<li><a href="https://richmond.ca/city-hall/careers.htm">Careers</a></li>
+</ul>
+</nav>
+<div class="accessibility">
+<button class="select" aria-expanded="false" aria-controls="accessibilty-menu">Accessibility</button>
+<ul id="accessibilty-menu" class="select-options" aria-hidden="true" >
+<li style="display: flex;"><span>Font Size:</span>
+<ul id="font-sizer" class="size1">
+<li class="size1">
+<button type="button" class="btn" aria-label="Change font size - small"><span>A</span></button>
+</li>
+<li class="size2">
+<button type="button" class="btn" aria-label="Change font size - medium"><span>A</span></button>
+</li>
+<li class="size3">
+<button type="button" class="btn" aria-label="Change font size - large"><span>A</span></button>
+</li>
+</ul>
+</li>
+<li><a href="/city-hall/privacydisclaimers/accessibility.htm">Accessibility</a></li>
+</ul>
+</div>
+<div class="gtranslate">
+<!-- GTranslate: https://gtranslate.io/ -->
+<select aria-label="Translate this page" onchange="doGTranslate(this);"><option value="">Translate</option><option value="en|en" class="notranslate">English</option><option value="en-ca|af">Afrikaans</option><option value="en-ca|sq">Albanian</option><option value="en-ca|ar">Arabic</option><option value="en-ca|hy">Armenian</option><option value="en-ca|az">Azerbaijani</option><option value="en-ca|eu">Basque</option><option value="en-ca|be">Belarusian</option><option value="en-ca|bg">Bulgarian</option><option value="en-ca|ca">Catalan</option><option value="en-ca|zh-CN">Chinese (Simplified)</option><option value="en-ca|zh-TW">Chinese (Traditional)</option><option value="en-ca|hr">Croatian</option><option value="en-ca|cs">Czech</option><option value="en-ca|da">Danish</option><option value="en-ca|nl">Dutch</option><option value="en-ca|en">English</option><option value="en-ca|et">Estonian</option><option value="en-ca|tl">Filipino</option><option value="en-ca|fi">Finnish</option><option value="en-ca|fr">French</option><option value="en-ca|gl">Galician</option><option value="en-ca|ka">Georgian</option><option value="en-ca|de">German</option><option value="en-ca|el">Greek</option><option value="en-ca|ht">Haitian Creole</option><option value="en-ca|iw">Hebrew</option><option value="en-ca|hi">Hindi</option><option value="en-ca|hu">Hungarian</option><option value="en-ca|is">Icelandic</option><option value="en-ca|id">Indonesian</option><option value="en-ca|ga">Irish</option><option value="en-ca|it">Italian</option><option value="en-ca|ja">Japanese</option><option value="en-ca|ko">Korean</option><option value="en-ca|lv">Latvian</option><option value="en-ca|lt">Lithuanian</option><option value="en-ca|mk">Macedonian</option><option value="en-ca|ms">Malay</option><option value="en-ca|mt">Maltese</option><option value="en-ca|no">Norwegian</option><option value="en-ca|fa">Persian</option><option value="en-ca|pl">Polish</option><option value="en-ca|pt">Portuguese</option><option value="en-ca|ro">Romanian</option><option value="en-ca|ru">Russian</option><option value="en-ca|sr">Serbian</option><option value="en-ca|sk">Slovak</option><option value="en-ca|sl">Slovenian</option><option value="en-ca|es">Spanish</option><option value="en-ca|sw">Swahili</option><option value="en-ca|sv">Swedish</option><option value="en-ca|th">Thai</option><option value="en-ca|tr">Turkish</option><option value="en-ca|uk">Ukrainian</option><option value="en-ca|ur">Urdu</option><option value="en-ca|vi">Vietnamese</option><option value="en-ca|cy">Welsh</option><option value="en-ca|yi">Yiddish</option></select><div id="google_translate_element2"></div>
+<script>
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'en',autoDisplay: false}, 'google_translate_element2');}
+</script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+<script>
+/* <![CDATA[ */
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element2|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
+/* ]]> */
+</script>
+</div>
+</div>
+</div>
+<div class="header__main">
+<div class="container">
+<a href="/" class="logo"><img src="/__shared/templates/assets/img/logo.png" alt="City of Richmond" width="225" height="60"></a>
+<form method="post" class="search-form" onsubmit="return (this.q.value == '') ? false : true;" action="https://www.richmond.ca/SearchResults/">
+<label for="search-form" class="search-form__label">Search</label>
+<div class="search-form__field">
+<input type="text" id="search-form" placeholder="How can we help you?" name="q">
+<button type="submit" class="search-form__button"><span class="sr">Search</span></button>
+</div>
+</form>
+</div>
+</div>
+<div class="header__bottom">
+<div class="container">
+<div class="header__mobile-controls">
+<button class="mobile-control mobile-control--search" aria-controls="mobile-search" aria-expanded="false" aria-haspopup="true"><span class="mobile-control__text">Search</span><span class="mobile-control__icon fa-solid fa-search"></span></button>
+<button class="mobile-control mobile-control--menu" aria-controls="main-menu" aria-expanded="false" aria-haspopup="true"><span class="mobile-control__text">Menu</span><span class="mobile-control__icon fa-solid fa-plus"></span></button>
+</div>
+<div class="mobile-search" id="mobile-search">
+<form method="post" class="search-form search-form--mobile" onsubmit="return (this.q.value == '') ? false : true;" action="https://www.richmond.ca/SearchResults/">
+<label for="mobile-search-form" class="sr search-form__label">Search</label>
+<div class="search-form__field">
+<input type="text" id="mobile-search-form" placeholder="Search" name="q">
+<button type="submit" class="search-form__button"><span class="sr">Search</span></button>
+</div>
+</form>
+<button class="mobile-search__close" aria-controls="mobile-search"  aria-label="Close the search form"></button>
+</div>
+<nav class="menu menu--main" id="main-menu"><ul id="sectionMenuElementID_0" class="ipf-sectionmenu">
+<li id="pageid11" data-pageid="11" class="ipf-homepage" data-level="1"><div><a href="/home.htm">City of Richmond</a></div></li>	<li id="pageid3089" data-pageid="3089" class="ipf-parent" data-level="1"><div><a href="/services.htm">Services</a></div>
+	<ul>		<li id="pageid1980" data-pageid="1980" class="ipf-parent" data-level="2"><a href="/services/recycling-garbage.htm">Recycling &amp; Garbage</a>
+		<ul>			<li id="pageid1989" data-pageid="1989" class="ipf-parent" data-level="3"><a href="/services/recycling-garbage/schedule.htm">Collection Schedule</a>			</li>
+			<li id="pageid17554" data-pageid="17554" data-level="3"><a href="/services/recycling-garbage/search.htm">How Do I Recycle This Correctly?</a></li>
+			<li id="pageid1985" data-pageid="1985" class="ipf-parent" data-level="3"><a href="/services/recycling-garbage/recyclingservices.htm">Recycling Services</a>			</li>
+			<li id="pageid12714" data-pageid="12714" class="ipf-parent" data-level="3"><a href="/services/recycling-garbage/garbagecollection.htm">Garbage Services</a>			</li>
+			<li id="pageid12722" data-pageid="12722" class="ipf-parent" data-level="3"><a href="/services/recycling-garbage/foodyardwaste.htm">Food Scraps &amp; Yard Waste</a>			</li>
+			<li id="pageid21123" data-pageid="21123" class="ipf-parent" data-level="3"><a href="/services/recycling-garbage/Rethink.htm">Let&#39;s Rethink Waste</a>			</li>
+			<li id="pageid12727" data-pageid="12727" class="ipf-parent" data-level="3"><a href="/services/recycling-garbage/community-outreach.htm">Community Outreach</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid261" data-pageid="261" class="ipf-parent" data-level="2"><a href="/services/animals.htm">Pets &amp; Animals</a>
+		<ul>			<li id="pageid2975" data-pageid="2975" data-level="3"><a href="/services/animals/dogs.htm">Dog Licences</a></li>
+			<li id="pageid2978" data-pageid="2978" data-level="3"><a href="/services/animals/regulations.htm">Animal Regulations</a></li>
+			<li id="pageid2977" data-pageid="2977" data-level="3"><a href="/services/animals/problem.htm">Report a Problem</a></li>
+			<li id="pageid26175" data-pageid="26175" data-level="3"><a href="/services/animals/richmondanimalshelter.htm">Richmond Animal Shelter</a></li>
+			<li id="pageid2976" data-pageid="2976" data-level="3"><a href="/services/animals/lostfound.htm">Lost &amp; Found Pets</a></li>
+			<li id="pageid2974" data-pageid="2974" data-level="3"><a href="/services/animals/adoption.htm">Pet Adoption Service</a></li>
+		</ul>
+		</li>
+		<li id="pageid28624" data-pageid="28624" class="ipf-parent" data-level="2"><a href="/services/water-sewer-flood.htm">Water, Sewer &amp; Flood Protection</a>
+		<ul>			<li id="pageid13396" data-pageid="13396" class="ipf-parent" data-level="3"><a href="/services/water-sewer-flood/water-services.htm">Water Services</a>			</li>
+			<li id="pageid20242" data-pageid="20242" class="ipf-parent" data-level="3"><a href="/services/water-sewer-flood/wastewater.htm">Sanitary Services</a>			</li>
+			<li id="pageid6703" data-pageid="6703" class="ipf-parent" data-level="3"><a href="/services/water-sewer-flood/dikes.htm">Flood Protection</a>			</li>
+			<li id="pageid2005" data-pageid="2005" class="ipf-parent" data-level="3"><a href="/services/water-sewer-flood/publicworks.htm">Public Works</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid9632" data-pageid="9632" class="ipf-parent" data-level="2"><a href="/services/weather-response.htm">Weather Response</a>
+		<ul>			<li id="pageid3510" data-pageid="3510" data-level="3"><a href="/services/weather-response/heat.htm">Heat Safety &amp; Air Quality</a></li>
+			<li id="pageid28387" data-pageid="28387" data-level="3"><a href="/services/weather-response/rains.htm">Heavy Rains</a></li>
+			<li id="pageid9633" data-pageid="9633" class="ipf-parent" data-level="3"><a href="/services/weather-response/snow.htm">Snow &amp; Ice</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid2048" data-pageid="2048" class="ipf-parent" data-level="2"><a href="/services/transportation.htm">Roads &amp; Transportation</a>
+		<ul>			<li id="pageid2077" data-pageid="2077" class="ipf-parent" data-level="3"><a href="/services/transportation/traffic-signals.htm">Traffic Signals</a>			</li>
+			<li id="pageid17044" data-pageid="17044" data-level="3"><a href="https://www.richmond.ca/services/transportation/trafficcameras/Default.aspx">Intersection Traffic Cameras</a></li>
+			<li id="pageid21042" data-pageid="21042" data-level="3"><a href="/services/transportation/videorequest.htm">Intersection Video Footage Request</a></li>
+			<li id="pageid2076" data-pageid="2076" data-level="3"><a href="/services/transportation/restrictions.htm">Weight, Speed &amp; Height Restrictions</a></li>
+			<li id="pageid2047" data-pageid="2047" data-level="3"><a href="/services/transportation/special.htm">Street Use for Special Purposes</a></li>
+			<li id="pageid133" data-pageid="133" class="ipf-parent" data-level="3"><a href="/services/transportation/maintenance.htm">Street, Sidewalk &amp; Watercourse Maintenance</a>			</li>
+			<li id="pageid2018" data-pageid="2018" data-level="3"><a href="/services/transportation/lasp.htm">Local Area Services Program</a></li>
+		</ul>
+		</li>
+		<li id="pageid3095" data-pageid="3095" class="ipf-parent" data-level="2"><a href="/services/public-safety.htm">Emergency Services</a>
+		<ul>			<li id="pageid2868" data-pageid="2868" data-level="3"><a href="/services/public-safety/call.htm">Who to Call in an Emergency</a></li>
+			<li id="pageid2869" data-pageid="2869" data-level="3"><a href="/services/public-safety/emergency-preparedness.htm">Emergency Preparedness</a></li>
+			<li id="pageid20753" data-pageid="20753" data-level="3"><a href="/services/public-safety/RFR.htm">Fire-Rescue</a></li>
+			<li id="pageid28478" data-pageid="28478" class="ipf-parent" data-level="3"><a href="/services/public-safety/police.htm">Police/RCMP</a>			</li>
+			<li id="pageid31243" data-pageid="31243" data-level="3"><a href="/services/public-safety/aed.htm">Automatic External Defibrillators (AEDs)</a></li>
+		</ul>
+		</li>
+		<li id="pageid12615" data-pageid="12615" class="ipf-parent" data-level="2"><a href="/services/climate.htm">Climate &amp; Environment</a>
+		<ul>			<li id="pageid19850" data-pageid="19850" data-level="3"><a href="/services/climate/climate.htm">Advancing Climate Leadership</a></li>
+			<li id="pageid124" data-pageid="124" class="ipf-parent" data-level="3"><a href="/services/climate/environment.htm">Enhancing Natural Ecology</a>			</li>
+			<li id="pageid14885" data-pageid="14885" class="ipf-parent" data-level="3"><a href="/services/climate/stewardship.htm">Protecting the Environment</a>			</li>
+			<li id="pageid20291" data-pageid="20291" data-level="3"><a href="/services/climate/circulareconomy.htm">Accelerating Circularity</a></li>
+			<li id="pageid12627" data-pageid="12627" class="ipf-parent" data-level="3"><a href="/services/climate/energysrvs.htm">Energy &amp; Emissions</a>			</li>
+			<li id="pageid8771" data-pageid="8771" class="ipf-parent" data-level="3"><a href="/services/climate/towards.htm">About Sustainability</a>			</li>
+			<li id="pageid19944" data-pageid="19944" data-level="3"><a href="/services/climate/getinvolved.htm">Get involved</a></li>
+			<li id="pageid1963" data-pageid="1963" data-level="3"><a href="/services/climate/call.htm">Contact Us</a></li>
+		</ul>
+		</li>
+		<li id="pageid1877" data-pageid="1877" class="ipf-parent" data-level="2"><a href="/services/digital.htm">Digital Services</a>
+		<ul>			<li id="pageid15196" data-pageid="15196" data-level="3"><a href="/services/digital/getapps.htm">Get Our Mobile Apps</a></li>
+			<li id="pageid171" data-pageid="171" data-level="3"><a href="/services/digital/maps.htm">City Maps</a></li>
+			<li id="pageid17165" data-pageid="17165" data-level="3"><a href="https://www.richmond.ca/services/digital/wifimap/Default.aspx">Public Wi-Fi Locations</a></li>
+		</ul>
+		</li>
+		<li id="pageid1846" data-pageid="1846" class="ipf-parent" data-level="2"><a href="/services/volunteering.htm">Volunteering</a>
+		<ul>			<li id="pageid32161" data-pageid="32161" data-level="3"><a href="/services/volunteering/spotlights.htm">Volunteer Spotlights</a></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="pageid3099" data-pageid="3099" class="ipf-parent" data-level="1"><div><a href="/parks-recreation.htm">Parks &amp; Recreation</a></div>
+	<ul>		<li id="pageid2586" data-pageid="2586" class="ipf-parent" data-level="2"><a href="/parks-recreation/registration.htm">Program Registration</a>
+		<ul>			<li id="pageid31827" data-pageid="31827" data-level="3"><a href="/parks-recreation/registration/activitysearchtoolhelp.htm">Activity Search Tool Help</a></li>
+			<li id="pageid20825" data-pageid="20825" data-level="3"><a href="/parks-recreation/registration/reghelp.htm">Program Registration Help</a></li>
+			<li id="pageid20838" data-pageid="20838" data-level="3"><a href="/parks-recreation/registration/membershiprequest.htm">Memberships</a></li>
+			<li id="pageid21124" data-pageid="21124" data-level="3"><a href="/parks-recreation/registration/cancelregisteredvisit.htm">Cancellations</a></li>
+			<li id="pageid9351" data-pageid="9351" data-level="3"><a href="/parks-recreation/registration/notice.htm">Holiday Hours</a></li>
+		</ul>
+		</li>
+		<li id="pageid201" data-pageid="201" class="ipf-parent" data-level="2"><a href="/parks-recreation/about.htm">About Recreation</a>
+		<ul>			<li id="pageid23971" data-pageid="23971" data-level="3"><a href="/parks-recreation/about/schedules.htm">Schedules &amp; Fees</a></li>
+			<li id="pageid232" data-pageid="232" class="ipf-parent" data-level="3"><a href="/parks-recreation/about/sports.htm">Sports, Fitness &amp; Active Living</a>			</li>
+			<li id="pageid2863" data-pageid="2863" class="ipf-parent" data-level="3"><a href="/parks-recreation/about/youthactivities.htm">Youth Activities</a>			</li>
+			<li id="pageid4657" data-pageid="4657" class="ipf-parent" data-level="3"><a href="/parks-recreation/about/seniors.htm">Seniors Activities, Guides and Passes</a>			</li>
+			<li id="pageid207" data-pageid="207" class="ipf-parent" data-level="3"><a href="/parks-recreation/about/facilityrental.htm">Rental Facilities, Parties &amp; Gift Cards</a>			</li>
+			<li id="pageid17851" data-pageid="17851" class="ipf-parent" data-level="3"><a href="/parks-recreation/about/workinrecreation.htm">Work in Recreation</a>			</li>
+			<li id="pageid2837" data-pageid="2837" class="ipf-parent" data-level="3"><a href="/parks-recreation/about/about.htm">Aquatic Services</a>			</li>
+			<li id="pageid31191" data-pageid="31191" class="ipf-parent" data-level="3"><a href="/parks-recreation/about/arenas.htm">Arenas Services</a>			</li>
+			<li id="pageid14739" data-pageid="14739" data-level="3"><a href="/parks-recreation/about/camps.htm">Daycamps</a></li>
+			<li id="pageid2598" data-pageid="2598" data-level="3"><a href="/parks-recreation/about/preschool.htm">Preschools &amp; Out of School Care</a></li>
+		</ul>
+		</li>
+		<li id="pageid210" data-pageid="210" class="ipf-parent" data-level="2"><a href="/parks-recreation/centres.htm">Recreation Facilities</a>
+		<ul>			<li id="pageid211" data-pageid="211" data-level="3"><a href="/parks-recreation/centres/cambie.htm">Cambie</a></li>
+			<li id="pageid212" data-pageid="212" data-level="3"><a href="/parks-recreation/centres/citycentre.htm">City Centre</a></li>
+			<li id="pageid213" data-pageid="213" data-level="3"><a href="/parks-recreation/centres/hamiltoncentre.htm">Hamilton</a></li>
+			<li id="pageid2631" data-pageid="2631" data-level="3"><a href="/parks-recreation/centres/minoru-arenas.htm">Minoru Arenas</a></li>
+			<li id="pageid2842" data-pageid="2842" data-level="3"><a href="/parks-recreation/centres/minoru.htm">Minoru Centre for Active Living - Aquatic Centre</a></li>
+			<li id="pageid20786" data-pageid="20786" data-level="3"><a href="/parks-recreation/centres/mcal.htm">Minoru Centre for Active Living - Seniors Centre</a></li>
+			<li id="pageid2843" data-pageid="2843" data-level="3"><a href="/parks-recreation/centres/outdoor.htm">Outdoor Pools &amp; Waterplay Areas</a></li>
+			<li id="pageid28625" data-pageid="28625" data-level="3"><a href="/parks-recreation/centres/richmond-ice.htm">Richmond Ice Centre</a></li>
+			<li id="pageid214" data-pageid="214" data-level="3"><a href="/parks-recreation/centres/seaisland.htm">Sea Island</a></li>
+			<li id="pageid215" data-pageid="215" data-level="3"><a href="/parks-recreation/centres/southarm.htm">South Arm</a></li>
+			<li id="pageid220" data-pageid="220" data-level="3"><a href="/parks-recreation/centres/steveston.htm">Steveston</a></li>
+			<li id="pageid221" data-pageid="221" data-level="3"><a href="/parks-recreation/centres/thompson.htm">Thompson</a></li>
+			<li id="pageid2845" data-pageid="2845" data-level="3"><a href="/parks-recreation/centres/watermania.htm">Watermania</a></li>
+			<li id="pageid222" data-pageid="222" data-level="3"><a href="/parks-recreation/centres/wrichmond.htm">West Richmond</a></li>
+		</ul>
+		</li>
+		<li id="pageid225" data-pageid="225" class="ipf-parent" data-level="2"><a href="/parks-recreation/parks.htm">Parks</a>
+		<ul>			<li id="pageid2798" data-pageid="2798" data-level="3"><a href="https://www.richmond.ca/parks-recreation/parks/parksearch/Default.aspx">Find a Park</a></li>
+			<li id="pageid2797" data-pageid="2797" data-level="3"><a href="/parks-recreation/parks/system.htm">Richmond Parks System</a></li>
+			<li id="pageid13009" data-pageid="13009" data-level="3"><a href="/parks-recreation/parks/signature-parks.htm">Signature Parks</a></li>
+			<li id="pageid2834" data-pageid="2834" class="ipf-parent" data-level="3"><a href="/parks-recreation/parks/aboutrnp.htm">Richmond Nature Park</a>			</li>
+			<li id="pageid13025" data-pageid="13025" class="ipf-parent" data-level="3"><a href="/parks-recreation/parks/design-construction.htm">Parks Design &amp; Construction</a>			</li>
+			<li id="pageid24033" data-pageid="24033" data-level="3"><a href="/parks-recreation/parks/operations.htm">Parks Operations &amp; Infrastructure</a></li>
+			<li id="pageid14911" data-pageid="14911" class="ipf-parent" data-level="3"><a href="/parks-recreation/parks/programs.htm">Parks Programs</a>			</li>
+			<li id="pageid2800" data-pageid="2800" data-level="3"><a href="/parks-recreation/parks/dogsinparks.htm">Dogs In Parks</a></li>
+			<li id="pageid2793" data-pageid="2793" data-level="3"><a href="/parks-recreation/parks/golf.htm">Pitch &amp; Putt Golf</a></li>
+		</ul>
+		</li>
+		<li id="pageid12616" data-pageid="12616" class="ipf-parent" data-level="2"><a href="/parks-recreation/parks-trails-cycling.htm">Trails &amp; Cycling</a>
+		<ul>			<li id="pageid13067" data-pageid="13067" class="ipf-parent" data-level="3"><a href="/parks-recreation/parks-trails-cycling/trails-map.htm">Trails System and Map</a>			</li>
+			<li id="pageid141" data-pageid="141" class="ipf-parent" data-level="3"><a href="/parks-recreation/parks-trails-cycling/cycling.htm">Cycling in Richmond</a>			</li>
+			<li id="pageid2819" data-pageid="2819" data-level="3"><a href="/parks-recreation/parks-trails-cycling/rules.htm">Rules &amp; Etiquette</a></li>
+		</ul>
+		</li>
+		<li id="pageid13023" data-pageid="13023" class="ipf-parent" data-level="2"><a href="/parks-recreation/waterfront2.htm">Waterfront Activities</a>
+		<ul>			<li id="pageid13010" data-pageid="13010" data-level="3"><a href="/parks-recreation/waterfront2/aboutwaterfront.htm">About Waterfront Activities</a></li>
+			<li id="pageid13015" data-pageid="13015" data-level="3"><a href="/parks-recreation/waterfront2/fishingpiers.htm">Fishing Piers &amp; Boating</a></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="pageid3524" data-pageid="3524" class="ipf-parent" data-level="1"><div><a href="/culture.htm">Community &amp; Culture</a></div>
+	<ul>		<li id="pageid7924" data-pageid="7924" class="ipf-parent" data-level="2"><a href="https://www.richmond.ca/culture/calendar/search/Default.aspx">Calendar of Events</a>
+		<ul>			<li id="pageid4846" data-pageid="4846" data-level="3"><a href="https://www.richmond.ca/culture/calendar/submit/Default.aspx">Submit a Calendar Event</a></li>
+			<li id="pageid11512" data-pageid="11512" class="ipf-parent" data-level="3"><a href="/culture/calendar/special-events.htm">Special Events</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid28617" data-pageid="28617" class="ipf-parent" data-level="2"><a href="/culture/eventplanningresources.htm">Event Planning Resources</a>
+		<ul>			<li id="pageid12646" data-pageid="12646" class="ipf-parent" data-level="3"><a href="/culture/eventplanningresources/eventapp.htm">Event Applications &amp; Approvals</a>			</li>
+			<li id="pageid12647" data-pageid="12647" data-level="3"><a href="/culture/eventplanningresources/hostservices.htm">Sport Hosting</a></li>
+			<li id="pageid12639" data-pageid="12639" class="ipf-parent" data-level="3"><a href="/culture/eventplanningresources/parks-outdoor.htm">Outdoor Event Venues</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid3090" data-pageid="3090" class="ipf-parent" data-level="2"><a href="/culture/discover-richmond.htm">About Richmond</a>
+		<ul>			<li id="pageid2311" data-pageid="2311" class="ipf-parent" data-level="3"><a href="/culture/discover-richmond/profile.htm">City Profile</a>			</li>
+			<li id="pageid2453" data-pageid="2453" data-level="3"><a href="/culture/discover-richmond/attractions.htm">Visitor Attractions</a></li>
+		</ul>
+		</li>
+		<li id="pageid157" data-pageid="157" class="ipf-parent" data-level="2"><a href="/culture/sites.htm">Museums &amp; Heritage</a>
+		<ul>			<li id="pageid2214" data-pageid="2214" data-level="3"><a href="/culture/sites/about.htm">About Museum &amp; Heritage Services</a></li>
+			<li id="pageid2236" data-pageid="2236" data-level="3"><a href="/culture/sites/richmondmuseum.htm">Richmond Museum</a></li>
+			<li id="pageid2218" data-pageid="2218" data-level="3"><a href="/culture/sites/britanniashipyards.htm">Britannia Shipyards</a></li>
+			<li id="pageid2225" data-pageid="2225" data-level="3"><a href="/culture/sites/londonfarm.htm">London Farm</a></li>
+			<li id="pageid2216" data-pageid="2216" data-level="3"><a href="/culture/sites/stevestonmuseum.htm">Steveston Museum &amp; Post Office</a></li>
+			<li id="pageid15668" data-pageid="15668" data-level="3"><a href="/culture/sites/stevestontram.htm">Steveston Tram</a></li>
+			<li id="pageid2233" data-pageid="2233" data-level="3"><a href="/culture/sites/minoruchapel.htm">Minoru Chapel</a></li>
+			<li id="pageid28512" data-pageid="28512" data-level="3"><a href="/culture/sites/scotchpond.htm">Scotch Pond</a></li>
+			<li id="pageid28513" data-pageid="28513" data-level="3"><a href="/culture/sites/artefactcollection.htm">Artefact Collection</a></li>
+			<li id="pageid31822" data-pageid="31822" class="ipf-parent" data-level="3"><a href="/culture/sites/richmondmemorialmonuments.htm">Richmond Memorial Monuments</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid28544" data-pageid="28544" class="ipf-parent" data-level="2"><a href="/culture/howartworks.htm">Arts &amp; Culture</a>
+		<ul>			<li id="pageid155" data-pageid="155" class="ipf-parent" data-level="3"><a href="/culture/howartworks/centre.htm">Richmond Arts Centre</a>			</li>
+			<li id="pageid3056" data-pageid="3056" class="ipf-parent" data-level="3"><a href="/culture/howartworks/richmondartgallery.htm">Richmond Art Gallery</a>			</li>
+			<li id="pageid11557" data-pageid="11557" class="ipf-parent" data-level="3"><a href="/culture/howartworks/cultural-centre.htm">Cultural Centre &amp; Library</a>			</li>
+			<li id="pageid2094" data-pageid="2094" data-level="3"><a href="/culture/howartworks/gateway.htm">Gateway Theatre</a></li>
+			<li id="pageid2217" data-pageid="2217" class="ipf-parent" data-level="3"><a href="/culture/howartworks/branscombe-house.htm">Branscombe House</a>			</li>
+			<li id="pageid28545" data-pageid="28545" data-level="3"><a href="/culture/howartworks/engagewithartists.htm">Engage with Artists</a></li>
+			<li id="pageid8382" data-pageid="8382" class="ipf-parent" data-level="3"><a href="/culture/howartworks/artists-opportunities.htm">Opportunities for Artists</a>			</li>
+			<li id="pageid31021" data-pageid="31021" class="ipf-parent" data-level="3"><a href="/culture/howartworks/publicart.htm">Public Art</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid20034" data-pageid="20034" class="ipf-parent" data-level="2"><a href="/culture/social.htm">Social Development</a>
+		<ul>			<li id="pageid20086" data-pageid="20086" class="ipf-parent" data-level="3"><a href="/culture/social/csdev.htm">Community Social Development</a>			</li>
+			<li id="pageid2029" data-pageid="2029" data-level="3"><a href="/culture/social/social-planning.htm">Social Planning</a></li>
+			<li id="pageid2034" data-pageid="2034" class="ipf-parent" data-level="3"><a href="/culture/social/affordable-housing.htm">Affordable Housing</a>			</li>
+			<li id="pageid20038" data-pageid="20038" class="ipf-parent" data-level="3"><a href="/culture/social/homelessness.htm">Homelessness</a>			</li>
+			<li id="pageid2588" data-pageid="2588" class="ipf-parent" data-level="3"><a href="/culture/social/inclusion.htm">Inclusion</a>			</li>
+			<li id="pageid20045" data-pageid="20045" class="ipf-parent" data-level="3"><a href="/culture/social/accessibility.htm">Accessibility &amp; Poverty Reduction</a>			</li>
+			<li id="pageid2031" data-pageid="2031" class="ipf-parent" data-level="3"><a href="/culture/social/child-care.htm">Child Care</a>			</li>
+			<li id="pageid20042" data-pageid="20042" class="ipf-parent" data-level="3"><a href="/culture/social/youth.htm">Youth Planning</a>			</li>
+			<li id="pageid20043" data-pageid="20043" class="ipf-parent" data-level="3"><a href="/culture/social/seniors.htm">Seniors Planning</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid8155" data-pageid="8155" data-level="2"><a href="/culture/citygrant.htm">City Grant Programs</a></li>
+	</ul>
+	</li>
+	<li id="pageid12613" data-pageid="12613" class="ipf-parent" data-level="1"><div><a href="/business-development.htm">Business &amp; Development</a></div>
+	<ul>		<li id="pageid130" data-pageid="130" class="ipf-parent" data-level="2"><a href="/business-development/projects.htm">Current Projects</a>
+		<ul>			<li id="pageid18690" data-pageid="18690" data-level="3"><a href="/business-development/projects/construction.htm">Construction Projects</a></li>
+			<li id="pageid18503" data-pageid="18503" data-level="3"><a href="/business-development/projects/majorfacilitiesprojects.htm">Major Facilities Projects</a></li>
+			<li id="pageid2012" data-pageid="2012" data-level="3"><a href="/business-development/projects/noise.htm">Noise Bylaw Exemptions</a></li>
+			<li id="pageid19797" data-pageid="19797" data-level="3"><a href="/business-development/projects/pavingprogram.htm">Paving Program</a></li>
+			<li id="pageid2014" data-pageid="2014" data-level="3"><a href="/business-development/projects/traffic.htm">Transportation Projects</a></li>
+			<li id="pageid14680" data-pageid="14680" data-level="3"><a href="/business-development/projects/parks-projects.htm">Parks Projects</a></li>
+			<li id="pageid13698" data-pageid="13698" data-level="3"><a href="/business-development/projects/gilbertroadsewer.htm">Gilbert Road Sewer Upgrade</a></li>
+		</ul>
+		</li>
+		<li id="pageid113" data-pageid="113" class="ipf-parent" data-level="2"><a href="/business-development/planning.htm">Planning &amp; Zoning</a>
+		<ul>			<li id="pageid1894" data-pageid="1894" data-level="3"><a href="/business-development/planning/about.htm">About Planning &amp; Zoning</a></li>
+			<li id="pageid18461" data-pageid="18461" data-level="3"><a href="/business-development/planning/completedprojects.htm">Completed Planning Projects</a></li>
+			<li id="pageid9573" data-pageid="9573" data-level="3"><a href="/business-development/planning/ocp.htm">Official Community Plan</a></li>
+			<li id="pageid26156" data-pageid="26156" data-level="3"><a href="/business-development/planning/ocp-update.htm">Official Community Plan Targeted Update</a></li>
+			<li id="pageid118" data-pageid="118" class="ipf-parent" data-level="3"><a href="/business-development/planning/landuse.htm">Land Use &amp; Zoning</a>			</li>
+			<li id="pageid3622" data-pageid="3622" data-level="3"><a href="/business-development/planning/agriculture-richmond.htm">Agriculture in Richmond</a></li>
+			<li id="pageid116" data-pageid="116" class="ipf-parent" data-level="3"><a href="/business-development/planning/heritage.htm">Heritage Conservation</a>			</li>
+			<li id="pageid8188" data-pageid="8188" data-level="3"><a href="/business-development/planning/luluawards.htm">Lulu Awards for Urban Design</a></li>
+			<li id="pageid31586" data-pageid="31586" data-level="3"><a href="/business-development/planning/housing-legislation.htm">Provincial Housing Legislation Changes</a></li>
+			<li id="pageid2084" data-pageid="2084" data-level="3"><a href="/business-development/planning/transportationplanning.htm">Transportation Planning</a></li>
+		</ul>
+		</li>
+		<li id="pageid18" data-pageid="18" class="ipf-parent" data-level="2"><a href="/business-development/devzoning.htm">Development &amp; Rezoning</a>
+		<ul>			<li id="pageid9867" data-pageid="9867" data-level="3"><a href="/business-development/devzoning/currentdevapps.htm">Current Development Applications</a></li>
+			<li id="pageid295" data-pageid="295" data-level="3"><a href="/business-development/devzoning/forms.htm">Application Forms &amp; Information</a></li>
+			<li id="pageid294" data-pageid="294" data-level="3"><a href="/business-development/devzoning/fees.htm">Application Fees</a></li>
+			<li id="pageid293" data-pageid="293" data-level="3"><a href="/business-development/devzoning/address.htm">Address Information</a></li>
+			<li id="pageid6742" data-pageid="6742" data-level="3"><a href="/business-development/devzoning/roadnaming.htm">Road Naming Criteria</a></li>
+			<li id="pageid28575" data-pageid="28575" data-level="3"><a href="/business-development/devzoning/landscapers.htm">Landscaping Resources</a></li>
+			<li id="pageid18718" data-pageid="18718" data-level="3"><a href="/business-development/devzoning/comfortletters.htm">Comfort Letters</a></li>
+			<li id="pageid1986" data-pageid="1986" data-level="3"><a href="/business-development/devzoning/multifam.htm">Waste Management Guidelines</a></li>
+			<li id="pageid132" data-pageid="132" class="ipf-parent" data-level="3"><a href="/business-development/devzoning/policies.htm">Damage &amp; Unauthorized Modifications to City Property</a>			</li>
+			<li id="pageid10387" data-pageid="10387" class="ipf-parent" data-level="3"><a href="/business-development/devzoning/specs.htm">Publications, Specifications &amp; Drawings</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid277" data-pageid="277" class="ipf-parent" data-level="2"><a href="/business-development/building-approvals.htm">Building Approvals</a>
+		<ul>			<li id="pageid21069" data-pageid="21069" data-level="3"><a href="/business-development/building-approvals/better-buildings.htm">Better Buildings</a></li>
+			<li id="pageid17" data-pageid="17" class="ipf-parent" data-level="3"><a href="/business-development/building-approvals/reports.htm">Bulletins, Schedules &amp; Reports</a>			</li>
+			<li id="pageid283" data-pageid="283" data-level="3"><a href="/business-development/building-approvals/homeguide.htm">Residential Building Information</a></li>
+			<li id="pageid284" data-pageid="284" data-level="3"><a href="/business-development/building-approvals/inspections.htm">Inspection Requests &amp; Plan Review Status</a></li>
+			<li id="pageid278" data-pageid="278" data-level="3"><a href="/business-development/building-approvals/building.htm">Forms, Records and Information</a></li>
+			<li id="pageid286" data-pageid="286" data-level="3"><a href="/business-development/building-approvals/permits.htm">Commercial and Multi-Family Building Permit Requirements</a></li>
+			<li id="pageid279" data-pageid="279" data-level="3"><a href="/business-development/building-approvals/demomoveandsalvage.htm">Demolition, Moving or Salvage Program</a></li>
+			<li id="pageid288" data-pageid="288" data-level="3"><a href="/business-development/building-approvals/sewer.htm">Industrial Waste Sewer Connections</a></li>
+			<li id="pageid19656" data-pageid="19656" data-level="3"><a href="/business-development/building-approvals/faqs.htm">Frequently Asked Questions</a></li>
+		</ul>
+		</li>
+		<li id="pageid1891" data-pageid="1891" data-level="2"><a href="/business-development/permits.htm">Permits &amp; Licences</a></li>
+		<li id="pageid3092" data-pageid="3092" class="ipf-parent" data-level="2"><a href="/business-development/resources.htm">Business Resources</a>
+		<ul>			<li id="pageid30996" data-pageid="30996" data-level="3"><a href="/business-development/resources/economicdev.htm">Economic Development</a></li>
+			<li id="pageid273" data-pageid="273" class="ipf-parent" data-level="3"><a href="/business-development/resources/business-licences.htm">Business Licences</a>			</li>
+			<li id="pageid274" data-pageid="274" data-level="3"><a href="/business-development/resources/signage.htm">Business Signage</a></li>
+			<li id="pageid11687" data-pageid="11687" class="ipf-parent" data-level="3"><a href="/business-development/resources/business-directory.htm">Richmond Business Directory</a>			</li>
+			<li id="pageid32145" data-pageid="32145" data-level="3"><a href="/business-development/resources/buylocal.htm">Buy Local</a></li>
+		</ul>
+		</li>
+		<li id="pageid275" data-pageid="275" data-level="2"><a href="/business-development/tenders.htm">Bid Opportunities</a></li>
+		<li id="pageid16918" data-pageid="16918" class="ipf-parent" data-level="2"><a href="/business-development/e-plan.htm">Online Submissions</a>
+		<ul>			<li id="pageid31152" data-pageid="31152" class="ipf-parent" data-level="3"><a href="/business-development/e-plan/mypermit.htm">MyPermit Portal</a>			</li>
+			<li id="pageid16875" data-pageid="16875" class="ipf-parent" data-level="3"><a href="/business-development/e-plan/about-eplan.htm">ePlan Submissions</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid307" data-pageid="307" class="ipf-parent" data-level="2"><a href="/business-development/filming.htm">Filming</a>
+		<ul>			<li id="pageid310" data-pageid="310" data-level="3"><a href="/business-development/filming/policies.htm">Guidelines for Filming</a></li>
+			<li id="pageid305" data-pageid="305" data-level="3"><a href="/business-development/filming/applications.htm">Application Forms</a></li>
+			<li id="pageid5728" data-pageid="5728" data-level="3"><a href="/business-development/filming/fees.htm">Location Filming Fees</a></li>
+			<li id="pageid5767" data-pageid="5767" data-level="3"><a href="/business-development/filming/popularlocations.htm">Popular Locations</a></li>
+			<li id="pageid5764" data-pageid="5764" data-level="3"><a href="/business-development/filming/neighbourhood.htm">Filming in your Neighbourhood</a></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="pageid3091" data-pageid="3091" class="ipf-parent" data-level="1"><div><a href="/city-hall.htm">City Hall</a></div>
+	<ul>		<li id="pageid28605" data-pageid="28605" class="ipf-parent" data-level="2"><a href="/city-hall/news.htm">News</a>
+		<ul>			<li id="pageid31258" data-pageid="31258" data-level="3"><a href="/city-hall/news/public-notices.htm">Public Notices</a></li>
+			<li id="pageid28616" data-pageid="28616" data-level="3"><a href="/city-hall/news/publicengagement.htm">Let&#39;s Talk Richmond</a></li>
+			<li id="pageid31946" data-pageid="31946" data-level="3"><a href="/city-hall/news/2025.htm">2025 News &amp; Information</a></li>
+			<li id="pageid31255" data-pageid="31255" data-level="3"><a href="/city-hall/news/2024.htm">2024 News &amp; Information</a></li>
+			<li id="pageid28534" data-pageid="28534" data-level="3"><a href="/city-hall/news/2023.htm">2023 News &amp; Information</a></li>
+			<li id="pageid21715" data-pageid="21715" data-level="3"><a href="/city-hall/news/city2022.htm">2022 News &amp; Information</a></li>
+			<li id="pageid12974" data-pageid="12974" data-level="3"><a href="/city-hall/news/affiliated.htm">Social Media Directory</a></li>
+			<li id="pageid3511" data-pageid="3511" class="ipf-parent" data-level="3"><a href="/city-hall/news/newsletters.htm">Newsletters</a>			</li>
+			<li id="pageid3072" data-pageid="3072" data-level="3"><a href="/city-hall/news/media.htm">Media Contact</a></li>
+		</ul>
+		</li>
+		<li id="pageid13857" data-pageid="13857" class="ipf-parent" data-level="2"><a href="/city-hall/city-council.htm">City Council</a>
+		<ul>			<li id="pageid30850" data-pageid="30850" data-level="3"><a href="https://citycouncil.richmond.ca/">Council Meetings &amp; Resources</a></li>
+			<li id="pageid530" data-pageid="530" data-level="3"><a href="/city-hall/city-council/responsibilities.htm">Term &amp; Responsibilities</a></li>
+			<li id="pageid14161" data-pageid="14161" class="ipf-parent" data-level="3"><a href="/city-hall/city-council/councilprocess.htm">Council Process</a>			</li>
+			<li id="pageid1791" data-pageid="1791" class="ipf-parent" data-level="3"><a href="/city-hall/city-council/public-hearings.htm">Public Hearings</a>			</li>
+			<li id="pageid13831" data-pageid="13831" data-level="3"><a href="/city-hall/city-council/councilremuneration.htm">Remuneration</a></li>
+			<li id="pageid92" data-pageid="92" class="ipf-parent" data-level="3"><a href="/city-hall/city-council/members.htm">Members</a>			</li>
+			<li id="pageid537" data-pageid="537" data-level="3"><a href="/city-hall/city-council/messages.htm">Mayor&#39;s Annual Address</a></li>
+			<li id="pageid19918" data-pageid="19918" data-level="3"><a href="/city-hall/city-council/strategicplan.htm">Council Strategic Plan 2022-2026</a></li>
+			<li id="pageid91" data-pageid="91" class="ipf-parent" data-level="3"><a href="/city-hall/city-council/boards.htm">Boards &amp; Committees</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid1794" data-pageid="1794" class="ipf-parent" data-level="2"><a href="/city-hall/city-departments.htm">Departments</a>
+		<ul>			<li id="pageid338" data-pageid="338" data-level="3"><a href="/city-hall/city-departments/cao.htm">City Administration</a></li>
+			<li id="pageid31715" data-pageid="31715" data-level="3"><a href="/city-hall/city-departments/deputycao.htm">Deputy CAO Office</a></li>
+			<li id="pageid5333" data-pageid="5333" data-level="3"><a href="/city-hall/city-departments/community-safety.htm">Law &amp; Community Safety</a></li>
+			<li id="pageid1831" data-pageid="1831" data-level="3"><a href="/city-hall/city-departments/community-services.htm">Parks, Recreation &amp; Culture</a></li>
+			<li id="pageid1810" data-pageid="1810" data-level="3"><a href="/city-hall/city-departments/engineering-public-works.htm">Engineering &amp; Public Works</a></li>
+			<li id="pageid5116" data-pageid="5116" data-level="3"><a href="/city-hall/city-departments/finance-corporate-services.htm">Finance &amp; Corporate Services</a></li>
+			<li id="pageid1837" data-pageid="1837" data-level="3"><a href="/city-hall/city-departments/planning-development.htm">Planning &amp; Development</a></li>
+			<li id="pageid187" data-pageid="187" class="ipf-parent" data-level="3"><a href="/city-hall/city-departments/contact.htm">Contact Us</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid36" data-pageid="36" class="ipf-parent" data-level="2"><a href="/city-hall/buildings.htm">City Buildings</a>
+		<ul>			<li id="pageid453" data-pageid="453" class="ipf-parent" data-level="3"><a href="/city-hall/buildings/city-hall.htm">City Hall</a>			</li>
+			<li id="pageid446" data-pageid="446" data-level="3"><a href="/city-hall/buildings/buildings.htm">All Buildings List</a></li>
+		</ul>
+		</li>
+		<li id="pageid102" data-pageid="102" class="ipf-parent" data-level="2"><a href="/city-hall/finance.htm">Finance, Taxes &amp; Utilities</a>
+		<ul>			<li id="pageid1847" data-pageid="1847" data-level="3"><a href="/city-hall/finance/about.htm">About Finance &amp; Taxes</a></li>
+			<li id="pageid103" data-pageid="103" class="ipf-parent" data-level="3"><a href="/city-hall/finance/reporting.htm">Budgets &amp; Financial Reporting</a>			</li>
+			<li id="pageid104" data-pageid="104" class="ipf-parent" data-level="3"><a href="/city-hall/finance/rates.htm">Property Taxes</a>			</li>
+			<li id="pageid16807" data-pageid="16807" class="ipf-parent" data-level="3"><a href="/city-hall/finance/utility-fees.htm">Utility Fees</a>			</li>
+			<li id="pageid1851" data-pageid="1851" data-level="3"><a href="/city-hall/finance/municipal.htm">Municipal Property Tax Information</a></li>
+		</ul>
+		</li>
+		<li id="pageid38" data-pageid="38" class="ipf-parent" data-level="2"><a href="/city-hall/bylaws.htm">Bylaws</a>
+		<ul>			<li id="pageid525" data-pageid="525" data-level="3"><a href="/city-hall/bylaws/chapter.htm">Chapter List</a></li>
+			<li id="pageid526" data-pageid="526" data-level="3"><a href="/city-hall/bylaws/numerical.htm">Numerical List</a></li>
+			<li id="pageid524" data-pageid="524" data-level="3"><a href="/city-hall/bylaws/alpha.htm">Alphabetical List</a></li>
+			<li id="pageid9628" data-pageid="9628" class="ipf-parent" data-level="3"><a href="/city-hall/bylaws/zoning-bylaw-8500.htm">Zoning Bylaw 8500</a>			</li>
+			<li id="pageid20651" data-pageid="20651" data-level="3"><a href="/city-hall/bylaws/disputeaticket.htm">Dispute a Ticket</a></li>
+			<li id="pageid258" data-pageid="258" class="ipf-parent" data-level="3"><a href="/city-hall/bylaws/parking.htm">Parking Services</a>			</li>
+			<li id="pageid268" data-pageid="268" class="ipf-parent" data-level="3"><a href="/city-hall/bylaws/property.htm">Property Use Concerns</a>			</li>
+			<li id="pageid243" data-pageid="243" class="ipf-parent" data-level="3"><a href="/city-hall/bylaws/environment.htm">Environmental Health</a>			</li>
+			<li id="pageid11189" data-pageid="11189" data-level="3"><a href="/city-hall/bylaws/adjudication.htm">Richmond Bylaw Violations Adjudication System</a></li>
+		</ul>
+		</li>
+		<li id="pageid28566" data-pageid="28566" class="ipf-parent" data-level="2"><a href="/city-hall/strategies.htm">Plans &amp; Strategies</a>
+		<ul>			<li id="pageid28633" data-pageid="28633" data-level="3"><a href="/city-hall/strategies/councilstratplan.htm">Council Strategic Plan</a></li>
+			<li id="pageid12978" data-pageid="12978" data-level="3"><a href="/city-hall/strategies/ocp.htm">Official Community Plan</a></li>
+			<li id="pageid19851" data-pageid="19851" data-level="3"><a href="/city-hall/strategies/climateleadership.htm">Community Energy &amp; Emissions Plan</a></li>
+			<li id="pageid2584" data-pageid="2584" class="ipf-parent" data-level="3"><a href="/city-hall/strategies/mandateparksrec.htm">Parks and Recreation</a>			</li>
+			<li id="pageid10038" data-pageid="10038" data-level="3"><a href="/city-hall/strategies/strategycommandcult.htm">Community &amp; Culture</a></li>
+			<li id="pageid28638" data-pageid="28638" data-level="3"><a href="/city-hall/strategies/engpwplansstrategies.htm">Engineering and Public Works</a></li>
+			<li id="pageid28639" data-pageid="28639" data-level="3"><a href="/city-hall/strategies/pubsafetyplansstrategies.htm">Public Safety</a></li>
+			<li id="pageid28640" data-pageid="28640" data-level="3"><a href="/city-hall/strategies/fiveyrfinplan.htm">Financial Planning</a></li>
+			<li id="pageid331" data-pageid="331" data-level="3"><a href="/city-hall/strategies/sale.htm">City Publications for Sale</a></li>
+			<li id="pageid32204" data-pageid="32204" data-level="3"><a href="/city-hall/strategies/indigenousrelationsstrategy.htm">Indigenous Relations Strategy</a></li>
+		</ul>
+		</li>
+		<li id="pageid29" data-pageid="29" class="ipf-parent" data-level="2"><a href="/city-hall/archives.htm">City Archives</a>
+		<ul>			<li id="pageid30" data-pageid="30" class="ipf-parent" data-level="3"><a href="/city-hall/archives/about.htm">About the Archives</a>			</li>
+			<li id="pageid17118" data-pageid="17118" class="ipf-parent" data-level="3"><a href="/city-hall/archives/search-archives.htm">Search the City of Richmond Archives</a>			</li>
+			<li id="pageid33" data-pageid="33" class="ipf-parent" data-level="3"><a href="/city-hall/archives/exhibits.htm">Virtual Exhibits</a>			</li>
+		</ul>
+		</li>
+		<li id="pageid105" data-pageid="105" class="ipf-parent" data-level="2"><a href="/city-hall/elections.htm">Elections</a>
+		<ul>			<li id="pageid7894" data-pageid="7894" class="ipf-parent" data-level="3"><a href="/city-hall/elections/services.htm">2022 Election</a>			</li>
+			<li id="pageid21293" data-pageid="21293" data-level="3"><a href="/city-hall/elections/results2021.htm">2021 By-Election Results</a></li>
+			<li id="pageid19250" data-pageid="19250" data-level="3"><a href="/city-hall/elections/results2018.htm">2018 Election Results</a></li>
+			<li id="pageid15283" data-pageid="15283" data-level="3"><a href="/city-hall/elections/results2014.htm">2014 Election Results</a></li>
+		</ul>
+		</li>
+		<li id="pageid28603" data-pageid="28603" class="ipf-parent" data-level="2"><a href="/city-hall/privacydisclaimers.htm">Privacy &amp; Disclaimers</a>
+		<ul>			<li id="pageid534" data-pageid="534" data-level="3"><a href="/city-hall/privacydisclaimers/foi.htm">Freedom of Information &amp; Protection of Privacy Act (FIPPA or FOI)</a></li>
+			<li id="pageid28673" data-pageid="28673" data-level="3"><a href="/city-hall/privacydisclaimers/accessibility.htm">Accessibility</a></li>
+			<li id="pageid18200" data-pageid="18200" data-level="3"><a href="/city-hall/privacydisclaimers/claims.htm">Making a Claim with the City</a></li>
+			<li id="pageid30886" data-pageid="30886" data-level="3"><a href="/city-hall/privacydisclaimers/security.htm">Cybersecurity &amp; Email Safety</a></li>
+		</ul>
+		</li>
+		<li id="pageid8979" data-pageid="8979" data-level="2"><a href="/city-hall/careers.htm">Careers</a></li>
+	</ul>
+	</li>
+</ul>
+<script type="text/javascript">
+<!-- 
+ddtreemenu.createTree("sectionMenuElementID_0", true);
+//-->
+</script></nav>
+</div>
+</div>
+</header>
+<main id="content">
+<div class="breadcrumbs__wrapper container">
+<nav class="breadcrumbs"><span class="ipb-locationline-separator">&nbsp;&gt;&nbsp;</span><a href="https://www.richmond.ca/home.htm">Home</a><span class="ipb-locationline-separator">&nbsp;&gt;&nbsp;</span><a href="https://www.richmond.ca/city-hall.htm">City Hall</a><span class="ipb-locationline-separator">&nbsp;&gt;&nbsp;</span><a href="https://www.richmond.ca/city-hall/city-council.htm">City Council</a><span class="ipb-locationline-separator">&nbsp;&gt;&nbsp;</span><a href="https://www.richmond.ca/city-hall/city-council/members.htm">Members</a><span class="ipb-locationline-separator">&nbsp;&gt;&nbsp;</span>Councillor Andy Hobbs</nav>
+</div>
+<div class="container">
+<div class="sidebar">
+<div class="hero hero--sidebar">
+<img src="/__shared/templates/assets/img/banners/sidebar-3091.jpg" alt="" width="530" height="300">
+</div>
+<nav class="menu menu--section" data-nosnippet>
+<div class="menu__heading h2">City Hall</div><ul id="sectionMenuElementID_1" class="ipf-sectionmenu">
+<li id="pageid3091" data-pageid="3091" class="ipf-homepage" data-level="1"><div><a href="/city-hall.htm">City Hall Overview</a></div></li>	<li id="pageid28605" data-pageid="28605" class="ipf-parent" data-level="1"><div><a href="/city-hall/news.htm">News</a></div>
+	<ul>		<li id="pageid31258" data-pageid="31258" data-level="2"><a href="/city-hall/news/public-notices.htm">Public Notices</a></li>
+		<li id="pageid28616" data-pageid="28616" data-level="2"><a href="/city-hall/news/publicengagement.htm">Let&#39;s Talk Richmond</a></li>
+		<li id="pageid31946" data-pageid="31946" data-level="2"><a href="/city-hall/news/2025.htm">2025 News &amp; Information</a></li>
+		<li id="pageid31255" data-pageid="31255" data-level="2"><a href="/city-hall/news/2024.htm">2024 News &amp; Information</a></li>
+		<li id="pageid28534" data-pageid="28534" data-level="2"><a href="/city-hall/news/2023.htm">2023 News &amp; Information</a></li>
+		<li id="pageid21715" data-pageid="21715" data-level="2"><a href="/city-hall/news/city2022.htm">2022 News &amp; Information</a></li>
+		<li id="pageid12974" data-pageid="12974" data-level="2"><a href="/city-hall/news/affiliated.htm">Social Media Directory</a></li>
+		<li id="pageid3511" data-pageid="3511" class="ipf-parent" data-level="2"><a href="/city-hall/news/newsletters.htm">Newsletters</a>
+		<ul>			<li id="pageid31991" data-pageid="31991" data-level="3"><a href="/city-hall/news/newsletters/archives.htm">Newsletter Archives</a></li>
+		</ul>
+		</li>
+		<li id="pageid3072" data-pageid="3072" data-level="2"><a href="/city-hall/news/media.htm">Media Contact</a></li>
+	</ul>
+	</li>
+	<li id="pageid13857" data-pageid="13857" class="ipf-parent" data-level="1"><div><a href="/city-hall/city-council.htm">City Council</a></div>
+	<ul>		<li id="pageid30850" data-pageid="30850" data-level="2"><a href="https://citycouncil.richmond.ca/">Council Meetings &amp; Resources</a></li>
+		<li id="pageid530" data-pageid="530" data-level="2"><a href="/city-hall/city-council/responsibilities.htm">Term &amp; Responsibilities</a></li>
+		<li id="pageid14161" data-pageid="14161" class="ipf-parent" data-level="2"><a href="/city-hall/city-council/councilprocess.htm">Council Process</a>
+		<ul>			<li id="pageid539" data-pageid="539" data-level="3"><a href="/city-hall/city-council/councilprocess/process.htm">Speak at a Council Meeting</a></li>
+			<li id="pageid14162" data-pageid="14162" data-level="3"><a href="/city-hall/city-council/councilprocess/electorapproval.htm">Elector Approval</a></li>
+		</ul>
+		</li>
+		<li id="pageid1791" data-pageid="1791" class="ipf-parent" data-level="2"><a href="/city-hall/city-council/public-hearings.htm">Public Hearings</a>
+		<ul>			<li id="pageid1792" data-pageid="1792" data-level="3"><a href="/city-hall/city-council/public-hearings/speak.htm">Speak at a Public Hearing</a></li>
+		</ul>
+		</li>
+		<li id="pageid13831" data-pageid="13831" data-level="2"><a href="/city-hall/city-council/councilremuneration.htm">Remuneration</a></li>
+		<li id="pageid92" data-pageid="92" class="ipf-parent" data-level="2"><a href="/city-hall/city-council/members.htm">Members</a>
+		<ul>			<li id="pageid1783" data-pageid="1783" data-level="3"><a href="/city-hall/city-council/members/brodie.htm">Mayor Malcolm Brodie</a></li>
+			<li id="pageid15286" data-pageid="15286" data-level="3"><a href="/city-hall/city-council/members/loo.htm">Councillor Alexa Loo</a></li>
+			<li id="pageid11896" data-pageid="11896" data-level="3"><a href="/city-hall/city-council/members/ChakKwongAu.htm">Councillor Chak Kwong Au</a></li>
+			<li id="pageid15285" data-pageid="15285" data-level="3"><a href="/city-hall/city-council/members/day.htm">Councillor Carol Day</a></li>
+			<li id="pageid28374" data-pageid="28374" data-level="3"><a href="/city-hall/city-council/members/lgillanders.htm">Councillor Laura Gillanders</a></li>
+			<li id="pageid21313" data-pageid="21313" data-level="3"><a href="/city-hall/city-council/members/ahobbs.htm">Councillor Andy Hobbs</a></li>
+			<li id="pageid28378" data-pageid="28378" data-level="3"><a href="/city-hall/city-council/members/kheed.htm">Councillor Kash Heed</a></li>
+			<li id="pageid19338" data-pageid="19338" data-level="3"><a href="/city-hall/city-council/members/wolfe.htm">Councillor Michael Wolfe</a></li>
+			<li id="pageid1788" data-pageid="1788" data-level="3"><a href="/city-hall/city-council/members/mcnulty.htm">Councillor Bill McNulty</a></li>
+		</ul>
+		</li>
+		<li id="pageid537" data-pageid="537" data-level="2"><a href="/city-hall/city-council/messages.htm">Mayor&#39;s Annual Address</a></li>
+		<li id="pageid19918" data-pageid="19918" data-level="2"><a href="/city-hall/city-council/strategicplan.htm">Council Strategic Plan 2022-2026</a></li>
+		<li id="pageid91" data-pageid="91" class="ipf-parent" data-level="2"><a href="/city-hall/city-council/boards.htm">Boards &amp; Committees</a>
+		<ul>			<li id="pageid1781" data-pageid="1781" data-level="3"><a href="/city-hall/city-council/boards/standing.htm">Standing Committees</a></li>
+			<li id="pageid1780" data-pageid="1780" data-level="3"><a href="/city-hall/city-council/boards/regional.htm">Regional Organizations</a></li>
+			<li id="pageid1777" data-pageid="1777" data-level="3"><a href="/city-hall/city-council/boards/advisory.htm">Advisory Bodies</a></li>
+			<li id="pageid1778" data-pageid="1778" data-level="3"><a href="/city-hall/city-council/boards/liaisonsab.htm">Advisory Body Liaisons</a></li>
+			<li id="pageid1779" data-pageid="1779" data-level="3"><a href="/city-hall/city-council/boards/liaisonsca.htm">Community Association Liaisons</a></li>
+			<li id="pageid16397" data-pageid="16397" data-level="3"><a href="/city-hall/city-council/boards/variance.htm">Board of Variance</a></li>
+			<li id="pageid32010" data-pageid="32010" data-level="3"><a href="/city-hall/city-council/boards/oversight.htm">Major Construction Projects Oversight Committee</a></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="pageid1794" data-pageid="1794" class="ipf-parent" data-level="1"><div><a href="/city-hall/city-departments.htm">Departments</a></div>
+	<ul>		<li id="pageid338" data-pageid="338" data-level="2"><a href="/city-hall/city-departments/cao.htm">City Administration</a></li>
+		<li id="pageid31715" data-pageid="31715" data-level="2"><a href="/city-hall/city-departments/deputycao.htm">Deputy CAO Office</a></li>
+		<li id="pageid5333" data-pageid="5333" data-level="2"><a href="/city-hall/city-departments/community-safety.htm">Law &amp; Community Safety</a></li>
+		<li id="pageid1831" data-pageid="1831" data-level="2"><a href="/city-hall/city-departments/community-services.htm">Parks, Recreation &amp; Culture</a></li>
+		<li id="pageid1810" data-pageid="1810" data-level="2"><a href="/city-hall/city-departments/engineering-public-works.htm">Engineering &amp; Public Works</a></li>
+		<li id="pageid5116" data-pageid="5116" data-level="2"><a href="/city-hall/city-departments/finance-corporate-services.htm">Finance &amp; Corporate Services</a></li>
+		<li id="pageid1837" data-pageid="1837" data-level="2"><a href="/city-hall/city-departments/planning-development.htm">Planning &amp; Development</a></li>
+		<li id="pageid187" data-pageid="187" class="ipf-parent" data-level="2"><a href="/city-hall/city-departments/contact.htm">Contact Us</a>
+		<ul>			<li id="pageid28643" data-pageid="28643" data-level="3"><a href="/city-hall/city-departments/contact/service-directory.htm">Service Directory</a></li>
+			<li id="pageid3662" data-pageid="3662" data-level="3"><a href="/city-hall/city-departments/contact/numbers.htm">Frequently Called Numbers</a></li>
+			<li id="pageid10161" data-pageid="10161" data-level="3"><a href="/city-hall/city-departments/contact/automatedTel.htm">Automated Telephone Services</a></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="pageid36" data-pageid="36" class="ipf-parent" data-level="1"><div><a href="/city-hall/buildings.htm">City Buildings</a></div>
+	<ul>		<li id="pageid453" data-pageid="453" class="ipf-parent" data-level="2"><a href="/city-hall/buildings/city-hall.htm">City Hall</a>
+		<ul>			<li id="pageid14988" data-pageid="14988" data-level="3"><a href="/city-hall/buildings/city-hall/cityhall-tours.htm">Tours &amp; Delegations</a></li>
+			<li id="pageid17891" data-pageid="17891" data-level="3"><a href="/city-hall/buildings/city-hall/rentals.htm">Rental Information</a></li>
+			<li id="pageid460" data-pageid="460" data-level="3"><a href="/city-hall/buildings/city-hall/parking.htm">Parking</a></li>
+		</ul>
+		</li>
+		<li id="pageid446" data-pageid="446" data-level="2"><a href="/city-hall/buildings/buildings.htm">All Buildings List</a></li>
+	</ul>
+	</li>
+	<li id="pageid102" data-pageid="102" class="ipf-parent" data-level="1"><div><a href="/city-hall/finance.htm">Finance, Taxes &amp; Utilities</a></div>
+	<ul>		<li id="pageid1847" data-pageid="1847" data-level="2"><a href="/city-hall/finance/about.htm">About Finance &amp; Taxes</a></li>
+		<li id="pageid103" data-pageid="103" class="ipf-parent" data-level="2"><a href="/city-hall/finance/reporting.htm">Budgets &amp; Financial Reporting</a>
+		<ul>			<li id="pageid1850" data-pageid="1850" data-level="3"><a href="/city-hall/finance/reporting/fiveyear.htm">5 Year Financial Plan</a></li>
+			<li id="pageid1852" data-pageid="1852" data-level="3"><a href="/city-hall/finance/reporting/reports.htm">Annual Reports</a></li>
+			<li id="pageid17040" data-pageid="17040" data-level="3"><a href="/city-hall/finance/reporting/quarterly-reports.htm">Quarterly Reports</a></li>
+		</ul>
+		</li>
+		<li id="pageid104" data-pageid="104" class="ipf-parent" data-level="2"><a href="/city-hall/finance/rates.htm">Property Taxes</a>
+		<ul>			<li id="pageid16824" data-pageid="16824" data-level="3"><a href="/city-hall/finance/rates/duedates-taxes.htm">Due Dates &amp; Penalties</a></li>
+			<li id="pageid1855" data-pageid="1855" data-level="3"><a href="/city-hall/finance/rates/propertytax.htm">Understanding Your Tax Bill</a></li>
+			<li id="pageid16827" data-pageid="16827" data-level="3"><a href="/city-hall/finance/rates/manage-taxaccount.htm">Manage Your Tax Account</a></li>
+			<li id="pageid9706" data-pageid="9706" data-level="3"><a href="/city-hall/finance/rates/howtopay.htm">Paying Your Property Taxes</a></li>
+			<li id="pageid1848" data-pageid="1848" data-level="3"><a href="/city-hall/finance/rates/homegrant.htm">Home Owner Grant</a></li>
+			<li id="pageid8632" data-pageid="8632" data-level="3"><a href="/city-hall/finance/rates/deferment.htm">Province of BC&#39;s Tax Deferment Program</a></li>
+			<li id="pageid1854" data-pageid="1854" data-level="3"><a href="/city-hall/finance/rates/property.htm">Taxpayer Property Account Information</a></li>
+			<li id="pageid1856" data-pageid="1856" data-level="3"><a href="/city-hall/finance/rates/taxrates.htm">Tax Rates</a></li>
+			<li id="pageid1849" data-pageid="1849" data-level="3"><a href="/city-hall/finance/rates/taxsales.htm">Tax Sales Property Auction</a></li>
+		</ul>
+		</li>
+		<li id="pageid16807" data-pageid="16807" class="ipf-parent" data-level="2"><a href="/city-hall/finance/utility-fees.htm">Utility Fees</a>
+		<ul>			<li id="pageid16314" data-pageid="16314" data-level="3"><a href="/city-hall/finance/utility-fees/duedates-utilities.htm">Due Dates &amp; Discounts</a></li>
+			<li id="pageid1857" data-pageid="1857" data-level="3"><a href="/city-hall/finance/utility-fees/utilityinfo.htm">Understanding Your Utility Bill</a></li>
+			<li id="pageid16821" data-pageid="16821" data-level="3"><a href="/city-hall/finance/utility-fees/manage-utility.htm">Manage Your Utility Account</a></li>
+			<li id="pageid16822" data-pageid="16822" data-level="3"><a href="/city-hall/finance/utility-fees/howtopay-utility.htm">Paying Your Utility Bill</a></li>
+			<li id="pageid1858" data-pageid="1858" data-level="3"><a href="/city-hall/finance/utility-fees/utilityrates.htm">Utility Rates</a></li>
+			<li id="pageid16817" data-pageid="16817" data-level="3"><a href="/city-hall/finance/utility-fees/utility-account.htm">Utility Account Information</a></li>
+		</ul>
+		</li>
+		<li id="pageid1851" data-pageid="1851" data-level="2"><a href="/city-hall/finance/municipal.htm">Municipal Property Tax Information</a></li>
+	</ul>
+	</li>
+	<li id="pageid38" data-pageid="38" class="ipf-parent" data-level="1"><div><a href="/city-hall/bylaws.htm">Bylaws</a></div>
+	<ul>		<li id="pageid525" data-pageid="525" data-level="2"><a href="/city-hall/bylaws/chapter.htm">Chapter List</a></li>
+		<li id="pageid526" data-pageid="526" data-level="2"><a href="/city-hall/bylaws/numerical.htm">Numerical List</a></li>
+		<li id="pageid524" data-pageid="524" data-level="2"><a href="/city-hall/bylaws/alpha.htm">Alphabetical List</a></li>
+		<li id="pageid9628" data-pageid="9628" class="ipf-parent" data-level="2"><a href="/city-hall/bylaws/zoning-bylaw-8500.htm">Zoning Bylaw 8500</a>
+		<ul>			<li id="pageid9483" data-pageid="9483" data-level="3"><a href="/city-hall/bylaws/zoning-bylaw-8500/zoning8500-PartA.htm">Part A: Procedures &amp; Regulations</a></li>
+			<li id="pageid9534" data-pageid="9534" data-level="3"><a href="/city-hall/bylaws/zoning-bylaw-8500/zoning8500PartB.htm">Part B: Standard Zones</a></li>
+			<li id="pageid9535" data-pageid="9535" data-level="3"><a href="/city-hall/bylaws/zoning-bylaw-8500/zoning8500PartC.htm">Part C: Site Specific Zones</a></li>
+		</ul>
+		</li>
+		<li id="pageid20651" data-pageid="20651" data-level="2"><a href="/city-hall/bylaws/disputeaticket.htm">Dispute a Ticket</a></li>
+		<li id="pageid258" data-pageid="258" class="ipf-parent" data-level="2"><a href="/city-hall/bylaws/parking.htm">Parking Services</a>
+		<ul>			<li id="pageid28674" data-pageid="28674" data-level="3"><a href="/city-hall/bylaws/parking/parking-tickets.htm">Bylaw Tickets</a></li>
+			<li id="pageid3717" data-pageid="3717" data-level="3"><a href="/city-hall/bylaws/parking/parking.htm">Pay Parking in Richmond</a></li>
+			<li id="pageid2068" data-pageid="2068" data-level="3"><a href="/city-hall/bylaws/parking/parkingpermits.htm">Annual &amp; Monthly Parking Permits</a></li>
+			<li id="pageid3685" data-pageid="3685" class="ipf-parent" data-level="3"><a href="/city-hall/bylaws/parking/towing.htm">Towing</a>
+			<ul>				<li id="pageid2069" data-pageid="2069" data-level="4"><a href="/city-hall/bylaws/parking/towing/pprocess.htm">Private Parking Lot Towing Permit Process</a></li>
+				<li id="pageid2070" data-pageid="2070" data-level="4"><a href="/city-hall/bylaws/parking/towing/pregulations.htm">Private Parking Lot Towing Regulations</a></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li id="pageid268" data-pageid="268" class="ipf-parent" data-level="2"><a href="/city-hall/bylaws/property.htm">Property Use Concerns</a>
+		<ul>			<li id="pageid3042" data-pageid="3042" data-level="3"><a href="/city-hall/bylaws/property/garbage.htm">Garbage &amp; Recycling Violations</a></li>
+			<li id="pageid3043" data-pageid="3043" data-level="3"><a href="/city-hall/bylaws/property/noise.htm">Noise Regulations</a></li>
+			<li id="pageid3047" data-pageid="3047" data-level="3"><a href="/city-hall/bylaws/property/smoking.htm">Smoking Regulations</a></li>
+			<li id="pageid13838" data-pageid="13838" data-level="3"><a href="/city-hall/bylaws/property/soilmanagement.htm">Soil Management</a></li>
+			<li id="pageid270" data-pageid="270" data-level="3"><a href="/city-hall/bylaws/property/residentalregs.htm">Residential Housing Regulations</a></li>
+			<li id="pageid3041" data-pageid="3041" data-level="3"><a href="/city-hall/bylaws/property/unsightly.htm">Unsightly Premises &amp; Graffiti</a></li>
+		</ul>
+		</li>
+		<li id="pageid243" data-pageid="243" class="ipf-parent" data-level="2"><a href="/city-hall/bylaws/environment.htm">Environmental Health</a>
+		<ul>			<li id="pageid19245" data-pageid="19245" data-level="3"><a href="/city-hall/bylaws/environment/cannabis.htm">Non-Medical Cannabis</a></li>
+			<li id="pageid2904" data-pageid="2904" data-level="3"><a href="/city-hall/bylaws/environment/program.htm">Disease Control</a></li>
+			<li id="pageid2899" data-pageid="2899" data-level="3"><a href="/city-hall/bylaws/environment/personal.htm">Personal Service Establishments</a></li>
+			<li id="pageid2897" data-pageid="2897" data-level="3"><a href="/city-hall/bylaws/environment/daycare.htm">Community Care Facilities</a></li>
+			<li id="pageid2909" data-pageid="2909" data-level="3"><a href="/city-hall/bylaws/environment/quality.htm">Water &amp; Sewage</a></li>
+		</ul>
+		</li>
+		<li id="pageid11189" data-pageid="11189" data-level="2"><a href="/city-hall/bylaws/adjudication.htm">Richmond Bylaw Violations Adjudication System</a></li>
+	</ul>
+	</li>
+	<li id="pageid28566" data-pageid="28566" class="ipf-parent" data-level="1"><div><a href="/city-hall/strategies.htm">Plans &amp; Strategies</a></div>
+	<ul>		<li id="pageid28633" data-pageid="28633" data-level="2"><a href="/city-hall/strategies/councilstratplan.htm">Council Strategic Plan</a></li>
+		<li id="pageid12978" data-pageid="12978" data-level="2"><a href="/city-hall/strategies/ocp.htm">Official Community Plan</a></li>
+		<li id="pageid19851" data-pageid="19851" data-level="2"><a href="/city-hall/strategies/climateleadership.htm">Community Energy &amp; Emissions Plan</a></li>
+		<li id="pageid2584" data-pageid="2584" class="ipf-parent" data-level="2"><a href="/city-hall/strategies/mandateparksrec.htm">Parks and Recreation</a>
+		<ul>			<li id="pageid11450" data-pageid="11450" class="ipf-parent" data-level="3"><a href="/city-hall/strategies/mandateparksrec/communityofexcellence.htm">Community of Excellence for Recreation, Sport and Wellness Initiative</a>
+			<ul>				<li id="pageid14101" data-pageid="14101" data-level="4"><a href="/city-hall/strategies/mandateparksrec/communityofexcellence/healthyrichmond.htm">Healthy Richmond</a></li>
+			</ul>
+			</li>
+			<li id="pageid13026" data-pageid="13026" data-level="3"><a href="/city-hall/strategies/mandateparksrec/planning.htm">Parks, Trails and Trees Planning &amp; Strategies</a></li>
+		</ul>
+		</li>
+		<li id="pageid10038" data-pageid="10038" data-level="2"><a href="/city-hall/strategies/strategycommandcult.htm">Community &amp; Culture</a></li>
+		<li id="pageid28638" data-pageid="28638" data-level="2"><a href="/city-hall/strategies/engpwplansstrategies.htm">Engineering and Public Works</a></li>
+		<li id="pageid28639" data-pageid="28639" data-level="2"><a href="/city-hall/strategies/pubsafetyplansstrategies.htm">Public Safety</a></li>
+		<li id="pageid28640" data-pageid="28640" data-level="2"><a href="/city-hall/strategies/fiveyrfinplan.htm">Financial Planning</a></li>
+		<li id="pageid331" data-pageid="331" data-level="2"><a href="/city-hall/strategies/sale.htm">City Publications for Sale</a></li>
+		<li id="pageid32204" data-pageid="32204" data-level="2"><a href="/city-hall/strategies/indigenousrelationsstrategy.htm">Indigenous Relations Strategy</a></li>
+	</ul>
+	</li>
+	<li id="pageid29" data-pageid="29" class="ipf-parent" data-level="1"><div><a href="/city-hall/archives.htm">City Archives</a></div>
+	<ul>		<li id="pageid30" data-pageid="30" class="ipf-parent" data-level="2"><a href="/city-hall/archives/about.htm">About the Archives</a>
+		<ul>			<li id="pageid345" data-pageid="345" data-level="3"><a href="/city-hall/archives/about/about.htm">About Us</a></li>
+			<li id="pageid346" data-pageid="346" data-level="3"><a href="/city-hall/archives/about/faq.htm">Frequently Asked Questions</a></li>
+			<li id="pageid353" data-pageid="353" data-level="3"><a href="/city-hall/archives/about/services.htm">Services</a></li>
+			<li id="pageid352" data-pageid="352" data-level="3"><a href="/city-hall/archives/about/publications.htm">Publications</a></li>
+			<li id="pageid347" data-pageid="347" data-level="3"><a href="/city-hall/archives/about/Friends.htm">Friends of the Richmond Archives</a></li>
+			<li id="pageid351" data-pageid="351" data-level="3"><a href="/city-hall/archives/about/newsletter.htm">Newsletter</a></li>
+		</ul>
+		</li>
+		<li id="pageid17118" data-pageid="17118" class="ipf-parent" data-level="2"><a href="/city-hall/archives/search-archives.htm">Search the City of Richmond Archives</a>
+		<ul>			<li id="pageid360" data-pageid="360" class="ipf-parent" data-level="3"><a href="/city-hall/archives/search-archives/histories.htm">Oral Histories</a>
+			<ul>				<li id="pageid375" data-pageid="375" data-level="4"><a href="/city-hall/archives/search-archives/histories/ohlist.htm">Names A - Z</a></li>
+				<li id="pageid381" data-pageid="381" data-level="4"><a href="/city-hall/archives/search-archives/histories/ohsub.htm">Subject Index A - Z</a></li>
+			</ul>
+			</li>
+		</ul>
+		</li>
+		<li id="pageid33" data-pageid="33" class="ipf-parent" data-level="2"><a href="/city-hall/archives/exhibits.htm">Virtual Exhibits</a>
+		<ul>			<li id="pageid10110" data-pageid="10110" data-level="3"><a href="/city-hall/archives/exhibits/ozonedocumentation.htm">O Zone Photo Documentation</a></li>
+			<li id="pageid7505" data-pageid="7505" data-level="3"><a href="/city-hall/archives/exhibits/bcpackersinsurancephotosandmaps.htm">BC Packers Insurance Photographs &amp; Maps</a></li>
+			<li id="pageid7022" data-pageid="7022" data-level="3"><a href="/city-hall/archives/exhibits/barkerletterbooks.htm">Barker Letter Books</a></li>
+			<li id="pageid6956" data-pageid="6956" data-level="3"><a href="/city-hall/archives/exhibits/luluisland.htm">History of Lulu Island</a></li>
+			<li id="pageid35" data-pageid="35" data-level="3"><a href="/city-hall/archives/exhibits/history.htm">History of Richmond Municipality</a></li>
+			<li id="pageid34" data-pageid="34" data-level="3"><a href="/city-hall/archives/exhibits/remember.htm">We Will Remember Them</a></li>
+			<li id="pageid5390" data-pageid="5390" class="ipf-parent" data-level="3"><a href="/city-hall/archives/exhibits/schools.htm">Richmond Schools</a>
+			<ul>				<li id="pageid5463" data-pageid="5463" data-level="4"><a href="/city-hall/archives/exhibits/schools/names.htm">How Do Schools Get Their Names?</a></li>
+				<li id="pageid5391" data-pageid="5391" data-level="4"><a href="/city-hall/archives/exhibits/schools/early.htm">The Early Years</a></li>
+				<li id="pageid5392" data-pageid="5392" data-level="4"><a href="/city-hall/archives/exhibits/schools/ww2.htm">World War 2 and Post World War 2 Schools</a></li>
+				<li id="pageid5393" data-pageid="5393" data-level="4"><a href="/city-hall/archives/exhibits/schools/boomers.htm">Bridges and Baby Boomers</a></li>
+				<li id="pageid5394" data-pageid="5394" data-level="4"><a href="/city-hall/archives/exhibits/schools/expansion.htm">Bridges and Expansion</a></li>
+				<li id="pageid5395" data-pageid="5395" data-level="4"><a href="/city-hall/archives/exhibits/schools/80s90s.htm">Schools of the 1980s and Beyond</a></li>
+				<li id="pageid5396" data-pageid="5396" data-level="4"><a href="/city-hall/archives/exhibits/schools/private.htm">Private Schools</a></li>
+				<li id="pageid5461" data-pageid="5461" data-level="4"><a href="/city-hall/archives/exhibits/schools/exhibit.htm">About the Exhibit</a></li>
+				<li id="pageid5652" data-pageid="5652" data-level="4"><a href="/city-hall/archives/exhibits/schools/list.htm">Richmond Schools Index</a></li>
+			</ul>
+			</li>
+			<li id="pageid4237" data-pageid="4237" data-level="3"><a href="/city-hall/archives/exhibits/bylaws.htm">Bylaws Conservation</a></li>
+			<li id="pageid13257" data-pageid="13257" data-level="3"><a href="/city-hall/archives/exhibits/childfraser.htm">Richmond: Child of the Fraser</a></li>
+			<li id="pageid13347" data-pageid="13347" data-level="3"><a href="/city-hall/archives/exhibits/thenandnow.htm">Richmond Then &amp; Now</a></li>
+			<li id="pageid20880" data-pageid="20880" data-level="3"><a href="/city-hall/archives/exhibits/1918pandemic.htm">1918 Pandemic</a></li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="pageid105" data-pageid="105" class="ipf-parent" data-level="1"><div><a href="/city-hall/elections.htm">Elections</a></div>
+	<ul>		<li id="pageid7894" data-pageid="7894" class="ipf-parent" data-level="2"><a href="/city-hall/elections/services.htm">2022 Election</a>
+		<ul>			<li id="pageid27278" data-pageid="27278" data-level="3"><a href="/city-hall/elections/services/results.htm">2022 Election Results</a></li>
+			<li id="pageid27279" data-pageid="27279" class="ipf-parent" data-level="3"><a href="/city-hall/elections/services/pollbypoll.htm">2022 Poll-by-Poll Election Results</a>
+			<ul>				<li id="pageid27280" data-pageid="27280" class="ipf-parent" data-level="4"><a href="/city-hall/elections/services/pollbypoll/centre.htm">Richmond Centre Voting Divisions</a>
+				<ul>					<li id="pageid27281" data-pageid="27281" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Spulukwuks.htm">Spul&#39;u&#39;kwuks Elementary School</a></li>
+					<li id="pageid27296" data-pageid="27296" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Quilchena.htm">Quilchena Elementary School</a></li>
+					<li id="pageid27295" data-pageid="27295" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Gilmore.htm">Gilmore Elementary School</a></li>
+					<li id="pageid27294" data-pageid="27294" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Grauer.htm">Grauer Elementary School</a></li>
+					<li id="pageid27293" data-pageid="27293" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Blair.htm">Burnett Elementary School</a></li>
+					<li id="pageid27292" data-pageid="27292" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/McKay.htm">McKay Elementary School</a></li>
+					<li id="pageid27291" data-pageid="27291" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Brighouse.htm">Brighouse Elementary School</a></li>
+					<li id="pageid27290" data-pageid="27290" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Kiwanis.htm">Kiwanis Towers</a></li>
+					<li id="pageid27289" data-pageid="27289" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/cultural.htm">Richmond Cultural Centre (Brighouse Library)</a></li>
+					<li id="pageid27288" data-pageid="27288" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Talmey.htm">Talmey Elementary School</a></li>
+					<li id="pageid27287" data-pageid="27287" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Tomsett.htm">Tomsett Elementary School</a></li>
+					<li id="pageid27286" data-pageid="27286" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/Anderson.htm">Anderson Elementary School</a></li>
+					<li id="pageid27285" data-pageid="27285" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/SeaIsland.htm">Sea Island Elementary School</a></li>
+					<li id="pageid27284" data-pageid="27284" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/MacNeill.htm">MacNeill Secondary School</a></li>
+					<li id="pageid27283" data-pageid="27283" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/kwantlen.htm">Kwantlen Polytechnic University</a></li>
+					<li id="pageid27282" data-pageid="27282" data-level="5"><a href="/city-hall/elections/services/pollbypoll/centre/citycentre.htm">City Centre Community Centre</a></li>
+				</ul>
+				</li>
+				<li id="pageid27297" data-pageid="27297" class="ipf-parent" data-level="4"><a href="/city-hall/elections/services/pollbypoll/steveston.htm">Richmond Steveston Voting Divisions</a>
+				<ul>					<li id="pageid27310" data-pageid="27310" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/Dixon.htm">Dixon Elementary School</a></li>
+					<li id="pageid27309" data-pageid="27309" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/ManoahSteves.htm">Manoah Steves Elementary School</a></li>
+					<li id="pageid27308" data-pageid="27308" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/LordByng.htm">Lord Byng Elementary School</a></li>
+					<li id="pageid27307" data-pageid="27307" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/Diefenbaker.htm">Diefenbaker Elementary School</a></li>
+					<li id="pageid27306" data-pageid="27306" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/Homma.htm">Homma Elementary School</a></li>
+					<li id="pageid27305" data-pageid="27305" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/Wowk.htm">Wowk Elementary School</a></li>
+					<li id="pageid27304" data-pageid="27304" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/Steveston-London.htm">Steveston-London Secondary School</a></li>
+					<li id="pageid27311" data-pageid="27311" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/Westwind.htm">Westwind Elementary School</a></li>
+					<li id="pageid27303" data-pageid="27303" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/Blundell.htm">Blundell Elementary School</a></li>
+					<li id="pageid27302" data-pageid="27302" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/MapleLane.htm">Maple Lane Elementary School</a></li>
+					<li id="pageid27301" data-pageid="27301" data-level="5"><a href="/city-hall/elections/services/pollbypoll/steveston/McMath.htm">McMath Secondary School</a></li>
+				</ul>
+				</li>
+				<li id="pageid27298" data-pageid="27298" class="ipf-parent" data-level="4"><a href="/city-hall/elections/services/pollbypoll/east.htm">Richmond East Voting Divisions</a>
+				<ul>					<li id="pageid27312" data-pageid="27312" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/GeneralCurrie.htm">General Currie Elementary School</a></li>
+					<li id="pageid27313" data-pageid="27313" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/Palmer.htm">Palmer Secondary School</a></li>
+					<li id="pageid27314" data-pageid="27314" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/WalterLee.htm">Walter Lee Elementary School</a></li>
+					<li id="pageid27315" data-pageid="27315" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/Debeck.htm">Debeck Elementary School</a></li>
+					<li id="pageid27316" data-pageid="27316" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/Tait.htm">Tait Elementary School</a></li>
+					<li id="pageid27317" data-pageid="27317" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/McNeely.htm">Kate McNeely Elementary School</a></li>
+					<li id="pageid27318" data-pageid="27318" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/Kingswood.htm">Kingswood Elementary School</a></li>
+					<li id="pageid27319" data-pageid="27319" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/McRoberts.htm">McRoberts Secondary School</a></li>
+					<li id="pageid27320" data-pageid="27320" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/McNair.htm">McNair Secondary School</a></li>
+					<li id="pageid27321" data-pageid="27321" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/Woodward.htm">Woodward Elementary School</a></li>
+					<li id="pageid27322" data-pageid="27322" data-level="5"><a href="/city-hall/elections/services/pollbypoll/east/Hamilton.htm">Hamilton Elementary School</a></li>
+				</ul>
+				</li>
+				<li id="pageid27299" data-pageid="27299" class="ipf-parent" data-level="4"><a href="/city-hall/elections/services/pollbypoll/advance.htm">Advance Voting Opportunities</a>
+				<ul>					<li id="pageid27328" data-pageid="27328" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/ADV-R1.htm">ADV1 - Richmond City Hall</a></li>
+					<li id="pageid27329" data-pageid="27329" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/ADV-R2.htm">ADV2 - Richmond City Hall</a></li>
+					<li id="pageid27330" data-pageid="27330" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/ADV-R3.htm">ADV3 - Richmond City Hall</a></li>
+					<li id="pageid27323" data-pageid="27323" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/Kwantlen.htm">ADV4 - Kwantlen Polytechnic University</a></li>
+					<li id="pageid27331" data-pageid="27331" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/ADV-R4.htm">ADV5 - Richmond City Hall</a></li>
+					<li id="pageid27332" data-pageid="27332" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/ADV-R5.htm">ADV6 - Richmond City Hall</a></li>
+					<li id="pageid27324" data-pageid="27324" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/Burnett.htm">ADV7 - Burnett Secondary School</a></li>
+					<li id="pageid27325" data-pageid="27325" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/Cambie.htm">ADV8 - Cambie Secondary School</a></li>
+					<li id="pageid27326" data-pageid="27326" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/McMath.htm">ADV9 - McMath Secondary School</a></li>
+					<li id="pageid27327" data-pageid="27327" data-level="5"><a href="/city-hall/elections/services/pollbypoll/advance/McRoberts.htm">ADV10 - McRoberts Secondary School</a></li>
+				</ul>
+				</li>
+				<li id="pageid27300" data-pageid="27300" data-level="4"><a href="/city-hall/elections/services/pollbypoll/Mail.htm">Mail/Mobile</a></li>
+			</ul>
+			</li>
+			<li id="pageid28327" data-pageid="28327" data-level="3"><a href="/city-hall/elections/services/voterstatistics.htm">2022 Election Statistics</a></li>
+		</ul>
+		</li>
+		<li id="pageid21293" data-pageid="21293" data-level="2"><a href="/city-hall/elections/results2021.htm">2021 By-Election Results</a></li>
+		<li id="pageid19250" data-pageid="19250" data-level="2"><a href="/city-hall/elections/results2018.htm">2018 Election Results</a></li>
+		<li id="pageid15283" data-pageid="15283" data-level="2"><a href="/city-hall/elections/results2014.htm">2014 Election Results</a></li>
+	</ul>
+	</li>
+	<li id="pageid28603" data-pageid="28603" class="ipf-parent" data-level="1"><div><a href="/city-hall/privacydisclaimers.htm">Privacy &amp; Disclaimers</a></div>
+	<ul>		<li id="pageid534" data-pageid="534" data-level="2"><a href="/city-hall/privacydisclaimers/foi.htm">Freedom of Information &amp; Protection of Privacy Act (FIPPA or FOI)</a></li>
+		<li id="pageid28673" data-pageid="28673" data-level="2"><a href="/city-hall/privacydisclaimers/accessibility.htm">Accessibility</a></li>
+		<li id="pageid18200" data-pageid="18200" data-level="2"><a href="/city-hall/privacydisclaimers/claims.htm">Making a Claim with the City</a></li>
+		<li id="pageid30886" data-pageid="30886" data-level="2"><a href="/city-hall/privacydisclaimers/security.htm">Cybersecurity &amp; Email Safety</a></li>
+	</ul>
+	</li>
+	<li id="pageid8979" data-pageid="8979" data-level="1"><div><a href="/city-hall/careers.htm">Careers</a></div></li>
+</ul>
+<script type="text/javascript">
+<!-- 
+ddtreemenu.createTree("sectionMenuElementID_1", true);
+//-->
+</script></nav>
+<aside class="sidebar__content">
+<div class="sidebar__content-block"></div>
+<div class="sidebar__content-block"></div>
+<div class="sidebar__content-block"></div>
+</aside>
+</div>
+<div class="content $CONTENTCLASS$">
+<div id="editicon"></div>
+<h1 class="page-title">Councillor Andy Hobbs</h1><br><!-- CONTENT CONTROL START --><p><img src="/__shared/assets/cllrhobbs58614.jpg" alt="Councillor_Hobbs" class="float-right" />
+Andy Hobbs grew up in Richmond where he and his wife, Lynn, raised their three children.  He is a graduate of Richmond High School and the University of British Columbia (UBC).</p>
+<p>Andy is a retired Vancouver Police (VPD) Superintendent with over 35 years of service, including a year as Transit Police Chief.  Public safety and security have always been priorities and he recognizes that the peace, prosperity and stability we enjoy as Canadians require vigilance.</p>
+<p>As a long time Richmond resident, Andy has volunteered for many organizations including Richmond Kigoos Swim Club, Steveston Salmon Festival, Richmond Hospital Foundation, Richmond Intercultural Advisory Committee and was elected for two terms (2002-05 and 2005-08) as a Trustee on the Richmond School Board.  Prior to his election to Richmond City Council on May 29, 2021, Andy was the Board Chair of Britannia Shipyards National Historic Site Society, and a Director on both the Tourism Richmond and the Fraser Marine Rescue Society Boards.  He was inducted into the Order of Merit of the Police Forces by the Governor General of Canada, received the Queen's Diamond Jubilee Medal, as well as several VPD commendations.  Andy and Lynn have five grandchildren, all of whom live in Richmond.</p>
+<p>After more than 35 years of police service and a long track record of working with community groups and stakeholders in Vancouver and Richmond, Andy is honoured to serve on Richmond City Council.</p>
+<address>
+<strong>Contact Information</strong>
+<span class="contact-card__row--address">6911 No. 3 Road, Richmond,<br />
+British Columbia, V6Y 2C1</span>
+<a href="mailto:Andy.Hobbs@richmond.ca" title="Email: Andy.Hobbs@richmond.ca">Andy.Hobbs@richmond.ca</a>
+<span class="contact-card__row--phone">604-276-4134</span>
+</address>
+<p>To contact the Mayor's Office or the Councillor's Office see <a href="/city-hall/city-departments/contact/departments/council.htm" title="Mayor and Councillors">City Contacts</a>.</p><!-- CONTENT CONTROL END --></div>
+</div>
+</main>
+<footer class="footer" id="footer" data-nosnippet><div class="footer__top">
+<div class="container"> <nav class="social-links">
+<ul>
+    <li><a href="https://www.instagram.com/cityofrichmondbc/?hl=en" title="Instagram"><span class="fa-brands fa-instagram"></span></a></li>
+    <li><a href="https://www.facebook.com/cityofrichmondbc" title="Facebook"><span class="fa-brands fa-facebook-f"></span></a></li>
+    <li><a href="https://www.twitter.com/Richmond_BC" title="X (Twitter)"><span class="fa-brands fa-x-twitter"></span></a></li>
+    <li><a href="https://www.youtube.com/cityofrichmondbc" title="YouTube"><span class="fa-brands fa-youtube"></span></a></li>
+    <li><a href="https://ca.linkedin.com/company/city-of-richmond" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a></li>
+    <li><a href="https://bsky.app/profile/cityofrichmondbc.bsky.social" title="Bluesky"><span class="fa-brands fa-bluesky"></span></a></li>
+    <li><a href="/city-hall/news/affiliated.htm"><span class="fa-regular fa-address-book" title="Social Directory"></span>Social Directory</a></li>
+</ul>
+</nav> <a href="#header" class="to-top">Go to top</a> </div>
+</div>
+<div class="footer__main">
+<div class="container">
+<div class="footer__contact">
+<div class="footer__contact-left">
+<h2 class="h3">City of Richmond</h2>
+<p>Richmond City Hall<br />
+6911 No. 3 Road<br />
+Richmond,&nbsp;British Columbia<br />
+V6Y 2C1&nbsp; Canada</p>
+<p>604-276-4000</p>
+<p>Mon-Fri: 8:15am-5:00pm</p>
+</div>
+<div class="footer__contact-right">
+<ul>
+    <li class="btn btn--icon"><span class="btn__icon fa-regular fa-address-book"></span><span class="btn__text"><a href="/city-hall/city-departments/contact.htm" title="Contact Us">Contact Us</a></span></li>
+    <li class="btn btn--icon"><span class="btn__icon fa-regular fa-comment"></span><span class="btn__text"><a href="https://infocentre.richmond.ca/app/ask_pre" title="Customer Feedback">Customer Feedback</a></span></li>
+    <li class="btn btn--icon"><span class="btn__icon fa-regular fa-envelope-open-text"></span><span class="btn__text"><a href="/city-hall/news/newsletters.htm" title="e-News Sign-up">e-News Sign-up</a></span></li>
+    <li class="btn btn--icon"><span class="btn__icon fa-regular fa-comments"></span><span class="btn__text"><a href="/city-hall/news/publicengagement.htm" title="Public Engagement">Let's Talk Richmond</a></span></li>
+    <li class="btn btn--icon"><span class="btn__icon fa-regular fa-briefcase"></span><span class="btn__text"><a href="https://chooserichmond.ca/" title="Our Careers">Career Opportunities</a></span></li>
+</ul>
+</div>
+</div>
+<div class="footer__image">
+<img src="/__shared/assets/footerimage66371.jpg" alt="Two sailboats are berthed at Steveston Harbour at sunset" />
+</div>
+</div>
+</div>
+<div class="footer__bottom">
+<div class="container">
+<div class="footer__bottom-left">
+<p class="copyright">© 2025 City of Richmond
+</p>
+<nav class="menu menu--footer">
+<ul>
+    <li><a href="/city-hall/city-departments/contact/service-directory.htm" title="Service Directory">Services A - Z</a></li>
+    <li><a href="/services/digital/getapps.htm">Mobile Apps</a></li>
+    <li><a href="/Site_Map.htm">Sitemap</a></li>
+    <li><a href="/city-hall/privacydisclaimers.htm">Privacy Policy</a></li>
+    <li><a href="/city-hall/privacydisclaimers.htm">Copyright</a></li>
+</ul>
+</nav>
+</div>
+<div class="footer__bottom-right">Page Last Updated: <span id="LastPublishedDate"></span></div>
+</div>
+</div>
+<!-- Accessibility Utilities  -->
+<script type="text/javascript" src="https://www.browsealoud.com/plus/scripts/ba.js"></script>
+<!-- START OF SiteImprove Analytics TAG -->
+<script>
+if (location.href.startsWith("https://www.richmond.ca") || (location.href.startsWith("https://cms.richmond.ca") && location.href.includes("PageMode=Hybrid"))) {
+window.addEventListener("load", async function() {
+    /* SiteImprove PAGE ANALYTICS */
+    await $.getScript("https://siteimproveanalytics.com/js/siteanalyze_51896.js");
+
+    /* SiteImprove EVENTS TRACKING - links & cta */
+    /* from documentation: onclick = "_sz.push(['event', 'CATEGORY', 'ACTION', 'LABEL']);" */
+    $("a").each((i,e) => {
+        if (e.href.startsWith("mailto:") ) {
+            $(e).click(() => { _sz.push(['event', 'CALL TO ACTION', 'Send Email', $(e).href().substring(7, $(e).href().indexOf(".", $(e).href().indexOf("@")))]); });
+        } else if (e.href.startsWith("https://www.richmond.ca/__shared/Assets/")) {
+            $(e).click(() => { _sz.push(['event', 'DOWNLOAD FILE', $(e).text(), $(e).href().substring($(e).href().lastIndexOf("/")+1)]); });
+        }
+    });
+    
+    $("input[type=submit]").each((i,e) => {
+        if ($(e).is("#googleSearchButton")) {
+            $(e).click(() => { _sz.push(['event', 'CALL TO ACTION', 'Site Search', $("#googleSearchTextfield").val()]); });
+        } else  {
+           $(e).click(() => { _sz.push(['event', 'CALL TO ACTION', $(e).prop("value"), $(e).closest("#content").find("h1.PageTitle").text()]); });
+        }
+    });
+
+    /* SiteImprove EVENTS TRACKING - video plays */
+    $.getScript("https://www.youtube.com/iframe_api");
+    function onYouTubeIframeAPIReady() {
+        $("iframe[src*=youtube").each((i, e) => {
+            var player = new YT.Player(e.id, {
+                events: {
+                    'onStateChange': onPlayerStateChange
+                }
+            });
+        });
+    }
+    function onPlayerStateChange(event) {
+        var title = event.target.getVideoUrl()
+        if (event == YT.PlayerState.PLAYING)
+            _sz.push(['event', 'VIDEO', 'Play', title]);
+        if (event == YT.PlayerState.PAUSED)
+            _sz.push(['event', 'VIDEO', 'Pause', title]);
+    }
+
+    await  $.getScript("https://player.vimeo.com/api/player.js");
+    $("iframe[src*=vimeo").each((i, e) => {
+        var player = new Vimeo.Player(e);
+        player.getVideoTitle().then((title) => {
+            player.on('play', function () {
+                _sz.push(['event', 'VIDEO', 'Play', title]);
+            });
+            player.on('pause', function () {
+                _sz.push(['event', 'VIDEO', 'Pause', title]);
+            });
+        });
+    });
+});
+}
+</script>
+<!-- END OF SiteImprove Analytics TAG --></footer>
+<script>document.getElementById("LastPublishedDate").innerHTML =  '1/23/2024 4:31:57 PM';</script>
+<div class="modal-overlay" aria-hidden="true" id="modal"></div>
+<script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+<script src="/__shared/templates/assets/js/acm.js"></script>
+<script src="/__shared/templates/assets/js/slick/slick.min.js"></script>
+<script src="/__shared/templates/assets/js/main.js"></script>
+<template id="template--video-modal">
+<div class="modal modal--video">
+<div class="modal__header">
+<h2 class="modal__heading h3"></h2>
+<button class="modal__close" aria-expanded="false" aria-controls="modal" aria-label="Close"><span class="modal__close-icon expand-close"></span></button>
+</div>
+<div class="modal__wrapper">
+<div class="video-modal">
+<video controls width="1168"></video>
+<ul class="video-controls">
+<li>
+<button class="btn btn--secondary video-row__play">Play<span class="fa-regular fa-play btn__icon"></span></button>
+</li>
+<li>
+<button class="btn btn--secondary video-row__pause" disabled>Stop<span class="fa-regular fa-square btn__icon"></span></button>
+</li>
+<li>
+<button class="btn btn--secondary video-row__expand modal__close" aria-haspopup="true" aria-expanded="false" aria-controls="modal">Close<span class="fa-regular fa-arrows-minimize btn__icon"></span></button>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</template>
+<template id="template--images-modal">
+<div class="modal modal--images">
+<div class="modal__header">
+<p class="modal__heading"></p>
+<button class="modal__close" aria-expanded="false" aria-controls="modal" aria-label="Close"><span class="modal__close-icon expand-close"></span></button>
+</div>
+<div class="modal__wrapper">
+<div class="images-modal">
+<div class="images-modal__wrapper">
+<button class="images-modal__control images-modal__control--prev"></button>
+<div class="images-modal__carousel"></div>
+<button class="images-modal__control images-modal__control--next"></button>
+</div>
+</div>
+</div>
+</div>
+</template>
+<meta name="pageid" content='21313'>
+<script>
+if (!location.hostname.includes("cms")) {
+const linkTag = document.createElement('link');
+linkTag.setAttribute('rel', 'canonical');
+linkTag.href = `https://www.richmond.ca` + location.pathname;;
+document.head.appendChild(linkTag);
+}
+</script>
+<meta http-equiv="Last-Modified" content='1/23/2024 4:31:57 PM'>
+<script>
+/*
+const publishedDate = new Date(Date.parse('1/23/2024 4:31:57 PM'));
+const dateTag = document.createElement('meta');
+dateTag.setAttribute('name', 'revised');
+dateTag.content = publishedDate.toString();
+document.head.appendChild(dateTag);
+//document.getElementById("LastPublishedDate").innerHTML =  publishedDate.toDateString();
+*/
+</script><script type="text/javascript">ipjMoveViewstateFromFooter()</script></body>
+</html>

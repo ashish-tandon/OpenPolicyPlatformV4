@@ -1,0 +1,44 @@
+{
+  "last_updated": "2025-08-08T18:10:34.683940",
+  "statistics": {
+    "total_scrapers": 137,
+    "tested_scrapers": 101,
+    "working_scrapers": 101,
+    "failed_scrapers": 0,
+    "untested_scrapers": 36
+  },
+  "categories": {
+    "federal": {
+      "total": 1,
+      "tested": 1,
+      "working": 1
+    },
+    "provincial": {
+      "total": 105,
+      "tested": 72,
+      "working": 72
+    },
+    "municipal": {
+      "total": 28,
+      "tested": 28,
+      "working": 28
+    },
+    "civic": {
+      "total": 1,
+      "tested": 0,
+      "working": 0
+    },
+    "update": {
+      "total": 0,
+      "tested": 0,
+      "working": 0
+    }
+  },
+  "schedules": {
+    "daily": 1,
+    "weekly": 105,
+    "monthly": 28,
+    "long_running": 0,
+    "one_time": 0
+  }
+}

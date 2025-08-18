@@ -1,0 +1,845 @@
+status: 200
+encoding: ISO-8859-1
+Content-Type: text/html
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+.xap: application/x-silverlight-app
+X-Powered-By: ASP.NET
+MicrosoftOfficeWebServer: 5.0_Pub
+Date: Sat, 09 Aug 2025 05:45:01 GMT
+Content-Length: 28704
+Set-Cookie: BIGipServerProd-CORP-Winnipeg-ca.app~Prod-CORP-Winnipeg-ca_pool=1635457708.20480.0000; path=/; Httponly; Secure
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en-ca" xml:lang="en-ca">
+<head>
+<title>City Council - City of Winnipeg</title>
+<meta name="description" content="A 15 member City Council plus the Mayor serves as the legislative branch for the City of Winnipeg." />
+<meta name="keywords" content="council, city council, councillor, councillors, ward councillors, council members" />
+
+<meta name="services" content="Your Government" />
+<meta name="language" content="English" />
+<!-- Removed all instances of http: to just have //www. for ssl transition - DH - 2017.11.24 -->
+
+<!-- Remember to update the French website's head_fr.htm file when updating this -->
+
+<!-- ********* IMPORTANT ********** -->
+<!-- ********* PROD-only version. DO not copy to DEV. There are two separate Google Tag Manager ids for DEV and PROD ********** -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NSQMNLN');gtag('config', 'AW-826904789');</script>
+<!-- End Google Tag Manager -->
+<!-- <meta name="viewport" content="width=1200, initial-scale=1, shrink-to-fit=yes"> -->
+<!-- <meta name="viewport" content="width=1200"> -->
+<meta http-equiv="x-ua-compatible" content="IE=edge"> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<meta name="rating" content="General" />
+<meta name="author" content="City of Winnipeg" />
+<meta property="og:image" content="https://winnipeg.ca/shared/images/CoW.png" />
+
+<link href="/shared/images/winnipegca.ico" rel="shortcut icon" />
+<link href="/shared/stylesheets/Print.css" rel="stylesheet" type="text/css" media="print" />
+<link href="/shared/stylesheets/Print.css" rel="stylesheet" type="text/css" media="handheld" />
+<link href="/shared/stylesheets/featureicons.css" rel="stylesheet" type="text/css" />
+<link href="/shared/stylesheets/icons.css" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,600,600i,700" rel="stylesheet">
+<link href="/shared/includes/designsystem/v1.0/assets/css/main-wpgca.css" rel="stylesheet" type="text/css" />
+<link href="/shared/stylesheets/cow-drupal.css" rel="stylesheet" type="text/css" />
+<link href="https://files.winnipeg.ca/themes/custom/confluence/css/main-drupal.css" rel="stylesheet" type="text/css" />
+<link href="https://files.winnipeg.ca/themes/custom/confluence/css/base/base.css" rel="stylesheet" type="text/css" />
+<link href="https://files.winnipeg.ca/themes/custom/confluence/css/tiny-slider.css" rel="stylesheet" type="text/css" />
+<link href="https://files.winnipeg.ca/themes/custom/confluence/css/theme/styles.css" rel="stylesheet" type="text/css" /> 
+
+
+
+<!-- JQUERY SCRIPTS -->
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
+<script src="/shared/includes/designsystem/v1.0/assets/js/jquery-3.3.1.js"></script>
+
+
+<!-- This is calling the jquery UI - user interface -->
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
+
+<!-- This is calling the jquery theme SMOOTHNESS -->
+<link href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" rel="stylesheet" />
+
+<!--This is everything you need for the new SMART left nav-->
+<script type="text/javascript" src="/shared/js/LtNavTree.js?v=1"></script>
+<!--The css styles for the smart left nav are in the individual colour.css files i.e. green.css-->
+
+<!-- Lightbox code -->      
+<!--script language="JavaScript" type="text/javascript" src="/shared/js/lightbox.js"></script>
+<link href="/shared/stylesheets/lightbox.css" rel="stylesheet" type="text/css" /-->
+
+<!-- Lightbox code -->      
+<script src="/shared/includes/lightboxV2/lightbox.js"></script>
+<link href="/shared/includes/lightboxV2/lightbox.css" rel="stylesheet" type="text/css" />
+<link href="/shared/includes/lightboxV2/lightbox_custom.css" rel="stylesheet" type="text/css" />
+
+<!-- This is to help IE render HTML5 tags -->
+<script src="/shared/js/html5shiv.js"></script>
+<script src="/shared/js/html5shiv-printshiv.js"></script>
+
+<!-- Global Javascript file -->
+<script language="JavaScript" type="text/javascript" src="/shared/js/global.js"></script>
+
+<!-- FONT AWESOME Accessibility friendly icons - //fontawesome.io/ -->
+<!--link rel="stylesheet" href="/shared/font-awesome-4.5.0/css/font-awesome.min.css"-->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--link rel="stylesheet" href="/shared/fontawesome-pro-5.0.9/svg-with-js/js/fontawesome-all.js">
+<link rel="stylesheet" href="/shared/fontawesome-pro-5.0.9/svg-with-js/css/fa-svg-with-js.css">
+<link rel="stylesheet" href="/shared/fontawesome-pro-5.0.9/web-fonts-with-css/css/fontawesome-all.min.css">-->
+
+<link rel="stylesheet" href="/shared/includes/designsystem/v1.0/assets/fontawesome/css/all.min.css"> <!--load all styles -->
+
+
+<link href="/shared/stylesheets/green.css" rel="stylesheet" type="text/css" />
+<link href="/council/includes/council.css" rel="stylesheet" type="text/css" />
+
+<style>
+	.col-council {
+		position: relative;
+		background: none;
+		width: 236px;
+	}
+	.col-council a span { 
+  		position: absolute; 
+  		width: 100%;
+  		height: 100%;
+  		top: 0;
+  		left: 0;
+		display: block;
+	}
+	.col-council:hover { 
+		background-color: #e7eff7;
+	}
+	.box {
+		background-color: transparent !important;
+		height: 345px;
+		margin: 0;
+	}
+	.insideboxtext {
+		text-decoration: underline;
+	}
+	.box .insideboxtitle {
+    	margin: 0 20px 20px 20px;
+	}
+	.col-council:hover .insideboxtext {
+		color: #336699;
+	}
+	.col-council:hover .box img {
+		border: 3px solid #336699;
+	}
+</style>
+	
+</head>
+<body class="hide-right-bar">
+<!-- To add a right nav, remove class="hide-right-bar" from the body tag above --> 
+ 
+
+<!-- top navigation --> 
+<!-- access key #1 to top nav is in the top-nav.htm include file --> 
+<!--stopindex-->
+<!-- BEGIN TopNav -->
+
+<!-- Removed all instances of http: to just have //www. for ssl transition - DH - 2017.11.24 -->
+
+
+
+<!--The first link on the page is supposed to be an Accessibility link-->
+<a tabindex="1" title="Site Accessibility Information" href="https://winnipeg.ca/interhom/accessibility/accessWinnipegCa.stm"><img alt="Site Accessibility Information" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;" /></a>
+
+<a href="#skipToTopNav" accesskey="1" title="Access Key 1 to Skip to Top Navigation"><img alt="Access Key 1 to Skip to Top Navigation" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;" /></a>
+
+<a href="#skipTo311Link" accesskey="2" title="Access Key 2 to Skip to the Three One One link"><img alt="Access Key 2 to Skip to the Three One One link" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;" /></a>
+
+<a href="#skipToMainMenu" accesskey="3" title="Access Key 3 to Skip to City of Winnipeg Main Menu"><img alt="Access Key 3 to Skip to City of Winnipeg Main Menu" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;" /></a>
+
+<a href="#skipToLeftNav" accesskey="4" title="Access Key 4 to Skip to Left Navigation Menu"><img alt="Access Key 4 to Skip to Left Navigation Menu" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;" /></a> 
+
+<a href="#skipToContent" accesskey="5" title="Access Key 5 to Skip to Content area"><img alt="Access Key 5 to Skip to Content area" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;" /></a>
+ 
+<a href="#skipToRtSidebar" accesskey="6" title="Access Key 6 to Skip to Right Sidebar content area"><img alt="Access Key 6 to Skip to Right Sidebar content area" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;" /></a>
+
+<a href="#skipToFooter" accesskey="7" title="Access Key 7 to Skip to Footer Links" onClick="document.getElementById('skipToFooter').focus();"><img alt="Access Key 7 to Skip to Footer Links" src="/shared/images/pxl_trans.gif" width="1" height="1" border="0" style="position:absolute; top:0px; left:0px; z-index:0; visibility:hidden;" /></a>
+<!-- END Accessibility links for screenreaders -->
+
+
+
+
+
+<link href="/shared/includes/top-nav-dept/top-nav-dept.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+
+function supports_html5_storage() {
+  try {
+    return 'localStorage' in window && window['localStorage'] !== null;
+  } catch (e) {
+    return false;
+  }
+}
+
+function getCookie(dname)
+{
+                if(supports_html5_storage()) {
+                                return localStorage.getItem(dname);
+                } else {
+                var name = dname + "=";
+                var ca = document.cookie.split(';');
+                for(var i=0; i<ca.length; i++) 
+                  {
+                  var c = ca[i];
+                  if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+                  }
+                return false;
+                }
+}
+
+function setCookie(dname) {
+                if(supports_html5_storage()) {
+                                localStorage.setItem("textSize", dname);
+                } else {
+                                document.cookie = "textSize="+dname+"";
+                }
+}
+
+function changeClsNam(clsNam) {
+                $('#main').removeClass('regular medium large').addClass(clsNam);
+                $('#top-navigation').removeClass('regular medium large').addClass(clsNam);
+                $('#left-menu').removeClass('regular medium large').addClass(clsNam);
+				$('.footer_box').removeClass('regular medium large').addClass(clsNam);
+				$('.copyright').removeClass('regular medium large').addClass(clsNam);
+                $('.crumbs').removeClass('regular medium large').addClass(clsNam);
+}
+
+function addFr () {
+				var loc = window.location;
+				var strdomain = loc.hostname.toLowerCase();
+				switch(strdomain) {
+					case "theparkingstore.winnipeg.ca":
+					// case "www.theparkingstore.winnipeg.ca":
+					case "wpl.winnipeg.ca":
+					case "www.wpl.winnipeg.ca":
+						window.open("//winnipeg.ca/francais"+loc.pathname+loc.search+loc.hash,'_self',false);
+						break;
+					case "assessment.winnipeg.ca":
+						window.open("//winnipeg.ca/francais/asmttax"+loc.pathname.substring(8)+loc.search+loc.hash,'_self',false);
+						break;
+					case "winnipegtransit.com":
+					case "www.winnipegtransit.com":
+						window.open("//winnipeg.ca/francais"+loc.pathname.substring(3)+loc.search+loc.hash,'_self',false);
+						break;
+					case "theparkingstoredev.winnipeg.ca":
+					case "wpldev.winnipeg.ca":
+						window.open("//wwwdev.winnipeg.ca/francais"+loc.pathname+loc.search+loc.hash,'_self',false);
+						break;
+					case "assessmentdev.winnipeg.ca":
+						window.open("//wwwdev.winnipeg.ca/francais/asmttax"+loc.pathname.substring(8)+loc.search+loc.hash,'_self',false);
+						break;
+					case "wwwdev.winnipegtransit.com":
+						window.open("//wwwdev.winnipeg.ca/francais"+loc.pathname.substring(3)+loc.search+loc.hash,'_self',false);
+						break;
+					default:
+						window.open(loc.protocol+"//"+loc.hostname+"/francais"+loc.pathname+loc.search+loc.hash,'_self',false);
+				}
+}
+
+$(document).ready(function() {                
+
+                if(getCookie('textSize')) {
+                   changeClsNam(getCookie('textSize'));
+                   $('span.'+getCookie('textSize')+' a').addClass('someName');
+                }
+                $('.resizer a').click(function() {
+                                var textSize = $(this).parent('span').attr('class'); 
+                                $('.resizer').find('a').removeClass('someName'); 
+                                $(this).addClass('someName');
+                                changeClsNam(textSize);
+                                setCookie(textSize);
+                                return false;
+                });
+				$('#francaislink,.language-link').click(function(){addFr(); return false;});
+
+}); 
+</script>
+
+
+<!-- added by VS 2020.02.03 to work with Google Tag Manager -->
+<!-- ********* IMPORTANT ********** -->
+<!-- ********* PROD-only version. DO not copy to DEV. There are two separate Google Tag Manager ids for DEV and PROD ********** -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSQMNLN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="region region-global-alert"><div class="views-element-container block block-views block-views-blockglobal-alerts-block-1 global-alert global-alert-election" id="block-views-block-global-alerts-block-1--2"><div><div class="view view-global-alerts view-id-global_alerts view-display-id-block_1 js-view-dom-id-a6cdb4036764119642344c95afe94796a44b1cd15a1caf8b30df075ec7a1ca5d"><div class="view-content alerts"><div class="en color--blue views-row"><div class="views-field views-field-body container"><div class="field-content"><p><span><span class="fa-bus fa-solid"/></span> <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d7eef8db-476d-48de-8ce4-9fbcb8029321" href="https://www.winnipeg.ca/services-programs/transportation-roads-parking/transit/primary-transit-network-now-service" title="The Primary Transit Network is now in service">Plan your next trip on our new bus network</a></p></div></div></div><div class="en color--red views-row"><div class="views-field views-field-body container"><div class="field-content"><p><span><span class="fa-regular fa-triangle-exclamation"/> </span><a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/emergency-preparedness/hazards-winnipeg#accordion-air-quality ">Air Quality Warning in effect for city of Winnipeg</a>. Learn how to stay safe.</p></div></div></div><div class="en color--grey views-row"><div class="views-field views-field-body container"><div class="field-content"><p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8946deb6-0fe0-4e85-810a-b76609b5a70d" href="https://www.winnipeg.ca/connect/service-impacts" title="Service impacts">City services in the event of a Canada Post work stoppage</a></p></div></div></div></div><div class="alerts__controls alerts__controls--hidden"> <button class="alerts__control alerts__control--previous" tabindex="0"><span class="far fa-angle-left"/>  Previous</button><ul class="alerts__nav"/> <button class="alerts__control alerts__control--next" tabindex="0">Next  <span class="far fa-angle-right"/></button></div></div></div></div><div class="views-element-container block block-views block-views-blockglobal-alerts-stacked-block-1" id="block-views-block-global-alerts-stacked-block-1--2"><div><div class="global-alert view view-global-alerts-stacked view-id-global_alerts_stacked view-display-id-block_1 js-view-dom-id-dc79c39fcfd88810aca8cf2f0457a1961d80168b4dbe3dd0362693ffa4cc6802"><div class="view-content"><div class="en color--red views-row"><div class="views-field views-field-body container"><div class="field-content"><p><span><span class="fa-regular fa-triangle-exclamation"/> </span><a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/emergency-preparedness/hazards-winnipeg#accordion-air-quality ">Air Quality Warning in effect for city of Winnipeg</a>. Learn how to stay safe.</p></div></div></div><div class="en color--blue views-row"><div class="views-field views-field-body container"><div class="field-content"><p><span><span class="fa-bus fa-solid"/></span> <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d7eef8db-476d-48de-8ce4-9fbcb8029321" href="https://www.winnipeg.ca/services-programs/transportation-roads-parking/transit/primary-transit-network-now-service" title="The Primary Transit Network is now in service">Plan your next trip on our new bus network</a></p></div></div></div><div class="en color--grey views-row"><div class="views-field views-field-body container"><div class="field-content"><p><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8946deb6-0fe0-4e85-810a-b76609b5a70d" href="https://www.winnipeg.ca/connect/service-impacts" title="Service impacts">City services in the event of a Canada Post work stoppage</a></p></div></div></div></div></div></div></div></div>
+
+<header class="global-header" style="background-image: url('https://www.winnipeg.ca/themes/custom/confluence/img/header-bg-lg.png');"><div class="navbar"><div class="container clearfix"><div class="region region-branding"> <a href="https://www.winnipeg.ca/" title="Home" rel="home" class="logo"> <img src="https://www.winnipeg.ca/themes/custom/confluence/img/cw-v-white-rgb.svg" alt="Home" /> </a></div><div class="mobile-nav navbar-expand"><div class="region region-language-toggle"><div class="language-switcher-language-url block block-language block-language-blocklanguage-content" id="block-languageswitchercontent" role="navigation"> <a href="https://www.winnipeg.ca/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></div></div> <button class="btn cool-class searchBtn"> <span class="fas fa-search" aria-hidden="true"></span> Search </button> <button class="btn menuBtn navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#mobileNavBar" aria-controls="mobileNavBar" aria-expanded="false" aria-label="Toggle navigation"> <span class="far fa-bars" aria-hidden="true"></span> Menu </button></div><div class="search-group-container clearfix"><form action="https://legacy.winnipeg.ca/search/default.stm"><div class="form-group search-group sm"> <input id="globalSearchInput" type="search" name="q" class="form-control form-control-sm dark google-search google-search-header" aria-label="Search the City of Winnipeg"> <button id="globalSearchBtn" type="submit" aria-label="Search the City of Winnipeg" class="btn btn-sm btn-search dark"><i aria-hidden="true" class="far fa-search"></i></button></div></form></div><div class="collapse navbar-collapse" id="mobileNavBar"><div class="language-container"><div class="region region-nav-header"> <nav role="navigation" aria-labelledby="block-header" id="block-header" class="block block-menu menu--header"><ul class="no-inline-links"><li> <a href="https://www.winnipeg.ca/city-locations" data-drupal-link-system-path="node/34646">City locations</a></li><li> <a href="https://www.winnipeg.ca/connect" data-drupal-link-system-path="node/2398">Connect with us</a></li><li> <a href="https://www.winnipeg.ca/node/25438" data-drupal-link-system-path="node/25438">Departments</a></li><li> <a href="https://www.winnipeg.ca/news" data-drupal-link-system-path="node/2400">Newsroom</a></li></ul> </nav></div><div class="region region-language-toggle"><div class="language-switcher-language-url block block-language block-language-blocklanguage-content" id="block-languageswitchercontent" role="navigation"> <a href="https://www.winnipeg.ca/fr" class="language-link" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;">Français</a></div></div></div> <nav role="navigation" aria-labelledby="block-mainmenu" id="block-mainmenu" class="menu--main-menu main-nav"><ul class="main-menu list-unstyled no-inline-links"><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs" aria-haspopup="true" aria-expanded="false" title="Expand menu Services &amp; programs" id="menu-services--programs" data-drupal-link-system-path="node/4">Services &amp; programs</a> <button class="btn btn-sm btn-dropdown btn-dropdown-top" aria-controls="services--programs" title="Toggle the services--programs section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu" id="services--programs" aria-labelledby="menu-services--programs"><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage" aria-haspopup="true" aria-expanded="false" title="Expand menu Recycling &amp; garbage" id="menu-recycling--garbage" data-drupal-link-system-path="node/24985">Recycling &amp; garbage</a> <button class="btn btn-sm btn-dropdown" aria-controls="recycling--garbage" title="Toggle the recycling--garbage section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="recycling--garbage" aria-labelledby="menu-recycling--garbage"><li> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage/find-your-collection-day" data-drupal-link-system-path="node/25250">Find your collection day</a></li><li> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage/what-goes-where-recyclepedia" data-drupal-link-system-path="node/25247">What goes where (Recyclepedia)</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage/collection-services" data-drupal-link-system-path="node/38636">Collection services</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage/drop-depots" data-drupal-link-system-path="node/38396">Drop off depots</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage/recycling" data-drupal-link-system-path="node/25374">Recycling</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage/garbage-disposal" data-drupal-link-system-path="node/25378">Garbage disposal</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage/waste-diversion-events" data-drupal-link-system-path="node/37983">Waste diversion events</a></li><li> <a href="https://www.winnipeg.ca/services-programs/recycling-garbage/waste-management-planning" data-drupal-link-system-path="node/38389">Waste management planning</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/water-wastewater" aria-haspopup="true" aria-expanded="false" title="Expand menu Water &amp; wastewater" id="menu-water--wastewater" data-drupal-link-system-path="node/24562">Water &amp; wastewater</a> <button class="btn btn-sm btn-dropdown" aria-controls="water--wastewater" title="Toggle the water--wastewater section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="water--wastewater" aria-labelledby="menu-water--wastewater"><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/water-wastewater/water" data-drupal-link-system-path="node/25380">Water</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/water-wastewater/sewage" data-drupal-link-system-path="node/25381">Sewage</a></li><li> <a href="https://www.winnipeg.ca/services-programs/water-wastewater/drainage-flooding" data-drupal-link-system-path="node/25382">Drainage &amp; flooding</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/bylaws-enforcement" aria-haspopup="true" aria-expanded="false" title="Expand menu Bylaws &amp; enforcement" id="menu-bylaws--enforcement" data-drupal-link-system-path="node/24563">Bylaws &amp; enforcement</a> <button class="btn btn-sm btn-dropdown" aria-controls="bylaws--enforcement" title="Toggle the bylaws--enforcement section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="bylaws--enforcement" aria-labelledby="menu-bylaws--enforcement"><li> <a href="https://www.winnipeg.ca/services-programs/bylaws-enforcement/bylaw-listing" data-drupal-link-system-path="node/25300">Bylaw listing</a></li><li> <a href="https://www.winnipeg.ca/services-programs/bylaws-enforcement/bylaw-screening" data-drupal-link-system-path="node/25383">Bylaw screening</a></li><li> <a href="https://www.winnipeg.ca/services-programs/bylaws-enforcement/outdoor-smoking" data-drupal-link-system-path="node/35975">Outdoor smoking</a></li><li> <a href="https://www.winnipeg.ca/services-programs/bylaws-enforcement/problem-properties" data-drupal-link-system-path="node/35974">Problem properties</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/bylaws-enforcement/property-neighbourhood-standards" data-drupal-link-system-path="node/25384">Property &amp; neighbourhood standards</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/bylaws-enforcement/vacant-buildings" data-drupal-link-system-path="node/35050">Vacant buildings</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/animals" aria-haspopup="true" aria-expanded="false" title="Expand menu Animals" id="menu-animals" data-drupal-link-system-path="node/25278">Animals</a> <button class="btn btn-sm btn-dropdown" aria-controls="animals" title="Toggle the animals section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="animals" aria-labelledby="menu-animals"><li> <a href="https://www.winnipeg.ca/services-programs/animals/pet-licences" data-drupal-link-system-path="node/25385">Pet licences</a></li><li> <a href="https://www.winnipeg.ca/services-programs/animals/adopt-dog" data-drupal-link-system-path="node/25311">Adopt a dog</a></li><li> <a href="https://www.winnipeg.ca/services-programs/animals/animal-complaints" data-drupal-link-system-path="node/25386">Animal complaints</a></li><li> <a href="https://www.winnipeg.ca/services-programs/animals/doggie-dates" data-drupal-link-system-path="node/25387">Doggie Dates</a></li><li> <a href="https://www.winnipeg.ca/services-programs/animals/leash-dog-areas" data-drupal-link-system-path="node/25388">Off-leash dog areas</a></li><li> <a href="https://www.winnipeg.ca/services-programs/animals/lost-found-pets" data-drupal-link-system-path="node/25389">Lost &amp; found pets</a></li><li> <a href="https://www.winnipeg.ca/services-programs/animals/sick-or-injured-animals" data-drupal-link-system-path="node/25390">Sick or injured animals</a></li><li> <a href="https://www.winnipeg.ca/services-programs/animals/animal-services-agency" data-drupal-link-system-path="node/36017">Animal Services Agency</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety" aria-haspopup="true" aria-expanded="false" title="Expand menu Emergency &amp; public safety" id="menu-emergency--public-safety" data-drupal-link-system-path="node/24564">Emergency &amp; public safety</a> <button class="btn btn-sm btn-dropdown" aria-controls="emergency--public-safety" title="Toggle the emergency--public-safety section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="emergency--public-safety" aria-labelledby="menu-emergency--public-safety"><li> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/crime-prevention" data-drupal-link-system-path="node/25391">Crime prevention </a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/injury-illness-prevention" data-drupal-link-system-path="node/34892">Injury &amp; illness prevention</a></li><li> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/reporting-emergencies" data-drupal-link-system-path="node/25392">Reporting emergencies</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/police" data-drupal-link-system-path="node/25393">Police</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/fire-safety" data-drupal-link-system-path="node/37998">Fire safety </a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/fire-paramedic" data-drupal-link-system-path="node/25394">Fire Paramedic</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/emergency-preparedness" data-drupal-link-system-path="node/24509">Emergency preparedness</a></li><li> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/graffiti" data-drupal-link-system-path="node/25107">Graffiti</a></li><li> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/community-safety-team" data-drupal-link-system-path="node/35990">Community Safety Team</a></li><li> <a href="https://www.winnipeg.ca/services-programs/emergency-public-safety/winnipeg-safe-city" data-drupal-link-system-path="node/25397">Winnipeg Safe City</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/transportation-roads-parking" aria-haspopup="true" aria-expanded="false" title="Expand menu Transportation, roads &amp; parking" id="menu-transportation-roads--parking" data-drupal-link-system-path="node/12790">Transportation, roads &amp; parking</a> <button class="btn btn-sm btn-dropdown" aria-controls="transportation-roads--parking" title="Toggle the transportation-roads--parking section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="transportation-roads--parking" aria-labelledby="menu-transportation-roads--parking"><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/transportation-roads-parking/road-construction-closures" data-drupal-link-system-path="node/40123">Road construction &amp; closures</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/transportation-roads-parking/road-safety" data-drupal-link-system-path="node/38025">Road safety</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/transportation-roads-parking/road-boulevard-maintenance" data-drupal-link-system-path="node/38941">Road &amp; boulevard maintenance</a></li><li> <a href="https://www.winnipeg.ca/services-programs/transportation-roads/snow-clearing-parking-bans" data-drupal-link-system-path="node/25401">Snow clearing &amp; parking bans</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/transportation-roads/parking" data-drupal-link-system-path="node/25402">Parking</a></li><li> <a href="https://www.winnipeg.ca/services-programs/transportation-roads-parking/traffic-improvement-projects" data-drupal-link-system-path="node/25399">Traffic improvement projects</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/transportation-roads/walking-biking" data-drupal-link-system-path="node/25309">Walking &amp; biking</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/transportation-roads-parking/transit" data-drupal-link-system-path="node/25403">Transit</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/transportation-roads/transit/winnipeg-transit-plus" data-drupal-link-system-path="node/25222">Winnipeg Transit Plus</a></li><li> <a href="https://www.winnipeg.ca/services-programs/transportation-roads/vehicles-hire" data-drupal-link-system-path="node/25268">Vehicles for hire</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/permits-licences-0" aria-haspopup="true" aria-expanded="false" title="Expand menu Permits &amp; licences" id="menu-permits--licences" data-drupal-link-system-path="node/25335">Permits &amp; licences</a> <button class="btn btn-sm btn-dropdown" aria-controls="permits--licences" title="Toggle the permits--licences section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="permits--licences" aria-labelledby="menu-permits--licences"><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/permits-licences-0/business-licences" data-drupal-link-system-path="node/35390">Business licences</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/trees-environment" aria-haspopup="true" aria-expanded="false" title="Expand menu Trees &amp; environment" id="menu-trees--environment" data-drupal-link-system-path="node/24567">Trees &amp; environment</a> <button class="btn btn-sm btn-dropdown" aria-controls="trees--environment" title="Toggle the trees--environment section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="trees--environment" aria-labelledby="menu-trees--environment"><li> <a href="https://www.winnipeg.ca/services-programs/trees-environment/insect-control" data-drupal-link-system-path="node/25237">Insect control</a></li><li> <a href="https://www.winnipeg.ca/services-programs/trees-environment/urban-beekeeping" title="Learn about urban beekeeping in Winnipeg and how to apply to keep hives in your neighbourhood." data-drupal-link-system-path="node/39575">Urban beekeeping</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/trees-environment/trees" data-drupal-link-system-path="node/34178">Trees</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/services-programs/trees-environment/climate-action" data-drupal-link-system-path="node/35123">Climate action</a></li><li> <a href="https://www.winnipeg.ca/node/25408" data-drupal-link-system-path="node/25408">Community gardens</a></li><li> <a href="https://www.winnipeg.ca/node/25409" data-drupal-link-system-path="node/25409">Composting</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/accessibility" aria-haspopup="true" aria-expanded="false" title="Expand menu Accessibility" id="menu-accessibility" data-drupal-link-system-path="node/25082">Accessibility</a> <button class="btn btn-sm btn-dropdown" aria-controls="accessibility" title="Toggle the accessibility section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="accessibility" aria-labelledby="menu-accessibility"><li> <a href="https://www.winnipeg.ca/services-programs/accessibility/disruption-notices" data-drupal-link-system-path="node/36007">Disruption notices</a></li><li> <a href="https://www.winnipeg.ca/services-programs/accessibility/plans-policies" data-drupal-link-system-path="node/35169">Plans &amp; policies</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/services-programs/cemeteries" aria-haspopup="true" aria-expanded="false" title="Expand menu Cemeteries" id="menu-cemeteries" data-drupal-link-system-path="node/24569">Cemeteries</a> <button class="btn btn-sm btn-dropdown" aria-controls="cemeteries" title="Toggle the cemeteries section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="cemeteries" aria-labelledby="menu-cemeteries"><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/cemetery-products-services" data-drupal-link-system-path="node/25369">Cemetery products &amp; services</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/brookside-cemetery" data-drupal-link-system-path="node/37592">Brookside Cemetery</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/st-vital-cemetery" data-drupal-link-system-path="node/37591">St. Vital Cemetery</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/transcona-cemetery" data-drupal-link-system-path="node/37593">Transcona Cemetery</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/field-honour" data-drupal-link-system-path="node/34329">Field of Honour</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/burial-search" data-drupal-link-system-path="node/37588">Locate a grave</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/cemetery-bylaw-regulations" data-drupal-link-system-path="node/34321">Cemetery bylaw &amp; regulations</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/city-cemetery-reserve-fund" data-drupal-link-system-path="node/34323">City Cemetery Reserve Fund</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/fees-charges" data-drupal-link-system-path="node/34330">Fees &amp; charges</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/business-clients" data-drupal-link-system-path="node/34332">Business clients</a></li><li> <a href="https://www.winnipeg.ca/services-programs/cemeteries/contact-cemeteries" data-drupal-link-system-path="node/34331">Contact cemeteries</a></li></ul></li></ul></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure" aria-haspopup="true" aria-expanded="false" title="Expand menu Recreation &amp; leisure" id="menu-recreation--leisure" data-drupal-link-system-path="node/3">Recreation &amp; leisure</a> <button class="btn btn-sm btn-dropdown btn-dropdown-top" aria-controls="recreation--leisure" title="Toggle the recreation--leisure section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu" id="recreation--leisure" aria-labelledby="menu-recreation--leisure"><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/recreation-leisure/parks" aria-haspopup="true" aria-expanded="false" title="Expand menu Parks" id="menu-parks" data-drupal-link-system-path="node/25158">Parks</a> <button class="btn btn-sm btn-dropdown" aria-controls="parks" title="Toggle the parks section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="parks" aria-labelledby="menu-parks"><li> <a href="https://www.winnipeg.ca/node/25410" data-drupal-link-system-path="node/25410">Things to do</a></li><li> <a href="https://www.winnipeg.ca/node/25411" data-drupal-link-system-path="node/25411">Gardens</a></li><li> <a href="https://www.winnipeg.ca/node/25412" data-drupal-link-system-path="node/25412">Park rentals</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/parks/athletic-fields" data-drupal-link-system-path="node/25173">Athletic fields</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/recreation-leisure/recreation-programs" aria-haspopup="true" aria-expanded="false" title="Expand menu Recreation programs" id="menu-recreation-programs" data-drupal-link-system-path="node/24571">Recreation programs</a> <button class="btn btn-sm btn-dropdown" aria-controls="recreation-programs" title="Toggle the recreation-programs section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="recreation-programs" aria-labelledby="menu-recreation-programs"><li> <a href="https://www.winnipeg.ca/recreation-leisure/recreation-programs/leisure-guide" data-drupal-link-system-path="node/25417">Leisure Guide</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/recreation-programs/free-programs" data-drupal-link-system-path="node/25357">Free programs</a></li><li> <a href="https://www.winnipeg.ca/node/29461" data-drupal-link-system-path="node/29461">Swimming lessons</a></li><li> <a href="https://www.winnipeg.ca/node/29462" data-drupal-link-system-path="node/29462">Skating lessons</a></li><li> <a href="https://www.winnipeg.ca/node/25418" data-drupal-link-system-path="node/25418">SPIN - Sport Programs in Inner City Neighbourhoods</a></li><li> <a href="https://www.winnipeg.ca/node/25419" data-drupal-link-system-path="node/25419">Recreation initiatives</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/recreation-leisure/fitness-leisure-centres" aria-haspopup="true" aria-expanded="false" title="Expand menu Fitness &amp; leisure centres" id="menu-fitness--leisure-centres" data-drupal-link-system-path="node/38134">Fitness &amp; leisure centres</a> <button class="btn btn-sm btn-dropdown" aria-controls="fitness--leisure-centres" title="Toggle the fitness--leisure-centres section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="fitness--leisure-centres" aria-labelledby="menu-fitness--leisure-centres"><li> <a href="https://www.winnipeg.ca/recreation-leisure/fitness-leisure-centres/fort-rouge-leisure-centre" data-drupal-link-system-path="node/36160">Fort Rouge Leisure Centre</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/fitness-leisure-centres/freight-house-recreation-centre" data-drupal-link-system-path="node/36060">Freight House Recreation Centre</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/fitness-leisure-centres/magnus-eliason-recreation-centre" data-drupal-link-system-path="node/36122">Magnus Eliason Recreation Centre</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/fitness-leisure-centres/mayfair-recreation-centre" data-drupal-link-system-path="node/36114">Mayfair Recreation Centre</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/fitness-leisure-centres/peguis-trail-health-fitness-centre" data-drupal-link-system-path="node/36041">Peguis Trail Health &amp; Fitness Centre</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/fitness-leisure-centres/st-johns-leisure-centre" data-drupal-link-system-path="node/36156">St. John&#039;s Leisure Centre</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/fitness-leisure-centres/turtle-island-neighbourhood-centre" data-drupal-link-system-path="node/36136">Turtle Island Neighbourhood Centre</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/recreation-leisure/pools" aria-haspopup="true" aria-expanded="false" title="Expand menu Pools" id="menu-pools" data-drupal-link-system-path="node/25277">Pools</a> <button class="btn btn-sm btn-dropdown" aria-controls="pools" title="Toggle the pools section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="pools" aria-labelledby="menu-pools"><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/pools/indoor-pools" data-drupal-link-system-path="node/12795">Indoor pools</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/pools/outdoor-pools" data-drupal-link-system-path="node/25128">Outdoor pools</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/pools/spray-pads" data-drupal-link-system-path="node/25130">Spray pads</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/pools/wading-pools" data-drupal-link-system-path="node/25129">Wading pools</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/pools/swimming" data-drupal-link-system-path="node/24572">Swimming</a></li><li> <a href="https://www.winnipeg.ca/node/25420" data-drupal-link-system-path="node/25420">Pool rentals</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/pools/pool-entry-requirements-safety-guidelines" data-drupal-link-system-path="node/34932">Pool entry requirements &amp; safety guidelines</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/recreation-leisure/recreation-facility-admission-passes-rentals" aria-haspopup="true" aria-expanded="false" title="Expand menu Recreation facility admission, passes &amp; rentals" id="menu-recreation-facility-admission-passes--rentals" data-drupal-link-system-path="node/38254">Recreation facility admission, passes &amp; rentals</a> <button class="btn btn-sm btn-dropdown" aria-controls="recreation-facility-admission-passes--rentals" title="Toggle the recreation-facility-admission-passes--rentals section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="recreation-facility-admission-passes--rentals" aria-labelledby="menu-recreation-facility-admission-passes--rentals"><li> <a href="https://www.winnipeg.ca/recreation-leisure/recreation-facility-admission-passes-rentals/admission-rates-memberships" data-drupal-link-system-path="node/25351">Admission rates &amp; memberships</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/recreation-facility-admission-passes-rentals/room-rentals" data-drupal-link-system-path="node/25421">Room rentals</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/recreation-facility-admission-passes-rentals/equipment-rentals" data-drupal-link-system-path="node/25350">Equipment rentals</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/recreation-facility-admission-passes-rentals/recreation-fee-assistance-program" data-drupal-link-system-path="node/40640">Recreation Fee Assistance Program</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/recreation-leisure/arenas-rinks" aria-haspopup="true" aria-expanded="false" title="Expand menu Arenas &amp; rinks" id="menu-arenas--rinks" data-drupal-link-system-path="node/12797">Arenas &amp; rinks</a> <button class="btn btn-sm btn-dropdown" aria-controls="arenas--rinks" title="Toggle the arenas--rinks section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="arenas--rinks" aria-labelledby="menu-arenas--rinks"><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/arenas-rinks/arenas" data-drupal-link-system-path="node/38132">Arenas</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/arenas-rinks/skating" data-drupal-link-system-path="node/25353">Skating</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/arenas-rinks/ice-rentals" data-drupal-link-system-path="node/25097">Ice rentals</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses" aria-haspopup="true" aria-expanded="false" title="Expand menu Golf courses" id="menu-golf-courses" data-drupal-link-system-path="node/25106">Golf courses</a> <button class="btn btn-sm btn-dropdown" aria-controls="golf-courses" title="Toggle the golf-courses section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="golf-courses" aria-labelledby="menu-golf-courses"><li> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses/canoe-club" data-drupal-link-system-path="node/38308">Canoe Club</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses/crescent-drive" data-drupal-link-system-path="node/36186">Crescent Drive</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses/kildonan-park" data-drupal-link-system-path="node/36065">Kildonan Park</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses/windsor-park" data-drupal-link-system-path="node/36013">Windsor Park</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses/discounts-promotions-points-rewards" data-drupal-link-system-path="node/34347">Discounts, promotions, points &amp; rewards</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses/leagues-events" data-drupal-link-system-path="node/34436">Leagues &amp; events</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses/rules-regulations-information" data-drupal-link-system-path="node/34354">Rules, regulations &amp; information</a></li><li> <a href="https://www.winnipeg.ca/recreation-leisure/golf-courses/contact-winnipeg-golf-services" data-drupal-link-system-path="node/34350">Contact Winnipeg Golf Services</a></li></ul></li><li class="dropdown dropright"> <a href="https://www.winnipeg.ca/recreation-leisure/libraries" aria-haspopup="true" aria-expanded="false" title="Expand menu Libraries" id="menu-libraries" data-drupal-link-system-path="node/25111">Libraries</a> <button class="btn btn-sm btn-dropdown" aria-controls="libraries" title="Toggle the libraries section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="libraries" aria-labelledby="menu-libraries"><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/libraries/locations-and-hours" data-drupal-link-system-path="node/35792">Locations and hours</a></li><li> <a href="https://www.winnipeg.ca/library/myaccount" data-drupal-link-system-path="node/35791">My account</a></li><li> <a href="https://www.winnipeg.ca/city-governance/documents-reports/winnipeg-public-library-borrowing-guide" data-drupal-link-system-path="node/35591">Borrowing guide</a></li><li class="dropdown"> <a href="https://guides.wpl.winnipeg.ca/digitallibrary" title="Winnipeg Public Library&#039;s digital collections - available from home, 24/7">Digital Library</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/libraries/library-services" data-drupal-link-system-path="node/35786">Library services</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/libraries/library-collections" data-drupal-link-system-path="node/35787">Library collections</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/libraries/whats-happening" data-drupal-link-system-path="node/35788">What&#039;s happening</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/libraries/kids-parents-and-teens" data-drupal-link-system-path="node/35789">Kids, parents and teens</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/libraries/about-library" data-drupal-link-system-path="node/35784">About the library</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/recreation-leisure/libraries/contact-library" data-drupal-link-system-path="node/35722">Contact the library</a></li></ul></li></ul></li><li class="dropdown"> <a href="https://www.winnipeg.ca/people-culture" aria-haspopup="true" aria-expanded="false" title="Expand menu People &amp; culture" id="menu-people--culture" data-drupal-link-system-path="node/8">People &amp; culture</a> <button class="btn btn-sm btn-dropdown btn-dropdown-top" aria-controls="people--culture" title="Toggle the people--culture section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu" id="people--culture" aria-labelledby="menu-people--culture"><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/people-culture/events-winnipeg" aria-haspopup="true" aria-expanded="false" title="Expand menu Events in Winnipeg" id="menu-events-in-winnipeg" data-drupal-link-system-path="node/8482">Events in Winnipeg</a> <button class="btn btn-sm btn-dropdown" aria-controls="events-in-winnipeg" title="Toggle the events-in-winnipeg section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="events-in-winnipeg" aria-labelledby="menu-events-in-winnipeg"><li> <a href="https://www.winnipeg.ca/people-culture/events-winnipeg/winnipeg-150-events" data-drupal-link-system-path="node/35708">Winnipeg 150 events</a></li><li> <a href="https://www.winnipeg.ca/people-culture/events-winnipeg/special-events" data-drupal-link-system-path="node/25263">Special events</a></li><li> <a href="https://www.winnipeg.ca/people-culture/events-winnipeg/weddings-city-hall" data-drupal-link-system-path="node/25231">Weddings at City Hall</a></li><li> <a href="https://www.winnipeg.ca/people-culture/events-winnipeg/light-esplanade-riel-winnipeg-sign" data-drupal-link-system-path="node/25373">Light Esplanade Riel &amp; the WINNIPEG sign</a></li><li> <a href="https://www.winnipeg.ca/people-culture/events-winnipeg/learning-opportunities" data-drupal-link-system-path="node/34291">Learning opportunities</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/people-culture/living-winnipeg" aria-haspopup="true" aria-expanded="false" title="Expand menu Living in Winnipeg" id="menu-living-in-winnipeg" data-drupal-link-system-path="node/12798">Living in Winnipeg</a> <button class="btn btn-sm btn-dropdown" aria-controls="living-in-winnipeg" title="Toggle the living-in-winnipeg section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="living-in-winnipeg" aria-labelledby="menu-living-in-winnipeg"><li class="dropdown"> <a href="https://www.winnipeg.ca/people-culture/living-winnipeg/newcomers-winnipeg" data-drupal-link-system-path="node/34162">Newcomers to Winnipeg</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/people-culture/living-winnipeg/support-vulnerable-residents" data-drupal-link-system-path="node/25172">Support for vulnerable residents</a></li><li> <a href="https://www.winnipeg.ca/node/25424" data-drupal-link-system-path="node/25424">Census information</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/people-culture/indigenous-winnipeggers" aria-haspopup="true" aria-expanded="false" title="Expand menu Indigenous Winnipeggers" id="menu-indigenous-winnipeggers" data-drupal-link-system-path="node/24574">Indigenous Winnipeggers</a> <button class="btn btn-sm btn-dropdown" aria-controls="indigenous-winnipeggers" title="Toggle the indigenous-winnipeggers section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="indigenous-winnipeggers" aria-labelledby="menu-indigenous-winnipeggers"><li> <a href="https://www.winnipeg.ca/node/25425" data-drupal-link-system-path="node/25425">Journey of Reconciliation</a></li><li> <a href="https://www.winnipeg.ca/node/25426" data-drupal-link-system-path="node/25426">Indigenous Accord</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/people-culture/arts-culture" aria-haspopup="true" aria-expanded="false" title="Expand menu Arts &amp; culture" id="menu-arts--culture" data-drupal-link-system-path="node/24575">Arts &amp; culture</a> <button class="btn btn-sm btn-dropdown" aria-controls="arts--culture" title="Toggle the arts--culture section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="arts--culture" aria-labelledby="menu-arts--culture"><li> <a href="https://www.winnipeg.ca/node/25427" data-drupal-link-system-path="node/25427">Busking in Winnipeg</a></li><li> <a href="https://www.winnipeg.ca/people-culture/arts-culture/filming-winnipeg" data-drupal-link-system-path="node/25428">Filming in Winnipeg</a></li><li> <a href="https://winnipegarts.ca/">Winnipeg Arts Council</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/people-culture/winnipegs-history" aria-haspopup="true" aria-expanded="false" title="Expand menu Winnipeg&#039;s history" id="menu-winnipegs-history" data-drupal-link-system-path="node/25339">Winnipeg&#039;s history</a> <button class="btn btn-sm btn-dropdown" aria-controls="winnipegs-history" title="Toggle the winnipegs-history section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="winnipegs-history" aria-labelledby="menu-winnipegs-history"><li class="dropdown"> <a href="https://www.winnipeg.ca/people-culture/winnipegs-history/winnipeg-150" data-drupal-link-system-path="node/35404">Winnipeg 150</a></li><li> <a href="https://www.winnipeg.ca/people-culture/winnipegs-history/timeline" data-drupal-link-system-path="node/25431">Timeline</a></li><li> <a href="https://www.winnipeg.ca/people-culture/winnipegs-history/mayors-past-present" data-drupal-link-system-path="node/35712">Mayors, past &amp; present</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/people-culture/winnipegs-history/archives" data-drupal-link-system-path="node/24576">Archives</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/people-culture/winnipegs-history/heritage-conservation" data-drupal-link-system-path="node/25436">Heritage conservation</a></li><li> <a href="https://www.winnipeg.ca/node/25430" data-drupal-link-system-path="node/25430">PastForward - Winnipeg&#039;s Digital Public History</a></li><li> <a href="https://www.winnipeg.ca/people-culture/winnipegs-history/historical-markers-place-names" data-drupal-link-system-path="node/25432">Historical markers &amp; place names</a></li></ul></li><li> <a href="https://www.winnipeg.ca/people-culture/tourism-winnipeg" data-drupal-link-system-path="node/25340">Tourism Winnipeg</a></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/people-culture/our-city-our-stories" aria-haspopup="true" aria-expanded="false" title="Expand menu Our City, Our Stories" id="menu-our-city-our-stories" data-drupal-link-system-path="node/8480">Our City, Our Stories</a> <button class="btn btn-sm btn-dropdown" aria-controls="our-city-our-stories" title="Toggle the our-city-our-stories section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="our-city-our-stories" aria-labelledby="menu-our-city-our-stories"><li> <a href="https://www.winnipeg.ca/people-culture/our-city-our-stories/archive" data-drupal-link-system-path="node/25360">Archive</a></li><li> <a href="https://www.winnipeg.ca/people-culture/our-city-our-stories/newsroom" data-drupal-link-system-path="node/25375">Newsroom</a></li><li> <a href="https://www.winnipeg.ca/people-culture/our-city-our-stories/stay-connected" data-drupal-link-system-path="node/25376">Connect with us</a></li><li> <a href="https://www.winnipeg.ca/people-culture/our-city-our-stories/media-inquiries" data-drupal-link-system-path="node/25377">Media inquiries</a></li></ul></li><li> <a href="https://www.winnipeg.ca/people-culture/our-city-our-podcast" data-drupal-link-system-path="node/36376">Our City, Our Podcast</a></li></ul></li><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development" aria-haspopup="true" aria-expanded="false" title="Expand menu Building &amp; development" id="menu-building--development" data-drupal-link-system-path="node/6">Building &amp; development</a> <button class="btn btn-sm btn-dropdown btn-dropdown-top" aria-controls="building--development" title="Toggle the building--development section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu" id="building--development" aria-labelledby="menu-building--development"><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects" aria-haspopup="true" aria-expanded="false" title="Expand menu Home improvement projects" id="menu-home-improvement-projects" data-drupal-link-system-path="node/37640">Home improvement projects</a> <button class="btn btn-sm btn-dropdown" aria-controls="home-improvement-projects" title="Toggle the home-improvement-projects section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="home-improvement-projects" aria-labelledby="menu-home-improvement-projects"><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/additions-attached-garages" data-drupal-link-system-path="node/37737">Additions &amp; attached garages</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/barrier-free-ramps" data-drupal-link-system-path="node/37738">Barrier-free ramps</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/basementlower-level-development" data-drupal-link-system-path="node/37739">Basement/lower level development</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/decks" data-drupal-link-system-path="node/37657">Decks</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/demolitions" data-drupal-link-system-path="node/37740">Demolitions</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/detached-garages-accessory-structures" data-drupal-link-system-path="node/37697">Detached garages &amp; accessory structures</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/electrical-installations" data-drupal-link-system-path="node/37741">Electrical installations</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/foundation-repairs" data-drupal-link-system-path="node/37742">Foundation repairs</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/home-based-business" data-drupal-link-system-path="node/37743">Home-based business</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/home-renovations" data-drupal-link-system-path="node/37744">Home renovations</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/outdoor-pools-hot-tubsspas" data-drupal-link-system-path="node/37745">Outdoor pools &amp; hot tubs/spas</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/plumbing-installations" data-drupal-link-system-path="node/37746">Plumbing installations</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/secondarysuites" data-drupal-link-system-path="node/36880">Secondary Suites</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/solar-photovoltaic-installations" data-drupal-link-system-path="node/37749">Solar photovoltaic installations</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/temporary-structures" data-drupal-link-system-path="node/37747">Temporary structures</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/wood-stoves-fireplaces" data-drupal-link-system-path="node/37748">Wood stoves &amp; fireplaces</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/residential-permit-resources" data-drupal-link-system-path="node/40109">Residential permit resources</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/design-coordinated-application-program" data-drupal-link-system-path="node/39984">Design Coordinated Application program</a></li><li> <a href="https://www.winnipeg.ca/building-development/home-improvement-projects/permit-amnesty-program" data-drupal-link-system-path="node/39982">Permit Amnesty Program</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/building-development/building-renovating" aria-haspopup="true" aria-expanded="false" title="Expand menu Building &amp; renovating" id="menu-building--renovating" data-drupal-link-system-path="node/25336">Building &amp; renovating</a> <button class="btn btn-sm btn-dropdown" aria-controls="building--renovating" title="Toggle the building--renovating section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="building--renovating" aria-labelledby="menu-building--renovating"><li> <a href="https://www.winnipeg.ca/building-development/building-renovating/development-permits" data-drupal-link-system-path="node/33930">Development permits</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/building-renovating/building-trade-permits" data-drupal-link-system-path="node/25433">Building &amp; trade permits</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/node/33935" data-drupal-link-system-path="node/33935">Inspections</a></li><li> <a href="https://www.winnipeg.ca/building-development/building-renovating/zoning" data-drupal-link-system-path="node/25234">Zoning</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/building-renovating/permit-processing-times" data-drupal-link-system-path="node/39268">Permit processing times</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/building-renovating/fees-charges" data-drupal-link-system-path="node/38957">Fees &amp; charges</a></li><li> <a href="https://www.winnipeg.ca/building-development/building-renovating/request-copies-building-records" data-drupal-link-system-path="node/36567">Request copies of building records</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/building-development/housing" aria-haspopup="true" aria-expanded="false" title="Expand menu Housing" id="menu-housing" data-drupal-link-system-path="node/34034">Housing</a> <button class="btn btn-sm btn-dropdown" aria-controls="housing" title="Toggle the housing section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="housing" aria-labelledby="menu-housing"><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/housing/housing-accelerator-fund" data-drupal-link-system-path="node/35900">Housing Accelerator Fund</a></li><li> <a href="https://www.winnipeg.ca/building-development/housing/affordable-housing-now" data-drupal-link-system-path="node/36757">Affordable Housing Now</a></li><li> <a href="https://www.winnipeg.ca/building-development/housing/rapid-housing-initiative" data-drupal-link-system-path="node/34033">Rapid Housing Initiative</a></li><li> <a href="https://www.winnipeg.ca/building-development/housing/heritage-economic-development-incentive" data-drupal-link-system-path="node/36758">Heritage &amp; Economic Development Incentive</a></li><li> <a href="https://www.winnipeg.ca/building-development/housing/housing-policy" data-drupal-link-system-path="node/37044">Housing policy</a></li><li> <a href="https://www.winnipeg.ca/building-development/housing/resources" data-drupal-link-system-path="node/36671">Resources</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/building-development/city-planning-design" aria-haspopup="true" aria-expanded="false" title="Expand menu City planning &amp; design" id="menu-city-planning--design" data-drupal-link-system-path="node/25337">City planning &amp; design</a> <button class="btn btn-sm btn-dropdown" aria-controls="city-planning--design" title="Toggle the city-planning--design section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="city-planning--design" aria-labelledby="menu-city-planning--design"><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/city-planning-design/ourwinnipeg" title="25-year plan for strategic growth &amp; development" data-drupal-link-system-path="node/35172">OurWinnipeg</a></li><li> <a href="https://www.winnipeg.ca/node/25434" data-drupal-link-system-path="node/25434">Planning assignments</a></li><li> <a href="https://www.winnipeg.ca/node/25435" data-drupal-link-system-path="node/25435">Downtown planning</a></li><li> <a href="https://www.winnipeg.ca/building-development/city-planning-design/long-range-planning" data-drupal-link-system-path="node/25440">Long range planning</a></li><li> <a href="https://www.winnipeg.ca/node/cbd31b18-859f-4c96-8f66-cc21e1967a01">Urban design guidelines</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/city-planning-design/mapping" data-drupal-link-system-path="node/25441">Mapping</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/building-development/economic-development" aria-haspopup="true" aria-expanded="false" title="Expand menu Economic development" id="menu-economic-development" data-drupal-link-system-path="node/25338">Economic development</a> <button class="btn btn-sm btn-dropdown" aria-controls="economic-development" title="Toggle the economic-development section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="economic-development" aria-labelledby="menu-economic-development"><li> <a href="https://www.economicdevelopmentwinnipeg.com/">The Winnipeg Advantage</a></li><li> <a href="https://www.centreventure.com/">CentreVenture</a></li><li> <a href="https://www.winnipeg.ca/building-development/economic-development/chambers-commerce" data-drupal-link-system-path="node/24577">Chambers of Commerce</a></li><li> <a href="https://www.winnipeg.ca/building-development/economic-development/centreport-south" data-drupal-link-system-path="node/35839">CentrePort South</a></li><li> <a href="https://www.winnipeg.ca/building-development/economic-development/resources-small-businesses" data-drupal-link-system-path="node/37333">Resources for small businesses</a></li></ul></li><li> <a href="https://www.winnipeg.ca/building-development/bid-opportunities" data-drupal-link-system-path="node/25100">Bid opportunities</a></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/building-development/doing-business-city" aria-haspopup="true" aria-expanded="false" title="Expand menu Doing business with the City" id="menu-doing-business-with-the-city" data-drupal-link-system-path="node/24578">Doing business with the City</a> <button class="btn btn-sm btn-dropdown" aria-controls="doing-business-with-the-city" title="Toggle the doing-business-with-the-city section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="doing-business-with-the-city" aria-labelledby="menu-doing-business-with-the-city"><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/doing-business-city/business-improvement-zones" data-drupal-link-system-path="node/25442">Business Improvement Zones</a></li><li> <a href="https://www.winnipeg.ca/building-development/doing-business-city/economic-resources" data-drupal-link-system-path="node/25443">Economic resources</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/doing-business-city/city-property" data-drupal-link-system-path="node/25258">City property</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/doing-business-city/advertising-sponsorship" data-drupal-link-system-path="node/25096">Advertising &amp; sponsorship</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/building-development/doing-business-city/sustainable-procurement" data-drupal-link-system-path="node/34984">Sustainable procurement</a></li><li> <a href="https://www.winnipeg.ca/node/25257" data-drupal-link-system-path="node/25257">Surplus sales</a></li></ul></li></ul></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance" aria-haspopup="true" aria-expanded="false" title="Expand menu City governance" id="menu-city-governance" data-drupal-link-system-path="node/7">City governance</a> <button class="btn btn-sm btn-dropdown btn-dropdown-top" aria-controls="city-governance" title="Toggle the city-governance section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu" id="city-governance" aria-labelledby="menu-city-governance"><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/mayor-council" aria-haspopup="true" aria-expanded="false" title="Expand menu Mayor &amp; Council" id="menu-mayor--council" data-drupal-link-system-path="node/12800">Mayor &amp; Council</a> <button class="btn btn-sm btn-dropdown" aria-controls="mayor--council" title="Toggle the mayor--council section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="mayor--council" aria-labelledby="menu-mayor--council"><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/mayor-council/council-members-0" data-drupal-link-system-path="node/25445">Council members</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/mayor-council/council-committee-meetings" data-drupal-link-system-path="node/25446">Council &amp; Committee meetings</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/mayor-council/mayors-office" data-drupal-link-system-path="node/25448">Mayor&#039;s Office</a></li><li> <a href="https://www.winnipeg.ca/node/25449" data-drupal-link-system-path="node/25449">Voting record</a></li><li> <a href="https://www.winnipeg.ca/city-governance/mayor-council/voluntary-lobbyist-registry" data-drupal-link-system-path="node/35105">Voluntary Lobbyist Registry</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/mayor-council/integrity-commissioner" data-drupal-link-system-path="node/35305">Integrity Commissioner</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/mayor-council/lviv-sister-city" data-drupal-link-system-path="node/35187">Lviv sister city</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/wards-elections" aria-haspopup="true" aria-expanded="false" title="Expand menu Wards &amp; elections" id="menu-wards--elections" data-drupal-link-system-path="node/24579">Wards &amp; elections</a> <button class="btn btn-sm btn-dropdown" aria-controls="wards--elections" title="Toggle the wards--elections section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="wards--elections" aria-labelledby="menu-wards--elections"><li> <a href="https://www.winnipeg.ca/city-governance/wards-elections/voter-app" data-drupal-link-system-path="node/35838">Check the voters list</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/wards-elections/2025-election" data-drupal-link-system-path="node/39817">2025 By-election</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/wards-elections/2024-school-trustee-election" data-drupal-link-system-path="node/35713">2024 School Trustee By-election</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/boards-commissions" aria-haspopup="true" aria-expanded="false" title="Expand menu Boards &amp; Commissions" id="menu-boards--commissions" data-drupal-link-system-path="node/25267">Boards &amp; Commissions</a> <button class="btn btn-sm btn-dropdown" aria-controls="boards--commissions" title="Toggle the boards--commissions section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="boards--commissions" aria-labelledby="menu-boards--commissions"><li> <a href="https://www.winnipeg.ca/city-governance/boards-commissions/citizen-appointments" data-drupal-link-system-path="node/35056">Citizen appointments</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/budget-finance" aria-haspopup="true" aria-expanded="false" title="Expand menu Budget &amp; finance" id="menu-budget--finance" data-drupal-link-system-path="node/25273">Budget &amp; finance</a> <button class="btn btn-sm btn-dropdown" aria-controls="budget--finance" title="Toggle the budget--finance section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="budget--finance" aria-labelledby="menu-budget--finance"><li> <a href="https://www.winnipeg.ca/city-governance/budget-finance/financial-reports-documents" data-drupal-link-system-path="node/25451">Financial reports &amp; documents</a></li><li> <a href="https://www.winnipeg.ca/city-governance/budget-finance/multi-year-budget-2025-update" data-drupal-link-system-path="node/37469">Multi-year budget: 2025 update</a></li><li> <a href="https://www.winnipeg.ca/city-governance/budget-finance/multi-year-budget-2024-2027" data-drupal-link-system-path="node/35755">Multi-year budget 2024-2027</a></li><li> <a href="https://www.winnipeg.ca/city-governance/budget-finance/multi-year-budget-2023-update" data-drupal-link-system-path="node/34214">Multi-year budget: 2023 update</a></li><li> <a href="https://www.winnipeg.ca/city-governance/budget-finance/multi-year-budget-2022-update" data-drupal-link-system-path="node/35761">Multi-year budget: 2022 update</a></li><li> <a href="https://www.winnipeg.ca/city-governance/budget-finance/multi-year-budget-2021-update" data-drupal-link-system-path="node/35760">Multi-year budget: 2021 update</a></li><li> <a href="https://www.winnipeg.ca/city-governance/budget-finance/multi-year-budget-2020-2023" data-drupal-link-system-path="node/35759">Multi-year budget 2020 – 2023</a></li><li> <a href="http://openbudget.winnipeg.ca/">Open budget capital</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/strategic-plans-policies" aria-haspopup="true" aria-expanded="false" title="Expand menu Strategic plans &amp; policies" id="menu-strategic-plans--policies" data-drupal-link-system-path="node/25272">Strategic plans &amp; policies</a> <button class="btn btn-sm btn-dropdown" aria-controls="strategic-plans--policies" title="Toggle the strategic-plans--policies section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="strategic-plans--policies" aria-labelledby="menu-strategic-plans--policies"><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/strategic-plans-policies/wfps-2020-strategic-direction" data-drupal-link-system-path="node/34484">WFPS 2020 Strategic Direction</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/strategic-plans-policies/winnipeg-transit-master-plan" data-drupal-link-system-path="node/35748">Winnipeg Transit Master Plan</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/city-projects" aria-haspopup="true" aria-expanded="false" title="Expand menu City projects" id="menu-city-projects" data-drupal-link-system-path="node/25265">City projects</a> <button class="btn btn-sm btn-dropdown" aria-controls="city-projects" title="Toggle the city-projects section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="city-projects" aria-labelledby="menu-city-projects"><li> <a href="https://www.winnipeg.ca/city-governance/city-projects/public-engagement-opportunities" data-drupal-link-system-path="node/34029">Public engagement opportunities</a></li><li> <a href="https://www.winnipeg.ca/city-governance/city-projects/major-capital-projects" data-drupal-link-system-path="node/40431">Major Capital Projects</a></li><li> <a href="https://www.winnipeg.ca/city-governance/city-projects/portage-main" data-drupal-link-system-path="node/37121">Portage &amp; Main</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/taxes" aria-haspopup="true" aria-expanded="false" title="Expand menu Taxes" id="menu-taxes" data-drupal-link-system-path="node/25274">Taxes</a> <button class="btn btn-sm btn-dropdown" aria-controls="taxes" title="Toggle the taxes section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="taxes" aria-labelledby="menu-taxes"><li> <a href="https://www.winnipeg.ca/city-governance/taxes/my-properties" data-drupal-link-system-path="node/25148">My Properties</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/taxes/payment-options" data-drupal-link-system-path="node/25251">Payment options</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/taxes/property-assessment" data-drupal-link-system-path="node/25275">Property assessment</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/taxes/business-assessment" data-drupal-link-system-path="node/25101">Business assessment</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/services-city-hall" aria-haspopup="true" aria-expanded="false" title="Expand menu Services at City Hall" id="menu-services-at-city-hall" data-drupal-link-system-path="node/24580">Services at City Hall</a> <button class="btn btn-sm btn-dropdown" aria-controls="services-at-city-hall" title="Toggle the services-at-city-hall section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="services-at-city-hall" aria-labelledby="menu-services-at-city-hall"><li> <a href="https://www.winnipeg.ca/city-governance/services-city-hall/council-building" data-drupal-link-system-path="node/36139">Council Building</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/services-city-hall/susan-thompson-building" data-drupal-link-system-path="node/36140">Susan A. Thompson Building</a></li><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/services-city-hall/board-revision" data-drupal-link-system-path="node/36621">Board of Revision</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/grants-funding-opportunities" aria-haspopup="true" aria-expanded="false" title="Expand menu Grants &amp; funding opportunities" id="menu-grants--funding-opportunities" data-drupal-link-system-path="node/36741">Grants &amp; funding opportunities</a> <button class="btn btn-sm btn-dropdown" aria-controls="grants--funding-opportunities" title="Toggle the grants--funding-opportunities section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="grants--funding-opportunities" aria-labelledby="menu-grants--funding-opportunities"><li> <a href="https://www.winnipeg.ca/city-governance/grants-funding-opportunities/community-neighbourhood-grant" data-drupal-link-system-path="node/36820">Community &amp; Neighbourhood Grant</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/city-information-records" aria-haspopup="true" aria-expanded="false" title="Expand menu City information &amp; records" id="menu-city-information--records" data-drupal-link-system-path="node/39011">City information &amp; records</a> <button class="btn btn-sm btn-dropdown" aria-controls="city-information--records" title="Toggle the city-information--records section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="city-information--records" aria-labelledby="menu-city-information--records"><li class="dropdown"> <a href="https://www.winnipeg.ca/city-governance/city-information-records/access-information" data-drupal-link-system-path="node/39961">Access to information</a></li><li> <a href="https://www.winnipeg.ca/city-governance/city-information-records/open-data" data-drupal-link-system-path="node/25452">Open data</a></li><li> <a href="https://www.winnipeg.ca/city-governance/city-information-records/privacy" data-drupal-link-system-path="node/24560">Privacy</a></li><li> <a href="https://www.winnipeg.ca/city-governance/city-information-records/records-management" data-drupal-link-system-path="node/38671">Records management</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/city-governance/compliments-complaints-claims" aria-haspopup="true" aria-expanded="false" title="Expand menu Compliments, complaints &amp; claims" id="menu-compliments-complaints--claims" data-drupal-link-system-path="node/24581">Compliments, complaints &amp; claims</a> <button class="btn btn-sm btn-dropdown" aria-controls="compliments-complaints--claims" title="Toggle the compliments-complaints--claims section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="compliments-complaints--claims" aria-labelledby="menu-compliments-complaints--claims"><li> <a href="https://www.winnipeg.ca/node/25453" data-drupal-link-system-path="node/25453">File a claim</a></li><li> <a href="https://www.winnipeg.ca/city-governance/compliments-complaints-claims/fraud-waste-hotline" data-drupal-link-system-path="node/25317">Fraud &amp; Waste Hotline</a></li></ul></li></ul></li><li class="dropdown"> <a href="https://www.winnipeg.ca/311-city-services" aria-haspopup="true" aria-expanded="false" title="Expand menu 311 City services" id="menu-_11-city-services" data-drupal-link-system-path="node/2397">311 City services</a> <button class="btn btn-sm btn-dropdown btn-dropdown-top" aria-controls="_11-city-services" title="Toggle the _11-city-services section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu" id="_11-city-services" aria-labelledby="menu-_11-city-services"><li> <a href="https://www.winnipeg.ca/311-city-services/submit-report-or-request" data-drupal-link-system-path="node/35148">Submit a report or request</a></li><li> <a href="https://www.winnipeg.ca/track-service-request" data-drupal-link-system-path="node/24498">Track a service request</a></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/311-city-services/about-311" aria-haspopup="true" aria-expanded="false" title="Expand menu About 311" id="menu-about-311" data-drupal-link-system-path="node/24635">About 311</a> <button class="btn btn-sm btn-dropdown" aria-controls="about-311" title="Toggle the about-311 section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="about-311" aria-labelledby="menu-about-311"><li> <a href="https://www.winnipeg.ca/311-city-services/about-311/311-performance-data" data-drupal-link-system-path="node/24553">311 performance data</a></li></ul></li><li class="dropdown dropleft"> <a href="https://www.winnipeg.ca/311-city-services/311-counters" aria-haspopup="true" aria-expanded="false" title="Expand menu 311 counters" id="menu-_11-counters" data-drupal-link-system-path="node/37928">311 counters</a> <button class="btn btn-sm btn-dropdown" aria-controls="_11-counters" title="Toggle the _11-counters section of the menu"></button><ul class="list-unstyled no-inline-links dropdown-menu dropdown-menu-submenu" id="_11-counters" aria-labelledby="menu-_11-counters"><li> <a href="https://www.winnipeg.ca/311-city-services/311-counters/311-city-hall" data-drupal-link-system-path="node/37932">311 City Hall</a></li><li> <a href="https://www.winnipeg.ca/311-city-services/311-counters/311-st-boniface" data-drupal-link-system-path="node/36048">311 St. Boniface</a></li></ul></li></ul></li></ul> </nav></div></div></div> </header>
+
+<!-- Search Box CSS -->
+
+<!--[if lte IE 8]>
+<style>
+#searchbar{
+display:none;
+}
+
+#searchtextonly{
+display:inline;
+font-weight:bold;
+}
+
+</style>
+<![endif]-->
+
+<!--[if gte IE 9]>
+<style>
+#searchbar{
+}
+
+#searchtextonly{
+display:none;
+}
+</style>
+<![endif]-->
+
+<!--[if !IE]>
+<style>
+#searchbar{
+}
+
+#searchtextonly{
+display:none;
+}
+</style>
+<!-- <![endif]-->
+
+<style>
+
+#searchbar {
+	padding-top: 0 !important;
+	margin-left: 20px !important;
+	border: none !important;	
+	float: right;
+}
+
+.searchbarbox {
+	margin: 0 !important;
+	border-top: 1px solid #fff;
+	border-right: 0;
+	border-bottom: 1px solid #fff;
+	border-left: 1px solid #fff;
+	/*color: #000;*/
+	display: inline-block;
+	padding: 3px 3px;
+	box-sizing: border-box;	
+	padding-bottom: 0px !important;
+	height: 30px !important;
+    width: 150px !important;
+}
+
+input.wpgsearchbox.fa-input {
+	float: right;
+	font-family: FontAwesome, Verdana, Helvetica, Arial, sans-serif;
+	color: #000;
+	height: 30px;
+	width: 30px;
+	padding: 0 !important;
+	margin: 0 !important;
+	border-top: 1px solid #f0f0f0;
+	border-right: 1px solid #f0f0f0;
+	border-bottom: 1px solid #f0f0f0;
+	border-left: 1px solid #A9A9A9;
+	background-color: #f0f0f0;
+}
+
+.searchbarboxDEPT {
+    width: 138px !important;
+  }
+
+.searchbarboxDEPT {
+    width: 138px !important;
+}
+
+.searchBox {
+    height: auto !important;
+    padding-left: 5px !important;
+	min-height: 64px !important;
+}
+
+
+</style>
+
+<!-- The word Search displays in IE8 and older -->
+<!--[if lte IE 8]><div id="searchtextonly"><strong> | </strong><a href="http://cowapp02.winnipeg.ca/search">Search Winnipeg.ca</a></div><![endif]-->
+
+<a name="skipToTopNav"></a>
+
+
+
+	
+<!-- END TopNav -->
+<!--startindex-->
+<div class="legacy">
+
+<div id="page">
+  <div id="left-bar"> 
+     
+    <!-- access key #2 to 311 link is in the left_bar_top_311.htm include file --> 
+    
+    
+    <div id="left-menu">  
+      <!-- *** EDITABLE: left sidebar content --> 
+      <a name="skipToLeftNav"></a>
+
+<!--stopindex-->
+<!-- BEGIN LtNav -->
+
+<!-- Department Search Box Code BEGINS-->
+
+<!-- Department Search Box IE 7 target starts-->
+<!--[if lte IE 7]>
+<style>
+.searchbarboxDEPT{
+width: 120px;
+padding: 0px 0px; 
+height: 20px;
+}
+#searchtextonly{
+display:inline;
+font-weight:bold;
+}
+</style>
+<![endif]-->
+<!-- Department Search Box IE 7 target ends-->
+<!-- OPEN Department search box div -->
+<div class="searchBox">Search City Clerk's:
+    <div class="left_menu_search">
+<!-- Google v1 Search Box Begins -->
+<form method="get" action="/search/clerks.stm" title="Search City Clerk's">
+	<label for="scopedSearchInput" class="sr-only">Search City Clerk's: </label>
+    <input name="q" title="Enter the terms you wish to search for" type="text" lang="en" class="searchbarboxDEPT" id="scopedSearchInput">
+    <input type="submit" name="sa" value="&#xf002;" class="wpgsearchboxDEPT fa-search" title="Search">
+</form>
+<!-- Google v1 Search Box Ends -->
+    </div>
+</div> 
+<!-- CLOSE Department search box div -->
+<!-- Department Search Box Code ENDS-->
+ 
+
+<div id="leftNav">
+    <ul class="lnMenu">
+		<li><a href="/clerks/sitemap/sitemap.asp" title="Site Map">Site Map</a></li>
+    </ul>
+</div>
+
+<div class="section"><a href="/council/video.asp"><img src="/interhom/images/WatchMeetings.png" alt="Watch Live and Archived Council and Committee Meetings" border="0"/></a></div>
+
+<div><img src="/clerks/images/councilBldg.png" border="0" width="175px" alt="Council Building" /></div>
+
+<!-- END LtNav -->
+<!--startindex--> 
+      <!-- *** /EDITABLE: left sidebar content --> 
+    </div>
+  </div>
+  <div id="headers"> 
+    <!-- common headers --> 
+     
+     
+    
+    <!-- *** EDITABLE: department menu -->    <div> 
+      <span class="deptTitle"><a href="https://www.winnipeg.ca/node/35063">City Clerk's</a></span>
+
+<div class="crumbs">
+<p id="breadCrumb"></p>
+</div>
+
+<script type="text/javascript" src="/shared/js/LtNavTree.js"></script>
+<script type="text/javascript">
+populateNav("/clerks/navData.xml");
+</script>
+ 
+    </div>
+    <!-- *** /EDITABLE: department menu --> 
+  </div>
+  <div id="main">
+    <div id="content"><a name="skipToContent"></a> 
+      <!-- *** EDITABLE: main page content -->
+
+<h1>2022 - 2026 City Council</h1>
+
+<div class="row">
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/interhom/mayor/default.asp" aria-label="Mayor Scott Gillingham" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/gillingham4.png" alt="Mayor Scott Gillingham">
+		  	<div class="card-body">
+				<h2 class="card-title">Mayor Scott&nbsp;Gillingham</h2>
+				<!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/river-heights-fort-garry" aria-label="Councillor John Orlikow" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/orlikow3.jpg" alt="Councillor John Orlikow">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor John&nbsp;Orlikow</h2>
+				<p class="card-text">River Heights - Fort Garry</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/st-norbert-seine-river" aria-label="Councillor Markus Chambers" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/Chambers.png" alt="Councillor Markus Chambers">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Markus Chambers</h2>
+				<p class="card-text">St. Norbert - Seine River</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/charleswood-tuxedo-westwood" aria-label="Councillor Evan Duncan" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/duncan.jpg" alt="Councillor Evan Duncan">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Evan&nbsp;Duncan</h2>
+				<p class="card-text">Charleswood - Tuxedo - Westwood</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/daniel-mcintyre" aria-label="Councillor Cindy Gilroy" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/gilroy4.jpg" alt="Councillor Cindy Gilroy">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Cindy&nbsp;Gilroy</h2>
+				<p class="card-text">Daniel McIntyre</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/elmwood-east-kildonan" aria-label="Vacant" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/vacant.png" alt="Vacant">
+		  	<div class="card-body">
+				<h2 class="card-title">Vacant</h2>
+				<p class="card-text">Elmwood - East Kildonan</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/fort-rouge-east-fort-garry" aria-label="Councillor Sherri Rollins" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/rollins2.jpg" alt="Councillor Sherri Rollins">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Sherri&nbsp;Rollins</h2>
+				<p class="card-text">Fort Rouge - East Fort Garry</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/mynarski" aria-label="Councillor Ross Eadie" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/eadie3.jpg" alt="Councillor Ross Eadie">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Ross&nbsp;Eadie</h2>
+				<p class="card-text">Mynarski</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/north-kildonan" aria-label="Councillor Jeff Browaty" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/browaty3.png" alt="Councillor Jeff Browaty">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Jeff&nbsp;Browaty</h2>
+				<p class="card-text">North Kildonan</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/old-kildonan" aria-label="Councillor Devi Sharma" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/sharma2.png" alt="Councillor Devi Sharma">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Devi&nbsp;Sharma</h2>
+				<p class="card-text">Old Kildonan</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/point-douglas" aria-label="Councillor Vivian Santos" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/santos2.jpg" alt="Councillor Vivian Santos">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Vivian&nbsp;Santos</h2>
+				<p class="card-text">Point Douglas</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/st-boniface" aria-label="Councillor Matt Allard" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/allard3.png" alt="Councillor Matt Allard">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Matt&nbsp;Allard</h2>
+				<p class="card-text">St. Boniface</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/st-james" aria-label="Councillor Shawn Dobson" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/dobson3.jpg" alt="Councillor Shawn Dobson">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Shawn&nbsp;Dobson</h2>
+				<p class="card-text">St. James</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/st-vital" aria-label="Councillor Brian Mayes" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/mayes4.jpg" alt="Councillor Brian Mayes">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Brian&nbsp;Mayes</h2>
+				<p class="card-text">St. Vital</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/transcona" aria-label="Councillor Russ Wyatt" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/wyatt3.png" alt="Councillor Russ Wyatt">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Russ&nbsp;Wyatt</h2>
+				<p class="card-text">Transcona</p>
+		  	</div>
+		</div>
+	</div>
+	<div class="col-12 col-sm-4 mb-4">
+		<div class="card link h-100">
+			<a href="/council/wards/#/ward/2022/waverley-west" aria-label="Councillor Janice Lukes" class="full-card-link"></a>
+		  	<img class="card-img-top" src="/council/images/lukes5.jpg" alt="Councillor Janice Lukes">
+		  	<div class="card-body">
+				<h2 class="card-title">Councillor Janice&nbsp;Lukes</h2>
+				<p class="card-text">Waverley West</p>
+		  	</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+		
+		
+		
+		<!-- Last Update Code -->
+<div id="lutopContainer">
+        <div id="lastUpdateDate">
+        Last update: 
+     <!-- #BeginDate format:Am1 -->May 21, 2025<!-- #EndDate -->
+        </div>
+        <div id="topOfPage">
+        <a href="javascript:window.scrollTo(0, 0)">Top of page</a>
+        </div>
+   </div>
+<!-- CLOSE Last Update Code -->
+
+      <!-- *** /EDITABLE: main page content --> 
+    </div>
+    
+    <!--div id="right-bar"--> 
+    <!-- To show this right side bar, you need to un-comment everything below up to *** /EDITABLE, add your right sidebar,
+           AND you need to remove class="hide-right-bar" from the body tag --> 
+    <!-- access key #6 to the right sidebar is in the RtNav.htm include file --> 
+    <!-- *** /EDITABLE: right sidebar content --> 
+    <!-- *** EDITABLE: right sidebar content --> 
+    <!--/div--> 
+  </div>
+  
+  <!-- footer --> 
+  <!-- access key #7 to the footer is in the footer.htm include file --> 
+  <div style="clear: both; margin-left: 198px; margin-right:15px;">
+<!-- Content Rating INCLUDE -->
+<style>
+:lang(en-ca) .french {display: none;} 
+:lang(fr-ca) .english {display: none;}
+.question-two {display: none;}
+
+.privacytext {font-size: 90% !important;}
+</style>
+
+<!-- uncomment css file when global banner is in effect -->
+<!-- <link href="/shared/includes/banners/global-banner.css" rel="stylesheet" type="text/css"> -->
+<div id="feedbackform" class="content-block">
+
+<!-- Form -->
+<form id="submitfeedbackform" action="">
+
+	<!-- English -->
+	<div class="english">
+
+		<div class="question-one">
+			<h2 class="h5">Was this information helpful?</h2>  
+			<div class="mt-3">
+				<button type="submit" class="btn btn-secondary yesclick">Yes</button>
+				<button type="button" class="btn btn-secondary noclick">No</button>
+			</div>
+		</div>
+
+		<div class="question-two">
+			<h2 class="h5">How can we make this web page better?</h2>
+			<p class="text-muted">Information collected will be used to improve our website. <strong>Do not</strong> use this form to submit a request for service or information because it will not be forwarded to departments for response. To submit a request for service or information, <a href="https://winnipeg.ca/311/default.asp#contact-311">contact&#160;311</a>.</p>
+			<textarea type="text" name="makeBetterEN" rows="5" class="form-control question-response"></textarea>
+			<div class="mt-4">
+				<input type="submit" value="Send feedback" class="btn btn-secondary">
+			</div>
+			<div class="mt-4 pr-4">
+				<p class="privacytext font-italic">This form is not intended to collect personal information; however, any personal information you choose to  include in your comments is collected by the City of Winnipeg under the authority of section 36(1)(b) of the Freedom of Information and Protection of Privacy Act for the purpose of improving our website and will not be used or disclosed for any other purposes, except as authorized by law. Contact the Corporate Access and Privacy Officer by mail (City Clerk&#8217;s Department, Susan A. Thompson Building, 510 Main Street, Winnipeg MB, R3B 1B9) or by telephone (311) if you have any questions about the collection of this information.</p>
+			</div>
+		</div>
+ 	</div>
+
+	<!-- French -->
+	<div class="french">
+
+		<div class="question-one">
+			<h2 class="h5">Ces renseignements sont-ils utiles?</h2> 
+			<div class="mt-3">
+				<button type="submit" class="btn btn-secondary yesclick">Oui</button>
+				<button type="button" class="btn btn-secondary noclick">Non</button>
+			</div>  
+		</div>
+
+		<div class="question-two">
+			<h2 class="h5">Comment pourrait-on am&#233;liorer cette page Web?</h2>
+			<p class="text-muted">Les renseignements recueillis serviront &#224; l&#8217;am&#233;lioration de notre site Web. Pri&#232;re de <strong>ne pas</strong> se servir de ce formulaire pour soumettre une demande de service ou de renseignements, car la demande ne sera pas transmise au service en question. Pour soumettre une demande de service ou de renseignements, veuillez <a href="https://winnipeg.ca/francais/311/default.asp#contact-311">communiquer avec le 311</a>.</p>
+			<textarea type="text" name="makeBetterFR" rows="5" class="form-control question-response"></textarea>
+			<div class="mt-4">
+				<input type="submit" value="Envoyer des commentaires" class="btn btn-secondary">
+			</div>
+			<div class="mt-4 pr-4">
+				<p class="privacytext"><em>Le pr&#233;sent formulaire ne vise pas &#224; recueillir des renseignements personnels. Cependant, les renseignements personnels que vous choisissez d&#8217;inclure dans vos commentaires sont recueillis par la Ville de Winnipeg en conformit&#233; avec l&#8217;alin&#233;a 36(1)b) de la</em> Loi sur l&#8217;acc&#232;s &#224; l&#8217;information et la protection de la vie priv&#233;e <em>dans le but d&#8217;am&#233;liorer son site Web et ne seront ni utilis&#233;s ni divulgu&#233;s pour d&#8217;autres raisons, sauf dans les cas o&#249; cela est autoris&#233; par la loi. Communiquez avec l&#8217;agent de l&#8217;acc&#232;s &#224; l&#8217;information et de la protection de la vie priv&#233;e de la Ville par courrier au Bureau du greffier, immeuble Susan-A.-Thompson, 510, rue Main, Winnipeg (Manitoba) R3B 1B9, ou par t&#233;l&#233;phone au 311 si vous avez des questions sur la collecte de ces renseignements.</em></p>
+			</div>	
+		</div>
+
+	 </div>
+</form>
+
+<span id="feedbackstatus"></span>
+
+</div> 
+
+<script>
+
+var contentRatingCallback = function() {
+
+	// Initialize
+	var isFrench = false;
+	var isHelpful = true;
+	var isDesignSystem = ($('body').hasClass('global') || $('body').hasClass('vertical-layout'));
+	var strlang = document.documentElement.getAttribute('lang');
+	if (!strlang || /^\s*$/.test(strlang)) { 
+		strlang = "en-ca"; 
+	}
+	strlang = strlang.toLowerCase();
+	if (strlang != 'fr-ca') { 
+		isFrench = false;
+		$('.french').hide();
+	} else { 
+		isFrench = true;
+		$('.english').hide();
+	}
+	var languageClass = (isFrench) ? '.french' : '.english';
+	
+	// Add margins
+	if (isDesignSystem) {
+		$("#feedbackform").addClass("mt-5");
+	}
+	else {
+		$("#feedbackform").addClass("mb-5");
+	}
+	
+	// Validate
+	function validatefeedback() {
+		var validForm = true;
+		return (validForm);
+	}
+	
+	// Get Second Question
+	$("#submitfeedbackform .noclick").click(function() {
+		$(languageClass + ' .question-two').show();
+		isHelpful = false;
+		$('.question-one').hide();
+	});
+	
+	// Set URL
+	myURL = encodeURIComponent(window.location.href);
+	
+	// Set English or French
+
+	// Submit form
+    $( "#submitfeedbackform" ).submit(function( event ) {
+
+		var submitFeedback = $(languageClass + ' .question-response').val();
+		submitFeedback = encodeURIComponent(submitFeedback);
+		
+		if (validatefeedback()) {
+            $( "#submitfeedbackform" ).hide();
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+                    $( "#feedbackstatus" ).html( this.responseText ).show();
+                }
+			};
+			var url = "/shared/mailforms/rating/includes/send.asp?txtIsHelpful=" + isHelpful;
+			url += "&txtFeedback=" + submitFeedback + "&txtIsFrench=" + isFrench;
+			url += "&txtURL=" + myURL + "&txtIsDesignSystem=" + isDesignSystem;
+
+            xmlhttp.open("POST", url, true);
+            xmlhttp.send();
+		}
+		event.preventDefault();
+    });
+}
+
+if (document.readyState === "complete" || (document.readyState !== "loading" && !document.documentElement.doScroll)) {
+	contentRatingCallback();
+} else {
+	document.addEventListener("DOMContentLoaded", contentRatingCallback);
+}
+</script>
+</div>
+
+<script src="https://www.gstatic.com/prose/brand.js" targetId="globalSearchInput"></script>
+<script src="https://www.gstatic.com/prose/brand.js" targetId="scopedSearchInput"></script>
+<script src="https://www.gstatic.com/prose/brand.js" targetId="DSscopedSearchInput"></script>
+<script src="https://www.gstatic.com/prose/brand.js" targetId="DSmobilescopedSearchInput"></script>
+
+</div>
+<footer class="mt-auto global-footer" id="footer"><div class="container"> <a class="logo" aria-label="City of Winnipeg homepage" href="https://winnipeg.ca"><img alt="City of Winnipeg logo" src="https://www.winnipeg.ca/themes/custom/confluence/img/cv-h-white-rgb.svg"></a><div class="row"><div class="col-lg-2 mb-4"><div class="region region-footer-address"><div id="block-cwaddress" class="block block-block-content block-block-contenta8bf0d4b-dbff-4453-aa96-8917230d48cd"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>City of Winnipeg<br>510 Main St.<br>Winnipeg, Manitoba<br>R3B 1B9</p></div></div></div></div><div class="col-lg-8"><div class="region region-footer-links"><div id="block-footerlinks" class="block block-block-content block-block-content1a6c3682-b51c-4ea5-9f0c-d670e3e34cc3"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="row"><div class="col-md-3 col-6"><ul class="no-inline-links"><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="568ca944-73c8-4a61-996f-091ad863135e" href="https://www.winnipeg.ca/homepage" title="Homepage">Home</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="deffce8a-87fc-4a6a-a242-5756c7972218" href="https://www.winnipeg.ca/services-programs/accessibility" title="Accessibility">Accessibility</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="cd02d821-7a45-49d4-bcb6-1e10afa25abc" href="https://www.winnipeg.ca/311-city-services" title="311 City services">Apps</a></li><li><a href="https://data.winnipeg.ca">Open Data</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="839c6764-7f3e-400d-83ab-0172e0aa3ae5" href="https://www.winnipeg.ca/maps" title="Maps">Maps</a></li></ul></div><div class="col-md-3 col-6"><ul class="no-inline-links"><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="ae9857fe-3a64-4c7e-a882-4619de7827bb" href="https://www.winnipeg.ca/services-programs" title="Services &amp; programs">Services &amp; programs</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="f90bf697-dc76-49bf-8088-da35c0df54e4" href="https://www.winnipeg.ca/recreation-leisure" title="Recreation &amp; leisure">Recreation &amp; leisure</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c2a54f4e-8f55-4042-8ea0-870c5c17e08b" href="https://www.winnipeg.ca/people-culture" title="People &amp; culture">People &amp; culture</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="010b6376-8057-4c7b-b863-6eea50aa8c54" href="https://www.winnipeg.ca/building-development" title="Building &amp; development">Building &amp; development</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8d45cae9-42aa-4c24-9cb6-480ab94b0f10" href="https://www.winnipeg.ca/city-governance" title="City governance">City governance</a></li></ul></div><div class="col-md-3 col-6"><ul class="no-inline-links"><li><a href="https://winnipeg.ca/interhom/toc/departments.asp">Departments</a></li><li><a href="https://www.winnipeg.ca/contact311">Contact 311</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d983a697-e2b9-49e7-9de2-cffc8668907e" href="https://www.winnipeg.ca/connect/city-locations" title="City locations">City locations</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="df36f4e3-e5f4-40e8-98ea-0db945079cb8" href="https://www.winnipeg.ca/people-culture/our-city-our-stories" title="Our City, Our Stories">Our City, Our Stories</a></li><li><a href="https://engage.winnipeg.ca/">Public Engagement</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="df2ed179-fba5-4a57-a7b3-cb7c342e6feb" href="https://www.winnipeg.ca/city-governance/mayor-council/mayors-office" title="Mayor's Office">Mayor's office</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="294b0944-3d29-4384-b6e6-228ca3b09c7a" href="https://www.winnipeg.ca/news" title="Newsroom">Newsroom</a></li></ul></div><div class="col-md-3 col-6"><ul class="no-inline-links"><li><a href="https://selfservice.winnipeg.ca/">Employee portal</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="02e68c48-fdba-4806-8f70-5d628b3a52c0" href="https://www.winnipeg.ca/careers" title="Careers">Careers</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="2aa3c971-24f9-456f-8819-bd322af04acc" href="https://www.winnipeg.ca/careers/volunteering" title="Volunteering">Volunteering</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="9c4db8ad-84de-4857-95dc-9bc4bd6c62af" href="https://www.winnipeg.ca/careers/employee-policies" title="Employee policies">Employee Policies</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="273d50ac-d7c2-46ec-85f9-243567a955d9" href="https://www.winnipeg.ca/sitemap" title="Site map">Site map</a></li><li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="86f75503-aad6-4f6f-9e3f-e50765a5d3ae" href="https://www.winnipeg.ca/city-governance/city-information-records/privacy" title="Privacy">Privacy</a></li></ul></div></div></div></div></div></div><div class="col-lg-2 mt-4 mt-lg-0"><div><ul class="no-inline-links"><li> <a href="https://www.winnipeg.ca/connect">Connect with us</a></li></ul></div><div class="social-links"> <a href="https://twitter.com/cityofwinnipeg" aria-label="City of Winnipeg Twitter"><span class="fab fa-x-twitter" aria-hidden="true"></span></a> <a href="https://www.facebook.com/cityofwinnipeg" aria-label="City of Winnipeg Facebook"><span class="fab fa-facebook-f" aria-hidden="true"></span></a> <a href="https://www.youtube.com/user/thecityofwinnipeg" aria-label="City of Winnipeg YouTube"><span class="fab fa-youtube" aria-hidden="true"></span></a> <a href="https://www.instagram.com/thecityofwinnipeg/" aria-label="City of Winnipeg Instagram"><span class="fab fa-instagram" aria-hidden="true"></span></a> <a href="https://www.winnipeg.ca/connect/podcasts" aria-label="Podcasts"><span class="fa-regular fa-podcast" aria-hidden="true"></span></a> <a href="https://www.winnipeg.ca/rss" aria-label="City of Winnipeg RSS feed"><span class="fas fa-rss" aria-hidden="true"></span></a> <a href="https://www.winnipeg.ca/wpgmail/subscribe_all.stm" aria-label="City of Winnipeg Email"><span class="far fa-envelope" aria-hidden="true"></span></a></div></div></div><div class="row justify-content-between mt-4"><div class="col-md-7"><h2 class="h6">Land acknowledgement</h2><p class="small">Winnipeg is located in Treaty One Territory, the home and traditional lands of the Anishinaabe (Ojibwe), Ininew (Cree), and Dakota peoples, and in the National Homeland of the Red River Métis. Our drinking water comes from Shoal Lake 40 First Nation, in Treaty Three Territory.</p></div><div class="col-md-4"><div class="small text-md-right">&copy;1996-2025, City of Winnipeg</div><div class="conditions small">Use of this site signifies your agreement to the <a href="https://www.winnipeg.ca/connect/conditions-use">Conditions of use</a></div></div></div></div><div class="region region-footer-chatbot"><div id="block-confluence-chatbotscripts" class="block block-block-content block-block-contentcb583db0-5848-4482-91d3-8c728b0ee9b4"><div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css"><style> df-messenger { z-index: 999; position: fixed; --df-messenger-font-color: #212529; --df-messenger-font-family: "Source Sans Pro", sans-serif; --df-messenger-font-size: 1rem; --df-messenger-chat-background: #FFFFFF; --df-messenger-message-user-font-color: #FFFFFF; --df-messenger-message-user-background: #00669B; --df-messenger-message-bot-background: #E9ECEF; --df-messenger-chat-bubble-size: 60px; --df-messenger-chat-bubble-background: #E4EFF4; --df-messenger-titlebar-background: #E4EFF4; --df-messenger-chat-border-radius: .25rem; --df-messenger-chat-scroll-button-background: #E4EFF4; --df-messenger-send-icon-color: #00669B; --df-messenger-input-background: #F8F9FA; --df-messenger-link-background: #6460AA2a; --df-messenger-link-border: none; --df-messenger-link-border-radius:0px; --df-messenger-link-padding:0; --df-messenger-link-decoration: underline; bottom: 20px; right: 30px; } df-messenger-chat-bubble { height: 50%; } .scrollbacktotop { right: 100px !important; bottom: 11px; } </style><script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script><df-messenger location="us-central1" project-id="ai-chatbot-436016" agent-id="a6965029-5880-471d-b2ca-7fdaaed6c32d" language-code="en" max-query-length="-1" allow-feedback="all"> <df-messenger-chat-bubble chat-title="AI Chatbot"></df-messenger-chat-bubble></df-messenger><script> const chatTitleEnglish = "AI Chatbot"; const chatTitleFrench = "Robot conversationnel d’IA"; let chat_language = document.documentElement.lang.toLowerCase(); let content_lang = (chat_language === "fr" || chat_language === "fr-ca") ? "french" : "english"; console.log (content_lang); let welcome_message_display = sessionStorage.getItem('welcome_message_display') === 'true'; console.log (welcome_message_display); window.addEventListener('df-chat-open-changed', (event) => { if (event.detail.isOpen) { const dfMessenger = document.querySelector('df-messenger'); const dfMessengerChatBubble = document.querySelector('df-messenger-chat-bubble'); if (content_lang === "french") { dfMessenger.setAttribute("language-code","fr"); dfMessengerChatBubble.setAttribute("chat-title",chatTitleFrench); } else { dfMessenger.setAttribute("language-code","en"); dfMessengerChatBubble.setAttribute("chat-title",chatTitleEnglish); } const payload = [ { "type": "html", "html": "<p>Hello! Thank you for using the City of Winnipeg’s AI Chatbot. Feel free to interact with Chatbot by asking questions about City of Winnipeg services and programs. <b>Do not enter personal or confidential information into Chatbot, and do not use Chatbot in an emergency.</b></p><p>We are testing this Chatbot, and it may occasionally give incorrect information. <a href=\"https://www.winnipeg.ca/contact311\" target=\"_blank\">Contact 311</a> if you need to confirm the information provided.</p><p><a href=\"https://forms.winnipeg.ca/form/auto/311chatbot_vof\" target=\"_blank\">Report an issue with Chatbot</a> using our online form.</p><p>Use of Chatbot is subject to <a href=\"https://www.winnipeg.ca/connect/conditions-use#aiChatbot\" target=\"_blank\">full terms and conditions</a>. By interacting with Chatbot, you agree to and accept these terms.</p>", }, { "type": "chips", "options": [ { "text": "Bus stops & schedules", "anchor": { "href": "https://winnipegtransit.com/" } }, { "text": "Find your collection day", "anchor": { "href": "https://myutility.winnipeg.ca/UtilityPortal/RecyclingGarbageYardWaste/findyourcollectionday?lan=en" } }, { "text": "Library hours", "anchor": { "href": "https://www.winnipeg.ca/recreation-leisure/libraries/locations-and-hours" } } ] } ]; const payloadFR = [ { "type": "html", "html": "<p>Bonjour! Merci de vous adresser au robot conversationnel d’IA de la Ville de Winnipeg. N’hésitez pas à interagir avec le robot conversationnel en lui posant des questions au sujet des services et des programmes de la Ville de Winnipeg. <b>Ne saisissez pas de renseignements personnels ou confidentiels dans le robot conversationnel, et ne l’utilisez pas en cas d’urgence.</b></p><p>Nous sommes en train de tester ce robot conversationnel, et il pourrait parfois vous fournir des renseignements erronés. <a href=\"https://www.winnipeg.ca/fr/service-311-ville#communiquez-avec-le-311\" target=\"_blank\">Communiquez avec le 311</a> si vous devez confirmer l’exactitude des renseignements fournis.</p><p><a href=\"https://forms.winnipeg.ca/form/auto/311chatbot_vof?locale=fr\" target=\"_blank\">Signalez un problème avec le robot conversationnel</a> à l’aide de notre formulaire en ligne.</p><p>L’usage du robot conversationnel est soumis à un <a href=\"https://www.winnipeg.ca/fr/suivez-nous/conditions-dutilisation#robotConversationnelIA\" target=\"_blank\">ensemble de conditions d’utilisation</a>. En interagissant avec lui, vous convenez d’accepter ces conditions.</p>", }, { "type": "chips", "options": [ { "text": "Arrêts et horaires d’autobus", "anchor": { "href": "https://winnipegtransit.com/" } }, { "text": "Trouvez votre jour de collecte", "anchor": { "href": "https://myutility.winnipeg.ca/UtilityPortal/RecyclingGarbageYardWaste/findyourcollectionday?lan=fr" } }, { "text": "Heures de la Bibliothèque", "anchor": { "href": "https://www.winnipeg.ca/fr/loisirs/bibliotheques/adresses-heures-douverture" } } ] } ]; if (!welcome_message_display) { if (content_lang === "french") { dfMessenger.renderCustomCard(payloadFR); } else { dfMessenger.renderCustomCard(payload); } welcome_message_display = true; sessionStorage.setItem('welcome_message_display', 'true'); } } }); window.addEventListener('df-button-clicked', (event) => { event.preventDefault(); console.log(event); const dfMessenger = document.querySelector('df-messenger'); if (event.detail.event == "confirmation.yes") { dfMessenger.sendQuery('Yes'); } if (event.detail.event == "confirmation.no") { dfMessenger.sendQuery('No'); } }); </script></div></div></div> </footer>
+
+
+<!-- <script src="/shared/includes/designsystem/v1.0/assets/js/jquery-3.3.1.js"></script> -->
+<script src="/shared/includes/designsystem/v1.0/assets/js/popper.1.14.7.min.js"></script>
+<script src="/shared/includes/designsystem/v1.0/assets/js/bootstrap.4.3.1.min.js"></script>
+<script src="/shared/includes/designsystem/v1.0/assets/js/bootstrap-datepicker.min.js"></script>
+<script src="/shared/includes/designsystem/v1.0/assets/js/global.js"></script>
+<script src="/shared/includes/designsystem/v1.0/assets/js/prism.js"></script>
+ 
+</div>
+</body>
+</html>

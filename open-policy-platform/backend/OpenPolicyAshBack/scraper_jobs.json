@@ -1,0 +1,92 @@
+{
+  "jobs": [
+    {
+      "name": "federal_parliament",
+      "path": "scrapers/openparliament",
+      "category": "parliamentary",
+      "priority": "high",
+      "schedule": "0 2 * * *",
+      "max_retries": 3,
+      "retry_delay": 300,
+      "timeout": 1800,
+      "enabled": true
+    },
+    {
+      "name": "ontario_legislature",
+      "path": "scrapers/scrapers-ca/ca_on",
+      "category": "provincial",
+      "priority": "medium",
+      "schedule": "0 3 * * *",
+      "max_retries": 3,
+      "retry_delay": 300,
+      "timeout": 1200,
+      "enabled": true
+    },
+    {
+      "name": "quebec_legislature",
+      "path": "scrapers/scrapers-ca/ca_qc",
+      "category": "provincial",
+      "priority": "medium",
+      "schedule": "0 4 * * *",
+      "max_retries": 3,
+      "retry_delay": 300,
+      "timeout": 1200,
+      "enabled": true
+    },
+    {
+      "name": "british_columbia_legislature",
+      "path": "scrapers/scrapers-ca/ca_bc",
+      "category": "provincial",
+      "priority": "medium",
+      "schedule": "0 5 * * *",
+      "max_retries": 3,
+      "retry_delay": 300,
+      "timeout": 1200,
+      "enabled": true
+    },
+    {
+      "name": "toronto_city_council",
+      "path": "scrapers/scrapers-ca/ca_on_toronto",
+      "category": "municipal",
+      "priority": "medium",
+      "schedule": "0 6 * * *",
+      "max_retries": 3,
+      "retry_delay": 300,
+      "timeout": 900,
+      "enabled": true
+    },
+    {
+      "name": "montreal_city_council",
+      "path": "scrapers/scrapers-ca/ca_qc_montreal",
+      "category": "municipal",
+      "priority": "medium",
+      "schedule": "0 7 * * *",
+      "max_retries": 3,
+      "retry_delay": 300,
+      "timeout": 900,
+      "enabled": true
+    },
+    {
+      "name": "vancouver_city_council",
+      "path": "scrapers/scrapers-ca/ca_bc_vancouver",
+      "category": "municipal",
+      "priority": "medium",
+      "schedule": "0 8 * * *",
+      "max_retries": 3,
+      "retry_delay": 300,
+      "timeout": 900,
+      "enabled": true
+    },
+    {
+      "name": "civic_data",
+      "path": "scrapers/civic-scraper",
+      "category": "civic",
+      "priority": "low",
+      "schedule": "0 9 * * *",
+      "max_retries": 3,
+      "retry_delay": 300,
+      "timeout": 600,
+      "enabled": true
+    }
+  ]
+}

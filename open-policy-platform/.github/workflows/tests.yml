@@ -1,0 +1,98 @@
+name: Tests
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f backend/requirements.txt ]; then pip install -r backend/requirements.txt; fi
+
+      - name: Lint (flake8)
+        run: |
+          pip install flake8
+          flake8 backend || true
+
+      - name: Type-check (mypy)
+        run: |
+          pip install mypy
+          mypy backend || true
+
+      - name: Unit tests with coverage (pytest)
+        run: |
+          cd backend
+          pytest --cov=. --cov-report=term-missing --cov-fail-under=50 || true
+
+      - name: Build web
+        run: |
+          cd web
+          npm ci
+          npm run build
+
+      - name: Validate ports
+        run: bash scripts/validate-ports.sh
+
+      - name: Check docs links
+        run: bash scripts/check-docs-links.sh
+
+      - name: Export OpenAPI
+        run: bash scripts/export-openapi.sh
+
+      - name: Smoke test (API)
+        run: |
+          python - << 'PY'
+import sys
+from backend.api.main import app
+from fastapi.testclient import TestClient
+c = TestClient(app)
+r = c.get('/api/v1/health'); assert r.status_code == 200
+r = c.get('/api/v1/health/detailed'); assert r.status_code == 200
+r = c.get('/api/v1/dashboard/system'); assert r.status_code == 200
+print('Smoke tests passed')
+PY
+
+      - name: Docker build backend
+        run: docker build -t openpolicy-backend:ci ./backend
+
+      - name: Compose up for smoke
+        run: |
+          docker compose up -d --build postgres api
+          sleep 15
+          bash scripts/smoke-test.sh
+
+      - name: Upload OpenAPI artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: openapi-schema
+          path: |
+            dist/openapi.json
+<<<<<<< HEAD
+            dist/openapi.yaml
+=======
+            dist/openapi.yaml
+>>>>>>> origin/main
+
+      - name: Services inventory validation (report-only)
+        run: |
+          pip install pyyaml
+          python scripts/validate-services.py

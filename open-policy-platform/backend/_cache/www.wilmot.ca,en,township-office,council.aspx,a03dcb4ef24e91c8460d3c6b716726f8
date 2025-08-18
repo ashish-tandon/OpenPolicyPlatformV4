@@ -1,0 +1,1040 @@
+status: 200
+encoding: utf-8
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: 
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+Date: Sat, 09 Aug 2025 05:44:59 GMT
+Content-Length: 34239
+
+
+
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+    var esol_ico_width = 0;
+
+    try {
+        esol_ico_width = window.innerWidth
+            || document.documentElement.clientWidth
+            || document.body.clientWidth;
+    } catch (err) { }
+
+    var iCreateObject =
+    {
+        isSiteInICreateMode: "False".toLowerCase() == "true",
+        isSiteinICreateMode: "False".toLowerCase() == "true",
+        lang: "en",
+        isIe8: false,
+        corpHome: "https://www.wilmot.ca/",
+        corpRoot: "/",
+        gaTrackingCode: 'UA-61662969-1',
+        isSiteInLocalDevelopment: 'False'.toLowerCase() == "true",
+        calendarUrl: 'https://calendar.wilmot.ca/',
+        isSiteInPreviewMode: 'False'.toLowerCase() == "true",
+        newsFeeds: {},
+        isMobile: esol_ico_width <= 767,
+        iCreateTheme: '',
+        iCreatePageId: 130881,
+        iCreateHome: 'https://icreate6.esolutionsgroup.ca/',
+        editorHotKey: 'ctrl_ctrl',
+        newsEmergencyBannerUrl: '/Modules/News/services/getAlertBannerFeeds.ashx?feedId=25f8b6c5-fc49-414f-820d-a616b9a8ce48&callback=?',
+        languageResources: {"Modules_News_controls_Global_ViewMoreLinkTitle":"Click to view all","Modules_News_controls_Global_PauseAlert":"Pause","Modules_News_BlogComments_ErrorAuthorInvalidCharacters":"Comment Author include invalid characters","Modules_PageSubscription_controls_pageSubscriptionButton_ButtonTitle":"Click here to subscribe to this page updates","Common_includes_quicklinksAdvanced_Section3HeaderText":"News Centre","Modules_email_emailattachment_Instructions":"Please enter your email address, subject and message, and click the \"Send Email\" button.  If your request requires follow-up, please be sure to include your full name, day-time phone number and any relevant address information in the text of your email message.","Common_Includes_skipNavigation_SkipContentTitleText":"Skip Navigation and go to Content","Modules_News_Search_RefreshText":"Refresh","Modules_News_BlogPost_FeedLabel":"Feed","Modules_PageSubscription_GetPageSubscriptionForm_LastNameLabel":"Last Name","Modules_PageSubscription_GetPageSubscriptionForm_EmailFormatError":"Email is not in a valid format.","Modules_News_index_BackLinkTitleText":"Back to News","Modules_News_BlogSearch_CommentsLinkAltText":"link to Comments","Modules_News_controls_EmergencyAlertBanner_AttachmentTitle":"Attachments","Modules_PageSubscription_GetPageSubscriptionForm_LastNameError":"Last Name is a required field","Modules_News_BlogPost_ItemPlaceholder":"Enter item","Modules_AtoZ_BackToTop":"Back to Top","Modules_News_BlogComments_SubmitText":"Submit","Modules_search_hosted_OccurrencesText":"\u003cstrong\u003eoccurrences\u003c/strong\u003e:","Modules_Contact_Controls_BasicSearch_SearchFormLegend":"Search","Common_Includes_SubNavToggle_ViewFull_Text":"View full","Modules_News_BlogComments_ErrorAuthorBlank":"Comment Author must not be blank","Modules_email_Global_SubmitTitleText":"Click to Send Email","Modules_AtoZ_BackToTopTitleText":"Click to go Back To Top","Modules_News_Global_NewPostLinkTitle":"New Post","Modules_search_controls_Global_PlaceHolderText":"Search","Modules_email_emailattachment_NoIdError":"No Id has been specified please try again...","Modules_News_Global_RelatedPhotosText":"Related Photos","Modules_search_hosted_BasicSearchLabelText":"Basic Search","Modules_DocumentManager_search_input_label":"Search by Keywords","Modules_email_emailattachment_ErrorName":"Your name is required.","Common_Includes_popups_footerPopupCalendarC_Zone2Title":"Programs","Common_contrastIncreaseToast":"High Contrast Mode is on","Modules_News_BlogPost_PostText":"Post","Modules_email_emailattachment_differentClientContactError":"Email can not be sent. Please contact site administrator.","Modules_DocumentManager_results_modal_close_label":"Close","Common_Includes_popups_footerPopupCalendarC_Zone1Title":"Events","Modules_News_BlogPost_ContactEmailLabel":"Contact Email","Common_Includes_headInterior_TableScrollMessage":"Scroll right to view complete table","Modules_News_Global_AttachmentsHeading":"Attachments","Modules_PageSubscription_controls_pageSubscriptionButton_ButtonText":"Subscribe to this page","Common_includes_facebookTicker_FacebookTitleText":"Link to Twitter","Common_Includes_IdLikeToDropdown_IdLikeToText":"I want to...","Modules_News_BlogPost_ImagesLabel":"Images (Image types allowed: PNG, JPEG, BMP, GIF)","Common_includes_quicklinksAdvanced_Section5ImageAltText":"Locate a Facility Image","Modules_Calendar_controls_Global_ViewAllTitleText":"View All Events","Modules_News_Search_PageNumberText":"Page Number","Modules_DocumentManager_results_view_document_text":"View Document","Modules_PageSubscription_GetPageSubscriptionForm_FormTitleText":"Subscribe to","Modules_News_BlogSearch_ArchiveHeaderText":"Archive","Modules_PageSubscription_GetPageSubscriptionForm_FirstNameLabel":"First Name","Modules_PageSubscription_GetPageSubscriptionForm_FirstNameError":"First Name is a required field","Modules_News_BlogPost_AttachmentLabel":"Attachments (Document types allowed: PDF, DOC, DOCX, XLS, XLSX)","Common_scripts_youTubePlayer_DescriptionTitleText":"Description","Modules_email_Global_CharactersRemaining":"characters left","Modules_News_Search_SearchBoxPlaceholder":"Search News...","Common_Includes_twitterFeed_ViewAllTitleText":"Link to Twitter","Modules_PDFBuilder_AddButtonText":"Add to Report","Common_Layouts_Homepage_TwitterFeedText":"Latest Tweets","Modules_News_BlogComments_CommentText":"Comment","Common_contrastDecreaseToast":"High Contrast Mode is off","Common_error_ErrorText":"Error","Common_Layouts_Global_MainMenuButton":"Menu","Modules_DocumentManager_filter_join_text":"and","Common_Login_UsernameText":"Username","Modules_DocumentManager_search_button_label":"Search","Common_includes_socialLinks_FollowUsText":"Follow Us","Modules_email_Global_SubmitText":"Send Email","Modules_email_emailattachment_AttachmentDelete":"Remove attached file","Common_Includes_IdLikeToDropdownMega_ViewAllText":"View All..","Modules_News_BlogPost_CancelText":"Cancel","Modules_News_BlogComments_CommentPluralText":"Comments","Modules_search_controls_search_SearchButtonAlt":"Go!","Modules_email_emailattachment_InvalidFileExtension":"Invalid attachment provided. Valid attachment extensions are .docx, .xlsx, .gif, .jpg, .jpeg, .png, .pdf","Common_scripts_youTubePlayer_TitleText":"Title","Modules_Contact_Controls_BasicSearch_SearchResultsHeading":"Search Results","Modules_Contact_Controls_PhoneDirectory_DialLinkTitleText":"Click to dial","Common_Layouts_Global_PauseText":"Pause","Modules_Contact_Controls_PhoneDirectory_CollapseAllText":"Collapse All","Modules_email_Global_CloseWindowText":"Close this Window","Modules_News_confirm_ErrorMessage":"Unfortunately an error has occured while processing your confirmation. \u003cbr /\u003e We apologize for the inconvenience.","Modules_News_controls_Global_ErrorFeed":"An error occurred - Unable to pull content","Modules_News_BlogComments_DislikeText":"Dislike","AriaLabel_Modules_Newsv2_LightBoxClose":"Close Image Modal","Modules_News_BlogComplete_BackToItemText":"Back to Item","Common_Layouts_Global_LogoAltText":"Logo","Common_Includes_mobileSubNavContainer_SubNavTitle":"More in this Section...","Modules_email_emailattachment_ErrorCaptcha":"Please select the \"I\\\u0027m not a robot\" button and try again.","Modules_News_BlogSearch_PostListTitle":"Latest Posts","Modules_search_hosted_BasicSearchPanelTitle":"Basic Search","Modules_email_emailattachment_ErrorMessage":"Invalid message. Your message should contain at least 1 character and no more than 2000.\\r\\nYou have entered","Modules_Polling_GetCurrentPoll_SubmitPollText":"Vote Now!","Modules_email_MailTo_NameLabel":"Your Name","Common_Includes_Actions_PrintPage":"Print This Page","Common_includes_quicklinksAdvanced_Section6HeaderText":"Contact Us","Modules_News_BlogPost_ErrorInvalidImage":"is not a valid image file.","Modules_Polling_PollFeedError":"Unable to pull Poll data","Common_Includes_IdLikeTo_ViewAllTitleText":"View More for","Common_Includes_LocateFacility_ViewAllText":"View All...","Modules_search_hosted_NoResults":"No Search Results","Modules_News_BlogSearch_SearchHeaderText":"Search","Common_scripts_responsiveScripts_MainNavToggleText":"Toggle section","Modules_News_index_RSSAltText":"Open new window to subscribe via RSS","Common_Includes_FooterNav_DesignedByText":"Designed by eSolutionsGroup","Common_Includes_mobileDropdown_CloseIconAltText":"Close menu icon","Modules_email_MailTo_RecipientEmailLabel":"Recipient Email","Modules_AtoZ_JavascriptDisabled":"\u003cp\u003eJavaScript Disabled. \u003c/p\u003e\u003cp\u003ePlease enable JavaScript to view this content.\u003c/p\u003e","Modules_News_BlogPost_ErrorMaxAttachments":"You have reached the maximum number of attachments allowed","Common_contrastDecrease":"Decrease Contrast","Modules_search_hosted_SortByRelevence":"relevance","Modules_ChartingModule_ChartError":"An error occurred retrieving the chart","Modules_News_Global_BackToSearchTitle":"Link back to search page","Common_Includes_IdLikeToDropdownMega_IdLikeToText":"I\u0027d Like To...","Modules_News_BlogComments_CommentLabel":"Comment (maximum of 500 characters)","Modules_AtoZ_controls_AtoZBar_TitleText":"A to Z Listing","Modules_News_Global_TwitterShareText":"Tweet","Modules_News_BlogPost_Expiration90":"90 days","Modules_News_BlogPost_Expiration15":"15 days","Modules_News_BlogPost_Expiration30":"30 days","Modules_News_BlogPost_Expiration60":"60 days","Common_Login_ForgotPasswordText":"Forgot Password?","Modules_Calendar_controls_CalendarSocialTab_TitleText":"Events Calendar","Modules_search_hosted_FindResultsText":"Find Results","Modules_News_BlogComments_CommentHeadingText":"Post a Comment","Modules_Calendar_controls_Global_NoEventsText":"No Events","Modules_News_controls_BrowserAlertBanner_CloseText":"Close Browser Alert Banner","Modules_email_emailattachment_EmailError":"We were unable to send your email at this time please try again later.","Modules_Contact_controls_PhoneDirectory_ExpandContactText":"Toggle contact details","Modules_email_MailTo_ValidationHeaderText":"The following errors require your immediate attention:","Modules_email_emailattachment_EmailLabel":"Your email Address","Modules_News_BlogPost_NewPostHeadingText":"New Post","Common_includes_quicklinksAdvanced_Section4TitleText":"Attend an Event","Modules_email_emailattachment_TotalAttachmentSizeError":"Try removing one or more attachments before sending. The total attachment size exceeds the allowable limit","Common_idliketo_IdLikeToText":"I\u0026apos;d Like To...","Common_Includes_subNavTrigger_Text":"Menu","Modules_Calendar_controls_Global_FeedErrorText":"An error occured","Common_includes_facebookTicker_ErrorText":"An error occurred - Unable to pull content","Modules_search_controls_search_SearchButtonText":"Go!","Common_contrastIncrease":"Increase Contrast","Modules_Polling_PollResults_VotesLabel":"Votes","Modules_News_Search_NextPageText":"Go to next page","Modules_News_BlogComments_NameLabel":"Name","Modules_News_confirm_SuccessMessage":"Thank you for confirming your subscription; you will now receive our news items directly in your inbox.","Common_Includes_SocialMediaPlugin_PostedText":"Posted:","Modules_Calendar_controls_miniCalendar_PrevText":"View previous month","Modules_search_hosted_SearchAll":"Show Results for All Sites","Modules_Contact_Controls_BasicSearch_KeywordLabel":"Keyword","Common_Includes_IdLikeToDropdownMega_IdLikeToLinkTitleText":"View our I\u0027d Like To... page","Modules_email_emailattachment_ErrorMessageAlone":"Invalid message. Your message should contain at least 1 character and no more than 2000.","Common_includes_quicklinksAdvanced_Section5HeaderText":"Locate a Facility","Modules_News_BlogPost_NamePlaceholder":"Your name","Modules_News_Global_BackToSearchText":"Back to Search","Modules_email_MailTo_CommentsLabel":"Comments","AriaLabel_Modules_PhotoGallery_PreviousArrow":"Go to previous image","Modules_email_emailattachment_ErrorMessageAfterText":"character(s)","Modules_News_BlogSearch_CommentsText":"Comments","Modules_ChartingModule_DataSeriesColTitle":"Name","Modules_Contact_Controls_CategoryAtoZ_LetterLinkTitle":"Jump to","Modules_Contact_Controls_BasicSearch_SearchButtonText":"Search","Modules_News_BlogPost_SubscribeButtonText":"Subscribe to Blog","Modules_Calendar_controls_Global_EventLinkTitleText":"View event","Modules_News_Search_LastPageText":"Go to last page","Modules_News_BlogPost_ContactNameLabel":"Contact Name","Common_includes_quicklinksAdvanced_Section5TitleText":"Locate a Facility","Modules_News_Services_getTopFiveBlogs_NoBlogText":"No Blogs","Modules_search_hosted_PagingNext":"Next","Modules_search_hosted_PagingText":"Viewing {0} to {1} of {2} results","Common_Includes_subNavTrigger_IconAltText":"Show or hide navigation","Modules_PageSubscription_GetPageSubscriptionForm_EmailLabel":"Email Address","Modules_email_emailattachment_EmailSender":"Email Sent By: ","Modules_PageSubscription_GetPageSubscriptionForm_EmailError":"Email is a required field","Modules_News_Search_AccordionOpenCloseText":"Expand/Minimize","Modules_News_controls_Global_PauseAlertTitleText":"Pause Alert","Common_Includes_socialCornerLinks_IconImageAltText":"Social Corner icon","Modules_email_emailattachment_TotalAttachmentSizeText":"Total size of attachment(s) added","Common_includes_quicklinksAdvanced_Section2HeaderText":"Stay Informed","Modules_News_BlogPost_ContactPhoneLabel":"Contact Phone","Common_includes_twitterTicker_TwitterTitleText":"Link to Twitter","Modules_News_BlogPost_ErrorCreatingBlog":"Error occurred while creating blog item.","Modules_News_BlogPost_SubmitText":"Submit","Common_includes_quicklinksAdvanced_Section3TitleText":"News Centre","Modules_email_MailTo_ErrorYourEmailInvalid":"Sender email is invalid","Modules_News_BlogPost_DescriptionLabel":"Description","Modules_News_Search_ReadMoreText":"Read More","Modules_News_BlogPost_ErrorInvalidDocument":"is not a valid document file.","Modules_search_hosted_ClearButtonText":"Clear","Modules_Polling_GetCurrentPoll_ViewPollResultsTitleText":"Click to View Results","Modules_PDFBuilder_PrintButtonTitleText":"Click to review, download and print report","Modules_News_BlogPost_PostingExpirationLabel":"Expiration Date","Common_Includes_socialMediaPlugin_TwitterViewAllText":"View Twitter Page...","AriaLabel_Common_GoogleTranslateButton":"Google Translate Button","Modules_Polling_PollResults_BackText":"Back","Modules_search_hosted_KeywordAllText":"with \u003cstrong\u003eall of the words\u003c/strong\u003e:","Modules_email_emailattachment_ErrorFileTooLarge":"File Size exceeds {0}MB file limit...","Modules_News_Search_ReadMoreTitleText":"Read More","Modules_search_hosted_KeywordExactText":"with the \u003cstrong\u003eexact phrase\u003c/strong\u003e:","AriaLabel_Common_contrastIncrease":"Switch to high contrast mode","Common_Includes_Actions_TextDecrease":"Decrease text size","Common_includes_quicklinksAdvanced_Section4HeaderText":"Attend an Event","Common_Includes_IdLikeTo_ViewAllLinkText":"View More...","Modules_News_BlogComments_LikeText":"Like","Common_Includes_Translate_Text":"Translate","Modules_News_BlogPost_ContactEmailPlaceholder":"Enter email","Modules_News_Search_PageConnectorText":"of","Modules_News_BlogPost_ErrorFileReaderNotSupport":"This browser does not support HTML5 FileReader.","Common_includes_quicklinksAdvanced_Section2ImageAltText":"Stay Informed Image","Common_Includes_Share_ShareImageAlt":"Share This Page","Modules_News_controls_Global_JavascriptDisabledText":"JavaScript is disabled. Please enable JavaScript to view this content.","Modules_News_BlogComments_ErrorCaptcha":"Google Authentication (I\u0027m not a robot) must be checked.","Modules_News_controls_NewsSocialTab_HeaderLinkTitleText":"News","Modules_News_BlogSearch_ArchiveMonthPlaceholderText":"Select Month","Common_Includes_subFooter_TwitterPauseText":"Pause","AriaLabel_Modules_Newsv2_LightBoxNext":"Go to next image","AriaLabel_Modules_Newsv2_LightBoxPrev":"Go to previous image","Modules_email_MailToTemplate_TemplateText":"{5} ({0}) has sent you information from the \u003ca href=\u0027{1}\u0027\u003e{2}\u003c/a\u003e website.\u003cbr /\u003e\u003cbr /\u003e\r\n\u003cb\u003eMessage:\u003c/b\u003e\u003cp style=\u0027padding: 20px;\u0027\u003e{3}\u003c/p\u003e","Modules_News_BlogComments_ReplyTitleText":"Click to reply","Modules_Contact_Controls_PhoneDirectoryWithPhoto_NoImageAltText":"No image to display","Modules_Polling_GetCurrentPoll_ErrorNoOptionSelected":"Please select an option","Modules_News_Global_NoResults":"No Results Found","Common_Includes_interiorQuicklinks_QuickLinksTitle":"Quick Links","Modules_News_controls_Global_BrowserAlertBannerCloseText":"Close Old Browser Notification","Modules_search_hosted_KeywordAnyText":"with \u003cstrong\u003eat least one\u003c/strong\u003e of the words:","Modules_Polling_GetCurrentPoll_SubmitPollTitleText":"Click to Vote Now!","Modules_email_MailTo_ErrorYourEmailRequired":"Sender email is a required field","Modules_News_BlogPost_ItemLabel":"Item","Modules_search_hosted_AdvancedSearchText":"Advanced Search","Modules_News_BlogPost_ErrorNoCategory":"Category must be selected","Modules_Feedback_FeedbackText":"Feedback","Modules_News_Global_ErrorArticleNotFound":"The item you are looking for either doesn\u0027t exist or has been removed from the site. Sorry for the inconvenience.","Modules_AtoZ_SameWindowText":"View our","Modules_News_BlogPost_ErrorFileTooBig":"file size is over 1MB.","Modules_News_BlogPost_CategoryLabel":"Category","Modules_Polling_GetCurrentPoll_ErrorAlreadySubmitted":"You have already submitted a response to this poll!","Modules_email_emailattachment_EmailTemplate":"{0}{0}-------------------------------------{0}Origin: {1}{0}-------------------------------------{0}{0}This email was sent to you by {2} through {3}.","Modules_News_Global_PostedDateText":"Posted on","Common_Includes_Actions_Email":"Email This Page","Modules_News_controls_Global_NextAlertTitleText":"Next Alert","Modules_News_controls_BrowserAlertBanner_Message":"It appears you are trying to access this site using an outdated browser.  As a result, parts of the site may not function properly for you.  We recommend updating your browser to its most recent version at your earliest convenience.","Common_Layouts_Interior_RelatedLinksText":"Related Links","Common_Layouts_Global_MainMenuClose":"Close main menu","Common_includes_quicklinksAdvanced_Section6TitleText":"Contact Us","Modules_PageSubscription_GetPageSubscriptionForm_SubscribeText":"Subscribe","Common_includes_quicklinksAdvanced_Section1SubHeaderText":"You spoke, we acted...","Modules_Calendar_controls_Global_LoadingText":"Loading","Modules_News_BlogComments_CategoryText":"Category","Modules_News_Search_SearchButtonTitleText":"News Search","Modules_Calendar_controls_miniCalendar_MonthTitleText":"View","Common_scripts_icrtTicker_PlayText":"Play","Common_includes_quicklinksAdvanced_Section1HeaderText":"Get Involved","Modules_Contact_Controls_PhoneDirectoryWithPhoto_EditButtonText":"Edit","Modules_News_Search_SearchBoxTitle":"Search News","Modules_News_BlogPost_NameLabel":"Name","Modules_Polling_PollResults_ChoiceLabel":"Choice","Modules_email_emailattachment_NameLabel":"Your Name","Modules_email_scripts_DisabledMessage":"Sorry, email is disabled within iCalendar or iBlog generated pages","Common_Includes_subFooter_TwitterFeedTitleText":"Recent Tweets","Modules_email_emailattachment_AttachmentDeleteText":"Remove","Modules_PageSubscription_Global_CloseText":"Close","AriaLabel_Modules_PhotoGallery_Pause":"Pause photo gallery","Modules_PDFBuilder_AddLinkTitleText":"Click to add this page to the report","Modules_search_hosted_ShowText":"Show","Modules_News_controls_Global_LoadingText":"Loading...","Modules_News_controls_Global_NextAlertText":"Next","AriaLabel_Common_GoogleTranslate":"Google Translate Widget","Modules_News_BlogComments_ErrorCommentBlank":"Comments must not be blank.","Common_Includes_skipNavigation_SkipContentText":"Skip to Content","Common_Includes_subFooter_TwitterIconAltText":"Twitter logo","Modules_email_emailattachment_ErrorInvalidEmail":"Invalid email address.","Modules_email_MailTo_ErrorEmailRequired":"Recipient email is a required field","Modules_News_BlogComments_PostedBy":"Posted By","Modules_News_BlogSubmitSuccess_BackText":"Back","Modules_email_emailattachment_EmailSuccess":"Your email has been sent...","Modules_email_MailTo_ErrorSendingEmail":"Could not send email","Modules_search_hosted_OccurrencesAnywhere":"anywhere in the page","Common_Layouts_Global_LogoLinkText":"Click to return to the homepage","Modules_search_hosted_OccurrencesUrl":"in the URL of the page","Modules_News_controls_Global_PreviousAlertText":"Previous","Modules_email_MailTo_Instructions":"To email this page, fill in the form below and click the \u003cem\u003eSend Email\u003c/em\u003e button","Modules_search_hosted_KeywordExcludeText":"\u003cstrong\u003ewithout\u003c/strong\u003e the words:","Common_Includes_footerSitemap_ViewAllLinkText":"View All...","Common_Includes_Share_EmailText":"Email","Common_Includes_mobileNav_MenuIconAltText":"Main menu icon","Common_includes_quicklinksAdvanced_Section1TitleText":"Get Involved","Modules_News_BlogSearch_SearchText":"Search","Common_Login_PasswordText":"Password","Modules_email_emailattachment_AttachmentAdd":"Add attachment","Modules_AtoZ_controls_AtoZBar_LinkTitleText":"a to z","Common_Includes_Share_ShareProviderImageAlt":"Open new window to share this page via","Common_includes_twitterTicker_ErrorText":"An error occurred - Unable to pull content","Common_includes_quicklinksAdvanced_Section1ImageAltText":"Get involved image","Modules_News_BlogSearch_SearchPlaceholderText":"What are you looking for?","Modules_News_BlogComplete_ThankYouMessage":"Thank you for submitting your comments.","Common_sitemap_SiteMapText":"Sitemap","Modules_search_hosted_OccurrencesTitle":"in the title of the page","Modules_search_hosted_PagingPrevious":"Previous","Modules_email_emailattachment_MessageLabel":"Your Message","Modules_Calendar_controls_Global_ViewAllText":"View More","Common_scripts_youTubePlayer_DescriptionText":"Created using HTML elements, videos are loaded and played from the server or Youtube.","Modules_email_emailattachment_files":" files","Modules_Calendar_controls_miniCalendar_NextText":"View next month","Modules_News_BlogComments_ReplyText":"Reply","Modules_email_Global_CloseWindowTitleText":"Close this Window","Modules_News_controls_BrowserAlertBanner_AlertTitle":"Browser Compatibility Notification","Modules_search_hosted_SearchButtonText":"Search","Modules_search_hosted_SearchSiteOnly":"Show Results for This Site Only","Common_Includes_breadCrumbs_HomeText":"Home","Modules_News_BlogSubmitSuccess_SuccessMessage":"Thank you for submitting your item.","Modules_News_BlogSubmitSuccess_BackTitleText":"link back to submit a blog page","Modules_News_BlogPost_ContactNamePlaceholder":"Enter name","Modules_DocumentManager_results_download_selected_text":"Download Selected Documents","Modules_News_controls_Global_ViewMoreText":"View All","Modules_PageSubscription_ConfirmationDialog_TitleText":"Page Subscription Confirmation","Modules_News_Search_PageNumberTotalText":"Displaying","AriaLabel_Modules_PhotoGallery_NextArrow":"Go to next image","Modules_News_BlogPost_ErrorMaxImages":"You have reached the maximum number of images allowed","Common_Includes_Share_EmailImageAlt":"Email this page","Modules_News_Global_SubscribeText":"Subscribe","Common_Includes_Actions":"Resize text, Print and Share to Social Media","Common_Layouts_Homepage_NewsTickerTitle":"Latest News","Modules_News_controls_Global_PreviousAlertTitleText":"Previous Alert","Modules_News_Search_MonthNames":"[\u0027January\u0027, \u0027February\u0027, \u0027March\u0027, \u0027April\u0027, \u0027May\u0027, \u0027June\u0027, \u0027July\u0027, \u0027August\u0027, \u0027September\u0027, \u0027October\u0027, \u0027November\u0027, \u0027December\u0027]","Modules_email_scripts_NotSupportedMessage":"Your browser is not capable of performing this operation!","Common_Includes_popups_footerPopupCalendarA_Zone3Title":"Upcoming Events","Modules_News_controls_NewsSocialTab_HeaderText":"News","Modules_search_ResultsTitle":"Search Results","Modules_PageSubscription_GetPageSubscriptionForm_PageSubscriptionTitle":"Page Subscription","Modules_email_MailTo_YourEmailLabel":"Your Email","Common_Includes_breadCrumbs_HomeTitleText":"Homepage ","Modules_News_Global_CharacterCountLabel":"Character count","Common_Login_LogonButtonText":"Log On","Modules_News_Global_FacebookLikeTitle":"facebook like button","Modules_email_emailattachment_BrowseTitleText":"Browse to select a file","Modules_email_emailattachment_AttachmentLabel":"Attachment","Modules_Polling_PollResults_ThankYouMessage":"Thank you for your submission!","Common_Includes_mobileDropdown_CloseLinkText":"Close menu","Common_scripts_icrtTicker_PauseText":"Pause","Modules_DocumentManager_filter_text":"Or Filter Results By","Modules_email_MailTo_ErrorEmailInvalid":"Recipient email is invalid","Modules_DocumentManager_results_select_for_download_text":"Select for Download","Modules_News_BlogSearch_FeaturePostsHeaderText":"Featured Posts","Common_includes_browseAloud_BrowseAloudText":"BrowseAloud","Modules_Contact_Controls_PhoneDirectory_ExpandAllText":"Expand All","Modules_search_hosted_ToggleText":"Toggle","Modules_AtoZ_LoadingMessage":"Loading...","Modules_News_Search_FirstPageText":"Go to first page","Modules_News_Global_MaxCharactersReached":"Reached maximum characters allowed","Modules_DocumentManager_search_container_label":"File Search","Common_includes_quicklinksAdvanced_Section2TitleText":"Stay Informed","Modules_search_hosted_ResultsTitle":"Search Results","Modules_News_controls_Global_EmergencyAlertBannerCloseText":"Close Alert Banner","Common_Includes_socialCornerLinks_LinkTitleText":"Social Corner","Modules_News_BlogComments_ErrorInvalidCharacters":"Comments include invalid characters","Modules_News_Global_SubscribeTitleText":"Click to subscribe","Modules_email_emailattachment_EmailAutoReplyBodyTemplate":"This message is to confirm receipt of your recent email to the {1}{0}{0}Thank you,{0}{1}","Common_Includes_socialMediaPlugin_TwitterViewAllTitleText":"View Our Twitter Page","Modules_PDFBuilder_AddButtonTitleText":"Click to add this page to the report","Modules_email_emailattachment_BrowseText":"Browse","Modules_News_Global_NewPostLinkText":"New Post","Modules_News_BlogPost_PostingDateTimeLabel":"Posting Date \u0026amp; Time","Modules_Polling_PollResults_BackTitleText":"Click to go Back","Modules_News_controls_Global_PlayAlert":"Play","Modules_DocumentManager_results_view_details_text":"View Details","Modules_Polling_GetCurrentPoll_ViewPollResultsText":"View Results","Modules_email_emailattachment_SubjectLabel":"Subject","Modules_News_Global_PostedOnText":"Posted On","Modules_email_emailattachment_AttachmentMaximum":"Maximum number of attachments reached","Modules_News_BlogPost_DetailText":"Details","Modules_PageSubscription_GetPageSubscriptionForm_CaptchaError":"Please check I\u0026apos;m not a robot.","Common_Includes_Actions_TextDefault":"Default text size","Common_Layouts_Global_PauseTitle":"Pause","Common_includes_quicklinksAdvanced_Section4ImageAltText":"Attend an Event Image","Modules_News_Search_PreviousPageText":"Go to previous page","Modules_News_BlogPost_ContactPhonePlaceholder":"Enter phone","Modules_News_BlogComplete_BackToItemTitleText":"Click to go back to item","Common_pagenotfound_PageNotFoundText":"Page Not Found","AriaLabel_Modules_Newsv2_LightBoxCancel":"Cancel","Common_Includes_socialCornerLinks_Text":"Social Corner","Modules_News_controls_EmergencyAlertBanner_AttachmentLinkTitle":"Click to view","Common_Includes_twitterFeed_ErrorText":"An error occurred - Unable to pull content","Modules_PDFBuilder_PrintButtonText":"Download and Print Report","Modules_News_index_BackLinkText":"Back to Search","Common_includes_quicklinksAdvanced_Section3ImageAltText":"News Centre Image","Modules_News_BlogSearch_ItemLinkTitle":"View item","Modules_AtoZ_NewWindowText":"Open new window to view","Modules_PDFBuilder_LogoAltText":"Logo","Modules_Calendar_controls_Global_JavascriptDisabled":"JavaScript is disabled. Please enable JavaScript to view this content.","Modules_Polling_GetCurrentPoll_PollNotAvailable":"Poll Not Available","Modules_News_controls_NewsFeedPlugin_PluginTitleText":"Latest News","AriaLabel_Modules_PhotoGallery_Play":"Start photo gallery","Common_Includes_Actions_TextIncrease":"Increase text size","Common_scripts_youTubePlayer_FeedErrorText":"Error retrieving youtube feed","Modules_search_controls_search_SearchButtonTitle":"Click to view search page.","Modules_PDFBuilder_AddLinkText":"+","Common_includes_quicklinksAdvanced_Section6ImageAltText":"Contact Us","Common_Includes_mobileNav_ContactIconAltText":"Contact Us","Common_Includes_SubNavToggle_CloseFull_Text":"Close full","Modules_PageSubscription_GetPageSubscriptionForm_CancelText":"Cancel","Modules_email_emailattachment_EmailAutoReplySubject":"(Automatic Reply) Thank you for contacting the ","Common_scripts_youTubePlayer_ChannelUserErrorText":"Error, the user/channel provided either was not found or has no data","Modules_DocumentManager_results_modal_label":"View Results Modal","Modules_Polling_PollResults_TotalLabel":"% Total","Modules_search_hosted_SortByText":"\u003cstrong\u003esort\u003c/strong\u003e by:","Common_includes_quicklinksAdvanced_Section1Icon1Alt":"Get Involved","Common_includes_quicklinksAdvanced_Section1Icon3Alt":"Get Involved","Common_includes_quicklinksAdvanced_Section1Icon2Alt":"Get Involved","Common_includes_quicklinksAdvanced_Section1Icon4Alt":"Get Involved","Modules_search_hosted_SortByDate":"date","Modules_News_BlogComments_ErrorCommentTooLong":"Comments must be less than 500 characters."},
+        isiCreateGeneratedPage: 'False'.toLowerCase() == "true",
+        primaryDomain: "",
+
+    }
+
+    var myStringArray = "".split(',');
+    for(var i = 0; i < myStringArray.length; i++)
+    {
+        var mySubstring = myStringArray[i].split('|');
+        iCreateObject.newsFeeds[mySubstring[0]] = mySubstring[1];
+    }
+
+    try {
+        if (document.location.href.toLowerCase().indexOf('https://') == 0) {
+            iCreateObject.corpHome = 'https://' + iCreateObject.corpHome.substring(8);
+        }
+    } catch (err) { }
+
+    if (iCreateObject.isSiteInLocalDevelopment)
+        console.log(iCreateObject);
+
+</script>
+
+
+
+<!--
+/**
+* @license
+* MyFonts Webfont Build ID 669781
+*
+* The fonts listed in this notice are subject to the End User License
+* Agreement(s) entered into by the website owner. All other parties are
+* explicitly restricted from using the Licensed Webfonts(s).
+*
+* You may obtain a valid license from one of MyFonts official sites.
+* http://www.fonts.com
+* http://www.myfonts.com
+* http://www.linotype.com
+*
+*/
+-->
+<link rel="stylesheet" type="text/css" href="/Common/styles/MyFontsWebfontsKit.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700,500" rel="stylesheet" type="text/css">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300italic,600,700' rel='stylesheet' type='text/css'>
+
+<link rel="apple-touch-icon" sizes="57x57" href="/Common/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/Common/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/Common/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/Common/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/Common/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/Common/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/Common/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/Common/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/Common/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/Common/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/Common/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/Common/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/Common/favicon-16x16.png" sizes="16x16">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+
+
+<link href="/Common/styles/base.css?v=2" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Common/styles/structure.css?v=2" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Common/styles/styles.css?v=3" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Common/styles/print.css?v=2" rel="stylesheet" type="text/css" media="print" />
+<link href="/Common/styles/icreate.css?v=2" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Common/styles/navigation.css?v=2" rel="stylesheet" type="text/css" media="screen" />
+<link href="https://js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelementplayer.min.css" rel="stylesheet" type="text/css" media="screen" />
+
+ <!-- Modernizr needs to be in head to preview FOUC. Best after stylesheet references -->
+
+<script type="text/javascript" src="/Common/scripts/modernizr.min.js"></script>
+
+<!--[if lt IE 9]>
+        <link href="/Common/styles/ie8.css" rel="stylesheet" type="text/css" media="screen" />
+    <script src="http://js.esolutionsgroup.ca/js/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<link href="https://js.esolutionsgroup.ca/js/libs/jquery-ui/1.10.4/resources/themes/base/jquery-ui.min.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery-ui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_cookie/1.4.0/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/hover-intent/1.8.0/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_superfish/1.7.4/superfish.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src='/Common/scripts/general.js'></script>
+<script type="text/javascript" src='/Common/scripts/quicklinks-dropdown.js'></script>
+<script type="text/javascript" src='/Modules/email/scripts/email.js'></script>
+<link href="https://js.esolutionsgroup.ca/js/libs/jquery_contextmenu/skins/1.0.0/contextMenu.min.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_contextmenu/1.0.0/jquery.contextMenu.min.js"></script>
+<!--[if lt IE 9]><script type="text/javascript">$(function($) { $('body').addClass('ie8'); });</script><![endif]-->
+
+<script type="text/javascript">
+
+	$(function () {
+
+        // for compare mode
+		if (iCreateObject.isSiteInICreateMode && iCreateObject.isiCreateGeneratedPage) { $("#uberMain").addClass("compare-mode"); }
+
+        // Drop-down lists
+        $('#nav').superfish({ cssArrows: false, speed: 'normal', speedOut: 'fast' });
+
+		if (!iCreateObject.isSiteInICreateMode) {
+		    $('video,audio').mediaelementplayer({
+		        // if the <video width> is not specified, this is the default
+		        defaultVideoWidth: 480,
+		        // if the <video height> is not specified, this is the default
+		        defaultVideoHeight: 270,
+		        // if set, overrides <video width>
+		        videoWidth: -1,
+		        // if set, overrides <video height>
+		        videoHeight: -1,
+		        // width of audio player
+		        audioWidth: 400,
+		        // height of audio player
+		        audioHeight: 30,
+		        // initial volume when the player starts
+		        startVolume: 0.8,
+		        // useful for <audio> player loops
+		        loop: false,
+		        // enables Flash and Silverlight to resize to content size
+		        enableAutosize: true,
+		        // the order of controls you want on the control bar (and other plugins below)
+		        features: ['playpause', 'progress', 'current', 'duration', 'tracks', 'volume', 'fullscreen'],
+		        // Hide controls when playing and mouse is not over the video
+		        alwaysShowControls: false,
+		        // force iPad's native controls
+		        iPadUseNativeControls: false,
+		        // force iPhone's native controls
+		        iPhoneUseNativeControls: false,
+		        // force Android's native controls
+		        AndroidUseNativeControls: false,
+		        // forces the hour marker (##:00:00)
+		        alwaysShowHours: false,
+		        // show framecount in timecode (##:00:00:00)
+		        showTimecodeFrameCount: false,
+		        // used when showTimecodeFrameCount is set to true
+		        framesPerSecond: 25,
+		        // turns keyboard support on and off for this instance
+		        enableKeyboard: true,
+		        // when this player starts, it will pause other players
+		        pauseOtherPlayers: true,
+		        // array of keyboard commands
+		        keyActions: []
+		    });
+
+		}
+    });
+
+    function PrintScreen() {
+        if (iCreateObject.isSiteInICreateMode) {
+            showNAMessage();
+        }
+        else {
+            window.print();
+        }
+    }
+
+
+
+
+</script>
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/Common/styles/intLB.css" media="screen" />
+
+<link href='/Modules/Contact/styles/ContactsExtended.css' rel="stylesheet" media="screen" type="text/css" />
+
+    <script src='/Modules/Contact/scripts/contactsV2.js' type="text/javascript"></script>
+
+
+<script type="text/javascript">
+    if (!$("script[src='https://js.esolutionsgroup.ca/js/libs/ios_slider/structure/1.3.42/jquery.iosslider.min.js']").length) {
+        var script = document.createElement('script');
+        script.setAttribute('src', 'https://js.esolutionsgroup.ca/js/libs/ios_slider/structure/1.3.42/jquery.iosslider.min.js');
+        script.setAttribute('type', 'text/javascript');
+        $('head').append(script);
+    }
+</script>
+
+
+
+<script type="text/javascript">
+    $(function () {
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            $("#Share a.ShareLink").click(function (event) {
+                if (iCreateObject.isSiteInICreateMode) {
+                    showNAMessage();
+                }
+                else {
+                    event.preventDefault();
+                    $("#Share").trigger("mouseenter");
+                }
+            });
+        }
+
+    });
+</script>
+
+
+   <script type="text/javascript">
+       function icrt_table_resize() {
+           var contentWidth = ($('#printAreaContent').width());
+           $('#printAreaContent table').each(function (index, item) {
+               var contentRow = $(item).closest('.fbg-row');
+               if ((contentRow.length && $(this).width() > $(contentRow).width()) || $(this).width() > contentWidth) {
+                   if ($(this).parent('.tableContainer').length == 0) {
+                       $(this).wrap('<div class="tableContainer" />');
+                       var wideTable = $(this).addClass('wideTable');
+                       var wideTableContainer = $(wideTable).parent();
+                       $('<div class="tableContainerHead">Scroll right to view complete table</div>"').insertBefore(wideTableContainer);
+                   }
+               } else if ((contentRow.length && $(this).width() <= $(contentRow).width()) || $(this).width() <= contentWidth) {
+                   if ($(this).parent('.tableContainer').length > 0) {
+                       $(this).parent().siblings('.tableContainerHead').detach();
+                       $(this).unwrap();
+                       $(this).removeClass('wideTable');
+                   }
+               }
+           });
+       }
+       $(window).load(function () { setTimeout(function () { icrt_table_resize(); }, 0); });
+       $(window).resize(function () { setTimeout(function () { icrt_table_resize(); }, 0); });
+   </script>
+
+
+<!-- Twitter Timeline -->
+<script>
+    var twitterTLInit = (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0], t = window.twttr || {};
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+        t._e = [];
+        t.ready = function (f) { t._e.push(f); };
+        return t;
+    });
+</script>
+
+
+<!-- Video Playlist Player Styles -->
+<link rel="stylesheet" type="text/css" href="/Common/styles/video_playlist_player/video_playlist_player.css" />
+<script type="text/javascript" src="/Common/scripts/video-playlist.min.js"></script>
+<script type="text/javascript" src='/Common/scripts/youTubePlayer.js'></script>
+<script type="text/javascript" src='/Common/scripts/icrtShortcut.js'></script>
+<script type="text/javascript">
+    if (typeof String.prototype.endsWith !== 'function') {
+        String.prototype.endsWith = function (suffix) {
+            return this.indexOf(suffix, this.length - suffix.length) !== -1;
+        };
+    }
+    $(document).ready(function () {
+        var redirectUrl;
+        if (location.href.indexOf('/edit_') > -1) {
+            redirectUrl = location.href.replace('/edit_', '/');
+        } else {
+            var icreateBaseUrl = 'https://icreate6.esolutionsgroup.ca/';
+            if (!icreateBaseUrl.endsWith('/')) {
+                icreateBaseUrl += '/';
+            }
+            
+            redirectUrl = icreateBaseUrl + 'icreate/modules/pageeditor3/page.srv?pageId=130881';
+            
+        }
+        $(document).icrtShortcut({
+            shortcutKey: 'ctrl_ctrl',
+            redirectUrl: redirectUrl
+        });
+    });
+
+</script>
+
+<title>
+	
+    
+        Council
+     - Wilmot Township
+</title>
+        <meta name="description" content="Council information" />
+
+<meta property="dcterms.issued" content="2025-07-08T09:52:30-0400" />
+<meta property="og:title" content="Council" />
+<meta property="og:url" content="https://www.wilmot.ca/en/township-office/council.aspx" />
+<meta property="og:description" content="Council information" />
+<link rel="alternate" hreflang="x-default" href="https://www.wilmot.ca/en/township-office/council.aspx" />
+<link rel="canonical" href="https://www.wilmot.ca/en/township-office/council.aspx" /><link rel="stylesheet" type="text/css" media="screen" href="/Modules/search/styles/google-search.css" /><script type="text/javascript" src="/Common/scripts/textSize.js"></script><script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/feedback-form/structure/2.6.0/feedbackStructure.min.js?v=1"></script><script type="text/javascript">$(function(){$("#feedbackLink").feedbackForm({
+useDefaultIfNoIdIsSet: "True".toLowerCase() == "true",
+baseUrl: "https://icreate6.esolutionsgroup.ca/feedback/api/1.0/",
+getUrl: "client/231169_WilmotTownship/default-form/en",
+jsServerUrl: "https://js.esolutionsgroup.ca/js/libs/feedback-form/",
+previewMode: false,
+showButton: true,
+pageTitle: document.title.replace(" - Wilmot Township", "").trim(),
+buttonText: "",
+feedbackFormId: $("#FeedbackFormId") === undefined ? "" : $("#FeedbackFormId").val(),
+language: 'en'
+})});</script><script type="text/javascript" src="/Modules/Polling/PollModule.js"></script><script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_gallery/1.2.4/jquery.gallery.min.js"></script><script type="text/javascript">$(function(){$(".eSolutionsGroupPhotoGalleryV2PlaceholderDiv").each(function(){var t=$(this).attr("method"),n=$(this).attr("id");n!=""?$(this).load(n,function(){$(this).find(".prev.keyboardnav").attr("aria-label",iCreateObject.languageResources.AriaLabel_Modules_PhotoGallery_PreviousArrow);$(this).find(".next.keyboardnav").attr("aria-label",iCreateObject.languageResources.AriaLabel_Modules_PhotoGallery_NextArrow);$(this).find(".pause.keyboardnav").attr("aria-label",iCreateObject.languageResources.AriaLabel_Modules_PhotoGallery_Pause);$(this).find(".pause.paused.keyboardnav").attr("aria-label",iCreateObject.languageResources.AriaLabel_Modules_PhotoGallery_Play);$(this).find(".pause.keyboardnav").on("click",function(n){$(n.target).hasClass("paused")?$(n.target).attr("aria-label",iCreateObject.languageResources.AriaLabel_Modules_PhotoGallery_Pause):$(n.target).attr("aria-label",iCreateObject.languageResources.AriaLabel_Modules_PhotoGallery_Play)});return t}):$(this).html("")})});</script><link rel="stylesheet" type="text/css" media="screen" href="/Modules/News/styles/EmergencyAlertModal.css" /></head>
+<body class='	'>
+    <!--googleoff: all-->
+    
+    
+        <input type="hidden" name="FeedbackFormId" id="Hidden1" value="" />
+    
+    <div id="uber" class='interior navTab04'>
+        <header class="cf">
+            
+<div id="skipContentWrapper" class="nocontent">			
+    <a id="skipContentLink" title="Skip Navigation and go to Content" href="#printAreaContent">Skip to Content</a>			
+</div>
+            <div class="headerInner cf">
+                <div class="headerLeft">
+                    <div id="logo" title="View our Homepage">
+                        
+   
+                    </div>
+                    
+<script type="text/javascript">
+    var _element = $('#logo');
+    _title = _element.attr('title');
+
+    if(($('div#logo img').length) || ($('div#logo').has('div.eSolutionsGroupPhotoGalleryV2PlaceholderDiv').length)) {
+        if (iCreateObject.isSiteInICreateMode) {
+            _element.css('background','none');
+        }
+        else{
+            _element.addClass('hasImage');
+        }
+    }
+    else {
+        if (iCreateObject.isSiteInICreateMode && !iCreateObject.isSiteInPreviewMode) {
+            _element.removeClass('hasImage');
+            imgsrc = '/en/images/structure/logo.svg';
+            var title = _title;
+            var url = 'https://www.wilmot.ca/en/index.aspx';
+            var target = "_self";
+            _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px #FFFFFF").attr("title", jQuery.trim(title) != "" ? title : _title);
+            if (url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode) {
+                _element.attr("onclick", "javascript:window.open('" + url + "','" + target + "');");
+            }
+        } else {
+            imgsrc = '/en/images/structure/logo.svg';
+            var title = _title;
+            var url = 'https://www.wilmot.ca/en/index.aspx';
+            var target = "_self";
+            var anchor = $("<a>").attr({ "href": url, "title": jQuery.trim(title) != "" ? title : _title});
+            var img = $("<img>").attr({ "src": imgsrc, "alt": jQuery.trim(title) != "" ? title : _title });
+            _element.addClass('hasImage');
+            $(_element).append($(anchor).append(img));
+        }
+
+    }
+</script>
+                </div>
+                <!-- header left -->
+                
+<div class="mobileNav" aria-label="Mobile Nav">
+    <!--displayed only for smaller viewports-->
+    
+    <a href="/contact">
+        <img src="/Common/images/structure/mobilenav-contact-icon.svg" alt="Contact Us" />
+    </a>
+    <button class="menuTrigger" aria-label="Main menu icon"><span></span><span class="triggerText"></span></button>
+</div>
+
+                <div class="headerRight cf">
+                        <div class="headerRightTop">
+                            <div id="topNavContainer">
+                                 
+<ul id="topNav">
+    <li><a title="View our A-Z Services page" href="/Modules/AtoZ/index.aspx">A-Z Services</a></li>
+</ul>
+
+
+                                <div id="browseAloud">
+                                    
+<script type="text/javascript">var _baTheme = 0, _baMode = 'BrowseAloud', _baUseCookies = true, _baHideOnLoad = true;</script>
+<script type="text/javascript" src="//www.browsealoud.com/plus/scripts/ba.js"></script>
+
+                                </div>
+                            </div>
+
+                            <div id="searchWrapper">
+                                <div id="idLikeTo" >    <a href="#" class="quickLink" title="Link to I'd LIke To...">
+        I'd Like to...
+        <span class="idLikeToIcon"></span>
+    </a><div class="quickDropDown likeToDropDown"><ul><li><a title="Apply or Register For" href="/Common/idLikeTo.aspx#idLikeTo1">Apply or Register For</a></li><li><a title="Become a Volunteer Fire Fighter" href="/Common/idLikeTo.aspx#idLikeTo2">Become a Volunteer Fire Fighter</a></li><li><a title="Book a Facility" href="/Common/idLikeTo.aspx#idLikeTo3">Book a Facility</a></li><li><a title="Learn About" href="/Common/idLikeTo.aspx#idLikeTo4">Learn About</a></li><li><a class="moreLink" href="/Common/idLikeTo.aspx" title="View All for ">View All...</a></li></ul></div>
+</div>
+
+                                
+<script>
+    $(window).load(function () {
+        $('form.gsc-search-box').find("input.gsc-input").each(function (ev) {
+            $(this).attr("placeholder", 'What are you looking for?');
+        });
+    });
+</script>
+<script>
+    (function () {
+        var cx = '008254336325189670110:qws3t4z3c9a';
+        var gcse = document.createElement('script');
+        gcse.type = 'text/javascript';
+        gcse.async = true;
+        gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+            '//cse.google.com/cse.js?cx=' + cx;
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(gcse, s);
+    })();
+</script>
+<div class="searchContainer">
+    <div class="search">
+    
+    </div>
+</div>
+                                
+<div class="socialLinks">
+    <ul>
+  <li>
+    <a title="" href="http://www.twitter.com/wilmottownship" target="_blank">
+      <img alt="Click to open Twitter" src="/en/resourcesGeneral/socialicons/icon-twitter.svg">
+      </img>
+    </a>
+  </li>
+  <li>
+    <a title="" href="https://www.facebook.com/wilmottownship/?view_public_for=102406091641255">
+      <img alt="Click to open Facebook" src="/en/resourcesGeneral/socialicons/icon-facebook.svg">
+      </img>
+    </a>
+  </li>
+</ul>
+</div>
+
+
+                            </div>
+                        </div>
+
+                         
+
+
+<div class="mainNavContainer cf">
+    <nav id="mainNav" class="cf" aria-label="Main">
+    <ul id="nav" class="cf"><li id="navTab01"><a title="View our Living Here page" href="/en/living-here/Living-Here.aspx" class="mainNavItem">Living Here</a><div class="dropDownContainer sf-mega"><div class="dropDownContainerInner cf"><ul class="dropdown"><li><a title="View our About Wilmot page" href="/en/living-here/About-Wilmot.aspx" class="">About Wilmot</a></li><li><a title="View our Animal Control page" href="/en/living-here/Animal-Control.aspx" class="">Animal Control</a></li><li><a title="View our Applications, Licences and Permits page" href="/en/township-office/Applications-Licences-and-Permits.aspx?_mid_=97760" class="">Applications, Licences and Permits</a></li><li><a title="View our Arts and Culture page" href="/en/living-here/Arts-and-Culture.aspx?_mid_=97781" class="">Arts and Culture</a></li><li><a title="View our By-law Enforcement page" href="/en/township-office/By-law-Enforcement.aspx" class="">By-law Enforcement</a></li><li><a title="View our Cemeteries page" href="/en/living-here/Cemeteries.aspx" class="">Cemeteries</a></li><li><a title="View our Community Services page" href="/en/living-here/Community-Services.aspx" class="">Community Services</a></li><li><a title="View our Emergency Services page" href="/en/living-here/Emergency-Services.aspx" class="">Emergency Services</a></li><li><a title="View our Equity, Inclusion, Diversity and Belonging page" href="/en/living-here/eidb.aspx?_mid_=128909" class="">Equity, Inclusion, Diversity and Belonging</a></li></ul><ul class="dropdown"><li><a title="View our Community Events calendar" href="https://calendar.wilmot.ca/communityevents" class="">Events Calendar</a></li><li><a title="View our Facilities, Parks and Trails page" href="http://www.wilmot.ca/modules/facilities/Index.aspx" class="">Facilities, Parks and Trails</a></li><li><a title="View our Fire Department page" href="/en/living-here/Fire-Department.aspx" class="">Fire Department</a></li><li><a title="View our Garbage and Recycling page" href="/en/living-here/Garbage-and-Recycling.aspx?_mid_=97914" class="">Garbage and Recycling</a></li><li><a title="View our Getting Involved in Your Community page" href="/en/things-to-do/Getting-Involved-in-Your-Community.aspx" class="">Getting Involved in Your Community</a></li><li><a title="View our Green and Clean Community page" href="/en/living-here/Green-and-Clean-Community.aspx" class="">Green and Clean Community</a></li><li><a title="View our Jobs and Volunteering page" href="/en/township-office/Jobs-and-Volunteering.aspx" class="">Jobs and Volunteering</a></li><li><a title="View our Moving page" href="/en/living-here/Moving.aspx?_mid_=99017" class="">Moving</a></li><li><a title="View our search.aspx page" href="/Modules/News/search.aspx" class="">News and Public Notices</a></li></ul><ul class="dropdown"><li><a title="View our Public Works and Engineering page" href="/en/township-office/public-works-and-engineering.aspx?_mid_=126654" class="">Public Works and Engineering</a></li><li><a title="View our Recreation and Sports page" href="/en/things-to-do/Recreation-and-Sports.aspx?_mid_=101892" class="">Recreation and Sports</a></li><li><a title="View our Roads Department page" href="/en/living-here/roads_department.aspx" class="">Roads Department</a></li><li><a title="View our Schools page" href="/en/living-here/Schools.aspx" class="">Schools and Preschools</a></li><li><a title="View our Taxes page" href="/en/living-here/Taxes.aspx" class="">Taxes</a></li><li><a title="View our Traffic Calming page" href="/en/living-here/traffic-calming.aspx" class="">Traffic Calming</a></li><li><a title="View our Trees page" href="/en/living-here/trees.aspx" class="">Trees</a></li><li><a title="View our Water page" href="/en/living-here/Water.aspx?_mid_=97973" class="">Water</a></li></ul></div></div></li><li id="navTab02"><a title="View our Things to Do page" href="/en/things-to-do/Things-to-Do.aspx" class="mainNavItem">Things to Do</a><div class="dropDownContainer sf-mega"><div class="dropDownContainerInner cf"><ul class="dropdown"><li><a title="View our Arts and Culture page" href="/en/living-here/Arts-and-Culture.aspx" class="">Arts and Culture</a></li><li><a title="View our Community Services Master Plan  page" href="/en/things-to-do/community-services-master-plan.aspx?_mid_=130782" class="">Community Services Master Plan</a></li><li><a title="View our Day Camps page" href="/en/things-to-do/Day-Camps.aspx" class="">Day Camps</a></li><li><a title="View our Community Events calendar" href="https://calendar.wilmot.ca/communityevents?_mid_=98030" class="">Events Calendar</a></li><li><a title="View our Facilities, Parks and Trails page" href="https://facilities.wilmot.ca/" class="">Facilities, Parks and Trails</a></li></ul><ul class="dropdown"><li><a title="View our Recreation Guide page" href="/en/things-to-do/Recreation-Guide.aspx" class="">Recreation Guide</a></li><li><a title="View our Sports and Recreation Groups, Clubs and Organizations page" href="/en/things-to-do/Sports-and-Recreation-Groups-Clubs-and-Organizations.aspx" class="">Sports and Recreation Groups, Clubs and Organizations</a></li><li><a title="View our Sports Fields page" href="/en/things-to-do/Sports-Fields.aspx" class="">Sports Fields</a></li><li><a title="View our Volunteer Opportunities page" href="/en/things-to-do/Volunteer-Opportunities.aspx" class="">Volunteer Opportunities</a></li><li><a title="View our Wilmot Recreation Complex page" href="/en/things-to-do/Wilmot-Recreation-Complex.aspx?_mid_=98069" class="">Wilmot Recreation Complex</a></li></ul><div class="dropDownRight">
+<a class="dropDownRightInner" title="View our Facilities, Parks and Trails page" href="http://www.wilmot.ca/modules/facilities/Index.aspx">
+<img alt="View our Facilities, Parks and Trails page" src="/en/resourcesGeneral/thingstodo-dropdown.jpg"></img><div class="dropDownRightOverlay">Facilities, Parks and Trails</div></a></div></div></div></li><li id="navTab03"><a title="View our Doing Business page" href="/en/doing-business/Doing-Business.aspx" class="mainNavItem">Doing Business</a><div class="dropDownContainer sf-mega"><div class="dropDownContainerInner cf"><ul class="dropdown"><li><a title="View our Applications, Licences and Permits page" href="/en/township-office/Applications-Licences-and-Permits.aspx?_mid_=98114" class="">Applications, Licences and Permits</a></li><li><a title="View our Bids and Tenders page" href="http://bids.wilmot.ca/Module/Tenders/en?_mid_=98137" class="">Bids and Tenders</a></li><li><a title="View our Building and Construction page" href="/en/doing-business/Building-and-Construction.aspx" class="">Building and Construction</a></li><li><a title="View our Community Profile page" href="/en/living-here/Community-Profile.aspx?_mid_=98163" class="">Community Profile</a></li><li><a title="View our Current Projects page" href="/en/doing-business/current-projects.aspx" class="">Current Projects</a></li><li><a title="View our Engineering Services page" href="/en/doing-business/engineering-services.aspx?_mid_=98164" class="">Engineering Services</a></li><li><a title="View our Development and Planning page" href="/en/doing-business/Development-and-Planning.aspx" class="">Development and Planning</a></li><li><a title="View our Development Applications page" href="https://developmentapplications.wilmot.ca" class="">Development Applications</a></li></ul><ul class="dropdown"><li><a title="View our Economic Development page" href="/en/doing-business/Economic-Development.aspx" class="">Economic Development</a></li><li><a title="View our Fees and Charges page" href="/en/doing-business/fees-and-charges.aspx" class="">Fees and Charges</a></li><li><a title="Open new window to view http://www.mpac.ca/" href="http://www.mpac.ca/" class="" target="_blank">Municipal Property Assessment (MPAC)</a></li><li><a title="View our Reports, Publications and Plans page" href="/en/township-office/Reports-Publications-and-Plans.aspx" class="">Reports, Publications and Plans</a></li><li><a title="View our Small Business Resources page" href="/en/doing-business/Small-Business-Resources.aspx" class="">Small Business Resources</a></li><li><a title="View our Taxes page" href="/en/living-here/Taxes.aspx" class="">Taxes</a></li><li><a title="View our Water Rates page" href="/en/living-here/Water-Rates.aspx" class="">Water Rates</a></li></ul><div class="dropDownRight">
+<a class="dropDownRightInner" title="View our Building and Construction page" href="/en/doing-business/Building-and-Construction.aspx">
+<img alt="View our Building and Construction page" src="/en/resourcesGeneral/doingbusiness-dropdown.jpg"></img><div class="dropDownRightOverlay">Building and Construction</div></a></div></div></div></li><li id="navTab04" class="current"><a title="View our Township Office page" href="/en/township-office/Township-Office.aspx" class="mainNavItem current">Township Office</a><div class="dropDownContainer sf-mega"><div class="dropDownContainerInner cf"><ul class="dropdown"><li><a title="View our Accessibility page" href="/en/township-office/Accessibility.aspx" class="">Accessibility</a></li><li><a title="View our Advertising and Sponsorship page" href="/en/township-office/Advertising-and-Sponsorship.aspx" class="">Advertising and Sponsorship</a></li><li><a title="View our Budget and Finance page" href="/en/township-office/Budget-and-Finance.aspx" class="">Budget and Finance</a></li><li><a title="View our By-laws page" href="/en/township-office/By-laws.aspx" class="">By-laws</a></li><li><a title="View the Township Calendar" href="https://calendar.wilmot.ca/townshipcalendar" class="">Calendar</a></li><li><a title="View our Communicate with Council and Committees page" href="/en/township-office/communicate-with-council-and-committees.aspx" class="">Communicate with Council and Committees</a></li><li><a title="View our Contact Us page" href="/Modules/contact/search.aspx?s=rKJmm1wnArkgHd8LKy6WMweQuAleQuAl" class="">Contact Us</a></li><li><a title="View our Council Accountability and Transparency page" href="/en/township-office/council-accountability.aspx?_mid_=130883" class="">Council Accountability and Transparency</a></li><li><a title="View our Council and Committees page" href="/en/township-office/Council-and-Committees.aspx" class="">Council and Committees</a></li><li><a title="View our Customer Service Feedback page" href="/en/township-office/Customer-Service-Feedback.aspx" class="">Customer Service Feedback</a></li><li><a title="View our Departments page" href="/en/township-office/Departments.aspx" class="">Departments</a></li><li><a title="View our Election page" href="/en/township-office/election.aspx" class="">Election</a></li></ul><ul class="dropdown"><li><a title="View our Equity, Inclusion, Diversity and Belonging page" href="/en/living-here/eidb.aspx" class="">Equity, Inclusion, Diversity and Belonging</a></li><li><a title="View our Flags page" href="/en/living-here/flags.aspx" class="">Flags</a></li><li><a title="View our Insurance Claims page" href="/en/township-office/insurance-claims.aspx" class="">Insurance Claims</a></li><li><a title="View our Integrity Commissioner page" href="/en/township-office/Integrity-Commissioner.aspx?_mid_=126676" class="">Integrity Commissioner</a></li><li><a title="View our Jobs and Volunteering page" href="/en/township-office/Jobs-and-Volunteering.aspx?_mid_=98276" class="">Jobs and Volunteering</a></li><li><a title="View our Local Government Week page" href="/en/township-office/local-government-week.aspx" class="">Local Government Week</a></li><li><a title="View our Mayoral Decisions page" href="/en/township-office/mayoral-decisions.aspx?_mid_=131261" class="">Mayoral Decisions</a></li><li><a title="View our Municipal Drains page" href="/en/township-office/Municipal-Drains.aspx" class="">Municipal Drains</a></li><li><a title="View our News and Public Notices page" href="/Modules/News/search.aspx" class="">News and Public Notices</a></li><li><a title="View our Smart Waterloo Region page" href="/en/township-office/smart-waterloo-region.aspx" class="">Smart Waterloo Region</a></li><li><a title="View our Taxes page" href="/en/living-here/Taxes.aspx" class="">Taxes</a></li><li><a title="View our Water page" href="/en/living-here/Water.aspx?_mid_=97973" class="">Water</a></li></ul><div class="dropDownRight">
+<a class="dropDownRightInner" title="View our Council page" href="/en/township-office/council.aspx?_mid_=98403">
+<img alt="View our Council page" src="/en/resourcesGeneral/townshipoffice-dd.jpg"></img><div class="dropDownRightOverlay">Council</div></a></div></div></div></li></ul>
+    </nav>
+</div>
+                    </div>
+                <!-- header right -->
+            </div>
+            <!--headerInner -->
+        </header>
+        <div id="uberMain" class="mainInterior">
+            <div id="intBanner" class="ic-container-fluid">
+                
+    
+            </div>
+            <div id="main" class="ic-container-fluid">
+                <script type="text/javascript">
+    var _element = $('#intBanner');
+    _title = _element.attr('title');
+
+    if(($('div#intBanner img').length) || ($('div#intBanner').has('div.eSolutionsGroupPhotoGalleryV2PlaceholderDiv').length)) {
+    if (iCreateObject.isSiteInICreateMode) {
+    _element.css('background','none');
+    }
+    else{
+    _element.addClass('hasImage');
+    }
+
+    }
+    else {
+    _element.removeClass('hasImage');
+    var interiorBanners = [
+				  repSingleQuote("/en/rotatingimages/navTab04/townshipoffice-interior.jpg")];
+				var titles = [
+					  repSingleQuote("")];
+    var urls = [""];
+    var newWindows = [false];
+    if (interiorBanners.length != 0) {
+    var num = Math.floor(Math.random() * ( (interiorBanners.length - 1) + 1));
+    imgsrc = interiorBanners[num];
+    var title = titles[num];
+    var url = urls[num];
+    var target = newWindows[num]?"_blank":"_self";
+    _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px #FFFFFF").attr("title", jQuery.trim(title) != "" ? title : _title);
+    if(url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode){
+    _element.attr("onclick","javascript:window.open('"+url+"','"+target+"');");
+    }
+    }
+    else {
+    var defaultBanners = [
+					  repSingleQuote("/en/rotatingimages/defaultInterior/defaultInteriorBanner.jpg")];
+					var defaultTitles = [
+					  repSingleQuote("Default Interior Banner")];
+          var defaultUrls = [""];
+    var defaultNewWindows = [false];
+    if (defaultBanners.length != 0) {
+    var num = Math.floor(Math.random() * ( (defaultBanners.length - 1) + 1));
+    imgsrc = defaultBanners[num];
+    var title = defaultTitles[num];
+    _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px #FFFFFF").attr("title", jQuery.trim(title) != "" ? title : _title);
+    if(url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode){
+    _element.attr("onclick","javascript:window.open('"+url+"','"+target+"');");
+    }
+    }
+    }
+    }
+  </script>
+                <div id="subNavWrapper">
+                    <nav id="subNavContainer">
+                        <ul class="subNav top"><li class="withChildren"><a title="View our Council and Committees page" href="/en/township-office/Council-and-Committees.aspx" class="open"><span>Council and Committees</span></a><ul><li class="withChildren"><a title="View our Committees page" href="/en/township-office/Committees.aspx" class=""><span>Committees</span></a></li><li class="withChildren"><a title="View our Council page" href="/en/township-office/council.aspx" class="current"><span>Council</span></a><ul><li><a title="View our Mayoral Decisions page" href="/en/township-office/mayoral-decisions.aspx" class=""><span>Mayoral Decisions</span></a></li><li><a title="View our Council Direction Action Tracker page" href="/en/township-office/council-direction-action-tracker.aspx" class=""><span>Council Direction Action Tracker</span></a></li><li><a title="View our Past Council Agendas and Minutes page" href="/en/living-here/Past-Council-Agendas-and-Minutes.aspx" class=""><span>Past Council Agendas and Minutes</span></a></li><li><a title="Open new window to view the Council Schedule, Agendas and Minutes" href="http://www.wilmot.ca/councilmeetings/" class=""><span>Schedule, Agendas and Minutes</span></a></li><li><a title="View our Ward Maps page" href="/en/living-here/Ward-Maps.aspx?_mid_=98962" class=""><span>Ward Maps</span></a></li></ul></li><li><a title="View our Council For A Day page" href="/en/township-office/council-for-a-day.aspx" class=""><span>Council For A Day</span></a></li><li><a title="View our Communicate with Council and Committees page" href="/en/township-office/communicate-with-council-and-committees.aspx?_mid_=98257" class=""><span>Communicate with Council and Committees</span></a></li><li><a title="View our Policies and Rules page" href="/en/township-office/Policies-and-Rules-for-Council.aspx?_mid_=98259" class=""><span>Policies and Rules</span></a></li><li><a title="View our Public Meetings page" href="/en/township-office/Public-Meetings.aspx" class=""><span>Public Meetings</span></a></li><li><a title="View our Ward Maps page" href="/en/living-here/Ward-Maps.aspx" class=""><span>Ward Maps</span></a></li></ul></li></ul><ul class="subNav secondul"><li class="withChildren"><a title="View our Accessibility page" href="/en/township-office/Accessibility.aspx" class=""><span>Accessibility</span></a></li><li><a title="View our Advertising and Sponsorship page" href="/en/township-office/Advertising-and-Sponsorship.aspx" class=""><span>Advertising and Sponsorship</span></a></li><li class="withChildren"><a title="View our Budget and Finance page" href="/en/township-office/Budget-and-Finance.aspx" class=""><span>Budget and Finance</span></a></li><li><a title="View our By-laws page" href="/en/township-office/By-laws.aspx" class=""><span>By-laws</span></a></li><li><a title="View the Township Calendar" href="https://calendar.wilmot.ca/townshipcalendar" class=""><span>Calendar</span></a></li><li><a title="View our Communicate with Council and Committees page" href="/en/township-office/communicate-with-council-and-committees.aspx" class=""><span>Communicate with Council and Committees</span></a></li><li class="withChildren"><a title="View our Contact Us page" href="/Modules/contact/search.aspx?s=rKJmm1wnArkgHd8LKy6WMweQuAleQuAl" class=""><span>Contact Us</span></a></li><li><a title="View our Council Accountability and Transparency page" href="/en/township-office/council-accountability.aspx?_mid_=130883" class=""><span>Council Accountability and Transparency</span></a></li><li><a title="View our Customer Service Feedback page" href="/en/township-office/Customer-Service-Feedback.aspx" class=""><span>Customer Service Feedback</span></a></li><li class="withChildren"><a title="View our Departments page" href="/en/township-office/Departments.aspx" class=""><span>Departments</span></a></li><li class="withChildren"><a title="View our Election page" href="/en/township-office/election.aspx" class=""><span>Election</span></a></li><li><a title="View our Equity, Inclusion, Diversity and Belonging page" href="/en/living-here/eidb.aspx" class=""><span>Equity, Inclusion, Diversity and Belonging</span></a></li><li><a title="View our Flags page" href="/en/living-here/flags.aspx" class=""><span>Flags</span></a></li><li><a title="View our Insurance Claims page" href="/en/township-office/insurance-claims.aspx" class=""><span>Insurance Claims</span></a></li><li><a title="View our Integrity Commissioner page" href="/en/township-office/Integrity-Commissioner.aspx?_mid_=126676" class=""><span>Integrity Commissioner</span></a></li><li class="withChildren"><a title="View our Jobs and Volunteering page" href="/en/township-office/Jobs-and-Volunteering.aspx?_mid_=98276" class=""><span>Jobs and Volunteering</span></a></li><li><a title="View our Local Government Week page" href="/en/township-office/local-government-week.aspx" class=""><span>Local Government Week</span></a></li><li><a title="View our Mayoral Decisions page" href="/en/township-office/mayoral-decisions.aspx?_mid_=131261" class=""><span>Mayoral Decisions</span></a></li><li><a title="View our Municipal Drains page" href="/en/township-office/Municipal-Drains.aspx" class=""><span>Municipal Drains</span></a></li><li class="withChildren"><a title="View our News and Public Notices page" href="/Modules/News/search.aspx" class=""><span>News and Public Notices</span></a></li><li><a title="View our Smart Waterloo Region page" href="/en/township-office/smart-waterloo-region.aspx" class=""><span>Smart Waterloo Region</span></a></li><li><a title="View our Taxes page" href="/en/living-here/Taxes.aspx" class=""><span>Taxes</span></a></li><li><a title="View our Water page" href="/en/living-here/Water.aspx?_mid_=97973" class=""><span>Water</span></a></li></ul>
+                    </nav>
+                     
+<nav class="intQuicklinks">
+    <div class="intQuicklinksHeader"><p>Quick Links</p></div>
+    <div class="intQuicklinksBody">
+        <ul><li><a title="View our A-Z Services page" href="/Modules/AtoZ/index.aspx">A-Z Services</a></li><li><a title="View our Applications, Licences and Permits page" href="/en/township-office/Applications-Licences-and-Permits.aspx">Applications, Licences and Permits</a></li><li><a title="View our Council and Committees page" href="/en/township-office/Council-and-Committees.aspx">Council and Committees</a></li><li><a title="View our News and Public Notices page" href="/Modules/News/search.aspx">News and Public Notices</a></li><li><a title="View our Taxes page" href="http://www.wilmot.ca/en/living-here/Taxes.aspx?_mid_=97953">Taxes</a></li><li><a title="View our What We Do page" href="/en/living-here/What-We-Do.aspx">What We Do</a></li></ul>
+    </div>
+</nav>
+                </div>
+
+                <div id="contentInt">
+                    <div id="mainContent" tabindex="-1">
+                        <div id="printArea">
+                            <div class="topContent cf">
+                                <div id="pageHeading">
+                                    <!--googleon: all-->
+                                    <h1>
+    
+        Council
+    </h1>
+                                    <!--googleoff: all-->
+                                    
+
+<button class="subNavTrigger" aria-label="Show or hide navigation"><span></span><span class="triggerText">Menu</span></button>
+
+
+                                </div>
+                                
+
+<div id="actions" class=" nocontent" role="toolbar" aria-label="Resize text, Print and Share to Social Media">
+    
+    <div class="actionsInner">
+        <div class="resizeText">
+            <!--TODO: LANGC: Get Translations for the title texts FEATURE: Make Language Content Dynamic -->
+            <button type="button" class="textDecrease">
+                <img class="svg" src="/Common/images/actions/text-decrease-icon.svg" alt="" />
+                <span class="assistiveTech-only">Decrease text size</span>
+            </button>
+
+            <button type="button" class="textDefault">
+                <img class="svg" src="/Common/images/actions/text-reset-icon.svg" alt="" />
+                <span class="assistiveTech-only">Default text size</span>
+            </button>
+
+            <button type="button" class="textIncrease">
+                <img class="svg" src="/Common/images/actions/text-increase-icon.svg" alt="" />
+                <span class="assistiveTech-only">Increase text size</span>
+            </button>
+        </div>
+
+        <input type="hidden" id="hdnContent" name="hdnContent" />
+        <input type="hidden" id="hdnPage" name="hdnPage" />
+        
+        <div class="print">
+            <button type="button" onclick="PrintScreen()">
+                <img class="svg" src="/Common/images/actions/print-icon.svg" alt="" />
+                <span class="assistiveTech-only">Print This Page</span>
+            </button>
+        </div>
+
+        
+<div id="Share" class="share">
+	<button class="shareLink" href="javascript: void(0);" type="button"><img class="svg" src="/Common/images/actions/share-icon.svg" alt="" /><span class="assistiveTech-only">Open new window to share this page via</span></button>
+
+	<ul id="ShareItemsPlaceholder" class="shareDropDown">
+        <li>
+            <a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fwww.wilmot.ca%2fen%2ftownship-office%2fcouncil.aspx" target="_blank" id="fbShare">
+                <img src="/Common/images/share/icon-facebook.svg" alt="" />
+                <span>Facebook</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/intent/tweet?text=Check+out+https%3a%2f%2fwww.wilmot.ca%2fen%2ftownship-office%2fcouncil.aspx" target="_blank" id="twShare">
+                <img src="/Common/images/share/icon-twitter.svg" alt="" />
+                <span>Twitter</span>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3a%2f%2fwww.wilmot.ca%2fen%2ftownship-office%2fcouncil.aspx" target="_blank" id="liShare">
+                <img src="/Common/images/share/icon-linkedin.svg" alt="" />
+                <span>LinkedIn</span>
+            </a>
+        </li>
+
+        
+        <li>
+            <a id="emailLink" href="#" onclick="javascript: mailTo(event);">
+                <img src="/Common/images/share/icon-email.svg" alt="" />
+                <span>Email</span>
+            </a>
+        </li>
+        
+	</ul>
+</div>
+<script type="text/javascript">
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+        $("#Share a.ShareLink").click(function (event) {
+            if (iCreateObject.isSiteInICreateMode) {
+                showNAMessage();
+            }
+            else {
+                event.preventDefault();
+                $("#Share").trigger("mouseenter");
+            }
+        });
+    }
+    $(function () {
+        //override the share links to current URL
+        var curpage = encodeURIComponent(window.location);
+        var curPageHeading = $(document).find("h1").length ? $.trim($("h1").text()).replace(/\s\s+/g, ' ') : $.trim($(document).find("title").text());
+        $("#fbShare").attr("href", "https://www.facebook.com/sharer.php?u=" + curpage);
+        $("#liShare").attr("href", "https://www.linkedin.com/shareArticle?mini=true&url=" + curpage);
+        $("#twShare").attr("href", "https://www.twitter.com/intent/tweet?text=Check+out+ " + curPageHeading + " " + curpage);
+    });
+    </script>
+        
+    </div>
+</div>
+
+
+                            </div>
+                            
+<div id="breadcrumbs" class="cf">
+<a title="Home page" href="/en/index.aspx">Home</a><span class="horizNavSeparator">/</span><a title="View our Township Office page" href="/en/township-office/Township-Office.aspx">Township Office</a><span class="horizNavSeparator">/</span><a title="View our Council and Committees page" href="/en/township-office/Council-and-Committees.aspx">Council and Committees</a><span class="horizNavSeparator">/</span><span>Council</span>
+</div>
+
+                            
+<nav class="mobileSubNavContainer cf">
+
+    <!--subNav will be cloned and appended to this div for narrow devices-->
+</nav>
+
+
+                            <!--googleon: all-->
+                            <div style="display: none;" class="icreateTokenWrapper">
+                                
+    
+        <form id="frmToggleContent" action="#"><input type="hidden" id="hdnHideLeftContent" value=""><input type="hidden" id="hdnHideBannerImage" value="hide"><input type="hidden" id="hdnHideRightContact" value=""><input type="hidden" id="hdnHideQuickLinks" value="hide"><input type="submit" id="btnToggleContent" name="btnToggleContent" class="hideButton"></form>
+    
+                            </div>
+                            <!--googleoff: all-->
+
+                            <div id="printAreaContent" tabindex="-1">
+                                
+    
+        <div class="fbg-row lmRow"><div data-lm-columnwidth="12" class="fbg-col-xs-12 column lmColumn"><div class="ge-content ge-content-type-gridHTML" data-ge-content-type="gridHTML"><div class="fbg-container-fluid lmLayoutComponent" data-lm-id="lm1723651463356" data-lm-componenttype="StandardOneColumn" data-lm-componenttitle=""><div class="fbg-row"><div class="fbg-col-xs-12"><div class="iCreateDynaToken" data-lm-tokenid="StandardOneColumnTK1" data-icrt-tk-cfg="StandardColumnContent" id="StandardOneColumnTK1_lm1723651463356"><p>October 24, 2022 the residents of the Township of Wilmot elected the current Council for the Township. Council is made up of five Ward Councillors and a Mayor. The Mayor serves as Wilmot's Regional Councillor at the&nbsp;<a title="Open new window to view the Region of Waterloo Council page" href="http://www.regionofwaterloo.ca/en/regionalgovernment/regionalcouncil.asp" target="_blank" aria-label="Region of Waterloo opens in new window">Region of Waterloo</a>.</p>
+<blockquote>
+<p><a title="View our Ward Maps page" href="http://www.wilmot.ca/en/living-here/Ward-Maps.aspx">Check which ward your property is located in</a></p>
+<p><a title="View Council schedule, agendas and minutes" href="https://calendar.wilmot.ca/council/Index?&amp;Category=Council">View Council schedule, agendas and minutes</a></p>
+<p><a title="View our Council Accountability page" href="http://www.wilmot.ca/en/township-office/Council-Accountability.aspx">Learn about Council accountability<br></a></p>
+</blockquote>
+<h3>Council members</h3>
+<table class="icrtAccordion">
+<tbody>
+<tr>
+<td data-name="accParent">&nbsp;Mayor<strong>—&nbsp;</strong>Natasha Salonen</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p><strong><img class="Right" title="mayor" src="/en/resourcesGeneral/council/Mayor.jpg" alt="mayor" width="400" height="509"></strong></p>
+<p><strong>Email: </strong><a href="mailto:natasha.salonen@wilmot.ca">natasha.salonen@wilmot.ca</a>&nbsp;</p>
+<p><strong>Phone: </strong>519-807-2370</p>
+<p><strong>Biography&nbsp;</strong></p>
+<p>Natasha Salonen was elected the first female Mayor of the Township of Wilmot in October 2022. She is the youngest female mayor in Ontario history, being elected at 27. In her role as Mayor, she also serves as a Region of Waterloo Councillor.</p>
+<p>As a first-time politician, she is no stranger to politics, having worked in Federal and Provincial government starting in 2012. She brings professional knowledge from working for various Members of Parliament, most recently at the Ontario Ministry of Agriculture, Food, and Rural Affairs.&nbsp;</p>
+<p>She is currently an Associate Director of the Wilmot Agricultural Society, a Board Member of the Grand River Conservation Authority, a Board Member at Enova Power Corporation, and a Board Member of Kiwanis Transit. Mayor Salonen is also proud to sit on the Association of Municipalities of Ontario (AMO) Healthy Democracies Advisory&nbsp;Committee.&nbsp;</p>
+<p>She has an Honours BA in Human Sciences from the University of Oxford, UK, where she was very active in student government. Apart from her years of study abroad, she is a lifelong resident of Wilmot Township, currently residing in her family home in Baden.</p>
+<p>As Mayor, she has advocated for attainable and accessible housing, fiscal responsibility, youth voice in government, community building, and enhancing the quality and diversity of political candidates. She is incredibly proud of her rural roots and mobilizes her professional experiences to advocate for rural Ontario communities.</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent"><strong>Ward 1 Councillor— Stewart Cressman</strong></td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p><strong>Email:&nbsp;</strong><a href="mailto:stewart.cressman@wilmot.ca">stewart.cressman@wilmot.ca</a><strong>&nbsp;</strong></p>
+<p><strong>Phone:&nbsp;</strong>519-807-1496<br><img class="Right" title="council" src="/en/resourcesGeneral/council/Counc-Cressman.jpg" alt="council" width="400" height="509"></p>
+<p><strong>Biography</strong></p>
+<p>Stewart Cressman was elected in 2022 as Councillor for Ward 1.</p>
+<p>He is a family-oriented farmer and agricultural leader who is active in the community.&nbsp;</p>
+<p>His experience in agriculture leadership includes 10 years as a 4-H Beef Club Leader locally, 10 years as Chair of Ontario Pork’s Research Committee and eight years as Chair of the National Pork Research Committee identifying University Research Projects to be funded, which addressed industry priorities.</p>
+<p>He also received a cabinet appointment to chair an agriculture research and innovation advisory board (ARIO), providing advice to the Ontario Agriculture Ministry for eight years.</p>
+<p>He attended Waterloo-Oxford District Secondary School and completed a Master of Science degree at the University of Guelph. He is a church elder at the New Dundee Bethel Church and previously volunteered with minor baseball and hockey.</p>
+<p>A collaborator by nature, he enjoys working with his colleagues on Council, Township staff and the community so that together they can position Wilmot for future success.</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">&nbsp;<strong>Ward 2 Councillor— Kris Wilkinson</strong></td>
+</tr>
+<tr>
+<td data-name="accChild"><strong><strong></strong></strong><strong>Email: </strong><a href="mailto:kris.wilkinson@wilmot.ca">kris.wilkinson@wilmot.ca</a><strong>&nbsp; </strong>&nbsp;
+<p><strong>Phone: </strong>519-807-4173</p>
+<strong><img class="Right" title="council" src="/en/resourcesGeneral/council/Counc-Wilkinson.jpg" alt="council" width="400" height="509"></strong></td>
+</tr>
+<tr>
+<td data-name="accParent"><strong>Ward 3 Councillor— Harvir Sidhu</strong></td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p><strong>Email: </strong><a href="mailto:harvir.sidhu@wilmot.ca">harvir.sidhu@wilmot.ca</a>&nbsp;</p>
+<p><strong>Phone: </strong>519-807-2521<br><img class="Right" title="council" src="/en/resourcesGeneral/council/Counc-Sidhu.jpg" alt="council" width="400" height="509"></p>
+<p>&nbsp;<strong>Biography&nbsp;</strong></p>
+<p>Harvir Sidhu was elected as the Township of Wilmot Ward 3 Councillor in October 2022. He is proud of his rural roots. He has called Wilmot Township home since 2007 and grew up in neighbouring Oxford County. &nbsp;</p>
+<p>He and his wife are raising their three young boys in Baden. They run a local business in downtown New Hamburg and, even as busy young parents, they value being involved in community life. As a small business owner, he prioritizes hiring local youth and giving back to the community through various fundraising initiatives. &nbsp;</p>
+<p>As a Wilmot Councillor, he has championed transparency in government, fiscal responsibility, and believes that the Township should be run like a business. He strives to be a strong voice for the people of Ward 3 who elected him and is working to make local democracy more accessible and accountable to all Wilmot Township residents.</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">Ward 4 Councillor— Steven Martin</td>
+</tr>
+<tr>
+<td data-name="accChild"><strong>Email:&nbsp;</strong><a href="mailto:steven.martin@wilmot.ca">steven.martin@wilmot.ca</a>
+<p><strong>Phone:&nbsp;</strong>519-807-5214</p>
+<p><img class="Right" title="council" src="/en/resourcesGeneral/council/Counc-Martin.jpg" alt="council" width="400" height="509"><strong>Biography&nbsp;</strong></p>
+<p>Steven Martin—a counsellor, psychotherapist and mediator for 30 years—takes the job of being a Township of Wilmot Councillor very seriously.</p>
+<p>He moved to New Hamburg in 1998 after living in Kitchener for 10 years. He has a son, daughter-in-law and granddaughter living in Toronto, and a daughter and son-in-law living in Kitchener.&nbsp;</p>
+<p>He ran for a Council seat in 2018 before successfully becoming a Councillor in 2022.</p>
+<p>He supports healthy discussion, a respectful political process and the opportunity for the community to be engaged. He also believes in openness regarding issues or concerns people in the community might have.</p>
+<p>He seizes the challenge of leadership and does his best for Wilmot, whether working on the Township’s budget, advocating for the environment, protecting heritage assets or promoting economic development.</p>
+<p>With an optimistic approach, he works daily with his Council colleagues, Township staff and the community to create a bright future for Wilmot while appreciating the community as it is today.&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p><strong>Ward 4 Councillor— Lillianne Dunstall&nbsp;</strong></p>
+</td>
+</tr>
+<tr>
+<td data-name="accChild"><strong>Email: </strong><a href="mailto:lillianne.dunstall@wilmot.ca">lillianne.dunstall@wilmot.ca</a>&nbsp;
+<p><strong>Phone: </strong>519-807-4975</p>
+<p><img class="Right" title="council" src="/en/resourcesGeneral/council/Counc-Dunstall.jpg" alt="council" width="400" height="509"></p>
+<p><strong>Biography&nbsp;</strong></p>
+<p>Lillianne Dunstall was elected as a Township of Wilmot Ward 4 Councillor in October 2022. Since moving to New Hamburg in 2019, she and her husband, Scott, have become deeply involved in the community.</p>
+<p>She is an active member of the Wilmot Optimist Club and the New Hamburg Legion and serves on the Executive of the New Hamburg Board of Trade. With over 17 years of experience in the commercial roofing industry, she is the past and first Chair of the National Women in Roofing (NWiR) Canadian Council. Supporting women in trades, which often leads to entrepreneurship, has always been a priority for her.</p>
+<p>As a Wilmot Councillor, she has championed initiatives to support local businesses, enhance community and school safety, and ensure that all voices are heard.</p>
+<p>In her personal life, she loves spending time with friends and family, especially her five grandchildren.</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">&nbsp;<strong>Executive Officer to the Mayor and Council<strong>—</strong>&nbsp;Nick Higgins</strong></td>
+</tr>
+<tr>
+<td data-name="accChild"><strong>Email:</strong>&nbsp;<a title="Open new window to view nick.higgins@wilmot.ca" rel="noopener noreferrer" href="mailto:nick.higgins@wilmot.ca" target="_blank" aria-label="nick.higgins@wilmot.ca opens in new window">nick.higgins@wilmot.ca</a>
+<p><strong>Phone: </strong>519-807-2370</p>
+</td>
+</tr>
+</tbody>
+</table></div></div></div></div></div></div></div>
+    
+                            </div>
+
+                            <div id="contactMainContainer">
+                                <div class="contactContainer">
+                                    <div class="contactHeader">
+                                        <div class="contactHeaderTitle">
+                                            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Contacts</p>
+
+
+                                        </div>
+                                    </div>
+                                    <!--contactHeader -->
+                                    <div class="contactBody">
+                                        
+    
+        <div class="contactBodyContactInfoContactModuleV2" id="contactEntry_161743"></div>
+    
+                                    </div>
+                                    <div class="contactFooter"></div>
+                                </div>
+                            </div>
+                             
+<a href="#" title="Click here to subscribe to this page updates" id="pageSubscription" class="button nocontent" style="display:none;">
+    
+    
+    Receive Email Updates
+</a>
+
+    <link rel='stylesheet' href='/Modules/PageSubscription/style/PageSubscriptionForm.css' />
+    <script src="/Modules/PageSubscription/scripts/PageSubscription.js"></script>
+
+
+                        </div>
+                    </div>
+                    <!--googleoff: all-->
+                </div>
+                <!--mainContent-->
+
+            </div>
+        </div>
+        <!--main-->
+
+        <footer>
+            
+<div class="footerInner ic-container-fluid">
+    <div class="footerTop">
+        <div class="footerTopLeft">
+            <div class="footerlogo"><p><a href="/en/index.aspx"><img src="/en/images/structure/logo_footer.png" alt="View our Homepage"></a></p></div>
+            <div class="footerText">
+                <p>60 Snyder's Road West <br> Baden, Ontario <br> N3A 1A1</p>
+<div><a title="Open to view Office Hours and Contacts" href="/contact/">Office Hours and Contacts</a></div>
+<div><a title="Open new window to view Staff Login" rel="noopener noreferrer" href="https://outlook.office.com/" target="_blank">Staff Login</a></div>
+<div><a title="Open new window to view Employee Self-Serve" href="https://infohrcloud.com/TownshipWilmot/infohr.aspx" target="_blank">Employee Self-Serve</a></div>
+            </div>
+            
+<div class="socialLinks">
+    <ul>
+  <li>
+    <a title="" href="http://www.twitter.com/wilmottownship" target="_blank">
+      <img alt="Click to open Twitter" src="/en/resourcesGeneral/socialicons/icon-twitter.svg">
+      </img>
+    </a>
+  </li>
+  <li>
+    <a title="" href="https://www.facebook.com/wilmottownship/?view_public_for=102406091641255">
+      <img alt="Click to open Facebook" src="/en/resourcesGeneral/socialicons/icon-facebook.svg">
+      </img>
+    </a>
+  </li>
+  <li>
+    <a title="" href="https://www.youtube.com/channel/UCcA8fcRx03H8zYkFLIQMjow" target="_blank">
+      <img alt="Click to open YouTube" src="/en/resourcesGeneral/socialicons/icon-youtube.svg">
+      </img>
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            
+         
+<div id="footerNav">
+    
+    <a title="Click to view our sitemap" target="_self" href="/Common/sitemap.aspx">Sitemap</a>
+    <a id="esol" title="Designed by eSolutionsGroup" target="_blank" href="http://www.esolutionsgroup.ca">Designed by eSolutions</a>
+</div>
+        </div>
+        <div class="footerNavMega">    <div class="ic-row">            <ul class="ic-col-sm-3"><li><a title="View our Living Here page" href="/en/living-here/Living-Here.aspx">Living Here</a><ul><li><a title="View our About Wilmot page" href="/en/living-here/About-Wilmot.aspx">About Wilmot</a></li><li><a title="View our Animal Control page" href="/en/living-here/Animal-Control.aspx">Animal Control</a></li><li><a title="View our Applications, Licences and Permits page" href="/en/township-office/Applications-Licences-and-Permits.aspx?_mid_=97760">Applications, Licences and Permits</a></li><li><a title="View our Arts and Culture page" href="/en/living-here/Arts-and-Culture.aspx?_mid_=97781">Arts and Culture</a></li><li><a title="View our By-law Enforcement page" href="/en/township-office/By-law-Enforcement.aspx">By-law Enforcement</a></li><li><a title="View our Cemeteries page" href="/en/living-here/Cemeteries.aspx">Cemeteries</a></li><li><a title="View our Community Services page" href="/en/living-here/Community-Services.aspx">Community Services</a></li><li><a title="View our Emergency Services page" href="/en/living-here/Emergency-Services.aspx">Emergency Services</a></li><li><a title="View our Equity, Inclusion, Diversity and Belonging page" href="/en/living-here/eidb.aspx?_mid_=128909">Equity, Inclusion, Diversity and Belonging</a></li><li><a class="viewMore" href="/en/living-here/Living-Here.aspx" title="Living Here">View All...</a></li></ul></li></ul><ul class="ic-col-sm-3"><li><a title="View our Things to Do page" href="/en/things-to-do/Things-to-Do.aspx">Things to Do</a><ul><li><a title="View our Arts and Culture page" href="/en/living-here/Arts-and-Culture.aspx">Arts and Culture</a></li><li><a title="View our Community Services Master Plan  page" href="/en/things-to-do/community-services-master-plan.aspx?_mid_=130782">Community Services Master Plan </a></li><li><a title="View our Day Camps page" href="/en/things-to-do/Day-Camps.aspx">Day Camps</a></li><li><a title="View our Community Events calendar" href="https://calendar.wilmot.ca/communityevents?_mid_=98030">Events Calendar</a></li><li><a title="View our Facilities, Parks and Trails page" href="https://facilities.wilmot.ca/">Facilities, Parks and Trails</a></li><li><a title="View our Recreation Guide page" href="/en/things-to-do/Recreation-Guide.aspx">Recreation Guide</a></li><li><a title="View our Sports and Recreation Groups, Clubs and Organizations page" href="/en/things-to-do/Sports-and-Recreation-Groups-Clubs-and-Organizations.aspx">Sports and Recreation Groups, Clubs and Organizations</a></li><li><a title="View our Sports Fields page" href="/en/things-to-do/Sports-Fields.aspx">Sports Fields</a></li><li><a title="View our Volunteer Opportunities page" href="/en/things-to-do/Volunteer-Opportunities.aspx">Volunteer Opportunities</a></li><li><a class="viewMore" href="/en/things-to-do/Things-to-Do.aspx" title="Things to Do">View All...</a></li></ul></li></ul><ul class="ic-col-sm-3"><li><a title="View our Doing Business page" href="/en/doing-business/Doing-Business.aspx">Doing Business</a><ul><li><a title="View our Applications, Licences and Permits page" href="/en/township-office/Applications-Licences-and-Permits.aspx?_mid_=98114">Applications, Licences and Permits</a></li><li><a title="View our Bids and Tenders page" href="http://bids.wilmot.ca/Module/Tenders/en?_mid_=98137">Bids and Tenders</a></li><li><a title="View our Building and Construction page" href="/en/doing-business/Building-and-Construction.aspx">Building and Construction</a></li><li><a title="View our Community Profile page" href="/en/living-here/Community-Profile.aspx?_mid_=98163">Community Profile</a></li><li><a title="View our Current Projects page" href="/en/doing-business/current-projects.aspx">Current Projects</a></li><li><a title="View our Engineering Services page" href="/en/doing-business/engineering-services.aspx?_mid_=98164">Engineering Services</a></li><li><a title="View our Development and Planning page" href="/en/doing-business/Development-and-Planning.aspx">Development and Planning</a></li><li><a title="View our Development Applications page" href="https://developmentapplications.wilmot.ca">Development Applications</a></li><li><a title="View our Economic Development page" href="/en/doing-business/Economic-Development.aspx">Economic Development</a></li><li><a class="viewMore" href="/en/doing-business/Doing-Business.aspx" title="Doing Business">View All...</a></li></ul></li></ul><ul class="ic-col-sm-3"><li><a title="View our Township Office page" href="/en/township-office/Township-Office.aspx">Township Office</a><ul><li><a title="View our Accessibility page" href="/en/township-office/Accessibility.aspx">Accessibility</a></li><li><a title="View our Advertising and Sponsorship page" href="/en/township-office/Advertising-and-Sponsorship.aspx">Advertising and Sponsorship</a></li><li><a title="View our Budget and Finance page" href="/en/township-office/Budget-and-Finance.aspx">Budget and Finance</a></li><li><a title="View our By-laws page" href="/en/township-office/By-laws.aspx">By-laws</a></li><li><a title="View the Township Calendar" href="https://calendar.wilmot.ca/townshipcalendar">Calendar</a></li><li><a title="View our Communicate with Council and Committees page" href="/en/township-office/communicate-with-council-and-committees.aspx">Communicate with Council and Committees</a></li><li><a title="View our Contact Us page" href="/Modules/contact/search.aspx?s=rKJmm1wnArkgHd8LKy6WMweQuAleQuAl">Contact Us</a></li><li><a title="View our Council Accountability and Transparency page" href="/en/township-office/council-accountability.aspx?_mid_=130883">Council Accountability and Transparency</a></li><li><a title="View our Council and Committees page" href="/en/township-office/Council-and-Committees.aspx">Council and Committees</a></li><li><a class="viewMore" href="/en/township-office/Township-Office.aspx" title="Township Office">View All...</a></li></ul></li></ul>    </div>    <!--ic-row--></div>
+    </div>
+</div>
+<!-- Footer top -->
+
+<script type="text/javascript">
+// 
+    iCreateObject.gaTrackingCode = 'UA-61662969-1'; 
+
+    var _gaq = _gaq || []; var pluginUrl = "//www.google-analytics.com/plugins/ga/inpage_linkid.js"; _gaq.push(["_require", "inpage_linkid", pluginUrl]); _gaq.push(["_setaccount", iCreateObject.gaTrackingCode]); _gaq.push(["_trackPageview"]); (function () { var e = document.createElement("script"); e.type = "text/javascript"; e.async = true; e.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js"; var t = document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(e, t) })(); if (typeof jQuery != "undefined") { jQuery(document).ready(function (e) { var t = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i; var n = ""; if (jQuery("base").attr("href") != undefined) n = jQuery("base").attr("href"); jQuery("a").each(function () { var e = jQuery(this).attr("href"); var r = jQuery(this).attr("href"); if (e) { e = e.toLowerCase() } if (e && e.match(/^https?\:/i) && !e.match(document.domain)) { jQuery(this).click(function () { var t = e.replace(/^https?\:\/\//i, ""); _gaq.push(["_trackEvent", "External", "Click", t]); if (jQuery(this).attr("target") != undefined && jQuery(this).attr("target").toLowerCase() != "_blank") { setTimeout(function () { location.href = r }, 200); return false } }) } else if (e && e.match(/^mailto\:/i)) { jQuery(this).click(function () { var t = e.replace(/^mailto\:/i, ""); _gaq.push(["_trackEvent", "Email", "Click", t]) }) } else if (e && e.match(t)) { jQuery(this).click(function () { var t = /[.]/.exec(e) ? /[^.]+$/.exec(e) : undefined; var r = e; _gaq.push(["_trackEvent", "Download", "Click-" + t, r]); if (jQuery(this).attr("target") != undefined && jQuery(this).attr("target").toLowerCase() != "_blank") { setTimeout(function () { location.href = n + e }, 200); return false } }) } }) }) }
+// 
+</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61662969-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GT0RGM3EWC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GT0RGM3EWC');
+</script>
+        </footer>
+    </div>
+    <!--uber-->
+    <!--googleon: all-->
+     
+<script type="text/javascript" src="/Common/scripts/toggleContent.js"></script>
+ 
+    
+<a href="#" id="feedbackLink" class="feedbackTabButton" title="Feedback">Feedback</a>
+
+    
+    
+    
+<script type="text/javascript" src='/Common/scripts/jquery.matchHeight-min.js'></script>
+<script type="text/javascript" src='/Common/scripts/responsiveScripts.js'></script>
+<script type="text/javascript" src="/Common/scripts/placeholders.jquery.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/cludo/1.0.0/js/jquery-cludo-search.min.js?customerId=10000146&engineId=10000183&overrideSearchBox=true"></script>
+
+<script type="text/javascript" src="/Common/scripts/icModal.js"></script><script type="text/javascript" src="/Modules/News/scripts/jquery.AlertModal.js"></script><script type="text/javascript" src="/Modules/News/scripts/AlertModal.js"></script>
+
+
+    <!-- ACCORDION -->
+    
+    <script type="text/javascript" src='/Common/scripts/libs/icreate-tinymce-accordion/1.0.8/jquery-icrtaccordion-clean.min.js?v=2'></script>
+    
+    <!-- SHARE -->
+    <script type="text/javascript">
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            $("#Share a.ShareLink").click(function (event) {
+                if (iCreateObject.isSiteInICreateMode) {
+                    showNAMessage();
+                }
+                else {
+                    event.preventDefault();
+                    $("#Share").trigger("mouseenter");
+                }
+            });
+        }
+        $(function () {
+            //override the share links to current URL
+            var curpage = encodeURIComponent(window.location);
+            var curPageHeading = $(document).find("h1").length ? $.trim($("h1").text()).replace(/\s\s+/g, ' ') : $.trim($(document).find("title").text());
+            $("#fbShare").attr("href", "https://www.facebook.com/sharer.php?u=" + curpage);
+            $("#liShare").attr("href", "https://www.linkedin.com/shareArticle?mini=true&url=" + curpage);
+            $("#twShare").attr("href", "https://www.twitter.com/intent/tweet?text=Check+out+ " + curPageHeading + " " + curpage);
+        });
+    </script>
+
+    <!-- LOAD TWITTER TIMELINE -->
+    <script>
+	    if ($('.icrttwittertimeline, .newsFeedParser .newsItem_twitter').length) {
+		    window.twttr = twitterTLInit(document, "script", "twitter-wjs");
+	    }
+    </script>
+
+
+    
+    
+
+
+<div class="icEmergencyModal" id="icEmergencyModal_outer" modal-animation="slide" tabindex="-1" aria-hidden="true">
+    <div class="icEmergencyModal_overlay" id="icEmergencyModal_overlay" tabindex="-1" icemergencymodal-close>
+        <div id="icEmergencyModal_wrapper" class="icEmergencyModal_container" role="dialog" aria-modal="true" aria-label="Alert Modal">
+            <div class="alertbanner unset alertbannerBrowser">
+                <div class="icEmergencyModal_header">
+                    <h2 class="icEmergencyModal_title modal-title">Browser Compatibility Notification</h2>
+                    <button class="icBrowserModal_close" aria-label="Close Old Browser Notification" icemergencymodal-close></button>
+                </div>
+                <div class="icEmergencyModal_content">
+                    <p>It appears you are trying to access this site using an outdated browser.  As a result, parts of the site may not function properly for you.  We recommend updating your browser to its most recent version at your earliest convenience.</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+</body>
+</html>
+
+

@@ -1,0 +1,2012 @@
+status: 200
+encoding: UTF-8
+Date: Sat, 09 Aug 2025 01:05:08 GMT
+Server: Apache
+Cache-Control: max-age=86400, public
+X-Drupal-Dynamic-Cache: MISS
+Content-language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+Last-Modified: Sat, 09 Aug 2025 01:05:07 GMT
+ETag: "1754701507-gzip"
+Content-Encoding: gzip
+Content-Length: 14403
+Keep-Alive: timeout=5, max=94
+Connection: Keep-Alive
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M7BY6F321Z"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-M7BY6F321Z", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<meta property="og:site_name" content="City of Fredericton" />
+<meta property="og:image:url" content="https://www.fredericton.ca/sites/default/files/social.jpg" />
+<meta property="og:image:secure_url" content="https://www.fredericton.ca/sites/default/files/social.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Greg Ericson" />
+<meta name="twitter:site" content="@CityFredGov" />
+<meta name="twitter:site:id" content="413105295" />
+<meta name="twitter:url" content="https://www.fredericton.ca/your-government/mayor-council/greg-ericson" />
+<meta name="twitter:image" content="https://www.fredericton.ca,https://www.fredericton.ca/sites/default/files/social.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/Favicon.png" type="image/png" />
+<link rel="alternate" hreflang="en" href="https://www.fredericton.ca/your-government/mayor-council/greg-ericson" />
+<link rel="alternate" hreflang="fr" href="https://www.fredericton.ca/fr/votre-administration/le-maire-et-le-conseil-municipal/greg-ericson" />
+<link rel="canonical" href="https://www.fredericton.ca/your-government/mayor-council/greg-ericson" />
+<link rel="shortlink" href="https://www.fredericton.ca/node/3073" />
+
+    <title>Greg Ericson | City of Fredericton</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_1TsshZ8Fj85r6wzy4dZ61iL78vtGV0hJwT2w0jihnRw.css?delta=0&amp;language=en&amp;theme=fredericton&amp;include=eJx1jkEOwjAMBD8UkRPvidxk20Y4dmQnUsvr6QGEOHDbGe1h_PSBFhdyhMzkfv7sBnfa4CGrIYpaI65PhNVQYDUPlbixLsQ_alUZHnAMrvKIxWYnvr0xXCCzJyqtSsyPe-hktBn13T_Xr7lN6XPh6jvKJ0q0ICwYA5ZwdHWUtFa-0OMGgV01DrK8J-o10RyatXXGQPzjX_HPZ4I" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_7Ai57DLUtKokBLGuXZWFaeWFg6wbyMC-IAnmYIkWU3k.css?delta=1&amp;language=en&amp;theme=fredericton&amp;include=eJx1jkEOwjAMBD8UkRPvidxk20Y4dmQnUsvr6QGEOHDbGe1h_PSBFhdyhMzkfv7sBnfa4CGrIYpaI65PhNVQYDUPlbixLsQ_alUZHnAMrvKIxWYnvr0xXCCzJyqtSsyPe-hktBn13T_Xr7lN6XPh6jvKJ0q0ICwYA5ZwdHWUtFa-0OMGgV01DrK8J-o10RyatXXGQPzjX_HPZ4I" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&amp;display=swap" />
+
+    
+    <link rel="apple-touch-icon" href="/themes/custom/fredericton/images/apple-touch.png" />
+                    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1274718213789099');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1274718213789099&ev=PageView&noscript=1" /></noscript>
+      </head>
+  <body class="your-government-mayor-council-greg-ericson node--3073 type--councillor lang-en path-node page-node-type-councillor">
+        <a href="#main-content" class="visually-hidden focusable">Skip to main content</a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <header class="header" id="header">
+    <div class="header__row header__row--middle">
+    <div class="header__menu-search">
+      <div class="container">
+        <div class="header__nav-search-trigger">
+          <div class="nav nav--header" id="header-menu">  <div class="region region-nav__header">
+    <nav role="navigation" aria-labelledby="block-fredericton-header-menu" id="block-fredericton-header" class="block block-menu navigation menu--header-menu">
+            
+  <h2 class="visually-hidden" id="block-fredericton-header-menu">Header</h2>
+  
+
+        
+        <ul class="menu menu--level-0">
+      <span class="en"><li class="menu__item menu__item--service-alerts"><a href="/node/3327"><span class="fa-regular fa-triangle-exclamation"></span>Community Alerts</a></li></span>
+      <span class="fr"><li class="menu__item menu__item--service-alerts"><a href="/fr/node/3327"><span class="fa-regular fa-triangle-exclamation"></span>Alertes communautaires</a></li></span>
+                <li class="menu__item"><a href="https://www.frederictoncapitalregion.ca/">Tourism</a></li>
+        </ul>
+  
+
+
+  </nav>
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-content" id="block-languageswitchercontent" role="navigation">
+  
+    
+      <ul class="links"><li hreflang="en" data-drupal-link-system-path="node/3073" class="en is-active" aria-current="page"><a href="/your-government/mayor-council/greg-ericson" class="language-link is-active" hreflang="en" data-drupal-link-system-path="node/3073" aria-current="page">English</a></li><li hreflang="fr" data-drupal-link-system-path="node/3073" class="fr"><a href="/fr/votre-administration/le-maire-et-le-conseil-municipal/greg-ericson" class="language-link" hreflang="fr" data-drupal-link-system-path="node/3073">Français</a></li></ul>
+  </div>
+
+  </div>
+</div>
+          <button class="mobile-search-trigger" aria-controls="search-form" aria-expanded="false"><span class="visually-hidden">Open the search form</span></button>
+        </div>
+        <div class="search-form" id="search-form">  <div class="region region-search">
+    <div class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blocksearch-solr-page-1" data-drupal-selector="views-exposed-form-search-solr-page-1" id="block-exposedformsearch-solrpage-1">
+  
+    
+      <form action="/search" method="get" id="views-exposed-form-search-solr-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-s form-item-s">
+      
+        <input placeholder="How can we help..." data-drupal-selector="edit-s" data-search-api-autocomplete-search="search_solr" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/search_solr?display=page_1&amp;&amp;filter=s" type="text" id="edit-s" name="s" value="" size="30" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search-solr" type="submit" id="edit-submit-search-solr" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+  <div class="header__row header__row--bottom">
+    <div class="container">
+      <div class="header__logo">  <div class="region region-logo">
+    <div id="block-fredericton-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/sites/default/files/fredericton-logo.png" alt="Home" />
+    </a>
+      </div>
+
+  </div>
+</div>
+      <div class="header__menu-wrapper" id="main-menu-wrapper">
+        <button class="mobile-menu-trigger" aria-controls="main-menu" aria-expanded="false">Menu</button>
+        <div class="nav nav--main" id="main-menu">  <div class="region region-nav__main">
+    <nav role="navigation" aria-labelledby="block-fredericton-main-menu" id="block-fredericton-main" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-fredericton-main-menu">Main</h2>
+  
+
+        
+        <ul class="menu menu--level-0">
+                <li class="menu__item menu__item--level-0 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          
+                                              <a href="/resident-services">Resident <br>Services</a>
+                      
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Resident Services section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/fredericton-transit" data-drupal-link-system-path="node/4427">Fredericton Transit</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Fredericton Transit section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Fredericton Transit section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/fredericton-transit/fares" data-drupal-link-system-path="node/1037">Fares</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Fares section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/fredericton-transit/fares/transit-fare-assistance-program" data-drupal-link-system-path="node/1038">Transit Fare Assistance Program</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/fredericton-transit/schedule-maps" data-drupal-link-system-path="node/1039">Schedule &amp; Maps</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/fredericton-transit/para-transit" data-drupal-link-system-path="node/1040">Para Transit</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/fredericton-transit/transit-strategic-plan" data-drupal-link-system-path="node/1042">Transit Strategic Plan</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/fredericton-transit/sunday-service" data-drupal-link-system-path="node/6922">Sunday Service</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/parking" data-drupal-link-system-path="node/3505">Parking</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Parking section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Parking section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/pay-parking" data-drupal-link-system-path="node/1044">Pay for Parking</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/and-street-parking" data-drupal-link-system-path="node/3666">On and Off Street Parking</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the On and Off Street Parking section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/parking/and-street-parking/street-permit-parking-qa" data-drupal-link-system-path="node/1049">On-Street Permit Parking: Q&amp;A</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/parking-garages-lots" data-drupal-link-system-path="node/1045">Parking Garages &amp; Lots</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/electric-vehicle-charging-stations" data-drupal-link-system-path="node/3904">Electric Vehicle Charging Stations</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/overnight-parking" data-drupal-link-system-path="node/1046">Overnight Parking</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/street-permit-parking" data-drupal-link-system-path="node/1048">On-Street Permit Parking</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/bike-lockers" data-drupal-link-system-path="node/3726">Bike Lockers</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/loading-and-flex-zones" data-drupal-link-system-path="node/1050">Loading and Flex Zones</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/parking/parking-tickets" data-drupal-link-system-path="node/1047">Parking Tickets</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/roads-construction" data-drupal-link-system-path="node/1043">Roads &amp; Construction</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Roads &amp; Construction section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Roads &amp; Construction section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/roads-construction/construction" data-drupal-link-system-path="node/3672">Construction</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/roads-construction/traffic-calming" data-drupal-link-system-path="node/5129">Traffic Calming</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/roads-construction/active-transportation" data-drupal-link-system-path="node/3347">Active Transportation</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/roads-construction/traffic-management" data-drupal-link-system-path="node/1051">Traffic Management</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Traffic Management section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/roads-construction/traffic-management/roundabouts" data-drupal-link-system-path="node/1052">Roundabouts</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/roads-construction/snow-removal" data-drupal-link-system-path="node/1053">Snow Removal</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/roads-construction/paving" data-drupal-link-system-path="node/3329">Paving</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Paving section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/roads-construction/paving/potholes" data-drupal-link-system-path="node/376389">Potholes</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/garbage-recycling-waste-reduction" data-drupal-link-system-path="node/6125">Garbage, Recycling &amp; Waste Reduction</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Garbage, Recycling &amp; Waste Reduction section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Garbage, Recycling &amp; Waste Reduction section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/garbage-recycling-waste-reduction/recycling" data-drupal-link-system-path="node/6165">Recycling</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Recycling section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/garbage-recycling-waste-reduction/recycling/multi-unit-residential-recycling" data-drupal-link-system-path="node/9865">Multi-Unit Residential Recycling</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/garbage-recycling-waste-reduction/garbage-collection" data-drupal-link-system-path="node/6164">Garbage Collection</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/garbage-recycling-waste-reduction/yard-waste" data-drupal-link-system-path="node/6166">Yard Waste</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/garbage-recycling-waste-reduction/home-composting" data-drupal-link-system-path="node/6167">Home Composting</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/garbage-recycling-waste-reduction/reducing-food-waste-0" data-drupal-link-system-path="node/421710">Reducing Food Waste</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/garbage-recycling-waste-reduction/hazardous-waste" data-drupal-link-system-path="node/6168">Hazardous Waste</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/water-sewer" data-drupal-link-system-path="node/1062">Water &amp; Sewer</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Water &amp; Sewer section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Water &amp; Sewer section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/water-sewer/sewer-utility" data-drupal-link-system-path="node/1063">Sewer Utility</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Sewer Utility section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/water-sewer/sewer-utility/service-installation" data-drupal-link-system-path="node/1065">Service Installation</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/water-sewer/sewer-utility/responsible-sewer-use" data-drupal-link-system-path="node/1066">Responsible Sewer Use</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/water-sewer/sewer-utility/sanitary-sewer-flushing" data-drupal-link-system-path="node/1067">Sanitary Sewer Flushing</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/water-sewer/water-utility" data-drupal-link-system-path="node/1068">Water Utility</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Water Utility section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/water-sewer/water-utility/cross-connection-control" data-drupal-link-system-path="node/1064">Cross Connection Control</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/water-sewer/water-utility/frozen-pipes" data-drupal-link-system-path="node/8544">Frozen Pipes</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/water-sewer/water-utility/conservation-tips" data-drupal-link-system-path="node/1069">Conservation Tips</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/water-sewer/water-utility/water-main-flushing" data-drupal-link-system-path="node/1070">Water Main Flushing</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/water-sewer/wellfields" data-drupal-link-system-path="node/1071">Wellfields</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/newly-amalgamated-areas" data-drupal-link-system-path="node/3659">Newly Amalgamated Areas</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/law-enforcement" data-drupal-link-system-path="node/1072">By-law Enforcement</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the By-law Enforcement section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the By-law Enforcement section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/law-enforcement/preventing-nuisance-wildlife" data-drupal-link-system-path="node/1073">Preventing Nuisance Wildlife</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/public-safety" data-drupal-link-system-path="node/1074">Public Safety</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Public Safety section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Public Safety section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/public-safety/community-safety-services-unit" data-drupal-link-system-path="node/3399">Community Safety Services Unit</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/public-safety/police-force" data-drupal-link-system-path="node/1075">Police Force</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Police Force section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3 menu__item--collapsed">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/join-our-team" data-drupal-link-system-path="node/3807">Join our team!</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/report-crime" data-drupal-link-system-path="node/1076">Report a Crime</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/missing-persons" data-drupal-link-system-path="node/1077">Missing Persons</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/criminal-investigations" data-drupal-link-system-path="node/1078">Criminal Investigations</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/criminal-record-checks" data-drupal-link-system-path="node/1079">Criminal Record Checks</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/request-collision-report" data-drupal-link-system-path="node/9867">Request a Collision Report</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/support-services" data-drupal-link-system-path="node/1080">Support Services</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3 menu__item--collapsed">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/patrols" data-drupal-link-system-path="node/1081">Patrols</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3 menu__item--collapsed">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/public-safety-cameras" data-drupal-link-system-path="node/3769">Public Safety Cameras</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/reports-and-publications" data-drupal-link-system-path="node/3846">Reports and Publications</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/police-force/community" data-drupal-link-system-path="node/3847">Community</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/public-safety/emergency-preparedness" data-drupal-link-system-path="node/1082">Emergency Preparedness</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Emergency Preparedness section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/emergency-preparedness/flooding" data-drupal-link-system-path="node/3402">Flooding</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/emergency-preparedness/make-plan" data-drupal-link-system-path="node/1083">Make a Plan</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/disasterresponseregistry" data-drupal-link-system-path="node/1084">High Priority Disaster Response Registry</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/public-safety/fire-department" data-drupal-link-system-path="node/1085">Fire Department</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Fire Department section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/fire-department/extreme-heat" data-drupal-link-system-path="node/3406">Extreme Heat</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/fire-department/discharging-fireworks" data-drupal-link-system-path="node/8256">Discharging Fireworks</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/fire-department/education" data-drupal-link-system-path="node/1086">Education</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/fire-department/facilities" data-drupal-link-system-path="node/1087">Facilities</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/fire-department/inspections" data-drupal-link-system-path="node/1088">Inspections</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/fire-department/permits" data-drupal-link-system-path="node/1089">Permits</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/resident-services/public-safety/fire-department/memorial" data-drupal-link-system-path="node/1090">Memorial</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/resident-services/public-safety/dispatch-services" data-drupal-link-system-path="node/1091">Dispatch Services</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/service-centre" data-drupal-link-system-path="node/1093">Service Centre</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/community-alerts" data-drupal-link-system-path="node/3327">Community Alerts</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/resident-services/resources-seniors-older-adults" data-drupal-link-system-path="node/6326">Resources for Seniors &amp; Older Adults</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          
+                                              <a href="/recreation-culture">Recreation <br>&amp; Culture</a>
+                      
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Recreation &amp; Culture section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/program-activity-search" data-drupal-link-system-path="node/10801">Program &amp; Activity Search</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/community-connections-0" data-drupal-link-system-path="node/3384">Community Group Directory</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/recreation-cards" data-drupal-link-system-path="node/1096">Recreation Cards</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/recreation-fees" data-drupal-link-system-path="node/3814">Recreation Fees</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/facilities" data-drupal-link-system-path="node/1097">Facilities</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Facilities section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Facilities section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/facilities/aquatics-pools-splash-pad-beach" data-drupal-link-system-path="node/3405">Aquatics (Pools, Splash Pad &amp; Beach)</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/facilities/arenas-outdoor-rinks" data-drupal-link-system-path="node/3510">Arenas &amp; Outdoor Rinks</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/facilities/fieldhouse-community-use-gyms" data-drupal-link-system-path="node/3513">Fieldhouse &amp; Community-Use Gyms</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/facilities/lodges-community-rooms" data-drupal-link-system-path="node/3512">Lodges &amp; Community Rooms</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/facilities/northside-youth-centre" data-drupal-link-system-path="node/3857">Northside Youth Centre</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/facilities/outdoor-courts" data-drupal-link-system-path="node/6364">Outdoor Courts</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/facilities/senior-centres-activities" data-drupal-link-system-path="node/9872">Senior Centres &amp; Activities</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/facilities/sport-fields-ball-diamonds" data-drupal-link-system-path="node/3511">Sport Fields &amp; Ball Diamonds</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/facilities/request-book-facility" data-drupal-link-system-path="node/1098">Request to Book a Facility</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/arts-culture" data-drupal-link-system-path="node/1102">Arts &amp; Culture</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Arts &amp; Culture section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Arts &amp; Culture section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/arts-culture/public-art" data-drupal-link-system-path="node/1103">Public Art</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/arts-culture/summer-artist-in-residence" data-drupal-link-system-path="node/1105">Summer Artist in Residence</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/arts-culture/poet-laureate" data-drupal-link-system-path="node/1106">Poet Laureate</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/arts-culture/arts-achievement-awards" data-drupal-link-system-path="node/7495">Arts Achievement Awards</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/arts-culture/arts-and-culture-grants" data-drupal-link-system-path="node/10244">Arts and Culture Grants</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/parks" data-drupal-link-system-path="node/1100">Parks</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Parks section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Parks section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/parks" data-drupal-link-system-path="node/1100">Parks Directory</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/parks/commemorative-park-bench-tree-program" data-drupal-link-system-path="node/1165">Commemorative Park Bench &amp; Tree Program</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/trails-cycling" data-drupal-link-system-path="node/1113">Trails &amp; Cycling</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Trails &amp; Cycling section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Trails &amp; Cycling section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/trails-cycling/trails" data-drupal-link-system-path="node/1101">Trails</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/recreation-culture/trails-cycling/cycling" data-drupal-link-system-path="node/1114">Cycling</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/recreation-culture/community-connections/application-special-events" data-drupal-link-system-path="node/3673">Application for Special Events</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          
+                                              <a href="/business-development">Business & <br>Development</a>
+                      
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Business &amp; Development section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/business-development/current-projects" data-drupal-link-system-path="node/1117">Current Projects</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Current Projects section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Current Projects section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/current-projects/planning-development-applications" data-drupal-link-system-path="node/1118">Planning &amp; Development Applications</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/current-projects/construction-projects" data-drupal-link-system-path="node/1119">Construction Projects</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/current-projects/city-initiatives" data-drupal-link-system-path="node/1120">City Initiatives</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/business-development/housing" data-drupal-link-system-path="node/8854">Housing</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/business-development/planning-development" data-drupal-link-system-path="node/1121">Planning &amp; Development</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Planning &amp; Development section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Planning &amp; Development section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/development-zoning/building-inspections" data-drupal-link-system-path="node/1122">Building Inspections</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/planning-development/development-applications" data-drupal-link-system-path="node/1123">Development Applications</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/planning-development/financial-incentives" data-drupal-link-system-path="node/8856">Financial Incentives</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/planning-development/zoning-land-use" data-drupal-link-system-path="node/1124">Zoning &amp; Land Use</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Zoning &amp; Land Use section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/business-development/planning-development/zoning-land-use/zoning-law" data-drupal-link-system-path="node/1125">Zoning By-law</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/planning-development/municipal-plan-amendments" data-drupal-link-system-path="node/1127">Municipal Plan Amendments</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/business-development/permits-licenses" data-drupal-link-system-path="node/1129">Permits &amp; Licenses</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Permits &amp; Licenses section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Permits &amp; Licenses section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/accounts-payable-vendor-information" data-drupal-link-system-path="node/3325">Accounts Payable Vendor Information</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/building-permits" data-drupal-link-system-path="node/1130">Building Permits</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/business-permits-licences" data-drupal-link-system-path="node/1131">Business Permits &amp; Licences</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/liquor-licenses" data-drupal-link-system-path="node/1132">Liquor Licenses</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/plumbing-permits" data-drupal-link-system-path="node/2542">Plumbing Permits</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/sidewalk-cafe-permits" data-drupal-link-system-path="node/1133">Sidewalk Cafe Permits</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/sign-permits" data-drupal-link-system-path="node/1134">Sign Permits</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/taxi-drivers-license" data-drupal-link-system-path="node/1135">Taxi Drivers License</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/permits-licenses/tenders" data-drupal-link-system-path="node/3324">Tenders</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/business-development/economic-development" data-drupal-link-system-path="node/1136">Economic Development</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Economic Development section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Economic Development section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/economic-development/knowledge-capital" data-drupal-link-system-path="node/349763">Knowledge Capital</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/economic-development/ignite-economic-development" data-drupal-link-system-path="node/1141">Ignite</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/economic-development/boost-fredericton-living-lab" data-drupal-link-system-path="node/1137">BOOST Fredericton (Living Lab)</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the BOOST Fredericton (Living Lab) section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/business-development/economic-development/boost-fredericton-living-lab/booster-early-adopter" data-drupal-link-system-path="node/3645">Booster Early Adopter Program</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/business-development/economic-development/boost-fredericton-living-lab/smart-city-events" data-drupal-link-system-path="node/1140">Smart City Events</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/business-development/economic-development/boost-fredericton-living-lab/digital-infrastructure" data-drupal-link-system-path="node/1139">Digital Infrastructure</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/business-development/economic-development/boost-fredericton-living-lab/case-studies-chronicles" data-drupal-link-system-path="node/1138">Case Studies &amp; Chronicles</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/economic-development/demographic-profiles" data-drupal-link-system-path="node/9572">Demographic Profiles</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/business-development/heritage" data-drupal-link-system-path="node/1142">Heritage</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Heritage section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Heritage section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/heritage/heritage-resources-digital-library" data-drupal-link-system-path="node/350064">Heritage Resources Digital Library</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Heritage Resources Digital Library section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/business-development/heritage/properties" data-drupal-link-system-path="node/344568">Local Historic Places Register</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/business-development/heritage/preservation-law" data-drupal-link-system-path="node/1143">Preservation By-law</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded menu__item--active-trail">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          
+                                              <a href="/your-government">Your <br>Government</a>
+                      
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="true" aria-label="Close the Your Government section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/news" data-drupal-link-system-path="node/1147">News</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded menu__item--active-trail">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/mayor-council" data-drupal-link-system-path="node/1148">Mayor &amp; Council</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Mayor &amp; Council section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="true" aria-label="Close the Mayor &amp; Council section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/mayor-council/civic-engagement" data-drupal-link-system-path="node/477727">Civic Engagement</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/mayor-council/council-committee-meetings" data-drupal-link-system-path="node/1149">Council &amp; Committee Meetings</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/mayor-council/committees" data-drupal-link-system-path="node/1150">Committees</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/mayor-council/code-conduct" data-drupal-link-system-path="node/1151">Code of Conduct</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/mayor-council/request-appear" data-drupal-link-system-path="node/1152">Request to Appear</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/mayor-council/ward-map" data-drupal-link-system-path="node/1153">Ward Map</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/mayor-council/resolutions-dashboards" data-drupal-link-system-path="node/3346">Resolutions Dashboards</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/plans-strategies" data-drupal-link-system-path="node/1154">Plans &amp; Strategies</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/budget-finance" data-drupal-link-system-path="node/1156">Budget &amp; Finance</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Budget &amp; Finance section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Budget &amp; Finance section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/budget-finance/property-tax-information" data-drupal-link-system-path="node/1157">Property Tax Information</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/careers" data-drupal-link-system-path="node/1158">Careers</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Careers section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Careers section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/careers/student-summer-jobs" data-drupal-link-system-path="node/3637">Student Summer Jobs</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/careers/current-opportunities" data-drupal-link-system-path="node/1159">Current Opportunities</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/careers/physician-recruitment" data-drupal-link-system-path="node/1160">Physician Recruitment</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/laws" data-drupal-link-system-path="node/1161">By-Laws</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the By-Laws section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the By-Laws section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/laws/law-index" data-drupal-link-system-path="node/1162">By-Law Index</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/departments-divisions" data-drupal-link-system-path="node/1163">Departments &amp; Divisions</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/grants-awards" data-drupal-link-system-path="node/1164">Grants &amp; Awards</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/public-engagement" data-drupal-link-system-path="node/1166">Public Engagement</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/community-inclusion" data-drupal-link-system-path="node/1109">Community Inclusion</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Community Inclusion section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Community Inclusion section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/community-inclusion/211-new-brunswick" data-drupal-link-system-path="node/1110">211 New Brunswick</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/community-inclusion/anti-racism-task-force" data-drupal-link-system-path="node/1111">Anti-Racism Task Force</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-2">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/your-government/community-inclusion/support-seniors" data-drupal-link-system-path="node/1112">Support to Seniors</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/your-government/contact-directory" data-drupal-link-system-path="node/1191">Contact Directory</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          
+                                              <a href="/about-fredericton">About <br>Fredericton</a>
+                      
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the About Fredericton section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/about-fredericton/about-fredericton-history" data-drupal-link-system-path="node/1169">About Fredericton (History)</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/about-fredericton/new-fredericton" data-drupal-link-system-path="node/1170">New to Fredericton?</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/about-fredericton/calendar-events" data-drupal-link-system-path="node/1168">Calendar of Events</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/about-fredericton/trees-fredericton" data-drupal-link-system-path="node/3661">Trees of Fredericton</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/about-fredericton/environmental-initiatives" data-drupal-link-system-path="node/1172">Environmental Initiatives</a>
+          
+                                    <button class="submenu-trigger submenu-trigger--desktop" aria-haspopup="true" aria-expanded="false" aria-label="Open the Environmental Initiatives section of the menu"></button>
+              <button class="submenu-trigger submenu-trigger--mobile" aria-haspopup="true" aria-expanded="false" aria-label="Open the Environmental Initiatives section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-2">
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/about-fredericton/environmental-initiatives/climate-change-adaptation" data-drupal-link-system-path="node/1177">Climate Change Adaptation</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Climate Change Adaptation section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3 menu__item--collapsed">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/about-fredericton/environmental-initiatives/climate-change-adaptation/urban-forests-and-greenspaces" data-drupal-link-system-path="node/1179">Urban Forests and Greenspaces</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/floodmitigation" data-drupal-link-system-path="node/1181">Flood Mitigation</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/about-fredericton/environmental-initiatives/climate-change-adaptation/water-conservation-and-heat" data-drupal-link-system-path="node/3173">Water Conservation and Heat Adaptation</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-2 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-2">
+          
+                    <a href="/about-fredericton/environmental-initiatives/energy-emissions-plans" data-drupal-link-system-path="node/1182">Energy &amp; Emissions Plans</a>
+          
+                                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Energy &amp; Emissions Plans section of the menu"></button>
+                              </span>
+                <ul class="menu menu--level-3">
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/about-fredericton/environmental-initiatives/energy-emissions-plans/sustainable-city-operations" data-drupal-link-system-path="node/3174">Sustainable City Operations</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/about-fredericton/environmental-initiatives/energy-emissions-plans/waste-diversion" data-drupal-link-system-path="node/1174">Waste Diversion</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/about-fredericton/environmental-initiatives/energy-emissions-plans/sustainable-transportation" data-drupal-link-system-path="node/3175">Sustainable Transportation</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-3">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-3">
+          
+                    <a href="/about-fredericton/environmental-initiatives/energy-emissions-plans/sustainable-homes-and-buildings" data-drupal-link-system-path="node/3176">Sustainable Homes and Buildings</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/about-fredericton/first-nations-communities" data-drupal-link-system-path="node/1187">First Nations Communities</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/about-fredericton/open-data-portal-0" data-drupal-link-system-path="node/3507">Open Data Portal</a>
+          
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          
+                    <a href="/about-fredericton/web-cameras" data-drupal-link-system-path="node/3658">Web Cameras</a>
+          
+                  </span>
+              </li>
+        </ul>
+        </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+</header>	<main role="main" class="main">
+	<span class="main__border"></span>
+			<section class="messages-wrapper">
+		<div class="container">  <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+	</section>
+	  <div class="container">
+				<div class="sidebar sidebar--nav-only">
+						  <div class="region region-nav__section">
+    <nav role="navigation" aria-labelledby="block-fredericton-section-menu" id="block-fredericton-section" class="block block-menu navigation menu--main">
+      
+  <h2 id="block-fredericton-section-menu">Your Government</h2>
+  
+
+        
+        <ul class="menu menu--level-0">
+                <li class="menu__item menu__item--level-0">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/news" data-drupal-link-system-path="node/1147">News</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded menu__item--active-trail is-open">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/mayor-council" data-drupal-link-system-path="node/1148">Mayor &amp; Council</a>
+                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="true" aria-label="Close the Mayor &amp; Council section of the menu"></button>
+                  </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/mayor-council/civic-engagement" data-drupal-link-system-path="node/477727">Civic Engagement</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/mayor-council/council-committee-meetings" data-drupal-link-system-path="node/1149">Council &amp; Committee Meetings</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/mayor-council/committees" data-drupal-link-system-path="node/1150">Committees</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/mayor-council/code-conduct" data-drupal-link-system-path="node/1151">Code of Conduct</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/mayor-council/request-appear" data-drupal-link-system-path="node/1152">Request to Appear</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/mayor-council/ward-map" data-drupal-link-system-path="node/1153">Ward Map</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/mayor-council/resolutions-dashboards" data-drupal-link-system-path="node/3346">Resolutions Dashboards</a>
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/plans-strategies" data-drupal-link-system-path="node/1154">Plans &amp; Strategies</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/budget-finance" data-drupal-link-system-path="node/1156">Budget &amp; Finance</a>
+                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Budget &amp; Finance section of the menu"></button>
+                  </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/budget-finance/property-tax-information" data-drupal-link-system-path="node/1157">Property Tax Information</a>
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/careers" data-drupal-link-system-path="node/1158">Careers</a>
+                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Careers section of the menu"></button>
+                  </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/careers/student-summer-jobs" data-drupal-link-system-path="node/3637">Student Summer Jobs</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/careers/current-opportunities" data-drupal-link-system-path="node/1159">Current Opportunities</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/careers/physician-recruitment" data-drupal-link-system-path="node/1160">Physician Recruitment</a>
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/laws" data-drupal-link-system-path="node/1161">By-Laws</a>
+                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the By-Laws section of the menu"></button>
+                  </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/laws/law-index" data-drupal-link-system-path="node/1162">By-Law Index</a>
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/departments-divisions" data-drupal-link-system-path="node/1163">Departments &amp; Divisions</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-0">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/grants-awards" data-drupal-link-system-path="node/1164">Grants &amp; Awards</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-0">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/public-engagement" data-drupal-link-system-path="node/1166">Public Engagement</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-0 menu__item--expanded">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/community-inclusion" data-drupal-link-system-path="node/1109">Community Inclusion</a>
+                    <button class="submenu-trigger" aria-haspopup="true" aria-expanded="false" aria-label="Open the Community Inclusion section of the menu"></button>
+                  </span>
+                <ul class="menu menu--level-1">
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/community-inclusion/211-new-brunswick" data-drupal-link-system-path="node/1110">211 New Brunswick</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/community-inclusion/anti-racism-task-force" data-drupal-link-system-path="node/1111">Anti-Racism Task Force</a>
+                  </span>
+              </li>
+                <li class="menu__item menu__item--level-1">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-1">
+          <a href="/your-government/community-inclusion/support-seniors" data-drupal-link-system-path="node/1112">Support to Seniors</a>
+                  </span>
+              </li>
+        </ul>
+        </li>
+                <li class="menu__item menu__item--level-0">
+        <span class="menu__item-link-wrapper menu__item-link-wrapper--level-0">
+          <a href="/your-government/contact-directory" data-drupal-link-system-path="node/1191">Contact Directory</a>
+                  </span>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+					</div>
+				<div class="content" id="main-content">
+						  <div class="region region-nav__breadcrumbs">
+    <div id="block-fredericton-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav class="nav nav--breadcrumbs" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li><a href="/">Home</a></li>      <li><a href="/your-government">Your Government</a></li>      <li><a href="/your-government/mayor-council">Mayor &amp; Council</a></li>    </ol>
+  </nav>
+
+  </div>
+
+  </div>
+
+			
+			  <div class="region region-content">
+    <div id="block-fredericton-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Greg Ericson</span>
+</h1>
+
+
+  </div>
+<div id="block-fredericton-fredericton" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="3073" about="/your-government/mayor-council/greg-ericson" class="node node--type-councillor node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+      <div class="field field--name-field-image field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/medium/public/2023-04/greg_ericson.jpg?itok=vVAwG8zd" width="384" height="480" alt="greg_ericson.jpg" typeof="foaf:Image" class="image-style-medium" />
+
+
+</div>
+          </div>
+  
+            <div class="field field--name-field-councillor-title field--type-string field--label-hidden field__item">Councillor, Ward 8 (Skyline Acres)</div>
+      
+  <div class="field field--name-field-phone field--type-string field--label-inline">
+    <div class="field__label">Phone number</div>
+              <div class="field__item">506-470-4761</div>
+          </div>
+
+  <div class="field field--name-field-email field--type-email field--label-inline">
+    <div class="field__label">Email</div>
+              <div class="field__item"><a href="mailto:greg.ericson@fredericton.ca">greg.ericson@fredericton.ca</a></div>
+          </div>
+
+  <div class="field field--name-field-facebook field--type-link field--label-inline">
+    <div class="field__label">Facebook</div>
+              <div class="field__item"><a href="https://www.facebook.com/GregEricsonWard8">https://www.facebook.com/GregEricsonWard8</a></div>
+          </div>
+
+  <div class="field field--name-field-twitter field--type-link field--label-inline">
+    <div class="field__label">Twitter</div>
+              <div class="field__item"><a href="https://twitter.com/gregericson">https://twitter.com/gregericson</a></div>
+          </div>
+
+      <div class="field field--name-field-content-rows field--type-entity-reference-revisions field--label-hidden content-rows field__items">
+              <div class="field__item content-row" data-visible>  <div class="paragraph paragraph--type--content-row paragraph--view-mode--default">
+          
+      <div class="field field--name-field-row-component field--type-entity-reference-revisions field--label-hidden field__items content-row__component">
+              <div class="field__item">  <div class="paragraph paragraph--type--content paragraph--view-mode--default">
+          
+            <div class="clearfix text-formatted field field--name-field-content field--type-text-long field--label-hidden field__item"><p><strong>Greg Ericson</strong>&nbsp;is a former business owner and entrepreneur with over 30 years of experience in the service industry as an investor, owner, operator, manager and front-line service worker across more than a dozen firms.</p>
+<p>He is a proud graduate from UNB with a Bachelor of Arts (Honours) in Philosophy and Military History in 1992, a Diploma in University teaching from UNB in 2009, a Lean Six Sigma Championship certification from UNB in 2013, and a Pension Trustee certification for Shared Risk Pension Board from UNB in 2014.</p>
+<p>Coun. Ericson was first elected to Fredericton City Council in May 2012 and is currently serving his third term representing the people of Ward 8, having been re-elected in May 2021.</p>
+<p>His committee appointments during his last term in office included Chair of the Municipal Finance &amp; Corporate Administration Committee, as well as a member of the Economic Vitality Committee, Environmental Stewardship Committee, Governance &amp; Civic Engagement Committee, Livable Community Committee, the Fredericton Tree Commission, the Public Safety Committee, the Mayor's Working Group on Community / Post-Secondary Relations, and the Shared Risk Plan Board of Trustees. He also chaired the Fire &amp; Police Pension Board.</p>
+<p>His past Council experience includes acting as Chair of the Public Safety &amp; Environment Committee, Co-Chair of the Mayor’s Working Committee on Community /University Relations, and sitting on the Mayor’s Task Force on Syrian Government Assisted Refugee Settlement.</p>
+<p>Coun. Ericson lives in the Skyline Acres area with his wife, Dr. Nicole Coleen O’Byrne, a Professor of Law at UNB.</p>
+<p><strong>Committee Appointments:</strong></p>
+<ul>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0367f7d2-01eb-4087-bcb8-af26c90d84d5" href="/business-development/economic-development" media_library="Media Library" title="Economic Development">Economic Vitality Committee</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c9ffa808-cc0e-48bd-9379-01b3c32a2ff3" href="/your-government/mayor-council/committees/environmental-stewardship" media_library="Media Library" title="Environmental Stewardship">Environmental Stewardship Committee</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="4eaab7f1-21f4-4d03-8d07-01852e03c9fe" href="/your-government/mayor-council/committees/governance-civic-engagement-committee" media_library="Media Library" title="Governance &amp; Civic Engagement Committee">Governance &amp; Civic Engagement</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="ae93220b-5559-4375-a5de-b00eeca3e8df" href="/your-government/mayor-council/committees/livable-community-committee" media_library="Media Library" title="Livable Community Committee">Livable Community Committee</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="93ed58ab-a56d-4b33-a509-7765e569efeb" href="/your-government/mayor-council/committees/mobility-committee" media_library="Media Library" title="Mobility Committee">Mobility Committee</a></li>
+<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="d3f3e1f7-5d8b-45c1-9165-fda385bf2acb" href="/your-government/mayor-council/committees/municipal-finance-corporate-administration" media_library="Media Library" title="Municipal Finance &amp; Corporate Administration">Municipal Finance &amp; Corporate Administration Committee</a>, Chair</li>
+<li>Negotiations Liaison Committee, Member</li>
+<li><a href="https://www.fredericton.ca/en/your-government/mayor-council/committees/planning-advisory-committee-pac" media_library="Media Library">Planning Advisory Committee</a></li>
+<li><a href="https://www.fredericton.ca/en/your-government/mayor-council/committees/public-safety-committee" media_library="Media Library">Public Safety Committee</a></li>
+<li>Superannuation Administration Committee (Police &amp; Fire- By-Law 13), Chair</li>
+<li>Regional Service Commission (alternate)</li>
+</ul>
+</div>
+      
+      </div>
+</div>
+          </div>
+  
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+		</div>
+  </div>
+</main>
+<footer id="footer" class="footer" role="contentinfo">
+      <div class="footer__top">
+      <div class="footer__top-left">
+        <img class="wave-white" src="/themes/custom/fredericton/images/footer-wave-white.png" alt="">
+        <img class="wave" src="/themes/custom/fredericton/images/footer-wave.png" alt="">
+        <img class="wave-mobile" src="/themes/custom/fredericton/images/wave-blue.png" alt="">
+      </div>
+      <div class="footer__top-right">  <div class="footer__top-titles">
+          <h2 class="first">Find City Hall</h2>
+      <h2 class="second">Connect with the City of Fredericton</h2>
+      </div>
+  <div class="region region-footer">
+    <div id="block-address-hours" class="block block-block-content block-block-content16460f94-d824-4bc0-9ad3-5b07a76ec13d">
+  
+    
+      
+
+    
+            <div class="contact-block">
+        <h2 class="desktop-hidden--l">Find City Hall</h2>
+        <span class="label">Address: </span><address class="contact-block">397 Queen Street <br />
+Fredericton, NB, Canada<br />
+E3B 1B5</address>                <div class="contact-hours">
+          <div class="hours-block">
+            <h3 class="h6">Hours:</h3>            <p>Monday to Friday</p>
+          </div>
+                              <div class="hours-block">
+                        <p>8:15am to 4:30pm</p>
+          </div>
+                              <div class="hours-block">
+                        <p>(excluding holidays)</p>
+          </div>
+        </div>
+              </div>
+      
+    
+  </div><div id="block-contact-info" class="block block-block-content block-block-contentf46aa4cf-6d10-45cc-a442-f4419c7bac91">
+  
+    
+      
+
+    
+      <h2 class="desktop-hidden--l">Connect with the City of Fredericton</h2>
+      <h3 class="h6">Service Fredericton:</h3>      <div class="contact-block">1+ (506) 460-2020</div>                  <div class="contact-block contact-block--has-icon"><span class="contact-block__icon fa-regular fa-at" aria-hidden="true"></span><a href="mailto:service@fredericton.ca">Email Service Fredericton</a></div>      <div class="contact-block contact-block--has-icon"><span class="contact-block__icon fa-regular fa-book-open" aria-hidden="true"></span><a href="/node/1191">Contact Directory</a></div>
+    
+  </div>
+<div id="block-footer-quicklinks" class="block block-block-content block-block-contentb03db1aa-ec13-4272-98ec-c75531002265">
+      
+
+    
+        <div class="nav nav--footer-quicklinks">
+      <ul class="menu">
+        <li class="menu__item"><a href="/node/1194"><span class="fa-regular fa-user-circle" aria-hidden="true"></span>Employee Portal</a></li>        <li class="menu__item"><a href="/node/3385"><span class="fa-light fa-envelope" aria-hidden="true"></span>Newsletter Subscription</a></li>        <li class="menu__item"><a href="/node/2531"><span class="fa-regular fa-file-check" aria-hidden="true"></span>Terms of Use</a></li>        <li class="menu__item"><a href="/node/2532"><span class="fa-regular fa-shield-exclamation" aria-hidden="true"></span>Right to Information</a></li>        <li class="menu__item"><a href="/node/3692"><span class="fa-light fa-file-exclamation" aria-hidden="true"></span>Privacy Policy</a></li>      </ul>
+    </div>
+    
+  
+  </div>
+  </div>
+</div>
+    </div>
+    <div class="footer__bottom">
+      <div class="container">
+        <div class="footer__bottom-left">
+          <p class="footer__copyright">&copy; City of Fredericton 2025</p>
+            <div class="region region-footer-bottom">
+    <div id="block-fredericton-socialmedia" class="block block-block-content block-block-content2c84f888-22bb-4de5-8eb1-a30c39307e03">
+  
+    
+      
+
+    
+            <div class="nav nav--social">
+        <ul class="menu">
+          <li class="menu__item"><a href="https://www.youtube.com/user/CityOfFredericton"><span class="fa-brands fa-youtube" aria-hidden="true"></span></a></li>          <li class="menu__item"><a href="https://www.facebook.com/CityOfFredericton"><span class="fa-brands fa-facebook" aria-hidden="true"></span></a></li>          <li class="menu__item"><a href="https://twitter.com/CityFredGov"><span class="fa-brands fa-square-x-twitter" aria-hidden="true"></span></a></li>          <li class="menu__item"><a href="https://www.linkedin.com/company/city-of-fredericton/"><span class="fa-brands fa-linkedin" aria-hidden="true"></span></a></li>          <li class="menu__item"><a href="https://www.instagram.com/cityoffredericton/"><span class="fa-brands fa-instagram" aria-hidden="true"></span></a></li>        </ul>
+      </div>
+      
+      </div>
+  </div>
+
+        </div>
+      </div>
+    </div>
+  </footer>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/3073","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1kOFqBCEMhF_Inr_6PJLVWVc2JmIUbvv0Fdql3EH_Zb6BSSYbxkAPeDY1pLAXXtJ8hqATu8hkdvmNDPdcYUYZdmvRtDzVsyCqGGT4F_VRi7z5tpYWyStCO1ZAr8TlCw7PwUVOn_psxI9f6faOhF7iUPG7yrAXklm3dWlWzYxAQnyNEleFN-Aadcqd2mH3gj_ymNLmxsUOJGegHo9ArQSaQ6PWxhjw_3Bnlw3UnyetXJktUFqtfTw_vwH1WIsZ","theme":"fredericton","theme_token":null},"ajaxTrustedUrl":{"\/search":true},"cookieconsent":{"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Close","learnMore":"More info.","link":"","path":"\/","expiry":365,"target":"_self","domain":".www.fredericton.ca","markup":"\u003Cdiv class=\u0022cc_banner cc_container cc_container--open\u0022 id=\u0022cc_banner\u0022\u003E\n  \u003Cp class=\u0022cc_message\u0022\u003EThis website uses cookies to ensure you get the best experience on our website \u003Ca data-cc-if=\u0022options.link\u0022 target=\u0022_self\u0022 class=\u0022cc_more_info\u0022 href=\u0022\u0022\u003EMore info.\u003C\/a\u003E\u003C\/p\u003E\n  \u003Cbutton data-cc-event=\u0022click:dismiss\u0022 class=\u0022cc_btn cc_btn_accept_all\u0022 aria-controls=\u0022cc_banner\u0022\u003EClose\u003C\/button\u003E\n\u003C\/div\u003E\n","container":null,"theme":""},"google_analytics":{"account":"G-M7BY6F321Z","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"search_api_autocomplete":{"search_solr":{"auto_submit":true,"min_length":3}},"user":{"uid":0,"permissionsHash":"107ad179a44cbd7c89a67ffb16f43a8f6b9c2ee2c115662f391d3bf91ba0d85e"}}</script>
+<script src="/sites/default/files/js/js_NXQIcl3oCD4OzX-vqGQcIj758fE2fhlpvhfVtS_L_Bo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=fredericton&amp;include=eJx1jUEKwzAMBD_k1k8yirJxRRTJ2Aqkv68PvaTQ4wzsLLvvAnYbsMgDEWJ1JL7pGz0OsVTdq6KQkb5DeORfkbaOFV043HJVX0gTrlCxPa_9bKTPL6ZlnqIXXM0H1rKJTpxFGPpcDVDnV6Emhc5w9qMpAvmP_wBEqlOl"></script>
+<script src="https://kit.fontawesome.com/5cfddd6fef.js"></script>
+<script src="/sites/default/files/js/js_ylPjNtdV98NmzwVU4ssQLoB35krXMPC58COp5acqtSg.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=fredericton&amp;include=eJx1jUEKwzAMBD_k1k8yirJxRRTJ2Aqkv68PvaTQ4wzsLLvvAnYbsMgDEWJ1JL7pGz0OsVTdq6KQkb5DeORfkbaOFV043HJVX0gTrlCxPa_9bKTPL6ZlnqIXXM0H1rKJTpxFGPpcDVDnV6Emhc5w9qMpAvmP_wBEqlOl"></script>
+
+  </body>
+</html>

@@ -1,0 +1,541 @@
+status: 200
+encoding: ISO-8859-1
+Date: Sat, 09 Aug 2025 05:44:36 GMT
+Last-Modified: Thu, 03 Apr 2025 17:04:05 GMT
+Accept-Ranges: bytes
+ntCoent-Length: 28804
+X-UA-Compatible: IE=Edge
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: origin, x-requested-with, content-type, GET
+Content-Type: text/html
+Server: na
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: sameorigin
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: geolocation=(self),display-capture=(self)
+Connection: close
+Strict-Transport-Security: max-age=157680000; includeSubDomains; preload
+
+<!DOCTYPE html>
+<html lang="en"><!-- InstanceBegin template="/Templates/secondary.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>MLA Alphabetical Listing</title>
+<!-- InstanceEndEditable -->
+
+<meta charset="UTF-8">
+
+<meta name="description" content="This site contains information on Members of the Legislative Assembly of Manitoba, Votes and Proceedings, Question Period, Order Paper, Bill Status, Legislation, Legislative Committees, Hansard Services and various information for the public.">
+
+<meta name="keywords" content="MLA, members, Manitoba Legislative Assembly, Legislature, NDP, Liberal, Conservative, Parliament, question period, how laws are made, petitions, order paper, bills, committees, Cabinet Minister, page program, internship, Hansard">
+
+<meta name="author" content="Legislative Assembly of Manitoba">
+
+<meta name="robots" content="index, follow">
+
+<meta name="googlebot" content="index, follow">
+
+<meta name="revisit-after" content="3 month">
+
+<!-- Members, Bills, Question Period -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+
+<link rel="stylesheet" type="text/css" href="../css/styles.css">
+<link rel="stylesheet" type="text/css" href="../css/ie7.css">
+<style type="text/css">
+.english.secondary footer .footer_content .copyright a {
+	color: #FFF;
+}
+</style>
+	<!-- Pulled from http://code.google.com/p/html5shiv/ -->
+	
+	<script src="../js/html5.js"></script>
+		
+	<!-- Add jQuery library -->
+	<script type="text/javascript" src="../js/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="../js/jquery.jfontsize-1.0.pack.js"></script>
+	<script type="text/javascript" src="../js/imagesloaded.pkgd.min.js"></script>
+	<script type="text/javascript" src="../js/matchMedia.js"></script>
+    
+	<!-- InstanceBeginEditable name="head" -->
+	<!-- InstanceEndEditable -->
+	<script type="text/javascript" src="../js/theme.js"></script>
+    
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-48034119-1', 'gov.mb.ca');
+  ga('send', 'pageview');
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+    </script>
+
+</head>
+<!--[if lte IE 7]>	<body class="english secondary ie7"> <![endif]-->
+<!--[if gte IE 8 | !(IE)]><!--> <body class="english secondary" onLoad="MM_preloadImages('../img/facebook2.png','../img/linkedin2.png')"> <!--<![endif]-->
+
+
+<div class="wrapper">
+	<header>
+		<div class="header_content">
+			<div class="top_bar">
+				<div class="top_bar_links">
+					<a href="../index.html">Home</a> |
+					<!-- InstanceBeginEditable name="Toplinks" -->
+						<a href="mla_list_alphabetical.fr.html">Fran&ccedil;ais</a> |
+
+				<!-- InstanceEndEditable -->
+					<a href="../about/contact.html">Contact Us</a>
+				</div>
+				<label for="search">Search</label>
+              
+				<form method="get" action="//manitoba.ca/legislature/search.html">                  
+                    <input type="text" name="opq" id="search">
+                    <input type="submit" id="btnSearch" value="GO" />
+                </form>
+				
+				<div class="font_size_changer">
+					<a id="jfontsize-plus" href="#">A</a>
+					<a id="jfontsize-default" href="#">A</a>
+					<a id="jfontsize-minus" href="#">A</a>
+				</div>
+
+			</div>
+			<div class="banner_container">
+				<img src="../img/header_left.png" alt="" class="banner_left">
+				<div class="banner">
+					<img src="../img/header_bg2.png" alt="Chamber" class="banner_img">
+					<div class="crest_container">
+						<a href="../index.html"><img src="../img/crest.png" alt="Manitoba Augmented Coat of Arms"></a>
+					</div>
+					<div class="site_title">The Legislative Assembly <em>of</em> Manitoba</div>
+				</div>
+				<img src="../img/header_right.png" alt="" class="banner_right">
+			</div>
+			 
+			<nav class="header_menu">
+			<a id="menu_button" href="#"><img src="../img/menu_button.png" alt="Menu Buttom"></a><!-- #BeginLibraryItem "/Library/header_nav_en.lbi" --><ul>
+					<li><a href="../about/index.html">About</a></li>
+					<li><a href="../business/index.html">Legislative Business</a></li>
+					<li><a href="index.html">Members</a></li>
+					<li><a href="../committees/index.html">Committees</a></li>
+					<li><a href="../hansard/hansard.html">Hansard</a></li>
+					<li><a href="../visiting/index.html">Visiting</a></li>
+					<li><a href="../education/index.html">Education</a></li>
+					<li><a href="../resources/index.html">Resources</a></li>
+				</ul><!-- #EndLibraryItem --></nav>
+		</div>
+	</header>
+	<section class="mid">
+		<div class="content_container">
+			<div class="sidebar">
+				<a id="sidebar_button" href="#"><img src="../img/sidebar_button.png" alt=""></a>
+				<!-- InstanceBeginEditable name="Sidebar" --><!-- #BeginLibraryItem "/Library/nav_en_members.lbi" -->		<ul>
+		    <li class="head"><a href="index.html">Members</a></li>
+			<li><a href="speaker.html">Speaker of the House</a></li>
+			<li><a href="mla_photos.html">MLA Photographs</a></li>
+			<li><a href="mla_list_alphabetical.html">MLA Alphabetical Listing</a></li>
+			<li><a href="mla_list_constituency.html">MLA Constituency Listing</a></li>
+			<li><a href="cabinet_ministers.html">Cabinet Ministers</a></li>
+			<li><a href="pf/seatingplan.pdf">Chamber Seating Plan</a></li>
+			<li><a href="http://www.electionsmanitoba.ca/en/Voting/MLA" target="_blank">Who is my MLA?</a></li>
+			<li><a href="members_history.html">Members' History</a></li>
+			<li><a href="mla_bio_living.html">MLA Biographies- Living</a></li>
+			<li><a href="mla_bio_deceased.html">MLA Biographies- Deceased</a></li>
+			<li><a href="caucus_offices.html">Caucus Offices</a></li>
+			<li><a href="remuneration.html">MLA Allowances and Remuneration</a></li>
+	    </ul><!-- #EndLibraryItem --><!-- InstanceEndEditable -->
+			</div>
+
+			<div class="content">
+				<div class="breadcrumbs">
+					<!-- InstanceBeginEditable name="Breadcrumbs" -->
+						<a href="../index.html">Home</a> &gt; <a href="../members/index.html">Members</a> &gt; MLA Alphabetical Listing
+					<!-- InstanceEndEditable -->
+				</div>
+				<!-- InstanceBeginEditable name="Main Content" -->
+				  <h1>MLA Alphabetical Listing</h1>
+				  <img src="../img/members_head.jpg" alt="Members" class="page_graphic">
+			    <hr>
+					
+				  <h2>Alphabetical List by Members' Name:   </h2>
+	            <div class="calendar_wrap">
+		            <table>
+		              <tbody>
+		                <tr>
+		                  <th width="212" align="left" valign="middle"><div align="left"> Member </div></th>
+		                  <th width="214" align="left" valign="middle"><div align="left"> Constituency </div></th>
+		                  <th width="97" align="left" valign="middle"><div align="left"> Party </div></th>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/asagwara.html">ASAGWARA, Hon. Uzoma</a></td>
+		                  <td align="left" valign="middle">Union Station</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/balcaen.html">BALCAEN, Wayne</a></td>
+		                  <td align="left" valign="middle">Brandon West</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/bereza.html">BEREZA, Jeff</a><a href="info/wishart.fr.html"></a></td>
+		                  <td align="left" valign="middle">Portage-la-Prairie</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/blashko.html">BLASHKO, Tyler</a></td>
+		                  <td align="left" valign="middle">Lagimodière</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/brar.html">BRAR, Diljeet</a></td>
+		                  <td align="left" valign="middle">Burrows</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/bushie.html">BUSHIE, Hon. Ian</a></td>
+		                  <td align="left" valign="middle">Keewatinook</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/byram.html">BYRAM, Jodie</a></td>
+		                  <td align="left" valign="middle">Agassiz</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/cable.html">CABLE, Hon. Renée</a></td>
+		                  <td align="left" valign="middle">Southdale</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/chen.html">CHEN, Jennifer</a></td>
+		                  <td align="left" valign="middle">Fort Richmond</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/compton.html">COMPTON, Carla</a></td>
+		                  <td align="left" valign="middle">Tuxedo</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/cook.html">COOK, Kathleen</a></td>
+		                  <td align="left" valign="middle">Roblin</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/corbett.html">CORBETT, Shannon</a></td>
+		                  <td align="left" valign="middle">Transcona</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/cross.html">CROSS, Billie</a></td>
+		                  <td align="left" valign="middle">Seine River</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/delacruz.html">DELA CRUZ, Jelynn</a></td>
+		                  <td align="left" valign="middle">Radisson</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/devgan.html">DEVGAN, JD</a></td>
+		                  <td align="left" valign="middle">McPhillips</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/ewasko.html">EWASKO,  Wayne</a></td>
+		                  <td align="left" valign="middle">Lac du Bonnet</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/fontaine.html">FONTAINE, Hon. Nahanni</a></td>
+		                  <td align="left" valign="middle">St. Johns</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/goertzen.html">GOERTZEN,  Kelvin</a></td>
+		                  <td align="left" valign="middle">Steinbach</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/guenter.html">GUENTER, Josh</a></td>
+		                  <td align="left" valign="middle">Borderland</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/hiebert.html">HIEBERT, Carrie</a></td>
+		                  <td align="left" valign="middle">Morden-Winkler</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/johnson.html">JOHNSON, Derek</a></td>
+		                  <td align="left" valign="middle">Interlake-Gimli</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/kennedy.html">KENNEDY, Hon. Nellie</a></td>
+		                  <td align="left" valign="middle">Assiniboia</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/khan.html">KHAN, </a><a href="info/khan.html">Obby</a></td>
+		                  <td align="left" valign="middle">Fort Whyte</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/kinew.html">KINEW, Hon. </a> <a href="info/kinew.html">Wab</a></td>
+		                  <td align="left" valign="middle">Fort Rouge</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/king.html"> KING,  
+		                    Trevor</a></td>
+		                  <td align="left" valign="middle">Lakeside</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/kostyshyn.html">KOSTYSHYN, Hon. Ron</a></td>
+		                  <td align="left" valign="middle">Dauphin</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/lagasse.html">LAGASSÉ, Bob</a></td>
+		                  <td align="left" valign="middle">Dawson Trail</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/lamoureux.html">LAMOUREUX, Cindy</a></td>
+		                  <td align="left" valign="middle">Tyndall Park</td>
+                          <td align="left" valign="middle">IND LIB</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/lathlin.html">LATHLIN, Amanda</a></td>
+		                  <td align="left" valign="middle">The Pas-Kameesak</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/lindsey.html">LINDSEY, Hon. Tom</a></td>
+		                  <td align="left" valign="middle">Flin Flon</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/loiselle.html">LOISELLE, Robert</a></td>
+		                  <td align="left" valign="middle">St. Boniface</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/maloway.html">MALOWAY,  Jim</a></td>
+		                  <td align="left" valign="middle">Elmwood</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/marcelino.html">MARCELINO, Hon. Malaya</a></td>
+		                  <td align="left" valign="middle">Notre Dame</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/moroz.html">MOROZ, Hon. Mike</a></td>
+		                  <td align="left" valign="middle">River Heights</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/moses.html">MOSES, Hon. Jamie</a></td>
+		                  <td align="left" valign="middle">St. Vital</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/moyes.html">MOYES, Hon. Mike</a></td>
+		                  <td align="left" valign="middle">Riel</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/narth.html">NARTH, Konrad</a></td>
+		                  <td align="left" valign="middle">La V&eacute;rendrye</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/naylor.html">NAYLOR, Hon. Lisa</a></td>
+		                  <td align="left" valign="middle">Wolseley</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/nesbitt.html">NESBITT,  Greg</a></td>
+		                  <td align="left" valign="middle">Riding Mountain</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/oxenham.html">OXENHAM, Logan</a></td>
+		                  <td align="left" valign="middle">Kirkfield Park</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/pankratz.html">PANKRATZ, David</a></td>
+		                  <td align="left" valign="middle">Waverley</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/perchotte.html">PERCHOTTE, Richard</a></td>
+		                  <td align="left" valign="middle">Selkirk</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/piwniuk.html">PIWNIUK,  Doyle </a></td>
+		                  <td align="left" valign="middle">Turtle Mountain</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/redhead.html">REDHEAD, Eric</a></td>
+		                  <td align="left" valign="middle">Thompson</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/sala.html">SALA, Hon. Adrien</a></td>
+		                  <td align="left" valign="middle">St. James</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/sandhu.html">SANDHU, Hon. Mintu</a></td>
+		                  <td align="left" valign="middle">The Maples</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/schmidt.html">SCHMIDT, Hon. Tracy</a></td>
+		                  <td align="left" valign="middle">Rossmere</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/schott.html">SCHOTT, Rachelle</a></td>
+		                  <td align="left" valign="middle">Kildonan-River East</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/schuler.html">SCHULER,  Ron</a></td>
+		                  <td align="left" valign="middle">Springfield-Ritchot</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/simard.html">SIMARD, Hon. Glen</a></td>
+		                  <td align="left" valign="middle">Brandon East</td>
+		                  <td align="left" valign="middle">NDP</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/smith.html">SMITH, Hon. Bernadette</a></td>
+		                  <td align="left" valign="middle">Point Douglas</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/stone.html">STONE, Lauren</a></td>
+		                  <td align="left" valign="middle">Midland</td>
+		                  <td align="left" valign="middle">PC</td>
+	                    </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/wasyliw.html">WASYLIW, Mark</a></td>
+		                  <td align="left" valign="middle">Fort Garry</td>
+                          <td align="left" valign="middle">IND</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/wharton.html">WHARTON,  Jeff</a></td>
+		                  <td align="left" valign="middle">Red River North</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/wiebe.html">WIEBE, Hon. Matt</a></td>
+		                  <td align="left" valign="middle">Concordia</td>
+                          <td align="left" valign="middle">NDP</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle"><a href="info/wowchuk.html">WOWCHUK, Rick</a></td>
+		                  <td align="left" valign="middle">Swan River</td>
+                          <td align="left" valign="middle">PC</td>
+                        </tr>
+		                <tr>
+		                  <td align="left" valign="middle">Vacant</td>
+		                  <td align="left" valign="middle">Spruce Woods</td>
+		                  <td align="left" valign="middle">&nbsp;</td>
+	                    </tr>
+	                  </tbody>
+	              </table>
+	            </div>
+	            <h3><a href="pf/alphabetical_pf.pdf"><img src="../img/printer.png" alt="Printer Friendly"> Member's Contact Information - Printer Friendly</a></h3>
+				  <h2>Current Party Standings:</h2>
+			    <table>
+				    <tr>
+				      <th><div align="left">Party</div></th>
+				      <th><div align="left">Number of Members</div></th>
+			        </tr>
+				    <td>NDP - New Democratic Party</td>
+				      <td><div align="center">34</div></td>
+			   	    <tr>
+				      <td>PC - Progressive Conservative Party</td>
+				      <td><div align="center">20</div></td>
+			        </tr>
+				    <tr>
+				      <td>LIB - Liberal Party</td>
+				      <td><div align="center">1</div></td>
+			        </tr>
+				    <tr>
+				      <td>IND - Independent</td>
+				      <td><div align="center">1</div></td>
+			      </tr>
+				    <tr>
+				      <td>Vacant</td>
+				      <td valign="middle"><div align="center">1</div></td>
+			      </tr>
+				    <tr>
+				      <td><strong>Total Ridings</strong></td>
+				      <td valign="middle"><div align="center"><strong>57</strong></div></td>
+			        </tr>
+			    </table>
+			  <!-- InstanceEndEditable -->
+			</div><!--end content-->
+		</div>
+	</section>
+	<div class="push"></div>
+</div><!--end wrapper-->
+
+<footer>
+	<div class="footer_content">
+		<nav class="footer_links"> <span class="inquiry"><strong>Follow us</strong></span><br>		  
+	      <a href="https://www.facebook.com/LegAssemblyofMB/" target="_blank" onMouseOver="MM_swapImage('Image17','','../img/facebook2.png',1)" onMouseOut="MM_swapImgRestore()"><img src="../img/facebook1.png" alt="Facebook" width="36" height="50" id="Image17" title="Facebook"></a><a href="https://www.instagram.com/legassemblyofmb/" target="_blank" onMouseOver="MM_swapImage('Image12','','../img/instagram2.png',1)" onMouseOut="MM_swapImgRestore()"><img src="../img/instagram1.png" alt="Instagram" width="50" height="50" id="Image12" title="Instagram"></a><a href="https://twitter.com/MBLegislature" target="_blank"
+		  ><img src="../img/twitter1.png" alt="Twitter" width="50" height="50" id="Image1" title="Twitter" onMouseOver="MM_swapImage('Image1','','../img/twitter2.png',1)" onMouseOut="MM_swapImgRestore()"/></a><a href="https://www.linkedin.com/company/the-legislative-assembly-of-manitoba/" target="_blank" onMouseOver="MM_swapImage('Image15','','../img/linkedin2.png',1)" onMouseOut="MM_swapImgRestore()"><img src="../img/linkedin1.png" alt="LinkedIn" width="50" height="50" id="Image15" title="LinkedIn"></a><a href="https://www.youtube.com/channel/UCHMLIqXccBvj2zH2g3WwXpw" target="_blank" onMouseOver="MM_swapImage('Image16','','../img/youtube2.png',1)" onMouseOut="MM_swapImgRestore()"><img src="../img/youtube1.png" alt="YouTube" width="50" height="50" id="Image16" title="YouTube"></a><!-- #BeginLibraryItem "/Library/nav_en_footer_links.lbi" --><ul>
+	<li><a href="../site_map.html">Site Map</a></li>
+	<li><a href="https://www.gov.mb.ca/" target="_blank">Manitoba Government</a></li>
+    <li><a href="../resources/related_sites.html">Related Sites</a></li>
+    <li><a href="../copyright.html">Copyright</a></li>
+</ul>
+<!-- #EndLibraryItem --></nav>
+    
+		<div class="clear"></div>
+		<div class="inquiry">Inquiries or comments about this Website can be made to:  <a href="mailto:web@leg.gov.mb.ca">web@leg.gov.mb.ca</a></div>
+	</div>
+</footer>
+</body>
+<!-- InstanceEnd --></html>

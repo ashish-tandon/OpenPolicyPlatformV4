@@ -1,0 +1,57 @@
+name: Supervisor Checks
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  push:
+    branches: [ main ]
+  pull_request:
+
+jobs:
+  supervise:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install frontend deps
+        run: |
+          cd web
+          npm ci --no-audit --no-fund
+      - name: Install minimal python deps
+        run: |
+          pip install fastapi uvicorn pydantic pydantic-settings pytest
+      - name: Run supervisor checks
+        run: |
+          chmod +x scripts/supervisor_check.sh
+          ./scripts/supervisor_check.sh --interval 5 || true
+      - name: Upload supervision reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: supervision-reports
+          path: reports/supervision/
+          retention-days: 7
+        continue-on-error: true
+      - name: Check for critical failures
+        run: |
+          if [ -f reports/supervision/checkpoint-*.json ]; then
+            echo "Checking latest supervisor report..."
+            latest_report=$(ls -t reports/supervision/checkpoint-*.json | head -1)
+            if [ -n "$latest_report" ]; then
+              echo "Latest report: $latest_report"
+              # Check if any critical checks failed
+              if jq -e '.architecture.ok == false or .ownership.ok == false or .backend_tests.ok == false or .frontend_types.ok == false' "$latest_report" >/dev/null 2>&1; then
+                echo "❌ Critical supervisor checks failed!"
+                cat "$latest_report"
+                exit 1
+              else
+                echo "✅ All critical supervisor checks passed"
+              fi
+            fi
+          else
+            echo "No supervisor reports found"
+          fi

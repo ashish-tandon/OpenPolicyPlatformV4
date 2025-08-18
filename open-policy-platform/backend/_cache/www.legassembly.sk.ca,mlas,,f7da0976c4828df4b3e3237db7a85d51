@@ -1,0 +1,1455 @@
+status: 200
+encoding: utf-8
+Content-Type: text/html; charset=utf-8
+Date: Sat, 09 Aug 2025 05:44:36 GMT
+Content-Encoding: gzip
+Set-Cookie: ARRAffinity=50b6861f98bf6bea86bd021c970c6c1acb83cb1fed3571f66827e0818adc91eb;Path=/;HttpOnly;Secure;Domain=www.legassembly.sk.ca, ARRAffinitySameSite=50b6861f98bf6bea86bd021c970c6c1acb83cb1fed3571f66827e0818adc91eb;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.legassembly.sk.ca
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=2592000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: no-referrer
+Permissions-Policy: geolocation=(), microphone=()
+
+<!doctype html>
+<html lang="en">
+
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="/img/favicon.ico" />
+
+    <!-- jQuery -->
+    <script src="/deps/jquery/jquery-3.7.0.min.js"></script>
+    <script src="/deps/jquery/jquery.validate.min.js"></script>
+    <script src="/deps/jquery/jquery.validate.unobtrusive.js"></script>
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="/deps/bootstrap-5.3.3-dist/css/bootstrap.min.css">
+    <script src="/deps/bootstrap-5.3.3-dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LT025VNX52"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-LT025VNX52');
+    </script>
+
+    <!-- Cludo -->
+    <!-- For some unknown reason, the Cludo initialization script does not work here. It's at the bottom of
+    _Footer.cshtml instead. -->
+    <script type="text/javascript" src="//customer.cludo.com/scripts/bundles/search-script.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="//customer.cludo.com/css/overlay/cludo-search-default.min.css">
+
+    <link rel="stylesheet" href="/css/main.css" />
+
+    <title>MLAs</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="mobile-and-top-nav-container d-md-flex">
+                <div id="cludo-parent"></div>
+                <div class="d-md-none">
+                    
+
+
+<nav class="navbar navbar-light navbar-expand-md navbar-outer">
+    <a class="ms-3 d-md-none" href="/"><img class="logo-mobile" src="/img/logo-mobile.png" /></a>
+    <button 
+        class="navbar-toggler ms-auto me-2"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>    
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mb-2 mb-md-0">
+            <li class="nav-item assembly"><a href="/" title="Home">Home</a></li>
+            <li class="nav-item dropdown assembly">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/about/"
+                    role="button"
+                    title="About"
+                    aria-expanded="false">
+                    About
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/about/" title="About">About</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/about/plan-a-visit/" title="Plan a Visit">Plan a Visit</a>
+            <a class="dropdown-item" href="/about/how-the-legislative-assembly-works/" title="How the Legislative Assembly Works">How the Legislative Assembly Works</a>
+            <a class="dropdown-item" href="/about/attend-a-sitting/" title="Attend a Sitting">Attend a Sitting</a>
+            <a class="dropdown-item" href="/about/roles-in-the-legislative-assembly/" title="Roles in the Legislative Assembly">Roles in the Legislative Assembly</a>
+            <a class="dropdown-item" href="/about/saskatchewans-legislative-building/" title="Saskatchewan&#x27;s Legislative Building">Saskatchewan&#x27;s Legislative Building</a>
+            <a class="dropdown-item" href="/about/rules/" title="Rules">Rules</a>
+            <a class="dropdown-item" href="/about/officers/" title="Officers">Officers</a>
+            <a class="dropdown-item" href="/about/employment/" title="Employment">Employment</a>
+            <a class="dropdown-item" href="/about/parliamentary-programs/" title="Parliamentary Programs">Parliamentary Programs</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown assembly">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/mlas/"
+                    role="button"
+                    title="MLAs"
+                    aria-expanded="false">
+                    MLAs
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/mlas/" title="MLAs">MLAs</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/mlas/board-of-internal-economy/" title="Board of Internal Economy">Board of Internal Economy</a>
+            <a class="dropdown-item" href="/mlas/codes-of-conduct/" title="Codes of Conduct">Codes of Conduct</a>
+            <a class="dropdown-item" href="/mlas/mla-disclosure-statements/" title="MLA Disclosure Statements">MLA Disclosure Statements</a>
+            <a class="dropdown-item" href="/mlas/caucus-financial-statements/" title="Caucus Financial Statements">Caucus Financial Statements</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown assembly">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/legislative-business/"
+                    role="button"
+                    title="Legislative Business"
+                    aria-expanded="false">
+                    Legislative Business
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/legislative-business/" title="Legislative Business">Legislative Business</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/legislative-business/calendar/" title="Find Assembly Records">Find Assembly Records</a>
+            <a class="dropdown-item" href="/legislative-business/legislative-committees/" title="Legislative Committees">Legislative Committees</a>
+            <a class="dropdown-item" href="/legislative-business/debates-hansard/" title="Debates (Hansard)">Debates (Hansard)</a>
+            <a class="dropdown-item" href="/legislative-business/minutes-votes/" title="Minutes (Votes)">Minutes (Votes)</a>
+            <a class="dropdown-item" href="/legislative-business/orders-of-the-day/" title="Orders of the Day">Orders of the Day</a>
+            <a class="dropdown-item" href="/legislative-business/bills/" title="Bills">Bills</a>
+            <a class="dropdown-item" href="/legislative-business/estimates/" title="Estimates">Estimates</a>
+            <a class="dropdown-item" href="/legislative-business/journals/" title="Journals">Journals</a>
+            <a class="dropdown-item" href="/legislative-business/watch-legislative-proceedings/" title="Watch Legislative Proceedings">Watch Legislative Proceedings</a>
+            <a class="dropdown-item" href="/legislative-business/archive/" title="Legislative Meeting Archive">Legislative Meeting Archive</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown las">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/tours/"
+                    role="button"
+                    title="Tours"
+                    aria-expanded="false">
+                    Tours
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/tours/" title="Tours">Tours</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/tours/public-tours/" title="Public Tours">Public Tours</a>
+            <a class="dropdown-item" href="/tours/school-programs/" title="School Programs">School Programs</a>
+            <a class="dropdown-item" href="/tours/outdoor-tours/" title="Outdoor Tours">Outdoor Tours</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown las">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/learn/"
+                    role="button"
+                    title="Learn"
+                    aria-expanded="false">
+                    Learn
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/learn/" title="Learn">Learn</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/about/how-the-legislative-assembly-works/" title="How the Legislative Assembly Works">How the Legislative Assembly Works</a>
+            <a class="dropdown-item" href="/about/roles-in-the-legislative-assembly/" title="Roles in the Legislative Assembly">Roles in the Legislative Assembly</a>
+            <a class="dropdown-item" href="/learn/classroom-materials/" title="Classroom Materials">Classroom Materials</a>
+            <a class="dropdown-item" href="/learn/learning-resources/" title="Learning Resources">Learning Resources</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown las">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/library/"
+                    role="button"
+                    title="Library"
+                    aria-expanded="false">
+                    Library
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/library/" title="Library">Library</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/library/about-the-library/" title="About the Library">About the Library</a>
+            <a class="dropdown-item" href="https://casls-sklegis.primo.exlibrisgroup.com/discovery/search?vid=01CASLS_SKLEGIS:01CASLS_SKLEGIS&amp;lang=en" title="Search Catalogue">Search Catalogue</a>
+            <a class="dropdown-item" href="/library/electronic-resources/" title="E-Resources">E-Resources</a>
+            <a class="dropdown-item" href="/library/the-reading-room/" title="New Titles">New Titles</a>
+            <a class="dropdown-item" href="/library/library-services/" title="Library Services">Library Services</a>
+            <a class="dropdown-item" href="/library/research-help/" title="Research Help">Research Help</a>
+            <a class="dropdown-item" href="/library/government-publications-deposit/" title="Government Publications Deposit">Government Publications Deposit</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown las">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/las/"
+                    role="button"
+                    title="LAS"
+                    aria-expanded="false">
+                    LAS
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/las/" title="LAS">LAS</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/las/employment/" title="Employment">Employment</a>
+            <a class="dropdown-item" href="/las/las-vision-values-and-mission/" title="LAS Vision, Values, and Mission">LAS Vision, Values, and Mission</a>
+            <a class="dropdown-item" href="/about/roles-in-the-legislative-assembly/administration-of-the-legislative-assembly/" title="Administration of the Legislative Assembly">Administration of the Legislative Assembly</a>
+                </div>
+            </li>
+        </ul>
+        <ul class="top-nav d-md-none">
+            <li><a href="/fr/" title="Français">Français</a></li>
+            <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+            <li><a href="/faq/" title="FAQ">FAQ</a></li>
+            <li><a href="/sitemap/" title="Site Map">Site Map</a></li>
+        </ul>
+    </div>
+</nav>
+                </div>
+                <ul class="top-nav d-none d-md-flex">
+                    <li><a href="/fr/" title="Français">Français</a></li>
+                    <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+                    <li><a href="/faq/" title="FAQ">FAQ</a></li>
+                    <li><a href="/sitemap/" title="Site Map">Site Map</a></li>
+                </ul>
+            </div>
+        </div>
+    </header>
+
+    <div class="container main-wrapper">
+        <div class="masthead d-none d-md-block">
+            <div class="row">
+                <div class="col-md-6 col-logo">
+                    <img class="assembly-logo-header" src="/img/logo.png">
+                </div>
+                <div class="col-md-6 col-logo">
+                    <img class="las-logo-header" src="https://legassemblystorageca.blob.core.windows.net/legdocs/Email%20Signatures/LAS-logo_cmyk_MyrtleGreen.png">
+                </div>
+            </div>
+        </div>
+
+        <div class="d-none d-md-block px-3">
+            
+
+
+<nav class="navbar navbar-light navbar-expand-md navbar-outer">
+    <a class="ms-3 d-md-none" href="/"><img class="logo-mobile" src="/img/logo-mobile.png" /></a>
+    <button 
+        class="navbar-toggler ms-auto me-2"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>    
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mb-2 mb-md-0">
+            <li class="nav-item assembly"><a href="/" title="Home">Home</a></li>
+            <li class="nav-item dropdown assembly">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/about/"
+                    role="button"
+                    title="About"
+                    aria-expanded="false">
+                    About
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/about/" title="About">About</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/about/plan-a-visit/" title="Plan a Visit">Plan a Visit</a>
+            <a class="dropdown-item" href="/about/how-the-legislative-assembly-works/" title="How the Legislative Assembly Works">How the Legislative Assembly Works</a>
+            <a class="dropdown-item" href="/about/attend-a-sitting/" title="Attend a Sitting">Attend a Sitting</a>
+            <a class="dropdown-item" href="/about/roles-in-the-legislative-assembly/" title="Roles in the Legislative Assembly">Roles in the Legislative Assembly</a>
+            <a class="dropdown-item" href="/about/saskatchewans-legislative-building/" title="Saskatchewan&#x27;s Legislative Building">Saskatchewan&#x27;s Legislative Building</a>
+            <a class="dropdown-item" href="/about/rules/" title="Rules">Rules</a>
+            <a class="dropdown-item" href="/about/officers/" title="Officers">Officers</a>
+            <a class="dropdown-item" href="/about/employment/" title="Employment">Employment</a>
+            <a class="dropdown-item" href="/about/parliamentary-programs/" title="Parliamentary Programs">Parliamentary Programs</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown assembly">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/mlas/"
+                    role="button"
+                    title="MLAs"
+                    aria-expanded="false">
+                    MLAs
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/mlas/" title="MLAs">MLAs</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/mlas/board-of-internal-economy/" title="Board of Internal Economy">Board of Internal Economy</a>
+            <a class="dropdown-item" href="/mlas/codes-of-conduct/" title="Codes of Conduct">Codes of Conduct</a>
+            <a class="dropdown-item" href="/mlas/mla-disclosure-statements/" title="MLA Disclosure Statements">MLA Disclosure Statements</a>
+            <a class="dropdown-item" href="/mlas/caucus-financial-statements/" title="Caucus Financial Statements">Caucus Financial Statements</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown assembly">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/legislative-business/"
+                    role="button"
+                    title="Legislative Business"
+                    aria-expanded="false">
+                    Legislative Business
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/legislative-business/" title="Legislative Business">Legislative Business</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/legislative-business/calendar/" title="Find Assembly Records">Find Assembly Records</a>
+            <a class="dropdown-item" href="/legislative-business/legislative-committees/" title="Legislative Committees">Legislative Committees</a>
+            <a class="dropdown-item" href="/legislative-business/debates-hansard/" title="Debates (Hansard)">Debates (Hansard)</a>
+            <a class="dropdown-item" href="/legislative-business/minutes-votes/" title="Minutes (Votes)">Minutes (Votes)</a>
+            <a class="dropdown-item" href="/legislative-business/orders-of-the-day/" title="Orders of the Day">Orders of the Day</a>
+            <a class="dropdown-item" href="/legislative-business/bills/" title="Bills">Bills</a>
+            <a class="dropdown-item" href="/legislative-business/estimates/" title="Estimates">Estimates</a>
+            <a class="dropdown-item" href="/legislative-business/journals/" title="Journals">Journals</a>
+            <a class="dropdown-item" href="/legislative-business/watch-legislative-proceedings/" title="Watch Legislative Proceedings">Watch Legislative Proceedings</a>
+            <a class="dropdown-item" href="/legislative-business/archive/" title="Legislative Meeting Archive">Legislative Meeting Archive</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown las">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/tours/"
+                    role="button"
+                    title="Tours"
+                    aria-expanded="false">
+                    Tours
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/tours/" title="Tours">Tours</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/tours/public-tours/" title="Public Tours">Public Tours</a>
+            <a class="dropdown-item" href="/tours/school-programs/" title="School Programs">School Programs</a>
+            <a class="dropdown-item" href="/tours/outdoor-tours/" title="Outdoor Tours">Outdoor Tours</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown las">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/learn/"
+                    role="button"
+                    title="Learn"
+                    aria-expanded="false">
+                    Learn
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/learn/" title="Learn">Learn</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/about/how-the-legislative-assembly-works/" title="How the Legislative Assembly Works">How the Legislative Assembly Works</a>
+            <a class="dropdown-item" href="/about/roles-in-the-legislative-assembly/" title="Roles in the Legislative Assembly">Roles in the Legislative Assembly</a>
+            <a class="dropdown-item" href="/learn/classroom-materials/" title="Classroom Materials">Classroom Materials</a>
+            <a class="dropdown-item" href="/learn/learning-resources/" title="Learning Resources">Learning Resources</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown las">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/library/"
+                    role="button"
+                    title="Library"
+                    aria-expanded="false">
+                    Library
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/library/" title="Library">Library</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/library/about-the-library/" title="About the Library">About the Library</a>
+            <a class="dropdown-item" href="https://casls-sklegis.primo.exlibrisgroup.com/discovery/search?vid=01CASLS_SKLEGIS:01CASLS_SKLEGIS&amp;lang=en" title="Search Catalogue">Search Catalogue</a>
+            <a class="dropdown-item" href="/library/electronic-resources/" title="E-Resources">E-Resources</a>
+            <a class="dropdown-item" href="/library/the-reading-room/" title="New Titles">New Titles</a>
+            <a class="dropdown-item" href="/library/library-services/" title="Library Services">Library Services</a>
+            <a class="dropdown-item" href="/library/research-help/" title="Research Help">Research Help</a>
+            <a class="dropdown-item" href="/library/government-publications-deposit/" title="Government Publications Deposit">Government Publications Deposit</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown las">
+                <a class="nav-weblinks dropdown-toggle"
+                    data-bs-toggle="dropdown"
+                    href="/las/"
+                    role="button"
+                    title="LAS"
+                    aria-expanded="false">
+                    LAS
+                </a>
+                <div class="dropdown-menu" role="menu">
+                    <a class="dropdown-item" href="/las/" title="LAS">LAS</a>
+                    <div class="dropdown-divider"></div>
+
+            <a class="dropdown-item" href="/las/employment/" title="Employment">Employment</a>
+            <a class="dropdown-item" href="/las/las-vision-values-and-mission/" title="LAS Vision, Values, and Mission">LAS Vision, Values, and Mission</a>
+            <a class="dropdown-item" href="/about/roles-in-the-legislative-assembly/administration-of-the-legislative-assembly/" title="Administration of the Legislative Assembly">Administration of the Legislative Assembly</a>
+                </div>
+            </li>
+        </ul>
+        <ul class="top-nav d-md-none">
+            <li><a href="/fr/" title="Français">Français</a></li>
+            <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+            <li><a href="/faq/" title="FAQ">FAQ</a></li>
+            <li><a href="/sitemap/" title="Site Map">Site Map</a></li>
+        </ul>
+    </div>
+</nav>
+        </div>
+
+        <div id="content-container" class="container-fluid">
+            <div id="content" role="main">
+                
+
+
+<div class="row">
+    <div class="col-md-2 sidebar-content d-none d-md-block">
+        <ul id="parent-node" class="nav nav-tabs nav-stacked">
+            <li title="The Board of Internal Economy is a statutory authority responsible for the general administration of the Legislative Assembly, its employees, and the Officers.">
+                <a href="/mlas/board-of-internal-economy/" class="assembly">Board of Internal Economy</a>
+            </li>
+            <li title="The codes of ethics and principles to which Members of the Legislative Assembly adhere.">
+                <a href="/mlas/codes-of-conduct/" class="assembly">Codes of Conduct</a>
+            </li>
+            <li title="All MLAs must disclose certain information relating to their income and expenditures each year.">
+                <a href="/mlas/mla-disclosure-statements/" class="assembly">MLA Disclosure Statements</a>
+            </li>
+            <li title="Every political party represented in the legislature must file audited financial statements annually.">
+                <a href="/mlas/caucus-financial-statements/" class="assembly">Caucus Financial Statements</a>
+            </li>
+        </ul>
+    </div>
+    <div class="col-md-10">
+        
+
+
+<ul class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">Home</a></li>
+    <li class="active breadcrumb-item">MLAs</li>
+</ul>
+        <div class="page-header">
+            <h1>Members of the Legislative Assembly</h1>
+        </div>
+        <div class="banner-box">
+            <img src="/media/1011/mlaheader.jpg" />
+        </div>
+        <div class="row">
+            <div class="col-md-9">
+                <table border="0" width="493" style="height: 42px; width: 502px;">
+<tbody>
+<tr style="height: 42px;">
+<td style="height: 42px; width: 289px;"><a rel="noopener" href="http://ltgov.sk.ca/" target="_blank">Hon. Bernadette McIntyre</a><br><strong>Lieutenant Governor<br>&nbsp;</strong></td>
+<td style="height: 42px; width: 213px;"><a href="/mlas/member-details?first=Scott&amp;last=Moe" data-anchor="?first=Scott&amp;last=Moe"><span>Hon. Scott Moe</span></a><br><strong>Premier<br>&nbsp;</strong></td>
+</tr>
+<tr>
+<td style="width: 289px;">
+<p><a href="/mlas/member-details?first=Todd&amp;last=Goudy" data-anchor="?first=Todd&amp;last=Goudy">Hon. Todd Goudy</a><br><strong>Speaker</strong></p>
+</td>
+<td style="width: 213px;"><span><a href="/mlas/member-details?first=Carla%20&amp;last=Beck" data-anchor="?first=Carla &amp;last=Beck">Carla Beck</a><br><strong>Leader of the Opposition</strong></span></td>
+</tr>
+</tbody>
+</table>
+<div>&nbsp;</div>
+<div>
+<p>Select a member's name below to see their photo, biography, and contact information.</p>
+<p><a href="/mlas/mla-contact-information/" title="MLA Contact Information">A complete list of MLA contact information&nbsp;is available here</a>.&nbsp;</p>
+<p><strong>Members are listed alphabetically and recognized by their caucus standing:<br>Government Caucus (GC), Opposition Caucus (OC) and Independent (Ind).<br></strong></p>
+<p><strong>&nbsp;</strong></p>
+</div>
+
+        <table id="mla-table">
+            <tr><th>Member</th><th>Standing</th><th>Constituency</th><th>Map</th></tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Chris&last=Beaudry"> Chris Beaudry</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Kelvington-Wadena" class="constituency-video">Kelvington-Wadena</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Kelvington-Wadena" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Carla&last=Beck"> Carla Beck</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Lakeview" class="constituency-video">Regina Lakeview</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Lakeview" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Brent&last=Blakley"> Brent Blakley</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Wascana Plains" class="constituency-video">Regina Wascana Plains</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Wascana Plains" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Bhajan&last=Brar"> Bhajan Brar</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Pasqua" class="constituency-video">Regina Pasqua</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Pasqua" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Kim&last=Breckner"> Kim Breckner</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Riversdale" class="constituency-video">Saskatoon Riversdale</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Riversdale" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Terri&last=Bromm"> Terri Bromm</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Carrot River Valley" class="constituency-video">Carrot River Valley</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Carrot River Valley" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Noor&last=Burki"> Noor Burki</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Coronation Park" class="constituency-video">Regina Coronation Park</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Coronation Park" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Lori&last=Carr">Hon. Lori Carr</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Estevan-Big Muddy" class="constituency-video">Estevan-Big Muddy</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Estevan-Big Muddy" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=David&last=Chan"> David Chan</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Yorkton" class="constituency-video">Yorkton</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Yorkton" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Ken&last=Cheveldayoff">Hon. Ken Cheveldayoff</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Willowgrove" class="constituency-video">Saskatoon Willowgrove</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Willowgrove" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=April&last=ChiefCalf"> April ChiefCalf</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Westview" class="constituency-video">Saskatoon Westview</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Westview" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Jared&last=Clarke"> Jared Clarke</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Walsh Acres" class="constituency-video">Regina Walsh Acres</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Walsh Acres" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Jeremy&last=Cockrill">Hon. Jeremy Cockrill</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="The Battlefords" class="constituency-video">The Battlefords</a>
+                </td>
+                <td class="mla-map">
+                    <img id="The Battlefords" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Meara&last=Conway"> Meara Conway</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Elphinstone-Centre" class="constituency-video">Regina Elphinstone-Centre</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Elphinstone-Centre" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Brad&last=Crassweller"> Brad Crassweller</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="White City-Qu&#x27;Appelle" class="constituency-video">White City-Qu&#x27;Appelle</a>
+                </td>
+                <td class="mla-map">
+                    <img id="White City-Qu&#x27;Appelle" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Kim&last=Gartner"> Kim Gartner</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Kindersley-Biggar" class="constituency-video">Kindersley-Biggar</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Kindersley-Biggar" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Hugh&last=Gordon"> Hugh Gordon</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Silverspring" class="constituency-video">Saskatoon Silverspring</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Silverspring" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Todd&last=Goudy">Hon. Todd Goudy</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Melfort" class="constituency-video">Melfort</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Melfort" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Tajinder&last=Grewal"> Tajinder Grewal</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon University-Sutherland" class="constituency-video">Saskatoon University-Sutherland</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon University-Sutherland" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Daryl&last=Harrison">Hon. Daryl Harrison</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Cannington" class="constituency-video">Cannington</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Cannington" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Jeremy&last=Harrison">Hon. Jeremy Harrison</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Meadow Lake" class="constituency-video">Meadow Lake</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Meadow Lake" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Racquel&last=Hilbert"> Racquel Hilbert</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Humboldt-Watrous" class="constituency-video">Humboldt-Watrous</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Humboldt-Watrous" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Everett&last=Hindley">Hon. Everett Hindley</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Swift Current" class="constituency-video">Swift Current</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Swift Current" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Sally&last=Housser"> Sally Housser</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina University" class="constituency-video">Regina University</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina University" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Terry&last=Jenson">Hon. Terry Jenson</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Warman" class="constituency-video">Warman</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Warman" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Keith&last=Jorgenson"> Keith Jorgenson</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Churchill-Wildwood" class="constituency-video">Saskatoon Churchill-Wildwood</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Churchill-Wildwood" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Warren&last=Kaeding">Hon. Warren Kaeding</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Melville-Saltcoats" class="constituency-video">Melville-Saltcoats</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Melville-Saltcoats" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Kevin&last=Kasun"> Kevin Kasun</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Prince Albert Carlton" class="constituency-video">Prince Albert Carlton</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Prince Albert Carlton" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Travis&last=Keisig">Hon. Travis Keisig</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Last Mountain-Touchwood" class="constituency-video">Last Mountain-Touchwood</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Last Mountain-Touchwood" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Barret&last=Kropf"> Barret Kropf</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Dakota-Arm River" class="constituency-video">Dakota-Arm River</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Dakota-Arm River" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Leroy&last=Laliberte"> Leroy Laliberte</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Athabasca" class="constituency-video">Athabasca</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Athabasca" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Matt&last=Love"> Matt Love</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Eastview" class="constituency-video">Saskatoon Eastview</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Eastview" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=David&last=Marit">Hon. David Marit</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Wood River" class="constituency-video">Wood River</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Wood River" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Jamie&last=Martens">Hon. Jamie Martens</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Martensville-Blairmore" class="constituency-video">Martensville-Blairmore</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Martensville-Blairmore" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Don&last=McBean"> Don McBean</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Chief Mistawasis" class="constituency-video">Saskatoon Chief Mistawasis</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Chief Mistawasis" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Blaine&last=McLeod"> Blaine McLeod</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Lumsden-Morse" class="constituency-video">Lumsden-Morse</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Lumsden-Morse" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Tim&last=McLeod">Hon. Tim McLeod</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Moose Jaw North" class="constituency-video">Moose Jaw North</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Moose Jaw North" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Jordan&last=McPhail"> Jordan McPhail</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Cumberland" class="constituency-video">Cumberland</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Cumberland" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Scott&last=Moe">Hon. Scott Moe</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Rosthern-Shellbrook" class="constituency-video">Rosthern-Shellbrook</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Rosthern-Shellbrook" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Vicki&last=Mowat"> Vicki Mowat</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Fairview" class="constituency-video">Saskatoon Fairview</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Fairview" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Betty&last=Nippi-Albright"> Betty Nippi-Albright</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Centre" class="constituency-video">Saskatoon Centre</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Centre" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Megan&last=Patterson"> Megan Patterson</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Moose Jaw Wakamow" class="constituency-video">Moose Jaw Wakamow</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Moose Jaw Wakamow" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Joan&last=Pratchler"> Joan Pratchler</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Rochdale" class="constituency-video">Regina Rochdale</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Rochdale" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Jim&last=Reiter">Hon. Jim Reiter</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Rosetown-Delisle" class="constituency-video">Rosetown-Delisle</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Rosetown-Delisle" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Erika&last=Ritchie"> Erika Ritchie</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Nutana" class="constituency-video">Saskatoon Nutana</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Nutana" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Alana&last=Ross">Hon. Alana Ross</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Prince Albert Northcote" class="constituency-video">Prince Albert Northcote</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Prince Albert Northcote" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Darlene&last=Rowden"> Darlene Rowden</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Batoche" class="constituency-video">Batoche</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Batoche" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Jacqueline&last=Roy"> Jacqueline Roy</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Northeast" class="constituency-video">Regina Northeast</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Northeast" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Nicole&last=Sarauer"> Nicole Sarauer</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Douglas Park" class="constituency-video">Regina Douglas Park</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Douglas Park" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Eric&last=Schmalz">Hon. Eric Schmalz</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Saskatchewan Rivers" class="constituency-video">Saskatchewan Rivers</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatchewan Rivers" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Brittney&last=Senger"> Brittney Senger</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Southeast" class="constituency-video">Saskatoon Southeast</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Southeast" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Doug&last=Steele"> Doug Steele</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Cypress Hills" class="constituency-video">Cypress Hills</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Cypress Hills" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Nathaniel &last=Teed"> Nathaniel  Teed</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Meewasin" class="constituency-video">Saskatoon Meewasin</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Meewasin" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=James&last=Thorsteinson"> James Thorsteinson</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Cut Knife-Turtleford" class="constituency-video">Cut Knife-Turtleford</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Cut Knife-Turtleford" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Darcy&last=Warrington"> Darcy Warrington</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Saskatoon Stonebridge" class="constituency-video">Saskatoon Stonebridge</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Saskatoon Stonebridge" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Kevin&last=Weedmark"> Kevin Weedmark</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Moosomin-Montmartre" class="constituency-video">Moosomin-Montmartre</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Moosomin-Montmartre" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Michael&last=Weger"> Michael Weger</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Weyburn-Bengough" class="constituency-video">Weyburn-Bengough</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Weyburn-Bengough" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Sean&last=Wilson"> Sean Wilson</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Canora-Pelly" class="constituency-video">Canora-Pelly</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Canora-Pelly" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Trent&last=Wotherspoon"> Trent Wotherspoon</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina Mount Royal" class="constituency-video">Regina Mount Royal</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina Mount Royal" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="colored">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Aleana&last=Young"> Aleana Young</a>
+                </td>
+                <td class="mla-party">
+                    Opposition Caucus
+                </td>
+                <td>
+                    <a id="Regina South Albert" class="constituency-video">Regina South Albert</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Regina South Albert" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+            <tr class="">
+                <td class="mla-name">
+                    <a href="/mlas/member-details?first=Colleen&last=Young">Hon. Colleen Young</a>
+                </td>
+                <td class="mla-party">
+                    Government Caucus
+                </td>
+                <td>
+                    <a id="Lloydminster" class="constituency-video">Lloydminster</a>
+                </td>
+                <td class="mla-map">
+                    <img id="Lloydminster" class="constituency-video" src="/media/2128/25x27mapicon.png" />
+                </td>
+            </tr>
+        </table>
+
+                <div style="text-align: center;">
+                    <a href="https://www.elections.sk.ca/">
+                        <img src="/media/2129/50x53elesk.png" /><b>Constituency maps courtesy of Elections Saskatchewan.</b>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="sidebar_seats">
+                    <div class="mla-seats">
+        <hr />
+        <table>
+            <tr><th colspan="2">Seats in the Legislature</th></tr>
+                <tr><td>Government Caucus</td><td>34</td></tr>
+                <tr><td>Opposition Caucus</td><td>27</td></tr>
+            <tr class="mla-seats-total"><td>Total:</td><td>61</td></tr>
+        </table>
+        <hr />
+                    </div>
+                </div>
+                <div class="list"><span class="weblinkset-title xrm-attribute xrm-editable-text"><span class="xrm-attribute-value">Related Links</span></span>
+<div class="weblinkset-weblinks xrm-entity xrm-editable-adx_weblinkset">
+<ul>
+<li class="first"><a rel="noopener" href="http://www.elections.sk.ca/voters/gis/" target="_blank" title="Find Your Constituency" class="xrm-weblink ">Find Your Constituency</a></li>
+<li class="first"><a href="/media/i0mfyimz/seatingplan.pdf" title="Seating Plan">Chamber Seating Plan</a></li>
+<li><a rel="noopener" href="http://www.saskatchewan.ca/government/government-structure/cabinet" target="_blank" title="Cabinet Ministers" class="xrm-weblink ">Cabinet Ministers</a></li>
+<li><a rel="noopener" href="https://www.saskarchives.com/collection/government-records/seld" target="_blank" title="Past MLAs" class="xrm-weblink ">Past MLAs</a></li>
+<li><a href="/about/roles-in-the-legislative-assembly/role-of-a-member/" title="Role of a Member" class="xrm-weblink ">Role of a Member</a></li>
+<li><a href="/about/how-the-legislative-assembly-works/election-of-a-member/" title="Election of a Member" class="xrm-weblink ">Election of a Member</a></li>
+<li><a href="/media/tdxcfvid/annualschedule.pdf" title="Annual Schedule" class="xrm-weblink ">MLAs Remuneration and Allowances</a></li>
+<li><a href="/mlas/board-of-internal-economy/directives/" title="Directives" class="xrm-weblink ">Board of Internal Economy Directives</a></li>
+<li><a rel="noopener" href="https://www.skcaucus.com/members" target="_blank">Saskatchewan Party Caucus</a></li>
+<li><a rel="noopener" href="https://www.ndpcaucus.sk.ca/team" target="_blank">New Democratic Party Caucus</a></li>
+</ul>
+</div>
+</div>
+<div id="ContentContainer_MainContent_MainContent_PropAdditionalInformation" class="xrm-attribute xrm-editable-html">
+<div class="xrm-attribute-value">
+<h3>&nbsp;</h3>
+<h3>Relevant Acts</h3>
+<p><em><a href="https://publications.saskatchewan.ca/#/products/23281" data-anchor="#/products/23281">The Legislative Assembly Act, 2007 (Chapter L-11.3)</a></em></p>
+<p><a href="https://publications.saskatchewan.ca/#/products/624" data-anchor="#/products/624"><em>The Members’ Conflict of Interest Act</em>&nbsp;(Chapter M-11.11)</a></p>
+<p><a href="https://publications.saskatchewan.ca/#/products/1254" data-anchor="#/products/1254"><em>The Members’ Conflict of Interest Act Regulations</em>&nbsp;(Chapter M-11.11 Reg 1)</a></p>
+<p><a href="https://publications.saskatchewan.ca/#/products/625" data-anchor="#/products/625"><em>The Members of the Legislative Assembly Benefits Act</em>&nbsp;(Chapter M-11.12)</a></p>
+<p><a href="https://publications.saskatchewan.ca/#/products/1238" data-anchor="#/products/1238"><em>The Members of the Legislative Assembly Benefits Act</em>&nbsp;<em>Regulations&nbsp;</em>(Chapter M-11.12 Reg 2)</a></p>
+</div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-2 sidebar-content d-md-none">
+        <ul id="parent-node" class="nav nav-tabs nav-stacked">
+            <li title="The Board of Internal Economy is a statutory authority responsible for the general administration of the Legislative Assembly, its employees, and the Officers.">
+                <a href="/mlas/board-of-internal-economy/" class="assembly">Board of Internal Economy</a>
+            </li>
+            <li title="The codes of ethics and principles to which Members of the Legislative Assembly adhere.">
+                <a href="/mlas/codes-of-conduct/" class="assembly">Codes of Conduct</a>
+            </li>
+            <li title="All MLAs must disclose certain information relating to their income and expenditures each year.">
+                <a href="/mlas/mla-disclosure-statements/" class="assembly">MLA Disclosure Statements</a>
+            </li>
+            <li title="Every political party represented in the legislature must file audited financial statements annually.">
+                <a href="/mlas/caucus-financial-statements/" class="assembly">Caucus Financial Statements</a>
+            </li>
+        </ul>
+    </div>
+</div>
+<div id="overlay">
+    <div id="exit"></div>
+    <div id="player"></div>
+</div>
+
+<script src="/deps/jwplayer.js"></script>
+<script src="/scripts/constituency-videos.js"></script>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer-bar">
+    <div class="footer-item">
+        <p>Copyright © 2025 Legislative Assembly of Saskatchewan</p>
+    </div>
+    <div class="footer-item ">
+        <ul class="footer-links">
+            <li><a href="/contact-us/" title="Contact Us">Contact Us</a></li>
+            <li><a href="/privacy-statement/" title="Privacy Statement">Privacy Statement</a></li>
+            <li><a href="/about/employment/" title="Employment">Employment</a></li>
+        </ul>
+    </div>
+    <div class="footer-item leg-social ">
+        <ul class="footer-links">
+            <li>
+                <a href="http://www.facebook.com/SKLegAssembly" target="_blank" title="Facebook">
+                    <img alt="Facebook" class="weblink-image" src="/img/ico_f.png" />
+                </a>
+            </li>
+            <li>
+                <a href="http://twitter.com/SKLegAssembly" target="_blank" title="Twitter">
+                    <img alt="Twitter" class="weblink-image" src="/img/ico_t.png" />
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+<script src="/scripts/init-cludo.js"></script>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,36 @@
+status: 200
+encoding: None
+Content-Type: application/octet-stream
+Content-Length: 638
+Connection: keep-alive
+Date: Sat, 09 Aug 2025 05:44:54 GMT
+Content-Encoding: gzip
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Cache-Control: max-age=0, must-revalidate
+Content-Disposition: attachment; filename="Open_Data_Contact_List.csv"; size=2903
+ETag: "186a9281dc0--gzip"
+Vary: Origin
+X-Cache: Miss from cloudfront
+Via: 1.1 37bff9d2d60f78c674af031b7c61b19a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: YTO50-P3
+X-Amz-Cf-Id: bDJaRVj9X2dolpoyQv0zxym8USevjH6Ao0c85BlxxSOFgnCvDPS_MQ==
+
+﻿District_name,Primary_role,First_name,Last_name,Email,URL,Address_line_1,Address_line_2,Locality,Province,Postal_Code,City_Hall
+London,Mayor,Josh,Morgan,mayor@london.ca,http://www.london.ca/city-hall/mayors-office/Pages/Connecting-with-Mayor.aspx,300 Dufferin Ave.,Suite 214,London,ON,N6A 4L9,519 661-CITY Ext. 4920
+Ward 1,Councillor,Hadleigh,McAlister,hmcalister@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-1.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4001
+Ward 2,Councillor,Shawn,Lewis,slewis@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-2.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4002
+Ward 3,Councillor,Peter,Cuddy,pcuddy@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-3.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4003
+Ward 4,Councillor,Susan,Stevenson,sstevenson@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-4.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4004
+Ward 5,Councillor,Jerry,Pribil,jpribil@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-5.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4005
+Ward 6,Councillor,Sam,Trosow,strosow@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-6.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4006
+Ward 7,Councillor,Corrine,Rahman,crahman@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-7.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4007
+Ward 8,Councillor,Steve,Lehman,slehman@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-8.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4008
+Ward 9,Councillor,Anna,Hopkins,ahopkins@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-9.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4009
+Ward 10,Councillor,Paul,Van Meerbergen,pvanmeerbergen@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-10.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4010
+Ward 11,Councillor,Skylar,Franke,sfranke@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-11.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4011
+Ward 12,Councillor,Elizabeth,Peloza,epeloza@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-12.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4012
+Ward 13,Councillor,David,Ferreira,dferreira@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-13.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4013
+Ward 14,Councillor,Steven,Hillier,shillier@london.ca,http://www.london.ca/city-hall/city-council/Pages/Ward-14.aspx,300 Dufferin Ave.,Suite 314,London,ON,N6A 4L9,519 661-CITY Ext. 4014

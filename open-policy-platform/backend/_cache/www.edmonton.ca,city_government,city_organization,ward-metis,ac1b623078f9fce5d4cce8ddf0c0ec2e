@@ -1,0 +1,704 @@
+status: 200
+encoding: UTF-8
+Date: Fri, 08 Aug 2025 21:46:39 GMT
+Server: Apache
+X-Drupal-Dynamic-Cache: UNCACHEABLE (poor cacheability)
+Content-language: en
+X-Content-Type-Options: nosniff
+Vary: Cookie,Accept-Encoding
+X-Generator: Drupal 10 (https://www.drupal.org)
+Content-Security-Policy-Report-Only: default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: play.google.com admin.google.com accounts.google.com www.google.com drive.google.com translate.google.com translate.googleapis.com www.edmonton.ca edmonton.ca data.edmonton.ca maps.edmonton.ca gis.edmonton.ca transforming.edmonton.ca webdocs.edmonton.ca portal-onecity.edmonton.ca coewebops.com www.youtube.com edmonton.box.com edmonton.app.box.com edmonton.box.com cdn01.boxcdn.net api.box.com public.boxcloud.com www.boxcdn.net www.boxcloud.com maps.googleapis.com fonts.googleapis.com www.googletagmanager.com cdn.ckeditor.com cdn.rawgit.com cdn.datatables.net cdn.siteimprove.net www.siteimprove.com my2.siteimprove.com identity.siteimprove.com cdnjs.cloudflare.com cdn.jsdelivr.net svc.webspellchecker.net momentjs.com connect.facebook.net www.facebook.net unpkg.com www.google-analytics.com *.youtube.com fonts.gstatic.com maps.gstatic.com www.gstatic.com maxcdn.bootstrapcdn.com www.pingdom.net siteimproveanalytics.com www.siteimproveanalytics.com script.crazyegg.com code.jquery.com pagestates-tracking.crazyegg.com tracking.crazyegg.com assets-tracking.crazyegg.com www.escribemeetings.com www.tfaforms.com api.recollect.net assets.ca.recollect.net prismjs.net prismjs.com cdn.curator.io api.curator.io curator-assets.b-cdn.net www.facebook.com www.youtube-nocookie.com www.escribemeetings.com www.ytimg.com media1.giphy.com wdi-prod.yellowdev.net www.datatables.net visionservicerequests.rehrigpacific.com cdn.honey.io player.vimeo.com walkinto.in pwm-image.trendmicro.com ajax.aspnetcdn.com calendar.google.com portal.edmonton.ca infird.com www.google.ca feedback.coewebops.com region1.google-analytics.com w.soundcloud.com stackpath.bootstrapcdn.com www.global.siteimproveanalytics.io public.tableau.com edmonton.maps.arcgis.com cdn-uicons.flaticon.com overbridgenet.com ka-p.fontawesome.com use.fontawesome.com kit.fontawesome.com 550744.global.siteimproveanalytics.io ajax.googleapis.com sheets.googleapis.com curatorio.s3.amazonaws.com assets.us.recollect.net pub-edmonton.escribemeetings.com sc-static.net i.ytimg.com api.privacy-protector-adblocker.com dl.boxcloud.com *.global.siteimproveanalytics.io cdn.toolszen.com 3001.scriptcdn.net www.slant.co cdn.megabonus.com api.mapbox.com v1.dev.prismjs.com us.global.ssl.fastly.net recollect-us.global.ssl.fastly.net translate.yandex.net yastatic.net api.vote4edmonton.ca rum.browser-intake-us5-datadoghq.com ya.ru *.googleapis.com cdn.scite.ai events.mapbox.com *.google-analytics.com *.fastly.net; report-uri /report-csp-violation
+X-Drupal-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Referrer-Policy: no-referrer-when-downgrade
+Last-Modified: Fri, 08 Aug 2025 21:46:38 GMT
+ETag: "1754689598-gzip"
+Content-Encoding: gzip
+Content-Length: 11838
+Content-Type: text/html; charset=UTF-8
+Via: 1.1 google
+Cache-Control: max-age=600,public
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <!--[if IE 9]> <script src="/themes/coe_edmontonca/js/vendor/matchMedia.js"></script> <script src="/themes/coe_edmontonca/js/vendor/matchMedia.addListener.js"></script> <![endif]-->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+          <meta name="last-modified" content="2024-04-03" />
+              <meta name="department-branch" content="Office of the City Manager - Office of the City Clerk">
+        <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DGDE39N1Z6"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-DGDE39N1Z6", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<meta name="description" content="Profile for City of Edmonton Métis Ward Councillor." />
+<link rel="canonical" href="https://www.edmonton.ca/city_government/city_organization/ward-metis" />
+<meta name="google" content="yxP6iEPfP8Ymjpx_QKlDSRAxNWTCb46YYSFt6NqfRU0" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.edmonton.ca/city_government/city_organization/ward-metis" />
+<meta property="og:title" content="Ward Métis - Ashley Salvador | City of Edmonton" />
+<meta property="og:description" content="Profile for City of Edmonton Métis Ward Councillor." />
+<meta property="og:image" content="https://www.edmonton.ca/sites/default/files/public-files/feature-images/M%C3%A9tis-councillor_800x494.jpg" />
+<meta property="og:image" content="https://www.edmonton.ca/sites/default/files/public-files/edmonton-logo.png" />
+<meta name="facebook-domain-verification" content="t5h40501ars799o5ftygrq3jtwlwr5" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/coe_edmontonca/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Ward Métis - Ashley Salvador | City of Edmonton</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_DI5Q9qouccPB9zPONzL3ZKUBXRlmkHAStFij8UPrJrk.css?delta=0&amp;language=en&amp;theme=coe_edmontonca&amp;include=eJxly0sKwzAMRdENhWiQ7kcotmhMZctIcvpZfUMoFNrJHRzeSzfOJdTQ2Ls2Lztj0CoMv4C5eBd6TkkZ0_DQCvwIo5lyLe1kzlVbaEsEV9GV5FTvhsdRRzjEZsxJBZcFl8vRY2EMTa2SlBdPnYyuRn1zyDY6yfyVebQ-Vim-cZ786cEVVnKe9sJ3h7Nz1TzkQ5gpCPnR1QL-5A0YYWMq" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_HaeFy4rsr3rlaKIyz-LpWzWxsCLw4o0KCnZOeMi56Z0.css?delta=1&amp;language=en&amp;theme=coe_edmontonca&amp;include=eJxly0sKwzAMRdENhWiQ7kcotmhMZctIcvpZfUMoFNrJHRzeSzfOJdTQ2Ls2Lztj0CoMv4C5eBd6TkkZ0_DQCvwIo5lyLe1kzlVbaEsEV9GV5FTvhsdRRzjEZsxJBZcFl8vRY2EMTa2SlBdPnYyuRn1zyDY6yfyVebQ-Vim-cZ786cEVVnKe9sJ3h7Nz1TzkQ5gpCPnR1QL-5A0YYWMq" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_7lTfY5p0FyWUqL3ZVrg_szyRjCz9sRO5oBTto3o4Pdg.css?delta=3&amp;language=en&amp;theme=coe_edmontonca&amp;include=eJxly0sKwzAMRdENhWiQ7kcotmhMZctIcvpZfUMoFNrJHRzeSzfOJdTQ2Ls2Lztj0CoMv4C5eBd6TkkZ0_DQCvwIo5lyLe1kzlVbaEsEV9GV5FTvhsdRRzjEZsxJBZcFl8vRY2EMTa2SlBdPnYyuRn1zyDY6yfyVebQ-Vim-cZ786cEVVnKe9sJ3h7Nz1TzkQ5gpCPnR1QL-5A0YYWMq" />
+
+
+    <!-- SplideJS -->
+    <link href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+
+    <!-- Google Tag Manager - UA -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WKXCFX5');</script>
+    <!-- End Google Tag Manager -->
+
+        <!-- Google Tag Manager - GA4 -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KSV5577');</script>
+    <!-- End Google Tag Manager -->
+
+    <script src="https://kit.fontawesome.com/3c728fef4c.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v5.13.1/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+    
+
+    <script src="https://kit.fontawesome.com/3c728fef4c.js" crossorigin="anonymous"></script>
+  </head>
+  <body class="page-city_government-city_organization-ward-metis section-city_government path-node page-node-type-standard-page-v2 default">
+
+    <!-- Google Tag Manager (noscript) - UA -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKXCFX5"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Google Tag Manager (noscript) - GA4 -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSV5577"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  <header  class="page-header--content-page-header header page-header" role="banner">
+    <div class="row">
+      <div id="sticky-wrapper" class="sticky-wrapper">
+        <div class="main-menu ">
+          <div class="main-menu__logo">
+            <a href="/" class="no-pdf-icon">
+              <img src="/themes/coe_edmontonca/images/interface/coe-logo.svg" class="desktop-logo" alt="City of edmonton logo">
+              <img src="/themes/coe_edmontonca/images/interface/coe-mobile-logo.svg" class="mobile-logo" alt="City of edmonton logo">
+            </a>
+          </div>
+          <div class="screen-read">
+            <p>Please choose between the following three options:</p>
+            <a href="#aria-main-menu__menu-list">Skip to main menu</a>
+            <a href="#aria-main-search-form">Skip to site search</a>
+            <a href="#aria-page-content">Continue to current page menu and content</a>
+          </div>
+                    <div class="main-menu__search-btn" aria-hidden="true">
+            <i class="fas fa-search"></i>
+          </div>
+                    <div class="main-menu__mobile-btn" aria-hidden="true">
+              <span class="text">MENU</span>
+              <span class="bars"></span>
+          </div>
+                    <div class="main-menu__mini-controls">
+              <div class="search-btn"><i class="fas fa-search"></i></div>
+              <div class="menu-btn"><i class="fas fa-bars"></i></div>
+          </div>
+
+          <div class="main-menu__holder">
+            <div class="main-menu__top-bar">
+                
+      
+  
+  
+    <div class="main-menu__services">
+            <ul region="utility_menu" class="menu__main-nav menu__primary-top-menu">
+        
+      
+            <li class="menu-top-menu__item">
+        <a href="/programs_services/311-city-services?utm_source=top&amp;utm_campaign=311" class="menu-top-menu__link" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;311&quot;,&quot;utm_source&quot;:&quot;top&quot;}" data-drupal-link-system-path="node/5042">311</a>
+              </li>
+    
+      
+            <li class="menu-top-menu__item">
+        <a href="/city_government/jobs?utm_source=top&amp;utm_campaign=jobs" class="menu-top-menu__link" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;jobs&quot;,&quot;utm_source&quot;:&quot;top&quot;}" data-drupal-link-system-path="node/5106">Jobs</a>
+              </li>
+    
+      
+            <li class="menu-top-menu__item">
+        <a href="/contactus?utm_source=top&amp;utm_campaign=contact" class="menu-top-menu__link" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;contact&quot;,&quot;utm_source&quot;:&quot;top&quot;}" data-drupal-link-system-path="node/7255">Contact</a>
+              </li>
+        </ul>
+        </div>
+
+
+
+
+
+                                  <div class="search-bar search-bar--main-menu">
+                      <form action="/search">
+                          <label for="search-bar-field" class="hiddenVisible">Search</label>
+                          <input placeholder="Search edmonton.ca" name="q" aria-label="Search" id="search-bar-field" autocomplete="off">
+                          <div class="search-bar__search-suggestion"></div>
+                          <input type="submit" class="hiddenVisible">
+                          <div class="search-bar__search-btn"><i class="fas fa-search"></i></div>
+                      </form>
+                  </div>
+                            </div>
+            
+  
+
+<nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="main-menu__menu-list">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+  
+            <div class="main-menu__menu-list__menu-item">
+        <div class="icon" style="background-image: none;">
+                      <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 870 870" style="enable-background:new 0 0 870 870;" xml:space="preserve">
+<path d="M606.9,394.9h-14.5l-9-27.1c-8.1-24.3-24.2-44-44.5-58C558,296.9,571,275.7,571,251c0-39.7-32.3-72-72-72s-72,32.3-72,72  c0,8.3,1.6,16.3,4.2,23.7c-8.6-2-17.4-3.2-26.1-3.2c-20.6,0-40.8,5.5-58.6,16l-46.2,24.1c-24.5,14.7-32.5,46.7-17.8,71.3  c9.4,15.6,26.5,25.3,44.6,25.3c9,0,17.8-2.3,25.6-6.8l19-9.9L312.8,523H263c-28.7,0-52,23.3-52,52s23.3,52,52,52h62.9  c33.6,0,63.9-20,77.2-50.9l19.3-39.7l43.7,19.6l-19.6,68.7c-7.9,27.6,8.1,56.4,35.7,64.3c4.8,1.3,9.5,2,14.3,2  c23.1,0,43.6-15.5,50-37.7l24.4-85.4c7.1-24.9,2-50.9-12-71.1c6.2,1.5,12.6,2.2,19.2,2.2H607c28.7,0,52-23.3,52-52  S635.6,394.9,606.9,394.9z M498.9,210.9c22.1,0,40,17.9,40,40s-17.9,40-40,40c-22.1,0-40-17.9-40-40S476.8,210.9,498.9,210.9z   M373.6,563.4c-8.2,19.1-27,31.5-47.8,31.5h-62.9c-11.1,0-20-9-20-20s8.9-20,20-20h62.9c4.8,0,9.1-2.9,11-7.3l26.7-56.9  c6.9,12.7,17.1,23.6,30,31.4L373.6,563.4L373.6,563.4z M606.9,466.9H578c-22.4,0-42.3-14.3-49.3-35.5L515,390.5  c-2.8-8.5-8.2-15.4-15-20.7l-41.5,103.7l52.8,23.7c23.4,10.5,35.7,37.1,28.7,61.7l-24.4,85.4c-2.5,8.8-10.5,14.5-19.2,14.5  c-1.8,0-3.7-0.2-5.5-0.8c-10.6-3-16.8-14.1-13.7-24.7l24.4-85.4c1.6-5.7-1.2-11.8-6.6-14.2c0,0-85.8-39-88.7-41.2  c-17.8-13.1-25.4-36.5-18.5-57.9l37.8-87.6c0,0-16.9-3.8-20.5-3.8c-7.9,0-15.6,2.1-22.5,6.3L337.4,373c-3.1,1.9-6.7,2.8-10.3,2.8  c-6.8,0-13.4-3.5-17.2-9.7c-5.7-9.5-2.6-21.8,6.9-27.4l45.3-23.5c13.2-7.9,28.1-12,43.1-12c6.8,0,13.7,0.8,20.5,2.5l68.2,17  c28,7,50.2,27.5,59.3,54.9l13.6,40.8c1.6,4.9,6.2,8.2,11.4,8.2h28.9c11,0,20,9,20,20S617.9,466.9,606.9,466.9L606.9,466.9z"></path>
+</svg>
+
+                  </div>
+        <div class="label">
+          <a href="/activities-parks-recreation" title="" data-id="6015" aria-label="Activities, Parks &amp; Recreation" data-drupal-link-system-path="node/6015">Activities, Parks &amp; Recreation</a>
+        </div>
+      </div>
+          <div class="main-menu__menu-list__menu-item">
+        <div class="icon" style="background-image: none;">
+                      <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 870 870" style="enable-background:new 0 0 870 870;" xml:space="preserve">
+<path d="M675.1,350.5L529,329.2l-65.3-132.4c-11.7-23.6-45.6-23.9-57.4,0L341,329.2l-146.1,21.3c-26.2,3.8-36.7,36.1-17.7,54.6  l105.7,103l-25,145.5c-4.5,26.3,23.2,46,46.4,33.7L435,618.6l130.7,68.7c23.2,12.2,50.9-7.4,46.4-33.7l-25-145.5l105.7-103  C711.8,386.6,701.3,354.3,675.1,350.5L675.1,350.5z M552.8,496.9l27.8,162L435,582.5L289.5,659l27.8-162L199.5,382.1l162.7-23.6  L435,211l72.8,147.5l162.7,23.6L552.8,496.9L552.8,496.9z"></path>
+</svg>
+
+                  </div>
+        <div class="label">
+          <a href="/attractions-events" title="" data-id="5835" aria-label="Attractions &amp; Events" data-drupal-link-system-path="node/5835">Attractions &amp; Events</a>
+        </div>
+      </div>
+          <div class="main-menu__menu-list__menu-item">
+        <div class="icon" style="background-image: none;">
+                      <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 870 870" style="enable-background:new 0 0 870 870;" xml:space="preserve">
+<path d="M643,307H531v-72c0-13.3-10.7-24-24-24H363c-13.3,0-24,10.7-24,24v72H227c-26.5,0-48,21.5-48,48v256c0,26.5,21.5,48,48,48  h416c26.5,0,48-21.5,48-48V355C691,328.5,669.5,307,643,307z M371,243h128v64H371V243z M659,611c0,8.8-7.2,16-16,16H227  c-8.8,0-16-7.2-16-16V467h160v40c0,13.2,10.8,24,24,24h80c13.2,0,24-10.8,24-24v-40h160V611z M403,499v-32h64v32H403z M659,435H211  v-80c0-8.8,7.2-16,16-16h416c8.8,0,16,7.2,16,16V435z"></path>
+</svg>
+
+                  </div>
+        <div class="label">
+          <a href="/business-economy" title="" data-id="5182" aria-label="Business &amp; Economy" data-drupal-link-system-path="node/5182">Business &amp; Economy</a>
+        </div>
+      </div>
+          <div class="main-menu__menu-list__menu-item active">
+        <div class="icon" style="background-image: none;">
+                      <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 870 870" style="enable-background:new 0 0 870 870;" xml:space="preserve">
+<path d="M563,394.1V281.5c0-15-9.3-28.4-23.4-33.7l-92-34.5c-8.1-3.1-17.1-3.1-25.3,0l-92,34.5c-14.1,5.3-23.4,18.7-23.4,33.7v112.6  l-104.5,39.3c-14.1,5.2-23.4,18.7-23.4,33.7v106.6c0,13.6,7.7,26.1,19.9,32.2l98.6,49.3c10.1,5.1,22.1,5.1,32.2,0L435,602.6  l105.3,52.6c10.1,5.1,22.1,5.1,32.2,0l98.6-49.3c12.2-6.1,19.9-18.6,19.9-32.2V467.1c0-15-9.3-28.4-23.4-33.7L563,394.1z M447,428.9  V331l92-31.7v97.6L447,428.9L447,428.9z M331,273.2l104-39l104,39v0.2L435,310L331,273.2L331,273.2z M331,299.3l92,31.7v97.9l-92-32  V299.3z M301,628.7l-96.8-48.4V487l96.8,39.3V628.7z M204.2,459.8v-0.2l109.4-41l108.1,40.5v1.2l-108.1,43.9L204.2,459.8z   M326.2,526.3l95.5-38.8V581l-95.5,47.8V526.3z M543.8,628.7L448.3,581v-93.4l95.5,38.8V628.7L543.8,628.7z M665.8,580.3L569,628.7  V526.3l96.8-39.3V580.3z M665.8,459.8l-109.4,44.4l-108.1-43.9v-1.2l108.1-40.5l109.4,41V459.8z"></path>
+</svg>
+
+                  </div>
+        <div class="label">
+          <a href="/city-government" title="" data-id="6329" aria-label="City Government" data-drupal-link-system-path="node/6329">City Government</a>
+        </div>
+      </div>
+          <div class="main-menu__menu-list__menu-item">
+        <div class="icon" style="background-image: none;">
+                      <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="113" height="100" viewbox="0 0 113 100"><path d="M87.078 26.125h-58.906c-1.683 0-3.047 1.364-3.047 3.047v1.016h-5.078c-1.683 0-3.047 1.364-3.047 3.047v34.531c0 3.926 3.183 7.109 7.109 7.109h59.922c3.366 0 6.094-2.728 6.094-6.094v-39.609c0-1.683-1.364-3.047-3.047-3.047zM24.109 68.781c-0.561 0-1.016-0.455-1.016-1.016v0-31.484h2.031v31.484c0 0.561-0.455 1.016-1.016 1.016v0zM54.070 66.75h-19.297c-0.841 0-1.523-0.682-1.523-1.523v-1.016c0-0.841 0.682-1.523 1.523-1.523h19.297c0.841 0 1.523 0.682 1.523 1.523v1.016c0 0.841-0.682 1.523-1.523 1.523zM80.477 66.75h-19.297c-0.841 0-1.523-0.682-1.523-1.523v-1.016c0-0.841 0.682-1.523 1.523-1.523h19.297c0.841 0 1.523 0.682 1.523 1.523v1.016c0 0.841-0.682 1.523-1.523 1.523zM54.070 54.563h-19.297c-0.841 0-1.523-0.682-1.523-1.523v-1.016c0-0.841 0.682-1.523 1.523-1.523h19.297c0.841 0 1.523 0.682 1.523 1.523v1.016c0 0.841-0.682 1.523-1.523 1.523zM80.477 54.563h-19.297c-0.841 0-1.523-0.682-1.523-1.523v-1.016c0-0.841 0.682-1.523 1.523-1.523h19.297c0.841 0 1.523 0.682 1.523 1.523v1.016c0 0.841-0.682 1.523-1.523 1.523zM80.477 42.375h-45.703c-0.841 0-1.523-0.682-1.523-1.523v-5.078c0-0.841 0.682-1.523 1.523-1.523h45.703c0.841 0 1.523 0.682 1.523 1.523v5.078c0 0.841-0.682 1.523-1.523 1.523z"></path></svg>
+                  </div>
+        <div class="label">
+          <a href="/projects-plans" title="" data-id="5107" aria-label="City-run Projects &amp; Plans" data-drupal-link-system-path="node/5107">City-run Projects &amp; Plans</a>
+        </div>
+      </div>
+          <div class="main-menu__menu-list__menu-item">
+        <div class="icon" style="background-image: none;">
+                      <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 870 870" style="enable-background:new 0 0 870 870;" xml:space="preserve">
+<path d="M707,211.1c-2,0-4,0.4-6,1.2L531,275l0,0l-172-60.7c-6.5-2.2-13.4-3.3-20.2-3.3c-6.7,0-13.4,1-19.8,3.1L167.1,267  c-12.1,4.9-20.1,16.6-20.1,29.7V643c0,9.2,7.5,16,16,16c2,0,4-0.4,6-1.2L339.1,595l172,60.7c13,4.3,27,4.4,40,0.2l151.8-52.8  c12.2-4.9,20.1-16.6,20.1-29.7V227.1C723,217.9,715.4,211.1,707,211.1z M177.6,297.2L323,246.7v320.2l-144.1,53.2  C178.9,620.1,177.6,297.2,177.6,297.2z M355,566.8V246.9l160,56.5v319.9L355,566.8z M547,623.5V303.2L691.1,250l1.3,322.9L547,623.5  L547,623.5z"></path>
+</svg>
+
+                  </div>
+        <div class="label">
+          <a href="/transportation" title="" data-id="6395" aria-label="Driving, Cycling &amp; Walking" data-drupal-link-system-path="node/6395">Driving, Cycling &amp; Walking</a>
+        </div>
+      </div>
+          <div class="main-menu__menu-list__menu-item">
+        <div class="icon" style="background-image: none;">
+                      <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 870 870" style="enable-background:new 0 0 870 870;" xml:space="preserve">
+<path d="M720.5,398.9L659,349.4V251c0-4.4-3.6-8-8-8h-16c-4.4,0-8,3.6-8,8v72.6L457.6,187c-13.2-10.7-32.1-10.7-45.2,0L149.5,398.9  c-2.9,2.4-3.4,6.6-1,9.5l14.2,17.5c2.4,2.9,6.6,3.4,9.6,1l38.7-31.2V675c0,8.8,7.2,16,16,16h416c8.8,0,16-7.2,16-16V395.8l38.8,31.3  c2.9,2.4,7.2,1.9,9.6-1l14.2-17.5C723.9,405.6,723.3,401.3,720.5,398.9L720.5,398.9z M627,659H243V369.9l187.7-151.4  c2.5-2,6-2,8.4,0L627,370V659z M423.9,380.5c-26.6-27.9-72.5-35.9-104.9-7.7c-35.3,30.6-37.2,85.6-5.6,118.7l108.9,114.1  c7,7.4,18.4,7.4,25.5,0l108.9-114.1c31.6-33.2,29.8-88.1-5.6-118.7c-41.9-36.3-89.5-8.4-104.9,7.7L435,392.2L423.9,380.5z   M468.7,402.8c8.7-9.2,37.5-26.8,61.9-5.7c23.8,20.6,20.2,54.5,3.4,72.1L435,573l-99-103.8c-16.7-17.5-20.4-51.6,3.4-72.1  c22.2-19.3,50-6.8,61.9,5.7l33.7,35.3L468.7,402.8L468.7,402.8z"></path>
+</svg>
+
+                  </div>
+        <div class="label">
+          <a href="/residential-neighbourhoods" title="" data-id="5233" aria-label="Home &amp; Neighbourhood" data-drupal-link-system-path="node/5233">Home &amp; Neighbourhood</a>
+        </div>
+      </div>
+          <div class="main-menu__menu-list__menu-item">
+        <div class="icon" style="background-image: none;">
+                      <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 870 870" style="enable-background:new 0 0 870 870;" xml:space="preserve">
+<path d="M563,179H307c-35.3,0-64,28.7-64,64v384c0,35.3,28.7,64,64,64h256c35.3,0,64-28.7,64-64V243C627,207.7,598.3,179,563,179z   M595,627c0,17.6-14.4,32-32,32H307c-17.6,0-32-14.4-32-32V243c0-17.6,14.4-32,32-32h256c17.6,0,32,14.4,32,32V627z M435,467  c44.2,0,80-35.8,80-80s-35.8-80-80-80s-80,35.8-80,80S390.8,467,435,467z M435,339c26.5,0,48,21.5,48,48s-21.5,48-48,48  s-48-21.5-48-48S408.5,339,435,339z M481.8,483c-19.5,0-24.4,7-46.8,7c-22.4,0-27.3-7-46.8-7c-21.2,0-41.8,9.4-53.8,27.4  c-7.2,10.7-11.4,23.6-11.4,37.5V587c0,4.4,3.6,8,8,8h16c4.4,0,8-3.6,8-8v-39.1c0-14,9-32.9,33.2-32.9c12.4,0,20.8,7,46.8,7  c25.9,0,34.3-7,46.8-7c24.3,0,33.2,18.9,33.2,32.9V587c0,4.4,3.6,8,8,8h16c4.4,0,8-3.6,8-8v-39.1c0-13.9-4.2-26.8-11.4-37.5  C523.5,492.4,502.9,483,481.8,483z"></path>
+</svg>
+
+                  </div>
+        <div class="label">
+          <a href="/programs-services" title="" data-id="6396" aria-label="Programs &amp; Services" data-drupal-link-system-path="node/6396">Programs &amp; Services</a>
+        </div>
+      </div>
+          <div class="main-menu__menu-list__menu-item">
+        <div class="icon" style="background-image: none;">
+                      <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_2" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<path d="M29.9,80.7h5.7v-5.7h28.8v5.7h5.7v-5.7h5.7V31.7c0-4.8-3.9-8.6-8.6-8.6H32.8c-4.8,0-8.6,3.9-8.6,8.6v43.2h5.7V80.7z   M67.3,69.1c-1.6,0-2.9-1.3-2.9-2.9c0-1.6,1.3-2.9,2.9-2.9s2.9,1.3,2.9,2.9C70.2,67.8,68.9,69.1,67.3,69.1z M38.5,28.9h23v5.7h-23  V28.9z M29.9,40.3h40.3v17.3H29.9V40.3z M32.8,63.4c1.6,0,2.9,1.3,2.9,2.9c0,1.6-1.3,2.9-2.9,2.9c-1.6,0-2.9-1.3-2.9-2.9  C29.9,64.6,31.2,63.4,32.8,63.4z"></path>
+</svg>
+
+                  </div>
+        <div class="label">
+          <a href="/edmonton-transit-system-ets" title="" data-id="4901" aria-label="Transit (ETS)" data-drupal-link-system-path="node/4901">Transit (ETS)</a>
+        </div>
+      </div>
+      
+
+
+  </nav>
+
+
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+          <div class="views-element-container"><div class="view view-emergency-alerts view-id-emergency_alerts view-display-id-block_1 js-view-dom-id-a163128e2897e8d9aa206af69cd8078e23fc05bb9b0f9d396268c10b308b2ee2">
+  
+    
+      
+  
+          </div>
+</div>
+
+    
+      </header>
+
+
+
+
+      <div class="breadcrumb" id="aria-breadcrumb">
+    <p class="screen-read">The breadcrumb trail links represent the path to the current page relative to the homepage link.</p>
+    <div class="shadow"></div>
+    <div class="row">
+                                
+        <div  class="link">
+          <a href="/">Home</a>
+                                <div class="arrow">
+              <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15 48" style="enable-background:new 0 0 15 48;" xml:space="preserve">
+                <polygon class="border" points="3.6,48 0,48 0,0 3.6,0 15,24 "></polygon>
+                <polygon class="fill" points="0,48 -0.9,48 -0.8,0 0,0 11.7,24 "></polygon>
+              </svg>
+            </div>
+                  </div>
+                                
+        <div  class="link">
+          <a href="/city-government">City Government</a>
+                                <div class="arrow">
+              <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15 48" style="enable-background:new 0 0 15 48;" xml:space="preserve">
+                <polygon class="border" points="3.6,48 0,48 0,0 3.6,0 15,24 "></polygon>
+                <polygon class="fill" points="0,48 -0.9,48 -0.8,0 0,0 11.7,24 "></polygon>
+              </svg>
+            </div>
+                  </div>
+                                
+        <div  class="link">
+          <a href="/city_government/mayor-city-councillors">Councillors &amp; Mayor</a>
+                      <div class="sub-menu">
+              <ul>
+                                  <li><a href="/city_government/city_organization/the-mayor">Mayor Amarjeet Sohi</a></li>
+                                  <li class="current"><a href="/city_government/city_organization/city-councillors">City Councillors</a></li>
+                                  <li><a href="/city_government/city_organization/council-compensation">Council Compensation</a></li>
+                                  <li><a href="/city_government/city_organization/council-disclosures">Council Disclosures</a></li>
+                                  <li><a href="/city_government/city_organization/council-expense-reports">Council Expense Reports</a></li>
+                                  <li><a href="/city_government/city_organization/engaging-city-council">Engaging City Council</a></li>
+                              </ul>
+            </div>
+                                <div class="arrow">
+              <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15 48" style="enable-background:new 0 0 15 48;" xml:space="preserve">
+                <polygon class="border" points="3.6,48 0,48 0,0 3.6,0 15,24 "></polygon>
+                <polygon class="fill" points="0,48 -0.9,48 -0.8,0 0,0 11.7,24 "></polygon>
+              </svg>
+            </div>
+                  </div>
+                                
+        <div  class="link">
+          <a href="/city_government/city_organization/city-councillors">City Councillors</a>
+                                <div class="arrow">
+              <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15 48" style="enable-background:new 0 0 15 48;" xml:space="preserve">
+                <polygon class="border" points="3.6,48 0,48 0,0 3.6,0 15,24 "></polygon>
+                <polygon class="fill" points="0,48 -0.9,48 -0.8,0 0,0 11.7,24 "></polygon>
+              </svg>
+            </div>
+                  </div>
+                                
+        <div  class="link link current">
+          <a href="/city_government/city_organization/ward-metis">Ward Métis</a>
+                            </div>
+          </div>
+  </div>
+
+
+
+
+<section class="container layout bg-white-override" id="aria-page-content">
+  <div class="row">
+    <div class="column">
+      <h1 class="page-title page-title--black-content-page">Ward Métis - Ashley Salvador</h1>
+    </div>
+
+      </div>
+</section>
+
+
+  <div data-drupal-messages-fallback class="hidden"></div>
+
+
+
+
+
+
+<p class="screen-read" id="main-content">Main page content begins here</p>
+
+
+  <div id="block-coe-edmontonca-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article data-history-node-id="9232" about="/city_government/city_organization/ward-metis" class="node node--type-standard-page-v2 node--view-mode-full">
+
+	
+		
+
+	<div class="node__content">
+		<main class="container layout" role="main">
+
+			<div class="row">
+				<div class="column">
+											<div class="lead-paragraph">
+															<figure>
+									
+              <img loading="lazy" src="/sites/default/files/public-files/feature-images/M%C3%A9tis-councillor_800x494.jpg" alt="Ward Métis Councillor- Ashley Salvador" typeof="foaf:Image" />
+
+      
+																	</figure>
+														<p>Profile for City of Edmonton Métis Ward Councillor.</p>
+						</div>
+					
+											<div class="content-body">
+							
+            <p>Ashley is an urban planner and has experience working across sectors on projects related to affordable housing, climate change, social isolation and inclusion, infill policy, and seniors housing. Born and raised in Edmonton, she holds a BA Honours in Sustainability and Sociology from Dalhousie University, and a MA in Planning from the University of Waterloo.</p>
+
+<p>Ashley is passionate about building a healthy, equitable, and climate-resilient Edmonton.</p>
+
+<p>She has been active at the municipal level for close to a decade and has been a longstanding advocate for zoning reforms and sustainable urban development. She is the founder of a local non-profit that is dedicated to helping gently densify existing neighbourhoods, create greater housing choice, and improve walkability, access to transit, and vibrancy in mature communities.</p>
+
+<p>In her off time, Ashley is an avid cyclist, and enjoys hiking and cross-country skiing in Edmonton's River Valley. Ashley and her partner live in the Newton neighbourhood in Ward Métis, and she regularly spends time in neighbourhoods across the ward.</p>
+
+<p>Ashley is honoured to serve the residents of Ward Métis, and the rest of Edmonton.</p>
+
+      
+						</div>
+					
+          
+					<div class="content">
+						
+                
+        <div class="paragraph paragraph--type--layout-component paragraph--view-mode--default">
+                    <div class="layout layout--threecol-33-34-33">
+    
+          <div  class="layout__region layout__region--first">
+          <a name="anchor94825"></a>
+  <div class="paragraph paragraph--type--yp-opc-text paragraph--view-mode--default text-paragraph">
+          
+                                <h2 class="main-heading">Ward Name Origin</h2>
+          <p><strong>Indigenous language of origin</strong>: Michif<br>
+<strong>Name Meaning</strong>: Given the history of the area and the use of the Riverlot system in this ward, a Métis name was chosen.</p>
+
+<p>
+<audio controls="controls" controlslist="nodownload"><source src="https://webdocs.edmonton.ca/web/audio/ward_names/ward-6.mp3" type="audio/mpeg"> Your browser does not support the audio element.</audio>
+<br>
+<strong>Pronunciation</strong>: MAY-TEA</p>
+
+                    
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <a name="anchor94827"></a>
+  <div class="paragraph paragraph--type--yp-opc-related-content paragraph--view-mode--default related-module module">
+            
+      
+                    <h2>Related Documents</h2>
+        
+        
+        
+                  <div class="paragraph paragraph--type--yp-opc-related-document-item paragraph--view-mode--default related-module__link">
+          <h3>
+        <a href="/sites/default/files/public-files/assets/PDF/Metis-WardMap.pdf" target="_blank">
+          Métis Ward Map
+        </a>
+      </h3>
+
+              <p>An overall map of Métis, with boundaries and neighbourhoods.</p>
+            </div>
+
+        
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+            <div class="paragraph paragraph--type--from-library paragraph--view-mode--default from-library">
+                                                                    
+    <div class="paragraph-library-item">
+                              <a name="anchor94757"></a>
+  <div class="paragraph paragraph--type--yp-opc-related-content paragraph--view-mode--default related-module module">
+            
+      
+                    <h2>Related Links</h2>
+        
+        
+        
+                  <div class="paragraph paragraph--type--yp-opc-rdi-related-link-item paragraph--view-mode--default related-module__link">
+                <h3><a href="/city_government/city_organization/indigenous-ward-naming-knowledge-committee" target="_self">Indigenous Ward Naming Knowledge Committee</a></h3>
+      
+            </div>
+
+        
+      </div>
+
+            </div>
+
+                                       </div>
+
+      </div>
+    
+      </div>
+
+            </div>
+    
+              
+        <div class="paragraph paragraph--type--layout-component paragraph--view-mode--default">
+                    <div class="layout layout--onecol-constrained">
+    <div  class="layout__region layout__region--content">
+        <a name="anchor94830"></a>
+  <div class="paragraph paragraph--type--yp-opc-contact-listing paragraph--view-mode--default">
+          
+
+              <h2 class="main-heading">Contact Us</h2>
+      
+      
+              <address>
+            <p>2nd Floor, City Hall<br>
+1 Sir Winston Churchill Square<br>
+Edmonton, Alberta T5J 2R7</p>
+
+<p><a class="action-button-blue" href="https://coewebapps.edmonton.ca/contactcouncil/default.aspx?cid=wardm%C3%A9tis">Send a Message to Councillor Salvador</a></p>
+
+      </address>
+      
+      <table summary="Contact information" class="contact-listing-paragraph">
+        <tbody>
+                                <tr>
+              <th scope="row">Telephone</th>
+              <td><a href="tel:780-496-8140">780-496-8140</a></td>
+            </tr>
+                                                    <tr>
+              <th scope="row">Email</th>
+              <td><a href="mailto:ashley.salvador@edmonton.ca">ashley.salvador@edmonton.ca</a></td>
+            </tr>
+                                                                              </tbody>
+      </table>
+      </div>
+
+    </div>
+  </div>
+
+            </div>
+    
+        
+					</div>
+
+									</div>
+			</div>
+
+		</main>
+
+	</div>
+
+</article>
+
+
+
+
+
+
+  </div>
+
+
+
+      <div class="views-element-container"><div class="view view-footer-notices view-id-footer_notices view-display-id-block_1 js-view-dom-id-77416c3de1c22ffa01291cbd949b429ee2143ba82709125f2a3477a52921b6ca">
+  
+    
+      
+  
+          </div>
+</div>
+
+  <footer class="container layout three-col" id="aria-footer">
+    <div class="row">
+        <div class="column">
+
+              <div class="logo">
+                <img src="/themes/coe_edmontonca/images/interface/edmonton-logo.svg" alt="Edmonton Intranet logo">
+              </div>
+
+        </div>
+                <div class="column">
+                                
+<article data-history-node-id="4370" about="/footer" class="node node--type-footer node--view-mode-default">
+
+  
+  <div class="node__content">
+          
+            <h5><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="8f11f83a-3022-4be8-86b6-5e8db9af2944" href="/city_government/city_vision_and_strategic_plan/city-plan">The City Plan</a></h5>
+
+<p><sup>Our strategic direction to make Edmonton a healthy, urban, climate resilient city that supports a prosperous region.</sup></p>
+
+<h5><a href="https://transforming.edmonton.ca/">Transforming Edmonton</a></h5>
+
+<p><sup>Stories about bringing our city vision to life.</sup></p>
+
+<p><a href="https://www.facebook.com/cityofedmonton"><img alt="Facebook" src="/sites/default/files/public-files/social-icon-facebook.png" typeof="foaf:Image"></a>&nbsp; <a href="https://www.instagram.com/cityofedmonton/"><img alt="Instagram" src="/sites/default/files/public-files/social-icon-instagram.png" typeof="foaf:Image"></a>&nbsp; <a href="https://www.linkedin.com/company/city-of-edmonton"><img alt="LinkedIn" src="/sites/default/files/public-files/social-icon-linkedin.png" typeof="foaf:Image"></a>&nbsp; <a href="https://www.pinterest.ca/cityofedmonton/"><img alt="Pinterest" src="/sites/default/files/public-files/social-icon-pinterest.png" typeof="foaf:Image"></a>&nbsp; <a href="https://twitter.com/cityofedmonton"><img alt="Twitter" src="/sites/default/files/public-files/social-icon-twitter.png" typeof="foaf:Image"></a>&nbsp; <a href="https://www.youtube.com/user/CityEdmonton"><img alt="Youtube" src="/sites/default/files/public-files/social-icon-youtube.png" typeof="foaf:Image"></a></p>
+
+      
+      </div>
+
+</article>
+
+                  </div>
+        <div class="column">
+            <div class="search-bar search-bar--footer">
+                <form action="/search">
+                    <label for="footer-search-field" class="hiddenVisible">Search</label>
+                    <input placeholder="Search edmonton.ca" class="placeholder gtm-search" data-gtm-location="footer" name="q" aria-label="Search" title="Search" id="footer-search-field" autocomplete="off">
+                    <div class="search-bar__search-suggestion"></div>
+                    <input type="submit" class="hiddenVisible">
+                    <div class="search-bar__search-btn"><i class="fas fa-search"></i></div>
+                </form>
+            </div>
+
+            
+  <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        
+              <ul region="footer" class="menu popular-areas-list">
+                    <li class="menu-item">
+        <a href="/contactus?utm_source=footer&amp;utm_campaign=contact" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;contact&quot;,&quot;utm_source&quot;:&quot;footer&quot;}" data-drupal-link-system-path="node/7255">Contact Us</a>
+              </li>
+                <li class="menu-item">
+        <a href="/city_government/jobs?utm_source=footer&amp;utm_campaign=jobs" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;jobs&quot;,&quot;utm_source&quot;:&quot;footer&quot;}" data-drupal-link-system-path="node/5106">Jobs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/city_government/initiatives_innovation/open-data?utm_source=footer&amp;utm_campaign=opendata" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;opendata&quot;,&quot;utm_source&quot;:&quot;footer&quot;}" data-drupal-link-system-path="node/4984">Open Data</a>
+              </li>
+                <li class="menu-item">
+        <a href="/safety?utm_source=footer&amp;utm_campaign=safety" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;safety&quot;,&quot;utm_source&quot;:&quot;footer&quot;}" data-drupal-link-system-path="node/7756">Safety and Security</a>
+              </li>
+                <li class="menu-item">
+        <a href="/conditionsofuse?utm_source=footer&amp;utm_campaign=termsofuse" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;termsofuse&quot;,&quot;utm_source&quot;:&quot;footer&quot;}" data-drupal-link-system-path="node/7254">Terms of Use</a>
+              </li>
+                <li class="menu-item">
+        <a href="/web-privacy-code?utm_source=footer&amp;utm_campaign=privacy" data-drupal-link-query="{&quot;utm_campaign&quot;:&quot;privacy&quot;,&quot;utm_source&quot;:&quot;footer&quot;}" data-drupal-link-system-path="node/7478">Privacy</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+
+                                      
+<article data-history-node-id="8018" about="/secondary-footer" class="node node--type-footer node--view-mode-default">
+
+  
+  <div class="node__content">
+          
+            <h2>&nbsp;</h2>
+
+<p><small>Edmonton rests in the heart of Treaty Six territory in Alberta and the homelands of the Metis Nation.</small></p>
+
+      
+      </div>
+
+</article>
+
+                    </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="row">
+            <p class="copyright">
+                &copy; 2025 City of Edmonton. All rights reserved.
+            </p>
+        </div>
+    </div>
+</footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/9232","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ckeditorResponsiveTable":{"tableSelector":"table:not([data-drupal-selector=\u0022edit-settings-selection-table\u0022])"},"google_analytics":{"account":"G-DGDE39N1Z6","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"vars":{"node_id":"9232"},"ckeditor5Premium":{"isMediaInstalled":true},"user":{"uid":0,"permissionsHash":"def6afeaec91d4493f7b6533ce9bf57ab7f9a771bb1207c5ecd00361fba8993f"}}</script>
+<script src="/sites/default/files/js/js_w-55luZZDJiJruu7jXG8BvDeyAU3FjS_7jzpnAeffko.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=coe_edmontonca&amp;include=eJx9zlEKwzAMA9ALheZIxk281CyxQ-yl6-1X9jVa2J94QqD0pMyuAwZZVzGeBI5rpXgFyGy94hGSElBuKq6SMJaqK9avqnRlcTDCkbZ4J7BXKWQeHucadzJtFH_yYrP86xbbuIWiWs4_KFgP52TxCmEy7QYZHYHeXYfHm3wABKBkTA"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.4/handlebars.min.js"></script>
+<script src="/sites/default/files/js/js_DbZbMhxmA2SgS41BucXUWLGjpvnUtgKYqCa-cs6PXL0.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=coe_edmontonca&amp;include=eJx9zlEKwzAMA9ALheZIxk281CyxQ-yl6-1X9jVa2J94QqD0pMyuAwZZVzGeBI5rpXgFyGy94hGSElBuKq6SMJaqK9avqnRlcTDCkbZ4J7BXKWQeHucadzJtFH_yYrP86xbbuIWiWs4_KFgP52TxCmEy7QYZHYHeXYfHm3wABKBkTA"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+<script src="/sites/default/files/js/js_RlMctkT5fXg_HWPPGE2-ZtaJy3ku_ETCbSctfOWQCx4.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=coe_edmontonca&amp;include=eJx9zlEKwzAMA9ALheZIxk281CyxQ-yl6-1X9jVa2J94QqD0pMyuAwZZVzGeBI5rpXgFyGy94hGSElBuKq6SMJaqK9avqnRlcTDCkbZ4J7BXKWQeHucadzJtFH_yYrP86xbbuIWiWs4_KFgP52TxCmEy7QYZHYHeXYfHm3wABKBkTA"></script>
+<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.3/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.3/js/buttons.flash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.37/pdfmake.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.3/js/buttons.html5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.3/js/buttons.print.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.3/js/buttons.colVis.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.37/vfs_fonts.js"></script>
+<script src="/sites/default/files/js/js_c7RdE6M8IvLLfuV9AKGSmjEwtrmmCOfYOuZ_325VFyQ.js?scope=footer&amp;delta=13&amp;language=en&amp;theme=coe_edmontonca&amp;include=eJx9zlEKwzAMA9ALheZIxk281CyxQ-yl6-1X9jVa2J94QqD0pMyuAwZZVzGeBI5rpXgFyGy94hGSElBuKq6SMJaqK9avqnRlcTDCkbZ4J7BXKWQeHucadzJtFH_yYrP86xbbuIWiWs4_KFgP52TxCmEy7QYZHYHeXYfHm3wABKBkTA"></script>
+
+  </body>
+</html>

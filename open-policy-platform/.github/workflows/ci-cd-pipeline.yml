@@ -1,0 +1,581 @@
+name: Open Policy Platform CI/CD Pipeline
+
+# ========================================
+# OPEN POLICY PLATFORM CI/CD PIPELINE
+# ========================================
+# This pipeline implements:
+# - Local Development Testing
+# - QNAP/UAT Deployment with Blue-Green
+# - Azure Production with Canary Deployments
+# - Automated Testing and Validation
+# ========================================
+
+on:
+  push:
+    branches: [ main, develop, feature/* ]
+    paths:
+      - 'services/**'
+      - 'web/**'
+      - 'charts/**'
+      - 'docker-compose.*.yml'
+      - '.github/workflows/**'
+  
+  pull_request:
+    branches: [ main, develop ]
+    paths:
+      - 'services/**'
+      - 'web/**'
+      - 'charts/**'
+      - 'docker-compose.*.yml'
+  
+  workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Deploy to environment'
+        required: true
+        default: 'local'
+        type: choice
+        options:
+          - local
+          - uat
+          - production
+      deployment_strategy:
+        description: 'Deployment strategy'
+        required: true
+        default: 'rolling'
+        type: choice
+        options:
+          - rolling
+          - blue-green
+          - canary
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+  # ========================================
+  # JOB 1: CODE QUALITY & UNIT TESTING
+  # ========================================
+  code-quality:
+    name: Code Quality & Unit Testing
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+          
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flake8 black isort mypy pytest pytest-cov
+          
+      - name: Install Go dependencies
+        run: |
+          go mod download
+          go install golang.org/x/lint/golint@latest
+          go install github.com/fzipp/gocyclo/cmd/gocyclo@latest
+          
+      - name: Install Node.js dependencies
+        run: |
+          npm ci
+          
+      - name: Python linting
+        run: |
+          echo "🔍 Running Python linting..."
+          flake8 services/ --count --select=E9,F63,F7,F82 --show-source --statistics
+          flake8 services/ --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
+          
+      - name: Python formatting check
+        run: |
+          echo "🎨 Checking Python formatting..."
+          black --check services/
+          isort --check-only services/
+          
+      - name: Python type checking
+        run: |
+          echo "🔍 Running Python type checking..."
+          mypy services/ --ignore-missing-imports
+          
+      - name: Go linting
+        run: |
+          echo "🔍 Running Go linting..."
+          golint ./services/api-gateway/...
+          gocyclo -over 15 ./services/api-gateway/...
+          
+      - name: Node.js linting
+        run: |
+          echo "🔍 Running Node.js linting..."
+          npm run lint
+          
+      - name: Run Python tests
+        run: |
+          echo "🧪 Running Python tests..."
+          pytest services/ --cov=services --cov-report=xml --cov-report=html
+          
+      - name: Run Go tests
+        run: |
+          echo "🧪 Running Go tests..."
+          cd services/api-gateway
+          go test -v -race -coverprofile=coverage.out ./...
+          go tool cover -html=coverage.out -o coverage.html
+          
+      - name: Run Node.js tests
+        run: |
+          echo "🧪 Running Node.js tests..."
+          npm test
+          
+      - name: Upload coverage reports
+        uses: codecov/codecov-action@v3
+        with:
+          file: ./services/coverage.xml
+          flags: unittests
+          name: codecov-umbrella
+          fail_ci_if_error: false
+
+  # ========================================
+  # JOB 2: BUILD & PUSH DOCKER IMAGES
+  # ========================================
+  build-images:
+    name: Build & Push Docker Images
+    runs-on: ubuntu-latest
+    needs: code-quality
+    timeout-minutes: 60
+    strategy:
+      matrix:
+        service: [
+          'api-gateway', 'config-service', 'auth-service', 'policy-service',
+          'notification-service', 'analytics-service', 'monitoring-service',
+          'etl-service', 'scraper-service', 'search-service', 'dashboard-service',
+          'files-service', 'reporting-service', 'workflow-service', 'integration-service',
+          'data-management-service', 'representatives-service', 'plotly-service',
+          'mobile-api', 'legacy-django', 'web'
+        ]
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+        
+      - name: Log in to Container Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Extract metadata
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}/${{ matrix.service }}
+          tags: |
+            type=ref,event=branch
+            type=ref,event=pr
+            type=sha,prefix={{branch}}-
+            type=raw,value=latest,enable={{is_default_branch}}
+            
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v5
+        with:
+          context: ./services/${{ matrix.service }}
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          labels: ${{ steps.meta.outputs.labels }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+  # ========================================
+  # JOB 3: LOCAL ENVIRONMENT TESTING
+  # ========================================
+  local-testing:
+    name: Local Environment Testing
+    runs-on: ubuntu-latest
+    needs: [code-quality, build-images]
+    timeout-minutes: 45
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up Docker
+        uses: docker/setup-buildx-action@v3
+        
+      - name: Start local environment
+        run: |
+          echo "🚀 Starting local environment..."
+          docker-compose -f docker-compose.complete.yml up -d
+          sleep 60
+          
+      - name: Wait for services to be ready
+        run: |
+          echo "⏳ Waiting for services to be ready..."
+          ./scripts/wait-for-services.sh
+          
+      - name: Run integration tests
+        run: |
+          echo "🧪 Running integration tests..."
+          ./scripts/run-integration-tests.sh
+          
+      - name: Test scraper functionality
+        run: |
+          echo "🔍 Testing scraper functionality..."
+          ./scripts/test-scrapers.sh
+          
+      - name: Validate schemas
+        run: |
+          echo "🗄️ Validating database schemas..."
+          ./validate-scraper-schemas.sh
+          
+      - name: Health check all services
+        run: |
+          echo "🏥 Health checking all services..."
+          ./scripts/health-check-all.sh
+          
+      - name: Stop local environment
+        if: always()
+        run: |
+          echo "🛑 Stopping local environment..."
+          docker-compose -f docker-compose.complete.yml down -v
+
+  # ========================================
+  # JOB 4: QNAP/UAT DEPLOYMENT (BLUE-GREEN)
+  # ========================================
+  uat-deployment:
+    name: QNAP/UAT Deployment (Blue-Green)
+    runs-on: ubuntu-latest
+    needs: [code-quality, build-images, local-testing]
+    timeout-minutes: 60
+    environment: uat
+    if: github.ref == 'refs/heads/develop' || github.event.inputs.environment == 'uat'
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Set up kubectl
+        uses: azure/setup-kubectl@v3
+        with:
+          version: 'latest'
+          
+      - name: Configure kubectl for QNAP
+        run: |
+          echo "🔧 Configuring kubectl for QNAP..."
+          # Add your QNAP cluster configuration here
+          # kubectl config set-cluster qnap-cluster --server=https://qnap-cluster:6443
+          # kubectl config set-credentials qnap-user --token=${{ secrets.QNAP_TOKEN }}
+          # kubectl config set-context qnap-context --cluster=qnap-cluster --user=qnap-user
+          # kubectl config use-context qnap-context
+          
+      - name: Install Helm
+        uses: azure/setup-helm@v3
+        with:
+          version: 'latest'
+          
+      - name: Deploy to UAT (Blue Environment)
+        run: |
+          echo "🚀 Deploying Blue environment to UAT..."
+          helm upgrade --install openpolicy-blue ./charts/open-policy-platform \
+            -f ./charts/open-policy-platform/values-uat.yaml \
+            --set global.environment=uat \
+            --set deployment.blueGreen.enabled=true \
+            --set deployment.blueGreen.color=blue \
+            --namespace uat \
+            --create-namespace \
+            --wait \
+            --timeout 10m
+            
+      - name: Wait for Blue deployment to be ready
+        run: |
+          echo "⏳ Waiting for Blue deployment to be ready..."
+          kubectl wait --for=condition=available --timeout=600s deployment/openpolicy-blue-api-gateway -n uat
+          kubectl wait --for=condition=available --timeout=600s deployment/openpolicy-blue-web -n uat
+          
+      - name: Run UAT tests
+        run: |
+          echo "🧪 Running UAT tests..."
+          ./scripts/run-uat-tests.sh
+          
+      - name: Deploy to UAT (Green Environment)
+        if: success()
+        run: |
+          echo "🚀 Deploying Green environment to UAT..."
+          helm upgrade --install openpolicy-green ./charts/open-policy-platform \
+            -f ./charts/open-policy-platform/values-uat.yaml \
+            --set global.environment=uat \
+            --set deployment.blueGreen.enabled=true \
+            --set deployment.blueGreen.color=green \
+            --namespace uat \
+            --wait \
+            --timeout 10m
+            
+      - name: Wait for Green deployment to be ready
+        run: |
+          echo "⏳ Waiting for Green deployment to be ready..."
+          kubectl wait --for=condition=available --timeout=600s deployment/openpolicy-green-api-gateway -n uat
+          kubectl wait --for=condition=available --timeout=600s deployment/openpolicy-green-web -n uat
+          
+      - name: Switch traffic to Green (Blue-Green)
+        if: success()
+        run: |
+          echo "🔄 Switching traffic to Green environment..."
+          # Update service selectors to point to Green deployment
+          kubectl patch svc openpolicy-api-gateway -n uat -p '{"spec":{"selector":{"app":"openpolicy-platform","color":"green"}}}'
+          kubectl patch svc openpolicy-web -n uat -p '{"spec":{"selector":{"app":"openpolicy-platform","color":"green"}}}'
+          
+      - name: Validate Green deployment
+        run: |
+          echo "✅ Validating Green deployment..."
+          ./scripts/validate-uat-deployment.sh
+          
+      - name: Rollback to Blue if Green fails
+        if: failure()
+        run: |
+          echo "🔄 Rolling back to Blue environment..."
+          kubectl patch svc openpolicy-api-gateway -n uat -p '{"spec":{"selector":{"app":"openpolicy-platform","color":"blue"}}}'
+          kubectl patch svc openpolicy-web -n uat -p '{"spec":{"selector":{"app":"openpolicy-platform","color":"blue"}}}'
+          
+      - name: Clean up Blue deployment
+        if: success()
+        run: |
+          echo "🧹 Cleaning up Blue deployment..."
+          helm uninstall openpolicy-blue -n uat
+
+  # ========================================
+  # JOB 5: AZURE PRODUCTION DEPLOYMENT (CANARY)
+  # ========================================
+  production-deployment:
+    name: Azure Production Deployment (Canary)
+    runs-on: ubuntu-latest
+    needs: [code-quality, build-images, local-testing, uat-deployment]
+    timeout-minutes: 90
+    environment: production
+    if: github.ref == 'refs/heads/main' || github.event.inputs.environment == 'production'
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+          
+      - name: Set up kubectl
+        uses: azure/setup-kubectl@v3
+        with:
+          version: 'latest'
+          
+      - name: Configure kubectl for Azure AKS
+        run: |
+          echo "🔧 Configuring kubectl for Azure AKS..."
+          az aks get-credentials --resource-group ${{ secrets.AZURE_RESOURCE_GROUP }} --name ${{ secrets.AZURE_AKS_CLUSTER }} --overwrite-existing
+          
+      - name: Install Helm
+        uses: azure/setup-helm@v3
+        with:
+          version: 'latest'
+          
+      - name: Deploy Canary to Production
+        run: |
+          echo "🚀 Deploying Canary to Production..."
+          helm upgrade --install openpolicy-canary ./charts/open-policy-platform \
+            -f ./charts/open-policy-platform/values-prod.yaml \
+            --set global.environment=production \
+            --set deployment.canary.enabled=true \
+            --set deployment.canary.initialTraffic=5 \
+            --namespace production \
+            --create-namespace \
+            --wait \
+            --timeout 15m
+            
+      - name: Wait for Canary to be ready
+        run: |
+          echo "⏳ Waiting for Canary to be ready..."
+          kubectl wait --for=condition=available --timeout=600s deployment/openpolicy-canary-api-gateway -n production
+          kubectl wait --for=condition=available --timeout=600s deployment/openpolicy-canary-web -n production
+          
+      - name: Monitor Canary performance
+        run: |
+          echo "📊 Monitoring Canary performance..."
+          ./scripts/monitor-canary.sh
+          
+      - name: Increase Canary traffic to 25%
+        if: success()
+        run: |
+          echo "🔄 Increasing Canary traffic to 25%..."
+          # Update Istio VirtualService or Ingress for traffic splitting
+          ./scripts/update-canary-traffic.sh 25
+          sleep 300  # Wait 5 minutes
+          
+      - name: Monitor Canary at 25% traffic
+        run: |
+          echo "📊 Monitoring Canary at 25% traffic..."
+          ./scripts/monitor-canary.sh
+          
+      - name: Increase Canary traffic to 50%
+        if: success()
+        run: |
+          echo "🔄 Increasing Canary traffic to 50%..."
+          ./scripts/update-canary-traffic.sh 50
+          sleep 300  # Wait 5 minutes
+          
+      - name: Monitor Canary at 50% traffic
+        run: |
+          echo "📊 Monitoring Canary at 50% traffic..."
+          ./scripts/monitor-canary.sh
+          
+      - name: Increase Canary traffic to 100%
+        if: success()
+        run: |
+          echo "🔄 Increasing Canary traffic to 100%..."
+          ./scripts/update-canary-traffic.sh 100
+          sleep 300  # Wait 5 minutes
+          
+      - name: Final Canary validation
+        run: |
+          echo "✅ Final Canary validation..."
+          ./scripts/validate-production-deployment.sh
+          
+      - name: Promote Canary to Stable
+        if: success()
+        run: |
+          echo "🎉 Promoting Canary to Stable..."
+          # Update service selectors to point to Canary deployment
+          kubectl patch svc openpolicy-api-gateway -n production -p '{"spec":{"selector":{"app":"openpolicy-platform","version":"canary"}}}'
+          kubectl patch svc openpolicy-web -n production -p '{"spec":{"selector":{"app":"openpolicy-platform","version":"canary"}}}'
+          
+      - name: Rollback if Canary fails
+        if: failure()
+        run: |
+          echo "🔄 Rolling back Canary deployment..."
+          # Rollback to stable deployment
+          kubectl rollout undo deployment/openpolicy-stable-api-gateway -n production
+          kubectl rollout undo deployment/openpolicy-stable-web -n production
+          
+      - name: Clean up old stable deployment
+        if: success()
+        run: |
+          echo "🧹 Cleaning up old stable deployment..."
+          helm uninstall openpolicy-stable -n production
+          
+      - name: Rename Canary to Stable
+        if: success()
+        run: |
+          echo "🏷️ Renaming Canary to Stable..."
+          helm upgrade openpolicy-canary ./charts/open-policy-platform \
+            -f ./charts/open-policy-platform/values-prod.yaml \
+            --set global.environment=production \
+            --set deployment.canary.enabled=false \
+            --namespace production \
+            --wait
+
+  # ========================================
+  # JOB 6: POST-DEPLOYMENT VALIDATION
+  # ========================================
+  post-deployment-validation:
+    name: Post-Deployment Validation
+    runs-on: ubuntu-latest
+    needs: [uat-deployment, production-deployment]
+    timeout-minutes: 30
+    if: always()
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Validate UAT deployment
+        if: needs.uat-deployment.result == 'success'
+        run: |
+          echo "✅ Validating UAT deployment..."
+          ./scripts/validate-uat-deployment.sh
+          
+      - name: Validate Production deployment
+        if: needs.production-deployment.result == 'success'
+        run: |
+          echo "✅ Validating Production deployment..."
+          ./scripts/validate-production-deployment.sh
+          
+      - name: Generate deployment report
+        run: |
+          echo "📊 Generating deployment report..."
+          ./scripts/generate-deployment-report.sh
+          
+      - name: Send notifications
+        if: always()
+        run: |
+          echo "📢 Sending deployment notifications..."
+          ./scripts/send-deployment-notifications.sh
+
+  # ========================================
+  # JOB 7: MONITORING & ALERTING SETUP
+  # ========================================
+  monitoring-setup:
+    name: Monitoring & Alerting Setup
+    runs-on: ubuntu-latest
+    needs: [uat-deployment, production-deployment]
+    timeout-minutes: 45
+    if: always()
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Setup Prometheus monitoring
+        if: needs.production-deployment.result == 'success'
+        run: |
+          echo "📊 Setting up Prometheus monitoring..."
+          kubectl apply -f ./monitoring/prometheus/ -n production
+          
+      - name: Setup Grafana dashboards
+        if: needs.production-deployment.result == 'success'
+        run: |
+          echo "📈 Setting up Grafana dashboards..."
+          kubectl apply -f ./monitoring/grafana/ -n production
+          
+      - name: Setup ELK stack
+        if: needs.production-deployment.result == 'success'
+        run: |
+          echo "📝 Setting up ELK stack..."
+          kubectl apply -f ./monitoring/elk/ -n production
+          
+      - name: Setup alerting rules
+        if: needs.production-deployment.result == 'success'
+        run: |
+          echo "🚨 Setting up alerting rules..."
+          kubectl apply -f ./monitoring/alerts/ -n production
+          
+      - name: Validate monitoring setup
+        if: needs.production-deployment.result == 'success'
+        run: |
+          echo "✅ Validating monitoring setup..."
+          ./scripts/validate-monitoring.sh
+
+# ========================================
+# WORKFLOW COMPLETION
+# ========================================
+# This workflow provides:
+# - Automated testing and validation
+# - Blue-green deployments for UAT
+# - Canary deployments for production
+# - Comprehensive monitoring setup
+# - Automated rollback on failures
+# ========================================

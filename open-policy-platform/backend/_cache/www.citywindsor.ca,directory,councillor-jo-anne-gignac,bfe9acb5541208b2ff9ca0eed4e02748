@@ -1,0 +1,546 @@
+status: 200
+encoding: utf-8
+Date: Fri, 08 Aug 2025 21:46:33 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Request-Context: appId=cid-v1:2ed94870-913a-4b37-a41d-604edeec3423
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Permissions-Policy: accelerometer=(self), camera=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), payment=(self), usb=(self)
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: max-age=86400, enforce
+x-azure-ref: 20250808T214633Z-185659d9b78sxwd9hC1YTOdg0n0000000an0000000001x2r
+X-Cache: CONFIG_NOCACHE
+
+<!-- ContentPlaceholder: Branding --><!-- /ContentPlaceholder -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/cityofwindsor/favicon.ico" />
+
+    <title>Jo Anne Gignac | City of Windsor</title>
+
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+
+    <meta property="og:title" content="Jo Anne Gignac | City of Windsor" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="https://citywindsor.ca/directory/councillor-jo-anne-gignac" />
+
+    <!-- Page Head Scripts -->
+    
+
+    <!-- CORE CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" integrity="sha256-sAcc18zvMnaJZrNT4v8J0T4HqzEUiUTlVFgDIywjQek=" crossorigin="anonymous">
+<meta name="x-stylesheet-fallback-test" content="" class="visually-hidden" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 crossorigin=\u0022anonymous\u0022 ");</script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous" />
+<meta name="x-stylesheet-fallback-test" content="" class="fab" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("font-style","normal",["/lib/fontawesome-free/css/all.min.css"], "rel=\u0022stylesheet\u0022 crossorigin=\u0022anonymous\u0022 ");</script>
+    <link rel="stylesheet" href="/lib/fontawesome-free/css/all.min.css" />
+    <link rel="stylesheet" href="/css/core.min.css?v=5RCJq6D-mFFY9x2bZVlITWvSkpyIW_HdhjTQ1aII88U" />
+
+    <!-- CORE JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+<!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->
+
+
+    
+
+    <!-- Portal CSS -->
+    <link rel="stylesheet" href="/cityofwindsor/css/portal.css?v=a4qR-0kRr7xgW5bH0NH7MGgJTj9LS7x542XmailbK-Q" />
+
+    <!-- Accordion CSS -->
+    <link rel="stylesheet" href="/cityofwindsor/css/accordion.css?v=gI5i1cLfsGupgduW7rjLwXZGwZG1-9EUoJdvXP6l2Zw" />
+
+     <!-- Accordion for Category CSS -->
+    <link rel="stylesheet" href="/cityofwindsor/css/accordion-for-category.css?v=zuhE230z3kCjULWOMBtcXlevnurH5CtzJtADdyFcY70" />
+
+     <!-- Main Category CSS -->
+    <link rel="stylesheet" href="/cityofwindsor/css/main-category.css?v=ft4zRm56LGz7OlXVmmtnRoCfHUKa6xT6tOYZoU5Um34" />
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JQ3QXZG1N6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JQ3QXZG1N6');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KWS49TGW');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager: SYCI.ca -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WM4LV3K');</script>
+<!-- End Google Tag Manager -->
+ 
+</head>
+
+<body>
+
+    <!-- Body Container -->
+    <div id="EUMPortal" class="eum-site-wrapper person-template">
+
+        <!-- Header -->
+        <header>
+    <a href="/" title="City of Windsor">
+        <img id="ccwLogoBanner" src="/cityofwindsor/img/Windsor_Logo_Grey_Blue.png" alt="City of Windsor logo" />
+    </a>
+    <!--<div class="eum-layout-wrapper d-flex justify-content-center align-items-center">-->
+    <div class="d-flex gap-3 ms-md-auto flex-grow-1 flex-sm-grow-0 order-1 order-lg-2" style="float: right">
+        <nav class="control-nav d-flex ms-auto">
+            <div class="search-bar nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="#" id="searchBarDropDown" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true"  aria-label="Search options"     tabindex="0">
+        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+        </svg>
+    </a>
+    <div class="dropdown-menu dropdown-menu-end" aria-labelledby="searchBarDropDown">
+        <form id="searchBar" class="search-form" autocomplete="off" action="/Search">
+            <div class="input-group search-box">
+                <input type="text" class="form-control" name="q" placeholder="Enter a search term" autocomplete="off" aria-label="Search input field">
+                <button class="btn btn-clear" type="button" aria-label="Clear search results">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                        <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"></path>
+                    </svg>
+                </button>
+            </div>
+        </form>
+    </div>
+</div><!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->
+
+            
+<!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->
+
+            
+
+    <div><!-- ContentPlaceholder: LoginButton -->
+<!--<a href="/login?ReturnUrl=/directory/councillor-jo-anne-gignac" class="btn btn-outline-primary"><small>Login / Register</small></a>-->
+<!-- /ContentPlaceholder --></div>
+<!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->
+
+            
+
+        </nav>
+    </div>
+    <!--</div>-->
+</header>
+<!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->
+
+        <nav class="navbar navbar-dark navbar-expand-lg justify-content-between bg-primary gap-3">
+    <div class="eum-layout-wrapper d-flex flex-column">
+        <a class="ccwLogoNavbar" href="/" title="City of Windsor">
+            <img class="ccwLogoNavbar" src="/cityofwindsor/img/Windsor_Logo_Grey_White.png" alt="City of Windsor logo" />
+        </a>
+
+        <!-- search -->
+        <div id="navbarSearch" class="search-bar nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="searchBarDropDown" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="color: white;" aria-haspopup="true"  aria-label="Search options" tabindex="0">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001q.044.06.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1 1 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0" />
+                </svg>
+            </a>
+            <div class="dropdown-menu dropdown-menu-end" aria-labelledby="searchBarDropDown">
+                <form id="searchBar" class="search-form" autocomplete="off" action="/Search">
+                    <div class="input-group search-box">
+                        <input type="text" class="form-control" name="q" placeholder="Enter a search term" autocomplete="off" aria-label="Search input field">
+                        <button class="btn btn-clear" type="button" aria-label="Clear search results">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-x" viewBox="0 0 16 16">
+                                <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"></path>
+                            </svg>
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <!-- Site Navigation Toggle -->
+        <button class="navbar-toggler m-2 ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Site Navigation -->
+        <div class="collapse navbar-collapse order-2 order-lg-1" id="navbarToggler">
+            <ul class="site-nav navbar-nav">
+                <li class="nav-item text-nowrap dropdown">
+                    <a class="nav-link dropdown-toggle" href="/city-hall" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="City Hall">
+                        City Hall
+                    </a>
+                    <div class="dropdown-menu" role="menu">
+                        <div class="d-lg-flex">
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/accessibility" title="Accessibility" role="menuitem">Accessibility</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/municipal-accountability-and-transparency" title="Accountability and Transparency" role="menuitem">Accountability and Transparency</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/audit-and-oversight" title="Audit and Oversight"  role="menuitem">Audit and Oversight</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/budget" title="Budget" role="menuitem">Budget</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/by-laws-online" title="By-laws Online" role="menuitem">By-laws Online</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/city-council-meetings" title="City Council Meetings" role="menuitem">City Council Meetings</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/city-departments" title="City Departments" role="menuitem">City Departments</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/city-hall-campuses" title="City Hall Campuses" role="menuitem">City Hall Campuses</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/city-wellness" title="City Wellness" role="menuitem">City Wellness</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/committees-of-council" title="Committees of Council" role="menuitem">Committees of Council</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/contact-us/concerned-citizen-and-employee-hotline" title="Concerned Citizen and Employee Hotline" role="menuitem">Concerned Citizen and Employee Hotline</a></li>
+                            </ul>
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/customer-service" title="Customer Service" role="menuitem">Customer Service</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/employment-opportunities" title="Employment Opportunities" role="menuitem">Employment Opportunities</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/enforcement" title="Enforcement" role="menuitem">Enforcement</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/financial-documents" title="Financial Documents" role="menuitem">Financial Documents</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/Freedom-of-Information" title="Freedom of Information and Protection of Privacy" role="menuitem">Freedom of Information and Protection of Privacy</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/legal-services" title="Legal Services" role="menuitem">Legal Services </a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/licensing-and-registration" title="Licensing and Registration" role="menuitem">Licensing and Registration</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/municipal-election" title="Municipal Election" role="menuitem">Municipal Election</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/policies" title="Policies" role="menuitem">Policies</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/city-hall/taxes-and-assessment" title="Taxes and Assessment" role="menuitem">Taxes and Assessment</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item text-nowrap dropdown">
+                    <a class="nav-link dropdown-toggle" href="/residents" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="For Residents">
+                        For Residents
+                    </a>
+                    <div class="dropdown-menu" role="menu">
+                        <div class="d-lg-flex">
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="/residents/building" title="Building" role="menuitem">Building</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/building-windsors-future" title="Building Windsor's Future" role="menuitem">Building Windsor's Future</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/social-services/childrens-services" title="Child Care and Early Years" role="menuitem">Child Care and Early Years</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/construction" title="Construction and Detours" role="menuitem">Construction and Detours</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/culture" title="Culture" role="menuitem">Culture</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/emergency-and-crime-prevention" title="Emergency and Crime Prevention" role="menuitem">Emergency and Crime Prevention</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/environment" title="Environment" role="menuitem">Environment</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/ets-for-success" title="Employment and Training Services (ETS)" role="menuitem">Employment and Training Services (ETS)</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/recreation/recreation-and-culture-facilities/facilities-for-rent" title="Facilities For Rent" role="menuitem">Facilities For Rent</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/history-of-windsor" title="History Of Windsor" role="menuitem">History Of Windsor</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/housing" title="Housing" role="menuitem">Housing</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/huron-lodge" title="Huron Lodge" role="menuitem">Huron Lodge</a></li>
+                            </ul>
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="https://letstalk.citywindsor.ca/" title="Huron Lodge" role="menuitem">Let's Talk Windsor</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/parks-and-forestry" title="Parks and Forestry" role="menuitem">Parks and Forestry</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/planning" title="Planning" role="menuitem">Planning</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/property" title="Property" role="menuitem">Property</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/recreation" title="Recreation" role="menuitem">Recreation</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/roads-sewers-sidewalks" title="Roads, Sewers, Sidewalks" role="menuitem">Roads, Sewers, Sidewalks</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/social-services" title="Social Services" role="menuitem">Social Services</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/traffic-and-parking" title="Traffic and Parking" role="menuitem">Traffic and Parking</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/transit-windsor" title="Transit Windsor" role="menuitem">Transit Windsor</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/waste-and-recycling" title="Waste and Recycling" role="menuitem">Waste and Recycling</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/water-and-utilities" title="Water and Utilities" role="menuitem">Water and Utilities</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item text-nowrap dropdown">
+                    <a class="nav-link dropdown-toggle" href="/business" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="For Business">
+                        For Business
+                    </a>
+                    <div class="dropdown-menu" role="menu">
+                        <div class="d-lg-flex">
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="/business/Bids-and-Tenders" title="Explore Bids and Tenders information" role="menuitem">Bids and Tenders</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/business/BizPaL" title="Access BizPaL" role="menuitem">BizPaL</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/business/buildersanddevelopers" title="Information for Builders and Developers" role="menuitem">Builders and Developers</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/building" title="Apply for Building E-Permits" role="menuitem">Building E-Permits</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/business/economic-development" title="Learn about Economic Development" role="menuitem">Economic Development</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/ets-for-success" title="Explore Employment and Training Services (ETS)" role="menuitem">Employment and Training Services (ETS)</a></li>
+                            </ul>
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="/business/licensing" title="Information about Licensing" role="menuitem">Licensing</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/business/physician-recruitment" title="Physician Recruitment details" role="menuitem">Physician Recruitment</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/business/Small-Business" title="Resources for Small Businesses" role="menuitem">Small Business</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/business/sponsor-windsor" title="Sponsor Windsor program" role="menuitem">Sponsor Windsor</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/planning/Plans-and-Community-Information/About-Windsor/Stats-And-Facts" title="Explore Stats and Facts" role="menuitem">Stats and Facts</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item text-nowrap dropdown">
+                    <a class="nav-link dropdown-toggle" href="/visitors" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Visiting Windsor">
+                        Visiting Windsor
+                    </a>
+                    <div class="dropdown-menu" role="menu">
+                        <div class="d-lg-flex">
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="https://www.adventurebay.ca/" title="Adventure Bay Family Water Park Presented by WFCU Credit Union" role="menuitem">Adventure Bay Family Water Park Presented by WFCU Credit Union</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://www.capitoltheatrewindsor.ca/" title="Capitol Theatre" role="menuitem">Capitol Theatre</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/recreation/recreation-and-culture-facilities/facilities-for-rent" title="Facilities" role="menuitem">Facilities</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/events" title="Festivals and Events" role="menuitem">Festivals and Events</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/visitors/maps" title="Maps" role="menuitem">Maps</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/visitors/municipal-accommodation-tax" title="Municipal Accommodation Tax (MAT)" role="menuitem">Municipal Accommodation Tax (MAT)</a></li>
+                            </ul>
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="https://www.retirehere.ca/" title="Retire Here" role="menuitem">Retire Here</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://www.visitwindsoressex.com/" title="Tourism Windsor Essex Pelee Island" role="menuitem">Tourism Windsor Essex Pelee Island</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/transit-windsor" title="Transit Windsor" role="menuitem">Transit Windsor</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/history-of-windsor/Walking-Tours" title="Walking Tours" role="menuitem">Walking Tours</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://takethetunnel.com/" title="Windsor Detroit Tunnel" role="menuitem">Windsor Detroit Tunnel</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://flyyqg.ca/" title="YQG: Windsor International Airport" role="menuitem">YQG: Windsor International Airport</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item text-nowrap dropdown">
+                    <a class="nav-link dropdown-toggle" href="/EServices" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="E-Services">
+                        E-Services
+                    </a>
+                    <div class="dropdown-menu" role="menu">
+                        <div class="d-lg-flex">
+                            <ul class="nav flex-column">
+                                <li class="nav-item"><a class="nav-link" href="https://windsor-cwiprod.motorolasolutions.com/" title="Visit 311 Online" role="menuitem">311 Online</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://anc.ca.apm.activecommunities.com/windsor/home?onlineSiteId=0&from_original_cui=true" title="Visit ACTIVE Windsor" role="menuitem">ACTIVE Windsor</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/EServices/Basement-Flooding-Subsidy" title="Learn about Basement Flooding Protection Subsidy" role="menuitem">Basement Flooding Protection Subsidy</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/business/BizPaL" title="Explore BizPaL" role="menuitem">BizPaL</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/residents/building/building-permits" title="Information on Building Permits" role="menuitem">Building Permits</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/EServices/Child-Care-Subsidy" title="Apply for Child Care Subsidy" role="menuitem">Child Care Subsidy</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/eservices/committee-of-adjustment" title="Committee of Adjustment (Variance and Consents)" role="menuitem">Committee of Adjustment</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/EServices/Delegation-Request" title="Submit Delegation Request" role="menuitem">Delegation Request</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/eservices/dog-licence" title="Get a Dog Licence" role="menuitem">Dog Licence</a></li>                                
+                                <li class="nav-item"><a class="nav-link" href="/eservices/eti" title="External Tax Inquiry" role="menuitem">External Tax Inquiry (ETI)</a></li>
+                               <li class="nav-item"><a class="nav-link" href="https://lotteryreports.citywindsor.ca/Organizations/Create" title="Access Lottery Reports" role="menuitem">Lottery Reports</a></li>
+                            </ul>
+                            <ul class="nav flex-column"> 
+                                <li class="nav-item"><a class="nav-link" href="/visitors/maps/MappMyCity" title="Discover MappMyCity" role="menuitem">MappMyCity</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://eservices.citywindsor.ca/MainMenu.aspx" title="View My Property Tax Information" role="menuitem">My Property Tax</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/eservices/online-payment-options" title="Make Online Payments" role="menuitem">Online Payments</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/eservices/ontario-works-options" title="Apply for Ontario Works" role="menuitem">Ontario Works Application</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://opendata.citywindsor.ca/" title="Explore the Open Data Catalog" role="menuitem">Open Data Catalog</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/EServices/Property-Information-Request" title="Request Property Documents" role="menuitem">Property Document Request</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/EServices/Public-Property-Inquiry" title="Inquire about Public Properties" role="menuitem">Public Property Inquiry</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/EServices/Stormwater-Financing" title="Pay for Stormwater Management" role="menuitem">Stormwater Financing Program</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/ticket-payment" title="Make Ticket Payments" role="menuitem">Ticket Payment</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/eservices/utility-permits" title="Apply for Utility Permits" role="menuitem">Utility Permits</a></li>
+                                <li class="nav-item"><a class="nav-link" href="https://vulnerablepersons.citywindsor.ca/MyApplications" title="Register for Vulnerable Persons Registry" role="menuitem">Vulnerable Persons Registry</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/mayor-and-council" title="Mayor and Council">
+                        Mayor and Council
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav><!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->
+
+
+        <!-- Main -->
+        <main role="main" style="padding: 1rem;">
+            <!-- ContentPlaceholder: PageGlobals -->
+<!--HASH>12F92876622C8C80479971A21B49AE169FA4AB40CE7A115BD8179E4991A8F2BDAE027D10E9B1AA659098C7DB7679B64D</HASH-->
+<!-- /ContentPlaceholder -->
+<!-- ContentPlaceholder: PageMetadata --><!--HASH>E9D288A648F0A70DE7EA6853EDA58F7E37F7EBC893EDE6D42DF50E6B6FA121AE3FF5377725A55EEF730A52A8A9950A68</HASH-->
+<!-- /ContentPlaceholder -->
+
+
+<div class="page person">
+    <!-- ContentPlaceholder: Breadcrumb --><nav aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="/">Home</a></li><li class="breadcrumb-item"><a href="/directory">Directory</a></li><li class="breadcrumb-item">Jo Anne Gignac</li></ol></nav><!--HASH>27BE2F15EBE190DC6A5B13254D7D602CA64EE8D8D110DD539F339AF72498333F386B748ADBCB012D898CF84DE5693A27</HASH-->
+<!-- /ContentPlaceholder -->
+    <div class="row">
+        <div class="col">
+            <div class="align-items-center d-flex justify-content-between">
+                <div class="person-header mb-3 d-inline-flex align-items-center">
+                    <div class="person-avatar me-4">
+                        <span>JA</span>
+                            <img src="/profileimages/250/51778573-c90c-4bc3-9bad-520c3da752b7.jpg" alt="Jo Anne Gignac">
+                    </div>
+                    <div>
+                        <div>
+                            <h1 class="fs-1 mt-2 mb-0">Jo Anne Gignac</h1>
+                                <h5 class="text-secondary mt-0 mb-1">City Councillor</h5>
+                                <h6 class="mt-0 mb-2 lh-base"> City of Windsor</h6>
+                        </div>
+                        <div class="d-flex align-items-center mb-3 flex-wrap gap-3">
+                                <a href="mailto:joagignac@citywindsor.ca" data-bs-toggle="tooltip" data-bs-title="Email" title="Email">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-envelope" viewBox="0 0 16 16">
+                                        <path d="M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4Zm2-1a1 1 0 0 0-1 1v.217l7 4.2 7-4.2V4a1 1 0 0 0-1-1H2Zm13 2.383-4.708 2.825L15 11.105V5.383Zm-.034 6.876-5.64-3.471L8 9.583l-1.326-.795-5.64 3.47A1 1 0 0 0 2 13h12a1 1 0 0 0 .966-.741ZM1 11.105l4.708-2.897L1 5.383v5.722Z" />
+                                    </svg>
+                                </a>
+                                <a href="tel:519-945-4434" data-bs-toggle="tooltip" data-bs-title="Phone" target="_blank" title="Phone">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone" viewBox="0 0 16 16">
+                                        <path d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
+                                    </svg>
+                                    <span>519-945-4434</span>
+                                </a>
+                        </div>
+                    </div>
+                </div>
+                    <address>
+                            <h6 class="mb-0"> 350 City Hall Square West, Suite 530</h6>
+                            <span>Windsor,&nbsp;</span>
+                            <span>ON,&nbsp;</span>
+                            <span>Canada</span>
+                            <h6 class="mb-2 lh-base"> N9A 6S1</h6>
+                    </address>
+            </div>
+        </div>
+    </div>
+    <div class="pt-2">
+        <h5 class="fw-bold">Biography</h5>
+        <!-- ContentPlaceholder: PageContent --><script>
+      var PublisherPageContext = PublisherPageContext || {
+    pageType: 'Person'
+  }
+
+</script>
+
+
+  <div class="ExternalClass759FE0C4FAD748B6B5F978D55FF43805"><p id="isPasted" style="box-sizing&#58;border-box;margin-top&#58;0px;margin-bottom&#58;1rem;color&#58;rgb(51, 51, 51);font-family&#58;&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size&#58;16px;font-style&#58;normal;font-weight&#58;400;letter-spacing&#58;normal;orphans&#58;2;text-align&#58;left;text-indent&#58;0px;text-transform&#58;none;widows&#58;2;word-spacing&#58;0px;white-space&#58;normal;background-color&#58;rgb(255, 255, 255);text-decoration-style&#58;initial;text-decoration-color&#58;initial;">Councillor Jo-Anne Gignac is a lifelong resident of the Riverside area. Jo-Anne was first elected to City Council in 2003 representing Ward 5. A few of Jo-Anne's extensive committee appointments include Chair of the Service Delivery Review Committee and member of the Licensing Commission, Rail Issues, Essex Windsor Solid Waste Authority, Essex Region Conservation Authority, Lou Romano, Planning Advisory Committee, WFCU, Environmental Master Plan and many more. Her work on the Operating and Capital Budget Committees has been very productive in addressing the financial challenges the City has and will continue to wrestle with.</p><p style="box-sizing&#58;border-box;margin-top&#58;0px;margin-bottom&#58;1rem;color&#58;rgb(51, 51, 51);font-family&#58;&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size&#58;16px;font-style&#58;normal;font-weight&#58;400;letter-spacing&#58;normal;orphans&#58;2;text-align&#58;left;text-indent&#58;0px;text-transform&#58;none;widows&#58;2;word-spacing&#58;0px;white-space&#58;normal;background-color&#58;rgb(255, 255, 255);text-decoration-style&#58;initial;text-decoration-color&#58;initial;">Councillor Gignac currently serves on the following boards and committees&#58;</p><ul style="box-sizing&#58;border-box;padding-left&#58;2rem;margin-top&#58;0px;margin-bottom&#58;1rem;color&#58;rgb(51, 51, 51);font-family&#58;&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size&#58;16px;font-style&#58;normal;font-weight&#58;400;letter-spacing&#58;normal;orphans&#58;2;text-align&#58;left;text-indent&#58;0px;text-transform&#58;none;widows&#58;2;word-spacing&#58;0px;white-space&#58;normal;background-color&#58;rgb(255, 255, 255);text-decoration-style&#58;initial;text-decoration-color&#58;initial;"><li style="box-sizing&#58;border-box;">Community Services Standing Committee</li><li style="box-sizing&#58;border-box;">Court of Revision Committee</li><li style="box-sizing&#58;border-box;">Enwin Energy Board of Directors</li><li style="box-sizing&#58;border-box;">Enwin Utilities Board of Directors</li><li style="box-sizing&#58;border-box;">Huron Lodge Committee of Management</li><li style="box-sizing&#58;border-box;">Tourism Windsor Essex Pelee Island Board of Directors</li><li style="box-sizing&#58;border-box;">Windsor Canada Utilities Board of Directors</li><li style="box-sizing&#58;border-box;">Windsor Police Services Board of Directors</li><li style="box-sizing&#58;border-box;">Olde Riverside BIA</li><li style="box-sizing&#58;border-box;">Pillette Village BIA</li></ul><p style="box-sizing&#58;border-box;margin-top&#58;0px;margin-bottom&#58;1rem;color&#58;rgb(51, 51, 51);font-family&#58;&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size&#58;16px;font-style&#58;normal;font-weight&#58;400;letter-spacing&#58;normal;orphans&#58;2;text-align&#58;left;text-indent&#58;0px;text-transform&#58;none;widows&#58;2;word-spacing&#58;0px;white-space&#58;normal;background-color&#58;rgb(255, 255, 255);text-decoration-style&#58;initial;text-decoration-color&#58;initial;">Additionally Jo-Anne Gignac has represented the community at the School Board level&#58; she was elected in 1988 as a Trustee and subsequently served as Vice-Chairperson and Chairperson of the School Board until 2000 when she decided not to seek re-election. Jo-Anne has also been involved with a number of Community organizations, including the Children's Achievement Centre, Windsor Catholic Family Services, Habitat for Humanity, May Court Club of Windsor and the Committee of Adjustment.</p><div style="box-sizing&#58;border-box;color&#58;rgb(51, 51, 51);font-family&#58;&quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;font-size&#58;16px;font-style&#58;normal;font-weight&#58;400;letter-spacing&#58;normal;orphans&#58;2;text-align&#58;left;text-indent&#58;0px;text-transform&#58;none;widows&#58;2;word-spacing&#58;0px;white-space&#58;normal;background-color&#58;rgb(255, 255, 255);text-decoration-style&#58;initial;text-decoration-color&#58;initial;">Councillor Gignac’s continuing priorities are to attract diversified investment in Windsor to create jobs; continuing the City of Windsor’s fiscal focus on reducing costs and taxes; promoting safe and clean neighbourhoods; and investing in improved sewers and roads. She is committed to working tirelessly with residents and business, making the tough decisions to achieve an attractive, vibrant community at the forefront of social and economic innovation.</div></div>
+
+<!--HASH>E3BC58AC48B79DBF01650EE22431DA0C3FA4063BC67B67186ADBD28FAAB1B006B9692E8E868ACFCEDDE4013B6A006D2A</HASH-->
+<!-- /ContentPlaceholder -->
+    </div>
+</div>
+    
+<!--HASH>336A1CB71D3D82579110FA71A6F0CAC2B4C93AD935CB49F9CF73D9831C085BB176AAF62045B511E14C5E6D5BB13A0D22</HASH-->
+
+        </main>
+
+        <!-- Footer -->
+        <footer class="mt-auto footer">
+    <div class="eum-layout-wrapper">
+        <div class="row align-items-center g-4">
+            <div class="col-12 order-4 col-lg-4 order-lg-1">
+                <div class="d-lg-inline-flex flex-column align-items-center">
+                    <a href="/" title="City of Windsor"><img src="/cityofwindsor/img/Windsor_Logo_Grey_White.png" alt="City of Windsor logo" /></a>
+                    <nav class="nav gap-3 mt-4 mb-3">
+                        <a href="http://twitter.com/citywindsoron" title="Twitter" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" fill="currentColor" viewBox="0 0 512 512"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z" /></svg>
+                        </a>
+                        <a href="https://www.facebook.com/CityofWindsor" title="Facebook" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="10" fill="currentColor" viewBox="0 0 320 512"><path d="M80 299.3V512H196V299.3h86.5l18-97.8H196V166.9c0-51.7 20.3-71.5 72.7-71.5c16.3 0 29.4 .4 37 1.2V7.9C291.4 4 256.4 0 236.2 0C129.3 0 80 50.5 80 159.4v42.1H14v97.8H80z" /></svg>
+                        </a>
+                        <a href="http://www.youtube.com/cityofwindsor" title="YouTube" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="18" fill="currentColor" viewBox="0 0 576 512"><path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z" /></svg>
+                        </a>
+                        <a href="http://www.flickr.com/photos/cityofwindsor" title="Flickr" target="_blank">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="14" fill="currentColor" viewBox="0 0 448 512"><path d="M400 32H48C21.5 32 0 53.5 0 80v352c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48zM144.5 319c-35.1 0-63.5-28.4-63.5-63.5s28.4-63.5 63.5-63.5 63.5 28.4 63.5 63.5-28.4 63.5-63.5 63.5zm159 0c-35.1 0-63.5-28.4-63.5-63.5s28.4-63.5 63.5-63.5 63.5 28.4 63.5 63.5-28.4 63.5-63.5 63.5z" /></svg>
+                        </a>
+                        <a href="http://www.instagram.com/citywindsoron" title="Instagram" target="_blank">
+                            <i class="fa-brands fa-instagram fa-xl" style="color: white; transform: scale(.8); transform-origin: left top;"></i>
+                        </a>
+                    </nav>
+                    <p class="small m-0">
+                        &copy; City of Windsor 2024
+                    </p>
+                </div>
+            </div>
+            <div class="links col-12 order-2 col-lg align-self-start">
+                <h6 class="mb-3">Navigate</h6>
+                <nav class="nav flex-column">
+                    <a class="nav-link" href="/city-hall" title="City Hall">City Hall</a>
+                    <a class="nav-link" href="/residents" title="For Residents">For Residents</a>
+                    <a class="nav-link" href="/business" title="For Business">For Business</a>
+                    <a class="nav-link" href="/visitors" title="Visiting Windsor">Visiting Windsor</a>
+                    <a class="nav-link" href="/eservices" title="E-Services">E-Services</a>
+                    <a class="nav-link" href="/mayor-and-council" title="Mayor and Council">Mayor and Council</a>
+                </nav>
+            </div>
+            <div class="links col-12 order-2 col-lg align-self-start">
+                <h6 class="mb-3">Quick Links</h6>
+                <nav class="nav flex-column">
+                    <a class="nav-link" href="/residents/transit-windsor" title="Bus Schedules and Maps">Bus Schedules and Maps</a>
+                    <a class="nav-link" href="/city-hall/employment-opportunities/current-job-postings" title="Job Postings">Job Postings</a>
+                    <a class="nav-link" href="/residents/parks-and-forestry/city-parks" title="City Parks">City Parks</a>
+                    <a class="nav-link" href="/business/Bids-and-Tenders" title="Bids and Tenders">Bids and Tenders</a>
+                    <a class="nav-link" href="/Ticket-Payment" title="Ticket Payment">Ticket Payment</a>
+                    <a class="nav-link" href="/residents/construction" title="Construction and Detours">Construction and Detours</a>
+                    <a class="nav-link" href="/city-hall/city-council-meetings" title="City Council Meeting">City Council Meetings</a>
+                </nav>
+            </div>
+            <div class="links col-12 order-2 col-lg align-self-start">
+                <h6 class="mb-3">More Links</h6>
+                <nav class="nav flex-column">
+                    <a class="nav-link" href="/city-hall/contact-us" title="Contact Us">Contact Us</a>
+                    <a class="nav-link" href="/Privacy" title="Terms of Use/Privacy">Terms of Use/Privacy</a>
+                    <a class="nav-link" href="https://211southwest.ca/" target="_blank" title="211">211</a>
+                    <a class="nav-link" href="/city-hall/customer-service/311" title="311">311</a>
+                    <a class="nav-link" href="https://weather.gc.ca/city/pages/on-94_metric_e.html" target="_blank" title="Weather">Weather</a>
+                    <a class="nav-link" href="/city-hall/accessibility" title="Accessibility">Accessibility</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</footer><!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->
+
+
+    </div>
+
+    <!-- Page Body Scripts -->
+    
+
+    <!-- CORE JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-5aErhPlUPVujIxg3wvJGdWNAWqZqWCtvxACYX4XfSa0=" crossorigin="anonymous"></script>
+<script>(window.bootstrap||document.write("\u003Cscript src=\u0022/lib/bootstrap/js/bootstrap.bundle.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.7/dist/handlebars.min.js" integrity="sha256-ZSnrWNaPzGe8v25yP0S6YaMaDLMTDHC+4mHTw0xydEk=" crossorigin="anonymous"></script>
+<script>(window.Handlebars||document.write("\u003Cscript src=\u0022/lib/handlebars/handlebars.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.3/dist/jquery.validate.min.js" integrity="sha256-TAzGN4WNZQPLqSYvi+dXQMKehTYFoVOnveRqbi42frA=" crossorigin="anonymous"></script>
+<script>(window.jQuery && window.jQuery.validator||document.write("\u003Cscript src=\u0022/lib/jquery-validation/jquery.validate.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+    <script src="https://cdn.jsdelivr.net/npm/luxon@2.4.0/build/global/luxon.min.js" integrity="sha256-DIsAGD2EF8Qq2PCH9yzX/yt9FliJfWf+aGcdgR6tKwo=" crossorigin="anonymous"></script>
+<script>(window.luxon||document.write("\u003Cscript src=\u0022/lib/luxon/luxon.min.js\u0022 crossorigin=\u0022anonymous\u0022\u003E\u003C/script\u003E"));</script>
+
+    <!-- SITE JS -->
+    <script src="/js/core.bundle.min.js?v=2b3CQJsmtSCwHF4lUqdQizQTzNwVYE9S65hlQw9s0M0"></script>
+<!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->
+
+
+    <script>
+        if (EUMPortal) {
+            EUMPortal.siteUrl = 'https://ccw-eumportal.azurewebsites.net';
+        }
+    </script>
+
+    <!-- Portal JS -->
+    <script src="/cityofwindsor/js/portal.js?v=T7_xNFw9Kvc0mvvw0F_mv4t5omQPzcfPoTstGj2vYy8"></script>
+
+    <!-- Accordion JS -->
+    <script src="/cityofwindsor/js/accordion.js?v=CM98m58_xIhWct_FA-FLcJ1VT5FAndIZrxoroyjk2Q8"></script>
+
+    <!-- Accordion for Category JS -->
+    <script src="/cityofwindsor/js/accordion-for-category.js?v=B4EU8q7kTFN9Nms8ye1fY7fZ9QtDKjAjubWrF9jpxR4"></script>
+    
+    
+  <script src="/js/person-page.js?v=KNcziAKHh0CMRwf16nTYdGgNvR1-MYk_EgC6DJMcwgA" type="text/javascript"></script>
+  <script>
+    const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+    const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
+    //Initialization
+    PersonPage.init('51778573-c90c-4bc3-9bad-520c3da752b7');
+  </script>
+
+
+    <!-- ContentPlaceholder: MicrosoftClarity --><!-- /ContentPlaceholder -->
+    <!-- ContentPlaceholder: GoogleAnalytics --><!-- /ContentPlaceholder -->
+    <!-- ContentPlaceholder: FroalaToolbarConfig --><!--HASH>D9E69AF27D0AE3B980A690AD6828AF71B3F39BBDDBCE47F3D5F43F6071EACA1A5B1493049DB5EDC258AD4E7ED4D7105F</HASH-->
+<!-- /ContentPlaceholder -->
+    <!-- Publisher Modals -->
+    
+
+    
+
+
+</body>
+</html><!--HASH>DDF22D0B0B2E78BAD919BDE4DB8EE3F12D9A38F173F73C892CE4C0BC11EBB65DB1F18CBC2863CCCA7221544F08D95F5F</HASH-->

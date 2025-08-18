@@ -1,0 +1,29 @@
+status: 200
+encoding: None
+Content-Type: application/octet-stream
+Content-Length: 1019
+Connection: keep-alive
+Date: Sat, 09 Aug 2025 05:45:10 GMT
+Content-Disposition: attachment; filename="CouncilContactInformation.csv"; size=1019
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Cache-Control: max-age=0, must-revalidate
+ETag: "1869a8820d0"
+Vary: Origin
+X-Cache: Miss from cloudfront
+Via: 1.1 ede5c8e7b29cc9290d2f384042d78428.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: YTO50-P3
+X-Amz-Cf-Id: wYeV7oEoZF4XpDXpTkV-MvZXW5CgA-qPG-71X3mgKTqkWZSeNTaaBw==
+
+District name,Primary role,First name,Last name,Email,Address line 1,Address line 2,Locality,Province,Postal code,Phone
+Kelowna,Councillor,Ron,Cannan,rcannan@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-864-9537
+Kelowna,Councillor,Charlie,Hodge,chodge@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-979-7254
+Kelowna,Councillor,Gord,Lordgrove,glovegrove@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-863-0431
+Kelowna,Councillor,Luke,Stack,lstack@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-878-4990
+Kelowna,Councillor,Maxine,DeHart,mdehart@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-862-7662
+Kelowna,Councillor,Mohini,Singh,msingh@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-575-1453
+Kelowna,Councillor,Rick,Webber,rwebber@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-317-9817
+Kelowna,Councillor,Loyal,Wooldridge,lwooldridge@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-863-0149
+Kelowna,Mayor,Tom ,Dyas,mayorandcouncil@kelowna.ca,1435 Water St,,Kelowna,BC,V1Y 1J4,250-469-8980

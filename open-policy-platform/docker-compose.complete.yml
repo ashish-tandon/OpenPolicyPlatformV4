@@ -1,0 +1,871 @@
+services:
+  # ========================================
+  # INFRASTRUCTURE SERVICES
+  # ========================================
+  # TEST DATABASE (for scraper validation)
+  postgres-test:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: openpolicy_test
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: openpolicy123
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata_test:/var/lib/postgresql/data
+      - ./logs/infrastructure/database-test.log:/var/log/postgresql/postgresql.log
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy_test"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.postgres-test"
+        fluentd-async: "true"
+
+  # MAIN DATABASE (for production data)
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: openpolicy123
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./logs/infrastructure/database.log:/var/log/postgresql/postgresql.log
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.postgres"
+        fluentd-async: "true"
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./logs/infrastructure/redis.log:/var/log/redis/redis.log
+    networks:
+      - openpolicy-network
+    command: redis-server --protected-mode no --tcp-backlog 511 --timeout 0 --tcp-keepalive 300 --daemonize no --supervised no --pidfile /var/run/redis_6379.pid --loglevel notice --logfile "" --databases 16 --always-show-logo no --save 900 1 --save 300 10 --save 60 10000 --stop-writes-on-bgsave-error yes --rdbcompression yes --rdbchecksum yes --dbfilename dump.rdb --dir ./ --replica-priority 100 --maxmemory-policy noeviction --appendonly no --appendfilename "appendonly.aof" --appendfsync everysec --no-appendfsync-on-rewrite no --auto-aof-rewrite-percentage 100 --auto-aof-rewrite-min-size 64mb --aof-load-truncated yes --aof-use-rdb-preamble yes --lua-time-limit 5000 --slowlog-log-slower-than 10000 --slowlog-max-len 128 --latency-monitor-threshold 0 --notify-keyspace-events "" --hash-max-ziplist-entries 512 --hash-max-ziplist-value 64 --list-max-ziplist-size -2 --list-compress-depth 0 --set-max-intset-entries 512 --zset-max-ziplist-entries 128 --zset-max-ziplist-value 64 --hll-sparse-max-bytes 3000 --stream-node-max-bytes 4096 --stream-node-max-entries 100 --activerehashing yes --client-output-buffer-limit normal 0 0 0 --client-output-buffer-limit replica 256mb 64mb 60 --client-output-buffer-limit pubsub 32mb 8mb 60 --hz 10 --dynamic-hz yes --aof-rewrite-incremental-fsync yes --rdb-save-incremental-fsync yes --jemalloc-bg-thread yes
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.redis"
+        fluentd-async: "true"
+
+  # ========================================
+  # LOGGING INFRASTRUCTURE (ELK STACK)
+  # ========================================
+  
+  # Elasticsearch - Log storage and indexing
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - "9200:9200"
+    volumes:
+      - elasticsearch_data:/usr/share/elasticsearch/data
+      - ./logs/infrastructure/elasticsearch.log:/usr/share/elasticsearch/logs/elasticsearch.log
+    networks:
+      - openpolicy-network
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.elasticsearch"
+        fluentd-async: "true"
+
+  # Logstash - Log processing and transformation
+  logstash:
+    image: docker.elastic.co/logstash/logstash:8.11.0
+    ports:
+      - "5044:5044"
+      - "5001:5000/tcp"
+      - "5001:5000/udp"
+      - "9600:9600"
+    volumes:
+      - ./logs/infrastructure/logstash.log:/usr/share/logstash/logs/logstash.log
+      - ./config/logstash/pipeline:/usr/share/logstash/pipeline
+      - ./config/logstash/config/logstash.yml:/usr/share/logstash/config/logstash.yml
+    environment:
+      LS_JAVA_OPTS: "-Xmx256m -Xms256m"
+    networks:
+      - openpolicy-network
+    depends_on:
+      - elasticsearch
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.logstash"
+        fluentd-async: "true"
+
+  # Kibana - Log visualization and search
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.11.0
+    ports:
+      - "5601:5601"
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    volumes:
+      - ./logs/infrastructure/kibana.log:/usr/share/kibana/logs/kibana.log
+    networks:
+      - openpolicy-network
+    depends_on:
+      - elasticsearch
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.kibana"
+        fluentd-async: "true"
+
+  # ========================================
+  # MONITORING INFRASTRUCTURE
+  # ========================================
+  
+  # Prometheus - Metrics collection
+  prometheus:
+    image: prom/prometheus:latest
+    ports:
+      - "9090:9090"
+    volumes:
+      - ./config/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+      - ./logs/monitoring/prometheus.log:/var/log/prometheus/prometheus.log
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention.time=200h'
+      - '--web.enable-lifecycle'
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.prometheus"
+        fluentd-async: "true"
+
+  # Grafana - Metrics visualization
+  grafana:
+    image: grafana/grafana:latest
+    ports:
+      - "3001:3000"
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./config/grafana/provisioning:/etc/grafana/provisioning
+      - ./logs/monitoring/grafana.log:/var/log/grafana/grafana.log
+    networks:
+      - openpolicy-network
+    depends_on:
+      - prometheus
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.grafana"
+        fluentd-async: "true"
+
+  # ========================================
+  # LOG COLLECTION SERVICE
+  # ========================================
+  
+  # Fluentd - Log aggregation from all services
+  fluentd:
+    image: fluent/fluentd:v1.16-1
+    platform: linux/amd64
+    ports:
+      - "24224:24224"
+      - "24224:24224/udp"
+    volumes:
+      - ./config/fluentd/fluent.conf:/fluentd/etc/fluent.conf
+      - ./logs:/fluentd/log
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+    networks:
+      - openpolicy-network
+    depends_on:
+      - elasticsearch
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker.fluentd"
+        fluentd-async: "true"
+
+  # ========================================
+  # CORE MICROSERVICES (ALL 23 SERVICES)
+  # ========================================
+  
+  # API Gateway (Port 9000)
+  api-gateway:
+    build:
+      context: ./services/api-gateway
+      dockerfile: Dockerfile
+    ports:
+      - "9000:9000"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+      - ALLOWED_HOSTS=OpenPolicy.local,OpenPolicyAdmin.local,openpolicy.local,openpolicyadmin.local,localhost
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    extra_hosts:
+      - "OpenPolicy.local:127.0.0.1"
+      - "OpenPolicyAdmin.local:127.0.0.1"
+      - "openpolicy.local:127.0.0.1"
+      - "openpolicyadmin.local:127.0.0.1"
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "api-gateway.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Config Service (Port 9001)
+  config-service:
+    build:
+      context: ./services/config-service
+      dockerfile: Dockerfile
+    ports:
+      - "9001:9001"
+    environment:
+      - PORT=9001
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "config-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Auth Service (Port 9002)
+  auth-service:
+    build:
+      context: ./services/auth-service
+      dockerfile: Dockerfile
+    ports:
+      - "9002:9002"
+    environment:
+      - PORT=9002
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "auth-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Policy Service (Port 9003)
+  policy-service:
+    build:
+      context: ./services/policy-service
+      dockerfile: Dockerfile
+    ports:
+      - "9003:9003"
+    environment:
+      - PORT=9003
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "policy-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Notification Service (Port 9004)
+  notification-service:
+    build:
+      context: ./services/notification-service
+      dockerfile: Dockerfile
+    ports:
+      - "9004:9004"
+    environment:
+      - PORT=9004
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "notification-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Analytics Service (Port 9005)
+  analytics-service:
+    build:
+      context: ./services/analytics-service
+      dockerfile: Dockerfile
+    ports:
+      - "9005:9005"
+    environment:
+      - PORT=9005
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "analytics-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Monitoring Service (Port 9006)
+  monitoring-service:
+    build:
+      context: ./services/monitoring-service
+      dockerfile: Dockerfile
+    ports:
+      - "9006:9006"
+    environment:
+      - PORT=9006
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "monitoring-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # ETL Service (Port 9007)
+  etl-service:
+    build:
+      context: ./services/etl
+      dockerfile: Dockerfile
+    ports:
+      - "9007:9007"
+    environment:
+      - PORT=9007
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "etl-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Scraper Service (Port 9008)
+  scraper-service:
+    build:
+      context: ./services/scraper-service
+      dockerfile: Dockerfile
+    ports:
+      - "9008:9008"
+    environment:
+      - PORT=9008
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres-test:5432/openpolicy_test
+      - TEST_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres-test:5432/openpolicy_test
+      - MAIN_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+      - SCRAPER_MODE=test
+    depends_on:
+      - postgres-test
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "scraper-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Search Service (Port 9009)
+  search-service:
+    build:
+      context: ./services/search-service
+      dockerfile: Dockerfile
+    ports:
+      - "9009:9009"
+    environment:
+      - PORT=9009
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "search-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Dashboard Service (Port 9010)
+  dashboard-service:
+    build:
+      context: ./services/dashboard-service
+      dockerfile: Dockerfile
+    ports:
+      - "9010:9010"
+    environment:
+      - PORT=9010
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "dashboard-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Files Service (Port 9011)
+  files-service:
+    build:
+      context: ./services/files-service
+      dockerfile: Dockerfile
+    ports:
+      - "9011:9011"
+    environment:
+      - PORT=9011
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "files-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Reporting Service (Port 9012)
+  reporting-service:
+    build:
+      context: ./services/reporting-service
+      dockerfile: Dockerfile
+    ports:
+      - "9012:9012"
+    environment:
+      - PORT=9012
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "reporting-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Workflow Service (Port 9013)
+  workflow-service:
+    build:
+      context: ./services/workflow-service
+      dockerfile: Dockerfile
+    ports:
+      - "9013:9013"
+    environment:
+      - PORT=9013
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "workflow-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Integration Service (Port 9014)
+  integration-service:
+    build:
+      context: ./services/integration-service
+      dockerfile: Dockerfile
+    ports:
+      - "9014:9014"
+    environment:
+      - PORT=9014
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "integration-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Data Management Service (Port 9015)
+  data-management-service:
+    build:
+      context: ./services/data-management-service
+      dockerfile: Dockerfile
+    ports:
+      - "9015:9015"
+    environment:
+      - PORT=9015
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "data-management-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Representatives Service (Port 9016)
+  representatives-service:
+    build:
+      context: ./services/representatives-service
+      dockerfile: Dockerfile
+    ports:
+      - "9016:9016"
+    environment:
+      - PORT=9016
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "representatives-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Plotly Service (Port 9017)
+  plotly-service:
+    build:
+      context: ./services/plotly-service
+      dockerfile: Dockerfile
+    ports:
+      - "9017:9017"
+    environment:
+      - PORT=9017
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "plotly-service.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Mobile API (Port 9018)
+  mobile-api:
+    build:
+      context: ./services/mobile-api
+      dockerfile: Dockerfile
+    ports:
+      - "9018:9018"
+    environment:
+      - PORT=9018
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "mobile-api.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # Legacy Django (Port 9019)
+  legacy-django:
+    build:
+      context: ./services/legacy-django
+      dockerfile: Dockerfile
+    ports:
+      - "9019:9019"
+    environment:
+      - PORT=9019
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    depends_on:
+      - postgres
+      - redis
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "legacy-django.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # ========================================
+  # MONITORING & OBSERVABILITY SERVICES
+  # ========================================
+  
+  # Docker Monitor Service (Port 9020)
+  docker-monitor:
+    build:
+      context: ./services/docker-monitor
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "9020:9020"
+    environment:
+      - PORT=9020
+      - LOG_LEVEL=INFO
+      - LOG_FORMAT=json
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    depends_on:
+      - fluentd
+    networks:
+      - openpolicy-network
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "docker-monitor.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+  # ========================================
+  # FRONTEND SERVICES
+  # ========================================
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    ports:
+      - "3000:5173"
+    environment:
+      - REACT_APP_API_URL=http://api-gateway:9000
+      - REACT_APP_APP_NAME=Open Policy Platform
+      - REACT_APP_ADMIN_URL=http://OpenPolicyAdmin.local:3000
+    depends_on:
+      - api-gateway
+      - fluentd
+    networks:
+      - openpolicy-network
+    extra_hosts:
+      - "OpenPolicy.local:127.0.0.1"
+      - "OpenPolicyAdmin.local:127.0.0.1"
+      - "openpolicy.local:127.0.0.1"
+      - "openpolicyadmin.local:127.0.0.1"
+    logging:
+      driver: "fluentd"
+      options:
+        fluentd-address: "localhost:24224"
+        tag: "web-frontend.{{.Name}}"
+        fluentd-async: "true"
+        fluentd-retry-wait: "1s"
+        fluentd-max-retries: "30"
+
+volumes:
+  pgdata:
+  pgdata_test:
+  elasticsearch_data:
+  prometheus_data:
+  grafana_data:
+
+networks:
+  openpolicy-network:
+    driver: bridge

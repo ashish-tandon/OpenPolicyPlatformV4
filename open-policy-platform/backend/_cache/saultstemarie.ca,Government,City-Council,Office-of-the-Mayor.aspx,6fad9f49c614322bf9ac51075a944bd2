@@ -1,0 +1,386 @@
+status: 200
+encoding: utf-8
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: deflate
+Expires: -1
+Server: Microsoft-IIS/10.0
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+Date: Sat, 09 Aug 2025 05:44:54 GMT
+Content-Length: 5703
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-CA" >
+<head id="head"><title>
+	Mayor Matthew Shoemaker - City of Sault Ste. Marie
+</title><meta charset="UTF-8" /> 
+<link href="/CMSPages/GetResource.ashx?stylesheetname=SSM2019" type="text/css" rel="stylesheet"/> 
+<meta name="viewport" content="width=device-width, user-scalable=yes" />
+<meta name="google-translate-customization" content="428e558ce485b6d0-40332962105a4f7f-g3aae896c3597432d-14" />
+<meta name="msvalidate.01" content="F208C67A629D2BCB65FE1117B056A86E" />
+<link rel="search" type="application/opensearchdescription+xml" title="City of SSM" href="/webapps/opensearch-xml.asp">
+<link rel="alternate" type="application/rss+xml" title="City of Sault Ste. Marie News" href="/Newsroom.aspx?rss=news" />
+
+<link href="https://fonts.googleapis.com/css?family=Barlow:400,400i,600,800&display=swap" rel="stylesheet"> 
+<link rel="stylesheet" href="https://apps.saultstemarie.ca/fontawesome-pro-5.15.4-web/css/all.min.css" />
+
+<link rel="stylesheet" href="/jsfiles/lightbox271/css/lightbox.min.css" type="text/css" media="screen" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/Cityweb/media/Graphics/faviconV2/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/Cityweb/media/Graphics/faviconV2/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/Cityweb/media/Graphics/faviconV2/favicon-16x16.png">
+<link rel="mask-icon" href="/Cityweb/media/Graphics/faviconV2/safari-pinned-tab.svg" color="#007681">
+<link rel="shortcut icon" href="/Cityweb/media/Graphics/faviconV2/favicon.ico">
+<meta name="msapplication-TileColor" content="#007681">
+<meta name="msapplication-config" content="/Cityweb/media/Graphics/faviconV2/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+
+<script>
+window.jQuery || document.write('<script src="/jsfiles/jquery-2.2.4.min.js">\x3C/script>')
+</script>
+
+<script src="/jsfiles/responsiveslides.min.js"></script>
+<script src="/jsfiles/lightbox271/js/lightbox.min.js"></script>
+
+<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54219b582d88ea0e" defer="defer" async="async"></script>
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "kma0i9yu9a");
+</script>
+
+<script type="application/ld+json">
+	{ 
+		"@context" : "http://schema.org",
+  		"@type" : "GovernmentOrganization",
+  		"name" : "The Corporation of the City of Sault Ste. Marie",
+ 		"url" : "http://SaultSteMarie.ca",
+ 		"logo" : "http://SaultSteMarie.ca/Cityweb/media/Graphics/faviconV2/android-chrome-192x192.png",
+ 		"telephone" : "705-759-2500",
+  		"address" : {
+			"streetAddress" : "99 Foster Drive",
+			"addressLocality" : "Sault Ste. Marie",
+			"addressRegion" : "ON",
+			"addressCountry" : "CAN"
+ 		},
+		"contactPoint" : [
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+1-705-759-2500",
+				"contactType" : "customer service"
+			},
+			{
+				"@type" : "ContactPoint",
+				"telephone" : "+1-877-688-5528",
+				"contactType" : "customer service",
+				"contactOption" : ["HearingImpairedSupported", "TollFree"]
+			}
+		],
+		"department": [
+			{
+				"@type" : "GovernmentOrganization",
+				"name" : "Public Works - City of Sault Ste. Marie",
+				"url" : "http://SaultSteMarie.ca/PWT",
+				"telephone" : "+1-705-759-5201",
+				"address" : {
+					"streetAddress" : "128 Sackville Road",
+					"addressLocality" : "Sault Ste. Marie",
+					"addressRegion" : "ON",
+					"addressCountry" : "CAN"
+ 				}
+			},
+			{
+				"@type" : "GovernmentOrganization",
+				"name" : "Sault Ste. Marie Transit Services",
+				"url" : "http://SaultSteMarie.ca/Transit",
+				"telephone" : "+1-705-759-5438",
+				"address" : {
+					"streetAddress" : "111 Huron Street",
+					"addressLocality" : "Sault Ste. Marie",
+					"addressRegion" : "ON",
+					"addressCountry" : "CAN"
+ 				}
+			}
+		],
+  		"sameAs" : [ 
+			"https://twitter.com/CitySSM",
+   			"https://www.youtube.com/user/SaultSteMarieOntario",
+  			"https://www.linkedin.com/company/the-corporation-of-the-city-of-sault-ste.-marie-ontario",
+			"https://github.com/cityssm/"
+		] 
+	}
+</script>
+
+<script type="application/ld+json">
+	{
+  		"@context": "http://schema.org",
+   		"@type": "WebSite",
+   		"url": "http://SaultSteMarie.ca/",
+   		"potentialAction": {
+     			"@type": "SearchAction",
+     			"target": "http://SaultSteMarie.ca/Search.aspx?searchtext={search_term_string}",
+     			"query-input": "required name=search_term_string"
+  		 }
+	}
+</script> 
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"/> 
+<link href="/favicon.ico" type="image/x-icon" rel="icon"/> 
+</head>
+<body class="LTR ENUS ContentBody" >
+    <form method="post" action="/Government/City-Council/Office-of-the-Mayor.aspx" id="form">
+<div class="aspNetHidden">
+<input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="" />
+
+</div>
+
+<input type="hidden" name="lng" id="lng" value="en-US" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }__doPostBack('m',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }WebForm_DoCallback('m',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=w02oD9f2L3YH680N5fC7Ty2LIWLq-a922k99g1V8kdjJ3Ts9BrstAonDziPcW_JzUwkA6Zegg6m6kQWdg0BimSpadXMjvhoc5VjoFzDo-PtE9TJR7O_aSHRs4CYFLpfa0&amp;t=3a1336b1" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+</div>
+    <div id="CMSHeaderDiv">
+	<!-- -->
+</div>
+    <div id="ctxM">
+
+</div>
+    
+<a href="#content" class="offscreen">Jump to Main Content</a>
+
+<!-- Top info -->
+<div class="siteWrapper" id="wrapper--site">
+  
+  <!-- HEADER -->
+  <div class="headerWrapper" id="wrapper--header" role="banner">
+    <div class="clearing">&nbsp;</div>
+    
+    <a href="/" aria-label="Home">
+    <div id="header_leftCol">
+      <!-- <a href="/" title="Home page"><img id="p_lt_zL_wLo_ucEditableImage_imgImage" title="Sault Ste. Marie, Ontario, Canada" class="logo" src="../../DTS/media/graphics/Pictures/banner.png?width=554&amp;height=121&amp;ext=.png" alt="Sault Ste. Marie, Ontario, Canada" style="border:0;" />
+
+</a> -->
+    </div>
+    </a>
+    
+    <div id="header_rightCol">
+      <div class="searchArea hidden-print" id="header--search-box" role="search"><div id="header--search-box-2">
+<label for="search-box--searchtext">Search:</label>
+<span>
+<input id="search-box--searchtext" type="search" aria-label="Search Site" />
+<button id="search-box--submit" type="button" aria-label="Submit Search"><span class="fas fa-search" aria-hidden="true"></span></button>
+</span>
+</div>
+<script>
+function ssm_header_searchBox_submit() {
+	window.location.href = "/Search.aspx?searchtext=" + encodeURIComponent(document.getElementById("search-box--searchtext").value);
+}
+document.getElementById("search-box--searchtext").addEventListener("keyup", function(inputEvent) {
+	if (inputEvent.key === "Enter") {
+		inputEvent.preventDefault();
+		ssm_header_searchBox_submit();
+	}
+});
+document.getElementById("search-box--submit").addEventListener("click", ssm_header_searchBox_submit);
+</script><div id="header--popular-searches">
+Popular Searches:
+<a href="/City-Hall/City-Departments/Public-Works-and-Transportation/Public-Works/Waste-Management.aspx" title="Search for Garbage and Recycling">Garbage and Recycling</a>
+-
+<a href="/City-Hall/City-Departments/Public-Works-and-Transportation/Transit.aspx" title="Search for Transit">Transit</a>
+-
+<a href="/City-Hall/City-Departments/Human-Resources.aspx" title="Search for Employment">Employment</a>
+</div></div>
+      
+      
+    </div>
+   
+    <div class="clearing">&nbsp;</div>      
+  </div>
+
+  <!-- MENU -->
+  <div class="zoneMenu" id="wrapper--nav">
+    <div class="menuWrap hidden-print" role="navigation" aria-label="Main"><div class="menuInner">
+	<ul class="contentNavCMSListMenuUL" id="contentNav">
+		<li class="contentNavCMSListMenuLI" style=""><a href="/" class="contentNavCMSListMenuLink" style="" >Home</a></li>
+		<li class="contentNavCMSListMenuLI" style=""><a href="/Services.aspx" class="contentNavCMSListMenuLink" style="" >Services</a></li>
+		<li class="contentNavCMSListMenuHighlightedLI" style=""><a href="/Government.aspx" class="contentNavCMSListMenuLinkHighlighted" style="" >City Government</a></li>
+		<li class="contentNavCMSListMenuLI" style=""><a href="/Business.aspx" class="contentNavCMSListMenuLink" style="" >Business</a></li>
+		<li class="contentNavCMSListMenuLI" style=""><a href="/Visitors.aspx" class="contentNavCMSListMenuLink" style="" onclick="window.open('http://www.saulttourism.com/');return false;"  >Visitors</a></li>
+	</ul>
+
+</div></div>
+    <div class="clearing">&nbsp;</div>
+  </div>
+  
+  <!-- CONTENT AREA --> 
+  <div class="contentSection" id="content" role="main">
+    <div class="clearing">&nbsp;</div>
+    
+    
+    
+    <div class="clearing">&nbsp;</div>
+    
+    <div id="main_rightCol">
+      
+      <div id="zone_rightPage">
+
+<div class="zoneMainContent" id="changeable">
+  <div class="clearing"></div>
+  <div id="mainContent_left">
+    <ul id="pageBreadcrumb"><li> <a href="/">Home</a> </li><li> <a href="/Government.aspx" title="City Government" class="CMSBreadCrumbsLink">City Government</a> </li><li> <a href="/Government/City-Council.aspx" title="City Council" class="CMSBreadCrumbsLink">City Council</a> 
+</li></ul><h1 class="pageTitle">Mayor Matthew Shoemaker</h1><div class="attachmentsHeader">
+
+
+
+</div><div>
+	<img alt="Photo of Mayor Shoemaker." src="/Cityweb/media/City-Clerk/Untitled-design.png" /></div>
+<br />
+<div style="text-align: center;">
+	<a class="btn btn-green" href="/Government/City-Council/Office-of-the-Mayor/Invite-the-Mayor.aspx" target="_blank">Invite the Mayor</a> <a class="btn btn-purple" href="https://saultstemarie.ca/Government/City-Council/Office-of-the-Mayor/Invite-the-Mayor.aspx" target="_blank">Request a Greeting</a> <a class="btn btn-red" href="https://matthewshoemaker.ca/" target="_blank">matthewshoemaker.ca</a></div>
+<br />
+<h2>
+	Connect with Mayor Matthew Shoemaker</h2>
+<a href="https://twitter.com/SooShoe" target="_blank"><img alt="Twitter" src="/Cityweb/media/Graphics/twitter32px.png" style="margin-right: 0.5em; vertical-align: middle;" /></a><a href="https://twitter.com/SooShoe" target="_blank">@sooshoe</a><br />
+<br />
+<a href="https://www.facebook.com/MattShoe" target="_blank"><img alt="Facebook" src="/Cityweb/media/Graphics/facebook32px.png" style="margin-right: 0.5em; vertical-align: middle;" /></a><a href="https://www.facebook.com/MattShoe" target="_blank">@mattshoe</a><br />
+<br />
+<a href="https://www.instagram.com/saultshoe/" target="_blank"><img alt="Instagram" src="/Cityweb/media/Graphics/Instagram-32x.png" style="margin-right: 0.5em; vertical-align: middle;" />@saultshoe</a>
+
+
+
+
+  </div>
+  <div id="mainContent_right">
+    <div id="mainContent_contactUs"><h2>
+	Contact Us</h2>
+<strong>Phone</strong><br />
+705-759-5344<br />
+<br />
+<strong>Email</strong><br />
+<a href="mailto:mayor.shoemaker@cityssm.on.ca">mayor.shoemaker@cityssm.on.ca</a><br />
+<a href="mailto:mayorsoffice@cityssm.on.ca">mayorsoffice@cityssm.on.ca</a><br />
+<br />
+<strong>Fax</strong><br />
+705-541-7171<br />
+<br />
+<strong>TTY</strong><br />
+1-877-688-5528<br />
+<br />
+<strong>Location</strong><br />
+Civic Centre - Level 4<br />
+<br />
+<a href="http://www.facebook.com/ccprovenzano" target="_blank" title="Mayor Christian Provenzano on Facebook"><img alt="Facebook" src="/getmedia/b8c9aea4-d60e-4db3-8c7c-65f3b1961224/facebook32px.aspx?width=20&amp;height=20" style="border: 0px none; width: 20px; height: 20px;" /></a> <a href="http://www.twitter.com/mayorprovenzano" target="_blank" title="Mayor Christian Provenzano on Twitter"><img alt="Twitter" src="/Cityweb/media/Graphics/twitter32px.png" style="border: 0px none; width: 20px; height: 20px;" /></a> 
+
+
+
+</div>
+  </div>
+  <div class="clearing"></div>
+</div></div>
+    </div>
+    
+    <div id="main_leftCol">
+      
+      <div id="zone_leftPage" role="navigation" aria-label="Page"><div class="mb-2">
+<h2>Subpages</h2>
+	<ul id="sideNav">
+		<li><a href="/Government/City-Council/Office-of-the-Mayor/About-Mayor-Shoemaker.aspx" title="About Mayor Matthew Shoemaker" >About Mayor Matthew Shoemaker</a></li>
+		<li><a href="/Government/City-Council/Office-of-the-Mayor/Strong-Mayor-Powers.aspx" title="Mayoral Decisions" >Mayoral Decisions</a></li>
+		<li><a href="/Government/City-Council/Office-of-the-Mayor/Every-Breakfast-Counts.aspx" title="Every Breakfast Counts" >Every Breakfast Counts</a></li>
+		<li style=""><a href="/Government/City-Council/Office-of-the-Mayor/Mayor-s-Message.aspx" style="" title="Mayor&#39;s Message" >Mayor&#39;s Message</a></li>
+		<li><a href="/Government/City-Council/Office-of-the-Mayor/Invite-the-Mayor.aspx" title="Invite the Mayor or Request a Greeting" >Invite the Mayor or Request a Greeting</a></li>
+		<li style=""><a href="/City-Hall/City-Departments/Community-Services/Recreation-and-Culture/Youth/Mayors-Youth-Advisory-Council.aspx" style="" title="Mayor&#39;s Youth Advisory Council" >Mayor&#39;s Youth Advisory Council</a></li>
+		<li><a href="/Government/City-Council/Office-of-the-Mayor/Social-Media-Disclaimer.aspx" title="Social Media Disclaimer" >Social Media Disclaimer</a></li>
+		<li><a href="/Government/City-Council/Office-of-the-Mayor/Our-Team.aspx" title="Our Team" >Our Team</a></li>
+	</ul>
+
+</div>
+<script type="text/javascript">
+jQuery(document).ready( function() {
+jQuery("#sideNav a[href^='http://']").attr("target","_blank");
+});
+</script><div class="hidden-print"><h2>
+	Quick Links</h2>
+<ul class="quickLinkList">
+	<li>
+		<a href="/Popular-Pages.aspx" title="Popular Pages">Popular Pages</a></li>
+	<li>
+		<a href="/A-Z.aspx" title="A-Z">A-Z</a></li>
+	<li>
+		<a href="/eServices.aspx" title="eServices">eServices</a></li>
+	<li>
+		<a href="/Newsroom.aspx" title="Newsroom">Newsroom</a></li>
+</ul>
+</div></div>
+    </div>
+
+    <div class="clearing">&nbsp;</div>
+  </div>
+  
+  <!-- FOOTER -->
+  <div class="zoneFooter" id="wrapper--footer">
+    <div class="footer">
+      <footer><div class="footerInner2" id="footer--top"><div><div style="float: left;width: 49%;"><div id="footer--top-left"><a href="/Contact-Us.aspx" title="Contact Us">CONTACT US</a><br />
+99 Foster Drive<br />
+Sault Ste. Marie, ON P6A 5X6<br />
+705-759-2500 </div></div><div style="float: right;width: 49%;"><div class="footerRight hidden-print" id="footer--top-right"><div class="footerItem"><a href="/City-Hall/City-Council.aspx" target="_self">City Council</a><br />
+<a href="/Feedback.aspx" target="_self">Feedback</a><br />
+<a href="/City-Hall/City-Departments/Social-Services/Accessibility.aspx" target="_self">Accessibility</a></div><div id="google_translate_element"></div><script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'ar,da,de,en,es,et,fi,fr,hi,hr,it,ja,ko,nl,pl,pt,ta,tl,uk,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-55239833-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div></div><div style="clear: both;"></div></div></div><div class="footer2" id="footer--bottom"><div class="footer2Inner"><div><div style="float: left;width: 49%;">&copy;2025 Corporation of the City of Sault Ste. Marie. <span class="text-nowrap">All Rights Reserved.</span></div><div style="float: right;width: 49%;"><div class="footer2Right hidden-print" id="footer--bottom-right"><ul>
+	<li>
+		<a class="footerLink" href="/Disclaimer.aspx">Disclaimer and <span class="text-nowrap">Privacy Policy</span></a></li>
+	<li>
+		<a class="footerLink" href="/Site-Map.aspx">Site Map</a></li>
+</ul>
+</div></div><div style="clear: both;"></div></div></div></div></footer>  
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55239833-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("manScript_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODc3OTc4NjAwZGQSpInuMAiLOx7FhGp759WO7OS3LpE4ISweWcQkt3UV2g==" />
+    <script type="text/javascript"> 
+      //<![CDATA[
+      if (window.WebForm_InitCallback) { 
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback(); 
+      }
+      //]]>
+    </script>
+  </form>
+</body>
+</html>

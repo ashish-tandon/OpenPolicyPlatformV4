@@ -1,0 +1,17 @@
+status: 200
+encoding: utf-8
+Cache-Control: private
+Content-Type: application/javascript; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: 
+X-AspNet-Version: 4.0.30319
+X-UA-Compatible: IE=Edge
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+Date: Sat, 09 Aug 2025 05:44:57 GMT
+Content-Length: 481
+
+<p><strong>Christina Early</strong><br/>Ward 1, 2 & 3 Regional Councillor<br/>6311 Old Church Road<br/>Caledon ON<br/>L7C 1J6<br/>T. <a href="tel://4165769366">416-576-9366</a><br/><a href="javascript:emailContactV2('EUnmHEwyIEhLi7NaAaTuNQeQuAleQuAl');" title="Christina Early">Christina.Early@caledon.ca</a><br/><a href="http://maps.google.com/maps?f=d&source=s_d&daddr=6311+Old+Church+Road,+Caledon+ON+L7C+1J6" title="Link to Map this Location" target="_blank" rel="noopener noreferrer" >Map this Location</a></p>

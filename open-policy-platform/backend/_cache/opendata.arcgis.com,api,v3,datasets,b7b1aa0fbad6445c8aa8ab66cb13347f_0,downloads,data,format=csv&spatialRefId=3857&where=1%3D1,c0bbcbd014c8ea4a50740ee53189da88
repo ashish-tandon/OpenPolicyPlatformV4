@@ -1,0 +1,30 @@
+status: 200
+encoding: ISO-8859-1
+Date: Sat, 09 Aug 2025 05:44:59 GMT
+Content-Type: text/csv
+Content-Length: 1495
+Connection: keep-alive
+Vary: Accept-Encoding
+x-amz-replication-status: COMPLETED
+Last-Modified: Tue, 24 Jun 2025 16:35:27 GMT
+ETag: "556604e37b3a2f05fc983c7fe22e9c1e"
+x-amz-server-side-encryption: AES256
+Cache-Control: must-revalidate
+x-amz-meta-cachetime: 1233
+Content-Disposition: attachment; filename="County_Council_2021-2025.csv"
+Content-Encoding: gzip
+x-amz-meta-contentlastmodified: 2023-12-07T23:03:21.655Z
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+
+﻿X,Y,objectid,district,district_id,primary_role,first_name,last_name,name,gender,party_name,email,photo_url,photo,source_url,website,address_line_1,address_line_2,locality,postal_code,province,phone,fax,twitter,blog,location,latitude,longitude,geopoint,globalid
+-12612147.8518,7080835.737,1,County,Strathcona,Mayor,Rod,Frank,Rod Frank,M,,Rod.Frank@strathcona.ca,https://www.strathcona.ca/files/images/eo-rod-frank-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/mayor/,https://www.strathcona.ca/council-county/mayor-council/mayor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8000,780-464-8051,http://twitter.com/rodfrank12,,"(53.525696348404502, -113.296851808878)",53.52569635,-113.29685181,POINT (-113.296851808878 53.5256963484045),e5418ada-40b7-4271-b36c-d5f404dbb8c4
+-12590106.027,7112667.2757,2,Ward,Ward 5,Councillor,Aaron,Nelson,Aaron Nelson,M,,Aaron.Nelson@strathcona.ca,https://www.strathcona.ca/files/images/eo-aaron-nelson-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-5-councillor/,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-5-councillor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8147,780-464-8114,,,"(53.695340495834003, -113.098846727584)",53.6953405,-113.09884673,POINT (-113.098846727584 53.695340495834),5b2fa082-5116-415e-980d-2c85fe78fe91
+-12617896.0946,7083745.3985,3,Ward,Ward 1,Councillor,Robert,Parks,Robert Parks,M,,Robert.Parks@strathcona.ca,https://www.strathcona.ca/files/images/eo-robert-parks-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-1-councillor/,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-1-councillor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8005,780-464-8114,,,"(53.541231512598003, -113.348489152534)",53.54123151,-113.34848915,POINT (-113.348489152534 53.541231512598),43bb91cf-3c5d-4c1f-a90d-85457a707c3c
+-12609839.1522,7067417.3443,4,Ward,Ward 6,Councillor,Corey-Ann,Hartwick,Corey-Ann Hartwick,F,,Corey-Ann.Hartwick@strathcona.ca,https://www.strathcona.ca/files/images/eo-corey-ann-hartwick-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-6-councillor/,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-6-councillor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8206,780-464-8114,,,"(53.453979560576897, -113.276112406839)",53.45397956,-113.27611241,POINT (-113.276112406839 53.4539795605768),195cf198-1ccc-4439-bb75-beaceae01488
+-12610236.9883,7083847.0703,5,Ward,Ward 2,Councillor,Dave,Anderson,Dave Anderson,M,,Dave.Anderson@strathcona.ca,https://www.strathcona.ca/files/images/eo-dave-anderson-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-2-councillor/,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-2-councillor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8002,780-464-8114,,,"(53.541774251760899, -113.279686229223)",53.54177425,-113.27968623,POINT (-113.279686229223 53.5417742517608),0ce718a4-127e-4b6f-82a3-ba5a8f73bc0e
+-12581817.0273,7066111.4384,6,Ward,Ward 7,Councillor,Glen,Lawrence,Glen Lawrence,M,,Glen.Lawrence@strathcona.ca,https://www.strathcona.ca/files/images/eo-glen-lawrence-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-7-councillor/,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-7-councillor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8003,780-464-8114,,,"(53.446993457341001, -113.024385376509)",53.44699346,-113.02438538,POINT (-113.024385376509 53.446993457341),b74dbd7b-a07b-45d2-9ad3-20c45b09b84d
+-12611720.1865,7079163.0044,7,Ward,Ward 3,Councillor,Lorne,Harvey,Lorne Harvey,M,,Lorne.Harvey@strathcona.ca,https://www.strathcona.ca/files/images/eo-lorne-harvey-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-3-councillor/,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-3-councillor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8149,780-464-8114,,,"(53.516762771579003, -113.293010025976)",53.51676277,-113.29301003,POINT (-113.293010025976 53.516762771579),fed9d9c6-545d-496c-bb84-eeb3f43188e5
+-12607934.539,7081012.0956,8,Ward,Ward 8,Councillor,Katie,Berghofer,Katie Berghofer,F,,Katie.Berghofer@strathcona.ca,https://www.strathcona.ca/files/images/eo-katie-berghofer-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-8-councillor/,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-8-councillor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8158,780-464-8114,,,"(53.526638117993897, -113.259002975266)",53.52663812,-113.25900298,POINT (-113.259002975266 53.5266381179938),3ed5a4a0-8c8b-456b-a91b-890caceb0a7c
+-12609322.1513,7089197.8525,9,Ward,Ward 4,Councillor,Bill,Tonita,Bill Tonita,M,,Bill.Tonita@strathcona.ca,https://www.strathcona.ca/files/images/eo-bill-tonita-660x396.jpg,,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-4-councillor/,https://www.strathcona.ca/council-county/mayor-council/councillors/ward-4-councillor/,2001 Sherwood Drive,,Sherwood Park,T8A 3W7,Alberta,780-464-8146,780-464-8114,,,"(53.570327721256, -113.271468109305)",53.57032772,-113.27146811,POINT (-113.271468109305 53.570327721256),42581b49-2403-43bf-bdee-71aeb7360388

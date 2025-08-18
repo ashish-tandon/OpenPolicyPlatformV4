@@ -1,0 +1,679 @@
+# ========================================
+# OPEN POLICY PLATFORM HELM VALUES
+# ========================================
+# Default values for open-policy-platform
+# This file contains all configurable parameters
+
+# Global configuration
+global:
+  environment: "local"
+  imageRegistry: "ghcr.io"
+  imagePullSecrets: []
+  storageClass: ""
+  domain: "openpolicy.local"
+  adminDomain: "openpolicyadmin.local"
+
+# Image configurations
+images:
+  apiGateway:
+    repository: open-policy-platform/api-gateway
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  configService:
+    repository: open-policy-platform/config-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  authService:
+    repository: open-policy-platform/auth-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  policyService:
+    repository: open-policy-platform/policy-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  notificationService:
+    repository: open-policy-platform/notification-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  analyticsService:
+    repository: open-policy-platform/analytics-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  monitoringService:
+    repository: open-policy-platform/monitoring-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  etlService:
+    repository: open-policy-platform/etl-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  scraperService:
+    repository: open-policy-platform/scraper-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  searchService:
+    repository: open-policy-platform/search-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  dashboardService:
+    repository: open-policy-platform/dashboard-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  filesService:
+    repository: open-policy-platform/files-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  reportingService:
+    repository: open-policy-platform/reporting-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  workflowService:
+    repository: open-policy-platform/workflow-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  integrationService:
+    repository: open-policy-platform/integration-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  dataManagementService:
+    repository: open-policy-platform/data-management-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  representativesService:
+    repository: open-policy-platform/representatives-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  plotlyService:
+    repository: open-policy-platform/plotly-service
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  mobileApi:
+    repository: open-policy-platform/mobile-api
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  legacyDjango:
+    repository: open-policy-platform/legacy-django
+    tag: "latest"
+    pullPolicy: IfNotPresent
+  web:
+    repository: open-policy-platform/web
+    tag: "latest"
+    pullPolicy: IfNotPresent
+
+# Infrastructure services
+infrastructure:
+  postgres:
+    enabled: true
+    image:
+      repository: postgres
+      tag: "15-alpine"
+    persistence:
+      enabled: true
+      size: 10Gi
+    resources:
+      requests:
+        memory: 256Mi
+        cpu: 250m
+      limits:
+        memory: 1Gi
+        cpu: 1000m
+    postgresqlPassword: "openpolicy123"
+    postgresqlDatabase: "openpolicy"
+    postgresqlUsername: "openpolicy"
+  
+  postgresTest:
+    enabled: true
+    image:
+      repository: postgres
+      tag: "15-alpine"
+    persistence:
+      enabled: true
+      size: 5Gi
+    resources:
+      requests:
+        memory: 256Mi
+        cpu: 250m
+      limits:
+        memory: 1Gi
+        cpu: 1000m
+    postgresqlPassword: "openpolicy123"
+    postgresqlDatabase: "openpolicy_test"
+    postgresqlUsername: "openpolicy"
+  
+  redis:
+    enabled: true
+    image:
+      repository: redis
+      tag: "7-alpine"
+    persistence:
+      enabled: true
+      size: 2Gi
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  elasticsearch:
+    enabled: true
+    image:
+      repository: docker.elastic.co/elasticsearch/elasticsearch
+      tag: "8.11.0"
+    persistence:
+      enabled: true
+      size: 20Gi
+    resources:
+      requests:
+        memory: 1Gi
+        cpu: 500m
+      limits:
+        memory: 4Gi
+        cpu: 2000m
+  
+  logstash:
+    enabled: true
+    image:
+      repository: docker.elastic.co/logstash/logstash
+      tag: "8.11.0"
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 250m
+      limits:
+        memory: 1Gi
+        cpu: 1000m
+  
+  kibana:
+    enabled: true
+    image:
+      repository: docker.elastic.co/kibana/kibana
+      tag: "8.11.0"
+    resources:
+      requests:
+        memory: 256Mi
+        cpu: 250m
+      limits:
+        memory: 1Gi
+        cpu: 1000m
+  
+  prometheus:
+    enabled: true
+    image:
+      repository: prom/prometheus
+      tag: "latest"
+    persistence:
+      enabled: true
+      size: 5Gi
+    resources:
+      requests:
+        memory: 256Mi
+        cpu: 250m
+      limits:
+        memory: 1Gi
+        cpu: 1000m
+  
+  grafana:
+    enabled: true
+    image:
+      repository: grafana/grafana
+      tag: "latest"
+    persistence:
+      enabled: true
+      size: 2Gi
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  fluentd:
+    enabled: true
+    image:
+      repository: fluent/fluentd
+      tag: "v1.16-1"
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+
+# Microservices configuration
+microservices:
+  # API Gateway
+  apiGateway:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: LoadBalancer
+      port: 9000
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+    ingress:
+      enabled: true
+      className: "nginx"
+      hosts:
+        - host: api.openpolicy.local
+          paths:
+            - path: /
+              pathType: Prefix
+  
+  # Core Services
+  configService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9001
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  authService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9002
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  policyService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9003
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  # Communication Services
+  notificationService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9004
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  analyticsService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9005
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  monitoringService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9006
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  # Data Services
+  etlService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9007
+    resources:
+      requests:
+        memory: 256Mi
+        cpu: 250m
+      limits:
+        memory: 1Gi
+        cpu: 1000m
+  
+  scraperService:
+    enabled: true
+    replicaCount: 3
+    service:
+      type: ClusterIP
+      port: 9008
+    resources:
+      requests:
+        memory: 256Mi
+        cpu: 250m
+      limits:
+        memory: 1Gi
+        cpu: 1000m
+  
+  searchService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9009
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  dashboardService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9010
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  filesService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9011
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  # Business Services
+  reportingService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9012
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  workflowService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9013
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  integrationService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9014
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  dataManagementService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9015
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  # Specialized Services
+  representativesService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9016
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  plotlyService:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9017
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  mobileApi:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9018
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  legacyDjango:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: ClusterIP
+      port: 9019
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+  
+  # Frontend
+  web:
+    enabled: true
+    replicaCount: 2
+    service:
+      type: LoadBalancer
+      port: 3000
+    resources:
+      requests:
+        memory: 128Mi
+        cpu: 100m
+      limits:
+        memory: 512Mi
+        cpu: 500m
+    ingress:
+      enabled: true
+      className: "nginx"
+      hosts:
+        - host: openpolicy.local
+          paths:
+            - path: /
+              pathType: Prefix
+        - host: openpolicyadmin.local
+          paths:
+            - path: /
+              pathType: Prefix
+
+# Deployment strategies
+deployment:
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  
+  # Blue-Green deployment configuration
+  blueGreen:
+    enabled: false
+    autoSwitch: false
+    switchAfter: 300  # seconds
+    rollbackOnFailure: true
+  
+  # Canary deployment configuration
+  canary:
+    enabled: false
+    initialTraffic: 10  # percentage
+    maxTraffic: 100     # percentage
+    stepSize: 10        # percentage
+    stepInterval: 60    # seconds
+    autoPromote: false
+    rollbackOnFailure: true
+
+# Monitoring and health checks
+monitoring:
+  healthChecks:
+    enabled: true
+    initialDelaySeconds: 30
+    periodSeconds: 10
+    timeoutSeconds: 5
+    failureThreshold: 3
+    successThreshold: 1
+  
+  readinessProbes:
+    enabled: true
+    initialDelaySeconds: 5
+    periodSeconds: 5
+    timeoutSeconds: 3
+    failureThreshold: 3
+    successThreshold: 1
+  
+  livenessProbes:
+    enabled: true
+    initialDelaySeconds: 60
+    periodSeconds: 10
+    timeoutSeconds: 5
+    failureThreshold: 3
+    successThreshold: 1
+
+# Secrets and configuration
+secrets:
+  database:
+    existingSecret: ""
+    secretName: "openpolicy-db-secret"
+    postgresqlPassword: "openpolicy123"
+    postgresqlUsername: "openpolicy"
+    postgresqlDatabase: "openpolicy"
+  
+  redis:
+    existingSecret: ""
+    secretName: "openpolicy-redis-secret"
+    password: ""
+  
+  elasticsearch:
+    existingSecret: ""
+    secretName: "openpolicy-elasticsearch-secret"
+    username: "elastic"
+    password: "changeme"
+
+# Network policies
+networkPolicy:
+  enabled: false
+  ingressRules: []
+  egressRules: []
+
+# Pod disruption budget
+podDisruptionBudget:
+  enabled: false
+  minAvailable: 1
+
+# Horizontal Pod Autoscaler
+hpa:
+  enabled: false
+  minReplicas: 2
+  maxReplicas: 10
+  targetCPUUtilizationPercentage: 80
+  targetMemoryUtilizationPercentage: 80
+
+# Service account
+serviceAccount:
+  create: true
+  name: "open-policy-platform"
+  annotations: {}
+
+# Pod security context
+podSecurityContext:
+  fsGroup: 1000
+  runAsNonRoot: true
+  runAsUser: 1000
+
+# Container security context
+containerSecurityContext:
+  allowPrivilegeEscalation: false
+  readOnlyRootFilesystem: true
+  runAsNonRoot: true
+  runAsUser: 1000
+  capabilities:
+    drop:
+      - ALL

@@ -1,0 +1,1519 @@
+status: 200
+encoding: utf-8
+Date: Sat, 09 Aug 2025 05:45:01 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: cloudflare
+Cache-Provider: CLOUDWAYS-CACHE-DE
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bExdDhjut8bJKlExMWM7dsv3Z21qcyCXPDs%2BO9X08TOHsL7qRjYLLQcVCOq8Ijk16xhHpvUoFVFDiJNdXccuVrW7k1YxkQGKkrCfialtDMU%3D"}]}
+Vary: Accept-Encoding
+Last-Modified: Sat, 09 Aug 2025 01:25:02 GMT
+Cache-Control: max-age=0, s-maxage=2592000
+Expires: Sat, 09 Aug 2025 01:50:56 GMT
+Age: 14045
+X-Cache: HIT
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Cf-Cache-Status: DYNAMIC
+Content-Encoding: gzip
+CF-RAY: 96c4f1ea9f2debb5-YYZ
+alt-svc: h3=":443"; ma=86400
+
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<title>Membres du conseil &#x2d; Ville de Côte Saint&#x2d;Luc</title>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" hreflang="en" href="https://cotesaintluc.org/en/municipal-affairs/council-members/" />
+<link rel="alternate" hreflang="fr" href="https://cotesaintluc.org/fr/affaires-municipales/membres-du-conseil/" />
+<link rel="alternate" hreflang="x-default" href="https://cotesaintluc.org/fr/affaires-municipales/membres-du-conseil/" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The SEO Framework : par Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+<link rel="canonical" href="https://cotesaintluc.org/fr/affaires-municipales/membres-du-conseil/" />
+<meta name="description" content="La Ville de C&ocirc;te Saint&#x2d;Luc &eacute;tait administr&eacute;e par un maire et huit conseillers. Le conseil est &eacute;lu pour quatre ans. Chaque conseiller municipal est responsable&#8230;" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:site_name" content="Ville de Côte Saint-Luc" />
+<meta property="og:title" content="Membres du conseil" />
+<meta property="og:description" content="La Ville de C&ocirc;te Saint&#x2d;Luc &eacute;tait administr&eacute;e par un maire et huit conseillers. Le conseil est &eacute;lu pour quatre ans. Chaque conseiller municipal est responsable de quelques dossiers&#8230;" />
+<meta property="og:url" content="https://cotesaintluc.org/fr/affaires-municipales/membres-du-conseil/" />
+<meta property="og:image" content="https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Membres du conseil" />
+<meta name="twitter:description" content="La Ville de C&ocirc;te Saint&#x2d;Luc &eacute;tait administr&eacute;e par un maire et huit conseillers. Le conseil est &eacute;lu pour quatre ans. Chaque conseiller municipal est responsable de quelques dossiers&#8230;" />
+<meta name="twitter:image" content="https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1.jpg" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://cotesaintluc.org/fr/#/schema/WebSite","url":"https://cotesaintluc.org/fr/","name":"Ville de Côte Saint&#x2d;Luc","inLanguage":"fr-FR","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://cotesaintluc.org/fr/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@type":"Organization","@id":"https://cotesaintluc.org/fr/#/schema/Organization","name":"Ville de Côte Saint&#x2d;Luc","url":"https://cotesaintluc.org/fr/","logo":{"@type":"ImageObject","url":"https://cotesaintluc.org/wp-content/uploads/2022/05/CSL-logo_500px_header.png","contentUrl":"https://cotesaintluc.org/wp-content/uploads/2022/05/CSL-logo_500px_header.png","width":500,"height":250}}},{"@type":"WebPage","@id":"https://cotesaintluc.org/fr/affaires-municipales/membres-du-conseil/","url":"https://cotesaintluc.org/fr/affaires-municipales/membres-du-conseil/","name":"Membres du conseil &#x2d; Ville de Côte Saint&#x2d;Luc","description":"La Ville de C&ocirc;te Saint&#x2d;Luc &eacute;tait administr&eacute;e par un maire et huit conseillers. Le conseil est &eacute;lu pour quatre ans. Chaque conseiller municipal est responsable&#8230;","inLanguage":"fr-FR","isPartOf":{"@id":"https://cotesaintluc.org/fr/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://cotesaintluc.org/fr/#/schema/BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":"https://cotesaintluc.org/fr/","name":"Ville de Côte Saint&#x2d;Luc"},{"@type":"ListItem","position":2,"item":"https://cotesaintluc.org/fr/affaires-municipales/","name":"Affaires municipales"},{"@type":"ListItem","position":3,"name":"Membres du conseil"}]},"potentialAction":{"@type":"ReadAction","target":"https://cotesaintluc.org/fr/affaires-municipales/membres-du-conseil/"}}]}</script>
+<!-- / The SEO Framework : par Sybre Waaijer | 24.13ms meta | 1.74ms boot -->
+
+<script src="https://api.byscuit.com/data/client/13B1CB56-06BF-464F-9DF1-4BBDD7F33F7F/script/script.js" id="byscuit-token-js"></script><link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link href='https://fonts.googleapis.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Ville de Côte Saint-Luc &raquo; Flux" href="https://cotesaintluc.org/fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ville de Côte Saint-Luc &raquo; Flux des commentaires" href="https://cotesaintluc.org/fr/comments/feed/" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D70NHDSLD6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D70NHDSLD6');
+</script><link rel='stylesheet' id='wp-block-library-css' href='https://cotesaintluc.org/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='citadela-item-featured-image-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-featured-image/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-opening-hours-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-opening-hours/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-contact-details-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-contact-details/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-contact-form-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-contact-form/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-gpx-download-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-gpx-download/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-get-directions-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-get-directions/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-claim-listing-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-claim-listing/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-extension-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-extension/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-gallery-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-gallery/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-item-events-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/item-events/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-directory-search-form-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/directory-search-form/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-posts-search-form-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/posts-search-form/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-posts-search-results-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/posts-search-results/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-default-search-results-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/default-search-results/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-directory-advanced-filters-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/directory-advanced-filters/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-authors-list-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/authors-list/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='citadela-author-detail-block-style-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/blocks/author-detail/style.css?ver=1718115931' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--color--266156: var(--266156);--wp--preset--color--lime-green: var(--lime-green);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='flat-preloader-css' href='https://cotesaintluc.org/wp-content/plugins/flat-preloader/assets/css/flat-preloader-public.css?ver=1.16.0' media='all' />
+<link rel='stylesheet' id='flexy-breadcrumb-css' href='https://cotesaintluc.org/wp-content/plugins/flexy-breadcrumb/public/css/flexy-breadcrumb-public.css?ver=1.2.1' media='all' />
+<link rel='stylesheet' id='flexy-breadcrumb-font-awesome-css' href='https://cotesaintluc.org/wp-content/plugins/flexy-breadcrumb/public/css/font-awesome.min.css?ver=4.7.0' media='all' />
+<link rel='stylesheet' id='fontawesome-css' href='https://cotesaintluc.org/wp-content/plugins/ova-events/assets/libs/fontawesome/css/all.css' media='all' />
+<link rel='stylesheet' id='elegant_font-css' href='https://cotesaintluc.org/wp-content/plugins/ova-events/assets/libs/elegant_font/ele_style.css' media='all' />
+<link rel='stylesheet' id='select2-css' href='https://cotesaintluc.org/wp-content/plugins/ova-events/assets/libs/dist/css/select2.min.css' media='all' />
+<link rel='stylesheet' id='calendar-css' href='https://cotesaintluc.org/wp-content/plugins/ova-events/assets/libs/calendar/main.min.css' media='all' />
+<link rel='stylesheet' id='event-frontend-css' href='https://cotesaintluc.org/wp-content/plugins/ova-events/assets/css/frontend/event.css' media='all' />
+<style id='event-frontend-inline-css'>
+
+
+
+.type1 .date-event .date,
+.type2 .date-event .date,
+.type3 .date-event,
+.type5 .date-event,
+#sidebar-event .widget_feature_event .event-feature .item .date-event .date,
+.single_event .content-event .tab-Location ul.event_nav li.event_nav-item.active:after,
+.single_event .content-event .tab-Location ul.event_nav li.event_nav-item a:after,
+.single_event .content-event .event-related .archive_event .ovaev-content.content-grid .date-event .date,
+#sidebar-event .widget ul li a:hover:before,
+.type1 .desc .event_post .button_event .view_detail:hover,
+.type2 .desc .event_post .button_event .view_detail:hover,
+.type4 .desc .event_post .button_event .view_detail:hover,
+.type6 .event-readmore a:hover,
+#sidebar-event .widget_feature_event .event-feature .item .desc .event_post .button_event .view_detail:hover,
+#sidebar-event .widget_list_event .button-all-event a:hover,
+.single_event .content-event .event_intro .wrap-event-info .wrap-booking-links a:hover
+.single_event .content-event .ova-next-pre-post .pre:hover .num-1 .icon,
+.single_event .content-event .ova-next-pre-post .next:hover .num-1 .icon,
+.single_event .content-event .ova-next-pre-post .pre:hover .num-1 .icon,
+.single_event .content-event .ova-next-pre-post .next:hover .num-1 .icon,
+.single_event .content-event .event-related .archive_event .ovaev-content.content-grid .desc .event_post .button_event .view_detail:hover,
+.single_event .content-event .event_intro .wrap-event-info .wrap-booking-links a:hover,
+.ovaev-event-element.ovaev-event-slide .owl-nav button:hover,
+.ovapo_project_slide .grid .owl-nav button:hover,
+.search_archive_event form .wrap-ovaev_submit .ovaev_submit,
+.ovaev-event-element.version_2 .wp-content .ovaev-content.content-grid .date-event .date,
+.ovaev-event-element.version_2 .wp-content .ovaev-content.content-grid .desc .event_post .button_event .view_detail:hover,
+.blog_pagination .pagination li.active a,
+.blog_pagination .pagination li a:hover,
+.blog_pagination .pagination li a:focus,
+.ovaev-event-element.ovaev-event-slide .owl-dots .owl-dot.active span,
+.ovapo_project_grid .btn_grid .btn_grid_event:hover,
+.events_pagination .page-numbers li span,
+.events_pagination .page-numbers li a:hover,
+.ovaev-wrapper-search-ajax .search-ajax-pagination ul li .page-numbers.current,
+.ovaev-wrapper-search-ajax .search-ajax-pagination ul li .page-numbers:hover,
+.ovaev-booking-btn a:hover
+{
+	background-color: #266156;
+}
+
+.type1 .desc .event_post .button_event .view_detail:hover,
+.type2 .desc .event_post .button_event .view_detail:hover,
+.type4 .desc .event_post .button_event .view_detail:hover,
+.type6 .event-readmore a:hover,
+#sidebar-event .widget_feature_event .event-feature .item .desc .event_post .button_event .view_detail:hover,
+#sidebar-event .widget_list_event .button-all-event a:hover,
+.single_event .content-event .event_intro .wrap-event-info .wrap-booking-links a:hover,
+.single_event .content-event .ova-next-pre-post .pre:hover .num-1 .icon,
+.single_event .content-event .ova-next-pre-post .next:hover .num-1 .icon,
+.single_event .content-event .event-related .archive_event .ovaev-content.content-grid .desc .event_post .button_event .view_detail:hover,
+.search_archive_event form .wrap-ovaev_submit .ovaev_submit,
+.ovaev-event-element.version_2 .wp-content .ovaev-content.content-grid .desc .event_post .button_event .view_detail:hover,
+.blog_pagination .pagination li.active a,
+.blog_pagination .pagination li a:hover,
+.blog_pagination .pagination li a:focus,
+.ovapo_project_grid .btn_grid .btn_grid_event:hover,
+.events_pagination .page-numbers li a:hover,
+.events_pagination .page-numbers li span,
+.ovaev-wrapper-search-ajax .search-ajax-pagination ul li .page-numbers.current,
+.ovaev-wrapper-search-ajax .search-ajax-pagination ul li .page-numbers:hover,
+.ovaev-booking-btn a:hover
+{
+	border-color: #266156;
+}
+
+.type1 .date-event .month-year,
+.type1 .desc .event_post .post_cat .event_type,
+.type1 .desc .event_post .event_title a:hover,
+.icon_event,
+.type2 .date-event .month-year,
+.type2 .desc .event_post .post_cat .event_type,
+.type2 .desc .event_post .event_title a:hover,
+.type3 .desc .event_post .event_title a:hover,
+.type3 .desc .event_post .time-event .time i,
+.type3 .desc .event_post .time-event .venue i,
+.type4 .date-event .date-month,
+.type4 .desc .event_post .event_title a:hover,
+.type4 .desc .event_post .time-event .time i,
+.type4 .desc .event_post .time-event .venue i,
+.type5 .desc .event_post .event_title a:hover,
+.type6 .date-event .date-month,
+.type6 .extra-event .desc .event_post .post_cat a,
+.type6 .extra-event .desc .event_post .event_title a:hover,
+#sidebar-event .widget_feature_event .event-feature .item .date-event .month-year,
+#sidebar-event .widget_feature_event .event-feature .item .desc .event_post .post_cat .event_type,
+#sidebar-event .widget_feature_event .event-feature .item .desc .event_post .event_title a:hover,
+#sidebar-event .widget_list_event .list-event .item-event .ova-content .title a:hover,
+#sidebar-event .widget ul li:hover a,
+#sidebar-event .widget ul li:hover,
+.single_event .content-event .event_intro .wrap-event-info .wrap-info .wrap-pro i,
+.single_event .content-event .event_intro .wrap-event-info .wrap-info .ovaev-category i,
+.single_event .content-event .ova-next-pre-post .pre .num-2 .title:hover,
+.single_event .content-event .ova-next-pre-post .next .num-2 .title:hover,
+.single_event .content-event .event-related .archive_event .ovaev-content.content-grid .date-event .month-year,
+.single_event .content-event .event-related .archive_event .ovaev-content.content-grid .desc .event_post .post_cat .event_type,
+.single_event .content-event .event-related .archive_event .ovaev-content.content-grid .desc .event_post .event_title a:hover,
+.single_event .content-event .event_tags_share .event-tags a:hover,
+#sidebar-event .widget .tagcloud a:hover,
+.ovapo_project_grid .button-filter button.active,
+.ovapo_project_grid .button-filter button:hover,
+.more_date_text,
+.ovaev-event-element.version_2 .wp-content .ovaev-content.content-grid .date-event .month-year,
+.ovaev-event-element.version_2 .wp-content .ovaev-content.content-grid .desc .event_post .event_title a:hover,
+.ovaev-event-element.version_2 .wp-content .ovaev-content.content-grid .desc .event_post .time-event .time .more_date_text span,
+.ovaev-event-element.version_2 .title-readmore .read-more,
+.ovaev-event-element.version_3 .title-readmore .read-more,
+.ovaev-event-element .item .title a:hover,
+.single_event .content-event .event_intro .wrap-event-info .ovaev-category a:hover,
+#sidebar-event .widget_list_event .list-event .item-event .ova-content .time .more_date_text span,
+.ovaev-shortcode-title a:hover,
+.ovaev-shortcode-date i,
+.ovaev-shortcode-time i,
+.ovaev-shortcode-location i,
+.ovaev-shortcode-categories i,
+.ovaev-shortcode-categories span.event-category a:hover,
+.ovaev-shortcode-tags .ovaev-tag:hover
+{
+	color: #266156;
+}
+
+#sidebar-event .widget .widget-title
+{
+	border-bottom-color: #266156;
+}
+
+.ovapo_project_grid .wrap_loader .loader circle, .ovaev-wrapper-search-ajax .ovaev-search-ajax-container .wrap_loader .loader circle
+{
+	stroke: #266156;
+}
+
+
+</style>
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css' href='https://cotesaintluc.org/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='wpml-menu-item-0-css' href='https://cotesaintluc.org/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='megamenu-css' href='https://cotesaintluc.org/wp-content/uploads/maxmegamenu/style_fr.css?ver=974763' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://cotesaintluc.org/wp-includes/css/dashicons.min.css?ver=6.8.2' media='all' />
+<link rel='stylesheet' id='generate-widget-areas-css' href='https://cotesaintluc.org/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.6.0' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://cotesaintluc.org/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.6.0' media='all' />
+<style id='generate-style-inline-css'>
+body{background-color:#ffffff;color:var(--contrast);}a{color:var(--266156);}a{text-decoration:underline;}.entry-title a, .site-branding a, a.button, .wp-block-button__link, .main-navigation a{text-decoration:none;}a:hover, a:focus, a:active{color:var(--contrast);}.wp-block-group__inner-container{max-width:1200px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:150px;}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#1e73be;--266156:#266156;--lime-green:#8bc53f;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}:root .has-266156-color{color:var(--266156);}:root .has-266156-background-color{background-color:var(--266156);}:root .has-lime-green-color{color:var(--lime-green);}:root .has-lime-green-background-color{background-color:var(--lime-green);}body, button, input, select, textarea{font-family:Lato, sans-serif;font-weight:normal;font-size:19px;}h1{font-weight:bold;line-height:1.7em;}@media (max-width:768px){h1{font-size:36px;line-height:1.2em;}}h2.entry-title{font-family:Lato, sans-serif;font-size:20px;}h3{font-family:Lato, sans-serif;font-weight:bold;font-size:25px;}@media (max-width:768px){h3{font-size:22px;}}h2{font-family:Lato, sans-serif;font-weight:bold;font-size:31px;}@media (max-width:768px){h2{font-size:26px;}}blockquote{font-size:1em;}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:var(--base-3);}.main-title a,.main-title a:hover{color:var(--contrast);}.site-description{color:var(--contrast-2);}.main-navigation,.main-navigation ul ul{background-color:#f5f5f5;}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:var(--contrast);}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:var(--accent);}button.menu-toggle:hover,button.menu-toggle:focus{color:var(--contrast);}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:var(--accent);}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:var(--accent);}.main-navigation ul ul{background-color:var(--base);}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:var(--base-3);}.entry-title a{color:var(--contrast);}.entry-title a:hover{color:var(--contrast-2);}.entry-meta{color:var(--contrast-2);}.sidebar .widget{color:var(--contrast);background-color:var(--base);}.sidebar .widget a{color:var(--266156);}.sidebar .widget a:hover{color:var(--contrast);}.footer-widgets{color:var(--base-3);background-color:var(--266156);}.footer-widgets a{color:var(--base-3);}.footer-widgets a:hover{color:var(--base-3);}.site-info{color:var(--base-3);background-color:var(--contrast);}.site-info a{color:var(--base-3);}.site-info a:hover{color:var(--base-3);}.footer-bar .widget_nav_menu .current-menu-item a{color:var(--base-3);}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:var(--contrast);background-color:var(--base-2);border-color:var(--base);}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:var(--contrast);background-color:var(--base-2);border-color:var(--contrast-3);}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:var(--266156);}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#3f4047;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width: 768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:var(--contrast);}}.inside-header{padding:10px 40px 10px 40px;}.nav-below-header .main-navigation .inside-navigation.grid-container, .nav-above-header .main-navigation .inside-navigation.grid-container{padding:0px 20px 0px 20px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:20px 40px 40px 40px;}.site-main .wp-block-group__inner-container{padding:20px 40px 40px 40px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{line-height:21px;}.main-navigation ul ul{width:274px;}.navigation-search input[type="search"]{height:21px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:20px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:20px;}.widget-area .widget{padding:0px 0px 40px 0px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:0px 30px 30px 30px;}.site-main .wp-block-group__inner-container{padding:0px 30px 30px 30px;}.inside-top-bar{padding-right:30px;padding-left:30px;}.inside-header{padding-right:30px;padding-left:30px;}.widget-area .widget{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.footer-widgets-container{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.inside-site-info{padding-right:30px;padding-left:30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}.one-container .site-main .paging-navigation{margin-bottom:20px;}}/* End cached CSS */.is-right-sidebar{width:15%;}.is-left-sidebar{width:20%;}.site-content .content-area{width:80%;}@media (max-width: 768px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+</style>
+<link rel='stylesheet' id='generate-child-css' href='https://cotesaintluc.org/wp-content/themes/generatepress_child/style.css?ver=1751567737' media='all' />
+<link rel='stylesheet' id='generate-google-fonts-css' href='https://fonts.googleapis.com/css?family=Lato%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;display=auto&#038;ver=3.6.0' media='all' />
+<link rel='stylesheet' id='citadela-leaflet-markercluster-default-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/leaflet/MarkerCluster.Default.css?ver=1.4.1' media='all' />
+<link rel='stylesheet' id='citadela-leaflet-markercluster-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/leaflet/MarkerCluster.css?ver=1.4.1' media='all' />
+<link rel='stylesheet' id='citadela-leaflet-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/leaflet/leaflet.css?ver=1.6.0' media='all' />
+<link rel='stylesheet' id='citadela-leaflet-gesture-handling-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/leaflet/leaflet-gesture-handling.min.css?ver=1.4.1' media='all' />
+<link rel='stylesheet' id='citadela-fontawesome-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/fontawesome/css/all.min.css?ver=5.8.2' media='all' />
+<link rel='stylesheet' id='citadela-photoswipe-css-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/photoswipe/photoswipe.css?ver=4.1.3' media='all' />
+<link rel='stylesheet' id='citadela-photoswipe-css-default-skin-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/photoswipe/default-skin/default-skin.css?ver=4.1.3' media='all' />
+<link rel='stylesheet' id='citadela-raty-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/raty/jquery.raty.css?ver=2.8.0' media='all' />
+<link rel='stylesheet' id='citadela-directory-frontend-css' href='https://cotesaintluc.org/wp-content/plugins/citadela-directory/design/css/style.css?ver=1718115931' media='all' />
+<link rel='stylesheet' id='generateblocks-global-css' href='https://cotesaintluc.org/wp-content/uploads/generateblocks/style-global.css?ver=1731596725' media='all' />
+<link rel='stylesheet' id='generateblocks-css' href='https://cotesaintluc.org/wp-content/uploads/generateblocks/style-42841.css?ver=1753481663' media='all' />
+<link rel='stylesheet' id='generate-secondary-nav-css' href='https://cotesaintluc.org/wp-content/plugins/gp-premium/secondary-nav/functions/css/main.min.css?ver=2.5.4' media='all' />
+<style id='generate-secondary-nav-inline-css'>
+.secondary-navigation{background-color:var(--base-3);}.secondary-nav-below-header .secondary-navigation .inside-navigation.grid-container, .secondary-nav-above-header .secondary-navigation .inside-navigation.grid-container{padding:0px 20px 0px 20px;}.secondary-navigation .main-nav ul li a,.secondary-navigation .menu-toggle,.secondary-menu-bar-items .menu-bar-item > a{color:var(--contrast);}.secondary-navigation .secondary-menu-bar-items{color:var(--contrast);}button.secondary-menu-toggle:hover,button.secondary-menu-toggle:focus{color:var(--contrast);}.widget-area .secondary-navigation{margin-bottom:20px;}.secondary-navigation ul ul{background-color:#303030;top:auto;}.secondary-navigation .main-nav ul ul li a{color:#ffffff;}.secondary-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .secondary-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .secondary-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .secondary-menu-bar-items .menu-bar-item:hover > a{color:var(--contrast);background-color:var(--base-3);}.secondary-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.secondary-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a,.secondary-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:#ffffff;background-color:#474747;}.secondary-navigation .main-nav ul li[class*="current-menu-"] > a{color:var(--contrast);background-color:var(--base-3);}.secondary-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#474747;}.secondary-navigation.toggled .dropdown-menu-toggle:before{display:none;}@media (max-width: 768px) {.secondary-menu-bar-items .menu-bar-item:hover > a{background: none;color: var(--contrast);}}
+.secondary-navigation .main-nav ul li a, .secondary-navigation .menu-toggle, .secondary-navigation .menu-bar-items{font-weight:600;font-size:0.8em;}
+</style>
+<link rel='stylesheet' id='generate-secondary-nav-mobile-css' href='https://cotesaintluc.org/wp-content/plugins/gp-premium/secondary-nav/functions/css/main-mobile.min.css?ver=2.5.4' media='all' />
+<link rel='stylesheet' id='generate-navigation-branding-css' href='https://cotesaintluc.org/wp-content/plugins/gp-premium/menu-plus/functions/css/navigation-branding-flex.min.css?ver=2.5.4' media='all' />
+<style id='generate-navigation-branding-inline-css'>
+.main-navigation.has-branding .inside-navigation.grid-container, .main-navigation.has-branding.grid-container .inside-navigation:not(.grid-container){padding:0px 40px 0px 40px;}.main-navigation.has-branding:not(.grid-container) .inside-navigation:not(.grid-container) .navigation-branding{margin-left:10px;}.main-navigation .sticky-navigation-logo, .main-navigation.navigation-stick .site-logo:not(.mobile-header-logo){display:none;}.main-navigation.navigation-stick .sticky-navigation-logo{display:block;}.navigation-branding img, .site-logo.mobile-header-logo img{height:21px;width:auto;}.navigation-branding .main-title{line-height:21px;}@media (max-width: 768px){.main-navigation.has-branding.nav-align-center .menu-bar-items, .main-navigation.has-sticky-branding.navigation-stick.nav-align-center .menu-bar-items{margin-left:auto;}.navigation-branding{margin-right:auto;margin-left:10px;}.navigation-branding .main-title, .mobile-header-navigation .site-logo{margin-left:10px;}.main-navigation.has-branding .inside-navigation.grid-container{padding:0px;}}
+</style>
+<style id='block-visibility-screen-size-styles-inline-css'>
+/* Large screens (desktops, 992px and up) */
+@media ( min-width: 992px ) {
+	.block-visibility-hide-large-screen {
+		display: none !important;
+	}
+}
+
+/* Medium screens (tablets, between 768px and 992px) */
+@media ( min-width: 768px ) and ( max-width: 991.98px ) {
+	.block-visibility-hide-medium-screen {
+		display: none !important;
+	}
+}
+
+/* Small screens (mobile devices, less than 768px) */
+@media ( max-width: 767.98px ) {
+	.block-visibility-hide-small-screen {
+		display: none !important;
+	}
+}
+</style>
+<script id="wpml-cookie-js-extra">
+var wpml_cookies = {"wp-wpml_current_language":{"value":"fr","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"fr","expires":1,"path":"\/"}};
+</script>
+<script src="https://cotesaintluc.org/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=476000" id="wpml-cookie-js" defer data-wp-strategy="defer"></script>
+<script src="https://cotesaintluc.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://cotesaintluc.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/leaflet/leaflet.js?ver=1.6.0" id="citadela-leaflet-js"></script>
+<link rel="https://api.w.org/" href="https://cotesaintluc.org/fr/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://cotesaintluc.org/fr/wp-json/wp/v2/pages/42841" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cotesaintluc.org/xmlrpc.php?rsd" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://cotesaintluc.org/fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcotesaintluc.org%2Ffr%2Faffaires-municipales%2Fmembres-du-conseil%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://cotesaintluc.org/fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcotesaintluc.org%2Ffr%2Faffaires-municipales%2Fmembres-du-conseil%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.7.6 stt:1,4;" />
+<!--advanced-views:styles-->
+            <style type="text/css">              
+                
+                /* Background color */
+                .fbc-page .fbc-wrap .fbc-items {
+                    background-color: ;
+                }
+                /* Items font size */
+                .fbc-page .fbc-wrap .fbc-items li {
+                    font-size: 16px;
+                }
+                
+                /* Items' link color */
+                .fbc-page .fbc-wrap .fbc-items li a {
+                    color: #266156;                    
+                }
+                
+                /* Seprator color */
+                .fbc-page .fbc-wrap .fbc-items li .fbc-separator {
+                    color: ;
+                }
+                
+                /* Active item & end-text color */
+                .fbc-page .fbc-wrap .fbc-items li.active span,
+                .fbc-page .fbc-wrap .fbc-items li .fbc-end-text {
+                    color: #27272a;
+                    font-size: 16px;
+                }
+            </style>
+
+            <link rel="preload" as="font" type="font/woff2" href="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/fontawesome/webfonts/fa-solid-900.woff2" crossorigin/><link rel="preload" as="font" type="font/woff2" href="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/fontawesome/webfonts/fa-regular-400.woff2" crossorigin/><link rel="preload" as="font" type="font/woff2" href="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/fontawesome/webfonts/fa-brands-400.woff2" crossorigin/>		<script type="text/javascript">
+			var CitadelaDirectorySettings = {"home":{"url":"https:\/\/cotesaintluc.org\/fr\/"},"wpSettings":{"postsPerPage":"10"},"ajax":{"url":"https:\/\/cotesaintluc.org\/wp-admin\/admin-ajax.php","actions":{"item-contact-form:wpajax_send":"item-contact-form:wpajax_send"}},"paths":{"css":"https:\/\/cotesaintluc.org\/wp-content\/plugins\/citadela-directory\/design\/css","assets":"https:\/\/cotesaintluc.org\/wp-content\/plugins\/citadela-directory\/plugin\/assets"},"images":"https:\/\/cotesaintluc.org\/wp-content\/plugins\/citadela-directory\/design\/images","keys":{"recaptchaSiteKey":false},"specialPages":{"single-item":"64524","search-results":"64542","item-category":"64563","item-location":"64584","posts-search-results":"64605","posts-category":"64626","posts-tag":"64647","posts-date":"64668","posts-author":"64689","default-search-results":"64710","404-page":"64731"},"l10n":{"datetimes":{"startOfWeek":"1"}},"features":{"item_reviews":false,"item_extension":true},"options":{"item_extension":{"enable":true,"inputs_group":{"group_name":"Caract\u00e9ristiques","inputs":{"parc":{"type":"citadela_multiselect","label":"Caract\u00e9ristiques du parc ","description":"","unit":"","unit-position":"right","use_url_label":false,"use_as_filter":true,"checkbox_filters_group_name":"","choices":{"Art_public":"Art public","Aire_de_jeux":"Aire de jeux","Bancs":"Bancs","Barbecue_permis":"Barbecue permis","Chalet":"Chalet","Chalet_accessible":"Chalet accessible","Chiens_permis":"Chiens permis (des restrictions peuvent s'appliquer)","Espace_vert":"Espace vert","Equipement_conditionnement":"\u00c9quipement de conditionnement physique ext\u00e9rieur","Fontaines":"Fontaines (pour boire)","Glissade":"Glissade","Jardin":"Jardin communautaire","Jeux_eau":"Jeux d\u2019eau","Lac":"Lac \/ \u00e9tang","Monument":"Monument et sentier comm\u00e9moratifs","Pataugeoire":"Pataugeoire","Patin":"Patin \u00e0 roues align\u00e9es \/ hockey","Patinoire":"Patinoire","Pedalos":"P\u00e9dalos","Petanque":"P\u00e9tanque","Rampe":"Rampe de planche \u00e0 roulettes","Toilettes":"Salle de toilettes","Sentier":"Sentier de jogging ou de marche","Accessible":"Site accessible","Stationnement":"Stationnement","Velo":"Support \u00e0 v\u00e9los","Table":"Table de pique-nique","Wiffle":"Terrain de ballon Wiffle","Baseball":"Terrain de balle molle \/ baseball","Basketball":"Terrain de basketball","Soccer":"Terrain de soccer","Tennis":"Terrain de tennis"},"choices_label":"Choisissez une option"},"caracteristiques_aire_de_jeux":{"type":"citadela_multiselect","label":"Caract\u00e9ristiques de l'aire de jeux ","description":"","unit":"","unit-position":"right","use_url_label":false,"use_as_filter":true,"checkbox_filters_group_name":"","choices":{"Aire_cloturee":"Aire de jeu cl\u00f4tur\u00e9e","Balancoire_Adaptee":"Balan\u00e7oire adapt\u00e9e","Balancoire_parent-b\u00e9b\u00e9":"Balan\u00e7oire parent-b\u00e9b\u00e9","Balancoire-2-5":"Balan\u00e7oire pour tout-petits (2-5)","Balancoire-6-12":"Balan\u00e7oire pour grands enfants (6-12)","Brumisateur":"Brumisateur","Divers_2-5":"\u00c9quipement de jeux divers pour tout-petits (2-5)","Divers_6-12":"\u00c9quipement de jeux divers pour grands enfants (6-12)","Glissoire_2-5":"Glissoire pour tout-petits (2-5)","Glissoire_6-12":"Glissoire pour grands enfants (6-12)","Ressort_2-5":"Jeu sur ressort pour tout-petits (2-5)","Ressort_6-12":"Jeu sur ressort pour grands enfants (6-12)","Module_2-5":"Module de jeu pour tout-petits (2-5)","Module_6-12":"Module de jeu pour grands enfants (6-12)","Parc_cloture_2-5":"Parc pour tout-petits cl\u00f4tur\u00e9","Grimpe_2-5":"Structure de grimpe ou de c\u00e2bles pour tout-petits (2-5)","Grimpe_6-12":"Structure de grimpe ou c\u00e2bles pour grands enfants (6-12)","Caoutchouc":"Surface de caoutchouc","Copeaux":"Surface de copeaux de bois","Sable":"Surface de sable","Tyrolienne":"Tyrolienne"},"choices_label":"Choisissez une option"},"restrictions":{"type":"citadela_multiselect","label":"Restrictions ","description":"","unit":"","unit-position":"right","use_url_label":false,"use_as_filter":false,"checkbox_filters_group_name":"","choices":{"Barbecues":"Les barbecues ne sont pas autoris\u00e9s dans ce parc","Fumer":"Il est interdit de fumer et de vapoter dans ce parc","Chiens":"Les chiens sont interdits en tout temps dans ce parc","ChiensJeux":"Les chiens sont interdits \u00e0 moins de 9m des aires de jeux","ChiensEau":"Les chiens sont interdits \u00e0 moins de 9m des jeux d'eau","ChiensPiscines":"Les chiens sont interdits dans l'enceinte des piscines ou pataugeoires","ChiensSport":"Les chiens sont interdits sur les terrains de sport","ChiensSpecial":"Les chiens sont interdits dans les parcs o\u00f9 un \u00e9v\u00e9nement sp\u00e9cial est organis\u00e9"},"choices_label":"Choisissez une option"}}}},"item_detail":{"enable":true,"item_slug":"lieu","item_website_rel":"nofollow"}},"currentPost":{"post_id":42841,"post_type":"page"}}		</script>
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+<link rel="icon" href="https://cotesaintluc.org/wp-content/uploads/2019/06/cropped-CSL_LogoIcon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://cotesaintluc.org/wp-content/uploads/2019/06/cropped-CSL_LogoIcon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://cotesaintluc.org/wp-content/uploads/2019/06/cropped-CSL_LogoIcon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://cotesaintluc.org/wp-content/uploads/2019/06/cropped-CSL_LogoIcon-270x270.png" />
+		<style id="wp-custom-css">
+			
+
+
+
+
+
+/* CUSTOM POPUP */
+
+
+.popup {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	transform: translatey(100vh);
+	animation: popup-fade-in 3s 0s ease-in forwards;
+}
+
+.close-btn {
+	position: absolute;
+	top: 12px;
+	right: 12px;
+}
+
+@keyframes popup-fade-in {
+	0% {
+		transform: translatey(100vh);
+	}
+	100% {
+		transform: translatey(0);
+	}
+}
+
+.hide-me {
+	display:none;
+} 
+
+/* NEWSLETTER FORMS */
+
+/* 📦 Wrapper: input and button inline */
+.email-button-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* space between input and button */
+  margin-top: 0.5em;
+}
+
+/* 📧 Email input field */
+#mce-EMAIL {
+  border: 2px solid #555;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 1rem;
+  width: 300px;       /* Not full-width */
+  box-sizing: border-box;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+/* 🔵 Focus style */
+#mce-EMAIL:focus {
+  border-color: #005fcc;
+  box-shadow: 0 0 0 3px rgba(0, 95, 204, 0.3);
+  outline: none;
+}
+
+/* 🟦 Button styling */
+.button {
+  background-color: #005fcc;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  font-size: 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #004bb5;
+}
+
+/* ♿ High contrast support */
+@media (forced-colors: active) {
+  #mce-EMAIL {
+    border: 2px solid ButtonText;
+    background: Canvas;
+    color: ButtonText;
+  }
+
+  .button {
+    background: Highlight;
+    color: HighlightText;
+  }
+}
+
+
+/* Forms - thank you messages */
+.cog-confirmation__message {
+  padding: 20px !important; 
+  border: 1px solid #ccc !important;  
+  background-color: #e6f4e6 !important;  
+  border-radius: 5px !important;       
+  font-family: sans-serif !important;   
+}		</style>
+		<style type="text/css">/** Mega Menu CSS: fs **/</style>
+</head>
+
+<body class="wp-singular page-template-default page page-id-42841 page-child parent-pageid-42833 wp-custom-logo wp-embed-responsive wp-theme-generatepress wp-child-theme-generatepress_child post-image-aligned-center secondary-nav-float-right secondary-nav-aligned-center sticky-menu-slide mega-menu-primary mega-menu-secondary left-sidebar nav-below-header one-container header-aligned-left dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Aller au contenu">Aller au contenu</a>		<header class="site-header" id="masthead" aria-label="Site"  itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container">
+				<div class="site-logo">
+					<a href="https://cotesaintluc.org/fr/" rel="home">
+						<img  class="header-image is-logo-image" alt="Ville de Côte Saint-Luc" src="https://cotesaintluc.org/wp-content/uploads/2022/05/CSL-logo_500px_header.png" width="500" height="250" />
+					</a>
+				</div>			<nav id="secondary-navigation" aria-label="Secondary" class="secondary-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+				<div class="inside-navigation grid-container grid-parent">
+										<button class="menu-toggle secondary-menu-toggle">
+						<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Menu</span>					</button>
+					<div id="mega-menu-wrap-secondary" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0' id='mega-toggle-block-0'><button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                  <span class="mega-toggle-animated-box">
+                    <span class="mega-toggle-animated-inner"></span>
+                  </span>
+                </button></div></div></div><ul id="mega-menu-secondary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="0" data-unbind="true" data-mobile-state="collapse_all" data-mobile-direction="vertical" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-has-icon mega-icon-left mega-menu-item-58223" id="mega-menu-item-58223"><a class="dashicons-calendar mega-menu-link" href="https://cotesaintluc.org/fr/calendrier/" tabindex="0">Calendrier</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-has-icon mega-icon-left mega-menu-item-58224" id="mega-menu-item-58224"><a class="dashicons-location mega-menu-link" href="https://cotesaintluc.org/fr/lieux/" tabindex="0">Lieux</a></li><li class="mega-menu-item mega-wpml-ls-slot-11 mega-wpml-ls-item mega-wpml-ls-item-en mega-wpml-ls-menu-item mega-wpml-ls-first-item mega-wpml-ls-last-item mega-menu-item-type-wpml_ls_menu_item mega-menu-item-object-wpml_ls_menu_item mega-menu-flyout mega-align-bottom-left mega-menu-flyout mega-menu-item-wpml-ls-11-en" id="mega-menu-item-wpml-ls-11-en"><a title="Passer à English" class="mega-menu-link" href="https://cotesaintluc.org/en/municipal-affairs/council-members/" tabindex="0">
+<span class="wpml-ls-native" lang="en">English</span></a></li><li class="ss360-search-menu-item"><section role="search" class="ss360-search-form" data-ss360="true" style="display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-left:auto;margin-right:auto"><input class="ss360-searchbox" type="search" style=""><button class="ss360-searchbutton" style=""></button></section></li></ul></div>				</div><!-- .inside-navigation -->
+			</nav><!-- #secondary-navigation -->
+						</div>
+		</header>
+				<nav class="has-sticky-branding main-navigation sub-menu-right" id="site-navigation" aria-label="Principal"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container">
+								<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Menu</span>				</button>
+				<div id="mega-menu-wrap-primary" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1' tabindex='0'><button class='mega-toggle-standard mega-toggle-label' aria-expanded='false'><span class='mega-toggle-label-closed'>MENU</span><span class='mega-toggle-label-open'>MENU</span></button></div></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"></div></div><ul id="mega-menu-primary" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="slide" data-effect-speed-mobile="200" data-mobile-force-width="body" data-second-click="close" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="1024" data-unbind="true" data-mobile-state="collapse_all" data-mobile-direction="vertical" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-968" id="mega-menu-item-968"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/" tabindex="0">Accueil</a></li><li class="mega-multi-line mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-ancestor mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-hide-arrow mega-close-after-click mega-menu-item-44492 multi-line" id="mega-menu-item-44492"><a class="mega-menu-link" href="#" aria-expanded="false" tabindex="0">Gouvernement <br/>municipal<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-multi-line mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-arrow mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-44490 multi-line" style="--columns:2; --span:1" id="mega-menu-item-44490"><a class="mega-menu-link" tabindex="0">À propos de la ville<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-785" id="mega-menu-item-785"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/presentation/">Présentation de la ville</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-796" id="mega-menu-item-796"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/cartes/">Cartes et districts</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-867" id="mega-menu-item-867"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/administration/">Administration</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-786" id="mega-menu-item-786"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/emplois/">Emplois</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-498" id="mega-menu-item-498"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/" aria-expanded="false">Nous joindre<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-915" id="mega-menu-item-915"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/" aria-expanded="false">Signaler un problème<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-976" id="mega-menu-item-976"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/animaux-de-compagnie/">Animaux de compagnie perdus ou trouvés</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-974" id="mega-menu-item-974"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/bruit/">Bruit</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-970" id="mega-menu-item-970"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/fuite-deau/">Fuite d’eau</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-1021" id="mega-menu-item-1021"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/collecte-manquee/">Collecte de déchets manquée</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-973" id="mega-menu-item-973"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/cour-malpropre/">Cour malpropre</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-972" id="mega-menu-item-972"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/deneigement/">Déneigement</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-971" id="mega-menu-item-971"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/dommages/">Dommages à la propriété privée</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-1020" id="mega-menu-item-1020"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/entretien-bacs/">Entretien des bacs à déchets</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-916" id="mega-menu-item-916"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/faune-urbaine/">Faune urbaine</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-1016" id="mega-menu-item-1016"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/feu-lampadaire-defectueux/">Feu de signalisation ou lampadaire défectueux</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-1019" id="mega-menu-item-1019"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/infractions/">Infraction aux règles de la circulation</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-969" id="mega-menu-item-969"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/panne/">Panne d’électricité</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-1015" id="mega-menu-item-1015"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/degradation-routes-proprietes-publiques/">Problème d’entretien ou de dégradation de routes, de parcs ou de propriétés publiques</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-1022" id="mega-menu-item-1022"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/poste/">Problème d’envoi postal</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-1018" id="mega-menu-item-1018"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/stationnement/">Véhicule stationné illégalement</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-1017" id="mega-menu-item-1017"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler/volume-de-trafic/">Volume élevé de trafic dans une zone résidentielle</a></li>			</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44762" id="mega-menu-item-44762"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/souhaits/" aria-expanded="false">Demande de souhaits<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44763" id="mega-menu-item-44763"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/souhaits/formulaire/" aria-expanded="false">Formulaire de demande de souhaits<span class="mega-indicator" aria-hidden="true"></span></a>
+				<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44765" id="mega-menu-item-44765"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/souhaits/formulaire/merci/">Merci</a></li>				</ul>
+</li>			</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44764" id="mega-menu-item-44764"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/service-exceptionnel/" aria-expanded="false">Service exceptionnel<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44766" id="mega-menu-item-44766"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/service-exceptionnel/merci/">Merci</a></li>			</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-55605" id="mega-menu-item-55605"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/ville/nous-joindre/jours-feries/">Jours fériés</a></li>		</ul>
+</li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-1013" style="--columns:2; --span:1" id="mega-menu-item-1013"><a class="mega-menu-link" tabindex="0">Communications<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-1014" id="mega-menu-item-1014"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/communications/nouvelles/">Nouvelles</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-42452" id="mega-menu-item-42452"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/communications/bulletins/">Bulletins, alertes, médias sociaux</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43054" id="mega-menu-item-43054"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/communications/publications/">Publications</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43062" id="mega-menu-item-43062"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/communications/medias/">Médias</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-page-ancestor mega-current-menu-ancestor mega-current-menu-parent mega-current-page-parent mega-current_page_parent mega-current_page_ancestor mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-44493" style="--columns:2; --span:1" id="mega-menu-item-44493"><a class="mega-menu-link" tabindex="0">Affaires municipales<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-current-menu-item mega-page_item mega-page-item-42841 mega-current_page_item mega-menu-item-42857" id="mega-menu-item-42857"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/membres-du-conseil/" aria-current="page">Membres du conseil</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-42858" id="mega-menu-item-42858"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/seances-du-conseil/" aria-expanded="false">Séances du conseil<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-56303" id="mega-menu-item-56303"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/seances-du-conseil/merci/">Merci</a></li>		</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-65476" id="mega-menu-item-65476"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/reunions-de-districts/">Réunions de districts</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43292" id="mega-menu-item-43292"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/avis-publics/">Avis publics</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43298" id="mega-menu-item-43298"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/resolutions/">Résolutions</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43316" id="mega-menu-item-43316"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/formation-obligatoire-des-elus/">Formation obligatoire</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43315" id="mega-menu-item-43315"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/elections/">Élections municipales</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44257" id="mega-menu-item-44257"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/contribuez/">Contribuez - Participation citoyenne</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-61636" id="mega-menu-item-61636"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-municipales/benevolat/">Bénévolat</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-44494" style="--columns:2; --span:1" id="mega-menu-item-44494"><a class="mega-menu-link" tabindex="0">Documents municipaux<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43087" id="mega-menu-item-43087"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/acces-information/">Accès à l’information</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43086" id="mega-menu-item-43086"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/finances/">Budgets et rapports financiers</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-55505" id="mega-menu-item-55505"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/dossiers-et-memoires/">Dossiers et mémoires</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-43119" id="mega-menu-item-43119"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/politiques/" aria-expanded="false">Politiques et plans d’action<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43120" id="mega-menu-item-43120"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/politiques/accessibilite/">Accessibilité universelle</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-privacy-policy mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-55892" id="mega-menu-item-55892"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/politiques/confidentialite-et-renseignements-personnels/">Confidentialité et renseignements personnels</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43127" id="mega-menu-item-43127"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/politiques/harcelement/">Politique de lutte contre le harcèlement public</a></li>		</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43133" id="mega-menu-item-43133"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/projets/">Projets et travaux</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43269" id="mega-menu-item-43269"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/remuneration/">Rémunération des élus</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43276" id="mega-menu-item-43276"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/documents/zonage-et-terrains-contamines/">Zonage et terrains contaminés</a></li>	</ul>
+</li></ul>
+</li><li class="mega-multi-line mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-hide-arrow mega-menu-item-75 multi-line" id="mega-menu-item-75"><a class="mega-menu-link" href="#" aria-expanded="false" tabindex="0">Taxes, permis, <br/>règlements, amendes<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-44506" style="--columns:3; --span:1" id="mega-menu-item-44506"><a class="mega-menu-link" tabindex="0">Règlements municipaux<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44152" id="mega-menu-item-44152"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/reglements-municipaux/liste-partielle/">Liste des règlements</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44153" id="mega-menu-item-44153"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/reglements-municipaux/guide/">Guide du résident</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-57156" id="mega-menu-item-57156"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/reglements-municipaux/locataires/">Ressources pour locataires</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-661" style="--columns:3; --span:1" id="mega-menu-item-661"><a class="mega-menu-link" tabindex="0">Taxes et évaluation<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44034" id="mega-menu-item-44034"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/taxes/compte/">Compte de taxes</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44033" id="mega-menu-item-44033"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/taxes/mutations-immobilieres/">Droits sur les mutations immobilières</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44032" id="mega-menu-item-44032"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/taxes/evaluation-fonciere/">Évaluation foncière</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44031" id="mega-menu-item-44031"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/taxes/scolaire/">Taxe scolaire</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-44507" style="--columns:3; --span:1" id="mega-menu-item-44507"><a class="mega-menu-link" tabindex="0">Affaires juridiques<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44151" id="mega-menu-item-44151"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-juridiques/constats-et-amendes/">Constats et amendes</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44158" id="mega-menu-item-44158"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-juridiques/assermentation/">Assermentation</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-44165" id="mega-menu-item-44165"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-juridiques/reclamations/" aria-expanded="false">Réclamations<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44164" id="mega-menu-item-44164"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/affaires-juridiques/reclamations/merci/">Merci</a></li>		</ul>
+</li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-clear mega-menu-item-44503" style="--columns:3; --span:1" id="mega-menu-item-44503"><a class="mega-menu-link" tabindex="0">Construction et rénovation<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43949" id="mega-menu-item-43949"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/procedures/">Procédures pour la construction</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43944" id="mega-menu-item-43944"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/reglements/">Règlements de zonage et de construction</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43948" id="mega-menu-item-43948"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/derogations-mineures/">Dérogations mineures</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43946" id="mega-menu-item-43946"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/grille-tarifaire/">Grille tarifaire</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43945" id="mega-menu-item-43945"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/protection-des-arbres/">Protection des arbres</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43943" id="mega-menu-item-43943"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/faq/">Foire aux questions</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-43940" id="mega-menu-item-43940"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/" aria-expanded="false">Permis<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43942" id="mega-menu-item-43942"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/renseignements/">Renseignements généraux</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43941" id="mega-menu-item-43941"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/tempos/" aria-expanded="false">Abris d’auto temporaires (tempos)<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43963" id="mega-menu-item-43963"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/tempos/certificat/" aria-expanded="false">Formulaire de demande de certificat<span class="mega-indicator" aria-hidden="true"></span></a>
+				<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43964" id="mega-menu-item-43964"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/tempos/certificat/merci/">Merci</a></li>				</ul>
+</li>			</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44006" id="mega-menu-item-44006"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/balcons-terrasses/">Balcons, terrasses et patios</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44005" id="mega-menu-item-44005"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/clotures-et-haies/">Clôtures et haies</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44004" id="mega-menu-item-44004"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/acces-vehiculaires/">Modification des accès véhiculaires</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44003" id="mega-menu-item-44003"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/piscines-privees/">Piscines privées</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44007" id="mega-menu-item-44007"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/construction-et-renovation/permis/demande/">Demande de permis</a></li>		</ul>
+</li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-44505" style="--columns:3; --span:1" id="mega-menu-item-44505"><a class="mega-menu-link" tabindex="0">Chiens, chats et faune<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44084" id="mega-menu-item-44084"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/animaux/chiens/">Chiens</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44083" id="mega-menu-item-44083"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/animaux/chats/">Chats</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44082" id="mega-menu-item-44082"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/animaux/faune-urbaine/">Contrôle de la faune urbaine</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-44504" style="--columns:3; --span:1" id="mega-menu-item-44504"><a class="mega-menu-link" tabindex="0">Stationnement<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44063" id="mega-menu-item-44063"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/stationnement/court-terme/">Stationnement de nuit à court terme</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44062" id="mega-menu-item-44062"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/stationnement/long-terme/">Stationnement de nuit à long terme</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44061" id="mega-menu-item-44061"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/stationnement/tolerance/">Tolérance de stationnement</a></li>	</ul>
+</li></ul>
+</li><li class="mega-multi-line mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-hide-arrow mega-menu-item-76 multi-line" id="mega-menu-item-76"><a class="mega-menu-link" href="#" aria-expanded="false" tabindex="0">Loisirs, culture<br/> et communauté<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-44496" style="--columns:2; --span:1" id="mega-menu-item-44496"><a class="mega-menu-link" tabindex="0">Activités et loisirs<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-42810" id="mega-menu-item-42810"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/loisirs/abonnements/">Abonnements aux intallations de loisirs</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43327" id="mega-menu-item-43327"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/loisirs/programmation/">Programmation et inscription</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43344" id="mega-menu-item-43344"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/loisirs/natation/">Cours de natation</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-63263" id="mega-menu-item-63263"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/loisirs/camps-de-jour/">Camps de jour CSL</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43333" id="mega-menu-item-43333"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/loisirs/clubs/">Clubs de loisirs</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-44495" style="--columns:2; --span:1" id="mega-menu-item-44495"><a class="mega-menu-link" tabindex="0">Parcs et installations<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43374" id="mega-menu-item-43374"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/lieux/">Trouver un lieu ou une installation</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43388" id="mega-menu-item-43388"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/parcs-et-installations/sites-hivernaux/">Patinoires et sites hivernaux</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43389" id="mega-menu-item-43389"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/parcs-et-installations/location/">Location d’installations</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-44497" style="--columns:2; --span:1" id="mega-menu-item-44497"><a class="mega-menu-link" tabindex="0">Culture et patrimoine<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-657" id="mega-menu-item-657"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/lieu/bibliotheque/">Bibliothèque publique Côte Saint-Luc</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-43373" id="mega-menu-item-43373"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/culture-et-patrimoine/promenade/" aria-expanded="false">Promenade des droits de la personne<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43494" id="mega-menu-item-43494"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/culture-et-patrimoine/promenade/miep-gies/">Miep Gies</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43493" id="mega-menu-item-43493"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/culture-et-patrimoine/promenade/helen-suzman/">Helen Suzman</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43492" id="mega-menu-item-43492"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/culture-et-patrimoine/promenade/defenseurs/">Défenseurs des droits de la personne pour Juifs opprimés en terres étrangères</a></li>		</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43372" id="mega-menu-item-43372"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/culture-et-patrimoine/art-public/">Art public</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-60285" id="mega-menu-item-60285"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/culture-et-patrimoine/bancs-commemoratifs/">Bancs commémoratifs et plaques commémoratives à la place Alexandre Look </a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-62615" style="--columns:2; --span:1" id="mega-menu-item-62615"><a class="mega-menu-link" tabindex="0">Développement communautaire<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-62616" id="mega-menu-item-62616"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/communautaire/repertoire/" aria-expanded="false">Répertoire des activités et services communautaires<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62617" id="mega-menu-item-62617"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/alzheimer-groupe-inc-agi/">Alzheimer Groupe Inc (AGI)</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62618" id="mega-menu-item-62618"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/beth-israel-beth-aaron/">Beth Israel Beth Aaron</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62619" id="mega-menu-item-62619"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/beth-zion-congregation/">Beth Zion Congregation</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62620" id="mega-menu-item-62620"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/bibliotheque-publique-cote-saint-luc/">Bibliothèque publique Côte Saint-Luc</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62621" id="mega-menu-item-62621"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/bienvenue-a-notre-dame-de-grace/">Bienvenue à Notre-Dame-de-Grace</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62622" id="mega-menu-item-62622"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/centre-cummings/">Centre Cummings</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62623" id="mega-menu-item-62623"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/ciusss-centre-ouest/">CIUSSS du Centre-Ouest-de-l’Île-de-Montréal</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62624" id="mega-menu-item-62624"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/club-social-des-femmes-de-csl/">Club social des femmes de Côte Saint-Luc</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62625" id="mega-menu-item-62625"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/ktmmtl/">Educational Center Kollel Torah Mitzion Montreal</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62626" id="mega-menu-item-62626"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/federation-cja/">Fédération CJA</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62627" id="mega-menu-item-62627"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/knights-of-pythias/">Knights of Pythias</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62628" id="mega-menu-item-62628"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/mada/">MADA</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62629" id="mega-menu-item-62629"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/ometz/">Ometz</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62630" id="mega-menu-item-62630"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/shaare-zion-beth-el-congregation/">Shaare Zion Beth-El Congregation</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62631" id="mega-menu-item-62631"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/st-patrick-development-foundation/">St. Patrick Development Foundation</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62632" id="mega-menu-item-62632"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/st-richards-parish/">St. Richard’s Parish</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-communautaire mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-62633" id="mega-menu-item-62633"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/services-communautaires/ville-de-cote-saint-luc-loisirs/">Ville de Côte Saint Luc – Loisirs</a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class="mega-multi-line mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-hide-arrow mega-disable-link mega-menu-item-77 multi-line" id="mega-menu-item-77"><a class="mega-menu-link" tabindex="0" aria-expanded="false" role="button">Environnement <br/>et déchets<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-44498" style="--columns:3; --span:1" id="mega-menu-item-44498"><a class="mega-menu-link" tabindex="0">Collecte des déchets<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43575" id="mega-menu-item-43575"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/collecte-des-dechets/horaire/">Horaire de collecte</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43574" id="mega-menu-item-43574"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/collecte-des-dechets/quoi-jeter-ou/">Quoi jeter où?</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-43573" id="mega-menu-item-43573"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/collecte-des-dechets/informations/" aria-expanded="false">Informations sur la collecte<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-43666" id="mega-menu-item-43666"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/collecte-des-dechets/informations/surplus/" aria-expanded="false">Collecte de surplus de recyclage<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43652" id="mega-menu-item-43652"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/collecte-des-dechets/informations/surplus/merci/">Merci</a></li>			</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-60449" id="mega-menu-item-60449"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/collecte-des-dechets/informations/encombrants/">Collecte de déchets encombrants</a></li>		</ul>
+</li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-44499" style="--columns:3; --span:1" id="mega-menu-item-44499"><a class="mega-menu-link" tabindex="0">Dépôts de déchets<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43655" id="mega-menu-item-43655"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/depots-de-dechets/informations/">Dépôt de matières résiduelles</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43654" id="mega-menu-item-43654"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/depots-de-dechets/journee-grand-debarras/">Journée grand débarras</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43653" id="mega-menu-item-43653"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/depots-de-dechets/ecocentres/">Écocentres</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-44500" style="--columns:3; --span:1" id="mega-menu-item-44500"><a class="mega-menu-link" tabindex="0">Subventions<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43669" id="mega-menu-item-43669"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/subventions/renoclimat/">Rénoclimat</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-63848" id="mega-menu-item-63848"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/subventions/couches-et-produits-menstruels/">Couches réutilisables et produits menstruels durables</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-clear mega-menu-item-44501" style="--columns:3; --span:1" id="mega-menu-item-44501"><a class="mega-menu-link" tabindex="0">Verdissement urbain<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43744" id="mega-menu-item-43744"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/bienfaits-des-arbres/">Bienfaits des arbres</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43743" id="mega-menu-item-43743"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/plantation/">Plantation d’arbres publics</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43845" id="mega-menu-item-43845"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/un-arbre-pour-mon-quartier/">Un arbre pour mon quartier (planter de nouveaux arbres à faible coût)</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43846" id="mega-menu-item-43846"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/ensemble-on-verdit/">Ensemble on verdit (replacement d’arbre)</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43738" id="mega-menu-item-43738"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/jardins-communautaires/">Jardins communautaires</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-65039" id="mega-menu-item-65039"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/jardins-dexception/">Jardins d’exception</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-59363" id="mega-menu-item-59363"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/defi-pissenlits/">Défi pissenlits</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43740" id="mega-menu-item-43740"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/fleurons-du-quebec/">Fleurons du Québec</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43742" id="mega-menu-item-43742"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/especes-envahissantes/">Éliminer les espèces envahissantes</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-61670" id="mega-menu-item-61670"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/verdissement/mission-monarque/">Mission monarque</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-3 mega-menu-item-44502" style="--columns:3; --span:1" id="mega-menu-item-44502"><a class="mega-menu-link" tabindex="0">Réduire son empreinte<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43792" id="mega-menu-item-43792"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/reduire-reutiliser-recycler-et-composter/">Réduire, réutiliser, recycler et composter</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43798" id="mega-menu-item-43798"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/donner/">Articles à donner</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43797" id="mega-menu-item-43797"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/compostage-domestique/">Compostage domestique</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44651" id="mega-menu-item-44651"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/herbicyclage/">Herbicyclage</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43794" id="mega-menu-item-43794"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/eco-demenagement/">Éco-déménagement</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-43795" id="mega-menu-item-43795"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/pas-de-circulaires/" aria-expanded="false">Autocollant Pas de circulaires<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-43796" id="mega-menu-item-43796"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/pas-de-circulaires/merci/">Merci</a></li>		</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43793" id="mega-menu-item-43793"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/empreinte-bleue/">Réduisez le gaspillage d’eau</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43815" id="mega-menu-item-43815"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/empreinte-ecologique/transport-durable/">Transport durable</a></li>	</ul>
+</li></ul>
+</li><li class="mega-multi-line mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-right mega-menu-megamenu mega-hide-arrow mega-menu-item-599 multi-line" id="mega-menu-item-599"><a class="mega-menu-link" href="#" aria-expanded="false" tabindex="0">Santé et <br/>sécurité<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-44508" style="--columns:2; --span:1" id="mega-menu-item-44508"><a class="mega-menu-link" tabindex="0">Sécurité publique<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44324" id="mega-menu-item-44324"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/protection-civile/">Service de la protection civile</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44323" id="mega-menu-item-44323"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/police/">Service de police</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44350" id="mega-menu-item-44350"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/service-des-incendies/">Service des incendies</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44322" id="mega-menu-item-44322"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/citoyens-en-patrouille-vcop/">Citoyens en patrouille (vCOP)</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-44334" id="mega-menu-item-44334"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/securite-routiere/" aria-expanded="false">Sécurité routière<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44335" id="mega-menu-item-44335"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/securite-routiere/merci/">Merci</a></li>		</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-44358" id="mega-menu-item-44358"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/alertes-durgence/" aria-expanded="false">Alertes d’urgence<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44359" id="mega-menu-item-44359"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/alertes-durgence/merci/">Merci</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44366" id="mega-menu-item-44366"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/alertes-durgence/desabonnement/" aria-expanded="false">Désabonnement du service d’alerte<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44367" id="mega-menu-item-44367"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/securite/alertes-durgence/desabonnement/merci/">Merci</a></li>			</ul>
+</li>		</ul>
+</li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-44509" style="--columns:2; --span:1" id="mega-menu-item-44509"><a class="mega-menu-link" tabindex="0">Santé et bien-être<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44186" id="mega-menu-item-44186"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/sante/comment-ca-va/">Comment ça va?</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44185" id="mega-menu-item-44185"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/sante/services-medicaux-durgence/">Services médicaux d’urgence (SMU)</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44184" id="mega-menu-item-44184"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/sante/ressources-externes/">Ressources externes de santé</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-44348" style="--columns:2; --span:1" id="mega-menu-item-44348"><a class="mega-menu-link" tabindex="0">Prévention<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44349" id="mega-menu-item-44349"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/prevention/prevenir-un-incendie-a-la-maison/">Prévenir un incendie à la maison</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44379" id="mega-menu-item-44379"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/prevention/situations-durgence/">Préparation aux situations d’urgence</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-65305" id="mega-menu-item-65305"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/prevention/inondation-au-sous-sol/" aria-expanded="false">Comment réduire les risques d’inondation au sous-sol <span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-65510" id="mega-menu-item-65510"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/prevention/inondation-au-sous-sol/gouttieres/">Diriger les gouttières au bon endroit</a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class="mega-multi-line mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-right mega-menu-megamenu mega-hide-arrow mega-menu-item-600 multi-line" id="mega-menu-item-600"><a class="mega-menu-link" href="#" aria-expanded="false" tabindex="0">Eau, routes <br/>et entretien<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-44590" style="--columns:2; --span:1" id="mega-menu-item-44590"><a class="mega-menu-link" tabindex="0">Réseau d’eau<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44595" id="mega-menu-item-44595"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/renseignements/">Renseignements</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44594" id="mega-menu-item-44594"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/plomb-et-eau-potable/">Conduites en plomb et eau potable</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44593" id="mega-menu-item-44593"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/base-de-donnees/">Base de données des conduites d’eau</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-44592" id="mega-menu-item-44592"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/remboursement/" aria-expanded="false">Remboursement de filtres et distributeurs d’eau<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44712" id="mega-menu-item-44712"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/remboursement/filtres-admissibles/">Filtres admissibles</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44717" id="mega-menu-item-44717"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/remboursement/pichet-et-filtre-gratuits/" aria-expanded="false">Pichet d’eau et filtre gratuits<span class="mega-indicator" aria-hidden="true"></span></a>
+			<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44718" id="mega-menu-item-44718"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/remboursement/pichet-et-filtre-gratuits/merci/">Merci</a></li>			</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44716" id="mega-menu-item-44716"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/remboursement/filtres-a-eau-50/">Remboursement des filtres à eau (50 $)</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44714" id="mega-menu-item-44714"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/remboursement/filtration-sous-levier-200/">Remboursement d’un système de filtration sous l’évier (200 $)</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44713" id="mega-menu-item-44713"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/remboursement/distributeurs-5-gallons-200/">Remboursement pour les distributeurs d’eau de 5 gallons (200 $)</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44715" id="mega-menu-item-44715"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/remboursement/merci/">Merci</a></li>		</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44624" id="mega-menu-item-44624"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/eau/bilan/">Bilan de la qualité de l’eau potable</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-disable-link mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-item-44511" style="--columns:2; --span:1" id="mega-menu-item-44511"><a class="mega-menu-link" tabindex="0">Transport et mobilité<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43852" id="mega-menu-item-43852"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/transport-et-mobilite/micromobilite/">Appareils de transport personnels motorisés</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43850" id="mega-menu-item-43850"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/transport-et-mobilite/autopartage/">Autopartage</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43849" id="mega-menu-item-43849"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/transport-et-mobilite/autobus/">Transport en commun</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43851" id="mega-menu-item-43851"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/transport-et-mobilite/bornes/">Bornes de recharge de véhicules électriques</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43848" id="mega-menu-item-43848"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/transport-et-mobilite/voies-cyclables/">Voies cyclables</a></li>	</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-column-standard mega-menu-columns-1-of-2 mega-menu-clear mega-menu-item-44553" style="--columns:2; --span:1" id="mega-menu-item-44553"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/perturbations/">Travaux et perturbations<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43390" id="mega-menu-item-43390"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/perturbations/info-travaux/">Travaux, fermetures, perturbations</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44549" id="mega-menu-item-44549"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/perturbations/deneigement/">Déneigement</a></li>	</ul>
+</li></ul>
+</li><li class="mega-multi-line mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-megamenu mega-hide-arrow mega-menu-item-601 multi-line" id="mega-menu-item-601"><a class="mega-menu-link" href="#" aria-expanded="false" tabindex="0">Entreprises<span class="mega-indicator" aria-hidden="true"></span></a>
+<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-column-standard mega-menu-columns-1-of-1 mega-menu-item-44437" style="--columns:1; --span:1" id="mega-menu-item-44437"><a class="mega-menu-link" href="#">Entreprises<span class="mega-indicator" aria-hidden="true"></span></a>
+	<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44428" id="mega-menu-item-44428"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/entreprises/pme-mtl-centre-ouest/">PME MTL</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-has-children mega-menu-item-44435" id="mega-menu-item-44435"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/entreprises/soutien-aux-entreprises/" aria-expanded="false">Bureau de communication et de soutien aux entreprises<span class="mega-indicator" aria-hidden="true"></span></a>
+		<ul class="mega-sub-menu">
+<li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-hide-on-desktop mega-hide-on-mobile mega-menu-item-44436" id="mega-menu-item-44436"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/entreprises/soutien-aux-entreprises/merci/">Merci</a></li>		</ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-43136" id="mega-menu-item-43136"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/entreprises/appels-doffres/">Appels d’offres</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-60297" id="mega-menu-item-60297"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/entreprises/commandites-et-hommages/">Commandites et hommages</a></li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-44446" id="mega-menu-item-44446"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/entreprises/commerce-du-mois/">Commerce du mois</a></li>	</ul>
+</li></ul>
+</li><li class="mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-align-bottom-left mega-menu-flyout mega-hide-on-desktop mega-menu-item-58173" id="mega-menu-item-58173"><a class="mega-menu-link" href="https://cotesaintluc.org/fr/calendrier/" tabindex="0">Calendrier</a></li></ul></div>			</div>
+		</nav>
+		
+	<div class="site grid-container container hfeed" id="page">
+				<div class="site-content" id="content">
+			
+	<div class="content-area" id="primary">
+		<main class="site-main" id="main">
+			
+<span class="parent-page-title">Affaires municipales</span>
+
+<article id="post-42841" class="post-42841 page type-page status-publish" itemtype="https://schema.org/CreativeWork" itemscope>
+	<div class="inside-article">
+		
+			<header class="entry-header">
+				<h1 class="entry-title" itemprop="headline">Membres du conseil</h1>			</header>
+
+			
+		<div class="entry-content" itemprop="text">
+			
+<p>La Ville de Côte Saint-Luc était administrée par un maire et huit conseillers. Le conseil est élu pour quatre ans. </p>
+
+
+
+<p>Chaque conseiller municipal est <strong>responsable de quelques dossiers</strong>, tels les travaux publics, la circulation, les parcs et loisirs, l’environnement, etc. De plus, chaque conseiller est <strong>responsable de l’un des huit districts</strong> de la Ville.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Par district</h2>
+
+
+
+<p><a href="https://cotesaintluc.org/wp-content/uploads/2023/03/CSL_street_maps_2022.pdf" target="_blank" rel="noreferrer noopener">Consultez la carte</a>&nbsp;des districts ou cliquez sur le numéro du district ci-dessous pour voir la carte de ce district.</p>
+
+
+<div class="gb-grid-wrapper gb-grid-wrapper-1f67ee41">
+<div class="gb-grid-column gb-grid-column-ef38596e"><div class="gb-container gb-container-ef38596e">
+
+<figure class="gb-block-image gb-block-image-d85ee503"><img fetchpriority="high" decoding="async" width="2048" height="2560" class="gb-image gb-image-d85ee503" src="https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1.jpg" alt="" title="MayorMitchellBrownstein2022_v2" srcset="https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1.jpg 2048w, https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1-240x300.jpg 240w, https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1-819x1024.jpg 819w, https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1-768x960.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1-1229x1536.jpg 1229w, https://cotesaintluc.org/wp-content/uploads/2021/11/MayorMitchellBrownstein2022_v2-scaled-1-1638x2048.jpg 1638w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p id="option-2-soumettre-une-question-ecrite-a-lavance"><strong>Mitchell Brownstein</strong><br>Maire<br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#4b262939243c25383f2e22250b28243f2e382a22253f273e286524392c"><span class="__cf_email__" data-cfemail="88e5eafae7ffe6fbfcede1e6c8ebe7fcedfbe9e1e6fce4fdeba6e7faef">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-b005f768 gb-accordion">
+<div class="gb-container gb-container-d2b56a24 gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-8b8ac375 gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-e20eec90">
+
+<p>Mitchell Brownstein devient maire de Côte Saint-Luc le vendredi 11 mars 2016. Maire Brownstein a été conseiller municipal depuis 1990.</p>
+
+
+
+<p>Site web:&nbsp;<a rel="noreferrer noopener" href="http://www.mitchellbrownstein.ca/council.html" target="_blank">MitchellBrownstein.com</a></p>
+
+
+
+<p>Twitter: <a href="https://www.twitter.com/mbrownsteincsl">mbrownsteincsl</a></p>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-de53f38f"><div class="gb-container gb-container-de53f38f">
+
+<figure class="gb-block-image gb-block-image-474b671f"><img decoding="async" width="1200" height="1800" class="gb-image gb-image-474b671f" src="https://cotesaintluc.org/wp-content/uploads/2019/05/OrenSebag.jpg" alt="Oren Sebag" title="Oren Sebag" srcset="https://cotesaintluc.org/wp-content/uploads/2019/05/OrenSebag.jpg 1200w, https://cotesaintluc.org/wp-content/uploads/2019/05/OrenSebag-200x300.jpg 200w, https://cotesaintluc.org/wp-content/uploads/2019/05/OrenSebag-683x1024.jpg 683w, https://cotesaintluc.org/wp-content/uploads/2019/05/OrenSebag-768x1152.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2019/05/OrenSebag-1024x1536.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>Oren Sebag</strong><br>Conseiller, <a href="https://cotesaintluc.org/wp-content/uploads/2021/12/WP_Oren_Sebag_1.png">District 1</a><br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#8de2fee8efeceacdeee2f9e8feece4e3f9e1f8eea3e2ffea"><span class="__cf_email__" data-cfemail="a7c8d4c2c5c6c0e7c4c8d3c2d4c6cec9d3cbd2c489c8d5c0">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-c61a340a gb-accordion">
+<div class="gb-container gb-container-681478a7 gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-cbd5e1f6 gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-1204e3f4">
+
+<p><strong>Responsabilités:</strong><br>Liaison siégeant au conseil pour le Service de la Sécurité civile&nbsp;</p>
+
+
+
+<p><strong>Autres dossiers importants:</strong><br>Plan de préparations aux urgences&nbsp;</p>
+
+
+
+<p>Twitter : <a href="https://twitter.com/OrenCSL">OrenCSL</a> </p>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-41ef9b13"><div class="gb-container gb-container-41ef9b13">
+
+<figure class="gb-block-image gb-block-image-47c4c11c"><img decoding="async" width="2000" height="2200" class="gb-image gb-image-47c4c11c" src="https://cotesaintluc.org/wp-content/uploads/2021/11/Mike_Cohen2.jpg" alt="" title="Mike_Cohen2" srcset="https://cotesaintluc.org/wp-content/uploads/2021/11/Mike_Cohen2.jpg 2000w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mike_Cohen2-273x300.jpg 273w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mike_Cohen2-931x1024.jpg 931w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mike_Cohen2-768x845.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mike_Cohen2-1396x1536.jpg 1396w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mike_Cohen2-1862x2048.jpg 1862w" sizes="(max-width: 2000px) 100vw, 2000px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>Mike Cohen</strong><br>Conseiller, <a href="https://cotesaintluc.org/wp-content/uploads/2021/12/WP_Mike_Cohen_2.png">District 2</a><br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#1f727c70777a715f7c706b7a6c7e76716b736a7c31706d78"><span class="__cf_email__" data-cfemail="b0ddd3dfd8d5def0d3dfc4d5c3d1d9dec4dcc5d39edfc2d7">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-f16d95f7 gb-accordion">
+<div class="gb-container gb-container-73c55584 gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-390c8391 gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-ef205a1c">
+
+<p><strong>Responsabilités:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Liaison siégeant au conseil pour la Bibliothèque Publique&nbsp;</li>
+
+
+
+<li>Liaison siégeant au conseil pour le Service des Affaires publiques et communications&nbsp;&nbsp;</li>
+
+
+
+<li>Président du Comité de la bibliothèque et de la culture&nbsp;</li>
+
+
+
+<li>Président du Comité de toponymie&nbsp;</li>
+
+
+
+<li>Président du Comité des chats&nbsp;</li>
+
+
+
+<li>Président du Comité des chiens&nbsp;</li>
+
+
+
+<li>Président du Comité de commerce local&nbsp;</li>
+</ul>
+
+
+
+<p><strong>Autres dossiers importants:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Toponymie&nbsp;&nbsp;</li>
+
+
+
+<li>Bien-être animal&nbsp;&nbsp;&nbsp;</li>
+
+
+
+<li>Commerce local</li>
+</ul>
+
+
+
+<p>Blogue : <a href="https://www.mikecohen.ca/">www.mikecohen.ca/</a><br>Facebook: <a href="https://www.facebook.com/MikeCohenDistrict2/">MikeCohenDistrict2</a><br>Twitter : <a href="https://twitter.com/mikecohencsl">mikecohencsl</a></p>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+</div>
+
+<div class="gb-grid-wrapper gb-grid-wrapper-27a85793">
+<div class="gb-grid-column gb-grid-column-8ab93305"><div class="gb-container gb-container-8ab93305">
+
+<figure class="gb-block-image gb-block-image-d3c0732c"><img loading="lazy" decoding="async" width="2000" height="2200" class="gb-image gb-image-d3c0732c" src="https://cotesaintluc.org/wp-content/uploads/2021/11/Dida_Berku3.jpg" alt="" title="Dida_Berku3" srcset="https://cotesaintluc.org/wp-content/uploads/2021/11/Dida_Berku3.jpg 2000w, https://cotesaintluc.org/wp-content/uploads/2021/11/Dida_Berku3-273x300.jpg 273w, https://cotesaintluc.org/wp-content/uploads/2021/11/Dida_Berku3-931x1024.jpg 931w, https://cotesaintluc.org/wp-content/uploads/2021/11/Dida_Berku3-768x845.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2021/11/Dida_Berku3-1396x1536.jpg 1396w, https://cotesaintluc.org/wp-content/uploads/2021/11/Dida_Berku3-1862x2048.jpg 1862w" sizes="auto, (max-width: 2000px) 100vw, 2000px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p id="option-2-soumettre-une-question-ecrite-a-lavance"><strong>Dida Berku</strong><br>Conseillère, <a href="https://cotesaintluc.org/wp-content/uploads/2021/12/WP_Dida_Berku_32.png">District 3</a><br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#4226202730293702212d362731232b2c362e37216c2d3025"><span class="__cf_email__" data-cfemail="a3c7c1c6d1c8d6e3c0ccd7c6d0c2cacdd7cfd6c08dccd1c4">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-e657b360 gb-accordion">
+<div class="gb-container gb-container-f92d2411 gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-bed9dc2f gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-c979933f">
+
+<p><strong>Responsabilités:</strong><br>Mairesse adjointe</p>
+
+
+
+<p><strong>Autres dossiers importants</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Plan directeur&nbsp;&nbsp;</li>
+
+
+
+<li>Projets de rezonage et de réaménagement&nbsp;</li>
+
+
+
+<li>Engagement communautaire&nbsp;&nbsp;&nbsp;</li>
+
+
+
+<li>Projet de laboratoire vivant&nbsp;&nbsp;&nbsp;</li>
+
+
+
+<li>Dossier Meadowbrook</li>
+</ul>
+
+
+
+<p>Blogue: <a href="https://didaberku.blogspot.com/">didaberku.blogspot.com/</a></p>
+
+
+
+<p>Twitter: <a href="https://twitter.com/didaberku">didaberku</a></p>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-f267b1d8"><div class="gb-container gb-container-f267b1d8">
+
+<figure class="gb-block-image gb-block-image-35b7d4eb"><img loading="lazy" decoding="async" width="2000" height="2200" class="gb-image gb-image-35b7d4eb" src="https://cotesaintluc.org/wp-content/uploads/2021/11/Steven_Erdelyi4.jpg" alt="" title="Steven_Erdelyi4" srcset="https://cotesaintluc.org/wp-content/uploads/2021/11/Steven_Erdelyi4.jpg 2000w, https://cotesaintluc.org/wp-content/uploads/2021/11/Steven_Erdelyi4-273x300.jpg 273w, https://cotesaintluc.org/wp-content/uploads/2021/11/Steven_Erdelyi4-931x1024.jpg 931w, https://cotesaintluc.org/wp-content/uploads/2021/11/Steven_Erdelyi4-768x845.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2021/11/Steven_Erdelyi4-1396x1536.jpg 1396w, https://cotesaintluc.org/wp-content/uploads/2021/11/Steven_Erdelyi4-1862x2048.jpg 1862w" sizes="auto, (max-width: 2000px) 100vw, 2000px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>Steven Erdelyi</strong><br>Conseiller, <a href="https://cotesaintluc.org/wp-content/uploads/2021/12/WP_Steven_Erdelyi_4.png">District 4</a><br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#0b786e796f6e6772624b68647f6e786a62657f677e682564796c"><span class="__cf_email__" data-cfemail="e59680978180899c8ca5868a918096848c8b91899086cb8a9782">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-8dbb69dc gb-accordion">
+<div class="gb-container gb-container-bc1059c1 gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-49b074f5 gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-fe0557dd">
+
+<p><strong>Responsabilités:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Liaison siégeant au conseil pour le Service des finances</li>
+
+
+
+<li>Liaison au conseil du programme des Citoyens en patrouille (vCOP)</li>
+
+
+
+<li>Président du Comité de vérification</li>
+</ul>
+
+
+
+<p><strong>Autres dossiers importants:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Changement climatique et planification de la résilience</li>
+
+
+
+<li>Projet Aqueduc-Saraguay d’Hydro-Québec</li>
+</ul>
+
+
+
+<p>Site web : <a rel="noreferrer noopener" href="https://www.serdelyi.com/" target="_blank">serdelyi.com</a></p>
+
+
+
+<p>Twitter : <a rel="noreferrer noopener" href="https://twitter.com/stevenerdelyi" target="_blank">stevenerdelyi</a></p>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-d4767775"><div class="gb-container gb-container-d4767775">
+
+<figure class="gb-block-image gb-block-image-cca97bbe"><img loading="lazy" decoding="async" width="2000" height="2200" class="gb-image gb-image-cca97bbe" src="https://cotesaintluc.org/wp-content/uploads/2021/11/Mitch_Kujavsky5.jpg" alt="" title="Mitch_Kujavsky5" srcset="https://cotesaintluc.org/wp-content/uploads/2021/11/Mitch_Kujavsky5.jpg 2000w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mitch_Kujavsky5-273x300.jpg 273w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mitch_Kujavsky5-931x1024.jpg 931w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mitch_Kujavsky5-768x845.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mitch_Kujavsky5-1396x1536.jpg 1396w, https://cotesaintluc.org/wp-content/uploads/2021/11/Mitch_Kujavsky5-1862x2048.jpg 1862w" sizes="auto, (max-width: 2000px) 100vw, 2000px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>Mitch Kujavsky</strong><br>Conseiller, <a href="https://cotesaintluc.org/wp-content/uploads/2021/12/WP_Mitch_Kujavsky_52.png">District 5</a><br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#adc0c6d8c7ccdbdec6d4edcec2d9c8deccc4c3d9c1d8ce83c2dfca"><span class="__cf_email__" data-cfemail="214c4a544b4057524a5861424e55445240484f554d54420f4e5346">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-54d96cd0 gb-accordion">
+<div class="gb-container gb-container-89e3f757 gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-a2f32ec0 gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-53c088a7">
+
+<p><strong>Responsabilités:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Liaison siégeant au conseil pour le Service du développement urbain</li>
+
+
+
+<li>Président du Comité de la circulation</li>
+
+
+
+<li>Président du Comité consultatif de l’urbanisme</li>
+
+
+
+<li>Président du Comité des parcs et espaces publics</li>
+</ul>
+
+
+
+<p><strong>Autres dossiers importants:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Planification concernant le dossier du plomb</li>
+
+
+
+<li>Politique&nbsp;des&nbsp;espaces&nbsp;publics</li>
+</ul>
+
+
+
+<p>Twitter : <a rel="noreferrer noopener" href="https://twitter.com/HahaAccountant" target="_blank">HahaAccountant</a></p>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+</div>
+
+<div class="gb-grid-wrapper gb-grid-wrapper-191f1e15">
+<div class="gb-grid-column gb-grid-column-6ab8ed11"><div class="gb-container gb-container-6ab8ed11">
+
+<figure class="gb-block-image gb-block-image-c66a7920"><img loading="lazy" decoding="async" width="2000" height="2200" class="gb-image gb-image-c66a7920" src="https://cotesaintluc.org/wp-content/uploads/2021/11/Lior_Azerad6.jpg" alt="" title="Lior_Azerad6" srcset="https://cotesaintluc.org/wp-content/uploads/2021/11/Lior_Azerad6.jpg 2000w, https://cotesaintluc.org/wp-content/uploads/2021/11/Lior_Azerad6-273x300.jpg 273w, https://cotesaintluc.org/wp-content/uploads/2021/11/Lior_Azerad6-931x1024.jpg 931w, https://cotesaintluc.org/wp-content/uploads/2021/11/Lior_Azerad6-768x845.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2021/11/Lior_Azerad6-1396x1536.jpg 1396w, https://cotesaintluc.org/wp-content/uploads/2021/11/Lior_Azerad6-1862x2048.jpg 1862w" sizes="auto, (max-width: 2000px) 100vw, 2000px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p id="option-2-soumettre-une-question-ecrite-a-lavance"><strong>Lior Azerad</strong><br>Conseillère, <a href="https://cotesaintluc.org/wp-content/uploads/2021/12/WP_Lior_Azerad_62.png">District 6</a><br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#b3dfd2c9d6c1d2d7f3d0dcc7d6c0d2daddc7dfc6d09ddcc1d4"><span class="__cf_email__" data-cfemail="e78b869d82958683a78488938294868e89938b9284c9889580">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-ab91de14 gb-accordion">
+<div class="gb-container gb-container-5454aabb gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-b4f0b62a gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-81a99e46">
+
+<p><strong>Responsabilités:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Président du Conseil des jeunes adultes&nbsp;&nbsp;&nbsp;&nbsp;</li>
+
+
+
+<li>Président du Comité de parrainage</li>
+</ul>
+
+
+
+<p><strong>Autres dossiers importants:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><em>Next Generation</em>&nbsp;Côte&nbsp;Saint-Luc&nbsp;&nbsp;&nbsp;</li>
+</ul>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-130725e6"><div class="gb-container gb-container-130725e6">
+
+<figure class="gb-block-image gb-block-image-2be2b657"><img loading="lazy" decoding="async" width="2000" height="2200" class="gb-image gb-image-2be2b657" src="https://cotesaintluc.org/wp-content/uploads/2021/11/Sidney_Benizri7.jpg" alt="" title="Sidney_Benizri7" srcset="https://cotesaintluc.org/wp-content/uploads/2021/11/Sidney_Benizri7.jpg 2000w, https://cotesaintluc.org/wp-content/uploads/2021/11/Sidney_Benizri7-273x300.jpg 273w, https://cotesaintluc.org/wp-content/uploads/2021/11/Sidney_Benizri7-931x1024.jpg 931w, https://cotesaintluc.org/wp-content/uploads/2021/11/Sidney_Benizri7-768x845.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2021/11/Sidney_Benizri7-1396x1536.jpg 1396w, https://cotesaintluc.org/wp-content/uploads/2021/11/Sidney_Benizri7-1862x2048.jpg 1862w" sizes="auto, (max-width: 2000px) 100vw, 2000px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>Sidney Benizri</strong><br>Conseiller, <a href="https://cotesaintluc.org/wp-content/uploads/2021/12/WP_Sidney_Benizri_7.png">District 7</a><br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#9eedfcfbf0f7e4ecf7defdf1eafbedfff7f0eaf2ebfdb0f1ecf9"><span class="__cf_email__" data-cfemail="493a2b2c2720333b20092a263d2c3a2820273d253c2a67263b2e">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-e8b77eca gb-accordion">
+<div class="gb-container gb-container-503cfd79 gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-6b70c6f5 gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-9fbb4cac">
+
+<p><strong>Responsabilités:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Liaison siégeant au conseil pour le Service des travaux publics</li>
+
+
+
+<li>Président du Conseil consultatif des aînés</li>
+</ul>
+
+
+
+<p><strong>Autres dossiers importants:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Relations intercommunautaires</li>
+
+
+
+<li>Création d’une ville accueillante pour les aînés</li>
+</ul>
+
+
+
+<p><strong>Twitter</strong>: <a rel="noreferrer noopener" href="https://twitter.com/sidneybenizri" target="_blank">sidneybenizri</a></p>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-ba6ee423"><div class="gb-container gb-container-ba6ee423">
+
+<figure class="gb-block-image gb-block-image-a716909d"><img loading="lazy" decoding="async" width="2000" height="2200" class="gb-image gb-image-a716909d" src="https://cotesaintluc.org/wp-content/uploads/2021/11/Andee_Shuster8.jpg" alt="" title="Andee_Shuster8" srcset="https://cotesaintluc.org/wp-content/uploads/2021/11/Andee_Shuster8.jpg 2000w, https://cotesaintluc.org/wp-content/uploads/2021/11/Andee_Shuster8-273x300.jpg 273w, https://cotesaintluc.org/wp-content/uploads/2021/11/Andee_Shuster8-931x1024.jpg 931w, https://cotesaintluc.org/wp-content/uploads/2021/11/Andee_Shuster8-768x845.jpg 768w, https://cotesaintluc.org/wp-content/uploads/2021/11/Andee_Shuster8-1396x1536.jpg 1396w, https://cotesaintluc.org/wp-content/uploads/2021/11/Andee_Shuster8-1862x2048.jpg 1862w" sizes="auto, (max-width: 2000px) 100vw, 2000px" /></figure>
+
+
+
+<p></p>
+
+
+
+<p><strong>Andee Shuster</strong><br>Conseillère, <a href="https://cotesaintluc.org/wp-content/uploads/2021/12/WP_Andee_Shuster_8.png">District 8</a><br><a href="tel:514-485-6945">514-485-6945</a><br><a href="/cdn-cgi/l/email-protection#c3a2b0abb6b0b7a6b183a0acb7a6b0a2aaadb7afb6a0edacb1a4"><span class="__cf_email__" data-cfemail="afcedcc7dadcdbcaddefccc0dbcadccec6c1dbc3dacc81c0ddc8">[email&#160;protected]</span></a></p>
+
+
+<div class="gb-container gb-container-3c391ede gb-accordion">
+<div class="gb-container gb-container-83a1a5fa gb-accordion__item" data-transition="slide">
+
+<button class="gb-button gb-button-e2e04eb0 gb-accordion__toggle"><span class="gb-button-text">Détails</span><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" fill="currentColor"></path></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="1em" height="1em" ariahidden="true" role="img" class="gb-accordion__icon-open"><path d="M240.971 130.524l194.343 194.343c9.373 9.373 9.373 24.569 0 33.941l-22.667 22.667c-9.357 9.357-24.522 9.375-33.901.04L224 227.495 69.255 381.516c-9.379 9.335-24.544 9.317-33.901-.04l-22.667-22.667c-9.373-9.373-9.373-24.569 0-33.941L207.03 130.525c9.372-9.373 24.568-9.373 33.941-.001z" fill="currentColor"></path></svg></span></button>
+
+
+<div class="gb-accordion__content"><div class="gb-container gb-container-d1ccd34d">
+
+<p><strong>Responsabilités:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Liaison siégeant au conseil pour le Service des loisirs et des parcs</li>
+
+
+
+<li>Présidente du Comité des activités et initiatives communautaires</li>
+
+
+
+<li>Présidente de la Troupe de théâtre de Côte Saint-Luc</li>
+</ul>
+
+
+
+<p><strong>Autres dossiers importants:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>Planification du bien-être</li>
+</ul>
+
+</div></div>
+</div>
+</div>
+
+
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+
+</div></div>
+</div>
+
+
+<div style="height:62px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading">Par dossier</h2>
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.cognitoforms.com/f/seamless.js" data-key="_poLZVYLi0y-UeHUvvzfmQ" data-form="133"></script>
+
+
+
+<p></p>
+		</div>
+
+			</div>
+</article>
+		</main>
+	</div>
+
+	<div class="widget-area sidebar is-left-sidebar" id="left-sidebar">
+	<div class="inside-left-sidebar">
+		<aside id="block-11" class="widget inner-padding widget_block">
+<ul class="side_menu"><p class="parent-title"><strong>Affaires municipales</strong></p><li class="active">Membres du conseil</li><li><a href="https://cotesaintluc.org/fr/affaires-municipales/seances-du-conseil/">Séances du conseil</a></li><li><a href="https://cotesaintluc.org/fr/affaires-municipales/reunions-de-districts/">Réunions de districts</a></li><li><a href="https://cotesaintluc.org/fr/affaires-municipales/avis-publics/">Avis publics</a></li><li><a href="https://cotesaintluc.org/fr/affaires-municipales/resolutions/">Résolutions</a></li><li><a href="https://cotesaintluc.org/fr/affaires-municipales/formation-obligatoire-des-elus/">Formation obligatoire</a></li><li><a href="https://cotesaintluc.org/fr/affaires-municipales/elections/">Élections municipales</a></li><li><a href="https://cotesaintluc.org/fr/affaires-municipales/benevolat/">Bénévolat</a></li><li><a href="https://cotesaintluc.org/fr/affaires-municipales/contribuez/">Contribuez</a></li></ul>
+</aside>	</div>
+</div>
+
+	</div>
+</div>
+
+
+<div class="site-footer footer-bar-active footer-bar-align-right">
+	<div class="gb-container gb-container-a4c4c356 alignfull">
+<div class="gb-container gb-container-de96b7bd">
+
+<p style="font-size:1.4em">Nous joindre</p>
+
+</div>
+
+<div class="gb-container gb-container-d8759ff4">
+<div class="gb-grid-wrapper gb-grid-wrapper-46b3c6b0">
+<div class="gb-grid-column gb-grid-column-ddcdc3f9"><div class="gb-container gb-container-ddcdc3f9">
+
+<p class="gb-headline gb-headline-91b3e874"><span class="gb-icon"><svg fill="#000000" width="24px" viewBox="0 0 24 24" height="24px" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0V0z"></path><path d="M15 11V5l-3-3-3 3v2H3v14h18V11h-6zm-8 8H5v-2h2v2zm0-4H5v-2h2v2zm0-4H5V9h2v2zm6 8h-2v-2h2v2zm0-4h-2v-2h2v2zm0-4h-2V9h2v2zm0-4h-2V5h2v2zm6 12h-2v-2h2v2zm0-4h-2v-2h2v2z"></path></svg></span><span class="gb-headline-text">En personne</span></p>
+
+
+
+<p>Hôtel de Ville<br><a href="https://g.page/villedecotesaintluc?share" target="_blank" rel="noreferrer noopener">5801, boul. Cavendish</a><br>Lundi au vendredi<br>9 h à 12 h et 13 h à 16 h<br><br>Centre communautaire et aquatique <br><a href="https://g.page/CSLACC?share" target="_blank" rel="noreferrer noopener">5794, avenue Parkhaven</a><br>Ouvert tous les jours<br><a href="https://cotesaintluc.org/fr/lieu/centre-communautaire-et-aquatique/" data-type="citadela-item" data-id="42734">Heures d'ouverture</a></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-1a93695a"><div class="gb-container gb-container-1a93695a">
+
+<p class="gb-headline gb-headline-ef5f5204"><span class="gb-icon"><svg fill="#000000" width="24px" viewBox="0 0 24 24" height="24px" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0V0z"></path><path opacity=".3" d="M19 17.47c-.88-.07-1.75-.22-2.6-.45l-1.19 1.19c1.2.41 2.48.67 3.8.75v-1.49zM6.54 5h-1.5c.09 1.32.35 2.59.75 3.8l1.2-1.2c-.24-.84-.39-1.71-.45-2.6z"></path><path d="M20 21c.55 0 1-.45 1-1v-3.49c0-.55-.45-1-1-1-1.24 0-2.45-.2-3.57-.57-.1-.04-.21-.05-.31-.05-.26 0-.51.1-.71.29l-2.2 2.2c-2.83-1.45-5.15-3.76-6.59-6.59l2.2-2.2c.28-.28.36-.67.25-1.02C8.7 6.45 8.5 5.25 8.5 4c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1 0 9.39 7.61 17 17 17zm-3.6-3.98c.85.24 1.72.39 2.6.45v1.49c-1.32-.09-2.59-.35-3.8-.75l1.2-1.19zM5.03 5h1.5c.07.89.22 1.76.46 2.59l-1.2 1.2c-.41-1.2-.67-2.47-.76-3.79z"></path></svg></span><span class="gb-headline-text">Au téléphone</span></p>
+
+
+
+<p><a href="tel:514-485-6800">514-485-6800</a><br>Lundi au vendredi<br>9 h à 12 h et 13 h à 16 h</p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-9491856f"><div class="gb-container gb-container-9491856f">
+
+<p class="gb-headline gb-headline-6080761c"><span class="gb-icon"><svg fill="#000000" width="24px" viewBox="0 0 24 24" height="24px" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0V0z"></path><path opacity=".3" d="M5 8h14v10H5z"></path><path d="M19 4H5c-1.11 0-2 .9-2 2v12c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.89-2-2-2zm0 14H5V8h14v10z"></path></svg></span><span class="gb-headline-text">En ligne</span></p>
+
+
+
+<p><a href="https://cotesaintluc.org/fr/ville/nous-joindre/signaler-un-probleme/" data-type="URL" data-id="https://cotesaintluc.org/fr/ville/nous-joindre/signaler-un-probleme/">Signalez un problème</a><br><a href="/cdn-cgi/l/email-protection#9be8fee9edf2f8fedbf8f4effee8faf2f5eff7eef8b5f4e9fc"><span class="__cf_email__" data-cfemail="63100611150a000623000c170610020a0d170f16004d0c1104">[email&#160;protected]</span></a><br></p>
+
+</div></div>
+</div>
+</div>
+</div>
+
+<div class="gb-container gb-container-48a8e222 alignfull">
+<div class="gb-container gb-container-d87559c1">
+<div class="gb-grid-wrapper gb-grid-wrapper-9acccb76">
+<div class="gb-grid-column gb-grid-column-0a8da551"><div class="gb-container gb-container-0a8da551">
+
+<p class="gb-headline gb-headline-921acf08 gb-headline-text"><strong>Abonnez-vous à notre infolettre</strong></p>
+
+
+
+<!-- Begin Mailchimp Signup Form -->
+
+<div id="mc_embed_signup-ville">
+  <form 
+    action="https://cotesaintluc.us4.list-manage.com/subscribe/post?u=2f9a09c8364a034382cf9a48f&amp;id=d5e1c18162" 
+    method="post"
+    id="mc-embedded-subscribe-form-ville"
+    name="mc-embedded-subscribe-form-ville"
+    class="validate"
+    target="_blank"
+    novalidate
+  >
+    <div id="mc_embed_signup_scroll">
+      <label for="mce-EMAIL" id="email-label">Courriel</label>
+
+      <div class="email-button-wrapper">
+        <input 
+          type="email" 
+          name="EMAIL" 
+          id="mce-EMAIL" 
+          placeholder="" 
+          required 
+          aria-labelledby="email-label"
+        >
+        <input 
+          type="submit" 
+          value="S'abonner" 
+          name="subscribe" 
+          id="mc-embedded-subscribe-ville" 
+          class="button"
+        >
+      </div>
+
+      <div style="position: absolute; left: -5000px;" aria-hidden="true">
+        <input type="text" name="b_2f9a09c8364a034382cf9a48f_d5e1c18162" tabindex="-1" value="">
+      </div>
+    </div>
+  </form>
+</div>
+
+
+
+
+
+
+
+
+
+<!--End mc_embed_signup-->
+
+
+
+<p></p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-3ddd769d"><div class="gb-container gb-container-3ddd769d">
+
+<p class="gb-headline gb-headline-04f44597 gb-headline-text"><strong>Suivez-nous</strong></p>
+
+
+
+<p class="gb-headline gb-headline-8471d763"><span class="gb-icon"><svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-384c13.3 0 24 10.7 24 24V264c0 13.3-10.7 24-24 24s-24-10.7-24-24V152c0-13.3 10.7-24 24-24zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z"></path></svg></span><span class="gb-headline-text"><a href="https://cotesaintluc.org/fr/securite/alertes-durgence/">Alertes d'urgence</a></span></p>
+
+
+
+<p class="gb-headline gb-headline-afd976fc"><span class="gb-icon"><svg aria-hidden="true" role="img" height="1em" width="1em" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></svg></span><span class="gb-headline-text"><a href="https://cotesaintluc.org/fr/communications/bulletins/">Bulletins</a></span></p>
+
+
+
+<ul class="wp-block-social-links is-style-logos-only is-horizontal is-content-justification-left is-layout-flex wp-container-core-social-links-is-layout-779c298f wp-block-social-links-is-layout-flex"><li class="wp-social-link wp-social-link-facebook  wp-block-social-link"><a rel="noopener nofollow" target="_blank" href="https://www.facebook.com/villedecotesaintluc" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li>
+
+<li class="wp-social-link wp-social-link-youtube  wp-block-social-link"><a rel="noopener nofollow" target="_blank" href="https://www.youtube.com/user/cityofcotesaintluc" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M21.8,8.001c0,0-0.195-1.378-0.795-1.985c-0.76-0.797-1.613-0.801-2.004-0.847c-2.799-0.202-6.997-0.202-6.997-0.202 h-0.009c0,0-4.198,0-6.997,0.202C4.608,5.216,3.756,5.22,2.995,6.016C2.395,6.623,2.2,8.001,2.2,8.001S2,9.62,2,11.238v1.517 c0,1.618,0.2,3.237,0.2,3.237s0.195,1.378,0.795,1.985c0.761,0.797,1.76,0.771,2.205,0.855c1.6,0.153,6.8,0.201,6.8,0.201 s4.203-0.006,7.001-0.209c0.391-0.047,1.243-0.051,2.004-0.847c0.6-0.607,0.795-1.985,0.795-1.985s0.2-1.618,0.2-3.237v-1.517 C22,9.62,21.8,8.001,21.8,8.001z M9.935,14.594l-0.001-5.62l5.404,2.82L9.935,14.594z"></path></svg><span class="wp-block-social-link-label screen-reader-text">YouTube</span></a></li>
+
+<li class="wp-social-link wp-social-link-x  wp-block-social-link"><a rel="noopener nofollow" target="_blank" href="https://twitter.com/cotesaintluc" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M13.982 10.622 20.54 3h-1.554l-5.693 6.618L8.745 3H3.5l6.876 10.007L3.5 21h1.554l6.012-6.989L15.868 21h5.245l-7.131-10.378Zm-2.128 2.474-.697-.997-5.543-7.93H8l4.474 6.4.697.996 5.815 8.318h-2.387l-4.745-6.787Z" /></svg><span class="wp-block-social-link-label screen-reader-text">X</span></a></li>
+
+<li class="wp-social-link wp-social-link-instagram  wp-block-social-link"><a rel="noopener nofollow" target="_blank" href="https://www.instagram.com/cotesaintlucqc/" class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12,4.622c2.403,0,2.688,0.009,3.637,0.052c0.877,0.04,1.354,0.187,1.671,0.31c0.42,0.163,0.72,0.358,1.035,0.673 c0.315,0.315,0.51,0.615,0.673,1.035c0.123,0.317,0.27,0.794,0.31,1.671c0.043,0.949,0.052,1.234,0.052,3.637 s-0.009,2.688-0.052,3.637c-0.04,0.877-0.187,1.354-0.31,1.671c-0.163,0.42-0.358,0.72-0.673,1.035 c-0.315,0.315-0.615,0.51-1.035,0.673c-0.317,0.123-0.794,0.27-1.671,0.31c-0.949,0.043-1.233,0.052-3.637,0.052 s-2.688-0.009-3.637-0.052c-0.877-0.04-1.354-0.187-1.671-0.31c-0.42-0.163-0.72-0.358-1.035-0.673 c-0.315-0.315-0.51-0.615-0.673-1.035c-0.123-0.317-0.27-0.794-0.31-1.671C4.631,14.688,4.622,14.403,4.622,12 s0.009-2.688,0.052-3.637c0.04-0.877,0.187-1.354,0.31-1.671c0.163-0.42,0.358-0.72,0.673-1.035 c0.315-0.315,0.615-0.51,1.035-0.673c0.317-0.123,0.794-0.27,1.671-0.31C9.312,4.631,9.597,4.622,12,4.622 M12,3 C9.556,3,9.249,3.01,8.289,3.054C7.331,3.098,6.677,3.25,6.105,3.472C5.513,3.702,5.011,4.01,4.511,4.511 c-0.5,0.5-0.808,1.002-1.038,1.594C3.25,6.677,3.098,7.331,3.054,8.289C3.01,9.249,3,9.556,3,12c0,2.444,0.01,2.751,0.054,3.711 c0.044,0.958,0.196,1.612,0.418,2.185c0.23,0.592,0.538,1.094,1.038,1.594c0.5,0.5,1.002,0.808,1.594,1.038 c0.572,0.222,1.227,0.375,2.185,0.418C9.249,20.99,9.556,21,12,21s2.751-0.01,3.711-0.054c0.958-0.044,1.612-0.196,2.185-0.418 c0.592-0.23,1.094-0.538,1.594-1.038c0.5-0.5,0.808-1.002,1.038-1.594c0.222-0.572,0.375-1.227,0.418-2.185 C20.99,14.751,21,14.444,21,12s-0.01-2.751-0.054-3.711c-0.044-0.958-0.196-1.612-0.418-2.185c-0.23-0.592-0.538-1.094-1.038-1.594 c-0.5-0.5-1.002-0.808-1.594-1.038c-0.572-0.222-1.227-0.375-2.185-0.418C14.751,3.01,14.444,3,12,3L12,3z M12,7.378 c-2.552,0-4.622,2.069-4.622,4.622S9.448,16.622,12,16.622s4.622-2.069,4.622-4.622S14.552,7.378,12,7.378z M12,15 c-1.657,0-3-1.343-3-3s1.343-3,3-3s3,1.343,3,3S13.657,15,12,15z M16.804,6.116c-0.596,0-1.08,0.484-1.08,1.08 s0.484,1.08,1.08,1.08c0.596,0,1.08-0.484,1.08-1.08S17.401,6.116,16.804,6.116z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Instagram</span></a></li></ul>
+
+
+
+<p></p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-f8771cde"><div class="gb-container gb-container-f8771cde">
+
+<p class="gb-headline gb-headline-b4698792 gb-headline-text"><strong>Travaillez avec nous</strong></p>
+
+
+
+<p><a href="https://cotesaintluc.org/fr/ville/emplois/">Emplois</a></p>
+
+
+
+<p><a href="https://cotesaintluc.org/fr/gens-affaires/appels-doffres/">Appels d'offres</a></p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-89bd5a00"><div class="gb-container gb-container-89bd5a00">
+
+<p class="gb-headline gb-headline-09ed74ef gb-headline-text"><strong>Vos comptes</strong></p>
+
+
+
+<p><a href="https://cotesaintluc.appvoila.com/fr/">Compte de taxe</a> (Voilà)</p>
+
+
+
+<p><a href="https://app.amilia.com/store/fr/city-of-cote-saint-luc/shop/programs">Inscription loisirs</a> (Amilia)</p>
+
+
+
+<p><a href="https://mon.accescite.net/66058/fr-ca">Inscription loisirs</a> (Accès Cité)</p>
+
+
+
+<p><a href="https://emili.pet/">Licence pour chien</a> (Emili)</p>
+
+</div></div>
+</div>
+</div>
+</div>
+
+<div class="gb-container gb-container-c3de190c alignfull">
+<div class="gb-container gb-container-24b06fd8">
+<div class="gb-grid-wrapper gb-grid-wrapper-c71a1aa0">
+<div class="gb-grid-column gb-grid-column-3504388f"><div class="gb-container gb-container-3504388f">
+
+<p>2025 <strong>©</strong> Ville de Côte Saint-Luc </p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-7ff9b37c"><div class="gb-container gb-container-7ff9b37c">
+
+<p class="has-text-align-center"><a href="https://villecsl.sharepoint.com/">Intranet</a></p>
+
+</div></div>
+
+<div class="gb-grid-column gb-grid-column-7d38a070"><div class="gb-container gb-container-7d38a070">
+
+<p class="has-text-align-right"><a data-cc="c-settings" href="">Gérer mes témoins</a>
+ | <a href="https://cotesaintluc.org/fr/documents/politiques/renseignements-personnels/">Confidentialité</a> | <a href="https://cotesaintluc.org/fr/documents/politiques/accessibilite/">Accessibilité</a></p>
+
+</div></div>
+</div>
+</div>
+</div></div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/fr\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/generatepress_child\/*","\/wp-content\/themes\/generatepress\/*","\/fr\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="generate-a11y">
+!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("pointerdown",(function(){e.classList.add("using-mouse")}),{passive:!0}),e.addEventListener("keydown",(function(){e.classList.remove("using-mouse")}),{passive:!0})}}();
+</script>
+						<!-- Site Search 360 WP v2.1.7 -->
+						<script src="https://js.sitesearch360.com/plugin/bundle/50593.js?integration=wordpress&integrationMode=full" async></script>
+					                                <style id='core-block-supports-inline-css'>
+.wp-container-core-social-links-is-layout-779c298f{justify-content:flex-start;}
+</style>
+<script id="flat-preloader-js-js-extra">
+var flatPreloader = {"delayTime":"2500","showPreloaderInstantly":"","host":"cotesaintluc.org","ignores":["^https?:\\\/\\\/[^\\\/]+\\\/fr\\\/affaires\\-municipales\\\/membres\\-du\\-conseil\\\/(#.*)?$","^https\\:\\\/\\\/cotesaintluc\\.org\\\/wp\\-admin\\\/","^https\\:\\\/\\\/cotesaintluc\\.org[^?#]+\\.php","\\\/wp\\-content",".*\\?.+","^\\\/fr\\\/affaires\\-municipales\\\/membres\\-du\\-conseil\\\/(#.*)?$","^#.*","^mailto:.*","^tel:.*"],"display":"custom"};
+</script>
+<script src="https://cotesaintluc.org/wp-content/plugins/flat-preloader/assets/js/flat-preloader.js?ver=1.16.0" id="flat-preloader-js-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/flexy-breadcrumb/public/js/flexy-breadcrumb-public.js?ver=1.2.1" id="flexy-breadcrumb-js"></script>
+<script id="event-frontend-js-js-extra">
+var ajax_object = {"ajax_url":"https:\/\/cotesaintluc.org\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://cotesaintluc.org/wp-content/plugins/ova-events/assets/js/frontend/event.js?ver=6.8.2" id="event-frontend-js-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/ova-events/assets/libs/dist/js/select2.min.js?ver=6.8.2" id="select2-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/ova-events/assets/libs/calendar/main.min.js?ver=6.8.2" id="calendar-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/ova-events/assets/libs/popper.min.js?ver=6.8.2" id="popper-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/ova-events/assets/libs/tooltip.min.js?ver=6.8.2" id="tooltip-js"></script>
+<script id="tptn_tracker-js-extra">
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/cotesaintluc.org\/fr\/","top_ten_id":"42841","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"1470928086"};
+</script>
+<script src="https://cotesaintluc.org/wp-content/plugins/top-10/includes/js/top-10-tracker.min.js?ver=4.1.1" id="tptn_tracker-js"></script>
+<!--[if lte IE 11]>
+<script src="https://cotesaintluc.org/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.6.0" id="generate-classlist-js"></script>
+<![endif]-->
+<script id="generate-menu-js-before">
+var generatepressMenu = {"toggleOpenedSubMenus":true,"openSubMenuLabel":"Ouvrir le sous-menu","closeSubMenuLabel":"Fermer le sous-menu"};
+</script>
+<script src="https://cotesaintluc.org/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.6.0" id="generate-menu-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/modernizr/modernizr.touch.min.js?ver=3.6.0" id="citadela-modernizr-touch-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/photoswipe/photoswipe.min.js?ver=4.1.3" id="citadela-photoswipe-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/photoswipe/photoswipe-ui-default.min.js?ver=4.1.3" id="citadela-photoswipe-ui-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/raty/jquery.raty.js?ver=2.8.0" id="citadela-raty-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/citadela-directory/plugin/assets/citadela/citadela-utils.js?ver=1718115929" id="citadela-utils-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/citadela-directory/design/js/fancybox.js?ver=1718115931" id="citadela-directory-fancybox-js"></script>
+<script src="https://cotesaintluc.org/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=3.6.1" id="megamenu-js"></script>
+<script src="https://cotesaintluc.org/wp-content/plugins/generateblocks-pro/dist/accordion.js?ver=2.2.0" id="generateblocks-accordion-js"></script>
+<!-- TC Custom JavaScript --><script type="text/javascript">// Hide popup
+
+document.addEventListener('DOMContentLoaded', function() {
+            var closeButton = document.querySelector('.close-btn');
+            var popup = document.querySelector('.popup');
+
+            // Check if sessionStorage has the 'bannerHidden' key and if its value is 'true'
+            if (sessionStorage.getItem('bannerHidden') === 'true') {
+                popup.classList.add('hide-me');
+            }
+
+            closeButton.addEventListener('click', function(event) {
+                event.preventDefault(); // Prevent the default link click action
+                popup.classList.add('hide-me');
+                sessionStorage.setItem('popupHidden', 'true');
+            });
+        });</script>
+</body>
+</html>
+
+<!-- Cache served by breeze CACHE - Last modified: Sat, 09 Aug 2025 01:25:02 GMT -->

@@ -1,0 +1,671 @@
+services:
+  # ========================================
+  # INFRASTRUCTURE SERVICES
+  # ========================================
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: openpolicy123
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./backend/migrations/00-init-multi-db.sql:/docker-entrypoint-initdb.d/00-init-multi-db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - openpolicy-network
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # API GATEWAY (Go-based)
+  # ========================================
+  api-gateway:
+    build:
+      context: ./services/api-gateway
+      dockerfile: Dockerfile
+    ports:
+      - "9000:9000"
+    environment:
+      - AUTH_SERVICE_URL=http://auth-service:9001
+      - POLICY_SERVICE_URL=http://policy-service:9002
+      - SEARCH_SERVICE_URL=http://search-service:9003
+      - NOTIF_SERVICE_URL=http://notification-service:9004
+      - CONFIG_SERVICE_URL=http://config-service:9005
+      - MONITORING_SERVICE_URL=http://monitoring-service:9006
+      - ETL_SERVICE_URL=http://etl-service:9007
+      - SCRAPER_SERVICE_URL=http://scraper-service:9008
+      - MOBILE_API_URL=http://mobile-api:8009
+      - LEGACY_DJANGO_URL=http://legacy-django:8010
+      - COMMITTEES_SERVICE_URL=http://committees-service:9011
+      - DEBATES_SERVICE_URL=http://debates-service:9012
+      - VOTES_SERVICE_URL=http://votes-service:9013
+      - REPRESENTATIVES_SERVICE_URL=http://representatives-service:8014
+      - FILES_SERVICE_URL=http://files-service:8015
+      - DASHBOARD_SERVICE_URL=http://dashboard-service:8016
+      - DATA_MANAGEMENT_SERVICE_URL=http://data-management-service:8017
+      - ANALYTICS_SERVICE_URL=http://analytics-service:8018
+      - REPORTING_SERVICE_URL=http://reporting-service:8019
+      - WORKFLOW_SERVICE_URL=http://workflow-service:8020
+      - INTEGRATION_SERVICE_URL=http://integration-service:8021
+      - PLOTLY_SERVICE_URL=http://plotly-service:9019
+      - MCP_SERVICE_URL=http://mcp-service:9020
+    depends_on:
+      - auth-service
+      - policy-service
+      - search-service
+      - notification-service
+      - config-service
+      - monitoring-service
+      - etl-service
+      - scraper-service
+      - mobile-api
+      - legacy-django
+      - committees-service
+      - debates-service
+      - votes-service
+      - representatives-service
+      - files-service
+      - dashboard-service
+      - data-management-service
+      - analytics-service
+      - reporting-service
+      - workflow-service
+      - integration-service
+      - plotly-service
+      - mcp-service
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # CORE BUSINESS SERVICES
+  # ========================================
+  auth-service:
+    build:
+      context: ./services/auth-service
+      dockerfile: Dockerfile
+    ports:
+      - "9001:9001"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_auth
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  policy-service:
+    build:
+      context: ./services/policy-service
+      dockerfile: Dockerfile
+    ports:
+      - "9002:9002"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  search-service:
+    build:
+      context: ./services/search-service
+      dockerfile: Dockerfile
+    ports:
+      - "9003:9003"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  notification-service:
+    build:
+      context: ./services/notification-service
+      dockerfile: Dockerfile
+    ports:
+      - "9004:9004"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # SUPPORTING SERVICES
+  # ========================================
+  config-service:
+    build:
+      context: ./services/config-service
+      dockerfile: Dockerfile
+    ports:
+      - "9005:9005"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  monitoring-service:
+    build:
+      context: ./services/monitoring-service
+      dockerfile: Dockerfile
+    ports:
+      - "9006:9006"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  etl-service:
+    build:
+      context: ./services/etl-service
+      dockerfile: Dockerfile
+    ports:
+      - "9007:9007"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  scraper-service:
+    build:
+      context: ./services/scraper-service
+      dockerfile: Dockerfile
+    ports:
+      - "9008:9008"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # SPECIALIZED SERVICES
+  # ========================================
+  mobile-api:
+    build:
+      context: ./services/mobile-api
+      dockerfile: Dockerfile
+    ports:
+      - "8009:8009"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  legacy-django:
+    build:
+      context: ./services/legacy-django
+      dockerfile: Dockerfile
+    ports:
+      - "8010:8010"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  committees-service:
+    build:
+      context: ./services/committees-service
+      dockerfile: Dockerfile
+    ports:
+      - "9011:9011"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  debates-service:
+    build:
+      context: ./services/debates-service
+      dockerfile: Dockerfile
+    ports:
+      - "9012:9012"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  votes-service:
+    build:
+      context: ./services/votes-service
+      dockerfile: Dockerfile
+    ports:
+      - "9013:9013"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # NEW BUSINESS SERVICES
+  # ========================================
+  representatives-service:
+    build:
+      context: ./services/representatives-service
+      dockerfile: Dockerfile
+    ports:
+      - "8014:8014"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  files-service:
+    build:
+      context: ./services/files-service
+      dockerfile: Dockerfile
+    ports:
+      - "8015:8015"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    volumes:
+      - file_storage:/app/storage
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  dashboard-service:
+    build:
+      context: ./services/dashboard-service
+      dockerfile: Dockerfile
+    ports:
+      - "8016:8016"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  data-management-service:
+    build:
+      context: ./services/data-management-service
+      dockerfile: Dockerfile
+    ports:
+      - "8017:8017"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  analytics-service:
+    build:
+      context: ./services/analytics-service
+      dockerfile: Dockerfile
+    ports:
+      - "8018:8018"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  reporting-service:
+    build:
+      context: ./services/reporting-service
+      dockerfile: Dockerfile
+    ports:
+      - "8019:8019"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  workflow-service:
+    build:
+      context: ./services/workflow-service
+      dockerfile: Dockerfile
+    ports:
+      - "8020:8020"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  integration-service:
+    build:
+      context: ./services/integration-service
+      dockerfile: Dockerfile
+    ports:
+      - "8021:8021"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # SPECIALIZED UTILITY SERVICES
+  # ========================================
+  plotly-service:
+    build:
+      context: ./services/plotly-service
+      dockerfile: Dockerfile
+    ports:
+      - "9019:9019"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  mcp-service:
+    build:
+      context: ./services/mcp-service
+      dockerfile: Dockerfile
+    ports:
+      - "9020:9020"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-me
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # LEGACY BACKEND (Maintained for compatibility)
+  # ========================================
+  api:
+    build:
+      context: ./backend
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - APP_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - SCRAPERS_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+      - AUTH_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_auth
+      - SECRET_KEY=dev-secret-change-me
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_NAME=openpolicy_app
+      - DB_USER=openpolicy
+      - DB_PASSWORD=openpolicy123
+      - SCRAPER_REPORTS_DIR=/app/OpenPolicyAshBack
+      - SCRAPER_LOGS_DIR=/app/OpenPolicyAshBack/logs
+      - REDIS_URL=redis://redis:6379/0
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # FRONTEND
+  # ========================================
+  web:
+    working_dir: /app
+    build:
+      context: ./web
+    environment:
+      - VITE_API_URL=http://localhost:9000
+    command: ["npm", "run", "dev", "--", "--host"]
+    ports:
+      - "5173:5173"
+    depends_on:
+      - api-gateway
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # MONITORING & OBSERVABILITY
+  # ========================================
+  prometheus:
+    image: prom/prometheus:latest
+    volumes:
+      - ./backend/monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./backend/monitoring/alert.rules.yml:/etc/prometheus/alert.rules.yml:ro
+    ports:
+      - "9090:9090"
+    networks:
+      - openpolicy-network
+
+  grafana:
+    image: grafana/grafana:latest
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./backend/monitoring/grafana-provisioning/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./backend/monitoring/grafana-provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # BACKGROUND WORKERS
+  # ========================================
+  celery-worker:
+    build:
+      context: ./backend
+    command: ["celery", "-A", "api.celery_app.celery_app", "worker", "-l", "info"]
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - SCRAPERS_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+    depends_on:
+      - redis
+    networks:
+      - openpolicy-network
+
+  celery-beat:
+    build:
+      context: ./backend
+    command: ["celery", "-A", "api.celery_app.celery_app", "beat", "-l", "info"]
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - SCRAPERS_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+    depends_on:
+      - redis
+    networks:
+      - openpolicy-network
+
+  flower:
+    image: mher/flower:latest
+    environment:
+      - FLOWER_BROKER=redis://redis:6379/0
+      - CELERY_BROKER_URL=redis://redis:6379/0
+    ports:
+      - "5555:5555"
+    depends_on:
+      - redis
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # SCRAPER RUNNER
+  # ========================================
+  scraper-runner:
+    build:
+      context: ./backend
+    command: ["python", "OpenPolicyAshBack/background_scraper_execution.py"]
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_NAME=openpolicy_scrapers
+      - DB_USER=openpolicy
+      - DB_PASSWORD=openpolicy123
+      - SCRAPERS_DATA_DIR=/app/scrapers-data
+    volumes:
+      - ./scrapers:/scrapers:ro
+      - ./scrapers-data:/app/scrapers-data:rw
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - openpolicy-network
+
+# ========================================
+# VOLUMES
+# ========================================
+volumes:
+  pgdata:
+  grafana_data:
+  file_storage:
+
+# ========================================
+# NETWORKS
+# ========================================
+networks:
+  openpolicy-network:
+    driver: bridge

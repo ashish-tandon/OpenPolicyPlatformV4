@@ -1,0 +1,166 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+rule_files:
+  # - "first_rules.yml"
+  # - "second_rules.yml"
+
+scrape_configs:
+  # Prometheus itself
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  # Open Policy Platform Services
+  - job_name: 'api-gateway'
+    static_configs:
+      - targets: ['api-gateway:9000']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'config-service'
+    static_configs:
+      - targets: ['config-service:9001']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'auth-service'
+    static_configs:
+      - targets: ['auth-service:9002']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'policy-service'
+    static_configs:
+      - targets: ['policy-service:9003']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'notification-service'
+    static_configs:
+      - targets: ['notification-service:9004']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'analytics-service'
+    static_configs:
+      - targets: ['analytics-service:9005']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'monitoring-service'
+    static_configs:
+      - targets: ['monitoring-service:9006']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'etl-service'
+    static_configs:
+      - targets: ['etl-service:9007']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'scraper-service'
+    static_configs:
+      - targets: ['scraper-service:9008']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'search-service'
+    static_configs:
+      - targets: ['search-service:9009']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'dashboard-service'
+    static_configs:
+      - targets: ['dashboard-service:9010']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'files-service'
+    static_configs:
+      - targets: ['files-service:9011']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'reporting-service'
+    static_configs:
+      - targets: ['reporting-service:9012']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'workflow-service'
+    static_configs:
+      - targets: ['workflow-service:9013']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'integration-service'
+    static_configs:
+      - targets: ['integration-service:9014']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'data-management-service'
+    static_configs:
+      - targets: ['data-management-service:9015']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'representatives-service'
+    static_configs:
+      - targets: ['representatives-service:9016']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'plotly-service'
+    static_configs:
+      - targets: ['plotly-service:9017']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'mobile-api'
+    static_configs:
+      - targets: ['mobile-api:9018']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  - job_name: 'legacy-django'
+    static_configs:
+      - targets: ['legacy-django:9019']
+    metrics_path: '/metrics'
+    scrape_interval: 10s
+
+  # Infrastructure Services
+  - job_name: 'postgres'
+    static_configs:
+      - targets: ['postgres:5432']
+    metrics_path: '/metrics'
+    scrape_interval: 30s
+
+  - job_name: 'redis'
+    static_configs:
+      - targets: ['redis:6379']
+    metrics_path: '/metrics'
+    scrape_interval: 30s
+
+  # Logging Infrastructure
+  - job_name: 'elasticsearch'
+    static_configs:
+      - targets: ['elasticsearch:9200']
+    metrics_path: '/_prometheus/metrics'
+    scrape_interval: 30s
+
+  - job_name: 'logstash'
+    static_configs:
+      - targets: ['logstash:9600']
+    metrics_path: '/metrics'
+    scrape_interval: 30s
+
+  - job_name: 'fluentd'
+    static_configs:
+      - targets: ['fluentd:9880']
+    metrics_path: '/metrics'
+    scrape_interval: 30s

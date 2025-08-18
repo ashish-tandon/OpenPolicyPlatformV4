@@ -1,0 +1,22 @@
+status: 200
+encoding: ISO-8859-1
+x-amz-id-2: ZMdZod+LjKDBIBY2Vh7pQ1sxHT9SaiPdpUPMgwc3XQlUgjXpNFB4eTElyI26g8liP5MdhqNDzRwYAtx45Slo9g==
+x-amz-request-id: 9X4MJBA415XHWMNB
+Date: Sat, 09 Aug 2025 05:44:59 GMT
+Last-Modified: Mon, 30 Jan 2017 20:26:52 GMT
+ETag: "a7ad904dc8515a56324b97055ceede24"
+Accept-Ranges: bytes
+Content-Type: text/csv
+Content-Length: 1967
+Server: AmazonS3
+
+District name,Primary role,First name,Last name,Gender,Email,Phone,Cell,Fax,Photo URL,Source URL,Website,Address line 1,Address line 2,Locality,Postal code,Province
+Newmarket,Mayor,Tony,Van Bynen,M,mayor@newmarket.ca,905-953-5300 ext 2000,,,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON
+Newmarket,Deputy Mayor and Regional Councillor,John,Taylor,M,jtaylor@newmarket.ca,905-953-5300 ext 2011,,905-953-5133,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON
+Ward 1,Councillor,Tom,Vegh,M,tvegh@newmarket.ca,905-895-7095,,,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON
+Ward 2,Councillor,Dave,Kerwin,M,dkerwin@newmarket.ca,905-895-8969,,,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON
+Ward 3,Councillor,Jane,Twinney,F,jtwinney@newmarket.ca,,905-806-5258,,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON
+Ward 4,Councillor,Tom ,Hempen,M,thempen@newmarket.ca,,905-717-9378,,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON
+Ward 5,Councillor,Vacant,,,,,,,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON
+Ward 6,Councillor,Kelly,Broome-Plumley,F,kbroome-plumley@newmarket.ca,,,,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON
+Ward 7,Councillor,Christina,Bisanz,F,cbisanz@newmarket.ca,,905-717-9059,,,http://www.newmarket.ca/TownGovernment/Pages/Mayor-and-Council.aspx,,395 Mulock Drive,PO Box 328 STN Main,Newmarket,L3Y 4X7,ON

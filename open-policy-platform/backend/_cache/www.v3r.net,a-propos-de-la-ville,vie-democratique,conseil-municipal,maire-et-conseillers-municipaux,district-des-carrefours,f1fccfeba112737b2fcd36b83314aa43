@@ -1,0 +1,1220 @@
+status: 200
+encoding: UTF-8
+Date: Sat, 09 Aug 2025 05:45:05 GMT
+Server: Apache
+Vary: Accept-Encoding,Cookie
+Cache-Control: max-age=3, must-revalidate
+Content-Encoding: gzip
+Last-Modified: Sat, 09 Aug 2025 05:19:12 GMT
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+<!doctype html>
+<html lang="fr-CA" class="no-js" ng-app="V3R">
+<head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TF6K2X9');</script>
+    <!-- End Google Tag Manager -->
+
+    <meta charset="UTF-8">
+    <title>District des Carrefours | Site officiel de la Ville de Trois-Rivières</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="https://www.v3r.net/wp-content/themes/v3r/Favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32"
+          href="https://www.v3r.net/wp-content/themes/v3r/Favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16"
+          href="https://www.v3r.net/wp-content/themes/v3r/Favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://www.v3r.net/wp-content/themes/v3r/Favicon/site.webmanifest">
+    <link rel="mask-icon" href="/https://www.v3r.net/wp-content/themes/v3r/Favicon/safari-pinned-tab.svg"
+          color="#ea1c23">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Poppins:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://www.v3r.net/wp-content/themes/v3r/style.css?v=72">
+    
+    <base href="/"/>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhPu3cKrbG1DKv7rq8C7KRTPexk4HxZ9A"></script>
+    <!-- PROD AIzaSyBhPu3cKrbG1DKv7rq8C7KRTPexk4HxZ9A -->
+    <!-- INTERNE AIzaSyCRecPGXtxG9Ob0CoR760NMaGAqGzmFRFI -->
+
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '236520130200583');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=236520130200583&ev=PageView&noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v20.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>District des Carrefours | Site officiel de la Ville de Trois-Rivières</title>
+	<meta name="description" content="District des Carrefours" />
+	<link rel="canonical" href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours" />
+	<meta property="og:locale" content="fr_CA" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="District des Carrefours | Site officiel de la Ville de Trois-Rivières" />
+	<meta property="og:description" content="District des Carrefours" />
+	<meta property="og:url" content="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours" />
+	<meta property="og:site_name" content="Site officiel de la Ville de Trois-Rivières" />
+	<meta property="article:modified_time" content="2024-02-27T15:36:43+00:00" />
+	<meta property="og:image" content="https://www.v3r.net/wp-content/uploads/2021/12/RENE-MARTIN-scaled.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Estimation du temps de lecture" />
+	<meta name="twitter:data1" content="2 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours","url":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours","name":"District des Carrefours | Site officiel de la Ville de Trois-Rivières","isPartOf":{"@id":"https://www.v3r.net/#website"},"primaryImageOfPage":{"@id":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours#primaryimage"},"image":{"@id":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours#primaryimage"},"thumbnailUrl":"https://www.v3r.net/wp-content/uploads/2021/12/RENE-MARTIN-scaled.jpg","datePublished":"2021-04-20T13:29:04+00:00","dateModified":"2024-02-27T15:36:43+00:00","description":"District des Carrefours","breadcrumb":{"@id":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours#breadcrumb"},"inLanguage":"fr-CA","potentialAction":[{"@type":"ReadAction","target":["https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours"]}]},{"@type":"ImageObject","inLanguage":"fr-CA","@id":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours#primaryimage","url":"https://www.v3r.net/wp-content/uploads/2021/12/RENE-MARTIN-scaled.jpg","contentUrl":"https://www.v3r.net/wp-content/uploads/2021/12/RENE-MARTIN-scaled.jpg","width":1707,"height":2560},{"@type":"BreadcrumbList","@id":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.v3r.net/"},{"@type":"ListItem","position":2,"name":"À propos de la ville","item":"https://www.v3r.net/a-propos-de-la-ville"},{"@type":"ListItem","position":3,"name":"Vie démocratique","item":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique"},{"@type":"ListItem","position":4,"name":"Conseil municipal","item":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal"},{"@type":"ListItem","position":5,"name":"Membres du conseil","item":"https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux"},{"@type":"ListItem","position":6,"name":"District des Carrefours"}]},{"@type":"WebSite","@id":"https://www.v3r.net/#website","url":"https://www.v3r.net/","name":"Site officiel de la Ville de Trois-Rivières","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.v3r.net/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-CA"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.v3r.net\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.v3r.net/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blue: #0076D5;--wp--preset--color--light-blue: #78C6E0;--wp--preset--color--dark-blue: #0B2341;--wp--preset--color--green: #68B545;--wp--preset--color--light-green: #C5D800;--wp--preset--color--dark-green: #1E492D;--wp--preset--color--yellow: #F3E700;--wp--preset--color--red: #E5004D;--wp--preset--color--pink: #F99FD7;--wp--preset--color--orange: #ED8C00;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<script type="text/javascript" src="https://www.v3r.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.v3r.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var _ckyConfig = {"_ipData":[],"_assetsURL":"https:\/\/www.v3r.net\/wp-content\/plugins\/cookie-law-info\/lite\/frontend\/images\/","_publicURL":"https:\/\/www.v3r.net","_expiry":"365","_categories":[{"name":"N\u00e9cessaire","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[{"cookieID":"JSESSIONID","domain":"biblio-catalogue.v3r.net","provider":"newrelic.com"},{"cookieID":"cookieyes-consent","domain":"v3r.net","provider":""},{"cookieID":"Itsec-Hb-Login-*","domain":"v3r.net","provider":""},{"cookieID":"wordpress_logged_in_*","domain":"v3r.net","provider":""},{"cookieID":"wordpress_sec_*","domain":"v3r.net","provider":""},{"cookieID":"wp-settings-*","domain":"v3r.net","provider":""}],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true}},{"name":"Fonctionnelle","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"twk_idm_key","domain":"v3r.net","provider":"tawk.to"},{"cookieID":"TawkConnectionTime","domain":"v3r.net","provider":"tawk.to"}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Analytique","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"_ga","domain":"v3r.net","provider":"google-analytics.com|googletagmanager.com\/gtag\/js"},{"cookieID":"_gid","domain":"v3r.net","provider":"google-analytics.com|googletagmanager.com\/gtag\/js"},{"cookieID":"_gat_UA-*","domain":"v3r.net","provider":"google-analytics.com|googletagmanager.com\/gtag\/js"},{"cookieID":"_fbp","domain":"v3r.net","provider":"facebook.net"},{"cookieID":"_ga_*","domain":"v3r.net","provider":"google-analytics.com|googletagmanager.com\/gtag\/js"},{"cookieID":"CONSENT","domain":".youtube.com","provider":"youtube.com"},{"cookieID":"_gat_gtag_UA_*","domain":"organismesv3r.net","provider":"google-analytics.com|googletagmanager.com\/gtag\/js"}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Performance","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Publicit\u00e9","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"YSC","domain":"youtube.com","provider":"youtube.com"},{"cookieID":"VISITOR_INFO1_LIVE","domain":"youtube.com","provider":"youtube.com"},{"cookieID":"test_cookie","domain":"doubleclick.net","provider":"doubleclick.net"},{"cookieID":"yt-remote-device-id","domain":"youtube.com","provider":"youtube.com"},{"cookieID":"yt-remote-connected-devices","domain":"youtube.com","provider":"youtube.com"},{"cookieID":"yt.innertube::requests","domain":"youtube.com","provider":"youtube.com"},{"cookieID":"yt.innertube::nextId","domain":"youtube.com","provider":"youtube.com"},{"cookieID":"IDE","domain":"doubleclick.net","provider":"doubleclick.net"}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"settings":{"type":"box","position":"bottom-right","applicableLaw":"gdpr"},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":true,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":{"background-color":"#0056a7"},"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":true,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#1863dc","background-color":"transparent","border-color":"transparent"}},"auditTable":{"status":true},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863dc"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}}}}},"_version":"3.1.4","_logConsent":"1","_tags":[{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#1863dc","border-color":"#1863dc"}},{"tag":"reject-button","styles":{"color":"#1863dc","background-color":"transparent","border-color":"#1863dc"}},{"tag":"settings-button","styles":{"color":"#1863dc","background-color":"transparent","border-color":"#1863dc"}},{"tag":"readmore-button","styles":{"color":"#1863dc","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863dc","background-color":"transparent","border-color":"transparent"}},{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#1863dc","border-color":"#1863dc"}},{"tag":"revisit-consent","styles":{"background-color":"#0056a7"}}],"_shortCodes":[{"key":"cky_readmore","content":"<a href=\"https:\/\/www.v3r.net\/politique-de-confidentialite\" class=\"cky-policy\" aria-label=\"Politique de confidentialit\u00e9\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\">Politique de confidentialit\u00e9<\/a>","tag":"readmore-button","status":true,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"cky_show_desc","content":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Afficher plus\">Afficher plus<\/button>","tag":"show-desc-button","status":true,"attributes":[]},{"key":"cky_hide_desc","content":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Afficher moins\">Afficher moins<\/button>","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"cky_category_toggle_label","content":"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"cky_enable_category_label","content":"Activer","tag":"","status":true,"attributes":[]},{"key":"cky_disable_category_label","content":"D\u00e9sactiver","tag":"","status":true,"attributes":[]},{"key":"cky_video_placeholder","content":"<div class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"><p class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\">Veuillez accepter le consentement des cookies<\/p><\/div>","tag":"","status":true,"attributes":[]},{"key":"cky_enable_optout_label","content":"Activer","tag":"","status":true,"attributes":[]},{"key":"cky_disable_optout_label","content":"D\u00e9sactiver","tag":"","status":true,"attributes":[]},{"key":"cky_optout_toggle_label","content":"[cky_{{status}}_optout_label] [cky_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"cky_optout_option_title","content":"Ne pas vendre ou partager mes informations personnelles","tag":"","status":true,"attributes":[]},{"key":"cky_optout_close_label","content":"Fermer","tag":"","status":true,"attributes":[]}],"_rtl":"","_providersToBlock":[{"re":"tawk.to","categories":["functional"]},{"re":"google-analytics.com|googletagmanager.com\/gtag\/js","categories":["analytics"]},{"re":"facebook.net","categories":["analytics"]},{"re":"youtube.com","categories":["analytics","advertisement"]},{"re":"doubleclick.net","categories":["advertisement"]}]};
+var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 440px; box-sizing: border-box; z-index: 9999999; border-radius: 6px;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 20px 26px; box-shadow: 0 -1px 10px 0 #acabab4d; border-radius: 6px;}.cky-box-bottom-left{bottom: 40px; left: 40px;}.cky-box-bottom-right{bottom: 40px; right: 40px;}.cky-box-top-left{top: 40px; left: 40px;}.cky-box-top-right{top: 40px; right: 40px;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 16px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{flex: auto; max-width: 100%; font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@media (max-width: 576px){.cky-box-bottom-left{bottom: 0; left: 0;}.cky-box-bottom-right{bottom: 0; right: 0;}.cky-box-top-left{top: 0; left: 0;}.cky-box-top-right{top: 0; right: 0;}}@media (max-width: 440px){.cky-box-bottom-left, .cky-box-bottom-right, .cky-box-top-left, .cky-box-top-right{width: 100%; max-width: 100%;}.cky-consent-container .cky-consent-bar{padding: 20px 0;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper{flex-direction: column; margin-top: 0;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-group{font-size: 14px; line-height: 24px; font-weight: 400; color: #212121;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; white-space: nowrap; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 440px){.cky-consent-container{width: 100%;}}@media (max-width: 352px){.cky-notice-des a.cky-policy, .cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"\/wp-content\/plugins\/cookie-law-info\/lite\/frontend\/images\/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.v3r.net/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?ver=3.1.4" id="cookie-law-info-js"></script>
+<link rel="https://api.w.org/" href="https://www.v3r.net/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.v3r.net/wp-json/wp/v2/pages/3907" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.v3r.net/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://www.v3r.net/?p=3907' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.v3r.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.v3r.net%2Fa-propos-de-la-ville%2Fvie-democratique%2Fconseil-municipal%2Fmaire-et-conseillers-municipaux%2Fdistrict-des-carrefours" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.v3r.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.v3r.net%2Fa-propos-de-la-ville%2Fvie-democratique%2Fconseil-municipal%2Fmaire-et-conseillers-municipaux%2Fdistrict-des-carrefours&#038;format=xml" />
+<style id="cky-style-inline">[data-cky-tag]{visibility:hidden;}</style><link rel="icon" href="https://www.v3r.net/wp-content/uploads/2023/06/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://www.v3r.net/wp-content/uploads/2023/06/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.v3r.net/wp-content/uploads/2023/06/favicon.png" />
+<meta name="msapplication-TileImage" content="https://www.v3r.net/wp-content/uploads/2023/06/favicon.png" />
+		<style type="text/css" id="wp-custom-css">
+			
+/* Page bacs bruns */
+
+.btn1_bac{
+        width: 230px;
+        height: 230px;
+        background: url("/wp-content/uploads/2022/09/btn_bac_brun.jpg") no-repeat;
+        display: inline-block;
+    }
+    .btn1_bac:hover{
+        background: url("/wp-content/uploads/2022/09/btn_bac_brun_hover.jpg") no-repeat;
+    }
+    .btn2_collecte{
+        width: 230px;
+        height: 230px;
+        background: url("/wp-content/uploads/2022/09/btn_collecte.jpg") no-repeat;
+        display: inline-block;
+    }
+    .btn2_collecte:hover{
+        background: url("/wp-content/uploads/2022/09/btn_collecte_hover.jpg") no-repeat;
+    }
+
+    .btn3_matieres{
+        width: 230px;
+        height: 230px;
+        background: url("/wp-content/uploads/2022/09/btn_matieres.jpg") no-repeat;
+        display: inline-block;
+    }
+    .btn3_matieres:hover{
+        background: url("/wp-content/uploads/2022/09/btn_matieres_hover.jpg") no-repeat;
+    }
+
+    .btn4_traitement{
+        width: 230px;
+        height: 230px;
+        background: url("/wp-content/uploads/2022/09/btn_traitement.jpg") no-repeat;
+        display: inline-block;
+    }
+    .btn4_traitement:hover{
+        background: url("/wp-content/uploads/2022/09/btn_traitement_hover.jpg") no-repeat;
+    }		</style>
+		</head>
+
+<body id="body" class="contrast" ng-cloak>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TF6K2X9"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="skiplink-container">
+    <div>
+        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours#main-content" class="skiplink v3r-link contrast" tabindex="1">Passer
+            directement au contenu</a>
+    </div>
+</div>
+<div class="wrapper">
+    <header>
+        <div class="sticky-container">
+            <!-- Informations alert -->
+            
+                                            <a class="info-alert" style="background-color: #e5004d; color: #ffffff;" href="https://www.v3r.net/a-propos-de-la-ville/communications/a-la-une/invitation-a-frequenter-des-lieux-rafraichissants" target="_blank">
+                    Chaleur extrême - Mesures spéciales dans les piscines et les bibliothèques                 </a>
+                                    
+
+            <!-- Main alert -->
+            
+                        
+
+            <!-- Contrast alert -->
+            <div class="contrast-alert contrast">
+            <div class="text">
+               Le mode contraste élevé a été activé. <!-- <span>En savoir plus</span>-->
+            </div>
+        </div>
+                <!-- Navbar -->
+        <div class="navbar contrast">
+            <div class="navbar-brand" id="navbar-brand">
+                <a href="https://www.v3r.net" class="logo">
+                    <img alt="Ville de Trois-Rivières" class="" src="https://www.v3r.net/wp-content/themes/v3r/Images/icons/logo-v3r-v2.svg"/>
+                </a>
+            </div>
+
+                            <div class="navbar-top">
+                                            <a href="/a-propos-de-la-ville/communications/a-la-une" tabindex="7"
+                           target="_self" class="navbar-top-item">À la une</a>
+                                            <a href="https://www.v3r.net/carte-interactive" tabindex="7"
+                           target="_self" class="navbar-top-item">Carte interactive</a>
+                                            <a href="/emplois" tabindex="7"
+                           target="_self" class="navbar-top-item">Emplois</a>
+                                            <a href="/a-propos-de-la-ville/communications/infolettre" tabindex="7"
+                           target="_self" class="navbar-top-item">Infolettre</a>
+                                            <a href="https://www.v3r.net/nous-joindre" tabindex="7"
+                           target="_self" class="navbar-top-item">Nous joindre</a>
+                                            <a href="https://www.v3r.net/services-en-ligne" tabindex="7"
+                           target="_self" class="navbar-top-item">Services en ligne</a>
+                                        <a id="menu" class="navbar-top-item icon menu" tabindex="2"><span>Menu</span></a>
+                    <a id="search" class="navbar-top-item icon search" tabindex="8"></a>
+
+                    <a class="navbar-top-item icon contrast" tabindex="8"></a>
+                </div>
+            
+            <div class="navbar-bottom">
+                <a onclick="selectMenu(0, 1)" id="menu-btn-header-0" tabindex="2" class="navbar-bottom-item main-menu">Services
+                    à la population</a>
+                <div class="navbar-bottom-item-separator"></div>
+                <a onclick="selectMenu(1, 1)" id="menu-btn-header-1" tabindex="2" class="navbar-bottom-item main-menu">Activités
+                    et loisirs</a>
+                <div class="navbar-bottom-item-separator"></div>
+                <a onclick="selectMenu(2, 1)" id="menu-btn-header-2" tabindex="2" class="navbar-bottom-item main-menu">Culture</a>
+                <div class="navbar-bottom-item-separator"></div>
+                <a onclick="selectMenu(3, 1)" id="menu-btn-header-3" tabindex="2" class="navbar-bottom-item main-menu">Affaires</a>
+                <div class="navbar-bottom-item-separator"></div>
+                <a onclick="selectMenu(4, 1)" id="menu-btn-header-4" tabindex="2" class="navbar-bottom-item main-menu">À
+                    propos de la Ville</a>
+            </div>
+
+        </div>
+</div>
+
+<div class="menu-panel" id="menu-panel">
+    <div class="wrapper-wrapper contrast">
+        <div class="wrapper ">
+            <div class="menu-top-section">
+                                    <a href="/a-propos-de-la-ville/communications/a-la-une"
+                       target="_self" class="top-content">À la une</a>
+                                    <a href="https://www.v3r.net/carte-interactive"
+                       target="_self" class="top-content">Carte interactive</a>
+                                    <a href="/emplois"
+                       target="_self" class="top-content">Emplois</a>
+                                    <a href="/a-propos-de-la-ville/communications/infolettre"
+                       target="_self" class="top-content">Infolettre</a>
+                                    <a href="https://www.v3r.net/nous-joindre"
+                       target="_self" class="top-content">Nous joindre</a>
+                                    <a href="https://www.v3r.net/services-en-ligne"
+                       target="_self" class="top-content">Services en ligne</a>
+                            </div>
+
+            <div class="menu-top-section second">
+                <a onclick="selectMenu(0, 2)" id="menu-btn-0" tabindex="3" class="top-content main main-menu">
+                    <div class="top-menu-content">
+                        Services à la population
+                    </div>
+                </a>
+                <a onclick="selectMenu(1, 2)" id="menu-btn-1" tabindex="3" class="top-content main  main-menu">
+                    <div class="top-menu-content">
+                        Activités et loisirs
+                    </div>
+                </a>
+                <a onclick="selectMenu(2, 2)" id="menu-btn-2" tabindex="3" class="top-content main  main-menu">
+                    <div class="top-menu-content">
+                        Culture
+                    </div>
+                </a>
+                <a onclick="selectMenu(3, 2)" id="menu-btn-3" tabindex="3" class="top-content main main-menu ">
+                    <div class="top-menu-content">
+                        Affaires
+                    </div>
+                </a>
+                <a onclick="selectMenu(4, 2)" id="menu-btn-4" tabindex="3" class="top-content main  main-menu">
+                    <div class="top-menu-content">
+                        À propos de la Ville
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="menu-section-container" id="menu-section-0">
+                <div class="menu-left-section">
+                    <h2>Liens rapides</h2>
+                    <div class="side-menu-container">
+                                                    <a href="https://www.v3r.net/services-a-la-population/taxes-et-evaluation/evaluation-fonciere" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Consultation du rôle d'évaluation                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/cour-municipale" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Cour municipale                            </a>
+                                                    <a href="/nous-joindre/plaintes-et-requetes" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Plaintes, requêtes et informations                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/securite-du-public/police" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Police                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/securite-du-public/securite-incendie" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Sécurité incendie                            </a>
+                                                    <a href="https://www.v3r.net/tout-sur-ma-propriete" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Tout sur ma propriété                            </a>
+                                            </div>
+                </div>
+
+                <div class="menu-right-section">
+                    <h2 class="section-name " onclick="selectMenu(0, 3)" id="menu-btn-mobile-0" tabindex="3">
+                        Services à la population
+                    </h2>
+                    <div class="block-menu-container">
+                                                    <a href="https://www.v3r.net/services-a-la-population/collectes" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Collectes et matières résiduelles</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/eau" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Eau</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/environnement" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Environnement</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/habitation" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Habitation</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/ligne-d-information-municipale-311" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Ligne d’information municipale 311</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/permis" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Permis</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/reglements-municipaux" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Règlements municipaux</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/reseau-routier-et-transport" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Réseau routier et transport</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/securite-du-public" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Sécurité du public</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/subventions-a-la-population" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Subventions à la population</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/taxes-et-evaluation" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Taxes et évaluation</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/vie-communautaire" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Vie communautaire</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                            </div>
+                </div>
+                <div onclick="selectMenu(0, 1)" class="close-main-menu" tabindex="6">
+                    <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="17px"
+                         viewBox="0 0 14 17" enable-background="new 0 0 14 17" xml:space="preserve">
+                        <g>
+                            <path fill="#FFFFFF" d="M1.805,16.23c-0.117,0.172-0.248,0.295-0.393,0.369s-0.291,0.111-0.439,0.111
+                            c-0.125,0-0.246-0.023-0.363-0.07s-0.221-0.111-0.311-0.193S0.137,16.27,0.082,16.16S0,15.938,0,15.82
+                            c0-0.18,0.063-0.355,0.188-0.527l5.215-7.184L0.539,1.441C0.43,1.301,0.375,1.145,0.375,0.973c0-0.133,0.033-0.258,0.1-0.375
+                            s0.152-0.221,0.258-0.311s0.227-0.16,0.363-0.211S1.371,0,1.512,0c0.164,0,0.322,0.037,0.475,0.111S2.273,0.309,2.391,0.48
+                            l4.406,6.34l4.559-6.34c0.125-0.172,0.26-0.295,0.404-0.369S12.055,0,12.211,0c0.125,0,0.244,0.023,0.357,0.07
+                            s0.213,0.107,0.299,0.182s0.154,0.164,0.205,0.27s0.076,0.217,0.076,0.334c0,0.086-0.014,0.17-0.041,0.252
+                            s-0.072,0.166-0.135,0.252l-5.027,6.75l5.156,7.125c0.109,0.156,0.164,0.316,0.164,0.48c0,0.133-0.033,0.26-0.1,0.381
+                            s-0.152,0.227-0.258,0.316s-0.225,0.162-0.357,0.217s-0.27,0.082-0.41,0.082c-0.328,0-0.605-0.156-0.832-0.469L6.563,9.469
+                            L1.805,16.23z"></path>
+                        </g>
+                    </svg>
+
+                </div>
+            </div>
+            <div class="menu-section-container" id="menu-section-1">
+                <div class="menu-left-section">
+                    <h2>Liens rapides</h2>
+                    <div class="side-menu-container">
+                                                    <a href="https://www.v3r.net/wp-content/uploads/2025/03/Carte_25-625x17_Plein-Air-Urbain_2025_VF.pdf" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Carte plein air                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/installations-sportives-et-recreatives/piscines-et-jeux-d-eau/piscines-exterieures" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Piscines extérieures                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/installations-sportives-et-recreatives/velo/boucles-velo" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Boucles vélo                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/installations-sportives-et-recreatives/velo/reseau-cyclable" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Réseau cyclable                            </a>
+                                                    <a href="https://biblio-catalogue.v3r.net/account" tabindex="4"
+                               target="_blank" class="side-menu-content main ">
+                                Catalogue des bibliothèques (Mon dossier)                            </a>
+                                                    <a href="https://www.tourismetroisrivieres.com/fr" tabindex="4"
+                               target="_blank" class="side-menu-content main ">
+                                Tourisme Trois-Rivières                            </a>
+                                            </div>
+                </div>
+
+                <div class="menu-right-section">
+                    <h2 class="section-name " onclick="selectMenu(1, 3)" id="menu-btn-mobile-1" tabindex="3">
+                        Activités et loisirs
+                    </h2>
+                    <div class="block-menu-container">
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/bibliotheques" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Bibliothèques</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/calendrier-des-activites" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Calendrier des activités</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/camp-de-jour" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Camp de jour</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/centre-ville" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Centre-ville</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/organiser-un-evenement" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Événements</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/installations-sportives-et-recreatives" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Installations sportives et récréatives</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/jeux-du-quebec-2025" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Jeux du Québec 2025</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/location-de-salles-et-de-gymnases" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Location de salles et de gymnases</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/vie-communautaire/organismes-communautaires" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Organismes</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/parcs-canins" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Parcs canins</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/activites-et-loisirs/parcs" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Parcs et espaces verts</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                            </div>
+                </div>
+                <div onclick="selectMenu(1, 1)" class="close-main-menu" tabindex="6">
+                    <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="17px"
+                         viewBox="0 0 14 17" enable-background="new 0 0 14 17" xml:space="preserve">
+                        <g>
+                            <path fill="#FFFFFF" d="M1.805,16.23c-0.117,0.172-0.248,0.295-0.393,0.369s-0.291,0.111-0.439,0.111
+                            c-0.125,0-0.246-0.023-0.363-0.07s-0.221-0.111-0.311-0.193S0.137,16.27,0.082,16.16S0,15.938,0,15.82
+                            c0-0.18,0.063-0.355,0.188-0.527l5.215-7.184L0.539,1.441C0.43,1.301,0.375,1.145,0.375,0.973c0-0.133,0.033-0.258,0.1-0.375
+                            s0.152-0.221,0.258-0.311s0.227-0.16,0.363-0.211S1.371,0,1.512,0c0.164,0,0.322,0.037,0.475,0.111S2.273,0.309,2.391,0.48
+                            l4.406,6.34l4.559-6.34c0.125-0.172,0.26-0.295,0.404-0.369S12.055,0,12.211,0c0.125,0,0.244,0.023,0.357,0.07
+                            s0.213,0.107,0.299,0.182s0.154,0.164,0.205,0.27s0.076,0.217,0.076,0.334c0,0.086-0.014,0.17-0.041,0.252
+                            s-0.072,0.166-0.135,0.252l-5.027,6.75l5.156,7.125c0.109,0.156,0.164,0.316,0.164,0.48c0,0.133-0.033,0.26-0.1,0.381
+                            s-0.152,0.227-0.258,0.316s-0.225,0.162-0.357,0.217s-0.27,0.082-0.41,0.082c-0.328,0-0.605-0.156-0.832-0.469L6.563,9.469
+                            L1.805,16.23z"></path>
+                        </g>
+                    </svg>
+
+                </div>
+            </div>
+            <div class="menu-section-container" id="menu-section-2">
+                <div class="menu-left-section">
+                    <h2>Liens rapides</h2>
+                    <div class="side-menu-container">
+                                                    <a href="https://www.amphitheatrecogeco.com/" tabindex="4"
+                               target="_blank" class="side-menu-content main ">
+                                Amphithéâtre Cogeco                            </a>
+                                                    <a href="/activites-et-loisirs/bibliotheques" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Bibliothèques                            </a>
+                                                    <a href="http://www.borealis3r.ca/" tabindex="4"
+                               target="_blank" class="side-menu-content main ">
+                                Boréalis                            </a>
+                                                    <a href="https://www.v3r.net/culture/culture-trois-rivieres" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Culture Trois-Rivières                            </a>
+                                                    <a href="https://www.v3r.net/culture/corporation-des-evenements-de-trois-rivieres" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Corporation des événements de Trois-Rivières                            </a>
+                                                    <a href="/activites-et-loisirs/repertoire-des-organismes#culturel" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Organismes culturels reconnus                            </a>
+                                            </div>
+                </div>
+
+                <div class="menu-right-section">
+                    <h2 class="section-name " onclick="selectMenu(2, 3)" id="menu-btn-mobile-2" tabindex="3">
+                        Culture
+                    </h2>
+                    <div class="block-menu-container">
+                                                    <a href="https://www.v3r.net/culture/artistes" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Artistes</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/culture/arts-visuels" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Arts visuels</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/culture/developpement-culturel" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Développement culturel</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/culture/histoire-et-patrimoine" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Histoire et patrimoine</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                            </div>
+                </div>
+                <div onclick="selectMenu(2, 1)" class="close-main-menu" tabindex="6">
+                    <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="17px"
+                         viewBox="0 0 14 17" enable-background="new 0 0 14 17" xml:space="preserve">
+                        <g>
+                            <path fill="#FFFFFF" d="M1.805,16.23c-0.117,0.172-0.248,0.295-0.393,0.369s-0.291,0.111-0.439,0.111
+                            c-0.125,0-0.246-0.023-0.363-0.07s-0.221-0.111-0.311-0.193S0.137,16.27,0.082,16.16S0,15.938,0,15.82
+                            c0-0.18,0.063-0.355,0.188-0.527l5.215-7.184L0.539,1.441C0.43,1.301,0.375,1.145,0.375,0.973c0-0.133,0.033-0.258,0.1-0.375
+                            s0.152-0.221,0.258-0.311s0.227-0.16,0.363-0.211S1.371,0,1.512,0c0.164,0,0.322,0.037,0.475,0.111S2.273,0.309,2.391,0.48
+                            l4.406,6.34l4.559-6.34c0.125-0.172,0.26-0.295,0.404-0.369S12.055,0,12.211,0c0.125,0,0.244,0.023,0.357,0.07
+                            s0.213,0.107,0.299,0.182s0.154,0.164,0.205,0.27s0.076,0.217,0.076,0.334c0,0.086-0.014,0.17-0.041,0.252
+                            s-0.072,0.166-0.135,0.252l-5.027,6.75l5.156,7.125c0.109,0.156,0.164,0.316,0.164,0.48c0,0.133-0.033,0.26-0.1,0.381
+                            s-0.152,0.227-0.258,0.316s-0.225,0.162-0.357,0.217s-0.27,0.082-0.41,0.082c-0.328,0-0.605-0.156-0.832-0.469L6.563,9.469
+                            L1.805,16.23z"></path>
+                        </g>
+                    </svg>
+
+                </div>
+            </div>
+            <div class="menu-section-container" id="menu-section-3">
+                <div class="menu-left-section">
+                    <h2>Liens rapides</h2>
+                    <div class="side-menu-container">
+                                                    <a href="https://www.v3r.net/services-a-la-population/securite-du-public/police/programmes-de-prevention" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Commerces en alerte                            </a>
+                                                    <a href="https://halotroisrivieres.ca/" tabindex="4"
+                               target="_blank" class="side-menu-content main ">
+                                Halo Trois-Rivières, district entrepreneurial innovant                            </a>
+                                                    <a href="https://www.idetr.com/fr" tabindex="4"
+                               target="_blank" class="side-menu-content main ">
+                                IDE Trois-Rivières                            </a>
+                                                    <a href="https://www.v3r.net/services-a-la-population/reglements-municipaux" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Règlements municipaux                            </a>
+                                                    <a href="http://trcentre.ca/" tabindex="4"
+                               target="_blank" class="side-menu-content main ">
+                                Trois-Rivières Centre                            </a>
+                                            </div>
+                </div>
+
+                <div class="menu-right-section">
+                    <h2 class="section-name " onclick="selectMenu(3, 3)" id="menu-btn-mobile-3" tabindex="3">
+                        Affaires
+                    </h2>
+                    <div class="block-menu-container">
+                                                    <a href="https://www.v3r.net/affaires/acheter-un-terrain-de-la-ville" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Acheter un terrain de la Ville</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/aeroport-de-trois-rivieres" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Aéroport de Trois-Rivières</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/certification-en-developpement-durable" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Certification en développement durable</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/developpement-du-parc-technologique-40-55" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Développement du parc technologique 40-55</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/faire-affaire-avec-la-ville" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Faire affaire avec la Ville</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/liste-des-contrats" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Liste des contrats</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/permis-commerciaux" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Permis commerciaux</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/portrait-socio-economique" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Portrait socio-économique</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/ressources-d-affaires" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Ressources d’affaires</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/affaires/subventions-aux-entreprises" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Subventions aux entreprises</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                            </div>
+                </div>
+                <div onclick="selectMenu(3, 1)" class="close-main-menu" tabindex="6">
+                    <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="17px"
+                         viewBox="0 0 14 17" enable-background="new 0 0 14 17" xml:space="preserve">
+                        <g>
+                            <path fill="#FFFFFF" d="M1.805,16.23c-0.117,0.172-0.248,0.295-0.393,0.369s-0.291,0.111-0.439,0.111
+                            c-0.125,0-0.246-0.023-0.363-0.07s-0.221-0.111-0.311-0.193S0.137,16.27,0.082,16.16S0,15.938,0,15.82
+                            c0-0.18,0.063-0.355,0.188-0.527l5.215-7.184L0.539,1.441C0.43,1.301,0.375,1.145,0.375,0.973c0-0.133,0.033-0.258,0.1-0.375
+                            s0.152-0.221,0.258-0.311s0.227-0.16,0.363-0.211S1.371,0,1.512,0c0.164,0,0.322,0.037,0.475,0.111S2.273,0.309,2.391,0.48
+                            l4.406,6.34l4.559-6.34c0.125-0.172,0.26-0.295,0.404-0.369S12.055,0,12.211,0c0.125,0,0.244,0.023,0.357,0.07
+                            s0.213,0.107,0.299,0.182s0.154,0.164,0.205,0.27s0.076,0.217,0.076,0.334c0,0.086-0.014,0.17-0.041,0.252
+                            s-0.072,0.166-0.135,0.252l-5.027,6.75l5.156,7.125c0.109,0.156,0.164,0.316,0.164,0.48c0,0.133-0.033,0.26-0.1,0.381
+                            s-0.152,0.227-0.258,0.316s-0.225,0.162-0.357,0.217s-0.27,0.082-0.41,0.082c-0.328,0-0.605-0.156-0.832-0.469L6.563,9.469
+                            L1.805,16.23z"></path>
+                        </g>
+                    </svg>
+
+                </div>
+            </div>
+            <div class="menu-section-container" id="menu-section-4">
+                <div class="menu-left-section">
+                    <h2>Liens rapides</h2>
+                    <div class="side-menu-container">
+                                                    <a href="/a-propos-de-la-ville/vie-democratique/conseil-municipal" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Conseil municipal                            </a>
+                                                    <a href="/a-propos-de-la-ville/planification/developpement-durable" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Développement durable                            </a>
+                                                    <a href="https://www.v3r.net/nous-joindre/divulgation-dactes-reprehensibles/" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Divulgation d'actes répréhensibles                            </a>
+                                                    <a href="/culture/histoire-et-patrimoine" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Histoire et patrimoine                            </a>
+                                                    <a href="/a-propos-de-la-ville/vie-democratique/conseil-municipal/webdiffusion-des-seances" tabindex="4"
+                               target="_self" class="side-menu-content main ">
+                                Webdiffusion des séances                            </a>
+                        
+                    </div>
+                </div>
+
+                <div class="menu-right-section">
+                    <h2 class="section-name" onclick="selectMenu(4, 3)" id="menu-btn-mobile-4" tabindex="3">
+                    À propos de la Ville
+                    </h2>
+                    <div class="block-menu-container">
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/administration-municipale" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Administration municipale</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/avis-publics" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Avis publics</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/budget-et-rapports-financiers" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Budget et rapports financiers</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/communications" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Communications</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="/emplois" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Emplois</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/planification" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Planification</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/politiques-et-plans-d-action" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Politiques et plans d’action</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/portrait-de-la-ville" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Portrait de la Ville</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/prix-et-distinctions" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Prix et distinctions</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/rapport-annuel" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Rapport annuel</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/verificateur-general" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Vérificateur général</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique" tabindex="3"
+                               target="_self" class="block-menu">
+                                <span class="title">Vie démocratique</span>
+                                <span class="coner-plus">+</span>
+                            </a>
+                        
+
+                    </div>
+                </div>
+                <div onclick="selectMenu(4, 1)" class="close-main-menu" tabindex="6">
+                    <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="14px" height="17px"
+                         viewBox="0 0 14 17" enable-background="new 0 0 14 17" xml:space="preserve">
+                        <g>
+                            <path fill="#FFFFFF" d="M1.805,16.23c-0.117,0.172-0.248,0.295-0.393,0.369s-0.291,0.111-0.439,0.111
+                            c-0.125,0-0.246-0.023-0.363-0.07s-0.221-0.111-0.311-0.193S0.137,16.27,0.082,16.16S0,15.938,0,15.82
+                            c0-0.18,0.063-0.355,0.188-0.527l5.215-7.184L0.539,1.441C0.43,1.301,0.375,1.145,0.375,0.973c0-0.133,0.033-0.258,0.1-0.375
+                            s0.152-0.221,0.258-0.311s0.227-0.16,0.363-0.211S1.371,0,1.512,0c0.164,0,0.322,0.037,0.475,0.111S2.273,0.309,2.391,0.48
+                            l4.406,6.34l4.559-6.34c0.125-0.172,0.26-0.295,0.404-0.369S12.055,0,12.211,0c0.125,0,0.244,0.023,0.357,0.07
+                            s0.213,0.107,0.299,0.182s0.154,0.164,0.205,0.27s0.076,0.217,0.076,0.334c0,0.086-0.014,0.17-0.041,0.252
+                            s-0.072,0.166-0.135,0.252l-5.027,6.75l5.156,7.125c0.109,0.156,0.164,0.316,0.164,0.48c0,0.133-0.033,0.26-0.1,0.381
+                            s-0.152,0.227-0.258,0.316s-0.225,0.162-0.357,0.217s-0.27,0.082-0.41,0.082c-0.328,0-0.605-0.156-0.832-0.469L6.563,9.469
+                            L1.805,16.23z"></path>
+                        </g>
+                    </svg>
+
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+
+<div class="search-panel" ng-controller="SearchController" ng-cloak ng-class="{facetResults: FacetResults}">
+    <div class="search-container">
+        <h1 style="text-align: center">Recherche</h1>
+        <div class="champs-main-search-container">
+            <input type="text" class="champs-main-search" id="global-search-input" name="search" ng-model="Terms">
+            <div class="clear-search ng-hide" ng-show="Terms != null && Terms != ''" ng-click="ClearTerms()">X</div>
+            <input type="button" style="display: none;" ng-click="KeyDown();" id="MainSearchKeyDownTrigger"/>
+            <input type="button" style="display: none;" ng-click="openedMainSearch();" id="MainSearchOpener"/>
+            <input type="button" style="display: none;" ng-click="InitMainSearch();" id="MainSearchInitializer"/>
+        </div>
+        <div class="facet-results-container">
+            <div class="categories-container" ng-show="FacetResults">
+                <p class="title desktop-700">Catégories</p>
+                <div class="custom-checkbox-container desktop-700">
+                    <div class="custom-checkbox-content" ng-repeat="cat in Categories | orderBy: ['-Results', 'Order']">
+                        <input type="checkbox" id="cat{{$index}}" ng-model="cat.Selected"/>
+                        <label for="cat{{$index}}">{{cat.Name}} ({{cat.Results}})</label>
+                    </div>
+                </div>
+                <div class="mobile-700">
+                    <label class="custom-dropdown">
+                        <select ng-model="SelectedCategory">
+                            <option value="">Filtrer par catégorie</option>
+                            <option ng-repeat="cat in Categories | orderBy : cat.Results : false" value="{{cat.Name}}">
+                                {{cat.Name}} ({{cat.Results}})
+                            </option>
+                        </select>
+                        <span></span>
+                    </label>
+                </div>
+            </div>
+            <div class="results-container">
+                <div class="results-count"
+                     ng-show="Loading == false && FacetResults == true && ResultsToDisplay != null">
+                    {{ResultsToDisplay.length}} résultat{{(ResultsToDisplay.length > 1 ? 's' : '')}}
+                </div>
+
+                <a ng-href="{{result.URL}}"
+                   class="search-autocomplete" ng-repeat="result in ResultsToDisplay" style="line-height: 1.4;"
+                   ng-show="Loading == false && (ShowAll || $index < 10)" ng-class="{'active': result.active}"
+                   ng-click="analyticsOnUnload();">
+                    <span ng-bind-html="result.Name | highlight:Terms"></span>
+                    <span class="subInfo"
+                          ng-show="(FacetResults && result.Meta != null && result.Meta != '')">{{result.Meta}}</span>
+                    <span class="subInfo category"
+                          ng-show="(result.SubInfo != null && result.SubInfo != '')">{{result.SubInfo}}</span>
+                </a>
+                <div class="search-autocomplete"
+                     ng-show="Results.length == 0 && Terms != '' && Loading == false && Terms.length >= MinCars">
+                    <div class="subInfo">Aucun résultat</div>
+                </div>
+                <div class="search-autocomplete" ng-show="Loading == true && Terms != '' ">
+                    <div class="subInfo">Recherche en cours ...</div>
+                </div>
+                <div class="search-autocomplete" ng-show="Loading == false && Terms != '' && Terms.length < MinCars ">
+                    <div class="subInfo">Entrez au moins {{MinCars}} caractères</div>
+                </div>
+                <a href="javascript:void();" class="search-autocomplete voir-plus"
+                     ng-show="Loading == false && FacetResults == false && Results != null && Results.length > 10"
+                     ng-click="SetFacetResults(true);">
+                    Voir plus de résultats
+                </a>
+                <a href="javascript:void();" class="btn-vert"
+                     ng-show="Loading == false && FacetResults == true && Results != null && Results.length > 10 && ShowAll == false"
+                     ng-click="SetShowAll()">
+                    <div class="subInfo">Afficher plus de résultats</div>
+                </a>
+            </div>
+        </div>
+
+    </div>
+</div>
+</header>
+
+
+<script>
+    var ua = window.navigator.userAgent;
+
+    if (ua.indexOf("MSIE ") > -1 || ua.indexOf("Trident/") > -1)
+        document.getElementById("body").classList.add("IE");
+
+
+    if (window.location.hash) {
+        if (window.location.hash.includes("carte-interactive")) {
+            hash = window.location.hash.split(",");
+            window.location.href = "/carte-interactive?secteur=" + (hash[1] ? hash[1] : "") + "&categorie="  + (hash[2] ? hash[2] : "");
+        }
+    }
+</script>
+
+<script>
+    window.addEventListener("scroll", function() {
+        var logo = document.getElementById("navbar-brand");
+        if (window.scrollY > 100) {
+            if (logo.classList && !logo.classList.contains("small"))
+                logo.classList.add("small");
+        }
+        else {
+            if (logo.classList && logo.classList.contains("small"))
+                logo.classList.remove("small");
+        }
+    });
+</script><div class="header-image" style="background-image: url('https://www.v3r.net/wp-content/uploads/2021/04/Bannière-Vie-démographique.jpeg');">
+    <div class="content-margin full-height">
+        <div class="title-container">
+                                                                            <span class="title small hide-mobile">À propos de la Ville</span>
+                                        <span class="title big hide-mobile">Membres du conseil</span>
+                                </div>
+    </div>
+
+    <div class="fil-dariane">
+        <div class="content-margin">
+            <div class="ariane-selectionnable">
+
+                <a href="https://www.v3r.net">accueil</a>
+                <span>›</span>
+                                        <a href="https://www.v3r.net/a-propos-de-la-ville">À propos de la ville</a>
+                        <span>›</span>
+                                            <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique">Vie démocratique</a>
+                        <span>›</span>
+                                            <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal">Conseil municipal</a>
+                        <span>›</span>
+                                            <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux">Membres du conseil</a>
+                        <span>›</span>
+                                    <span>District des Carrefours</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<main class="main-content" id="main-content" data-anchor="main-content">
+    <div class="flex-section-container">
+
+        <div class="flex-column content">
+            <div class="content-page contrast">
+                <div class="content-margin">
+                                        <h1>District des Carrefours</h1>
+<h2>René Martin</h2>
+<p><img decoding="async" style="width: 330px; float: left; padding-right: 30px;" src="https://www.v3r.net/wp-content/uploads/2021/12/RENE-MARTIN-scaled.jpg" alt="conseillère Valérie Renaud-Martin" /></p>
+<h3 class="marge">Fonctions</h3>
+<ul>
+<li>Président &#8211; Comité Animer et soutenir la communauté</li>
+<li>Vice-président &#8211; Comité Assurer la sécurité des milieux</li>
+<li>Vice-président &#8211; Comité Assurer la mobilité durable dans la ville</li>
+<li>Comité municipal de sécurité civile</li>
+<li>Comité de la gestion de la cohabitation citoyenne de l&rsquo;aéroport</li>
+</ul>
+<p><a rel="noopener" href="mailto:rene.martin@v3r.net" target="_self" class="bouton"> <img decoding="async" style="vertical-align: middle; width: 32px; height: 32px; min-width: 32px; margin-right: 5px; float: left;" src="/Fichiers/d477a882-4a53-e611-80ea-00155d09650f/Sites/c32c511f-925d-e611-80ea-00155d09650f/Images/courriel.svg" /><span style="position: relative; top: 8px;">Envoyez un courriel</span></a></p>
+<h3>Requête</h3>
+<p>Vous avez une question, un commentaire ou vous voulez signaler à la Ville une anomalie? Remplissez le formulaire de requêtes en ligne ou envoyez un courriel à l&rsquo;adresse <a href="mailto:311@v3r.net">311@v3r.net</a>.</p>
+<p>Les conseillers reçoivent mensuellement un rapport de toutes les requêtes qui ont été enregistrées dans le système de gestion des requêtes.</p>
+<p><a rel="noopener" href="/nous-joindre/plaintes-et-requetes" target="_self" class="bouton"> <img decoding="async" style="vertical-align: middle; width: 32px; height: 32px; min-width: 32px; margin-right: 5px; float: left;" src="/Fichiers/d477a882-4a53-e611-80ea-00155d09650f/Sites/742ceda8-915d-e611-80ea-00155d09650f/Images/edit-document.svg" /><span style="position: relative; top: 5px;">Formulaire de requêtes</span></a></p>
+<p><a rel="noopener" href="/wp-content/uploads/2021/11/2021-des-Carrefours.pdf" target="_blank" class="block-pdf">Carte du district des Carrefours</a></p>
+                                            <div class="section-bottom text-left">
+                            <div class="share-buttons-2023">
+                                <div class="share-button">
+                                    <img src="/wp-content/themes/v3r/Images/icons/share-buttons/icone-partager.svg" />
+                                    <span>Partager</span>
+                                </div>
+                                <div class="share-options">
+                                    <a class="share-option blue" href="https://www.facebook.com/sharer/sharer.php?u=https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours" target="_blank">
+                                        <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                            viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+                                            <path d="M16.1,7.1h-3.5V4.8c0-0.9,0.6-1.1,1-1.1c0.4,0,2.5,0,2.5,0V0l-3.4,0C8.9,0,8.1,2.8,8.1,4.6v2.5H5.9V11h2.2c0,5,0,11,0,11
+                                                h4.6c0,0,0-6.1,0-11h3.1L16.1,7.1z"/>
+                                        </svg>
+                                    </a>
+                                    <a class="share-option black" href="https://twitter.com/intent/tweet?url=https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours" target="_blank">
+                                        <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                            viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+                                            <path d="M13,9.4l7.8-8.9H19l-6.8,7.7L6.7,0.5H0.5l8.2,11.7l-8.2,9.3h1.9l7.2-8.2l5.7,8.2h6.3L13,9.4z M10.5,12.3l-0.8-1.2L3,1.9h2.8
+                                                l5.3,7.5l0.8,1.2l6.9,9.7h-2.8L10.5,12.3z"/>
+                                        </svg>
+                                    </a>
+                                    <a class="share-option light-blue"  href="https://www.linkedin.com/shareArticle?url=https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours" target="_blank">
+                                        <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                            viewBox="0 0 22 22" style="enable-background:new 0 0 22 22;" xml:space="preserve">
+                                            <path d="M0.3,7.3H5v14.1H0.3V7.3z M2.7,0.5C1.1,0.5,0,1.6,0,3c0,1.4,1,2.4,2.6,2.4h0c1.6,0,2.7-1.1,2.7-2.4C5.3,1.6,4.3,0.5,2.7,0.5
+                                                z M16.6,7c-2.5,0-3.6,1.4-4.2,2.3v-2H7.6c0.1,1.3,0,14.1,0,14.1h4.7v-7.9c0-0.4,0-0.8,0.2-1.1c0.3-0.8,1.1-1.7,2.4-1.7
+                                                c1.7,0,2.4,1.3,2.4,3.2v7.6H22v-8.1C22,9,19.6,7,16.6,7z"/>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+                    <div class="right-panel green contrast">
+
+                                    <div class="right-panel-content main">
+                        <span class="small-title">Vie démocratique</span>
+                        <div class="side-menu-container smaller">
+                                                                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/maire-de-trois-rivieres" class="side-menu-content"
+                                           target="_self">
+                                            Maire de Trois-Rivières                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-du-carmel" class="side-menu-content"
+                                           target="_self">
+                                            District du Carmel                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-carrefours" class="side-menu-content active"
+                                           target="_self">
+                                            District des Carrefours                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-chateaudun" class="side-menu-content"
+                                           target="_self">
+                                            District de Châteaudun                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-chavigny" class="side-menu-content"
+                                           target="_self">
+                                            District de Chavigny                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-estacades" class="side-menu-content"
+                                           target="_self">
+                                            District des Estacades                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-forges" class="side-menu-content"
+                                           target="_self">
+                                            District des Forges                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-la-verendrye" class="side-menu-content"
+                                           target="_self">
+                                            District de La-Vérendrye                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-la-madeleine" class="side-menu-content"
+                                           target="_self">
+                                            District de la Madeleine                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-marie-de-l-incarnation" class="side-menu-content"
+                                           target="_self">
+                                            District de Marie-de-l&rsquo;Incarnation                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-pointe-du-lac" class="side-menu-content"
+                                           target="_self">
+                                            District de Pointe-du-Lac                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-richelieu" class="side-menu-content"
+                                           target="_self">
+                                            District de Richelieu                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-des-rivieres" class="side-menu-content"
+                                           target="_self">
+                                            District des Rivières                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-sainte-marthe" class="side-menu-content"
+                                           target="_self">
+                                            District de Sainte-Marthe                                        </a>
+                                                                                                                                        <a href="https://www.v3r.net/a-propos-de-la-ville/vie-democratique/conseil-municipal/maire-et-conseillers-municipaux/district-de-saint-louis-de-france" class="side-menu-content"
+                                           target="_self">
+                                            District de Saint-Louis-de-France                                        </a>
+                                                                                        </div>
+                    </div>
+                
+
+                                                                    <div class="right-panel-content">
+                        <span class="small-title">Actualités</span>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/communications/a-la-une/essais-a-la-fumee" class="small-fiche-container" target="_self">
+                                <span class="date">Publié le 6 août 2025</span>
+                                <span class="title">Essais à la fumée</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/communications/a-la-une/une-nouvelle-ere-pour-latletisme-a-trois-rivieres" class="small-fiche-container" target="_self">
+                                <span class="date">Publié le 17 juillet 2025</span>
+                                <span class="title">Une nouvelle ère pour l&rsquo;atlétisme à Trois-Rivières</span>
+                            </a>
+                                                    <a href="https://www.v3r.net/a-propos-de-la-ville/communications/a-la-une/coup-de-pouce-a-plein-air-ville-joie" class="small-fiche-container" target="_self">
+                                <span class="date">Publié le 9 juillet 2025</span>
+                                <span class="title">Coup de pouce à Plein air Ville-Joie </span>
+                            </a>
+                                                                                            </div>
+                            </div>
+            </div>
+
+    <footer style="width: 100%;">
+    <div class="footer contrast">
+        <div class="footer-content">
+
+            <div class="footer-content-section first">
+                <a href="https://www.v3r.net" class="logo"><img src="https://www.v3r.net/wp-content/themes/v3r/Images/icons/logo-v3r-v2017.svg"  alt="Ville de Trois-Rivières" /></a>
+
+                <div class="section-container">
+
+                    <div class="footer-social mobile-only">
+                        <a href="/a-propos-de-la-ville/communications/infolettre" class="infolettre contrast">
+                            <span>Abonnez-vous à l'infolettre</span>
+                        </a>
+                        <a href="https://www.facebook.com/villetroisrivieres" target="_blank" class="facebook contrast">
+                            <span>Facebook</span>
+                        </a>
+                        <a href="https://www.instagram.com/villedetroisrivieres" target="_blank" class="instagram contrast">
+                            <span>Instagram</span>
+                        </a>
+                        <a href="https://www.linkedin.com/company/ville-de-trois-rivi-res" target="_blank" class="linkedin contrast">
+                            <span>LinkedIn</span>
+                        </a>
+                        <a href="https://www.youtube.com/channel/UC4UyW0CoFiJaFCFaOzoQQ5w" target="_blank" class="youtube contrast">
+                            <span>YouTube</span>
+                        </a>
+                    </div>
+
+                    <div class="footer-title">Ville de Trois-Rivières</div>
+                    <div class="footer-spacer"></div>
+                    <div class="footer-text"><a href="https://www.google.ca/maps/place/H%C3%B4tel+de+ville/@46.3430042,-72.545511,17z/data=!4m12!1m6!3m5!1s0x41aa0c6a9ae1712b:0xc5f7bf52c7282858!2sH%C3%B4tel+de+ville!8m2!3d46.3430005!4d-72.5433223!3m4!1s0x41aa0c6a9ae1712b:0xc5f7bf52c7282858!8m2!3d46.3430005!4d-72.5433223" target="_blank">1325, place de l'Hôtel-de-Ville, C.P. 368<br /> Trois-Rivières, QC G9A 5H3</a></div>
+                    <div class="footer-text bold">Téléphone : <a href="tel:311">311</a> ou <a href="tel:8193742002">819 374-2002</a></div>
+                    <div class="footer-text"><a href="tel:18333742002">Canada ou États-Unis : 1 833 374-2002</a></div>
+                    <div class="footer-spacer"></div>
+                    <div class="footer-text"><a href="mailto:311@v3r.net">Courriel : 311@v3r.net</a></div>
+                </div>
+            </div>
+
+            <div class="footer-content-section middle">
+                <div class="section-container">
+                                                                    <a class="footer-text with-bullet" href="/a-propos-de-la-ville/communications" target="_self">› Communications</a>
+
+                                                                        <div class="footer-spacer bigger"></div>
+                                                <a class="footer-text with-bullet" href="/faq" target="_self">› FAQ</a>
+
+                                                                        <div class="footer-spacer bigger"></div>
+                                                <a class="footer-text with-bullet" href="http://www.tourismetroisrivieres.com/fr" target="_blank">› Tourisme</a>
+
+                                    </div>
+            </div>
+
+            <div class="footer-content-section last">
+                <div class="section-container">
+
+                    <div class="footer-social no-mobile">
+                        <a href="/a-propos-de-la-ville/communications/infolettre" class="infolettre contrast">
+                            <span>Abonnez-vous à l'infolettre</span>
+                        </a>
+                        <a href="https://www.facebook.com/villetroisrivieres" target="_blank" class="facebook contrast">
+                            <span>Facebook</span>
+                        </a>
+                        <a href="https://www.instagram.com/villedetroisrivieres" target="_blank" class="instagram contrast">
+                            <span>Instagram</span>
+                        </a>
+
+                        <a href="https://www.linkedin.com/company/ville-de-trois-rivi-res" target="_blank" class="linkedin contrast">
+                            <span>LinkedIn</span>
+                        </a>
+
+                        <a href="https://www.youtube.com/channel/UC4UyW0CoFiJaFCFaOzoQQ5w" target="_blank" class="youtube contrast">
+                            <span>YouTube</span>
+                        </a>
+                    </div>
+
+                    <div class="footer-social-bottom mobile-only">
+                                                                                <a href="/a-propos-de-la-ville/communications" target="_self">Communications</a>
+
+                                                                                    <div class="footer-social-bottom-spacer"></div>
+                                                        <a href="/faq" target="_self">FAQ</a>
+
+                                                                                    <div class="footer-social-bottom-spacer"></div>
+                                                        <a href="http://www.tourismetroisrivieres.com/fr" target="_blank">Tourisme</a>
+
+                                            </div>
+
+                    <div class="footer-social-bottom">
+                                                                                <a href="https://v3r.sharepoint.com/" target="_blank">Intranet</a>
+
+                                                                                    <div class="footer-social-bottom-spacer"></div>
+                                                        <a href="https://organismesv3r.net/" target="_blank">Portail d’accès aux organismes</a>
+
+                                                                                    <div class="footer-social-bottom-spacer"></div>
+                                                        <a href="https://www.v3r.net/politique-de-confidentialite" target="_self">Politique de confidentialité</a>
+
+                                                <span class="copyright contrast" style="width: 100%; margin-top: 5px;">&copy; Ville de Trois-Rivières. Tous droits réservés.</span>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</footer>
+
+</div>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/angular/angular.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/angular/angular-sanitize.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/angular/angular-animate.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/i18n/angular-locale_fr-ca.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/controls/angular-file-upload-master/dist/angular-file-upload.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/V3RApp.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/owl.carousel.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/clamp.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/js-cookie/js.cookie.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/jquery-ui.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/global.js?v=2"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/infobox.js"></script>
+    <script src="https://www.v3r.net/wp-content/themes/v3r/Scripts/Controllers/SearchController.js"></script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+    (function () {
+        var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/5e8dcada35bcbb0c9aaf11a0/default';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/v3r\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="ckyBannerTemplate" type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide" data-cky-tag="revisit-consent" data-tooltip="Paramètres des cookies" style="background-color:#0056a7"> <button class="cky-btn-revisit" aria-label="Paramètres des cookies"> <img src="https://www.v3r.net/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg" alt="Revisit consent button"> </button></div><div class="cky-consent-container cky-hide" tabindex="0"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4;color:#212121">  <div class="cky-notice"> <p class="cky-title" role="heading" aria-level="1" data-cky-tag="title" style="color:#212121">Nous respectons votre vie privée.</p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>Ce site Web utilise des fichiers témoins (cookies) pour améliorer votre expérience de navigation et mieux comprendre son utilisation. En cliquant sur « Tout accepter », vous consentez à l’utilisation des fichiers témoins.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons"> <button class="cky-btn cky-btn-customize" aria-label="Personnaliser" data-cky-tag="settings-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Personnaliser</button> <button class="cky-btn cky-btn-reject" aria-label="Tout rejeter" data-cky-tag="reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Tout rejeter</button> <button class="cky-btn cky-btn-accept" aria-label="Tout accepter" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863dc;border-color:#1863dc">Tout accepter</button>  </div></div></div></div></div><div class="cky-modal" tabindex="0"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4"> <div class="cky-preference-header"> <span class="cky-preference-title" role="heading" aria-level="1" data-cky-tag="detail-title" style="color:#212121">Personnaliser les préférences en matière de fichiers témoins</span> <button class="cky-btn-close" aria-label="[cky_preference_close_label]" data-cky-tag="detail-close"> <img src="https://www.v3r.net/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>Le détail de tous les fichiers témoins est disponible sous chaque catégorie de consentement ci-dessous.</p>
+<p>Les fichiers témoins nécessaires sont stockés sur votre navigateur, car ils sont essentiels à l’exécution des fonctionnalités de base du site.</p>
+<p>Quant aux fichiers témoins tiers, ils servent principalement à comprendre et à analyser comment vous interagissez avec notre site, à enregistrer vos préférences et à vous fournir le contenu qui vous sont pertinents. Un consentement est nécessaire à l’utilisation de ces fichiers témoins.</p>
+<p>Vous pouvez choisir d'activer ou de désactiver tout ou en partie les fichiers témoins, mais la désactivation de certains d'entre eux peut affecter votre expérience de navigation.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Nécessaire" data-cky-tag="detail-category-title" style="color:#212121">Nécessaire</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les fichiers témoins nécessaires sont cruciaux pour les fonctions de base du site Web et celui-ci ne fonctionnera pas comme prévu sans eux.</p>
+<p>Ces fichiers témoins ne stockent aucune donnée personnellement identifiable.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>JSESSIONID</div></li><li><div>durée</div><div>session</div></li><li><div>la description</div><div><p>New Relic utilise ce témoin pour stocker un identifiant de session afin que New Relic puisse surveiller le nombre de sessions pour une application.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>cookieyes-consent</div></li><li><div>durée</div><div>1 an</div></li><li><div>la description</div><div><p>CookieYes utilise le cookie pour garder l'information du consentement.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>Itsec-Hb-Login-*</div></li><li><div>durée</div><div>10 minutes</div></li><li><div>la description</div><div><p>Fourni l'url masqué de connexion à WordPress.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>wordpress_logged_in_*</div></li><li><div>durée</div><div>session</div></li><li><div>la description</div><div><p>Mémoriser la session de l'utilisateur</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>wordpress_sec_*</div></li><li><div>durée</div><div>15 jours</div></li><li><div>la description</div><div><p>Pour assurer une protection contre les pirates informatiques, stocker les données du compte.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>wp-settings-*</div></li><li><div>durée</div><div>1 an</div></li><li><div>la description</div><div><p>Utilisé pour conserver la configuration wp-admin d'un utilisateur.</p></div></li></ul></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Fonctionnelle" data-cky-tag="detail-category-title" style="color:#212121">Fonctionnelle</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les fichiers témoins fonctionnels permettent d'exécuter certaines fonctionnalités telles que le partage du contenu du site Web sur des plateformes de médias sociaux, la collecte de commentaires et d'autres fonctionnalités tierces.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>twk_idm_key</div></li><li><div>durée</div><div>session</div></li><li><div>la description</div><div><p>Tawk a défini ce cookie pour permettre au site Web de reconnaître le visiteur afin d'optimiser la fonctionnalité de la boîte de discussion.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>TawkConnectionTime</div></li><li><div>durée</div><div>session</div></li><li><div>la description</div><div><p>Tawk.to, une fonctionnalité de discussion instantanée, définit ce cookie. Pour améliorer le service, ce cookie permet de se souvenir des utilisateurs afin que les discussions précédentes puissent être reliées entre elles.</p></div></li></ul></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytique" data-cky-tag="detail-category-title" style="color:#212121">Analytique</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les fichiers témoins analytiques sont utilisés pour comprendre comment les visiteurs interagissent avec le site Web. Ces fichiers témoins aident à fournir des informations sur le nombre de visiteurs, le taux de rebond, la source de trafic, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>_ga</div></li><li><div>durée</div><div>1 an 1 mois 4 jour</div></li><li><div>la description</div><div><p>Google Analytics utilise ce témoin pour calculer les données relatives aux visiteurs, aux sessions et aux campagnes et suivre l’utilisation du site pour le rapport d’analyse du site. Le témoin stocke les informations de manière anonyme et attribue un numéro généré de manière aléatoire pour reconnaître les visiteurs uniques.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>_gid</div></li><li><div>durée</div><div>1 jour</div></li><li><div>la description</div><div><p>Google Analytics utilise ce témoin pour stocker des informations sur la façon dont les visiteurs utilisent un site Internet tout en créant un rapport d’analyse des performances du site. Certaines des données collectées comprennent le nombre de visiteurs, leur source et les pages qu’ils visitent de manière anonyme.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>_gat_UA-*</div></li><li><div>durée</div><div>1 minute</div></li><li><div>la description</div><div><p>Google Analytics définit ce cookie pour le suivi du comportement des utilisateurs.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>_fbp</div></li><li><div>durée</div><div>3 mois</div></li><li><div>la description</div><div><p>Facebook définit ce témoin pour afficher des publicités lorsque vous êtes sur Facebook ou sur une plateforme numérique alimentée par la publicité de Facebook après avoir visité le site Internet.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>_ga_*</div></li><li><div>durée</div><div>1 an 1 mois 4 jour</div></li><li><div>la description</div><div><p>Google Analytics définit ce cookie pour stocker et compter les pages vues.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>CONSENT</div></li><li><div>durée</div><div>2 ans</div></li><li><div>la description</div><div><p>YouTube place ce témoin par le biais des vidéos YouTube intégrées et enregistre des données statistiques anonymes.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>_gat_gtag_UA_*</div></li><li><div>durée</div><div>1 minute</div></li><li><div>la description</div><div><p>Google Analytics définit ce cookie pour stocker un identifiant utilisateur unique.</p></div></li></ul></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Publicité" data-cky-tag="detail-category-title" style="color:#212121">Publicité</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les fichiers témoins de publicité sont utilisés pour fournir aux visiteurs des publicités personnalisées basées sur les pages visitées précédemment et analyser l'efficacité de la campagne publicitaire.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>YSC</div></li><li><div>durée</div><div>session</div></li><li><div>la description</div><div><p>YouTube place ce témoin pour suivre les vues des vidéos intégrées dans les pages YouTube.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>VISITOR_INFO1_LIVE</div></li><li><div>durée</div><div>5 mois 27 jour</div></li><li><div>la description</div><div><p>YouTube utilise ce témoin pour mesurer la bande passante et déterminer si l’utilisateur obtient la nouvelle ou l’ancienne interface du lecteur.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>test_cookie</div></li><li><div>durée</div><div>15 minute</div></li><li><div>la description</div><div><p>doubleclick.net place ce témoin pour déterminer si le navigateur de l’utilisateur accepte les témoins.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>yt-remote-device-id</div></li><li><div>durée</div><div>jamais</div></li><li><div>la description</div><div><p>YouTube utilise ce témoin pour enregistrer les préférences de l’utilisateur en matière de vidéo lorsque des vidéos YouTube sont intégrées.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>yt-remote-connected-devices</div></li><li><div>durée</div><div>jamais</div></li><li><div>la description</div><div><p>YouTube utilise ce témoin pour enregistrer les préférences de l’utilisateur en matière de vidéo lorsque des vidéos YouTube sont intégrées.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>yt.innertube::requests</div></li><li><div>durée</div><div>jamais</div></li><li><div>la description</div><div><p>YouTube utilise ce témoin pour enregistrer un identifiant unique afin de stocker des données sur les vidéos de YouTube que l’utilisateur a vues.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>yt.innertube::nextId</div></li><li><div>durée</div><div>jamais</div></li><li><div>la description</div><div><p>YouTube utilise ce témoin pour enregistrer un identifiant unique afin de stocker des données sur les vidéos de YouTube que l’utilisateur a vues.</p></div></li></ul><ul class="cky-cookie-des-table"><li><div>Cookie</div><div>IDE</div></li><li><div>durée</div><div>1 an 24 jour</div></li><li><div>la description</div><div><p>Les témoins Google DoubleClick IDE stockent des informations sur la façon dont l’utilisateur utilise le site Internet afin de lui présenter des annonces pertinentes en fonction de son profil.</p></div></li></ul></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons"> <button class="cky-btn cky-btn-reject" aria-label="Tout rejeter" data-cky-tag="detail-reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Tout rejeter </button> <button class="cky-btn cky-btn-preferences" aria-label="Enregistrer mes préférences" data-cky-tag="detail-save-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Enregistrer mes préférences </button> <button class="cky-btn cky-btn-accept" aria-label="Tout accepter" data-cky-tag="detail-accept-button" style="color:#ffffff;background-color:#1863dc;border-color:#1863dc"> Tout accepter </button> </div><div style="padding: 8px 24px;font-size: 12px;font-weight: 400;line-height: 20px;text-align: right;border-radius: 0 0 6px 6px;direction: ltr;justify-content: flex-end;align-items: center;background-color:#EDEDED;color:#293C5B" data-cky-tag="detail-powered-by"> Powered by <a target="_blank" rel="noopener" href="https://www.cookieyes.com/product/cookie-consent" style="margin-left: 5px;line-height: 0"><img src="https://www.v3r.net/wp-content/plugins/cookie-law-info/lite/frontend/images/poweredbtcky.svg" alt="Cookieyes logo" style="width: 78px;height: 13px;margin: 0"></a> </div></div></div></div></script><script type="text/javascript" src="https://www.v3r.net/wp-content/themes/v3r/Owlcarousel/owl.carousel.min.js" id="owlcarousel-js"></script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.680 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2025-08-09 01:19:12 -->
+
+<!-- Compression = gzip -->

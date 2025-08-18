@@ -1,0 +1,17 @@
+apiVersion: v2
+name: open-policy-platform
+description: Open Policy Platform - Complete Microservices Stack
+type: application
+version: 1.0.0
+appVersion: "1.0.0"
+keywords:
+  - policy
+  - microservices
+  - kubernetes
+  - helm
+home: https://github.com/your-org/open-policy-platform
+sources:
+  - https://github.com/your-org/open-policy-platform
+maintainers:
+  - name: Open Policy Platform Team
+    email: team@openpolicyplatform.com

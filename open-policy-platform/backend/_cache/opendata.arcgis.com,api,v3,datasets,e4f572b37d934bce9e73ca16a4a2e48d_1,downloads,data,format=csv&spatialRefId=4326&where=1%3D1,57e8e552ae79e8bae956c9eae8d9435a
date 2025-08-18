@@ -1,0 +1,33 @@
+status: 200
+encoding: ISO-8859-1
+Date: Sat, 09 Aug 2025 05:44:53 GMT
+Content-Type: text/csv
+Content-Length: 663
+Connection: keep-alive
+Vary: Accept-Encoding
+x-amz-replication-status: COMPLETED
+Last-Modified: Tue, 24 Jun 2025 17:59:40 GMT
+ETag: "0b0134788b69ff4a73c383671799dbeb"
+x-amz-server-side-encryption: AES256
+Cache-Control: must-revalidate
+x-amz-meta-cachetime: 92025
+Content-Disposition: attachment; filename="Welland_Mayor_and_Council_Members.csv"
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+
+﻿OBJECTID,Gender,Email,Website,Locality,Province,Phone,Fax,District_name,District_ID,Primary_role,First_name,Last_name,Party_name,Photo_URL,Source_URL,Address_line_1,Address_line_2,Postal_code
+1,,frank.campion@welland.ca,,Welland,ON,905-735-1700 ext. 2101,,,0,Mayor,Frank,Campion,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+2,,david.mcleod@welland.ca,,Welland,ON,905-736-0465,,Ward 2,31,Councillor,David,McLeod,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+3,,leo.vanvliet@welland.ca,,Welland,ON,289-821-5037,,Ward 2,31,Councillor,Leo,Van Vliet,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+4,,bonnie.fokkens@welland.ca,,Welland,ON,905-736-0469,,Ward 6,32,Councillor,Bonnie,Fokkens,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+5,,jamie.lee@welland.ca,,Welland,ON,905-414-2541,,Ward 6,32,Councillor,Jamie,Lee,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+6,,john.chiocchio@welland.ca,,Welland,ON,905-736-0240,,Ward 3,33,Councillor,John,Chiocchio,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+7,,sharmila.setaram@welland.ca,,Welland,ON,905-414-2539,,Ward 3,33,Councillor,Sharmila,Setaram,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+8,,claudette.richard@welland.ca,,Welland,ON,905-736-1911,,Ward 5,34,Councillor,Claudette,Richard,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+9,,graham.speck@welland.ca,,Welland,ON,905-714-6034,,Ward 5,34,Councillor,Graham,Speck,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+10,,bryan.green@welland.ca,,Welland,ON,905-736-3621,,Ward 4,35,Councillor,Bryan,Green,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+11,,tony.dimarco@welland.ca,,Welland,ON,905-734-6495,,Ward 4,35,Councillor,Tony,DiMarco,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+12,,adam.moote@welland.ca,,Welland,ON,905-736-3620,,Ward 1,36,Councillor,Adam,Moote,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4
+13,,maryann.grimaldi@welland.ca,,Welland,ON,905-788-3498,,Ward 1,36,Councillor,Mary Ann,Grimaldi,,https://www.welland.ca/council/index.asp,https://www.welland.ca/council/Council.asp,60 East Main Street,,L3B 3X4

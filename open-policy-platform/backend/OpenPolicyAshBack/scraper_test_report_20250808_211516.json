@@ -1,0 +1,380 @@
+{
+  "timestamp": "2025-08-08T21:15:16.104016",
+  "system_resources": {
+    "cpu_count": 16,
+    "memory_gb": 64.0,
+    "current_cpu_usage": 0.0,
+    "current_memory_usage": 0.0
+  },
+  "summary": {
+    "total_scrapers": 50,
+    "successful": 0,
+    "failed": 50,
+    "skipped": 0,
+    "success_rate": 0.0,
+    "total_records_collected": 0,
+    "total_records_inserted": 0,
+    "size_breakdown": {
+      "small": 31,
+      "medium": 13,
+      "large": 6
+    }
+  },
+  "category_stats": {
+    "parliamentary": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "provincial": {
+      "total": 14,
+      "successful": 0,
+      "failed": 14,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 9,
+      "medium": 2,
+      "large": 3
+    },
+    "municipal": {
+      "total": 33,
+      "successful": 0,
+      "failed": 33,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 21,
+      "medium": 10,
+      "large": 2
+    },
+    "civic": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "update": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    }
+  },
+  "failed_scrapers": [
+    {
+      "name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "error": "No people.py file found in scrapers/openparliament"
+    },
+    {
+      "name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_ab"
+    },
+    {
+      "name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca"
+    },
+    {
+      "name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_qc"
+    },
+    {
+      "name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on"
+    },
+    {
+      "name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_bc"
+    },
+    {
+      "name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_sk"
+    },
+    {
+      "name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_nb"
+    },
+    {
+      "name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_mb"
+    },
+    {
+      "name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_ns"
+    },
+    {
+      "name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_pe"
+    },
+    {
+      "name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_nt"
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_nl"
+    },
+    {
+      "name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_yt"
+    },
+    {
+      "name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_nu"
+    },
+    {
+      "name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_ab_edmonton"
+    },
+    {
+      "name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_ab_calgary"
+    },
+    {
+      "name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_qc_montreal"
+    },
+    {
+      "name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on_toronto"
+    },
+    {
+      "name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on_brampton"
+    },
+    {
+      "name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on_ottawa"
+    },
+    {
+      "name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_bc_vancouver"
+    },
+    {
+      "name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on_mississauga"
+    },
+    {
+      "name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on_kitchener"
+    },
+    {
+      "name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on_hamilton"
+    },
+    {
+      "name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on_london"
+    },
+    {
+      "name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_qc_quebec"
+    },
+    {
+      "name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_on_windsor"
+    },
+    {
+      "name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_qc_laval"
+    },
+    {
+      "name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_bc_surrey"
+    },
+    {
+      "name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_qc_gatineau"
+    },
+    {
+      "name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_bc_burnaby"
+    },
+    {
+      "name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_bc_abbotsford"
+    },
+    {
+      "name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_bc_richmond"
+    },
+    {
+      "name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_bc_kelowna"
+    },
+    {
+      "name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_bc_victoria"
+    },
+    {
+      "name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_ab_red_deer"
+    },
+    {
+      "name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_ab_lethbridge"
+    },
+    {
+      "name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_ab_medicine_hat"
+    },
+    {
+      "name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_sk_saskatoon"
+    },
+    {
+      "name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_sk_regina"
+    },
+    {
+      "name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_mb_winnipeg"
+    },
+    {
+      "name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_ns_halifax"
+    },
+    {
+      "name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_nb_saint_john"
+    },
+    {
+      "name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_nb_moncton"
+    },
+    {
+      "name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_nb_fredericton"
+    },
+    {
+      "name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_pe_charlottetown"
+    },
+    {
+      "name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in scrapers/scrapers-ca/ca_nl_st_john_s"
+    },
+    {
+      "name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "error": "No people.py file found in scrapers/civic-scraper"
+    },
+    {
+      "name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "error": "No people.py file found in scripts"
+    }
+  ],
+  "detailed_results": [
+    {
+      "scraper_name": "Federal Parliament",
+      "category": 

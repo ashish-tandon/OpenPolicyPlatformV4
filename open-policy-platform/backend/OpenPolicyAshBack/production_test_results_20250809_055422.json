@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-08-09T05:54:19.864483",
+  "duration": 2.322067,
+  "test_results": {
+    "database": {
+      "status": "success",
+      "representatives": 2774,
+      "jurisdictions": 241
+    },
+    "monitoring": {
+      "status": "success",
+      "system_metrics": {
+        "cpu_usage": 10.8,
+        "memory_usage": 51.3,
+        "disk_usage": 0.5644767082255377
+      },
+      "scraper_metrics": 0,
+      "data_quality": 0.0
+    },
+    "data_quality": {
+      "status": "success",
+      "quality_score": 100.0,
+      "total_records": 2774,
+      "complete_records": 2774
+    },
+    "system_performance": {
+      "status": "success",
+      "cpu_usage": 10.4,
+      "memory_usage": 51.4,
+      "disk_usage": 0.8
+    },
+    "deployment_scripts": {
+      "status": "success"
+    }
+  },
+  "summary": {
+    "total_tests": 5,
+    "passed_tests": 5,
+    "failed_tests": 0
+  }
+}

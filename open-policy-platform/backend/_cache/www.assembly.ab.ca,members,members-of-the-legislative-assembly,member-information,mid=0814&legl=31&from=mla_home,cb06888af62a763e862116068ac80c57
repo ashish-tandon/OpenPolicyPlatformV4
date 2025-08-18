@@ -1,0 +1,1973 @@
+status: 200
+encoding: utf-8
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+Content-Security-Policy: default-src 'self'; script-src *.googleapis.com *.gstatic.com www.google.com apis.google.com connect.facebook.net ajax.aspnetcdn.com platform.twitter.com https://syndication.twitter.com/ https://s.ytimg.com https://publish.twitter.com *.twimg.com platform.linkedin.com http://platform.stumbleupon.com/1/widgets.js *.youtube.com *.googletagmanager.com *.google-analytics.com https://www.youtube.com/iframe_api https://dec.azureedge.net/ munchkin.marketo.net *.eloqua.com js.hs-scripts.com js.hs-analytics.net *.en25.com *.assembly.ab.ca 'self' https://cdn.insight.sitefinity.com https://dec.azureedge.net cdn.ampproject.org web-chat.nativechat.com 'unsafe-inline' 'unsafe-eval'; style-src *.googleapis.com *.gstatic.com netdna.bootstrapcdn.com kendo.cdn.telerik.com www.google.com platform.twitter.com/css/ *.twimg.com *.envoke.com *.assembly.ab.ca 'self' https://cdn.insight.sitefinity.com https://dec.azureedge.net web-chat.nativechat.com 'unsafe-inline'; img-src *.gstatic.com *.googleapis.com platform.tumblr.com web.facebook.com www.facebook.com www.redditstatic.com www.linkedin.com https://syndication.twitter.com https://static.licdn.com/scds/common/u/images/apps/connect/sprites/sprite_connect_v14.png pbs.twimg.com platform.twitter.com/css/ *.twimg.com data: blob: *.google-analytics.com https://*.insight.sitefinity.com https://*.dec.sitefinity.com *.eloqua.com track.hubspot.com https://i.ytimg.com https://www.google.ca/ads/* *.envoke.io https://www.google.ca/ads *.envoke.com *.assembly.ab.ca 'self' https://cdn.insight.sitefinity.com https://dec.azureedge.net web-chat.nativechat.com; font-src 'self' fonts.gstatic.com kendo.cdn.telerik.com netdna.bootstrapcdn.com data: *.bootstrapcdn.com *.assembly.ab.ca; frame-src *.google.com *.googletagmanager.com *.youtube.com *.assembly.ab.ca 'self' web-chat.nativechat.com; connect-src accounts.google.com *.mktoresp.com analytics.google.com https://www.google-analytics.com https://stats.g.doubleclick.net https://info.assembly.ab.ca *.assembly.ab.ca 'self' https://*.insight.sitefinity.com https://*.dec.sitefinity.com; media-src 'self' data: blob: *.assembly.ab.ca; child-src https://platform.twitter.com/ https://syndication.twitter.com/ https://www.youtube.com/ https://player.vimeo.com/ https://w.soundcloud.com/ apis.google.com accounts.google.com staticxx.facebook.com www.facebook.com web.facebook.com badge.stumbleupon.com *.assembly.ab.ca 'self' web-chat.nativechat.com
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Powered-By: ASP.NET
+Date: Fri, 08 Aug 2025 21:46:29 GMT
+Content-Length: 26532
+
+
+<!DOCTYPE html>
+<head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M5MM7GH');</script>
+<!-- End Google Tag Manager -->
+
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Pro|Montserrat:300,400,500,600,700&amp;display=swap" rel="stylesheet" /><link rel="stylesheet" href="/Sitefinity/WebsiteTemplates/LAO/App_Themes/LAO/Global/bootstrap-icons-1.11.1/bootstrap-icons.css" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>
+	Member Information
+</title><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" /><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" /><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" /><link rel="manifest" href="/site.webmanifest" /><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#005e5a" /><meta name="msapplication-TileColor" content="#005e5a" /><meta name="theme-color" content="#ffffff" /><meta name="robots" content="noindex" /><link rel="stylesheet" type="text/css" href="/LAO/css/w3.css?v=1108" />
+<link rel="stylesheet" type="text/css" href="/LAO/css/lao_shared.css?v=1108" />
+<script type="text/javascript" src="/LAO/js/lao_shared.js"></script>
+<link rel="stylesheet" type="text/css" href="/LAO/css/lao_memberinfo.css?v=1108" />
+<style type="text/css" media="all">.educationnewsletter {
+}</style><meta name="Generator" content="Sitefinity 14.4.8143.0 DX" /><link rel="canonical" href="https://www.assembly.ab.ca/members/members-of-the-legislative-assembly/member-information" /><link href="/Telerik.Web.UI.WebResource.axd?d=PMrIT5dOWaVYIcpFWUE4nF_0p0TTvlmvYzgjlO5IOTYHERV14rOkRehB4pdOepjFNR3-rGEyJ_Muuy732GJasHk_wdrzbd6RWDOx3uZuaAC590Jctwxfcnbchd_KRKcG0&amp;t=638840838637275692&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Sitefinity.Resources%2c+Version%3d14.4.8143.0%2c+Culture%3dneutral%2c+PublicKeyToken%3db28c218413bdf563%3aen%3a9aa79f28-b2e3-44f2-889e-74b098a830dc%3a7a90d6a" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/LAO/App_Themes/LAO/global/main.min.css?v=638736783115826234" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/LAO/App_Themes/LAO/global/theme.min.css?v=638736783118202315" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/LAO/App_Themes/LAO/global/override.min.css?v=638736783116045245" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/LAO/App_Themes/LAO/global/responsive.min.css?v=638736783117576936" type="text/css" rel="stylesheet" /><link href="/Sitefinity/WebsiteTemplates/LAO/App_Themes/LAO/global/pd.css?v=638736783116321112" type="text/css" rel="stylesheet" /></head>
+<body class="stretched" data-speed-in="800" data-speed-out="0">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5MM7GH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<form method="post" action="./member-information?mid=0909" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl13_TSSM" id="ctl13_TSSM" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="No1blOvU1UgWkpWnXdP7fBFKBXbSRIEmIUGIiCc/4bwSaP2BYmd2cYpBA9U+KtYqLNdbUTGf+Atq0rzkkT+yxpN4LuS0g/jApcX4oNS007U=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZCql4B_0D69X80bdSfZqEexMirKDIvj1H0EGC8ue34K8y28Vuy2BAdwIJLBcapDcnw2&amp;t=638627991619783110" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvjYQmncjhlAZmukoJOj7_fnEK94UnjmzLMZfgMttF_Jei4tj_0YxExWfkx1Z0bEZojhAFwNm8ppxSMX1FlEKvG0FUDtEF_da_MYendmvhXFL8xukrTeMnie1BsPIvm1sqjtlJmGfVdWyiMSNqH8Fulc1&amp;t=2a9d95e3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OPjze9QJWW1Dkv-e17PNkD-cjme_VyTOJnSWiZnnomRtE8mPEe4ReS9rS8DJvShHwvEZwkVFOH22KGi1COlqsdO_qXaIrzyhdpYQ8URKF4hlj3lC4WSRRmYfWpqY4ZJ57_jSkldiFdgIJ137ywVwuxo1&amp;t=2a9d95e3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Sm_GGXofLw4C9Eu03fCPHOREpAVyqPDzipCgBXZaxtDfUGU6decO381yLkD7WuGxySqld7WAXz-qBJzKS_I4NVAK3y6cfF82eKhDpZWJUKfSm4tLjPQTO2C2wfWY346FgmsZjjo_IhyRDi1mz6_q2zhq-xI_iO4DS0RpI-HFfEf47XMRMg5IZ2XH4owAd41u0&amp;t=fffffffff0f4a022" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=pNnY3SPOXobYy0znCWU-ciX9ScGkzwzr4UgpJcojxlsXdLUCpG5PGhDbAUsXkriIpO33lxWQtloFaiqjz0OryYGLhcLtidAzDA1FduFNxE7emnokZjIpA02yZUHTKj7gjhXEzwaeEEpgcHhjFVtsNMkL5-QSUQp9eiGgl4DZnX4yDw6dFE1ok9YKYR0geRtG0&amp;t=fffffffff0f4a022" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=63rqHGeEM5v32uHxdDDv8DvvtiHDsCMJ4XSpJR9EfeKmzAto-KYlKMQnlIuyy5-Qw1SiDX6HzFwOsytRMCwh1PZWkdDmEuVS8fmtb5yIxmPYrK5EVktRW4ZRqSJZx1rUdtslt3h8Zz7ahjL1aCg8NGc7PFOtRXkc-b3Hzi_DAxpovZ7juQS-Rb-qmuR1dzj50&amp;t=fffffffff0f4a022" type="text/javascript"></script>
+<script src="/Frontend-Assembly/Telerik.Sitefinity.Frontend.Search/Mvc/Scripts/SearchBox/Search-box.min.js?v=MTQuNC44MTQzLjA%3d" type="text/javascript"></script>
+<script src="/ResourcePackages/Bootstrap4/assets/dist/js/popper.min.js" type="text/javascript"></script>
+<script src="/ResourcePackages/Bootstrap4/assets/dist/js/bootstrap.min.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="37821C26" />
+</div>
+		<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+		<div id="wrapper" class="pgedit">
+			<div id="top-bar" class="dark">
+				
+<div id="topbar_T56F3FA55002_Col00" class="sf_colsIn container px-0" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="topbar_T56F3FA55003_Col00" class="sf_colsIn col-md-6 order-2 order-md-1" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div ><div class="top-links d-none d-md-block"><ul><li></li></ul></div></div>    
+</div>
+    </div>
+    <div id="topbar_T56F3FA55003_Col01" class="sf_colsIn col-md-6 order-1 order-md-2" data-sf-element="Column 2" data-placeholder-label="Column 2">
+<div >
+    <div ><div class="top-links float-right">
+<ul>
+    <li><a href="/about/careers">Careers</a></li>
+    <li><a href="/visit/plan-your-visit/getting-here">Getting Here</a></li>
+</ul>
+</div></div>    
+</div>
+    </div>
+</div>
+
+</div>
+
+
+
+			</div>
+			<div id="notice" class="d-none">
+				
+
+			</div>
+			<header id="header" class="no-sticky">
+				<div id="header-wrap">
+					<div class="container">
+						<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+						
+
+<div >
+    <div ><div id="logo"><a href="/" class="standard-logo" data-dark-logo="/images/default-source/default-album/logolao.png"><img src="/images/default-source/default-album/logolao.png" alt="Logo"></a><a href="/" class="retina-logo" data-dark-logo="/images/default-source/default-album/logolao@2x.png?Status=Temp&amp;sfvrsn=895d74f9_2"><img src="/images/default-source/default-album/logolao@2x.png?Status=Temp&amp;sfvrsn=895d74f9_2" alt="Logo"></a></div></div>    
+</div>
+						<div id="top-search">
+							<a href="#" id="top-search-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+							
+
+
+
+<div class="form-inline">
+    <div class="form-group sf-search-input-wrapper" role="search">
+        <input type="search" placeholder="Search" id="de3cff65-6332-4a18-9926-df3eef74063c" class="form-control" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1'/>
+        
+        <span id='SearchInfo-1' aria-hidden="true" hidden>When autocomplete results are available use up and down arrows to review and enter to select.</span>
+    </div>
+	
+	<input type="hidden" data-sf-role="resultsUrl" value="/search-results" />
+    <input type="hidden" data-sf-role="indexCatalogue" value="global-search-index" />
+    <input type="hidden" data-sf-role="wordsMode" value="AllWords" />
+    <input type="hidden" data-sf-role="disableSuggestions" value='false' />
+    <input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+    <input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+    <input type="hidden" data-sf-role="language" />
+    <input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+    <input type="hidden" data-sf-role="searchTextBoxId" value='#de3cff65-6332-4a18-9926-df3eef74063c' />
+    <input type="hidden" data-sf-role="searchButtonId" value='#9076d554-2fe1-4147-8be8-01c66d37bdd7' />
+</div>
+
+
+
+
+
+
+
+						</div>
+						
+
+
+
+
+<nav id="primary-menu" class="with-arrows">
+  <ul>
+    <li class="mega-menu sub-menu"> <a href="#">
+      <div>Assembly Business</div>
+      </a>
+      <div class="mega-menu-content style-2 clearfix">
+        <ul class="mega-menu-column col">
+          <li>
+            <div class="feature-box fbox-effect mb-4">
+              <div class="fbox-icon mb-4"> <a href="/assembly-business/assembly-dashboard"> <i class="icon-bar-chart icon-rotate-90 i-alt"></i> </a> </div>
+              <div class="fbox-content"> <a href="/assembly-business/assembly-dashboard">
+                <h3>Assembly Dashboard</h3>
+                </a>
+                <p><a class="no-link-p" href="/assembly-business/assembly-dashboard">Assembly and committee business at a glance.</a></p>
+              </div>
+            </div>
+			<!-- <div class="feature-box fbox-effect mb-4">
+              <div class="fbox-icon mb-4"> <a href="/assembly-business/assembly-dashboard"> <i class="icon-search i-alt icon-flip-horizontal"></i> </a> </div>
+              <div class="fbox-content"> <a href="http://search.assembly.ab.ca:8900/laosearch.html">
+                <h3>Document Search</h3>
+                </a>
+                <p><a class="no-link-p" href="http://search.assembly.ab.ca:8900/laosearch.html">Search transcripts, House records, bills and journals.</a></p>
+              </div>
+            </div> -->
+            <div class="feature-box fbox-effect">
+              <div class="fbox-icon mb-4"> <a href="/assembly-business/watch-the-assembly"> <i class="icon-landmark i-alt"></i> </a> </div>
+              <div class="fbox-content"> <a href="/assembly-business/watch-the-assembly">
+                <h3>Watch the Assembly</h3>
+                </a>
+                <p><a class="no-link-p" href="/assembly-business/watch-the-assembly">Watch your MLA in action.</a></p>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col">
+          <li class="mega-menu-title sub-menu"> <a href="/assembly-business/assembly-records">
+            <div>Assembly Records</div>
+            </a>
+            <ul>
+              <li> <a href="/assembly-business/assembly-records/order-papers">
+                <div> <i class="icon-circle-arrow-right"></i>Order Papers</div>
+                </a> </li>
+              <li> <a href="/assembly-business/assembly-records/votes-and-proceedings">
+                <div> <i class="icon-circle-arrow-right"></i>Votes and Proceedings</div>
+                </a> </li>
+              <li> <a href="/assembly-business/assembly-records#tablings" data-scrollto="#tablings" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>Tablings</div>
+                </a> </li>
+              <li> <a href="/assembly-business/assembly-records#motions-and-questions" data-scrollto="#motions-and-questions" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>Motions and Questions</div>
+                </a> </li>
+				<li> <a href="/assembly-business/assembly-records/petitions">
+                <div> <i class="icon-circle-arrow-right"></i>Petitions</div>
+                </a> </li>
+            </ul>
+          </li>
+		  <li class="mega-menu-title sub-menu">
+             <a href="/assembly-business/assembly-records#assembly-documents">
+            <div>Assembly Documents</div>
+            </a>
+            <ul>
+              <li> <a href="/assembly-business/assembly-records#standingorders" data-scrollto="#standingorders" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>Standing Orders</div>
+                </a> </li>
+              <li> <a href="/assembly-business/assembly-records#msco" data-scrollto="#msco" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>Members’ Services Committee Orders</div>
+                </a> </li>
+            </ul>
+          </li>
+		  
+        </ul>
+        <ul class="mega-menu-column col">
+          <li class="mega-menu-title sub-menu"> <a href="/assembly-business/bills">
+            <div>Bills</div>
+            </a>
+            <ul>
+              <li> <a href="/assembly-business/bills/bills-by-legislature">
+                <div> <i class="icon-circle-arrow-right"></i>Bills by Legislature</div>
+                </a> </li>
+              <li> <a href="/assembly-business/bills/bill-status">
+                <div> <i class="icon-circle-arrow-right"></i>Bill Status</div>
+                </a> </li>
+              <li> <a href="/assembly-business/bills/daily-bill-activity">
+                <div> <i class="icon-circle-arrow-right"></i>Daily Bill Activity</div>
+                </a> </li>
+            </ul>
+          </li>
+          <li class="mega-menu-title sub-menu"> <a href="/assembly-business/transcripts">
+            <div>Transcripts</div>
+            </a>
+            <ul>
+              <li> <a href="/assembly-business/transcripts/transcripts-by-type">
+                <div> <i class="icon-circle-arrow-right"></i>Hansard Transcripts</div>
+                </a> </li>
+              <li> <a href="/assembly-business/transcripts#committee-transcripts" data-scrollto="#committee-transcripts" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>Committee Transcripts</div>
+                </a> </li>
+              <li> <a href="/assembly-business/transcripts/about-hansard">
+                <div> <i class="icon-circle-arrow-right"></i>About Hansard</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/assembly-business/committees">
+            <div>Committees of the Assembly</div>
+            </a>
+            <ul>
+              <li> <a href="/assembly-business/committees/current-business-topics">
+                <div> <i class="icon-circle-arrow-right"></i>Current Business Topics</div>
+                </a> </li>
+              <li> <a href="/assembly-business/committees/committee-reports">
+                <div> <i class="icon-circle-arrow-right"></i>Committee Reports</div>
+                </a> </li>
+              <li> <a href="/assembly-business/committees/committee-membership">
+                <div> <i class="icon-circle-arrow-right"></i>Committee Membership</div>
+                </a> </li>
+              <li> <a href="/assembly-business/committees#upcoming-meetings" data-scrollto="#upcoming-meetings" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>Upcoming Meeting Dates</div>
+                </a> </li>
+              <li class="sub-menu fly-out-item"> <a href="#">
+                <div> <i class="icon-line-more-vertical"></i>Committees</div>
+                </a>
+                <ul class="menu-pos-invert mega-fly-out megamenu-dropdown">
+                  <li> <a href="/assembly-business/committees/HS">
+                    <div>Alberta Heritage Savings Trust Fund</div>
+                    </a> </li>
+                  <li> <a href="/assembly-business/committees/EF">
+                    <div>Alberta's Economic Future</div>
+                    </a> </li>
+					 <li> <a href="/assembly-business/committees/FC">
+                    <div>Families and Communities</div>
+                    </a> </li>
+                  <li> <a href="/assembly-business/committees/CR23">
+                    <div>Conflicts of Interest Act Review</div>
+                    </a> </li>                  
+					<li> <a href="/assembly-business/committees/LO">
+                    <div>Legislative Offices</div>
+                    </a> </li>
+                  <li> <a href="/assembly-business/committees/MS">
+                    <div>Members' Services</div>
+                    </a> </li>
+                  <li> <a href="/assembly-business/committees/PB">
+                    <div>Private Bills</div>
+                    </a> </li>
+                  <li> <a href="/assembly-business/committees/PE">
+                    <div>Privileges and Elections, Standing Orders and Printing</div>
+                    </a> </li>
+                  <li> <a href="/assembly-business/committees/PA">
+                    <div>Public Accounts</div>
+                    </a> </li>
+                  <li> <a href="/assembly-business/committees/RS">
+                    <div>Resource Stewardship</div>
+                    </a> </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class="mega-menu sub-menu"> <a href="#">
+      <div>Members</div>
+      </a>
+      <div class="mega-menu-content style-2 clearfix">
+        <ul class="mega-menu-column col-lg-4">
+          <li class="mega-menu-title sub-menu"> <a href="/members/members-of-the-legislative-assembly">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-members.jpg?sfvrsn=aea74b72_2" alt="Members of the Legislative Assembly"></div>
+            <div>Members of the Legislative Assembly</div>
+            </a>
+            <ul>
+              <li> <a href="/members/members-of-the-legislative-assembly/chamber-seating-plan">
+                <div> <i class="icon-circle-arrow-right"></i>Chamber Seating Plan</div>
+                </a> </li>
+              <li> <a href="/members/members-of-the-legislative-assembly/constituencies">
+                <div> <i class="icon-circle-arrow-right"></i>Constituencies</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>        
+        <ul class="mega-menu-column col-lg-4">
+          <li class="mega-menu-title sub-menu">
+             <a href="/members#related-resources">
+            <div>Related Resources</div>
+            </a>
+            <ul>
+              <li> <a href="/members/related-resources/expense-disclosure-guidelines">
+                <div> <i class="icon-circle-arrow-right"></i>Expense Disclosure Guidelines</div>
+                </a> </li>
+              <li> <a href="/members/related-resources/mla-remuneration">
+                <div> <i class="icon-circle-arrow-right"></i>MLA Remuneration</div>
+                </a> </li>
+              <li> <a href="/members/related-resources/mla-compensation-adjustments">
+                <div> <i class="icon-circle-arrow-right"></i>MLA Compensation Adjustments</div>
+                </a> </li>
+              <li> <a href="/members/related-resources/congratulatory-certificates">
+                <div> <i class="icon-circle-arrow-right"></i>Congratulatory Certificates</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class="mega-menu sub-menu"> <a href="#">
+      <div>Visit</div>
+      </a>
+      <div class="mega-menu-content style-2 clearfix">
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/visit/plan-your-visit">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-plan-your-visit.jpg?Status=Temp&sfvrsn=a938f1c6_2" alt="Plan Your Visit"></div>
+            <div>Plan Your Visit</div>
+            </a>
+            <ul>
+              <li> <a href="/visit/plan-your-visit/visitor-security">
+                <div> <i class="icon-circle-arrow-right"></i>Visitor Security</div>
+                </a> </li>
+              <li> <a href="/visit/plan-your-visit/getting-here">
+                <div> <i class="icon-circle-arrow-right"></i>Getting Here</div>
+                </a> </li>
+				<li> <a href="/visit/plan-your-visit/legislature-grounds">
+                <div> <i class="icon-circle-arrow-right"></i>Legislature Grounds</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/visit/tours">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-tours.jpg?sfvrsn=4fcc59fa_2" alt="Tours"></div>
+            <div>Tours</div>
+            </a>
+            <ul>
+				<li> <a href="/visit/tours#public-tours" data-scrollto="#public-tours" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>Public Visitor Tours</div>
+                </a> </li>
+				<li> <a href="/visit/tours#school-tours" data-scrollto="#school-tours" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>School Tours</div>
+                </a> </li>
+				<li> <a href="/visit/tours#video-tours" data-scrollto="#video-tours" data-offset="25">
+                <div> <i class="icon-circle-arrow-right"></i>Video Tours</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/visit/events">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-events.jpg?sfvrsn=293ee142_2" alt="Events"></div>
+            <div>Events</div>
+            </a>
+            <ul>
+              <li> <a href="/visit/events/canada-day">
+                <div> <i class="icon-circle-arrow-right"></i>Canada Day</div>
+                </a> </li>
+              <li> <a href="/visit/events/celebrate-the-season">
+                <div> <i class="icon-circle-arrow-right"></i>Celebrate the Season</div>
+                </a> </li>
+              <li> <a href="/visit/events/family-day">
+                <div> <i class="icon-circle-arrow-right"></i>Family Day</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/visit/visitor-centre">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-visitor-centre.jpg?sfvrsn=bee97e27_2" alt="Visitor Centre"></div>
+            <div>Visitor Centre</div>
+            </a>
+            <ul style="z-index: 10;">
+              <!--<li> <a href="/visit/visitor-centre/agora-interpretive-centre">
+                <div> <i class="icon-circle-arrow-right"></i>Agora Interpretive Centre</div>
+                </a> </li>-->
+              <li> <a href="/visit/visitor-centre/borealis-gallery">
+                <div> <i class="icon-circle-arrow-right"></i>Borealis Gallery</div>
+                </a> </li>
+              <li> <a href="/visit/visitor-centre/pehonan-theatre">
+                <div> <i class="icon-circle-arrow-right"></i>Pehonan Theatre</div>
+                </a> </li>
+				<li> <a href="/visit/visitor-centre/capital-gifts">
+                <div> <i class="icon-circle-arrow-right"></i>Capital Gifts</div>
+                </a> </li>
+              <li> <a href="/visit/visitor-centre/Democracy-Discovery-Centre">
+                <div> <i class="icon-circle-arrow-right"></i>Democracy Discovery Centre</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </li>
+    <li class="mega-menu sub-menu"> <a href="#">
+      <div>Learn</div>
+      </a>
+      <div class="mega-menu-content style-2 clearfix">
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/learn/programs-and-resources">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-programs-and-resources.jpg?sfvrsn=df1f45ad_2" alt="Programs and Resources"></div>
+            <div>Programs and Resources</div>
+            </a>
+            <ul>
+              <li> <a href="/learn/programs-and-resources/alberta-teachers-institute">
+                <div> <i class="icon-circle-arrow-right"></i>Alberta Teachers Institute</div>
+                </a> </li>
+				
+				<li> <a href="#">
+                <div> <i class="icon-line-more-vertical"></i>Education Resources</div>
+                </a>
+                <ul class="megamenu-dropdown mega-fly-out-right">
+                  <li> <a href="/learn/programs-and-resources/mock-legislature">
+                    <div>Mock Legislature</div>
+                    </a> </li>
+                  <li> <a href="/learn/programs-and-resources/online-resources">
+                    <div>Online Resources</div>
+                    </a> </li>
+                </ul>
+              </li>
+				
+				
+				
+            
+              <li> <a href="/learn/programs-and-resources/school-at-the-legislature">
+                <div> <i class="icon-circle-arrow-right"></i>School at the Legislature</div>
+                </a> </li>
+              <li> <a href="/learn/programs-and-resources/public-service-orientation">
+                <div> <i class="icon-circle-arrow-right"></i>Public Service Orientation</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/learn/the-legislative-assembly">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-the-legislative-assembly.jpg?sfvrsn=254369dc_2" alt="The Legislative Assembly"></div>
+            <div>The Legislative Assembly</div>
+            </a>
+            <ul style="z-index:10 !important;">
+              <li> <a href="/learn/the-legislative-assembly/former-members-legacy">
+                <div> <i class="icon-circle-arrow-right"></i>Former Members' Legacy</div>
+                </a> </li>
+              <li> <a href="/learn/the-legislative-assembly/parliamentary-system">
+                <div> <i class="icon-circle-arrow-right"></i>Parliamentary System</div>
+                </a> </li>
+              <li> <a href="/learn/the-legislative-assembly/roles">
+                <div> <i class="icon-circle-arrow-right"></i>Roles</div>
+                </a> </li>
+				<li> <a href="/learn/the-legislative-assembly/the-chamber">
+                <div> <i class="icon-circle-arrow-right"></i>The Chamber</div>
+                </a> </li>
+              <li> <a href="/learn/the-legislative-assembly/the-mace-and-black-rod">
+                <div> <i class="icon-circle-arrow-right"></i>The Mace and Black Rod</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/learn/legislature-library">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-legislature-library.jpg?sfvrsn=a9b0b286_2" alt="Legislature Library"></div>
+            <div>Legislature Library</div>
+            </a>
+            <ul>
+              <li> <a href="https://librarysearch.assembly.ab.ca/" target="_blank">
+                <div> <i class="icon-circle-arrow-right"></i>Library Search<i class="icon-line-open ml-1"></i> </div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col-lg-3">
+          <li class="mega-menu-title sub-menu"> <a href="/learn/glossary">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-glossary.jpg?sfvrsn=8015b300_2" alt="Glossary"></div>
+            <div>Glossary</div>
+            </a> </li>
+        </ul>
+      </div>
+    </li>
+    <li class="mega-menu sub-menu"> <a href="#">
+      <div>About</div>
+      </a>
+      <div class="mega-menu-content style-2 clearfix">
+        <ul class="mega-menu-column col">
+          <li class="mega-menu-title sub-menu"> <a href="/about/news-and-announcements">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-news-and-announcements.jpg?sfvrsn=88309cbb_2" alt="News and Announcements"></div>
+            <div>News and Announcements</div>
+            </a>
+            <ul>
+              <li> <a href="/about/news-and-announcements/media-centre">
+                <div> <i class="icon-circle-arrow-right"></i>Media Centre</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col">
+          <li class="mega-menu-title sub-menu"> <a href="/about/careers">
+            <div class="portfolio-image bottommargin-sm"> <img class="img-thumbnail" src="/images/default-source/default-album/menu-careers.jpg?sfvrsn=967daf45_2" alt="Careers"></div>
+            <div>Careers</div>
+            </a>
+            <ul>
+              <li> <a href="/about/careers/choose-the-lao">
+                <div> <i class="icon-circle-arrow-right"></i>Choose the LAO</div>
+                </a> </li>
+              <li> <a href="/about/careers/current-opportunities">
+                <div> <i class="icon-circle-arrow-right"></i>Current Opportunities</div>
+                </a> </li>
+              <li> <a href="/about/careers/page-program">
+                <div> <i class="icon-circle-arrow-right"></i>Page Program</div>
+                </a> </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="mega-menu-column col">
+          <li class="mega-menu-title sub-menu"> <a href="/about/legislative-assembly-office">
+            <div>Legislative Assembly Office</div>
+            </a>
+            <ul>
+              <li> <a href="/about/legislative-assembly-office/reports">
+                <div> <i class="icon-circle-arrow-right"></i>Reports</div>
+                </a> </li>
+              <li> <a href="/about/legislative-assembly-office/compensation-disclosure">
+                <div> <i class="icon-circle-arrow-right"></i>Compensation Disclosure</div>
+                </a> </li>
+				<li> <a href="/about/legislative-assembly-office/legislative-security-program">
+                <div> <i class="icon-circle-arrow-right"></i>Legislative Security Program</div>
+                </a> </li>
+            </ul>
+          </li>
+          <li class="mega-menu-title sub-menu"> <a href="/about/venues">
+            <div>Venues</div>
+            </a>
+            <ul>
+              <li> <a href="/about/venues/government-bookings">
+                <div> <i class="icon-circle-arrow-right"></i>Government Bookings</div>
+                </a> </li>
+              <li> <a href="/about/venues/not-for-profit-bookings">
+                <div> <i class="icon-circle-arrow-right"></i>Not-For-Profit Bookings</div>
+                </a> </li>
+            </ul>
+          </li>
+          <li class="mega-menu-title sub-menu"> <a href="/about/contact-us">
+            <div>Contact Us</div>
+            </a> </li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+  <div id="mobile-menu-accordion" class="mobile-primary-menu my-4">
+    <div class="card-header lvl1" id="heading-assembly-business">
+      <h5 class="mb-0"> <a role="button" data-toggle="collapse" href="#collapse-assembly-business" aria-expanded="false" aria-controls="collapse-assembly-business">Assembly Business</a> </h5>
+    </div>
+    <div id="collapse-assembly-business" class="collapse" data-parent="#mobile-menu-accordion" aria-labelledby="heading-assembly-business">
+      <div class="card-header lvl2">
+        <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-dashboard">Assembly Dashboard</a> </h5>
+      </div>
+	  <div class="card-header lvl2">
+        <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/watch-the-assembly">Watch the Assembly</a> </h5>
+      </div>
+      <div id="accordion-assembly-records">
+        <div class="card-header lvl2 menu-section" id="heading-assembly-records">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-assembly-records" aria-expanded="false" aria-controls="collapse-assembly-records">Assembly Records</a> </h5>
+        </div>
+        <div id="collapse-assembly-records" class="collapse" aria-labelledby="heading-assembly-records" data-parent="#collapse-assembly-business">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records">Assembly Records - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records/order-papers">Order Papers</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records/votes-and-proceedings">Votes and Proceedings</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records#tablings" data-scrollto="#tablings" data-offset="25">Tablings</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records#motions-and-questions" data-scrollto="#motions-and-questions" data-offset="25">Motions and Questions</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records/petitions">Petitions</a> </h5>
+          </div>
+        </div>
+      </div>
+	  <div id="accordion-assembly-documents">
+        <div class="card-header lvl2 menu-section" id="heading-assembly-documents">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-assembly-documents" aria-expanded="false" aria-controls="collapse-assembly-documents">Assembly Documents</a> </h5>
+        </div>
+        <div id="collapse-assembly-documents" class="collapse" aria-labelledby="heading-assembly-documents" data-parent="#collapse-members">
+		<div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records#assembly-documents">Assembly Documents - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records#standingorders">Standing Orders</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/assembly-records#msco">Members' Services Committee Orders</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-bills">
+        <div class="card-header lvl2 menu-section" id="heading-bills">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-bills" aria-expanded="false" aria-controls="collapse-bills">Bills</a> </h5>
+        </div>
+        <div id="collapse-bills" class="collapse" aria-labelledby="heading-bills" data-parent="#collapse-assembly-business">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/bills">Bills - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/bills/bills-by-legislature">Bills by Legislature</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/bills/bill-status">Bill Status</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/bills/daily-bill-activity">Daily Bill Activity</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-transcripts">
+        <div class="card-header lvl2 menu-section" id="heading-transcripts">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-transcripts" aria-expanded="false" aria-controls="collapse-transcripts">Transcripts</a> </h5>
+        </div>
+        <div id="collapse-transcripts" class="collapse" aria-labelledby="heading-transcripts" data-parent="#collapse-assembly-business">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/transcripts">Transcripts - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/transcripts/transcripts-by-type">Hansard Transcripts</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/transcripts#committee-transcripts" data-scrollto="#committee-transcripts" data-offset="25">Committee Transcripts</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/transcripts/about-hansard">About Hansard</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-committees">
+        <div class="card-header lvl2 menu-section" id="heading-committees">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-committees" aria-expanded="false" aria-controls="collapse-committees">Committees of the Assembly</a> </h5>
+        </div>
+        <div id="collapse-committees" class="collapse" aria-labelledby="heading-committees" data-parent="#collapse-assembly-business">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees">Committees - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/current-business-topics">Current Business Topics</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/committee-reports">Committee Reports</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/committee-membership">Committee Membership</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees#upcoming-meetings" data-scrollto="#upcoming-meetings" data-offset="25">Upcoming Meeting Dates</a> </h5>
+          </div>
+          <div id="accordion-committee-list">
+            <div class="card-header lvl3 menu-section" id="heading-committee-list">
+              <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-committee-list" aria-expanded="false" aria-controls="collapse-committee-list">Committees</a> </h5>
+            </div>
+            <div id="collapse-committee-list" class="collapse" aria-labelledby="heading-committee-list">
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/HS">Alberta Heritage Savings Trust Fund</a> </h5>
+              </div>
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/EF">Alberta's Economic Future</a> </h5>
+              </div>
+			  <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/CR23">Conflicts of Interest Act Review</a> </h5>
+              </div>			  
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/FC">Families and Communities</a> </h5>
+              </div>
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/LO">Legislative Offices</a> </h5>
+              </div>
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/MS">Members' Services</a> </h5>
+              </div>
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/PB">Private Bills</a> </h5>
+              </div>
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/PE">Privileges and Elections, Standing Orders and Printing</a> </h5>
+              </div>
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/PA">Public Accounts</a> </h5>
+              </div>
+              <div class="card-header lvl4">
+                <h5 class="mb-0 font-weight-normal"> <a role="button" href="/assembly-business/committees/RS">Resource Stewardship</a> </h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-header lvl1" id="heading-members">
+      <h5 class="mb-0"> <a role="button" data-toggle="collapse" href="#collapse-members" aria-expanded="false" aria-controls="collapse-members">Members</a> </h5>
+    </div>
+    <div id="collapse-members" class="collapse" data-parent="#mobile-menu-accordion" aria-labelledby="heading-members">
+      <div id="accordion-MLAs">
+        <div class="card-header lvl2 menu-section" id="heading-MLAs">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-MLAs" aria-expanded="false" aria-controls="collapse-MLAs">Members of the Legislative Assembly</a> </h5>
+        </div>
+        <div id="collapse-MLAs" class="collapse" aria-labelledby="heading-MLAs" data-parent="#collapse-members">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/members/members-of-the-legislative-assembly">Members</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/members/members-of-the-legislative-assembly/chamber-seating-plan">Chamber Seating Plan</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/members/members-of-the-legislative-assembly/constituencies">Constituencies</a> </h5>
+          </div>
+        </div>
+      </div>      
+      <div id="accordion-related-resources">
+        <div class="card-header lvl2 menu-section" id="heading-related-resources">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-related-resources" aria-expanded="false" aria-controls="collapse-related-resources">Related Resources</a> </h5>
+        </div>
+        <div id="collapse-related-resources" class="collapse" aria-labelledby="heading-related-resources" data-parent="#collapse-members">
+		<div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/members#related-resources">Related Resources - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/members/related-resources/expense-disclosure-guidelines">Expense Disclosure Guidelines</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/members/related-resources/mla-remuneration">MLA Remuneration</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/members/related-resources/mla-compensation-adjustments">MLA Compensation Adjustments</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/members/related-resources/congratulatory-certificates">Congratulatory Certificates</a> </h5>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-header lvl1" id="heading-visit">
+      <h5 class="mb-0"> <a role="button" data-toggle="collapse" href="#collapse-visit" aria-expanded="false" aria-controls="collapse-visit">Visit</a> </h5>
+    </div>
+    <div id="collapse-visit" class="collapse" data-parent="#mobile-menu-accordion" aria-labelledby="heading-visit">
+      <div id="accordion-plan-your-visit">
+        <div class="card-header lvl2 menu-section" id="heading-plan-your-visit">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-plan-your-visit" aria-expanded="false" aria-controls="collapse-plan-your-visit">Plan Your Visit</a> </h5>
+        </div>
+        <div id="collapse-plan-your-visit" class="collapse" aria-labelledby="heading-plan-your-visit" data-parent="#collapse-visit">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/plan-your-visit">Plan Your Visit - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/plan-your-visit/visitor-security">Visitor Security</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/plan-your-visit/getting-here">Getting Here</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/plan-your-visit/legislature-grounds">Legislature Grounds</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-tours">
+        <div class="card-header lvl2 menu-section" id="heading-tours">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-tours" aria-expanded="false" aria-controls="collapse-tours">Tours</a> </h5>
+        </div>
+        <div id="collapse-tours" class="collapse" aria-labelledby="heading-tours" data-parent="#collapse-visit">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/tours">Tours - Home</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/tours#public-tours" data-scrollto="#public-tours" data-offset="25">Public Visitor Tours</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/tours#school-tours" data-scrollto="#school-tours" data-offset="25">School Tours</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/tours#video-tours" data-scrollto="#video-tours" data-offset="25">Video Tours</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-events">
+        <div class="card-header lvl2 menu-section" id="heading-events">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-events" aria-expanded="false" aria-controls="collapse-events">Events</a> </h5>
+        </div>
+        <div id="collapse-events" class="collapse" aria-labelledby="heading-events" data-parent="#collapse-visit">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/events">Events - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/events/canada-day">Canada Day</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/events/celebrate-the-season">Celebrate the Season</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/events/family-day">Family Day</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-visitor-centre">
+        <div class="card-header lvl2 menu-section" id="heading-visitor-centre">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-visitor-centre" aria-expanded="false" aria-controls="collapse-visitor-centre">Visitor Centre</a> </h5>
+        </div>
+        <div id="collapse-visitor-centre" class="collapse" aria-labelledby="heading-visitor-centre" data-parent="#collapse-visit">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/visitor-centre">Visitor Centre - Home</a> </h5>
+          </div>
+          <!--<div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/visitor-centre/agora-interpretive-centre">Agora Interpretive Centre</a> </h5>
+          </div>-->
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/visitor-centre/borealis-gallery">Borealis Gallery</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/visitor-centre/pehonan-theatre">Pehonan Theatre</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/visitor-centre/capital-gifts">Capital Gifts</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/visit/visitor-centre/Democracy-Discovery-Centre">Democracy Discovery Centre</a> </h5>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-header lvl1" id="heading-learn">
+      <h5 class="mb-0"> <a role="button" data-toggle="collapse" href="#collapse-learn" aria-expanded="false" aria-controls="collapse-learn">Learn</a> </h5>
+    </div>
+    <div id="collapse-learn" class="collapse" data-parent="#mobile-menu-accordion" aria-labelledby="heading-learn">
+      <div id="accordion-programs-and-resources">
+        <div class="card-header lvl2 menu-section" id="heading-programs-and-resources">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-programs-and-resources" aria-expanded="false" aria-controls="collapse-programs-and-resources">Programs and Resources</a> </h5>
+        </div>
+        <div id="collapse-programs-and-resources" class="collapse" aria-labelledby="heading-programs-and-resources" data-parent="#collapse-learn">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/programs-and-resources">Programs and Resources - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/programs-and-resources/alberta-teachers-institute">Alberta Teachers Institute</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/programs-and-resources/mock-legislature">Mock Legislature</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/programs-and-resources/online-resources">Online Resources</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/programs-and-resources/school-at-the-legislature">School at the Legislature</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/programs-and-resources/public-service-orientation">Public Service Orientation</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-the-legislative-assembly">
+        <div class="card-header lvl2 menu-section" id="heading-the-legislative-assembly">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-the-legislative-assembly" aria-expanded="false" aria-controls="collapse-the-legislative-assembly">The Legislative Assembly</a> </h5>
+        </div>
+        <div id="collapse-the-legislative-assembly" class="collapse" aria-labelledby="heading-the-legislative-assembly" data-parent="#collapse-learn">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/the-legislative-assembly">The Legislative Assembly - Home</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/the-legislative-assembly/former-members-legacy">Former Members' Legacy</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/the-legislative-assembly/parliamentary-system">Parliamentary System</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/the-legislative-assembly/roles">Roles</a> </h5>
+          </div>
+		  <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/the-legislative-assembly/the-chamber">The Chamber</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/the-legislative-assembly/the-mace-and-black-rod">The Mace and Black Rod</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-legislature-library">
+        <div class="card-header lvl2 menu-section" id="heading-legislature-library">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-legislature-library" aria-expanded="false" aria-controls="collapse-legislature-library">Legislature Library</a> </h5>
+        </div>
+        <div id="collapse-legislature-library" class="collapse" aria-labelledby="heading-legislature-library" data-parent="#collapse-learn">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/legislature-library">Legislature Library - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="https://librarysearch.assembly.ab.ca/">Library Search<i class="icon-line-open ml-1"></i></a> </h5>
+          </div>
+        </div>
+      </div>
+      <div class="card-header lvl2">
+        <h5 class="mb-0 font-weight-normal"> <a role="button" href="/learn/glossary">Glossary</a> </h5>
+      </div>
+    </div>
+    <div class="card-header lvl1" id="heading-about">
+      <h5 class="mb-0"> <a role="button" data-toggle="collapse" href="#collapse-about" aria-expanded="false" aria-controls="collapse-about">About</a> </h5>
+    </div>
+    <div id="collapse-about" class="collapse" data-parent="#mobile-menu-accordion" aria-labelledby="heading-about">
+      <div id="accordion-news-and-announcements">
+        <div class="card-header lvl2 menu-section" id="heading-news-and-announcements">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-news-and-announcements" aria-expanded="false" aria-controls="collapse-news-and-announcements">News and Announcements</a> </h5>
+        </div>
+        <div id="collapse-news-and-announcements" class="collapse" aria-labelledby="heading-news-and-announcements" data-parent="#collapse-about">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/news-and-announcements">News and Announcements - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/news-and-announcements/media-centre">Media Centre</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-careers">
+        <div class="card-header lvl2 menu-section" id="heading-careers">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-careers" aria-expanded="false" aria-controls="collapse-careers">Careers</a> </h5>
+        </div>
+        <div id="collapse-careers" class="collapse" aria-labelledby="heading-careers" data-parent="#collapse-about">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/careers">Careers - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/careers/choose-the-lao">Choose the LAO</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/careers/current-opportunities">Current Opportunities</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/careers/page-program">Page Program</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-legislative-assembly-office">
+        <div class="card-header lvl2 menu-section" id="heading-legislative-assembly-office">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-legislative-assembly-office" aria-expanded="false" aria-controls="collapse-legislative-assembly-office">Legislative Assembly Office</a> </h5>
+        </div>
+        <div id="collapse-legislative-assembly-office" class="collapse" aria-labelledby="heading-legislative-assembly-office" data-parent="#collapse-about">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/legislative-assembly-office">Legislative Assembly Office - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/legislative-assembly-office/reports">Reports</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/legislative-assembly-office/compensation-disclosure">Compensation Disclosure</a> </h5>
+          </div>
+		   <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/legislative-assembly-office/legislative-security-program">Legislative Security Program</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div id="accordion-venues">
+        <div class="card-header lvl2 menu-section" id="heading-venues">
+          <h5 class="mb-0"> <a class="collapsed" role="button" data-toggle="collapse" href="#collapse-venues" aria-expanded="false" aria-controls="collapse-venues">Venues</a> </h5>
+        </div>
+        <div id="collapse-venues" class="collapse" aria-labelledby="heading-venues" data-parent="#collapse-about">
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/venues">Venues - Home</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/venues/government-bookings">Government Bookings</a> </h5>
+          </div>
+          <div class="card-header lvl3">
+            <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/venues/not-for-profit-bookings">Not-For-Profit Bookings</a> </h5>
+          </div>
+        </div>
+      </div>
+      <div class="card-header lvl2">
+        <h5 class="mb-0 font-weight-normal"> <a role="button" href="/about/contact-us">Contact Us</a> </h5>
+      </div>
+    </div>
+  </div>
+</nav>
+					</div>
+				</div>
+			</header>
+			
+
+			
+<div id="page-menu" class="no-sticky">
+	<div id="page-menu-wrap" style="width:100%;">
+		<div id="pagemenu_T1CD32207004_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="pagemenu_T1CD32207005_Col00" class="sf_colsIn col" data-sf-element="Page Title" data-placeholder-label="Page Title"><h1 class="menu-title"><span>Members</span></h1>
+    </div>
+    <div id="pagemenu_T1CD32207005_Col01" class="sf_colsIn col-auto d-flex" data-sf-element="Page Menu" data-placeholder-label="Page Menu">
+
+
+
+
+
+
+<div class="accordion mb-0" id="page-menu-accordion-trigger">
+  <div id="parent-page-menu-accordion-trigger">
+    <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#page-menu-items"><i class="icon-reorder"></i></button>
+  </div>
+  <div id="page-menu-items" class="collapse" aria-labelledby="parent-page-menu-accordion-trigger" data-parent="#page-menu-accordion-trigger">
+    <div id="page-menu-accordion" class="accordion mb-0"> <div id="parent-members-members-of-the-legislative-assembly" class="page-menu-accordion-parent active">
+  <button type="button" class="btn btn-link w-100 accordion-btn-lvl1" data-toggle="collapse" data-target="#children-members-members-of-the-legislative-assembly">
+  <div>Members of the Legislative Assembly<i class="fa icon-angle-down pr-3" style="position:absolute;right:0;-webkit-transition: transform .3s ease;transition: transform .3s ease;"></i></div>
+  </button>
+</div>
+<div id="children-members-members-of-the-legislative-assembly" class="page-menu-accordion-children collapse" aria-labelledby="parent-members-members-of-the-legislative-assembly" data-parent="#page-menu-accordion"> <div class="py-2 px-4 "> <a class="page-menu-accordion-child" href="/members/members-of-the-legislative-assembly/members" target="_self">
+  <div>Members</div>
+  </a> </div>
+<div class="py-2 px-4 "> <a class="page-menu-accordion-child" href="/members/members-of-the-legislative-assembly/chamber-seating-plan" target="_self">
+  <div>Chamber Seating Plan</div>
+  </a> </div>
+<div class="py-2 px-4 "> <a class="page-menu-accordion-child" href="/members/members-of-the-legislative-assembly/constituencies" target="_self">
+  <div>Constituencies</div>
+  </a> </div>
+ </div>
+<div id="parent-members-related-resources" class="page-menu-accordion-parent ">
+  <button type="button" class="btn btn-link w-100 accordion-btn-lvl1" data-toggle="collapse" data-target="#children-members-related-resources">
+  <div>Related Resources<i class="fa icon-angle-down pr-3" style="position:absolute;right:0;-webkit-transition: transform .3s ease;transition: transform .3s ease;"></i></div>
+  </button>
+</div>
+<div id="children-members-related-resources" class="page-menu-accordion-children collapse" aria-labelledby="parent-members-related-resources" data-parent="#page-menu-accordion"> <div class="py-2 px-4 "> <a class="page-menu-accordion-child" href="/members/related-resources/expense-disclosure-guidelines" target="_self">
+  <div>Expense Disclosure Guidelines</div>
+  </a> </div>
+<div class="py-2 px-4 "> <a class="page-menu-accordion-child" href="/members/related-resources/mla-remuneration" target="_self">
+  <div>MLA Remuneration</div>
+  </a> </div>
+<div class="py-2 px-4 "> <a class="page-menu-accordion-child" href="/members/related-resources/mla-compensation-adjustments" target="_self">
+  <div>MLA Compensation Adjustments</div>
+  </a> </div>
+<div class="py-2 px-4 "> <a class="page-menu-accordion-child" href="/members/related-resources/congratulatory-certificates" target="_self">
+  <div>Congratulatory Certificates</div>
+  </a> </div>
+ </div>
+ </div>
+  </div>
+</div>
+
+<nav class="one-page-menu">
+  <ul>
+<li> <a class="active" href="/members/members-of-the-legislative-assembly" target="_self">
+  <div>Members of the Legislative Assembly</div>
+  </a>
+  <ul>
+    <li> <a class="" href="/members/members-of-the-legislative-assembly/members" target="_self">
+  <div>Members</div>
+  </a> </li>
+<li> <a class="" href="/members/members-of-the-legislative-assembly/chamber-seating-plan" target="_self">
+  <div>Chamber Seating Plan</div>
+  </a> </li>
+<li> <a class="" href="/members/members-of-the-legislative-assembly/constituencies" target="_self">
+  <div>Constituencies</div>
+  </a> </li>
+
+  </ul>
+</li>
+<li> <a class="" href="/members#related-resources" target="_self" data-scrollto=#related-resources data-offset=25>
+  <div>Related Resources</div>
+  </a>
+  <ul>
+    <li> <a class="" href="/members/related-resources/expense-disclosure-guidelines" target="_self">
+  <div>Expense Disclosure Guidelines</div>
+  </a> </li>
+<li> <a class="" href="/members/related-resources/mla-remuneration" target="_self">
+  <div>MLA Remuneration</div>
+  </a> </li>
+<li> <a class="" href="/members/related-resources/mla-compensation-adjustments" target="_self">
+  <div>MLA Compensation Adjustments</div>
+  </a> </li>
+<li> <a class="" href="/members/related-resources/congratulatory-certificates" target="_self">
+  <div>Congratulatory Certificates</div>
+  </a> </li>
+
+  </ul>
+</li>
+  </ul>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+$(document).ready(function(){$(".collapse").on("show.bs.collapse",function(){$(this).prev("div").find(".fa").removeClass("icon-angle-down").addClass("icon-angle-up")}).on("hide.bs.collapse",function(){$(this).prev("div").find(".fa").removeClass("icon-angle-up").addClass("icon-angle-down")}),$(document).on("click",function(n){var e=$("#page-menu-items").hasClass("show");$(n.target).closest("#page-menu-items").length||$(n.target).is("#page-menu-items")||!0!==e||$("#parent-page-menu-accordion-trigger > button").click()}),$("#parent-page-menu-accordion-trigger > button").on("click",function(){$("#parent-page-menu-accordion-trigger > button").toggleClass("accordion-trigger-open")})});
+</script>
+    </div>
+</div>
+		</div>
+	</div>
+</div>
+			
+<div id="breadcrumb" ><div class="row" style="margin:auto;"><div class="container"><nav aria-label="Full path to the current page"><ol class="sf-breadscrumb breadcrumb d-none d-lg-flex" style="margin-bottom: 10px !important;"><li class="breadcrumb-item"><a href="/">Home </a></li><li class="breadcrumb-item"><a href="/members/members-of-the-legislative-assembly?legl=31">Members </a></li><li class="breadcrumb-item active" aria-current="page">MLA information</li></ol><ol class="sf-breadscrumb breadcrumb d-lg-none" style="margin-bottom: 10px !important;"><li class="breadcrumb-item"><i class="icon-chevron-left mr-1"></i><a href="/members/members-of-the-legislative-assembly?legl=31">Members</a></li></ol></nav></div></div></div>
+
+			
+
+			
+<div id="content">
+	<div id="main_C001_Col00" class="sf_colsIn content-wrap pt-0" data-sf-element="Content" data-placeholder-label="Content">
+<!-- Start Parallax Image - This will be from a Sitefinity Image widget -->
+<div class="parallax skrollable skrollable-between" style="background-image: url('/images/default-source/members/071015lao_capital-plaza503.jpg'); background-size: cover; height: 450px !important; background-position: center;z-index: -1;"></div>
+<!-- End Parallax Image --> <div id="main_C002_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container">    <div id="mlainfo">
+    <!--"margin-top:-500px !important;"-->
+    <div class="container mb-5" id="mla-header"> 
+        <div class="card shadow p-4" style="background-color: #b2ae80">
+            <div class="card">
+                <div class="card-header">
+                    <!-- Start Row for MLA Photo/Name/etc. -->
+                    <div class="row p-2 p-md-3">
+                    <div class="col-lg-2 my-3 d-flex justify-content-center h-100"><img class="img-thumbnail" src="/images/default-source/members/mla-photos/ph-mla0814.jpg" alt="Danielle Smith"></div><div class="col-lg-6 my-3 px-3 px-lg-0"><div class="heading-block noborder mb-1 mt-n2"><h2 class="nott ls1" style="line-height: 1.2">Honourable Premier<br />Danielle Smith, ECA</h2></div><h4 class="color mb-0"><div>Premier of Alberta</div>
+<div>President of Executive Council</div>
+<div>Minister of Intergovernmental and International Relations</div>
+</h4><p class="m-0">United Conservative Caucus</p><p class="m-0">MLA for Brooks-Medicine Hat</p><p class="m-0">Current Member</p></div>
+                    <!-- End MLA photo/name -->
+
+                    <!-- Start Intro Video -->
+                    <div class="col-lg-4 mla-intro">
+                        <div class="flip-card text-center top-to-bottom">
+                            <div class="flip-card-front dark no-after" data-height-xl="176" style="background-image: url(&quot/images/default-source/members/related-resources/widgetbg_memberintrovid.jpg?Status=Temp&sfvrsn=9ad72233_2&quot;); height: 176px;">
+                                <div class="flip-card-inner">
+                                    <em class="icon-line-video h1 m-0"></em>
+                                    <h3 class="card-title m-0">Introductory Video</h3>
+                                </div>
+                            </div>
+                            <div class="flip-card-back dark no-after" data-height-xl="176" style="background-color: rgb(98, 154, 151); height: 176px;">
+                                <div class="flip-card-inner">
+                                    <p class="mb-2 text-white">Watch the Member's Introductory Video.</p>                                    
+                                        
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Intro Video -->
+                    </div>
+                </div>
+            </div>
+            <div class="card-body bg-white mla-contact"><div class="row border-bottom ml-0 mr-0"><div class="col-lg-2 pb-2"><h5 class="mb-0">Legislature Office</h5></div><div class="col-lg-3 pb-2">307 Legislature Building<br/>10800 - 97 Avenue NW<br/>Edmonton, AB T5K&nbsp;2B6</div><div class="col-lg-auto pb-2"></div></div><div class="row border-bottom pt-2 ml-0 mr-0"><div class="col-lg-2 pb-2"><h5 class="mb-0">Main Office</h5></div><div class="col-lg-3 pb-2">Unit A, 503 4th Avenue West<br/>Brooks, AB T1R&nbsp;0B3<br/><a target="_blank" href="https://maps.app.goo.gl/Bw2Na1GEWDcGLGvx6"><i class="icon-external-link mr-1"></i>Google Map</a></div><div class="col-lg-auto pb-2"><i class="icon-phone3 color lbl-icon"></i><span class="lbl-type">Phone</span> <a href="tel:5872705110">587.270.5110</a><br/><i class="icon-fax color lbl-icon"></i><span class="lbl-type">Fax</span> <a href="tel:5872705113">587.270.5113</a><br/><i class="icon-email3 color lbl-icon"></i> <a title="Brooks.MedicineHat@assembly.ab.ca" href="mailto:Brooks.MedicineHat@assembly.ab.ca">Brooks.MedicineHat@assembly.ab.ca</a></div></div><div class="row border-bottom pt-2 ml-0 mr-0"><div class="col-lg-2 pb-2"><h5 class="mb-0">Satellite Office</h5></div><div class="col-lg-3 pb-2">740 Division Avenue N<br/>Medicine Hat, AB T1A&nbsp;5Y3<br/><a target="_blank" href="https://goo.gl/maps/xNdY7JM2QUNNheBG9"><i class="icon-external-link mr-1"></i>Google Map</a></div><div class="col-lg-auto pb-2"><i class="icon-phone3 color lbl-icon"></i><span class="lbl-type">Phone</span> <a href="tel:4035275622">403.527.5622</a><br/><i class="icon-email3 color lbl-icon"></i> <a title="Brooks.MedicineHat@assembly.ab.ca" href="mailto:Brooks.MedicineHat@assembly.ab.ca">Brooks.MedicineHat@assembly.ab.ca</a></div></div><div class="row border-bottom pt-2 ml-0 mr-0"><div class="col-lg-auto pb-2"><i class="icon-external-link color" style="width:20px;float:left;"></i><a target=_blank href="https://www.alberta.ca/premier-contact.cfm">Contact Premier's Office</a></div></div></div>
+        </div>
+    </div>
+
+    <div class="sf_colsIn container justify-content-center" data-sf-element="Content" data-placeholder-label="Content">
+        <div>
+            <div class="feature-box fbox-center fbox-plain fbox-small mla-map">
+                <div class="fbox-icon mb-3"><i class="icon-map1 "></i></div>
+                <h3>Constituency Map</h3>
+                <span class="subtitle color-heading"><a target="_blank" href="https://librarysearch.assembly.ab.ca/client/en_CA/search/asset/212638/0">Brooks-Medicine Hat</a></span>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="my-5">
+        <nav class="container">
+            <div class="nav nav-tabs nav-justified" id="nav-tab" role="tablist">
+                <a class="nav-item nav-link active dark border-0" id="nav-home-tab" data-toggle="tab" href="#nav-home" style="background-color: #588a88" role="tab" aria-controls="nav-home" aria-selected="true">
+                    <h4 class="m-0"><i class="icon-user"></i>&nbsp;Profile</h4>
+                </a><a class="nav-item nav-link dark border-0" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" style="background-color: #036b67" role="tab" aria-controls="nav-profile" aria-selected="false">
+                    <h4 class="m-0"><i class="icon-user-edit "></i>&nbsp;Roles</h4>
+                </a><a class="nav-item nav-link dark border-0" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" style="background-color: #014c49" role="tab" aria-controls="nav-contact" aria-selected="false">
+                    <h4 class="m-0"><i class="icon-user-lock"></i>&nbsp;Work</h4>
+                </a>
+            </div>
+        </nav>
+
+        <div class="tab-content " id="nav-tabContent">
+            <div class="card-body tab-pane show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab" style="background-color: #588a88">
+                <div role="tablist" class="toggle mx-auto" id="profile" style="margin-bottom: 0;">
+                    <div class="mla-bio card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#bio-collapse" class="card-header noborder togglet toggleta" role="tab" id="bio">
+                            <a data-toggle="collapse" href="#bio-collapse" aria-expanded="false" aria-controls="bio-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Biography</a>
+                        </div>
+                        <div id="bio-collapse" class="collapse" role="tabpanel" aria-labelledby="bio" data-parent="#bio" style="">
+                            <div class="card-body"><div id="mla_bio">
+<h4 class="color mb-3"><div>Premier of Alberta</div>
+<div>President of Executive Council</div>
+<div>Minister of Intergovernmental and International Relations</div>
+</h4><p>The Honourable Danielle Smith was sworn-in as Alberta’s 19th Premier on October 11, 2022. She was re-elected as the Member of the Legislative Assembly for the constituency of Brooks-Medicine Hat on May 29, 2023.</p>
+<p>Danielle Smith was first elected as the Member of the Legislative Assembly for Highwood on April 23, 2012. She served as leader of the Wildrose Party of Alberta from October 17, 2009, to December 17, 2014.</p>
+<p>She previously served on the Special Standing Committee on Members’ Services and the Standing Committee on Alberta’s Economic Future.</p>
+<p>Prior to entering politics, Ms. Smith was the director of provincial affairs for Alberta with the Canadian Federation of Independent Business, CFIB. She worked with all levels of government to represent the interests of CFIB’s 10,000 small-business members in Alberta.</p>
+<p>Before joining CFIB, Ms. Smith had extensive experience in the media. She was an editorial writer and columnist at the Calgary Herald for six years. She served as host of Global Sunday, a national current affairs television talk show, and was also the host of two programs on CKMX 1060 AM radio in Calgary, Health Frontiers and Standing Ground. She has made frequent guest appearances as a commentator on TV and radio.</p>
+<p>Ms. Smith’s public policy experience began with an internship at the Fraser Institute. She was also elected as a trustee for the Calgary board of education and served as the director of the Alberta Property Rights Initiative and the Canadian Property Rights Research Institute.</p>
+<p>Smith received a BA in English and a BA in economics from the University of Calgary. She married her husband, David Moretta in 2006 and is the proud stepmother of David’s son Jonathan. Danielle and David live in High River with their two dogs, Caine and Turk.</p>  
+<p>She was the 814th Member of the Legislative Assembly of Alberta.</p></div>
+</div>
+                        </div>
+                    </div>
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#datesofservice-collapse" class="card-header noborder togglet toggleta" role="tab" id="datesofservice">
+                            <a data-toggle="collapse" href="#datesofservice-collapse" aria-expanded="false" aria-controls="datesofservice-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Dates of Service as Member</a>
+                        </div>
+                        <div id="datesofservice-collapse" class="collapse" role="tabpanel" aria-labelledby="datesofservice" data-parent="#datesofservice" style="">
+                            <div class="card-body">
+                                <div class="table-responsive"><div id="mla_dos">
+<div class="mla_dos th mla_table">
+<div class="col1"><span class="label"></span><span class="data">Start Date</span></div>
+<div class="col2"><span class="label"></span><span class="data">End Date</span></div>
+<div class="col3"><span class="label"></span><span class="data">Total Days</span></div>
+<div class="col4"><span class="label"></span><span class="data"></span></div>
+</div>
+<div class="mla_dos mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2022-Nov-08</span></div>
+<div class="col2"><span class="label">End</span><span class="data">Current</span></div>
+<div class="col3"><span class="label">Total</span><span class="data">1,005 Days (to date)<div>2 Years, 9 Months, 1 Day</div></span></div>
+<div class="col4"><span class="label">Note</span><span class="data"></span></div>
+</div>
+<div class="mla_dos mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2012-Apr-23</span></div>
+<div class="col2"><span class="label">End</span><span class="data">2015-May-04</span></div>
+<div class="col3"><span class="label">Total</span><span class="data">1,107 Days <div>3 Years, 0 Months, 12 Days</div></span></div>
+<div class="col4"><span class="label">Note</span><span class="data"></span></div>
+</div>
+<style>#mla_dos .col4{display:none !important;}</style></div>
+</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#elections-collapse" class="card-header noborder togglet toggleta" role="tab" id="elections">
+                            <a data-toggle="collapse" href="#elections-collapse" aria-expanded="false" aria-controls="elections-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Contested Elections and Constituencies</a>
+                        </div>
+                        <div id="elections-collapse" class="collapse" role="tabpanel" aria-labelledby="elections" data-parent="#elections" style="">
+                            <div class="card-body"><div id="mla_cec">
+<div class="mla_cec th mla_table">
+<div class="col1"><span class="label"></span><span class="data">Election Date</span></div>
+<div class="col2"><span class="label"></span><span class="data">Election Type</span></div>
+<div class="col3"><span class="label"></span><span class="data">Party</span></div>
+<div class="col4"><span class="label"></span><span class="data">Constituency</span></div>
+<div class="col5"><span class="label"></span><span class="data">Result</span></div>
+<div class="col6"><span class="label"></span><span class="data">Legislature</span></div>
+</div>
+<div class="mla_cec mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2023-May-29</span></div>
+<div class="col2"><span class="label">Type</span><span class="data">General Election</span></div>
+<div class="col3"><span class="label">Party</span><span class="data">United Conservative</span></div>
+<div class="col4"><span class="label">Constituency</span><span class="data">Brooks-Medicine Hat</span></div>
+<div class="col5"><span class="label">Result</span><span class="data">Elected</span></div>
+<div class="col6"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="mla_cec mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2022-Nov-08</span></div>
+<div class="col2"><span class="label">Type</span><span class="data">By-election</span></div>
+<div class="col3"><span class="label">Party</span><span class="data">United Conservative</span></div>
+<div class="col4"><span class="label">Constituency</span><span class="data">Brooks-Medicine Hat</span></div>
+<div class="col5"><span class="label">Result</span><span class="data">Elected</span></div>
+<div class="col6"><span class="label">Legislature</span><span class="data">30</span></div>
+</div>
+<div class="mla_cec mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2012-Apr-23</span></div>
+<div class="col2"><span class="label">Type</span><span class="data">General Election</span></div>
+<div class="col3"><span class="label">Party</span><span class="data">Wildrose Alliance</span></div>
+<div class="col4"><span class="label">Constituency</span><span class="data">Highwood</span></div>
+<div class="col5"><span class="label">Result</span><span class="data">Elected</span></div>
+<div class="col6"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+</div>
+</div>
+                        </div>
+                    </div>
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#party-collapse" class="card-header noborder togglet toggleta" role="tab" id="party">
+                            <a data-toggle="collapse" href="#party-collapse" aria-expanded="false" aria-controls="party-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Party Affiliation</a>
+                        </div>
+                        <div id="party-collapse" class="collapse" role="tabpanel" aria-labelledby="party" data-parent="#party" style="">
+                            <div class="card-body"><div id="mla_pa">
+<div class="mla_pa th mla_table">
+<div class="col1"><span class="label"></span><span class="data">Start Date</span></div>
+<div class="col2"><span class="label"></span><span class="data">End Date</span></div>
+<div class="col3"><span class="label"></span><span class="data">Party</span></div>
+</div>
+<div class="mla_pa mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2022-Nov-08</span></div>
+<div class="col2"><span class="label">End</span><span class="data">Current</span></div>
+<div class="col3"><span class="label">Party</span><span class="data">United Conservative</span></div>
+</div>
+<div class="mla_pa mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2014-Dec-17</span></div>
+<div class="col2"><span class="label">End</span><span class="data">2015-May-04</span></div>
+<div class="col3"><span class="label">Party</span><span class="data">Progressive Conservative</span></div>
+</div>
+<div class="mla_pa mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2012-Apr-23</span></div>
+<div class="col2"><span class="label">End</span><span class="data">2014-Dec-17</span></div>
+<div class="col3"><span class="label">Party</span><span class="data">Wildrose Alliance</span></div>
+</div>
+</div>
+</div>
+                        </div>
+                    </div>
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#edr-collapse" class="card-header noborder togglet toggleta" role="tab" id="edr">
+                            <a data-toggle="collapse" href="#edr-collapse" aria-expanded="false" aria-controls="edr-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Expense Disclosure Reports</a>
+                        </div>
+                        <div id="edr-collapse" class="collapse" role="tabpanel" aria-labelledby="edr" data-parent="#edr" style="">
+                            <div class="card-body"><div class="head">All available Expense Disclosure reports for this Member.</div><div id="edr">
+<div class="head"><a href="/members/related-resources/expense-disclosure-guidelines">Expense Disclosure Guidelines</a></div>
+<div class="edr th mla_table">
+<div class="col1"><span class="label"></span><span class="data">PDF</span></div>
+<div class="col2"><span class="label"></span><span class="data"><span class="rwd-show">Year</span><span class="rwd-hide">Fiscal Year</span></span></div>
+<div class="col3"><span class="label"></span><span class="data"><span class="rwd-show">Quarter</span><span class="rwd-hide">Fiscal Quarter</span></span></div>
+<div class="col4"><span class="label"></span><span class="data">Legislature</span></div>
+</div>
+<div class="new edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2026Q1_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2025-2026</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q1</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2025Q4_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2024-2025</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q4</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2025Q3_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2024-2025</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q3</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2025Q2_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2024-2025</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q2</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2025Q1_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2024-2025</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q1</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2024Q4_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2023-2024</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q4</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2024Q3_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2023-2024</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q3</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2024Q2_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2023-2024</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q2</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2024Q1_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2023-2024</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q1</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">31</span></div>
+</div>
+<div class="new edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2023Q4_00_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2022-2023</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q4</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">30</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2023Q3_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2022-2023</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q3</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">30</span></div>
+</div>
+<div class="new edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2016Q1_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2015-2016</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q1</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2015Q4_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2014-2015</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q4</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2015Q3_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2014-2015</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q3</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2015Q2_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2014-2015</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q2</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2015Q1_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2014-2015</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q1</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2014Q4_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2013-2014</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q4</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2014Q3_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2013-2014</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q3</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2014Q2_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2013-2014</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q2</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2014Q1_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2013-2014</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q1</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+<div class="edr mla_table">
+<div class="col1"><span class="label">PDF</span><span class="data"><a target="_blank" href="https://docs.assembly.ab.ca/LADDAR_files/docs/edr/0814_2013Q4_01_edr.pdf"><i class="icon-file-pdf1 mr-1"></i>Report</a></span></div>
+<div class="col2"><span class="label">Year</span><span class="data">2012-2013</span></div>
+<div class="col3"><span class="label">Quarter</span><span class="data">Q4</span></div>
+<div class="col4"><span class="label">Legislature</span><span class="data">28</span></div>
+</div>
+</div>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body tab-pane" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab" style="background-color: #036b67">
+                <div role="tablist" class="toggle mx-auto" id="roles" style="margin-bottom: 0;">
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#offices-collapse" class="card-header noborder togglet toggleta" role="tab" id="offices">
+                            <a data-toggle="collapse" href="#offices-collapse" aria-expanded="false" aria-controls="offices-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Offices and Roles</a>
+                        </div>
+                        <div id="offices-collapse" class="collapse" role="tabpanel" aria-labelledby="offices" style="">
+                            <div class="card-body"><div id="mla_or">
+<div class="mla_or th mla_table">
+<div class="col1"><span class="label"></span><span class="data">Start Date</span></div>
+<div class="col2"><span class="label"></span><span class="data">End Date</span></div>
+<div class="col3"><span class="label"></span><span class="data">Service Type</span></div>
+<div class="col4"><span class="label"></span><span class="data">Position</span></div>
+</div>
+<div class="mla_or mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2022-Oct-11</span></div>
+<div class="col2"><span class="label">End</span><span class="data">Current</span></div>
+<div class="col3"><span class="label">Type</span><span class="data">Executive Council</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Minister of Intergovernmental Relations</span></div>
+</div>
+<div class="mla_or mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2022-Oct-11</span></div>
+<div class="col2"><span class="label">End</span><span class="data">Current</span></div>
+<div class="col3"><span class="label">Type</span><span class="data">Executive Council</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">President of the Executive Council (Premier)</span></div>
+</div>
+<div class="mla_or mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2013-Dec-11</span></div>
+<div class="col2"><span class="label">End</span><span class="data">2014-Dec</span></div>
+<div class="col3"><span class="label">Type</span><span class="data">Opposition</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Critic for Aboriginal Relations</span></div>
+</div>
+<div class="mla_or mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2012-May-01</span></div>
+<div class="col2"><span class="label">End</span><span class="data">2013</span></div>
+<div class="col3"><span class="label">Type</span><span class="data">Opposition</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Critic for Cities (Calgary and Edmonton)</span></div>
+</div>
+<div class="mla_or mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2012-May-01</span></div>
+<div class="col2"><span class="label">End</span><span class="data">2013</span></div>
+<div class="col3"><span class="label">Type</span><span class="data">Opposition</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Critic for International, Intergovernmental and Aboriginal Relations</span></div>
+</div>
+<div class="mla_or mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2012-May-01</span></div>
+<div class="col2"><span class="label">End</span><span class="data">2014-Dec</span></div>
+<div class="col3"><span class="label">Type</span><span class="data">Opposition</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Critic for Executive Council</span></div>
+</div>
+<div class="mla_or mla_table">
+<div class="col1"><span class="label">Start</span><span class="data">2012-Apr-23</span></div>
+<div class="col2"><span class="label">End</span><span class="data">2014-Dec-17</span></div>
+<div class="col3"><span class="label">Type</span><span class="data">Legislative Assembly</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Leader of the Official Opposition</span></div>
+</div>
+</div>
+</div>
+                        </div>
+                    </div>
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#committees-collapse" class="card-header noborder togglet toggleta" role="tab" id="committees">
+                            <a data-toggle="collapse" href="#committees-collapse" aria-expanded="false" aria-controls="committees-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Legislative Committees</a>
+                        </div>
+                        <div id="committees-collapse" class="collapse" role="tabpanel" aria-labelledby="committees" style="">
+                            <div class="card-body"><div id="mla_lcm">
+<div class="mla_lcm th mla_table">
+<div class="col1"><span class="label"></span><span class="data">Legislature</span></div>
+<div class="col2"><span class="label"></span><span class="data">Session</span></div>
+<div class="col3"><span class="label"></span><span class="data">Committee Name</span></div>
+<div class="col4"><span class="label"></span><span class="data">Position</span></div>
+</div>
+<div class="mla_lcm mla_table">
+<div class="col1"><span class="label">Legislature</span><span class="data">28</span></div>
+<div class="col2"><span class="label">Session</span><span class="data">3</span></div>
+<div class="col3"><span class="label">Name</span><span class="data">Standing Committee on the Alberta Heritage Savings Trust Fund</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Member</span></div>
+</div>
+<div class="mla_lcm mla_table">
+<div class="col1"><span class="label">Legislature</span><span class="data">28</span></div>
+<div class="col2"><span class="label">Session</span><span class="data">1</span></div>
+<div class="col3"><span class="label">Name</span><span class="data">Special Standing Committee on Members' Services</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Member</span></div>
+</div>
+<div class="mla_lcm mla_table">
+<div class="col1"><span class="label">Legislature</span><span class="data">28</span></div>
+<div class="col2"><span class="label">Session</span><span class="data">1</span></div>
+<div class="col3"><span class="label">Name</span><span class="data">Standing Committee on Alberta's Economic Future</span></div>
+<div class="col4"><span class="label">Position</span><span class="data">Member</span></div>
+</div>
+</div>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body tab-pane" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab" style="background-color: #014c49">
+                <div role="tablist" class="toggle mx-auto" id="work" style="margin-bottom: 0;">
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#votes-collapse" class="card-header noborder togglet toggleta" role="tab" id="votes">
+                            <a data-toggle="collapse" href="#votes-collapse" aria-expanded="false" aria-controls="votes-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Recorded Votes</a>
+                        </div>
+                        <div id="votes-collapse" class="collapse" role="tabpanel" aria-labelledby="votes" data-parent="#votes" style="">
+                            <div class="card-body"><div id="division">
+<div class="head">Member's recorded votes for the current Legislature and Session.</div><div class="division th mla_table">
+<div class="col1"><span class="label"></span><span class="data">Date</span></div>
+<div class="col2"><span class="label"></span><span class="data">Subject</span></div>
+<div class="col3"><span class="label"></span><span class="data">Member Voted</span></div>
+<div class="col4"><span class="label"></span><span class="data">Vote Result</span></div>
+<div class="col5"><span class="label"></span><span class="data">Legislature</span></div>
+<div class="col6"><span class="label"></span><span class="data">Session</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2025-May-14</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12077&anchor=g12077#g12077">Bill 49, Third Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2025-Mar-25</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12071&anchor=g12071#g12071">Bill 42, Second Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Dec-03</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12051&anchor=g12051#g12051">Bill 29, Third Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Dec-03</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12051&anchor=g12051#g12051">Bill 29, Third Reading, Amendment HA1</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Nay</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Defeated</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Dec-03</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12050&anchor=g12050#g12050">Bill 27, Third Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Dec-03</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12050&anchor=g12050#g12050">Bill 27, Third Reading, Amendment HA1</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Nay</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Defeated</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Dec-03</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12049&anchor=g12049#g12049">Bill 26, Third Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Dec-03</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12049&anchor=g12049#g12049">Bill 26, Amendment HA1, Third Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Nay</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Defeated</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Dec-02</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data">Government Motion 53</span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Oct-31</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12049&anchor=g12049#g12049">Bill 26, First Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Oct-30</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12046&anchor=g12046#g12046">Bill 24, Committee of the Whole, Amendment A2</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Nay</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Defeated</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Oct-30</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12046&anchor=g12046#g12046">Bill 24, Committee of the Whole, Amendment A1</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Nay</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Defeated</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-May-29</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12042&anchor=g12042#g12042">Bill 22, Third Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-May-29</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12042&anchor=g12042#g12042">Bill 22, Third Reading, Amendment RA1</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Nay</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Defeated</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-May-28</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data">Government Motion 45</span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-May-23</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data">Government Motion 40</span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-May-23</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data">Government Motion 39</span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-May-15</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data">Government Motion 36</span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-May-14</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12025&anchor=g12025#g12025">Bill 11, Third Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Mar-21</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data">2024-25 Government Estimates, General Revenue Fund</span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2024-Feb-28</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data">Government Motion 16</span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2023-Nov-20</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12015&anchor=g12015#g12015">Bill 201, Second Reading, Reasoned Amendment RA1</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2023-Nov-07</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12007&anchor=g12007#g12007">Bill 1, Third Reading</a></span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="division mla_table">
+<div class="col1"><span class="label">Date</span><span class="data">2023-Oct-31</span></div>
+<div class="col2"><span class="label">Subject</span><span class="data">Government Motion 8</span></div>
+<div class="col3"><span class="label">Member Voted</span><span class="data">Yea</span></div>
+<div class="col4"><span class="label">Vote Result</span><span class="data">Passed</span></div>
+<div class="col5"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col6"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+</div>
+</div>
+                        </div>
+                    </div>
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#bills-collapse" class="card-header noborder togglet toggleta" role="tab" id="bills">
+                            <a data-toggle="collapse" href="#bills-collapse" aria-expanded="false" aria-controls="bills-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Bills Sponsored</a>
+                        </div>
+                        <div id="bills-collapse" class="collapse" role="tabpanel" aria-labelledby="bills" data-parent="#bills" style="">
+                            <div class="card-body"><div id="sponsor">
+<div class="head">Bills sponsored by this Member.</div><div class="sponsor th mla_table">
+<div class="col1"><span class="label"></span><span class="data">Bill</span></div>
+<div class="col2"><span class="label"></span><span class="data">Title</span></div>
+<div class="col3"><span class="label"></span><span class="data">Legislature</span></div>
+<div class="col4"><span class="label"></span><span class="data">Session</span></div>
+</div>
+<div class="sponsor mla_table">
+<div class="col1"><span class="label">Bill</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12007&anchor=g12007#g12007">Bill 1</a></span></div>
+<div class="col2"><span class="label">Title</span><span class="data">Alberta Taxpayer Protection Amendment Act, 2023</span></div>
+<div class="col3"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col4"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="sponsor mla_table">
+<div class="col1"><span class="label">Bill</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=31&session=1&billinfoid=12036&anchor=g12036#g12036">Bill 18</a></span></div>
+<div class="col2"><span class="label">Title</span><span class="data">Provincial Priorities Act</span></div>
+<div class="col3"><span class="label">Legislature</span><span class="data">31</span></div>
+<div class="col4"><span class="label">Session</span><span class="data">1</span></div>
+</div>
+<div class="sponsor mla_table">
+<div class="col1"><span class="label">Bill</span><span class="data"><a href="/assembly-business/assembly-dashboard?legl=30&session=4&billinfoid=11984&anchor=g11984#g11984">Bill 1</a></span></div>
+<div class="col2"><span class="label">Title</span><span class="data">Alberta Sovereignty Within a United Canada Act</span></div>
+<div class="col3"><span class="label">Legislature</span><span class="data">30</span></div>
+<div class="col4"><span class="label">Session</span><span class="data">4</span></div>
+</div>
+</div>
+</div>
+                        </div>
+                    </div>
+                    <div class="card noborder my-1 toggle toggle-bg">
+                        <div data-toggle="collapse" href="#hansard-collapse" class="card-header noborder togglet toggleta" role="tab" id="hansard">
+                            <a data-toggle="collapse" href="#hansard-collapse" aria-expanded="false" aria-controls="hansard-collapse" class="collapsed"><i class="toggle-closed icon-chevron-up1"></i><i class="toggle-open icon-chevron-down1"></i>Hansard Speaker Index</a>
+                        </div>
+                        <div id="hansard-collapse" class="collapse" role="tabpanel" aria-labelledby="hansard" data-parent="#hansard" style="">
+                            <div class="card-body"><div id="mla_index">
+<div class="head">The Hansard Speaker Index organizes subjects by Member. Use the link below to access the Hansard Speaker Index for the current Legislature.</div><div><a target=_blank href="/assembly-business/transcripts/transcript-index?docid=76964&type=speaker&record=hansard&mode=detailed&letter=S">Transcript Speaker Index</a></div></div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="sf_colsIn container justify-content-center" data-sf-element="Content" data-placeholder-label="Content">
+        <div>
+            <div class="feature-box fbox-center fbox-plain fbox-small mla-csv">
+                <div class="fbox-icon mb-3"><i class="icon-line-download "></i></div>
+                <h3>MLA Information</h3>
+                <span class="subtitle color-heading"><a href="/txt/mla_info/Smith-0814.csv">CSV Download</a></span>
+            </div>
+        </div>
+    </div>
+        </div>
+<style>.mla-intro{display:none;}
+</style>
+
+
+
+
+</div>
+
+	</div>
+</div>
+
+			
+
+			<footer id="footer" class="dark">
+				
+<div id="footer_T56F3FA55017_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row footer-widgets-wrap  clearfix" data-sf-element="Row">
+    <div id="footer_T56F3FA55065_Col00" class="sf_colsIn col-md-6 col-lg-4 mb-4 mb-md-0" data-sf-element="Column 1" data-placeholder-label="Column 1"><div id="footer_T56F3FA55066_Col00" class="sf_colsIn" data-sf-element="Non-Searchable Content" data-placeholder-label="Non-Searchable Content">
+<div >
+    <div ><h4 class="border-bottom border-teal pb-2 mb-3">Quick Access</h4>
+<ul class="iconlist mb-0">
+    <li><a href="/members/members-of-the-legislative-assembly"><span class="icon-circle-arrow-right"></span>Members</a></li>
+    <li><a href="/assembly-business/watch-the-assembly"><span class="icon-circle-arrow-right"></span>Watch the Assembly</a></li>
+    <li><a href="/assembly-business/assembly-dashboard"><span class="icon-circle-arrow-right"></span>Assembly Dashboard</a></li>
+    <li><a href="/assembly-business/committees"><span class="icon-circle-arrow-right"></span>Committees of the Assembly</a></li>
+    <li><a href="/visit/tours"><span class="icon-circle-arrow-right"></span>Tours</a></li>
+    <li><a href="/learn/programs-and-resources/education-resources/online-resources"><span class="icon-circle-arrow-right"></span>Online Resources</a></li>
+    <li><a href="/learn/the-legislative-assembly/roles/independent-officers-of-the-legislature"><span class="icon-circle-arrow-right"></span>Independent Officers of the Legislature</a></li>
+    <li><a href="/learn/glossary"><span class="icon-circle-arrow-right"></span>Glossary</a></li>
+    <li><a href="/terms-of-use-for-audio-and-video-recordings"><span class="icon-circle-arrow-right"></span>Audio-Video Terms of Use</a></li>
+</ul></div>    
+</div>
+</div>
+    </div>
+    <div id="footer_T56F3FA55065_Col01" class="sf_colsIn col-md-6 col-lg-4 mb-4 mb-md-5 mb-lg-0" data-sf-element="Column 2" data-placeholder-label="Column 2"><div id="footer_T56F3FA55067_Col00" class="sf_colsIn" data-sf-element="Non-Searchable Content" data-placeholder-label="Non-Searchable Content">
+<div >
+    <div ><h4 class="border-bottom border-teal pb-2 mb-3">External Links</h4><ul class="iconlist mb-0"><li><a href="http://www.alberta.ca/" target="_blank"><span class="icon-line-open"></span>Government of Alberta</a></li><li><a href="https://www.lieutenantgovernor.ab.ca/" target="_blank"><span class="icon-line-open"></span>Lieutenant Governor of Alberta</a></li><li><a href="http://www.parl.ca/" target="_blank"><span class="icon-line-open"></span>Parliament of Canada</a></li><li><a href="http://www.canada.ca/" target="_blank"><span class="icon-line-open"></span>Government of Canada</a></li><li><a href="https://www.gg.ca/en" target="_blank"><span class="icon-line-open"></span>Governor General of Canada</a></li><li><a href="/provincial-and-territorial-legislatures"><span class="icon-circle-arrow-right"></span>Provincial and Territorial Legislatures</a></li></ul></div>    
+</div>
+</div>
+    </div>
+    <div id="footer_T56F3FA55065_Col02" class="sf_colsIn col-lg-4 mt-md-4 mt-lg-n2 pl-lg-4" data-sf-element="Column 3" data-placeholder-label="Column 3"><div id="footer_T56F3FA55069_Col00" class="sf_colsIn" data-sf-element="Non-Searchable Content" data-placeholder-label="Non-Searchable Content">
+<div class="widget">
+  <div class="feature-box fbox-plain" >
+    <div class="fbox-icon">
+      <a href=/about/contact-us  ><i class="icon-address-card"></i></a>
+    </div>
+    <h3></h3>
+    <p><h3><a href="/about/contact-us">Contact Us</a></h3><h5>Legislative Assembly of Alberta</h5>9820 - 107 Street, NW<br>Edmonton, Alberta T5K 1E7</p>
+  </div>
+</div>
+</div>
+    </div>
+</div>
+
+</div>
+
+				<div id="copyrights">
+					
+<div id="copyright_T56F3FA55018_Col00" class="sf_colsIn container" data-sf-element="Container" data-placeholder-label="Container"><div class="row" data-sf-element="Row">
+    <div id="copyright_T56F3FA55020_Col00" class="sf_colsIn col-12 col-lg-8 text-center m-auto" data-sf-element="Column 1" data-placeholder-label="Column 1">
+<div >
+    <div ><ul class="entry-meta m-0"><li class="m-0 float-none float-lg-left">© 2025 Legislative Assembly of Alberta. All Rights Reserved. / &nbsp;<a href="/disclaimer">Disclaimer</a>&nbsp; / &nbsp;<a href="/privacy-statement">Privacy Statement</a>&nbsp; / &nbsp;<a href="/accessibility">Accessibility</a>&nbsp; / &nbsp;<a href="/social-media">Social Media</a>&nbsp; / &nbsp;<a href="/sitemap">Sitemap</a></li></ul></div>    
+</div>
+    </div>
+    <div id="copyright_T56F3FA55020_Col01" class="sf_colsIn col-12 col-lg-4 text-center" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="mt-3 mt-xl-0 float-none float-lg-right d-inline-block">
+  <a href="https://www.facebook.com/LegAssemblyofAB" class="social-icon si-small si-borderless si-facebook" data-toggle="tooltip" data-placement="top" data-original-title="Facebook" title="Facebook" target="_blank"><i class="icon-facebook"></i><i class="icon-facebook"></i></a>
+  <a href="https://twitter.com/LegAssemblyofAB" class="social-icon si-small si-borderless si--twitter-x" data-toggle="tooltip" data-placement="top" data-original-title="X" title="X" target="_blank"><i class="bi bi-twitter-x"></i><i class="bi bi-twitter-x"></i></a>
+  <a href="https://www.youtube.com/user/AlbertaLegislature" class="social-icon si-small si-borderless si-youtube" data-toggle="tooltip" data-placement="top" data-original-title="YouTube" title="YouTube" target="_blank"><i class="icon-youtube"></i><i class="icon-youtube"></i></a>
+  <a href="https://www.instagram.com/legassemblyofab" class="social-icon si-small si-borderless si-instagram" data-toggle="tooltip" data-placement="top" data-original-title="Instagram" title="Instagram" target="_blank"><i class="icon-instagram"></i><i class="icon-instagram"></i></a>
+  <a href="https://www.flickr.com/people/legassemblyofab" class="social-icon si-small si-borderless si-flickr" data-toggle="tooltip" data-placement="top" data-original-title="Flickr" title="Flickr" target="_blank"><i class="icon-flickr"></i><i class="icon-flickr"></i></a>
+  <a href="https://www.linkedin.com/company/legislative-assembly-of-alberta" class="social-icon si-small si-borderless si-linkedin" data-toggle="tooltip" data-placement="top" data-original-title="LinkedIn" title="LinkedIn" target="_blank"><i class="icon-linkedin"></i><i class="icon-linkedin"></i></a>
+</div>
+    </div>
+</div>
+
+</div>
+
+				</div>
+			</footer>
+			</div>
+		
+
+<div id="gotoTop" class="icon-angle-up"></div>
+
+
+
+
+	
+
+<script type="text/javascript">
+//<![CDATA[
+;(function() {
+                        function loadHandler() {
+                            var hf = $get('ctl13_TSSM');
+                            if (!hf._RSSM_init) { hf._RSSM_init = true; hf.value = ''; }
+                            hf.value += ';Telerik.Sitefinity.Resources, Version=14.4.8143.0, Culture=neutral, PublicKeyToken=b28c218413bdf563:en:9aa79f28-b2e3-44f2-889e-74b098a830dc:7a90d6a';
+                            Sys.Application.remove_load(loadHandler);
+                        };
+                        Sys.Application.add_load(loadHandler);
+                    })();//]]>
+</script>
+</form><script type="text/javascript" src="/Sitefinity/WebsiteTemplates/LAO/js/plugins-laocustom.js"></script><script type="text/javascript" src="/Sitefinity/WebsiteTemplates/LAO/js/functions-laocustom.min.js"></script>
+</body>
+</html>

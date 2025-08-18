@@ -1,0 +1,683 @@
+status: 200
+encoding: utf-8
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Strict-Transport-Security: max-age=31536000, max-age=31536000
+X-XSS-Protection: 1; mode=block
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Content-Security-Policy: frame-ancestors 'self' *.ville.quebec.qc.ca
+Date: Sat, 09 Aug 2025 05:45:12 GMT
+Content-Length: 51970
+X-FRAME-OPTIONS: SAMEORIGIN
+http_client_ip: 70.53.9.249
+Set-Cookie: NSC_ENA1-TjuftXfcWjmmfJJT-MC-IUUQT=ffffffffc3a0e54545525d5f4f58455e445a4a42378b;expires=Sat, 09-Aug-2025 07:15:12 GMT;path=/;secure;httponly
+
+<!DOCTYPE html>
+
+<html lang="fr">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="copyright" content="© Ville de Québec" /><meta name="viewport" content="width=device-width initial-scale=1.0 user-scalable=yes" />
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	
+	<link href="/css/page-contenu.css?v=20230811" rel="stylesheet">
+	
+
+	<script src="/js/scripts.js?v=20210302"></script>
+	<script src="//www.google.com/recaptcha/api.js?render=6Lc3W4MUAAAAAHfcV6i9zHzl4tiUuIKbHqtuDHph"></script>
+    <script src="//www.google.com/recaptcha/api.js" async defer></script>
+	<link rel="apple-touch-icon-precomposed" href="/img/icon_vdq_iphone.png" /><title>
+	Membres
+</title>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TS2PTHZ');</script>
+	<!-- End Google Tag Manager -->	
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TS2PTHZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<a id="btn-passer-au-contenu" class="sr focusable" href="#texte">Passer au contenu principal</a>
+<!-- BEGIN NOINDEX -->
+<div><div id="ctl00_ctl00_GenerateurIFrame_loadImg" style="position: absolute; z-index: 999;" class="loadImg">
+    
+</div>
+
+<iframe src="https://affichagesite.villequebec.quebec/bande-urgence?IdSite=2" id="ctl00_ctl00_GenerateurIFrame_iframeGen" allow="join-ad-interest-group &#39;none&#39;; run-ad-auction &#39;none&#39;" class="iframe-placeholder" frameborder="0" style="display: block; width: 0; min-width: 100%; height: 0; opacity: 0;" loading="lazy" title="bande urgence"></iframe>
+
+<script>
+    $('#ctl00_ctl00_GenerateurIFrame_iframeGen').on('load', function () {
+        var debug = false;
+        iFrameResize({ log: debug, heightCalculationMethod: 'documentElementOffset' }, '#ctl00_ctl00_GenerateurIFrame_iframeGen');
+        $('#ctl00_ctl00_GenerateurIFrame_loadImg').css("display", "none");
+        $('#ctl00_ctl00_GenerateurIFrame_iframeGen').css("opacity", "1");
+    });
+</script>
+</div>
+<!-- END NOINDEX -->
+<div id="page">
+	<form name="aspnetForm" method="post" action="membres.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="tflQXByWKHBXqYbGzEhellObWE7BkC8m45ZJIZ4fxDZ+MkAyRqHUPQ9CESj7lAV7HRKBYmItYOx0EvYCDygGRSFZfg9br4R3GTwWLmDd9wMGuPyMMHI82PpGZDxHp/3moH2rWVlZHzK7TS7q6sC+bmW6/lEgYvxm1ONS42t+COCLvYMmEVpQuQKqn6BeeNUWLLldj8xoXzxi3vFbwTn0SOO0V2reEOj7VZ/9oK8vb2FV07J66rZuw+0jPKSfApQ3qQC3SDMBGjHP4d39enR/JUrOnYPMy/ipQM14M8eLZFxcGHRgzpjq8jF92n5y6xJ4RuaCS4bfvWfQRIPb2qWke6OAXv934PWPr0AGg/kU1CAZTHy57kBWZLYab7V53640u8KdMwuWUB17pC0cPOzKN5zPhXHgTU+p93JZFqbt61cbBqoUL7WXasNPJo6/IcMLd2lPrTHsoSJqjtwL0IPwr0CCt/ztRfwy18WTL7pcwwy0Jhr5X3u1aES7FfEoWQWFBgR1DMgWoO1nRhBqWlHk6godiVPlDPaS67QzZb4kzCCvCTd9hocf79yqaMmRAcraWqsyFcGxNsdXgIjKdHFmNuZmrXXnXw3gSQJkpoe+2DVGlvlMvjAdxN1m9PoGVUPgvJliw/AF8ybakIETprfpBdgzg6SMM8+vsSo4XvTSdEpDTY0s4YjqXc6kWcHpVkGggPqrRi1+LSAD33wtOV4PCK0wKSAESo1GhbwSn5xPpoKsb4MGghyUF4XaBXmaL1ZBnbWGovvbqMwF4Cf1ctqFYu2FpBXYiEQL5gblBgN7RstSVraY4vT6zDNWBqnaUe+SQSugwTAPmb73vPSNw7BzrRtplGybvSyBRuHCOA+LVLtuL1G8kVcNBj8zfRXOABqUjSyg5A/WfLUAnQijbxXZwTLyzsU=" />
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.6/iframeResizer.min.js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="9806085C" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="eicJfV7vE5JuvEBY3yGdKBU40BWj/bPbRHK+m3/WC3ah+MypNDtVPg1cRKtHwOWGivM3MHPKxRFfd6UZ3Ra0L8+2D1nscghYtwmZ87VOQXZUW9U9ARPAhMX3f/nEH5bOi8Jkwt0PACBDStH6RGJyyPEMih3y+0qzcn/pAWi7O5PjyaSa+k6jWF+YDIKlZQXn1dIynStWPwF3tUGlRbKlWiu+jTw=" />
+		<!-- BEGIN NOINDEX -->
+		<div id="mobile">
+			<div id="btn-menu-mobile">
+				<a href="#menu"><span><img src="/img/btn-menu-mobile.png" alt="">Menu</span></a>
+			</div>
+			
+
+<div id="bande-haut-mobile">
+	<div id="langues-mobile"><span id="ctl00_ctl00_HautDePageMobile1_SelectionLangue"><div class="bloc_langue">
+	<ul>
+		<li class="langue"><a title="English" href="/en/apropos/gouvernance/conseil-municipal/index.aspx">EN</a></li>
+	</ul>
+</div></span></div>
+	<div id="recherche-mobile" tabindex="0">
+		<img src="/img/pictos/picto-loupe-recherche-mobile.svg" alt="">
+	</div>
+	<div id="recherche-mobile-panel">
+		
+<!-- JS file -->
+<script src="/js/AutocompleteRecherche/jquery.easy-autocomplete.min.js"></script> 
+<!-- CSS file -->
+<link rel="stylesheet" href="/js/AutocompleteRecherche/easy-autocomplete.min.css"> 
+
+<div>
+	
+<label for="ctl00_ctl00_HautDePageMobile1_Recherche_txt_recherche" id="ctl00_ctl00_HautDePageMobile1_Recherche_label_recherche"></label>
+<input name="ctl00$ctl00$HautDePageMobile1$Recherche$txt_recherche" maxlength="100" id="ctl00_ctl00_HautDePageMobile1_Recherche_txt_recherche" accesskey="4" class="bh_utilitaires_rech" type="search" placeholder="Que cherchez-vous ?" />
+<input type="image" name="ctl00$ctl00$HautDePageMobile1$Recherche$imglnkGo" id="ctl00_ctl00_HautDePageMobile1_Recherche_imglnkGo" class="ClassBoutonRecherche" src="/img/picto_recherche.png" alt="Rechercher" border="0" />
+
+</div>
+
+
+<script type="text/javascript">
+    var lng="fr",options={url:function(n){return"RechercheSuggestion.ashx?Recherche="+n+"&Langue="+lng},getValue:"Titre",list:{match:{enabled:!0}},listLocation:"results",requestDelay:300,theme:"round"};$("#ctl00_ctl00_HautDePageMobile1_Recherche_txt_recherche").easyAutocomplete(options)
+</script>
+	</div>
+	<div id="connexion-mobile">
+		<div id="connexion-mobile-panel" class="sr">
+			
+        <a id="ctl00_ctl00_HautDePageMobile1_AspNetIdentity_Entete2_lv1_btnConnexion" class="btnConnexion" href="javascript:__doPostBack(&#39;ctl00$ctl00$HautDePageMobile1$AspNetIdentity_Entete2$lv1$btnConnexion&#39;,&#39;&#39;)">Se connecter</a>
+    
+
+		</div>
+	</div>
+</div>
+<div class="forcer_retour"></div>
+
+			<span id="ctl00_ctl00_MenuMobile1"><nav id="menu" class="mobile">
+	<ul id="list">
+
+	</ul>
+</nav></span>
+
+
+		</div>
+		
+
+<header id="bande-haut">
+<div id="bande-haut-niv1">
+	<div class="contenu"><a href="/" id="logo-vdq"><span class="sr">Ville de Québec</span></a>
+		<nav aria-label="Menu secondaire">
+			<ul id="menu-utilitaires">
+				<li class="premier lien"><a href="/apropos/emplois/">Emplois</a></li>
+				<li class="lien"><a href="/apropos/espace-presse/">Espace Presse</a></li>
+				<li class="lien"><a href="https://blogue.ville.quebec.qc.ca/">Blogue #AccentLocal</a></li>
+				<li class="lien"><a href="/nous_joindre/">Nous joindre</a></li>
+				<li class="langues">
+					<span id="ctl00_ctl00_HautDePage1_SelectionLangue"><div class="bloc_langue">
+	<ul>
+		<li class="langue"><a title="English" href="/en/apropos/gouvernance/conseil-municipal/index.aspx">EN</a></li>
+	</ul>
+</div></span>
+				</li>
+				<li id="connexion">
+					
+        <a id="ctl00_ctl00_HautDePage1_AspNetIdentity_Entete_lv1_btnConnexion" class="btnConnexion" href="javascript:__doPostBack(&#39;ctl00$ctl00$HautDePage1$AspNetIdentity_Entete$lv1$btnConnexion&#39;,&#39;&#39;)">Se connecter</a>
+    
+
+				</li>
+			</ul>
+		</nav>
+	</div>
+</div>
+<div id="bande-haut-niv2">
+	<div class="contenu">
+		<nav aria-label="Menu principal">
+			<ul id="menu-principal">
+				<li><a href="/citoyens/index.aspx">Citoyens</a>
+					<ul>
+						<li><a href="/citoyens/accessibilite/index.aspx">Accessibilité universelle</a></li>
+						<li><a href="/citoyens/aines/index.aspx">Aînés</a></li>
+						<li><a href="/citoyens/animaux/index.aspx">Animaux</a></li>
+						<li><a href="/citoyens/arrondissements/index.aspx">Arrondissements</a></li>
+						<li><a href="/citoyens/art-culture/index.aspx">Art et culture</a></li>
+						<li><a href="https://www.bibliothequedequebec.qc.ca/" target="_blank">Bibliothèque de Québec</a></li>
+						<li><a href="/citoyens/cour_municipale/index.aspx">Cour municipale</a></li>
+						<li><a href="/citoyens/deplacements/index.aspx">Déplacements</a></li>
+						<li><a href="/citoyens/deneigement/index.aspx">Déneigement</a></li>
+						<li><a href="/citoyens/environnement/index.aspx">Environnement</a></li>
+						<li><a href="/citoyens/incendie/index.aspx">Incendie</a></li>
+						<li><a href="/citoyens/immigrants/index.aspx">Immigrants</a></li>
+						<li><a href="/citoyens/loisirs_sports/index.aspx">Loisirs et sports</a></li>
+						<li><a href="/citoyens/propriete/index.aspx">Maison et logement</a></li>
+						<li><a href="/citoyens/environnement/matieres-residuelles/index.aspx">Matières résiduelles</a></li>
+						<li><a href="/citoyens/participation-citoyenne/index.aspx">Participation citoyenne</a></li>
+						<li><a href="/citoyens/patrimoine/index.aspx">Patrimoine</a></li>
+						<li><a href="/citoyens/police/index.aspx">Police</a></li>
+						<li><a href="/citoyens/reglements_permis/index.aspx">Réglementation et permis</a></li>
+						<li><a href="/citoyens/securite_civile/index.aspx">Sécurité civile</a></li>
+						<li><a href="/citoyens/stationnement/index.aspx">Stationnement</a></li>
+						<li><a href="/citoyens/taxes_evaluation/index.aspx">Taxes et évaluation</a></li>
+						<li><a href="/citoyens/travaux_entretien_rues/index.aspx">Travaux dans les rues</a></li>
+						<li><a href="/citoyens/vivre-ensemble/index.aspx">Vivre-ensemble</a></li>
+					</ul>
+				</li>
+				<li><a href="/gens_affaires/index.aspx">Gens d’affaires</a>
+					<ul>
+						<li><a href="/gens_affaires/fournisseur/index.aspx">Appels d'offres et contrats</a></li>
+						<li><a href="/gens_affaires/creer-et-developper-une-entreprise/index.aspx">Créer et développer</a></li>
+						<li><a href="/gens_affaires/environnement/index.aspx">Environnement</a></li>
+						<li><a href="/gens_affaires/financement/index.aspx">Financement</a></li>
+						<li><a href="/gens_affaires/entreprises_specialisees/index.aspx">Fournisseurs spécialisés</a></li>
+						<li><a href="/gens_affaires/implantation-projets-immobiliers/index.aspx">Projets immobiliers</a></li>
+						<li><a href="/gens_affaires/evenement/index.aspx">Organiser un événement</a></li>
+						<li><a href="/gens_affaires/reglements_permis/index.aspx">Réglementation et permis</a></li>
+						<li><a href="/gens_affaires/creer-et-developper-une-entreprise/exporter-et-attirer-de-la-main-d-oeuvre/index.aspx">Talents et main-d’œuvre</a></li>
+						<li><a href="/gens_affaires/tournage/index.aspx">Tournage à Québec</a></li>
+					</ul>
+				</li>
+				<li><a href="/touristes/index.aspx">Touristes</a></li>
+				<li><a href="/apropos/index.aspx">À propos</a>
+					<ul>
+						<li><a href="/apropos/acces-information/index.aspx">Accès à l'information</a></li>
+						<li><a href="/apropos/administration/index.aspx">Administration</a></li>
+						<li><a href="/apropos/avis-publics/index.aspx">Avis publics</a></li>
+						<li><a href="/apropos/elections-municipales/index.aspx">Élections municipales</a></li>
+						<li><a href="/apropos/emplois/index.aspx">Emplois</a></li>
+						<li><a href="/apropos/espace-presse/index.aspx">Espace presse</a></li>
+						<li><a href="/apropos/gouvernance/index.aspx">Gouvernance</a></li>
+						<li><a href="/apropos/planification-orientations/index.aspx">Planification et orientations</a></li>
+						<li><a href="/apropos/portrait/index.aspx">Portrait</a></li>
+						<li><a href="/apropos/profil-financier/index.aspx">Profil financier</a></li>
+						<li><a href="/apropos/programmes-subventions/index.aspx">Programmes et subventions</a></li>
+						<li><a href="/publications/index.aspx">Publications</a></li>
+						<li><a href="/apropos/relations-internationales/index.aspx">Relations internationales</a></li>
+					</ul>
+				</li>
+			</ul>
+		</nav>
+		<div id="recherche">
+			
+<!-- JS file -->
+<script src="/js/AutocompleteRecherche/jquery.easy-autocomplete.min.js"></script> 
+<!-- CSS file -->
+<link rel="stylesheet" href="/js/AutocompleteRecherche/easy-autocomplete.min.css"> 
+
+<div>
+	
+<label for="ctl00_ctl00_HautDePage1_Recherche_txt_recherche" id="ctl00_ctl00_HautDePage1_Recherche_label_recherche"></label>
+<input name="ctl00$ctl00$HautDePage1$Recherche$txt_recherche" maxlength="100" id="ctl00_ctl00_HautDePage1_Recherche_txt_recherche" accesskey="4" class="bh_utilitaires_rech" type="search" placeholder="Que cherchez-vous ?" />
+<input type="image" name="ctl00$ctl00$HautDePage1$Recherche$imglnkGo" id="ctl00_ctl00_HautDePage1_Recherche_imglnkGo" class="ClassBoutonRecherche" src="/img/picto_recherche.png" alt="Rechercher" border="0" />
+
+</div>
+
+
+<script type="text/javascript">
+    var lng="fr",options={url:function(n){return"RechercheSuggestion.ashx?Recherche="+n+"&Langue="+lng},getValue:"Titre",list:{match:{enabled:!0}},listLocation:"results",requestDelay:300,theme:"round"};$("#ctl00_ctl00_HautDePage1_Recherche_txt_recherche").easyAutocomplete(options)
+</script>
+		</div>
+	</div>
+</div>
+</header>
+
+		<!-- END NOINDEX -->
+		
+<!-- BEGIN NOINDEX -->
+<span id="ctl00_ctl00_contenu_FilAriane1"><p id="bc_filariane"><a title="Accueil" href="/index.aspx">Accueil</a>&nbsp;/ <a title="À propos de la ville" href="/apropos/index.aspx">À propos de la ville</a>&nbsp;/ <a title="Gouvernance" href="/apropos/gouvernance/index.aspx">Gouvernance</a>&nbsp;/ <a title="Conseil municipal" href="/apropos/gouvernance/conseil-municipal/index.aspx">Conseil municipal</a>&nbsp;/ <span class="lien_actif">Membres</span></p></span>
+<!-- END NOINDEX -->
+<main class="apropos menu-gauche">
+	<header id="titre-section">
+		<h1><span id="ctl00_ctl00_contenu_TitreSectionCourante1"><span class="gouvernance">Gouvernance</span></span></h1>
+	</header>
+	<div class="contenu-wrapper">
+		<!-- BEGIN NOINDEX -->
+		
+			<span id="ctl00_ctl00_contenu_menu_page_MenuPrincipal1"><nav id="menuprincipal" class="desktop">
+	<ul id="list_menugauche">
+		<li class="gouvernance"><a href="/apropos/gouvernance/calendrier/index.aspx" title="Calendrier des rencontres">Calendrier des rencontres</a></li><li class="gouvernance"><a href="/apropos/gouvernance/chartes-lois-et-reglements/index.aspx" title="Chartes, lois et règlements">Chartes, lois et règlements</a></li><li class="gouvernance"><a href="/apropos/gouvernance/comite-executif/index.aspx" title="Comité exécutif">Comité exécutif</a></li><li class="gouvernance"><a href="/apropos/gouvernance/comites-consultatifs-urbanisme/index.aspx" title="Comités consultatifs d’urbanisme">Comités consultatifs d’urbanisme</a></li><li class="gouvernance"><a href="/apropos/gouvernance/conseil-agglomeration/index.aspx" title="Conseil d&#39;agglomération">Conseil d'agglomération</a></li><li class="gouvernance"><a href="/apropos/gouvernance/conseil-municipal/index.aspx" title="Conseil municipal" class="lien_actif"><span>Conseil municipal</span></a><ul>
+			<li class="gouvernance"><a href="/apropos/gouvernance/conseil-municipal/calendrier_annuel.aspx" title="Calendrier annuel">Calendrier annuel</a></li><li class="gouvernance"><a href="/apropos/gouvernance/conseil-municipal/membres.aspx" title="Membres" class="lien_actif"><span>Membres</span></a><ul>
+
+			</ul></li><li class="gouvernance"><a href="/apropos/gouvernance/conseil-municipal/seances/seances.aspx" title="Vidéos des séances">Vidéos des séances</a></li>
+		</ul></li><li class="gouvernance"><a href="/apropos/gouvernance/conseils-arrondissement/index.aspx" title="Conseils d&#39;arrondissement">Conseils d'arrondissement</a></li><li class="gouvernance"><a href="/apropos/gouvernance/maire/index.aspx" title="Maire de Québec">Maire de Québec</a></li>
+	</ul>
+</nav></span>
+		
+		<!-- END NOINDEX -->
+		<section>
+			
+				<h1>Membres</h1>
+			
+			
+<div id="texte">
+	<p>La ville compte 21 districts, chacun étant représenté par un conseiller ou une conseillère. Le district est une division territoriale servant uniquement pour les élections municipales. Ce découpage a pour but d'assurer à chaque citoyen et citoyenne une représentation juste et équitable au conseil municipal.</p>
+    
+
+<h2 class="titrebande">Mairie</h2>
+<div class="membres-conseil-municipal liste">
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-bruno-marchand-g.jpg" data-fancybox> <img alt="Bruno Marchand." src="/apropos/gouvernance/conseil-municipal/img/ph-bruno-marchand-liste.jpg" width="150" height="200"></a></figure>
+		
+		<h3 itemprop="name">
+			<span itemprop="familyName">Marchand</span>
+			<span itemprop="givenName">Bruno</span>
+		</h3>
+		<p>Maire<br>Président du comité exécutif<br>Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6434</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=1">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/bruno-marchand.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+</div>
+<h2 id="beauport" class="titrebande">Arrondissement de Beauport</h2>
+<div class="membres-conseil-municipal liste">
+
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-jean-francois-gosselin-g.jpg" data-fancybox> <img alt="Jean-François Gosselin." src="/apropos/gouvernance/conseil-municipal/img/ph-jean-francois-gosselin-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Gosselin</span>
+			<span itemprop="givenName">Jean-François</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-16.pdf" class="sans-taille" target="_blank">District de Sainte-Thérèse-de-Lisieux (16)</a></p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641‑6411, poste 3504</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=12">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/jean-francois-gosselin.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-stevens-melancon-g.jpg" data-fancybox> <img alt="Stevens Mélançon." src="/apropos/gouvernance/conseil-municipal/img/ph-stevens-melancon-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Mélançon</span>
+			<span itemprop="givenName">Stevens</span>
+
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-17.pdf" class="sans-taille" target="_blank">District de la Chute-Montmorency–Seigneurial (17)</a></p>
+		
+		<p>Chef de la 2e opposition officielle</p>
+		<p itemprop="affiliation">Équipe priorité Québec</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3504</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=31">Joindre par courriel</a></p>
+		
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/stevens-melancon.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-isabelle-roy-g.jpg" data-fancybox> <img alt="Isabelle Roy" src="/apropos/gouvernance/conseil-municipal/img/ph-isabelle-roy-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Roy</span>
+			<span itemprop="givenName">Isabelle</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-18.pdf" class="sans-taille" target="_blank">District de Robert-Giffard (18)</a></p>
+		
+		<p itemprop="affiliation">Présidente de l’arrondissement de Beauport</p>
+		<p itemprop="affiliation">Leadership Québec</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3504</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=56">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/isabelle-roy.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+</div>
+<h2 id="charlesbourg" class="titrebande">Arrondissement de Charlesbourg</h2>
+<div class="membres-conseil-municipal liste">
+	
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-marie-pierre-boucher-g.jpg" data-fancybox> <img alt="Marie-Pierre Boucher" src="/apropos/gouvernance/conseil-municipal/img/ph-marie-pierre-boucher-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Boucher</span>
+			<span itemprop="givenName">Marie-Pierre</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-14.pdf" class="sans-taille" target="_blank">District de Louis-XIV (14)</a></p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3404</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=47">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/marie-pierre-boucher.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-claude-lavoie-g.jpg" data-fancybox> <img alt="Claude Lavoie." src="/apropos/gouvernance/conseil-municipal/img/ph-claude-lavoie-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Lavoie</span>
+			<span itemprop="givenName">Claude</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-13.pdf" class="sans-taille" target="_blank">District de Saint-Rodrigue (13)</a></p>
+		<p itemprop="affiliation">Président de l’arrondissement de Charlesbourg</p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3404</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=52">Joindre par courriel</a></p>
+		
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/claude-lavoie.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-eric-ralph-mercier-g.jpg" data-fancybox> <img alt="Eric Ralph Mercier." src="/apropos/gouvernance/conseil-municipal/img/ph-eric-ralph-mercier-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Mercier</span>
+			<span itemprop="givenName">Eric Ralph</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-15.pdf" class="sans-taille" target="_blank">District des Monts (15)</a></p>
+		<p itemprop="affiliation">Équipe priorité Québec</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3404</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=55">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/eric-ralph-mercier.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+</div>
+<h2 id="cite" class="titrebande">Arrondissement de La Cité-Limoilou</h2>
+<div class="membres-conseil-municipal liste">
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-melissa-coulombe-leduc-g.jpg" data-fancybox> <img alt="Mélissa Coulombe-Leduc." src="/apropos/gouvernance/conseil-municipal/img/ph-melissa-coulombe-leduc-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Coulombe-Leduc</span>
+			<span itemprop="givenName">Mélissa</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-01.pdf" class="sans-taille" target="_blank">District du Cap-aux-Diamants (1)</a></p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 1051</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=49">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/melissa-coulombe-leduc.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-pierre-luc-lachance-g.jpg" data-fancybox> <img alt="Pierre-Luc Lachance." src="/apropos/gouvernance/conseil-municipal/img/ph-pierre-luc-lachance-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Lachance</span>
+			<span itemprop="givenName">Pierre-Luc</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-03.pdf" class="sans-taille" target="_blank">District de Saint-Roch–Saint-Sauveur (3)</a></p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 1051</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=23">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/pierre-luc-lachance.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-jackie-smith-g.jpg" data-fancybox> <img alt="Jackie Smith." src="/apropos/gouvernance/conseil-municipal/img/ph-jackie-smith-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Smith</span>
+			<span itemprop="givenName">Jackie</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-04.pdf" class="sans-taille" target="_blank">District de Limoilou (4)</a></p>
+		<p itemprop="affiliation">Transition Québec</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 1051</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=57">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/jackie-smith.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	
+	
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-catherine-vallieres-roland-g.jpg" data-fancybox> <img alt="Catherine Vallières-Roland." src="/apropos/gouvernance/conseil-municipal/img/ph-catherine-vallieres-roland-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Vallières-Roland</span>
+			<span itemprop="givenName">Catherine</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-02.pdf" class="sans-taille" target="_blank">District de Montcalm–Saint-Sacrement (2)</a></p>
+		<p itemprop="affiliation">Mairesse suppléante</p>
+		<p itemprop="affiliation">Présidente de l’arrondissement de La Cité-Limoilou</p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 1051</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=58">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/catherine-vallieres-roland.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-claude-villeneuve-g.jpg" data-fancybox> <img alt="Claude Villeneuve." src="/apropos/gouvernance/conseil-municipal/img/ph-claude-villeneuve-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Villeneuve</span>
+			<span itemprop="givenName">Claude</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-05.pdf" class="sans-taille" target="_blank">District de Maizerets-Lairet (5)</a></p>
+		<p itemprop="jobTitle">Chef de l’opposition officielle</p>
+		<p itemprop="affiliation">Québec d’abord</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6096</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=59">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/claude-villeneuve.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+</div>
+<h2 id="hst" class="titrebande">Arrondissement de La Haute-Saint-Charles</h2>
+<div class="membres-conseil-municipal liste">
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-marie-josee-asselin-g.jpg" data-fancybox> <img alt="Marie-Josée Asselin." src="/apropos/gouvernance/conseil-municipal/img/ph-marie-josee-asselin-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Asselin</span>
+			<span itemprop="givenName">Marie-Josée</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-20.pdf" class="sans-taille" target="_blank">District de Loretteville&ndash;Les Châtels (20)</a></p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : 418 641-6411, poste 3708</p>
+		
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=46">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/marie-josee-asselin.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-bianca-dussault-g.jpg" data-fancybox> <img alt="Bianca Dussault." src="/apropos/gouvernance/conseil-municipal/img/ph-bianca-dussault-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Dussault</span>
+			<span itemprop="givenName">Bianca</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-21.pdf" class="sans-taille" target="_blank">District de Val-Bélair (21)</a></p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3708</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=51">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/bianca-dussault.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-steeve-verret-g.jpg" data-fancybox> <img alt="Steeve Verret." src="/apropos/gouvernance/conseil-municipal/img/ph-steeve-verret-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Verret</span>
+			<span itemprop="givenName">Steeve</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-19.pdf" class="sans-taille" target="_blank">District de Lac-Saint-Charles–Saint-Émile (19)</a></p>
+		<p itemprop="affiliation">Président de l’arrondissement de La Haute-Saint-Charles</p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3708</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=22">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/steeve-verret.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+</div>
+<h2 id="stefoy" class="titrebande">Arrondissement de Sainte-Foy–Sillery–Cap-Rouge</h2>
+<div class="membres-conseil-municipal liste">
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-anne-corriveau-g.jpg" data-fancybox> <img alt="." src="/apropos/gouvernance/conseil-municipal/img/ph-anne-corriveau-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Corriveau</span>
+			<span itemprop="givenName">Anne</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-11.pdf" class="sans-taille" target="_blank">District de la Pointe-de-Sainte-Foy (11)</a></p>
+		<p itemprop="affiliation">Québec d’abord</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 1182</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=27">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/anne-corriveau.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-louis-martin-g.jpg" data-fancybox> <img alt="Louis Martin." src="/apropos/gouvernance/conseil-municipal/img/ph-louis-martin-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Martin</span>
+			<span itemprop="givenName">Louis</span>
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-12.pdf" class="sans-taille" target="_blank">District de Cap-Rouge–Laurentien (12)</a></p>
+		<p itemprop="affiliation">Leadership Québec</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 1182</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=53">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/louis-martin.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-maude-mercier-larouche-g.jpg" data-fancybox> <img alt="Maude Mercier-Larouche." src="/apropos/gouvernance/conseil-municipal/img/ph-maude-mercier-larouche-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name"> <span itemprop="familyName">Mercier Larouche</span><span itemprop="givenName">Maude</span></h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-09.pdf" class="sans-taille" target="_blank">District de Saint-Louis–Sillery (9)</a></p>
+		<p itemprop="affiliation">Présidente de l’arrondissement de Sainte-Foy–Sillery–Cap-Rouge<br>Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 1182</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=54">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/maude-mercier-larouche.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-david-weiser-g.jpg" data-fancybox> <img alt="David Weiser." src="/apropos/gouvernance/conseil-municipal/img/ph-david-weiser-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name">
+			<span itemprop="familyName">Weiser</span>
+			<span itemprop="givenName">David</span>
+
+		</h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-10.pdf" class="sans-taille" target="_blank">District du Plateau (10)</a></p>
+		<p itemprop="affiliation">Québec forte et fière</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 1182</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=60">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/david-weiser.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+</div>
+<h2 id="rivieres" class="titrebande">Arrondissement des Rivières</h2>
+<div class="membres-conseil-municipal liste">
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-patricia-boundreault-bruyere-g.jpg" data-fancybox> <img alt="Patricia Boudreault-Bruyère." src="/apropos/gouvernance/conseil-municipal/img/ph-patricia-boundreault-bruyere-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name"> <span itemprop="familyName">Boudreault-Bruyère</span> <span itemprop="givenName">Patricia</span></h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-07.pdf" class="sans-taille" target="_blank">District de Neufchâtel&ndash;Lebourgneuf (7)</a></p>
+		<p itemprop="affiliation">Québec d’abord</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3271</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=48">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/patricia-boudreault-bruyere.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-veronique-dallaire-g.jpg" data-fancybox> <img alt="Véronique Dallaire." src="/apropos/gouvernance/conseil-municipal/img/ph-veronique-dallaire-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name"> <span itemprop="familyName">Dallaire</span> <span itemprop="givenName">Véronique</span></h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-08.pdf" class="sans-taille" target="_blank">District des Saules–Les Méandres (8)</a></p>
+		<p itemprop="affiliation">Québec d’abord</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3271</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=50">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/veronique-dallaire.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+	<div itemscope itemtype="http://schema.org/Person" class="item">
+		<figure class="ph-aligne-gauche"><a href="/apropos/gouvernance/conseil-municipal/img/ph-alicia-despins-g.jpg" data-fancybox> <img alt="Alicia Despins." src="/apropos/gouvernance/conseil-municipal/img/ph-alicia-despins-liste.jpg" width="150" height="200"></a></figure>
+		<h3 itemprop="name"> <span itemprop="familyName">Despins</span> <span itemprop="givenName">Alicia</span></h3>
+		<p itemprop="jobTitle"><a href="/services/monarrondissement/docs/carte-district-06.pdf" class="sans-taille" target="_blank">District de Vanier-Duberger (6)</a></p>
+		
+		<p itemprop="affiliation">Présidente de l’arrondissement des Rivières</p>
+		<p itemprop="affiliation">Québec d’abord</p>
+		<p>Tél. : <span itemprop="telephone">418 641-6411, poste 3271</span></p>
+		<p><a href="/nous_joindre/formulaire.aspx?NoReference=8">Joindre par courriel</a></p>
+		<p><a itemprop="sameAs" class="lien style2 picto-biographie" href="/apropos/gouvernance/conseil-municipal/biographie/alicia-despins.aspx">Notes <span>biographiques</span></a></p>
+	</div>
+</div>
+
+</div>
+
+			<!-- BEGIN NOINDEX --> 
+			
+
+<div id="boutons-partage">
+	<p>Partagez cette page&nbsp;:</p>
+	<a href="javascript:;" class="ssk ssk-facebook" rel="nofollow" onclick="gtag('event', 'click', {'event_category' : 'partage', 'event_label' : 'partage_facebook'});"><span class="sr">Facebook</span></a>
+	<a href="javascript:;" class="ssk ssk-twitter" rel="nofollow" onclick="gtag('event', 'click', {'event_category' : 'partage', 'event_label' : 'partage_twitter'});"><span class="sr" lang="en">Twitter</span></a>
+	<a href="javascript:;" class="ssk ssk-linkedin" rel="nofollow" onclick="gtag('event', 'click', {'event_category' : 'partage', 'event_label' : 'partage_linkedin'});"><span class="sr">LinkedIn</span></a>
+	<a href="javascript:;" class="ssk ssk-favoris" rel="nofollow" onclick="gtag('event', 'click', {'event_category' : 'partage', 'event_label' : 'partage_ajout_fav'});"><span class="sr">Ajouter aux favoris</span></a>
+	<a href="javascript:;" class="ssk ssk-imprimer" rel="nofollow" onclick="gtag('event', 'click', {'event_category' : 'partage', 'event_label' : 'partage_imprimer'});"><span class="sr">Imprimer</span></a>
+	<a href="javascript:;" class="ssk ssk-email" rel="nofollow" onclick="gtag('event', 'click', {'event_category' : 'partage', 'event_label' : 'partage_courriel'});"><span class="sr">Envoyer Ã  un ami</span></a>
+</div>
+	
+
+			
+            
+			
+			<!-- END NOINDEX -->
+		</section>
+	</div>
+</main>
+
+		<div class="clear"></div>
+        <!-- BEGIN NOINDEX -->
+        
+		
+<footer>
+	<nav>
+		<ul id="footer-nav">
+			<li>Services
+				<ul>
+					<li><a href="/apropos/espace-presse/abonnement/">Abonnement</a></li>
+					<li><a href="/apropos/acces-information/index.aspx">Accès à l'information</a></li>
+					<li><a href="/services/formulaires/">Formulaires</a></li>
+					<li><a href="/apropos/gouvernance/conseil-municipal/seances/direct.aspx">Séance du conseil en direct</a></li>
+					<li><a href="/services/">Services en ligne</a></li>
+				</ul>
+			</li>
+			<li>Annonces
+				<ul>
+					<li><a href="/apropos/avis-publics/">Avis publics</a></li>
+					<li><a href="/publications/bulletin_municipal/">Bulletin et infolettre</a></li>
+					<li><a href="/apropos/emplois/">Emplois</a></li>
+					<li><a href="/apropos/espace-presse/actualites/">Communiqués</a></li>
+					<li><a href="/villeintelligente/">Ville intelligente</a></li>
+				</ul>
+			</li>
+			<li>Partenaires
+				<ul>
+					<li><a href="https://www.bibliothequedequebec.qc.ca/" target="_blank">Bibliothèque de Québec</a></li>
+					<li><a href="https://cmquebec.qc.ca/" target="_blank">Communauté métropolitaine de Québec</a></li>
+					<li><a href="https://www.quebec-cite.com/fr" target="_blank">Destination Québec cité</a></li>
+					<li><a href="https://expocite.com/fr/" target="_blank">ExpoCité</a></li>
+					<li><a href="https://www.rtcquebec.ca/" target="_blank">Réseau de transport de la Capitale</a></li>
+				</ul>
+			</li>
+			<li>
+				<ul>
+					<li><a href="/apropos/confidentialite/">Confidentialité</a></li>
+					<li><a href="/nous_joindre/">Nous joindre</a></li>
+				</ul>
+				<ul>
+				<li class="btn-medias-sociaux">
+						<a href="https://www.facebook.com/QuebecVille/" target="_blank" class="picto-facebook"><span class="sr">Facebook</span></a>
+					</li>
+					<li class="btn-medias-sociaux">
+						<a href="https://twitter.com/villequebec" target="_blank" class="picto-twitter p-blanc"><span class="sr">Twitter</span></a>
+					</li>
+					<li class="btn-medias-sociaux">
+						<a href="https://www.youtube.com/user/QuebecVille" target="_blank" class="picto-youtube"><span class="sr">YouTube</span></a>
+					</li>
+					<li class="btn-medias-sociaux">
+						<a href="https://www.instagram.com/villequebec/" target="_blank" class="picto-instagram"><span class="sr">Instagram</span></a>
+					</li>
+					<li class="btn-medias-sociaux">
+						<a href="https://www.linkedin.com/company/ville-de-quebec/" target="_blank" class="picto-linkedin"><span class="sr">LinkedIn</span></a>
+					</li>
+					<li class="btn-medias-sociaux">
+						<a href="/apropos/espace-presse/abonnement/rss.aspx" class="picto-rss"><span class="sr">RSS</span></a>
+					</li>
+					<li class="btn-medias-sociaux">
+						<a href="/apropos/espace-presse/abonnement/infolettres.aspx" class="picto-courriel"><span class="sr">Abonnement</span></a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+	<p id="copyright-site">© Ville de Québec,
+		2025. Tous droits réservés.</p>
+</footer>
+
+		<!-- END NOINDEX -->
+		<link href="/css/impression.css" rel="stylesheet" media="print">
+		<link href="/css/jquery.mmenu.all.css" rel="stylesheet">
+		
+		
+ 	
+
+		<script src="/js/jquery.mmenu.all.min.js"></script>
+		<script src="/js/fancybox/jquery.fancybox.min.js"></script>
+		<script>var assistantDebut = true;</script>
+		<script src="/js/jquery.assistant.js"></script>
+		<script src="/js/retina/retina.min.js"></script>
+		<script>SocialShareKit.init();</script>
+	
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){function i(t){$.ajax({dataType:"json",type:"post",url:"/NavigationHandler.axd",cache:!1,data:t,success:function(i){var e,f,u,o;i!=null&&(e=r.data("mmenu"),f=$(".mm-home > a"),f.attr("href",i.objNavigation.home.Url),f.contents().filter(function(){return this.nodeType===3}).last().replaceWith(i.objNavigation.home.Title),$(".mm-close").attr("href","#mm-0"),$(".mm-close").attr("aria-owns","mm-0"),$(".mm-close > span.mm-sronly").html("<span class='close-x'>X<\/span><br>MENU<\/span>"),i.objNavigation.general==null?(n&&console.log(JSON.stringify(i)),$(".mm-prev").attr("href",i.objNavigation.retour.Url),$(".mm-prev").addClass("nolink"),$(".mm-prev").text(i.objNavigation.retour.Title),$("#list").find(".mm-listview").empty(),u=i.objNavigation.group,u!=null&&(o='<li class="'+u.MenuCss+'"><a href="'+u.Url+'">'+u.Title+"<\/a><\/li>",$("#list").find(".mm-listview").append(o)),i.objNavigation.sibblings!=null&&i.objNavigation.sibblings.forEach(function(n){var i;i=n.HasChildNodes===!0?'<li><a href="'+n.Url+'" class="mm-next mm-next mm-fullsubopen nolink"><span class="mm-sronly">Open submenu<\/span><\/a><span aria-hidden="true">'+n.Title+" <\/span><\/li>":n.Url===t.NodeUrl?'<li class="selected"><a href="'+n.Url+'">'+n.Title+"<\/a><\/li>":'<li><a href="'+n.Url+'">'+n.Title+"<\/a><\/li>";$("#list").find(".mm-listview").append(i)}),i.objNavigation.childs!=null&&i.objNavigation.childs.forEach(function(n){var t;t=n.HasChildNodes===!0?'<li><a href="'+n.Url+'" class="mm-next mm-next mm-fullsubopen nolink"><span class="mm-sronly">Open submenu<\/span><\/a><span aria-hidden="true">'+n.Title+" <\/span><\/li>":'<li><a href="'+n.Url+'">'+n.Title+"<\/a><\/li>";$("#list").find(".mm-listview").append(t)}),$(".mm-prev").attr("aria-hidden","false"),$(".mm-prev").removeClass("mm-hidden")):($("#list").find(".mm-listview").empty(),i.objNavigation.general.forEach(function(t){var i;i=t.HasChildNodes===!0?'<li class="'+t.MenuCss+'"><a href="'+t.Url+'" class="mm-next mm-next mm-fullsubopen nolink"><span class="mm-sronly">Open submenu<\/span><\/a><span aria-hidden="true">'+t.Title+" <\/span><\/li>":'<li class="'+t.MenuCss+'"><a href="'+t.Url+'">'+t.Title+"<\/a><\/li>";n&&console.log(JSON.stringify(i));$(".mm-prev").attr("aria-hidden","true");$(".mm-prev").addClass("mm-hidden");$("#list").find(".mm-listview").append(i)})),e.initPanels($("#list")))}})}var n=!1;$.ajaxSetup({cache:!1});var r=$("nav#menu").mmenu({extensions:["effect-slide-menu","shadow-page","shadow-panels"],keyboardNavigation:!0,screenReader:!0,counters:!1,offCanvas:{position:"left",zposition:"front"},navbar:{title:"Test"},navbars:[{position:"top",content:["prev",'<div class="mm-home"><a href="/index.aspx"><img src=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAkCAYAAACjbylKAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTQyIDc5LjE2MDkyNCwgMjAxNy8wNy8xMy0wMTowNjozOSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjE1N0I1MjU5RDhCNjExRUE5QTkzODA5OEEwRTRFOEJFIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjE1N0I1MjVBRDhCNjExRUE5QTkzODA5OEEwRTRFOEJFIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MTU3QjUyNTdEOEI2MTFFQTlBOTM4MDk4QTBFNEU4QkUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MTU3QjUyNThEOEI2MTFFQTlBOTM4MDk4QTBFNEU4QkUiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz4LtLokAAALhklEQVR42uycCXQW1RXHJysQQkISRIEgu7KDIEQoBUTZXGiLwrGi0qK2ggexaovWiqWCZQ+7VkSKkFJxoWqpCghYkCiiYCsCIiAKqJRNQAiLmd4rvzm953W+CCSEBL97zv/MzJs3b73fe/f9701ifN/3CiEXCCYJruf5OcFAwRdeVEq9xBRCOcoLVgoaCvJJixWsE7QUHI4Ob+mW2EJ8ezOK8ZagnKCs4G1BA0Hf6NB+v5WjJdeZgqOCY4LppF0aHdpzVznOF0wVbBS8E2EleJ/rDZQTI+jjvLNyi2CVYJPgcUHl6PCXcFGbw0G6YKv//zLGyZcq2Mi7LwSfc/+xINnJOyakvE8FlULqj6KEICxxLJO3WHCBoKeZ0GZO3gsFC8z7haTZPE3M++sElSlbJbuQHVCDuo2gsUkrL2gn6CRoSJ7gXZogizY1MemXkD+sjjj6fYXgUkHSGZ6U7oKbSqpy5DJxV5q0GaTdGJJfB/yA4BgT777vy7ePm7TLSVtVBJ3IoazmPP+e581cG5i8E4ziHyFNvztO+h+csusI1jkr3tAzPCm9qGfI2VaOMJtjG9dLguOuoBX3O0LyHwVaVti5+BOuHYyNE5S3tQh2xnu5PiRIEzwseEJwI+nXmbz94WKWCxJJu0YQJ1gvaGfypgjeFdSGx9FrP8FCMy514HoCSRYkAX2X4LS1qqA6dacK4gUVqL86p75nBaME91NeIOmC+qbdZ8XmuMr8SpYKPuI+X9DS5LtM8HPBAN4dxA4px7sgXwtT3kbKDOTqItLye4wds5vtUNP3CN7lvqtZER/gXtNv4H6X4D5T5nDS24bUV1WwzPTjUdL/KNhpbDbdcuN59zBpukptFywR1GA8/mPqulVwiOe5fNuBvvh8d9a2FcXNgsM0Rpffz7jfIbiIPM84y+1WlON5nrVDKRirwcQd4T6P7aYoO/MmZQ80aZNISza2lMdk+iiyh4L/g+0u+HaBye8iUPBORolU0R8yxvvd3N+CXaQyEpsiGI9qKIrKHYJB3Pdh/FTuFbyG0qkt1e1sK0dgS7QX1OP5BRr7paAKDZ0u+DPpu1GOoTzvNSeYFyijLp2uWMQdSWOwVSab9M6k/Yq2vEz6Y6SnFFBmJOW4KMQm2INyZRtl9FgBnsFmO4Rxq+nPCvYJziP/k6RP43m54C3Tn2Hc63cViks54gvYcfYK/mmee8KAtobHuExwK/ur2icVsSl0z88Q3Ml3uof25v5jUNQyCRvhSepVu+BFrhsE48g39RTIvzcEnQW96IPLDZXlGo8dkMc7tb+O8O445GA++fT9N7gefOwWz+RP4/o3wXZskS2CNwXzadPn2C77SxJDqhPcnPvzBMswkg4J2kKl78Wo6kS',"close"]}]}),t=window.location,u={NodeUrl:t.pathname+t.search+t.hash};i(u);$(document).on("click",".nolink",function(t){var r=$(t.target).text(),u=$(t.target).attr("href"),f={NodeUrl:u};n&&console.log(JSON.stringify(r));i(f);t.stopPropagation();t.preventDefault()})});//]]>
+</script>
+</form>
+</div>
+</body>
+</html>

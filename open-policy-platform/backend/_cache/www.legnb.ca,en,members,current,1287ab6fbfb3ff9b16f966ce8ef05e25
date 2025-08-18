@@ -1,0 +1,1614 @@
+status: 200
+encoding: utf-8
+Date: Sat, 09 Aug 2025 05:44:36 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+strict-transport-security: max-age=31536000; includeSubDomains
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; object-src 'none'; block-all-mixed-content; img-src 'self' data: https://www.google-analytics.com https://video.isilive.ca https://prd.jwpltx.com; form-action 'self'; font-src 'self' https://fonts.gstatic.com https://*.isilive.ca; style-src 'self' https://fonts.googleapis.com https://cdn.jsdelivr.net https://*.isilive.ca 'unsafe-inline'; base-uri 'self'; frame-ancestors 'none'; script-src 'self' blob: https://www.googletagmanager.com https://www.google-analytics.com https://www.gstatic.com https://*.isilive.ca https://remoteip.isi.sh http://localhost/ https://cdn.jwplayer.com https://ssl.p.jwpcdn.com 'unsafe-inline'
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin
+cross-origin-resource-policy: cross-origin
+permissions-policy: accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=*, geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), sync-xhr=(), usb=()
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 96c4f149bdeeebbc-YYZ
+
+<!DOCTYPE html>
+<html translate="no" lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--
+    <meta http-equiv="Content-Security-Policy" content="default-src blob: 'self'; media-src 'self' blob: *;connect-src 'self' https://*.isilive.ca/; frame-src 'self' https://*.google.com/ https://*.googleapis.com/; script-src 'self' 'unsafe-inline' blob: https://*.isiglobal.ca/ https://*.isilive.ca/ https://*.aspnetcdn.com/ https://*.googletagmanager.com https://*.google.com/ https://*.google-analytics.com/ http://*.google-analytics.com/ https://*.googleapis.com/ https://*.gstatic.com; style-src 'self' 'unsafe-inline' * ; font-src 'self' * ; img-src 'self' 'unsafe-inline' * " />
+    -->
+    <meta name="theme-color" content="#660033">
+
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    <meta name="google" content="nositelinkssearchbox">
+    <meta name="google" content="notranslate">
+
+    <meta name="referrer" content="no-referrer">
+    <meta name="format-detection" content="telephone=yes">
+
+    <meta name="ICBM" content="45.959384, -66.636318">
+    <meta name="geo.position" content="45.959384, -66.636318">
+    <meta name="geo.region" content="CA-NB">
+    <meta name="geo.placename" content="Fredericton">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#4285f4">
+
+    <link rel="me" href="mailto:legwebadmin@legnb.ca">
+
+    <link href="https://fonts.googleapis.com/css?family=Inter:400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rufina" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
+    
+
+    <title>Members of the 61st Legislative Assembly - Legislative Assembly of New Brunswick</title>
+    <meta name="description" content="PageDescription"/>
+
+
+    
+
+
+    
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CMSE8Q7GQ3"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-CMSE8Q7GQ3');
+        </script>
+    
+
+    
+        <link rel="stylesheet" type="text/css" href="/styles/styles.min.css?v=qWmFVwub5h3UjD-F8hGkFGn2kb1uPLvqHdzjW_D9FnA" />
+    
+    
+    <link rel="stylesheet" href="/NBLegWeb.Public.Web.styles.css" />
+</head>
+<body>
+
+
+
+
+<header class="site-header">
+    <div class="container-lg container-fluid">
+        <div class="header-content">
+            <a class="header-branding" href="/en">
+                <div class="header-branding-logo d-none d-lg-block">
+                    <img src="/images/coatofarms_sm.png" alt="A drawing of the New Brunswick coat of arms. There is a crest featuring a boat and a lion, with a deer standing on its hind legs on each side of the crest and a fish above." />
+                </div>
+                <img class="header-branding-logo-sm d-lg-none" src="/images/logo.png" alt="A white silhouette drawing of the dome on top of the legislative assembly." />
+                <div class="header-branding-meta">
+                    <span class="header-branding-title">Legislative Assembly <br>of New Brunswick</span>
+                    <span class="header-branding-location">Fredericton, New Brunswick, Canada</span>
+                </div>
+            </a>
+            <nav class="header-nav-quicklinks" role="navigation">
+                <ul>
+                    <li class="header-nav-quicklinks-link" lang="fr">
+                            <a class="nav-link" href="/fr/parlementaires/actuel">Fran&#xE7;ais</a>
+                    </li>
+                    <li class="header-nav-quicklinks-link">
+                        <a class="nav-link" href="http://www2.gnb.ca">GNB.ca</a>
+                    </li>
+                    <li class="header-nav-quicklinks-link">
+                        <a class="nav-link" href="/en/legislature/contact">Contact</a>
+                    </li>
+                </ul>
+                <a class="calendar-quick-link" href="/en/calendar">
+                    <i class="fas fa-calendar-alt"></i> Legislative Calendar
+                </a>
+            </nav>
+        </div>
+    </div>
+</header>
+<input type="checkbox" id="nav-toggle">
+<nav class="main-navigation">
+    <div class="container-lg container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="container">
+                    <div class="row d-lg-none nav-actions">
+                        <div class="col-6">
+                            <label for="nav-toggle" class="nav-menu-toggler">
+                                <span><i class="fas fa-bars"></i> Menu</span>
+                            </label>
+                        </div>
+                        <div class="col-6">
+                            <a class="language-toggle" href="/fr">
+                                <i class="fas fa-globe"></i> Fran&#xE7;ais
+                            </a>
+                        </div>
+                    </div>
+                    
+<ul class="nav-items">
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/legislature">Legislative Assembly</a>
+        <ul>
+            <li class="nav-link">
+                <a href="/en/legislature/history">Purpose &amp; History</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/legislative-references">Legislative References</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/notices">Notices</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/publications">Publications</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislative-officers">Legislative Officers</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/opportunities">Student Opportunities</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/contact">Contact Us</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/visit">Visit Us</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/members">Members</a>
+        <ul>
+            <li class="nav-link">
+                <a href="/en/members/current">Current Members Directory</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/members/disclosures">Public Disclosures</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/members/expenses">Members Expense Reports</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/members/speakers">Speakers</a>
+            </li>
+            <li class="nav-link">
+                <a href="https://www1.gnb.ca/Elections/en/provstreetkey/provskinformation-e.asp">Find My MLA</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link">Legislation</a>
+        <ul>
+            <li class="nav-link">
+                <a data-lang="en" href="/en/legislation/bills/61/1">Status of Legislation</a>
+            </li>
+            <li class="nav-link">
+                <a data-lang="en" href="/en/legislation/bills">Bills Archive</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/house-business">House Business</a>
+        <ul>
+            <li class="nav-link">
+                <a href="/en/house-business">Legislative Sessions</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/order-papers">Order Papers</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/journals">Journals</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/hansard">Hansard</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/tabled-documents">Tabled Documents</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/question-period-transcripts">Question Period</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/committees">Committees</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/webcasts">Webcasts</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="http://www1.gnb.ca/leglibbib">Legislative Library</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="http://www2.gnb.ca">GNB.ca</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/legislature/contact">Contact</a>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+<div class="site-notices">
+    <div class="container">
+    </div>
+</div>
+
+
+
+
+<nav class="breadcrumb-nav" aria-label="breadcrumb">
+    <div class="container">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item" aria-current="page"><a href="/en/"><span>Home</span></a></li>
+                    <li class="breadcrumb-item" aria-current="page">
+                        <a href="/en/members"><span>Members</span></a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">Current</li>
+        </ol>
+    </div>
+</nav>
+<main>
+    <div class="page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1>Members of the 61<sup>st</sup> Legislative Assembly</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="masthead" style="background-image: url('/images/chamber-masthead.png')">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-5">
+                    <div class="party-statistics card">
+                        <div class="card-body">
+                            <h2>Party Standings</h2>
+                                <div class="party-statistic" style="background-color:#C0161D">
+                                    <div class="party-statistic-count" style="background-color:#C0161D">
+                                        31
+                                    </div>
+                                    <div class="party-statistic-description">
+                                        <span>
+                                            Liberal Party
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="party-statistic" style="background-color:#005DAC">
+                                    <div class="party-statistic-count" style="background-color:#005DAC">
+                                        15
+                                    </div>
+                                    <div class="party-statistic-description">
+                                        <span>
+                                            Progressive Conservative Party
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="party-statistic" style="background-color:#3D9B35">
+                                    <div class="party-statistic-count" style="background-color:#3D9B35">
+                                        2
+                                    </div>
+                                    <div class="party-statistic-description">
+                                        <span>
+                                            Green Party
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="party-statistic" style="background-color:grey;">
+                                    <div class="party-statistic-count" style="background-color:grey;">
+                                        1
+                                    </div>
+                                    <div class="party-statistic-description">
+                                        <span>
+                                            Vacant
+                                        </span>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row related-member-references">
+            <div class="col-12 col-lg-5 offset-lg-1 my-5">
+                <div class="related-member-reference">
+                    <a href="/en/members/executive-council">
+                        <img src="/images/exec_council_icon.png" alt="" />
+                        <div>
+                            <h3>Executive Council</h3>
+                            <span>View the membership of the Executive Council, including ministers.</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+           
+            <div class="col-12 col-lg-5 mb-lg-2 my-5">
+                <div class="related-member-reference">
+                    <a href="https://legnb.ca/content/legislature/publications/members/Shadow%20Cabinet%20-%20Cabinet%20fant%C3%B4me.pdf">
+                        <img src="/images/opp_criticsl_icon.png" alt="" />
+                        <div>
+                            <h3>Official Opposition Critics</h3>
+                            <span>View the list of Official Opposition critics, including portfolios.</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="row related-member-references">
+
+            <div class="col-12 col-lg-5 offset-lg-1 mt-lg-2 my-5">
+                <div class="related-member-reference">
+                    <a target="_self" href="/content/house_business\61\1\seating_arrangements\2025-03-25 Seating Plan.pdf">
+                        <img src="/images/seating_chart_icon.png" alt="" />
+                        <div>
+                            <h3>Current Seating Plan</h3>
+                            <span>View the current seating plan for members in the Legislative Chamber.</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <div class="col-12 col-lg-5 mt-lg-4 mb-lg-4">
+                <div class="related-member-reference">
+                    <a href="https://www.electionsnb.ca/content/enb/en/maps/PED.html">
+                        <img src="/images/nb_districts_icon.png" alt="A map of New Brunswick with lines marking the provincial electoral districts." />
+                        <div>
+                            <h3>Provincial Electoral Districts</h3>
+                            <span>View Elections NB's map of New Brunswick's electoral districts.</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <section class="pb-3 secondary">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2>Members Listing</h2>
+                </div>
+            </div>
+
+            <div class="row mb-4">
+                <div class="col-12">
+                    <div class="member-filter-form form-container" id="member-filter-form">
+                        <form method="get" action="/en/members/current#member-filter-form">
+                            <div class="form-field">
+                                <label>Keywords:</label>
+                                <input type="text" style="width: 300px;" maxlength="150" name="keywords" id="member-keywords"/>
+                                <label>Political Party:</label>
+                                <select style="width: 300px;" name="partyid" id="member-party">
+                                    <option value="">All Political Parties</option>
+                                            <option value="4">Green Party</option>
+                                            <option value="1">Liberal Party</option>
+                                            <option value="2">Progressive Conservative Party</option>
+                                </select>
+                                <button type="submit" class="button button-primary"
+                                        id="apply-filter-button">Apply Filters</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="row" id="members-list">
+                        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Ames, Richard" src="/content\members\portraits\61-1\Richard_Ames_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/165/ames-richard"><h3>Ames, Richard</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Carleton-York</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Arseneault, Guy" src="/content\members\portraits\61-1\Guy_Arseneault_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/4/arseneault-guy"><h3>Arseneault, Guy</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Restigouche East</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Austin, Kris" src="/content\members\portraits\61-1\Kris_Austin_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/16/austin-kris"><h3>Austin, Kris</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Fredericton-Grand Lake</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Bockus, Kathy" src="/content\members\portraits\61-1\Kathy_Bockus_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/162/bockus-kathy"><h3>Bockus, Kathy</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Saint Croix</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Boudreau, Lyne Chantal" src="/content\members\portraits\61-1\Lyne_Chantal_Boudreau_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/208/boudreau-lyne-chantal"><h3>Boudreau, Lyne Chantal</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Champdor&#xE9;-Irishtown</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Bourque, Beno&#xEE;t" src="/content\members\portraits\61-1\Benoit_Bourque_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/23/bourque-benoit"><h3>Bourque, Beno&#xEE;t</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Beausoleil-Grand-Bouctouche-Kent</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Chiasson, Chuck" src="/content\members\portraits\61-1\Chuck_Chiasson_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/11/chiasson-chuck"><h3>Chiasson, Chuck</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Grand Falls-Vall&#xE9;e-des-Rivi&#xE8;res-Saint-Quentin</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Chiasson, Keith" src="/content\members\portraits\61-1\Keith_Chiasson_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/49/chiasson-keith"><h3>Chiasson, Keith</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Tracadie</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Conroy, Michelle" src="/content\members\portraits\61-1\Michelle_Conroy_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/29/conroy-michelle"><h3>Conroy, Michelle</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Miramichi East</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #3D9B35;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Coon, David" src="/content\members\portraits\61-1\David_Coon_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/14/coon-david"><h3>Coon, David</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#3D9B35"></div>Green Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Fredericton Lincoln</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Cullins, Ryan" src="/content\members\portraits\61-1\Ryan_Cullins_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/164/cullins-ryan"><h3>Cullins, Ryan</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Fredericton-York</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="D&#x27;Amours, Jean-Claude" src="/content\members\portraits\61-1\JC_DAmours_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/9/damours-jean-claude"><h3>D&#x27;Amours, Jean-Claude</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Edmundston-Vall&#xE9;e-des-Rivi&#xE8;res</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Dornan, John" src="/content\members\portraits\61-1\John_Dornan_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/202/dornan-john"><h3>Dornan, John</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Saint John Portland-Simonds</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Doucet, Alexandre C&#xE9;dric" src="/content\members\portraits\61-1\Alexandre_Cedric_Doucet_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/196/doucet-alexandre-cedric"><h3>Doucet, Alexandre C&#xE9;dric</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Moncton East</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Finnigan, Pat" src="/content\members\portraits\61-1\Pat_Finnigan_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/192/finnigan-pat"><h3>Finnigan, Pat</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Kent North</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Gauvin, Robert" src="/content\members\portraits\61-1\Robert_Gauvin_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/46/gauvin-robert"><h3>Gauvin, Robert</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Shediac Bay-Dieppe</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Herron, John" src="/content\members\portraits\61-1\john_herron_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/199/herron-john"><h3>Herron, John</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Hampton-Fundy-St. Martins</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Hickey, David" src="/content\members\portraits\61-1\DAVID_HICKEY_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/203/hickey-david"><h3>Hickey, David</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Saint John Harbour</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Hogan, Bill" src="/content\members\portraits\61-1\Bill_Hogan_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/166/hogan-bill"><h3>Hogan, Bill</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Woodstock-Hartland</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Holt, Susan" src="/content\members\portraits\61-1\Susan_Holt_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/182/holt-susan"><h3>Holt, Susan</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Fredericton South-Silverwood</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Johnson, Claire" src="/content\members\portraits\61-1\Claire_Johnson_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/194/johnson-claire"><h3>Johnson, Claire</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Moncton South</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Johnson, Margaret" src="/content\members\portraits\61-1\Margaret_Johnson_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/167/johnson-margaret"><h3>Johnson, Margaret</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Carleton-Victoria</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Johnston, Sam" src="/content\members\portraits\61-1\Sam_Johnston_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/191/johnston-sam"><h3>Johnston, Sam</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Miramichi Bay-Neguac</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Kennedy, Aaron" src="/content\members\portraits\61-1\Aaron_Kennedy_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/200/kennedy-aaron"><h3>Kennedy, Aaron</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Quispamsis</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Landry, Francine" src="/content\members\portraits\61-1\Francine_Landry_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/26/landry-francine"><h3>Landry, Francine</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Madawaska Les Lacs-Edmundston</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="LeBlanc, Jacques" src="/content\members\portraits\61-1\Jacques_LeBlanc_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/45/leblanc-jacques"><h3>LeBlanc, Jacques</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Shediac-Cap-Acadie</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="LeBlanc, Marco" src="/content\members\portraits\61-1\Marco_LeBlanc_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/180/leblanc-marco"><h3>LeBlanc, Marco</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Belle-Baie-Belledune</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Lee, Ian" src="/content\members\portraits\61-1\Ian_Lee_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/205/lee-ian"><h3>Lee, Ian</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Fundy-The Isles-Saint John Lorneville</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Legacy, Ren&#xE9;" src="/content\members\portraits\61-1\RENE_LEGACY_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/157/legacy-rene"><h3>Legacy, Ren&#xE9;</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Bathurst</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="LePage, Gilles" src="/content\members\portraits\61-1\Gilles_LePage_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/37/lepage-gilles"><h3>LePage, Gilles</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Restigouche West</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Mallet, Eric" src="/content\members\portraits\61-1\Eric_Mallet_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/158/mallet-eric"><h3>Mallet, Eric</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Shippagan-Les-&#xCE;les</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="McKee, K.C., Robert" src="/content\members\portraits\61-1\Rob_McKee_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/30/mckee-robert"><h3>McKee, K.C., Robert</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Moncton Centre</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Miles, Cindy" src="/content\members\portraits\61-1\Cindy_Miles_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/207/miles-cindy"><h3>Miles, Cindy</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Hanwell-New Maryland</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #3D9B35;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Mitton, Megan" src="/content\members\portraits\61-1\Megan_Mitton_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/27/mitton-megan"><h3>Mitton, Megan</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#3D9B35"></div>Green Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Tantramar</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Monahan, Don" src="/content\members\portraits\61-1\Don_Monahan_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/198/monahan-don"><h3>Monahan, Don</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Arcadia-Butternut Valley-Maple Hills</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Oliver, Bill" src="/content\members\portraits\61-1\Bill_Oliver_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/24/oliver-bill"><h3>Oliver, Bill</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Kings Centre</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Randall, Luke" src="/content\members\portraits\61-1\Luke_Randall_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/206/randall-luke"><h3>Randall, Luke</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Fredericton North</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Robichaud, Luc" src="/content\members\portraits\61-1\Luc_Robichaud_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/190/robichaud-luc"><h3>Robichaud, Luc</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Hautes-Terres-Nepisiguit&#xD;&#xA;</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Savoie, Glen" src="/content\members\portraits\61-1\Glen_Savoie_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/21/savoie-glen"><h3>Savoie, Glen</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Saint John East</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Scott-Wallace, Tammy" src="/content\members\portraits\61-1\Tammy_Scott-Wallace_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/161/scott-wallace-tammy"><h3>Scott-Wallace, Tammy</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Sussex-Three Rivers</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Sodhi, Tania" src="/content\members\portraits\61-1\Tanya_Sodhi_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/195/sodhi-tania"><h3>Sodhi, Tania</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Moncton Northwest</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Th&#xE9;riault, Isabelle" src="/content\members\portraits\61-1\Isabelle_Theriault_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/5/theriault-isabelle"><h3>Th&#xE9;riault, Isabelle</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Caraquet</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Townsend, Alyson" src="/content\members\portraits\61-1\Alyson_Townsend_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/201/townsend-alyson"><h3>Townsend, Alyson</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Rothesay</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Vautour, Natacha" src="/content\members\portraits\61-1\Natacha_Vautour_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/193/vautour-natacha"><h3>Vautour, Natacha</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Dieppe-Memramcook</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Weir, Rob" src="/content\members\portraits\61-1\Rob_Weir_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/197/weir-rob"><h3>Weir, Rob</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Riverview</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #C0161D;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Wilcott, Kate" src="/content\members\portraits\61-1\Kate_Wilcott_lg.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/204/wilcott-kate"><h3>Wilcott, Kate</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#C0161D"></div>Liberal Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Saint John West-Lancaster</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Wilson, Mary" src="/content\members\portraits\61-1\Mary_Wilson_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/35/wilson-mary"><h3>Wilson, Mary</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Oromocto-Sunbury</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3">
+            
+<div class="member-card " style="border-left: 3px solid #005DAC;">
+    <div class="member-card-avatar">
+        <div class="member-card-avatar-image">
+                <img alt="Wilson, Sherry" src="/content\members\portraits\61-1\Sherry_Wilson_sm.jpg" />
+        </div>
+    </div>
+    <ul class="member-card-description">
+        <li class="member-card-description-name">
+                <a href="/en/members/current/33/wilson-sherry"><h3>Wilson, Sherry</h3></a>
+        </li>
+        <li class="member-card-description-party">
+            <div class="member-card-party-dot" style="background-color:#005DAC"></div>Progressive Conservative Party
+        </li>
+        <li class="member-card-description-riding">
+            <i class="fas fa-map-marker-alt"></i><span>Albert-Riverview</span>
+        </li>
+    </ul>
+
+</div>
+        </div>
+
+            </div>
+                <div class="row" id="vacant-ridings">
+                    <div class="col-12">
+                        <h3>Vacant Ridings</h3>
+                        <p>
+                            The following ridings are currently vacant.
+                        </p>
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        Miramichi West
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+        </div>
+
+    </section>
+
+    <section class="member-resources">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h3>Other resources</h3>
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="https://www.electionsnb.ca/content/enb/en.html">Elections New Brunswick</a>
+                            </li>
+                            <li>
+                                <a href="/en/members/expenses">Members Expense Reports</a>
+                            </li>
+                            <li>
+                                <a href="/en/members/disclosures">Public Disclosures</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-4">
+                <div class="footer-list-group">
+                    <span class="footer-list-header">
+                        Legislative Officers
+                    </span>
+                    <ul>
+                        <li>
+                            <a class="item" href="https://www.agnb-vgnb.ca/">Auditor General</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www.electionsnb.ca/content/enb/en.html">Chief Electoral Officer</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www.defenseur-nb-advocate.ca/">Child, Youth and Senior Advocate</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www.insurance-assurance.ca/index">Consumer Advocate for Insurance</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://oic-bci.ca/">Office of the Integrity Commissioner</a>
+                        </li>
+                        <li>
+                            <a class="item" href="http://officiallanguages.nb.ca/">Commissioner of Official Languages</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www.ombudnb.ca/">Ombud</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="footer-list-group">
+                    <span class="footer-list-header">
+                        Information
+                    </span>
+                    <ul>
+
+                        <li>
+                            <a class="item" href="https://www2.gnb.ca/content/gnb/en/lgnb.html">Lieutenant Governor of New Brunswick</a>
+                        </li>
+                        <li>
+                            <a class="item" href="http://laws.gnb.ca/en/BrowseTitle">New Brunswick Acts &amp; Regulations</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www2.gnb.ca/content/gnb/en/contacts/dept_renderer.201936.html#structure">Employee Directory</a>
+                        </li>
+                        <li>
+                            <a class="item" href="/en/disclaimer">Disclaimer</a>
+                        </li>
+                        <li>
+                            <a class="item" href="/en/sitemap">Sitemap</a>
+                        </li>
+                        <li>
+                            <a class="item" href="/en/other-legislatures">Other Legislatures</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://epp.legnb.ca?lang=en">Member and Employee Portal</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <address class="footer-legislature-address">
+                    Legislative Assembly of New Brunswick<br/>
+706 Queen Street<br/>
+Fredericton, N.B.<br/>
+E3B 1C5<br/>
+Canada<br/>
+(506) 453-2506<br>
+Mon. to Fri.: 8:15 a.m. – 4:30 p.m.
+                </address>
+            </div>
+        </div>
+    </div>
+    <div class="site-copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <span style="color: rgba(255, 255, 255, 0.6);">
+                        2025 The Legislative Assembly of New Brunswick
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+    <script src="/js/site.js?v=YvbCUlaKUemuZMC3jbhGW5tU_fDbTdesBqt3Q13cBUs"></script>
+
+
+
+
+</body>
+</html>

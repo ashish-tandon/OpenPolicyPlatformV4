@@ -1,0 +1,38 @@
+status: 200
+encoding: None
+Content-Type: application/octet-stream
+Last-Modified: Fri, 16 Aug 2024 16:01:29 GMT
+Accept-Ranges: bytes
+ETag: "92d7238ef5efda1:0"
+Server: Microsoft-IIS/10.0
+X-Powered-By: ASP.NET
+Date: Sat, 09 Aug 2025 05:44:51 GMT
+Content-Length: 3153
+
+District name,Primary role,Name,First name,Last name,Gender,Party name,Email,Photo URL,Source URL,Website,Facebook,Instagram,Twitter,LinkedIn,YouTube,Office type,Address,Phone,Fax
+Guelph,Mayor,Cam Guthrie,Cam,Guthrie,,,mayor@guelph.ca,http://guelph.ca/wp-content/uploads/CamGuthrie1.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 837-5643,1 519 822-8277
+Ward 1,Councillor,Erin Caton,Erin,Caton,,,erin.caton@guelph.ca,https://guelph.ca/wp-content/uploads/Councillor-Erin-Caton.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-6152,1 519 822-8277
+Ward 1,Councillor,Dan Gibson,Dan,Gibson,,,dan.gibson@guelph.ca,https://guelph.ca/wp-content/uploads/Dan-Gibson-2023.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x2502,1 519 822-8277
+Ward 2,Councillor,Carly Klassen,Carly,Klassen,,,carly.klassen@guelph.ca,https://guelph.ca/wp-content/uploads/Carly-Klassen.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x2504,1 519 822-8277
+Ward 2,Councillor,Rodrigo Goller,Rodrigo,Goller,,,rodrigo.goller@guelph.ca,https://guelph.ca/wp-content/uploads/rodrigo-goller-2023.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260,1 519 822-8277
+Ward 3,Councillor,Michelle Richardson,Michelle,Richardson,,,michelle.richardson@guelph.ca,https://guelph.ca/wp-content/uploads/Councillor-Michelle-Richardson.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x2505,1 519 822-8277
+Ward 3,Councillor,Phil Allt,Phil,Allt,,,phil.allt@guelph.ca,https://guelph.ca/wp-content/uploads/Phil-Allt-2023.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x2510,1 519 822-8277
+Ward 4,Councillor,Christine Billings,Christine,Billings,,,christine.billings@guelph.ca,https://guelph.ca/wp-content/uploads/Councillor-Christine-Billings-2023.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 826-0567,1 519 822-8277
+Ward 4,Councillor,Linda Busuttil,Linda,Busuttil,,,lina.busuttil@guelph.ca,https://guelph.ca/wp-content/uploads/01-Linda-Busuttil-scaled-e1686080046266-768x637.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x2512,1 519 822-8277
+Ward 5,Councillor,Cathy Downer,Cathy,Downer,,,cathy.downer@guelph.ca,https://guelph.ca/wp-content/uploads/Councillor-Cathy-Downer-2023.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x2294,1 519 822-8277
+Ward 5,Councillor,Leanne Caron,Leanne,Caron,,,leanne.caron@guelph.ca,https://guelph.ca/wp-content/uploads/Councillor-Leanne-Caron-2023.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x2295,1 519 822-8277
+Ward 6,Councillor,Dominque O'Rourke,Dominque,O'Rourke,,,dominique.orourke@guelph.ca,https://guelph.ca/wp-content/uploads/Councillor-Dominique-ORourke-2023.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x3577,1 519 822-8277
+Ward 6,Councillor,Ken Yee Chew,Ken,Yee Chew,,,ken.chew@guelph.ca,https://guelph.ca/wp-content/uploads/Councillor-Ken-Yee-Chew.jpg,,,,,,,,legislature,"1 Carden Street
+Guelph ON  N1H 3A1",1 519 822-1260 x2296,1 519 822-8277

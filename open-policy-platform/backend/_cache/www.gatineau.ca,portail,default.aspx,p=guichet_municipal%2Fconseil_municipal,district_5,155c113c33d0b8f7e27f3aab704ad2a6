@@ -1,0 +1,497 @@
+status: 200
+encoding: iso-8859-1
+Cache-Control: private
+Content-Type: text/html; charset=iso-8859-1
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+Set-Cookie: interne=0; path=/; secure, Culture=fr-CA; expires=Sat, 08-Aug-2026 21:46:33 GMT; path=/; secure
+X-Powered-By: ASP.NET
+X-FRAME-OPTIONS: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Fri, 08 Aug 2025 21:46:33 GMT
+Content-Length: 42661
+
+<!--
+   ____       _   _                                                   _               _      
+  / ___| __ _| |_(_)_ __   ___  __ _ _   _   _ __   ___  _   _ _ __  | | __ _  __   _(_) ___ 
+ | |  _ / _` | __| | '_ \ / _ \/ _` | | | | | '_ \ / _ \| | | | '__| | |/ _` | \ \ / / |/ _ \
+ | |_| | (_| | |_| | | | |  __/ (_| | |_| | | |_) | (_) | |_| | |    | | (_| |  \ V /| |  __/
+  \____|\__,_|\__|_|_| |_|\___|\__,_|\__,_| | .__/ \___/ \__,_|_|    |_|\__,_|   \_/ |_|\___|
+                                            |_|                                              
+-->
+
+<!doctype html>
+<html lang="fr-CA" class="taille-du-texte-0 police-de-caracteres-du-texte-0 contraste-0">
+	<head>
+<base href="https://www.gatineau.ca/docs/guichet_municipal/conseil_municipal/district_5/" />
+		<meta charset="utf-8" />
+		<meta http-equiv="x-ua-compatible" content="ie=edge" />
+		<meta name="facebook-domain-verification" content="615oyxlpmbvddy0eyexajbthtlhyxs" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="format-detection" content="telephone=no" />
+		<title>Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5) - Ville de Gatineau</title>
+		<script src="/portail/sites/commun/cache.aspx"></script>
+		<script src="/portail/sites/commun/pages_vues.aspx?langue=fr-CA"></script>
+		<script src="/portail/sites/commun/modele/scripts/scripts-retrocompatibles.js?2025080817"></script>
+		<script src="/portail/sites/commun/modele/scripts/fr_CA.js?2025080817"></script>
+		<script src="/portail/sites/commun/modele/scripts/scripts.js?2025080817"></script>
+		<link rel="stylesheet" href="/portail/sites/commun/modele/styles/styles-retrocompatibles.css?2025080817" />
+		<link rel="stylesheet" href="/portail/sites/commun/modele/styles/styles.css?2025080817" />
+		<script src="/portail/sites/ville/sections_principales.aspx?langue=fr-CA"></script>
+		<script src="/portail/sites/ville/images_pages.aspx?langue=fr-CA"></script>
+		<script src="/portail/sites/ville/bandeaux.aspx?langue=fr-CA"></script>
+		<script src="/portail/sites/ville/modele/scripts/fr_CA.js?2025080817"></script>
+		<script src="/portail/sites/ville/modele/scripts/scripts.js?2025080817"></script>
+		<link rel="stylesheet" href="/portail/sites/ville/modele/styles/styles.css?2025080817" />
+		<link rel="icon" href="/portail/sites/ville/modele/images/icone-de-favoris.png?2025080817" />
+        <link rel="canonical" href="https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal%2Fconseil_municipal/district_5" />
+		
+		
+		<meta name="p:domain_verify" content="73c932547aa58479128052ddf75605ab" />
+	<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.gatineau.ca/portail/default.aspx?p=guichet_municipal%2Fconseil_municipal/district_5" />
+<meta property="og:title" content="Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5)" />
+<meta property="og:description" content="Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5)" />
+<meta property="og:image" content="https://www.gatineau.ca/portail/sites/ville/modele/images/image-open-graph.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+</head>
+	<body onload="commun.chargerPage(); gatineauCa.chargerPage();">
+		<script src="/portail/inclusions/inclusion.aspx?inclusion=environnement"></script>
+		<script src="/portail/inclusions/inclusion.aspx?inclusion=charte_langue_francaise_haut_page&theme=gatineau_ca&langue=fr-CA"></script>
+		
+		<div id="haut-de-la-page"></div>
+		<div class="version-imprimable-haut-de-page">
+			<div class="logo-de-la-ville-de-gatineau-titre">
+				<div class="logo-de-la-ville-de-gatineau"><img src="/portail/sites/ville/modele/images/logo-de-la-ville-de-gatineau.svg?2025080817" alt="Ville de Gatineau" /></div>
+				<div class="titre">Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5)</div>
+			</div>
+		</div>
+		<div class="passer-au-contenu-principal"><a href="javascript:;" onclick="gatineauCa.passerContenuPrincipal();">Passer au contenu principal</a></div>
+		<div id="version-mobile-haut-de-page">
+			<div class="logo-horizontal-de-la-ville-de-gatineau-rechercher-menu">
+				<div class="logo-horizontal-de-la-ville-de-gatineau"><a href="/portail/default.aspx?p=accueil&amp;ref=haut-de-page" title="Accueil" aria-label="Accueil"></a></div>
+				<div class="rechercher"><a href="javascript:;" onclick="gatineauCa.versionMobileHautPageMenu(this.parentNode.parentNode.children[2].children[0], document.getElementById('version-mobile-haut-de-page-mots-cles-de-la-recherche').parentNode.parentNode.parentNode, document.getElementById('version-mobile-haut-de-page-mots-cles-de-la-recherche'), true);" title="Rechercher" aria-label="Rechercher"></a></div>
+				<div class="menu"><a href="javascript:;" onclick="gatineauCa.versionMobileHautPageMenu(this, document.getElementById('version-mobile-haut-de-page'), null, false);" title="Menu" aria-label="Menu" aria-haspopup="true" class="reduit"></a></div>
+			</div>
+			<div id="version-mobile-haut-de-page-menu">
+				<div class="langue-accueil-contacter-la-ville-de-gatineau-trouver-un-lieu-services-en-ligne-portail-citoyen">
+					<ul>
+						<li class="langue"><a href="javascript:;" onclick="commun.langue();" lang="en">English</a></li><li class="accueil"><a href="/portail/default.aspx?p=accueil&amp;ref=haut-de-page">Accueil</a></li><li class="contacter-la-ville-de-gatineau"><a href="/portail/default.aspx?p=pour_nous_joindre&amp;ref=haut-de-page">Contacter la Ville de Gatineau</a></li><li class="trouver-un-lieu"><a href="/portail/default.aspx?p=trouver_un_lieu&amp;ref=haut-de-page">Trouver un lieu</a></li><li class="services-en-ligne"><a href="javascript:;" onclick="commun.afficherFenetre('url', '/portail/sites/ville/services_en_ligne.aspx?langue=fr-CA', this, this, 'positionnement-fixe-centre', 'Services en ligne', true, true, true);">Services en ligne</a></li><li class="portail-citoyen"><a href="/portail/default.aspx?p=portail_citoyen&amp;ref=haut-de-page">Portail citoyen</a></li>
+					</ul>
+				</div>
+				<div class="rechercher">
+					<ul>
+						<li class="rechercher"><input type="text" autocomplete="off" placeholder="Rechercher dans Gatineau.ca" aria-label="Rechercher dans Gatineau.ca" onkeydown="if (this.value.length > 0) { if (event.keyCode == 38 || event.keyCode == 40) { gatineauCa.rechercherDeplacerCurseur(-1, event.keyCode); } }" onkeyup="if (this.value.length > 0) { if (event.keyCode == 13) { gatineauCa.rechercheAvancee(document.getElementById('version-mobile-haut-de-page-mots-cles-de-la-recherche').value); } else { commun.afficherFenetre('html', gatineauCa.rechercher(this.value), this, this.parentNode.parentNode, 'positionnement-absolu-largeur-minimale', '', false, false, false); } } else { commun.masquerFenetre(); }" onclick="if (this.value.length > 0) { commun.afficherFenetre('html', gatineauCa.rechercher(this.value), this, this.parentNode.parentNode, 'positionnement-absolu-largeur-minimale', '', false, false, false); } else { commun.masquerFenetre(); } commun.defilerVers(this.parentNode.parentNode.parentNode);" id="version-mobile-haut-de-page-mots-cles-de-la-recherche"><a href="javascript:;" onclick="if (document.getElementById('version-mobile-haut-de-page-mots-cles-de-la-recherche').value.length > 0) { gatineauCa.rechercheAvancee(document.getElementById('version-mobile-haut-de-page-mots-cles-de-la-recherche').value); } else { document.getElementById('version-mobile-haut-de-page-mots-cles-de-la-recherche').focus(); }" title="Rechercher" aria-label="Rechercher"></a></li>
+					</ul>
+				</div>
+				<div class="recherches-du-moment">
+					<ul>
+						<li class="recherches-du-moment"><a href="javascript:;" onclick="commun.afficherFenetre('url', '/portail/sites/ville/recherches_du_moment.aspx?langue=fr-CA', this, this, 'positionnement-fixe-centre', 'Recherches du moment', true, true, true);">Recherches du moment</a></li>
+					</ul>
+				</div>
+				<div class="navigation">
+					<div id="version-mobile-haut-de-page-menu-navigation-contenu"></div>
+				</div>
+				<div class="ajuster-la-taille-du-texte-ajuster-la-police-de-caracteres-du-texte-ajuster-le-contraste">
+					<ul>
+						<li class="ajuster-la-taille-du-texte"><a href="javascript:;" onclick="gatineauCa.ajusterTailleTexte();">Ajuster la taille du texte</a></li><li class="ajuster-la-police-de-caracteres-du-texte"><a href="javascript:;" onclick="gatineauCa.ajusterPoliceCaracteresTexte();">Ajuster la police de caractères du texte</a></li><li class="ajuster-le-contraste"><a href="javascript:;" onclick="gatineauCa.ajusterContraste();">Ajuster le contraste</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="langue-accueil-contacter-la-ville-de-gatineau-trouver-un-lieu-services-en-ligne-portail-citoyen">
+			<div class="conteneur">
+				<div class="colonnes">
+					<div class="colonne langue">
+						<ul>
+							<li class="langue"><a href="javascript:;" onclick="commun.langue();" lang="en">English</a></li>
+						</ul>
+					</div>
+					<div class="colonne accueil-contacter-la-ville-de-gatineau-trouver-un-lieu-services-en-ligne-portail-citoyen">
+						<ul>
+							<li class="accueil"><a href="/portail/default.aspx?p=accueil&amp;ref=haut-de-page">Accueil</a></li><li class="contacter-la-ville-de-gatineau"><a href="/portail/default.aspx?p=pour_nous_joindre&amp;ref=haut-de-page">Contacter la Ville de Gatineau</a></li><li class="trouver-un-lieu"><a href="/portail/default.aspx?p=trouver_un_lieu&amp;ref=haut-de-page">Trouver un lieu</a></li><li class="services-en-ligne"><a href="javascript:;" onclick="commun.afficherFenetre('url', '/portail/sites/ville/services_en_ligne.aspx?langue=fr-CA', this, this, 'positionnement-fixe-centre', 'Services en ligne', true, true, true);">Services en ligne</a></li><li class="portail-citoyen"><a href="/portail/default.aspx?p=portail_citoyen&amp;ref=haut-de-page">Portail citoyen</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="alertes">
+			<div id="alertes-contenu">
+				<ul>
+					<script src="/portail/sites/ville/alertes.aspx?langue=fr-CA"></script>
+				</ul>
+			</div>
+		</div>
+		<div class="logo-horizontal-de-la-ville-de-gatineau-rechercher-recherches-du-moment">
+			<div class="conteneur">
+				<div class="colonnes">
+					<div class="colonne logo-horizontal-de-la-ville-de-gatineau">
+						<ul>
+							<li class="logo-horizontal-de-la-ville-de-gatineau"><a href="/portail/default.aspx?p=accueil&amp;ref=haut-de-page" title="Accueil" aria-label="Accueil"></a></li>
+						</ul>
+					</div>
+					<div class="colonne rechercher">
+						<ul>
+							<li class="rechercher"><input type="text" autocomplete="off" placeholder="Rechercher dans Gatineau.ca" aria-label="Rechercher dans Gatineau.ca" onkeydown="if (this.value.length > 0) { if (event.keyCode == 38 || event.keyCode == 40) { gatineauCa.rechercherDeplacerCurseur(-1, event.keyCode); } }" onkeyup="if (this.value.length > 0) { if (event.keyCode == 13) { gatineauCa.rechercheAvancee(document.getElementById('mots-cles-de-la-recherche').value); } else { commun.afficherFenetre('html', gatineauCa.rechercher(this.value), this, this.parentNode.parentNode, 'positionnement-absolu-largeur-minimale', '', false, false, false); } } else { commun.masquerFenetre(); }" onclick="if (this.value.length > 0) { commun.afficherFenetre('html', gatineauCa.rechercher(this.value), this, this.parentNode.parentNode, 'positionnement-absolu-largeur-minimale', '', false, false, false); } else { commun.masquerFenetre(); }" id="mots-cles-de-la-recherche"><a href="javascript:;" onclick="if (document.getElementById('mots-cles-de-la-recherche').value.length > 0) { gatineauCa.rechercheAvancee(document.getElementById('mots-cles-de-la-recherche').value); } else { document.getElementById('mots-cles-de-la-recherche').focus(); }" title="Rechercher" aria-label="Rechercher"></a></li>
+						</ul>
+					</div>
+					<div class="colonne recherches-du-moment">
+						<ul>
+							<li class="recherches-du-moment"><a href="javascript:;" onclick="commun.afficherFenetre('url', '/portail/sites/ville/recherches_du_moment.aspx?langue=fr-CA', this, this, 'positionnement-fixe-centre', 'Recherches du moment', true, true, true);">Recherches du moment</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="sections-principales">
+			<div class="conteneur">
+				<div id="sections-principales-contenu"><ul><li><a href="/portail/default.aspx?p=avis_importants_alertes_urgences&amp;ref=navigation-primaire">Avis importants, alertes et urgences</a></li><li><a href="/portail/default.aspx?p=nouvelles_annonces&amp;ref=navigation-primaire">Nouvelles et annonces</a></li><li><a href="/portail/default.aspx?p=activites_evenements_idees_sorties&amp;ref=navigation-primaire">Activités, événements et idées de sorties</a></li><li class="actif"><a href="/portail/default.aspx?p=guichet_municipal&amp;ref=navigation-primaire">Renseignements et services</a></li><li><a href="/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes&amp;ref=navigation-primaire">Publications, cartes, statistiques et données ouvertes</a></li></ul></div>
+			</div>
+		</div>
+		<div class="fil-d-ariane">
+	<div class="conteneur"><ul><li><a href="/portail/default.aspx?p=accueil&amp;ref=fil-d-ariane">Gatineau.ca</a></li><li><a href="/portail/default.aspx?p=guichet_municipal&amp;ref=fil-d-ariane">Renseignements et services</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal&amp;ref=fil-d-ariane">Conseil municipal</a></li><li class="actif"><a href="/portail/default.aspx?p=guichet_municipal%2Fconseil_municipal/district_5&amp;ref=fil-d-ariane">Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5)</a></li></ul></div>
+</div>
+<div class="image-de-couverture-titre">
+	<div id="image-de-couverture"></div>
+	<div class="titre">
+		<div class="titre">
+			<div class="conteneur">Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5)</div>
+		</div>
+	</div>
+</div>
+<div class="version-mobile-contenu-principal">
+	<div id="version-mobile-contenu-principal-image-de-couverture"></div>
+	<div class="titre-menu">
+		<div class="titre">Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5)</div>
+		<div class="menu"><a href="javascript:;" onclick="gatineauCa.versionMobileContenuPrincipalMenu(this);" title="Menu" aria-label="Menu" class="reduit"></a></div>
+	</div>
+	<div id="version-mobile-contenu-principal-menu">
+		<div id="version-mobile-contenu-principal-menu-contenu">
+			<div id="version-mobile-contenu-principal-menu-contenu-en-savoir-plus">
+				<h1 id="version-mobile-contenu-principal-menu-contenu-en-savoir-plus-h1">En savoir plus</h1>
+				<div id="version-mobile-contenu-principal-menu-contenu-en-savoir-plus-contenu">
+					<div id="version-mobile-contenu-principal-menu-contenu-en-savoir-plus-contenu-navigation-secondaire">
+						<div id="version-mobile-contenu-principal-menu-contenu-en-savoir-plus-contenu-navigation-secondaire-contenu"><ul><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/maire&amp;ref=navigation-secondaire">Maude Marquis-Bissonnette&nbsp;&ndash;&nbsp;Mairesse</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_1&amp;ref=navigation-secondaire">Steven Boivin&nbsp;&ndash;&nbsp;Conseiller municipal du district d'Aylmer (1)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_2&amp;ref=navigation-secondaire">Gilles Chagnon&nbsp;&ndash;&nbsp;Conseiller municipal du district de Lucerne (2)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_3&amp;ref=navigation-secondaire">Caroline Murray&nbsp;&ndash;&nbsp;Conseillère municipale du district de Deschênes (3)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_4&amp;ref=navigation-secondaire">Bettyna Bélizaire&nbsp;&ndash;&nbsp;Conseillère municipale du district du Plateau (4)</a></li><li class="actif"><a href="/portail/default.aspx?p=guichet_municipal%2Fconseil_municipal/district_5&amp;ref=navigation-secondaire">Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_6&amp;ref=navigation-secondaire">Jocelyn Blondin&nbsp;&ndash;&nbsp;Conseiller municipal du district du Manoir-des-Trembles&ndash;Val-Tétreau (6)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_7&amp;ref=navigation-secondaire">Steve Moran&nbsp;&ndash;&nbsp;Conseiller municipal du district de Hull&ndash;Wright (7)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_8&amp;ref=navigation-secondaire">Marc Bureau&nbsp;&ndash;&nbsp;Conseiller municipal du district du Parc-de-la-Montagne&ndash;Saint-Raymond (8)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_9&amp;ref=navigation-secondaire">Isabelle N. Miron&nbsp;&ndash;&nbsp;Conseillère municipale du district de l'Orée-du-Parc (9)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_10&amp;ref=navigation-secondaire">Louis Sabourin&nbsp;&ndash;&nbsp;Conseiller municipal du district de Limbour (10)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_11&amp;ref=navigation-secondaire">Tiffany-Lee Norris Parent&nbsp;&ndash;&nbsp;Conseillère municipale du district de Touraine (11)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_12&amp;ref=navigation-secondaire">Mike Duggan&nbsp;&ndash;&nbsp;Conseiller municipal du district de Pointe-Gatineau (12)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_13&amp;ref=navigation-secondaire">Catherine Craig-St-Louis&nbsp;&ndash;&nbsp;Conseillère municipale du district du Carrefour-de-l&#39;Hôpital (13)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_14&amp;ref=navigation-secondaire">Daniel Champagne&nbsp;&ndash;&nbsp;Conseiller municipal du district du Versant (14)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_15&amp;ref=navigation-secondaire">Alicia Lacasse-Brunet&nbsp;&ndash;&nbsp;Conseillère municipale du district de Bellevue (15)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_16&amp;ref=navigation-secondaire">Denis Girouard&nbsp;&ndash;&nbsp;Conseiller municipal du district du Lac-Beauchamp (16)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_17&amp;ref=navigation-secondaire">Jean Lessard&nbsp;&ndash;&nbsp;Conseiller municipal du district de la Rivière-Blanche (17)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_18&amp;ref=navigation-secondaire">Mario Aubé&nbsp;&ndash;&nbsp;Conseiller municipal du district de Masson-Angers (18)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_19&amp;ref=navigation-secondaire">Edmond Leclerc&nbsp;&ndash;&nbsp;Conseiller municipal du district de Buckingham (19)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/proclamations_officielles&amp;ref=navigation-secondaire">Proclamations officielles</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/programme_conseil_municipal&amp;ref=navigation-secondaire">Programme du conseil municipal</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/seances_conseil_municipal&amp;ref=navigation-secondaire">Séances du conseil municipal</a></li></ul></div>
+					</div>
+					<div id="version-mobile-contenu-principal-menu-contenu-en-savoir-plus-contenu-aller-a">
+						<div id="version-mobile-contenu-principal-menu-contenu-en-savoir-plus-contenu-aller-a-contenu"><ul><li class="aller-a"><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal&amp;ref=navigation-secondaire">Aller à Conseil municipal</a></li></ul></div>
+					</div>
+				</div>
+			</div>
+			<div id="version-mobile-contenu-principal-menu-contenu-dans-cette-page">
+				<h1 id="version-mobile-contenu-principal-menu-contenu-dans-cette-page-h1">Dans cette page</h1>
+				<div id="version-mobile-contenu-principal-menu-contenu-dans-cette-page-contenu"></div>
+			</div>
+			<div id="version-mobile-contenu-principal-menu-contenu-voir-aussi">
+				<h1 id="version-mobile-contenu-principal-menu-contenu-voir-aussi-h1">Voir aussi</h1>
+				<div id="version-mobile-contenu-principal-menu-contenu-voir-aussi-contenu"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="contenu-principal">
+	<div class="conteneur">
+		<div class="colonnes">
+			<div class="colonne gauche">
+				<div id="contenu-principal-gauche">
+					<div id="contenu-principal-gauche-contenu">
+						<div id="contenu-principal-gauche-contenu-en-savoir-plus">
+							<h1 id="contenu-principal-gauche-contenu-en-savoir-plus-h1">En savoir plus</h1>
+							<div id="contenu-principal-gauche-contenu-en-savoir-plus-contenu">
+								<div id="contenu-principal-gauche-contenu-en-savoir-plus-contenu-navigation-secondaire">
+									<div id="contenu-principal-gauche-contenu-en-savoir-plus-contenu-navigation-secondaire-contenu"><ul><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/maire&amp;ref=navigation-secondaire">Maude Marquis-Bissonnette&nbsp;&ndash;&nbsp;Mairesse</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_1&amp;ref=navigation-secondaire">Steven Boivin&nbsp;&ndash;&nbsp;Conseiller municipal du district d'Aylmer (1)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_2&amp;ref=navigation-secondaire">Gilles Chagnon&nbsp;&ndash;&nbsp;Conseiller municipal du district de Lucerne (2)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_3&amp;ref=navigation-secondaire">Caroline Murray&nbsp;&ndash;&nbsp;Conseillère municipale du district de Deschênes (3)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_4&amp;ref=navigation-secondaire">Bettyna Bélizaire&nbsp;&ndash;&nbsp;Conseillère municipale du district du Plateau (4)</a></li><li class="actif"><a href="/portail/default.aspx?p=guichet_municipal%2Fconseil_municipal/district_5&amp;ref=navigation-secondaire">Anik Des Marais&nbsp;&ndash;&nbsp;Conseillère municipale du district de Mitigomijokan (5)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_6&amp;ref=navigation-secondaire">Jocelyn Blondin&nbsp;&ndash;&nbsp;Conseiller municipal du district du Manoir-des-Trembles&ndash;Val-Tétreau (6)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_7&amp;ref=navigation-secondaire">Steve Moran&nbsp;&ndash;&nbsp;Conseiller municipal du district de Hull&ndash;Wright (7)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_8&amp;ref=navigation-secondaire">Marc Bureau&nbsp;&ndash;&nbsp;Conseiller municipal du district du Parc-de-la-Montagne&ndash;Saint-Raymond (8)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_9&amp;ref=navigation-secondaire">Isabelle N. Miron&nbsp;&ndash;&nbsp;Conseillère municipale du district de l'Orée-du-Parc (9)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_10&amp;ref=navigation-secondaire">Louis Sabourin&nbsp;&ndash;&nbsp;Conseiller municipal du district de Limbour (10)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_11&amp;ref=navigation-secondaire">Tiffany-Lee Norris Parent&nbsp;&ndash;&nbsp;Conseillère municipale du district de Touraine (11)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_12&amp;ref=navigation-secondaire">Mike Duggan&nbsp;&ndash;&nbsp;Conseiller municipal du district de Pointe-Gatineau (12)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_13&amp;ref=navigation-secondaire">Catherine Craig-St-Louis&nbsp;&ndash;&nbsp;Conseillère municipale du district du Carrefour-de-l&#39;Hôpital (13)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_14&amp;ref=navigation-secondaire">Daniel Champagne&nbsp;&ndash;&nbsp;Conseiller municipal du district du Versant (14)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_15&amp;ref=navigation-secondaire">Alicia Lacasse-Brunet&nbsp;&ndash;&nbsp;Conseillère municipale du district de Bellevue (15)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_16&amp;ref=navigation-secondaire">Denis Girouard&nbsp;&ndash;&nbsp;Conseiller municipal du district du Lac-Beauchamp (16)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_17&amp;ref=navigation-secondaire">Jean Lessard&nbsp;&ndash;&nbsp;Conseiller municipal du district de la Rivière-Blanche (17)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_18&amp;ref=navigation-secondaire">Mario Aubé&nbsp;&ndash;&nbsp;Conseiller municipal du district de Masson-Angers (18)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/district_19&amp;ref=navigation-secondaire">Edmond Leclerc&nbsp;&ndash;&nbsp;Conseiller municipal du district de Buckingham (19)</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/proclamations_officielles&amp;ref=navigation-secondaire">Proclamations officielles</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/programme_conseil_municipal&amp;ref=navigation-secondaire">Programme du conseil municipal</a></li><li><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal/seances_conseil_municipal&amp;ref=navigation-secondaire">Séances du conseil municipal</a></li></ul></div>
+								</div>
+								<div id="contenu-principal-gauche-contenu-en-savoir-plus-contenu-aller-a">
+									<div id="contenu-principal-gauche-contenu-en-savoir-plus-contenu-aller-a-contenu"><ul><li class="aller-a"><a href="/portail/default.aspx?p=guichet_municipal/conseil_municipal&amp;ref=navigation-secondaire">Aller à Conseil municipal</a></li></ul></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="colonne droite">
+				<div id="contenu-principal-droite">
+					<div id="contenu-principal-droite-contenu">
+						<div id="contenu-principal-droite-contenu-dans-cette-page">
+							<h1 id="contenu-principal-droite-contenu-dans-cette-page-h1">Dans cette page</h1>
+							<div id="contenu-principal-droite-contenu-dans-cette-page-contenu"></div>
+						</div>
+						<div id="contenu-principal-droite-contenu-voir-aussi">
+							<h1 id="contenu-principal-droite-contenu-voir-aussi-h1">Voir aussi</h1>
+							<div id="contenu-principal-droite-contenu-voir-aussi-contenu"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="colonne centre">
+				<div id="contenu-principal-centre">
+					<div id="contenu-principal-centre-contenu">
+						<div id="contenu-principal-centre-contenu-index">
+
+<h1>À propos d'Anik Des Marais</h1>
+
+<div class="colonnes">
+  
+    <div class="colonnes-3"><p align="center"><a href="../district_5.jpg" target="_blank"><img src="../district_5.jpg" border="0" width="100%" alt="" style="max-width: 480px;" /></a></p></div>
+    <div class="colonnes-9">
+<p><strong>
+  Conseillère municipale<br />
+District de Mitigomijokan (5)<br />
+Action Gatineau
+</strong></p>
+
+<p><strong>Adresse de courriel&nbsp;:</strong><br /><a href="mailto:desmarais.anik@gatineau.ca">desmarais.anik@gatineau.ca</a></p>
+
+<p><strong>Numéro de téléphone&nbsp;:</strong><br /><a href="tel:8195957110">819&nbsp;595-7110</a></p>
+
+<p><strong>Site Web&nbsp;:</strong><br /><a href="https://anikdesmarais.com/" target="_blank">anikdesmarais.com</a></p>
+
+<p><a href="https://www.facebook.com/AnikDesMaraisMitigomijokan/" target="_blank"><img src="../icone_facebook.png" width="24" height="24" border="0" style="margin-right: 5px;" />Facebook</a></p>
+
+  </div>
+</div>
+
+<h1>Carte du district électoral</h1>
+<style>
+	#DivCarte .zone {
+		width: 100px !important;
+		height: unset !important;
+		font: bold 11px var(--font-family) !important;
+		text-align: center !important;
+		color: #fff !important;
+		text-shadow: 0 0 5px #000, 0 0 5px #000, 0 0 5px #000, 0 0 5px #000 !important;
+	}
+</style>
+<script src="../turf.min.js" charset="utf-8"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="https://unpkg.com/esri-leaflet@3.0.12/dist/esri-leaflet.js"></script>
+<script src="https://unpkg.com/esri-leaflet-vector@4.2.3/dist/esri-leaflet-vector.js"></script>
+<div style="height: 50vh; z-index: 0;" class="carte-geographique" id="DivCarte"></div>
+<script>
+	function MM_ajaxLoader_DistrictsElectoraux(numeroDistrictElectoral) {
+		var x = new XMLHttpRequest();
+		x.onreadystatechange = function() {
+			if (x.readyState == 4 && x.status == 200) {
+				var y = JSON.parse(x.responseText);
+				
+				var map = L.map(document.getElementById("DivCarte"));
+				
+				map.createPane("world_hillshade");
+				map.createPane("world_topo");
+				map.createPane("canada_hillshade");
+				map.createPane("canada_topo");
+
+				const worldHillshade = L.esri.tiledMapLayer({
+						url: "https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer",
+						pane: "world_hillshade"
+					});
+
+				const canadaHillshade = L.esri.tiledMapLayer({
+						url: 'https://tiles.arcgis.com/tiles/B6yKvIZqzuOr0jBR/arcgis/rest/services/Canada_Hillshade/MapServer',
+						pane: "canada_hillshade"
+					});
+
+				const worldTopoCanadaStyle = L.esri.Vector.vectorTileLayer("6d0ed88458c6429d99331260fb7bf2b0", {
+						pane: "world_topo"
+					});
+
+				const canadaTopo = L.esri.Vector.vectorTileLayer(
+					"https://tiles.arcgis.com/tiles/B6yKvIZqzuOr0jBR/arcgis/rest/services/Canada_Topographic/VectorTileServer", {
+						pane: "canada_topo"
+					});
+
+				const canadian_topo = L.layerGroup([
+						canadaTopo,
+						worldTopoCanadaStyle,
+						canadaHillshade,
+						worldHillshade
+					]).addTo(map);
+				
+				map.createPane("polygons");
+				
+				var coordinates = new Array();
+				
+				for (var i = 0; i < y.features[numeroDistrictElectoral - 1].geometry.coordinates[0].length; i++) {
+					coordinates[coordinates.length] = new Array(y.features[numeroDistrictElectoral - 1].geometry.coordinates[0][i][1], y.features[numeroDistrictElectoral - 1].geometry.coordinates[0][i][0]);
+				}
+				
+				var polygon = L.polygon(coordinates, {color: '#000', weight: 2, pane: "polygons"}).addTo(map);
+				
+				var marker = L.marker([turf.pointOnFeature(y.features[numeroDistrictElectoral - 1].geometry).geometry.coordinates[1], turf.pointOnFeature(y.features[numeroDistrictElectoral - 1].geometry).geometry.coordinates[0]], {icon: L.divIcon({html: "District " + y.features[numeroDistrictElectoral - 1].properties.DISTRICT + " (" + y.features[numeroDistrictElectoral - 1].properties.NUM + ")", className: "zone", iconSize: [100, 100], iconAnchor: [50, 0], popupAnchor: [0, 0]})}).addTo(map);
+				
+				map.fitBounds(polygon.getBounds());
+			}
+		}
+		
+		x.open("GET", "../districts_electoraux.json", true);
+		x.send(null);
+	}
+
+	MM_ajaxLoader_DistrictsElectoraux(5);
+</script>
+
+<div id="DivMembreConseilMunicipalFonctionsPolitiques"></div>
+
+<script>
+	function MM_ajaxLoader_MembreConseilMunicipalFonctionsPolitiques(membreConseilMunicipal) {
+		var x = new XMLHttpRequest();
+		x.onreadystatechange = function() {
+			if (x.readyState == 4 && x.status == 200) {
+				var y = JSON.parse(x.responseText);
+				var sortie = "";
+				
+				for (var i = 0; i < y.length; i++) {
+					if (y[i].comite_commission.length > 0 && y[i].membre_conseil_municipal.length > 0 && y[i].membre_conseil_municipal == membreConseilMunicipal && y[i].poste.length > 0 && y[i].afficher_page_membre_conseil_municipal == "1") {
+						sortie = sortie + "<li>" + y[i].poste + ", " + (y[i].comite_commission_adresse_url.length > 0 ? "<a href=\"" + y[i].comite_commission_adresse_url + "\">" + y[i].comite_commission + "</a>" : y[i].comite_commission) + "</li>"
+					}
+				}
+				
+				if (sortie.length > 0) {
+					sortie = "<h1>Fonctions politiques</h1><ul>" + sortie + "</ul>";
+				}
+				
+				document.getElementById("DivMembreConseilMunicipalFonctionsPolitiques").innerHTML = sortie;
+
+				gatineauCa.redessinerPage();
+			}
+		}
+		
+		x.open("GET", "/json/membres_conseil_municipal_fonctions_politiques.aspx?langue=fr-CA", true);
+		x.send(null);
+	}
+
+	MM_ajaxLoader_MembreConseilMunicipalFonctionsPolitiques("Anik Des Marais");
+</script>
+
+<h1>Priorit&eacute;s pour le pr&eacute;sent mandat</h1>
+<ul>
+      <li>Donner les moyens aux citoyens de participer &agrave; la prise de  d&eacute;cision municipale par la mise en place d'un office des consultations  publiques et faciliter l'acc&egrave;s &agrave; l'information;</li>
+      <li>Mettre en place la politique des rues conviviales et revoir  l'am&eacute;nagement des rues pour am&eacute;liorer la fluidit&eacute; et augmenter la s&eacute;curit&eacute; des  cyclistes et des pi&eacute;tons de tout &acirc;ge;</li>
+      <li>Mettre en &oelig;uvre le Plan climat et les mesures d'adaptation aux  changements climatiques afin de rendre Gatineau plus verte et r&eacute;siliente;</li>
+      <li>Prot&eacute;ger les &eacute;cosyst&egrave;mes, les arbres, les bois&eacute;s, les milieux  humides et les cours d'eau;</li>
+      <li>Offrir des services de transport en commun accessibles, pratiques  et efficaces;</li>
+      <li>Am&eacute;nager des quartiers conviviaux&nbsp;qui favorisent le transport  actif, la vie communautaire et l'acc&egrave;s &agrave; des services de proximit&eacute;;</li>
+      <li>Veiller &agrave; ce que les nouveaux d&eacute;veloppements comme le quartier  Connaught, Ambassade Champlain et Destination Vanier soient respectueux de  l'environnement et offrent des milieux de vie de qualit&eacute;;</li>
+      <li>&Eacute;viter l'&eacute;talement urbain par une densification intelligente et  bien planifi&eacute;e.    </li>
+</ul>
+<h1>Formation</h1>
+    <ul>
+      <li>Maitrise en  administration publique de l'&Eacute;cole nationale d'administration publique (ENAP),  sp&eacute;cialisation en analyse et d&eacute;veloppement des organisations et &eacute;valuation de  programmes;</li>
+      <li> Baccalaur&eacute;at en  sciences politiques de l'Universit&eacute; de Montr&eacute;al.    </li>
+    </ul>
+    <h1>Fonctions professionnelles</h1>
+    <ul>
+      <li>Gestionnaire et agente affaire ext&eacute;rieur en commerce et en  d&eacute;veloppement international &agrave; Affaires mondiales Canada</li>
+      <li> Agente de d&eacute;veloppement international &agrave; l'Agence canadienne  de d&eacute;veloppement international (ACDI)</li>
+      <li> Conseill&egrave;re en am&eacute;lioration de la performance des  organisations publiques - Conseils et v&eacute;rification Canada</li>
+    </ul>
+    <h1>Fonctions &agrave; caract&egrave;re social</h1>
+    <ul>
+      <li>Anciennement  tr&eacute;sori&egrave;re et membre de l'ex&eacute;cutif de l'association des r&eacute;sidents de la Terrasse  Lakeview</li>
+      <li> Membre  fondatrice de Vivre en ville 
+</li>
+    </ul>
+	<script>commun.derniereMiseJourPageDateHeure(2025, 05, 28, 20, 20, 20, 0);</script>
+</div>
+						<div id="contenu-principal-centre-derniere-mise-a-jour-de-la-page"></div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		<div id="bandeaux">
+			<div id="bandeaux-contenu"></div>
+			<div id="bandeaux-controle-gauche"><a href="javascript:;" onclick="gatineauCa.bandeauxControle(-1);"></a></div>
+			<div id="bandeaux-controle-droite"><a href="javascript:;" onclick="gatineauCa.bandeauxControle(1);"></a></div>
+		</div>
+		<div class="a-propos-de-gatineau-sections-principales-liens-additionnels-autres-sites-de-la-ville-de-gatineau-restez-en-contact">
+			<div class="conteneur">
+				<div class="colonnes">
+					<div class="colonne a-propos-de-gatineau">
+						<h1>À propos de Gatineau</h1>
+						<ul>
+							<li class="logo-de-la-ville-de-gatineau"><a href="/portail/default.aspx?p=accueil&amp;ref=bas-de-page" title="Ville de Gatineau" aria-label="Ville de Gatineau"></a></li><li class="logo-gatineau-pour-la-vie"><a href="/portail/default.aspx?p=guichet_municipal/gatineau_vie&amp;ref=bas-de-page" title="Gatineau pour la vie" aria-label="Gatineau pour la vie"></a></li>
+						</ul>
+						<p>Reconnue pour sa qualité de vie, Gatineau est une ville de <span style="white-space: nowrap;">298&nbsp;000 habitants</span>. Elle est située sur la rive nord de la rivière des Outaouais, et s'étend à l'est et à l'ouest de la rivière Gatineau.</p>
+					</div>
+					<div class="colonne sections-principales"><h1>Sections principales</h1><ul><li><a href="/portail/default.aspx?p=avis_importants_alertes_urgences&amp;ref=navigation-primaire">Avis importants, alertes et urgences</a></li><li><a href="/portail/default.aspx?p=nouvelles_annonces&amp;ref=navigation-primaire">Nouvelles et annonces</a></li><li><a href="/portail/default.aspx?p=activites_evenements_idees_sorties&amp;ref=navigation-primaire">Activités, événements et idées de sorties</a></li><li class="actif"><a href="/portail/default.aspx?p=guichet_municipal&amp;ref=navigation-primaire">Renseignements et services</a></li><li><a href="/portail/default.aspx?p=publications_cartes_statistiques_donnees_ouvertes&amp;ref=navigation-primaire">Publications, cartes, statistiques et données ouvertes</a></li></ul></div>
+					<div class="colonne liens-additionnels-autres-sites-de-la-ville-de-gatineau">
+						<h1>Liens additionnels</h1>
+						<ul>
+							<li><a href="/portail/default.aspx?p=plan_du_site&amp;ref=bas-de-page">Plan du site</a></li>
+							<li><a href="/portail/default.aspx?p=aide_gatineau_ca&amp;ref=bas-de-page">Aide avec Gatineau.ca</a></li>
+						</ul>
+						<h1>Autres sites de la Ville de Gatineau</h1>
+						<ul>
+							<li><a href="/portail/lien.aspx?id=100067&amp;ref=bas-de-page" target="_blank">Portail libre-service des employés et retraités de la Ville de Gatineau</a></li>
+						</ul>
+					</div>
+					<div class="colonne restez-en-contact">
+						<h1>Restez en contact</h1>
+						<ul>
+							<li class="facebook"><a href="/facebook" target="_blank">Facebook</a></li>
+							<li class="x"><a href="/x" target="_blank">X</a></li>
+							<li class="bluesky"><a href="/bluesky" target="_blank">Bluesky</a></li>
+							<li class="instagram"><a href="/instagram" target="_blank">Instagram</a></li>
+							<li class="linkedin"><a href="/linkedin" target="_blank">LinkedIn</a></li>
+							<li class="youtube"><a href="/youtube" target="_blank">YouTube</a></li>
+							<li class="fils-rss"><a href="/portail/default.aspx?p=nouvelles_annonces/fils_rss&amp;ref=bas-de-page">Fils RSS</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="conditions-d-utilisation-declaration-de-confidentialite-copyright">
+			<div class="conteneur">
+				<div class="colonnes">
+					<div class="colonne conditions-d-utilisation-declaration-de-confidentialite">
+						<ul>
+							<li><a href="/portail/default.aspx?p=conditions_utilisation&amp;ref=bas-de-page">Conditions d'utilisation</a></li><li><a href="/portail/default.aspx?p=declaration_confidentialite&amp;ref=bas-de-page">Politique de confidentialité</a></li>
+						</ul>
+					</div>
+					<div class="colonne copyright">© Ville de Gatineau, 2025</div>
+				</div>
+			</div>
+		</div>
+		<div id="ajuster-la-taille-du-texte-ajuster-la-police-de-caracteres-du-texte-ajuster-le-contraste-fonctionnalites-d-accessibilite-imprimer-retourner-au-haut-de-la-page">
+			<div class="conteneur">
+				<div class="colonnes">
+					<div class="colonne ajuster-la-taille-du-texte-ajuster-la-police-de-caracteres-du-texte-ajuster-le-contraste-fonctionnalites-d-accessibilite-imprimer">
+						<ul>
+							<li class="ajuster-la-taille-du-texte"><a href="javascript:;" onclick="gatineauCa.ajusterTailleTexte();">Ajuster la taille du texte</a></li><li class="ajuster-la-police-de-caracteres-du-texte"><a href="javascript:;" onclick="gatineauCa.ajusterPoliceCaracteresTexte();">Ajuster la police de caractères du texte</a></li><li class="ajuster-le-contraste"><a href="javascript:;" onclick="gatineauCa.ajusterContraste();">Ajuster le contraste</a></li><li class="fonctionnalites-d-accessibilite"><a href="/portail/default.aspx?p=aide_gatineau_ca/fonctionnalites_accessibilite">Fonctionnalités d'accessibilité</a></li><li class="imprimer"><a href="javascript:;" onclick="commun.imprimer();">Imprimer</a></li>
+						</ul>
+					</div>
+					<div class="colonne retourner-au-haut-de-la-page">
+						<ul>
+							<li class="retourner-au-haut-de-la-page"><a href="javascript:;" onclick="gatineauCa.retournerHautPage('clic');" ondblclick="gatineauCa.retournerHautPage('double-clic');">Retourner au haut de la page</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="version-mobile-bas-de-page">
+			<div class="retourner-au-haut-de-la-page"><a href="javascript:;" onclick="gatineauCa.retournerHautPage('double-clic');">Retourner au haut de la page</a></div>
+		</div>
+		<div class="version-imprimable-bas-de-page">
+			<div class="copyright">© Ville de Gatineau, 2025</div>
+		</div>
+		
+		
+		
+		<script src="/portail/inclusions/inclusion.aspx?inclusion=charte_langue_francaise_bas_page&theme=gatineau_ca&langue=fr-CA"></script>
+	</body>
+</html>
+
+<!--
+Site : Ville de Gatineau
+Page : Anik Des Marais - Conseillère municipale du district de Mitigomijokan (5)
+Générateur : Portail Gatineau.ca 4.4
+Serveur : 206.123.3.51
+Date : 2025-08-08
+Heure : 17:46:33
+-->

@@ -1,0 +1,1079 @@
+{
+  "timestamp": "2025-08-08T21:16:32.946778",
+  "system_resources": {
+    "cpu_count": 16,
+    "memory_gb": 64.0,
+    "current_cpu_usage": 0.0,
+    "current_memory_usage": 0.0
+  },
+  "summary": {
+    "total_scrapers": 50,
+    "successful": 0,
+    "failed": 50,
+    "skipped": 0,
+    "success_rate": 0.0,
+    "total_records_collected": 0,
+    "total_records_inserted": 0,
+    "size_breakdown": {
+      "small": 31,
+      "medium": 13,
+      "large": 6
+    }
+  },
+  "category_stats": {
+    "parliamentary": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "provincial": {
+      "total": 14,
+      "successful": 0,
+      "failed": 14,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 9,
+      "medium": 2,
+      "large": 3
+    },
+    "municipal": {
+      "total": 33,
+      "successful": 0,
+      "failed": 33,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 21,
+      "medium": 10,
+      "large": 2
+    },
+    "civic": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "update": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    }
+  },
+  "failed_scrapers": [
+    {
+      "name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "error": "No people.py file found in ../../scrapers/openparliament"
+    },
+    {
+      "name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk: No module named 'utils'"
+    },
+    {
+      "name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc: No module named 'utils'"
+    },
+    {
+      "name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb: No module named 'utils'"
+    },
+    {
+      "name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc: No module named 'utils'"
+    },
+    {
+      "name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on: No module named 'utils'"
+    },
+    {
+      "name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nt: No module named 'utils'"
+    },
+    {
+      "name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns: No module named 'utils'"
+    },
+    {
+      "name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb: No module named 'utils'"
+    },
+    {
+      "name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_yt: No module named 'utils'"
+    },
+    {
+      "name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe: No module named 'utils'"
+    },
+    {
+      "name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab: No module named 'utils'"
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl: No module named 'utils'"
+    },
+    {
+      "name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nu: No module named 'utils'"
+    },
+    {
+      "name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca: No module named 'unidecode'"
+    },
+    {
+      "name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_toronto: No module named 'utils'"
+    },
+    {
+      "name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_calgary: No module named 'utils'"
+    },
+    {
+      "name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_mississauga: No module named 'utils'"
+    },
+    {
+      "name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_montreal: No module named 'utils'"
+    },
+    {
+      "name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_vancouver: No module named 'utils'"
+    },
+    {
+      "name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_ottawa: No module named 'utils'"
+    },
+    {
+      "name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_windsor: No module named 'utils'"
+    },
+    {
+      "name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_surrey: No module named 'utils'"
+    },
+    {
+      "name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_edmonton: No module named 'utils'"
+    },
+    {
+      "name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_kitchener: No module named 'utils'"
+    },
+    {
+      "name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer"
+    },
+    {
+      "name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_kelowna: No module named 'utils'"
+    },
+    {
+      "name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat"
+    },
+    {
+      "name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_abbotsford: No module named 'utils'"
+    },
+    {
+      "name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_gatineau: No module named 'utils'"
+    },
+    {
+      "name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_victoria: No module named 'utils'"
+    },
+    {
+      "name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_london: No module named 'utils'"
+    },
+    {
+      "name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_burnaby: No module named 'utils'"
+    },
+    {
+      "name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_lethbridge: No module named 'utils'"
+    },
+    {
+      "name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_richmond: No module named 'utils'"
+    },
+    {
+      "name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_brampton: No module named 'utils'"
+    },
+    {
+      "name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_saskatoon: No module named 'utils'"
+    },
+    {
+      "name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_saint_john: No module named 'utils'"
+    },
+    {
+      "name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_laval: No module named 'utils'"
+    },
+    {
+      "name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_moncton: No module named 'utils'"
+    },
+    {
+      "name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_hamilton: No module named 'utils'"
+    },
+    {
+      "name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_fredericton: No module named 'utils'"
+    },
+    {
+      "name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe_charlottetown: No module named 'utils'"
+    },
+    {
+      "name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns_halifax: No module named 'utils'"
+    },
+    {
+      "name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl_st_john_s: No module named 'utils'"
+    },
+    {
+      "name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_regina: No module named 'utils'"
+    },
+    {
+      "name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb_winnipeg: No module named 'utils'"
+    },
+    {
+      "name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_quebec: No module named 'utils'"
+    },
+    {
+      "name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "error": "No people.py file found in ../../scrapers/civic-scraper"
+    },
+    {
+      "name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "error": "No people.py file found in ../../scripts"
+    }
+  ],
+  "detailed_results": [
+    {
+      "scraper_name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.890718",
+      "end_time": "2025-08-08T21:16:32.890803",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/openparliament",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.891746",
+      "end_time": "2025-08-08T21:16:32.897747",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.891423",
+      "end_time": "2025-08-08T21:16:32.899026",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.891847",
+      "end_time": "2025-08-08T21:16:32.899525",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.891514",
+      "end_time": "2025-08-08T21:16:32.899806",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.891320",
+      "end_time": "2025-08-08T21:16:32.899917",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.893452",
+      "end_time": "2025-08-08T21:16:32.901350",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nt: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.891943",
+      "end_time": "2025-08-08T21:16:32.901450",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.892730",
+      "end_time": "2025-08-08T21:16:32.901594",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.899034",
+      "end_time": "2025-08-08T21:16:32.902037",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_yt: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.892905",
+      "end_time": "2025-08-08T21:16:32.902501",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.891653",
+      "end_time": "2025-08-08T21:16:32.902671",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.893299",
+      "end_time": "2025-08-08T21:16:32.902890",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.897759",
+      "end_time": "2025-08-08T21:16:32.903040",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nu: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.891211",
+      "end_time": "2025-08-08T21:16:32.906738",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca: No module named 'unidecode'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907308",
+      "end_time": "2025-08-08T21:16:32.909296",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_toronto: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907488",
+      "end_time": "2025-08-08T21:16:32.910406",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_calgary: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907716",
+      "end_time": "2025-08-08T21:16:32.910489",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_mississauga: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907351",
+      "end_time": "2025-08-08T21:16:32.911851",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_montreal: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907432",
+      "end_time": "2025-08-08T21:16:32.912267",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_vancouver: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907646",
+      "end_time": "2025-08-08T21:16:32.913060",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_ottawa: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.908204",
+      "end_time": "2025-08-08T21:16:32.913273",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_windsor: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.911864",
+      "end_time": "2025-08-08T21:16:32.913826",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_surrey: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907540",
+      "end_time": "2025-08-08T21:16:32.914478",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_edmonton: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907934",
+      "end_time": "2025-08-08T21:16:32.914692",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_kitchener: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.914697",
+      "end_time": "2025-08-08T21:16:32.914837",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.913831",
+      "end_time": "2025-08-08T21:16:32.915170",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_kelowna: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.915175",
+      "end_time": "2025-08-08T21:16:32.915360",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.913279",
+      "end_time": "2025-08-08T21:16:32.915492",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_abbotsford: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.910495",
+      "end_time": "2025-08-08T21:16:32.915749",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_gatineau: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.914485",
+      "end_time": "2025-08-08T21:16:32.915962",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_victoria: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.908130",
+      "end_time": "2025-08-08T21:16:32.916039",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_london: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.912276",
+      "end_time": "2025-08-08T21:16:32.916431",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_burnaby: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.914843",
+      "end_time": "2025-08-08T21:16:32.916595",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_lethbridge: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.913067",
+      "end_time": "2025-08-08T21:16:32.917345",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_richmond: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907765",
+      "end_time": "2025-08-08T21:16:32.918392",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_brampton: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.915365",
+      "end_time": "2025-08-08T21:16:32.919093",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_saskatoon: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.916044",
+      "end_time": "2025-08-08T21:16:32.919806",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_saint_john: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.910413",
+      "end_time": "2025-08-08T21:16:32.920150",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_laval: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.916438",
+      "end_time": "2025-08-08T21:16:32.920406",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_moncton: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.907828",
+      "end_time": "2025-08-08T21:16:32.920546",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_hamilton: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.916600",
+      "end_time": "2025-08-08T21:16:32.920657",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_fredericton: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.917353",
+      "end_time": "2025-08-08T21:16:32.920742",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe_charlottetown: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.915966",
+      "end_time": "2025-08-08T21:16:32.920934",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns_halifax: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.918402",
+      "end_time": "2025-08-08T21:16:32.921043",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl_st_john_s: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.915496",
+      "end_time": "2025-08-08T21:16:32.921112",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_regina: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.915755",
+      "end_time": "2025-08-08T21:16:32.921181",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb_winnipeg: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.909302",
+      "end_time": "2025-08-08T21:16:32.945556",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_quebec: No module named 'utils'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.946193",
+      "end_time": "2025-08-08T21:16:32.946264",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/civic-scraper",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:16:32.946564",
+      "end_time": "2025-08-08T21:16:32.946611",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scripts",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    }
+  ]
+}

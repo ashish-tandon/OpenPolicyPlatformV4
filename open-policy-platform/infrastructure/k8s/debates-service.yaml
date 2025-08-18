@@ -1,0 +1,58 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: debates-service
+  namespace: openpolicy
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: debates-service
+  template:
+    metadata:
+      labels:
+        app: debates-service
+    spec:
+      containers:
+        - name: debates-service
+          image: ghcr.io/your-org/debates-service:latest
+          ports:
+            - containerPort: 9012
+          env:
+            - name: PORT
+              value: "9012"
+            - name: ENVIRONMENT
+              value: "production"
+          readinessProbe:
+            httpGet:
+              path: /readyz
+              port: 9012
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          livenessProbe:
+            httpGet:
+              path: /healthz
+              port: 9012
+            initialDelaySeconds: 10
+            periodSeconds: 15
+          resources:
+            requests:
+              cpu: "200m"
+              memory: "256Mi"
+            limits:
+              cpu: "500m"
+              memory: "512Mi"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: debates-service
+  namespace: openpolicy
+spec:
+  selector:
+    app: debates-service
+  ports:
+    - name: http
+      port: 9012
+      targetPort: 9012
+  type: ClusterIP

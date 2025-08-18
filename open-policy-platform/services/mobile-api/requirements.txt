@@ -1,0 +1,7 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+prometheus-client==0.19.0
+python-multipart==0.0.6
+# FIXED: Added marshmallow for proper data validation (Pydantic alternative)
+marshmallow==3.20.1
+marshmallow-dataclass==8.5.3

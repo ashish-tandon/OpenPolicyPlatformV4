@@ -1,0 +1,58 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: votes-service
+  namespace: openpolicy
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: votes-service
+  template:
+    metadata:
+      labels:
+        app: votes-service
+    spec:
+      containers:
+        - name: votes-service
+          image: ghcr.io/your-org/votes-service:latest
+          ports:
+            - containerPort: 9013
+          env:
+            - name: PORT
+              value: "9013"
+            - name: ENVIRONMENT
+              value: "production"
+          readinessProbe:
+            httpGet:
+              path: /readyz
+              port: 9013
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          livenessProbe:
+            httpGet:
+              path: /healthz
+              port: 9013
+            initialDelaySeconds: 10
+            periodSeconds: 15
+          resources:
+            requests:
+              cpu: "200m"
+              memory: "256Mi"
+            limits:
+              cpu: "500m"
+              memory: "512Mi"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: votes-service
+  namespace: openpolicy
+spec:
+  selector:
+    app: votes-service
+  ports:
+    - name: http
+      port: 9013
+      targetPort: 9013
+  type: ClusterIP

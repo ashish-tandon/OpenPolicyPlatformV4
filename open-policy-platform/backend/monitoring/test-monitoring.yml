@@ -1,0 +1,23 @@
+# Test Monitoring Configuration
+monitoring:
+  enabled: true
+  metrics:
+    - test_execution_time
+    - test_success_rate
+    - test_coverage
+    - memory_usage
+    - cpu_usage
+  
+  alerts:
+    - name: "test_failure_rate_high"
+      condition: "test_success_rate < 80"
+      severity: "warning"
+    
+    - name: "test_execution_slow"
+      condition: "avg_execution_time > 30"
+      severity: "info"
+  
+  reporting:
+    format: "json"
+    output: "reports/test-metrics.json"
+    interval: "daily"

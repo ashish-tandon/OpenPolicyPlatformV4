@@ -1,0 +1,394 @@
+services:
+  # ========================================
+  # INFRASTRUCTURE SERVICES
+  # ========================================
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: openpolicy123
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - openpolicy-network
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # CORE MICROSERVICES (ALL 23 SERVICES)
+  # ========================================
+  
+  # API Gateway (Port 9000)
+  api-gateway:
+    build:
+      context: ./services/api-gateway
+      dockerfile: Dockerfile
+    ports:
+      - "9000:9000"
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Config Service (Port 9001)
+  config-service:
+    build:
+      context: ./services/config-service
+      dockerfile: Dockerfile
+    ports:
+      - "9001:9001"
+    environment:
+      - PORT=9001
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Auth Service (Port 9002)
+  auth-service:
+    build:
+      context: ./services/auth-service
+      dockerfile: Dockerfile
+    ports:
+      - "9002:9002"
+    environment:
+      - PORT=9002
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Policy Service (Port 9003)
+  policy-service:
+    build:
+      context: ./services/policy-service
+      dockerfile: Dockerfile
+    ports:
+      - "9003:9003"
+    environment:
+      - PORT=9003
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Notification Service (Port 9004)
+  notification-service:
+    build:
+      context: ./services/notification-service
+      dockerfile: Dockerfile
+    ports:
+      - "9004:9004"
+    environment:
+      - PORT=9004
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Analytics Service (Port 9005)
+  analytics-service:
+    build:
+      context: ./services/analytics-service
+      dockerfile: Dockerfile
+    ports:
+      - "9005:9005"
+    environment:
+      - PORT=9005
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Monitoring Service (Port 9006)
+  monitoring-service:
+    build:
+      context: ./services/monitoring-service
+      dockerfile: Dockerfile
+    ports:
+      - "9006:9006"
+    environment:
+      - PORT=9006
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # ETL Service (Port 9007)
+  etl-service:
+    build:
+      context: ./services/etl
+      dockerfile: Dockerfile
+    ports:
+      - "9007:9007"
+    environment:
+      - PORT=9007
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Scraper Service (Port 9008)
+  scraper-service:
+    build:
+      context: ./services/scraper-service
+      dockerfile: Dockerfile
+    ports:
+      - "9008:9008"
+    environment:
+      - PORT=9008
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Search Service (Port 9009)
+  search-service:
+    build:
+      context: ./services/search-service
+      dockerfile: Dockerfile
+    ports:
+      - "9009:9009"
+    environment:
+      - PORT=9009
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Dashboard Service (Port 9010)
+  dashboard-service:
+    build:
+      context: ./services/dashboard-service
+      dockerfile: Dockerfile
+    ports:
+      - "9010:9010"
+    environment:
+      - PORT=9010
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Files Service (Port 9011)
+  files-service:
+    build:
+      context: ./services/files-service
+      dockerfile: Dockerfile
+    ports:
+      - "9011:9011"
+    environment:
+      - PORT=9011
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Reporting Service (Port 9012)
+  reporting-service:
+    build:
+      context: ./services/reporting-service
+      dockerfile: Dockerfile
+    ports:
+      - "9012:9012"
+    environment:
+      - PORT=9012
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Workflow Service (Port 9013)
+  workflow-service:
+    build:
+      context: ./services/workflow-service
+      dockerfile: Dockerfile
+    ports:
+      - "9013:9013"
+    environment:
+      - PORT=9013
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Integration Service (Port 9014)
+  integration-service:
+    build:
+      context: ./services/integration-service
+      dockerfile: Dockerfile
+    ports:
+      - "9014:9014"
+    environment:
+      - PORT=9014
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Data Management Service (Port 9015)
+  data-management-service:
+    build:
+      context: ./services/data-management-service
+      dockerfile: Dockerfile
+    ports:
+      - "9015:9015"
+    environment:
+      - PORT=9015
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Representatives Service (Port 9016)
+  representatives-service:
+    build:
+      context: ./services/representatives-service
+      dockerfile: Dockerfile
+    ports:
+      - "9016:9016"
+    environment:
+      - PORT=9016
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Plotly Service (Port 9017)
+  plotly-service:
+    build:
+      context: ./services/plotly-service
+      dockerfile: Dockerfile
+    ports:
+      - "9017:9017"
+    environment:
+      - PORT=9017
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Mobile API (Port 9018)
+  mobile-api:
+    build:
+      context: ./services/mobile-api
+      dockerfile: Dockerfile
+    ports:
+      - "9018:9018"
+    environment:
+      - PORT=9018
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # Legacy Django (Port 9019)
+  legacy-django:
+    build:
+      context: ./services/legacy-django
+      dockerfile: Dockerfile
+    ports:
+      - "9019:9019"
+    environment:
+      - PORT=9019
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+
+  # ========================================
+  # FRONTEND SERVICES
+  # ========================================
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_API_URL=http://localhost:9000
+    depends_on:
+      - api-gateway
+    networks:
+      - openpolicy-network
+
+volumes:
+  pgdata:
+
+networks:
+  openpolicy-network:
+    driver: bridge

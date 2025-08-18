@@ -1,0 +1,24 @@
+status: 200
+encoding: None
+Date: Sat, 09 Aug 2025 05:44:59 GMT
+Content-Type: application/octet-stream
+Content-Length: 3470
+Connection: keep-alive
+Server: nginx
+Last-Modified: Wed, 05 Dec 2018 20:56:59 GMT
+Accept-Ranges: bytes
+ETag: "801f5110dd8cd41:0"
+X-CONTENT-TYPE-OPTIONS: nosniff
+
+District name,District ID,Primary role,First name,Last name,Gender,Party name,Email,Photo URL,Source URL,Website,Address line 1,Address line 2,Locality,Postal code,Province,Phone,Fax
+,,Mayor,Berry,Vrbanovic,M,,berry.vrbanovic@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/OMC_Berry_Web_Photo_2014.jpg,https://www.kitchener.ca/en/city-services/mayor.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2300,519-741-2800
+Ward 1,1,Councillor,Scott,Davey,M,,scott.davey@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/OMC_Scott_Davey.jpg,https://www.kitchener.ca/en/city-services/councillor-scott-davey.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2784,519-741-2800
+Ward 2,2,Councillor,Dave,Schnider,M,,dave.schnider@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/OMC_Dave_Schnider_2014.jpg,https://www.kitchener.ca/en/city-services/councillor-dave-schnider.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-3424,519-741-2800
+Ward 3,3,Councillor,John,Gazzola,M,,john.gazzola@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/OMC_John_Gazzola_2010.jpg,https://www.kitchener.ca/en/city-services/councillor-john-gazzola.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2790,519-741-2800
+Ward 4,4,Councillor,Christine,Michaud,F,,christine.michaud@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/CMichaudHeadshot.jpg,https://www.kitchener.ca/en/city-services/councillor-christine-michaud.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2779,519-741-2800
+Ward 5,5,Councillor,Kelly,Galloway-Sealock ,F,,kelly.galloway-sealock@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/OMC_Kelly_Galloway-Sealock_2014.jpg,https://www.kitchener.ca/en/city-services/councillor-kelly-galloway-sealock.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2791 ,519-741-2800
+Ward 6,6,Councillor,Paul,Singh,M,,paul.singh@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/OMC_Paul_Singh_2014.jpg,https://www.kitchener.ca/en/city-services/councillor-paul-singh.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2793,519-741-2800
+Ward 7,7,Councillor,Bil,Ioannidis,M,,bil.ioannidis@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/OMC_Bil_Ioannidis.jpg,https://www.kitchener.ca/en/city-services/councillor-bil-ioannidis.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2783,519-741-2800
+Ward 8,8,Councillor,Margaret,Johnston,F,,councillor.johnston@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/MJohnstonHeadshot.jpg,https://www.kitchener.ca/en/city-services/councillor-margaret-johnston.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2796 ,519-741-2800
+Ward 9,9,Councillor,Debbie,Chapman,F,,debbie.chapman@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/DChapmanHeadshot.jpg,https://www.kitchener.ca/en/city-services/councillor-debbie-chapman.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2798,519-741-2800
+Ward 10,10,Councillor,Sarah,Marsh,F,,sarah.marsh@kitchener.ca,https://www.kitchener.ca/en/resourcesGeneral/Images/OMC_Sarah_Marsh_2014.jpg,https://www.kitchener.ca/en/city-services/councillor-sarah-marsh.aspx,,Kitchener City Hall,200 King St. W.,Kitchener,N2G 4G7,ON,519-741-2786,519-741-2800

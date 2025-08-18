@@ -1,0 +1,1257 @@
+status: 200
+encoding: utf-8
+Cache-Control: private
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: 
+X-AspNet-Version: 4.0.30319
+X-UA-Compatible: IE=Edge
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+Date: Sat, 09 Aug 2025 05:44:58 GMT
+
+
+
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+    var esol_ico_width = 0;
+
+    try {
+        esol_ico_width = window.innerWidth
+            || document.documentElement.clientWidth
+            || document.body.clientWidth;
+    } catch (err) { }
+
+    var iCreateObject =
+    {
+        isSiteInICreateMode: "False".toLowerCase() == "true",
+        lang: "en",
+        isIe8: false,
+        corpHome: "https://www.caledon.ca/",
+        corpRoot: "/",
+        gaTrackingCode: 'UA-24951926-1',
+        isSiteInLocalDevelopment: 'False'.toLowerCase() == "true",
+        calendarUrl: 'https://calendar.caledon.ca/',
+        isSiteInPreviewMode: 'False'.toLowerCase() == "true",
+        isiCreateGeneratedPage: 'False'.toLowerCase() == "true",
+        newsFeeds: {},
+        isMobile: esol_ico_width <= 767,
+        iCreateTheme: '',
+        fullPageUrl: 'http://www.caledon.ca/en/government/ward-1-area-councillor.aspx',
+        iCreatePageId: 81617,
+        iCreateHome: 'https://ic12.esolg.ca/',
+        editorHotKey: 'f9_f9',
+        newsEmergencyBannerUrl: '/Modules/NewsModule/services/getAlertBannerFeeds.ashx',
+        newsHost: '',
+        languageResources: {"Modules_News_controls_Global_ViewMoreLinkTitle":"Click to view all","Modules_News_controls_Global_PauseAlert":"Pause","Modules_News_BlogComments_ErrorAuthorInvalidCharacters":"Comment Author include invalid characters","Common_includes_quicklinksAdvanced_Section3HeaderText":"News Centre","Modules_email_emailattachment_Instructions":"Please enter your email address, subject and message, and click the \"Send Email\" button.  If your request requires follow-up, please be sure to include your full name, day-time phone number and any relevant address information in the text of your email message.","Common_Includes_skipNavigation_SkipContentTitleText":"Skip Navigation and go to Content","Modules_News_Search_RefreshText":"Refresh","Modules_News_BlogPost_FeedLabel":"Feed","Modules_PageSubscription_GetPageSubscriptionForm_LastNameLabel":"Last Name","Modules_PageSubscription_GetPageSubscriptionForm_EmailFormatError":"Email is a not in valid email format.","Modules_News_index_BackLinkTitleText":"Back to News","Modules_News_BlogSearch_CommentsLinkAltText":"link to Comments","Modules_News_controls_EmergencyAlertBanner_AttachmentTitle":"Attachments","Modules_PageSubscription_GetPageSubscriptionForm_LastNameError":"Last Name is a required field","Modules_News_BlogPost_ItemPlaceholder":"Enter item","Modules_AtoZ_BackToTop":"Back to Top","Modules_News_BlogComments_SubmitText":"Submit","Modules_search_hosted_OccurrencesText":"\u003cstrong\u003eoccurrences\u003c/strong\u003e:","Modules_Contact_Controls_BasicSearch_SearchFormLegend":"Search","Modules_News_BlogComments_ErrorAuthorBlank":"Comment Author must not be blank","Modules_email_Global_SubmitTitleText":"Click to Send Email","Modules_AtoZ_BackToTopTitleText":"Click to go Back To Top","Modules_News_Global_NewPostLinkTitle":"New Post","Modules_search_controls_Global_PlaceHolderText":"Search","Modules_email_emailattachment_NoIdError":"No Id has been specified please try again...","Modules_News_Global_RelatedPhotosText":"Related Photos","Modules_search_hosted_BasicSearchLabelText":"Basic Search","Modules_email_emailattachment_ErrorName":"Your name is required.","Common_Includes_popups_footerPopupCalendarC_Zone2Title":"Programs","Modules_News_BlogPost_PostText":"Post","Common_Includes_popups_footerPopupCalendarC_Zone1Title":"Events","Modules_News_BlogPost_ContactEmailLabel":"Contact Email","Common_Includes_headInterior_TableScrollMessage":"Scroll right to view complete table","Modules_News_Global_AttachmentsHeading":"Attachments","Modules_PageSubscription_controls_pageSubscriptionButton_ButtonText":"Subscribe to this page","Common_includes_facebookTicker_FacebookTitleText":"Link to Twitter","Common_Includes_IdLikeToDropdown_IdLikeToText":"I want to...","Modules_News_BlogPost_ImagesLabel":"Images (Image types allowed: PNG, JPEG, BMP, GIF)","Common_includes_quicklinksAdvanced_Section5ImageAltText":"Locate a Facility Image","Modules_Calendar_controls_Global_ViewAllTitleText":"View All Events","Modules_News_Search_PageNumberText":"Page Number","Modules_PageSubscription_GetPageSubscriptionForm_FormTitleText":"Subscribe to","Modules_News_BlogSearch_ArchiveHeaderText":"Archive","Modules_PageSubscription_GetPageSubscriptionForm_FirstNameLabel":"First Name","Modules_PageSubscription_GetPageSubscriptionForm_FirstNameError":"First Name is a required field","Modules_News_BlogPost_AttachmentLabel":"Attachments (Document types allowed: PDF, DOC, DOCX, XLS, XLSX)","Common_scripts_youTubePlayer_DescriptionTitleText":"Description","Modules_email_Global_CharactersRemaining":"characters left","Modules_News_Search_SearchBoxPlaceholder":"Search News...","Common_Includes_twitterFeed_ViewAllTitleText":"Link to Twitter","Modules_PDFBuilder_AddButtonText":"Add to Report","Common_Layouts_Homepage_TwitterFeedText":"Latest Tweets","Modules_News_BlogComments_CommentText":"Comment","Common_error_ErrorText":"Error","Common_Layouts_Global_MainMenuButton":"Menu","Common_includes_socialLinks_FollowUsText":"Follow Us","Modules_email_Global_SubmitText":"Send Email","Modules_email_emailattachment_AttachmentDelete":"Remove attached file","Common_Includes_IdLikeToDropdownMega_ViewAllText":"View All..","Modules_News_BlogPost_CancelText":"Cancel","Common_Templates_Homepage_WelcomeText":"Welcome to Caledon","Modules_News_BlogComments_CommentPluralText":"Comments","Modules_search_controls_search_SearchButtonAlt":"Go!","Common_scripts_youTubePlayer_TitleText":"Title","Modules_Contact_Controls_BasicSearch_SearchResultsHeading":"Search Results","Modules_Contact_Controls_PhoneDirectory_DialLinkTitleText":"Click to dial","Common_Layouts_Global_PauseText":"Pause","Modules_Contact_Controls_PhoneDirectory_CollapseAllText":"Collapse All","Modules_email_Global_CloseWindowText":"Close this Window","Modules_News_confirm_ErrorMessage":"Unfortunately an error has occured while processing your confirmation. \u003cbr /\u003e We apologize for the inconvenience.","Modules_News_controls_Global_ErrorFeed":"An error occurred - Unable to pull content","Modules_News_BlogComments_DislikeText":"Dislike","Modules_News_BlogComplete_BackToItemText":"Back to Item","Common_Layouts_Global_LogoAltText":"Town of Caledon Logo","Common_Includes_mobileSubNavContainer_SubNavTitle":"More in this Section...","Modules_email_emailattachment_ErrorCaptcha":"Please select the \"I\\\u0027m not a robot\" button and try again.","Modules_News_BlogSearch_PostListTitle":"Latest Posts","Modules_search_hosted_BasicSearchPanelTitle":"Basic Search","Modules_email_emailattachment_ErrorMessage":"Invalid message. Your message should contain at least 1 character and no more than 2000.\\r\\nYou have entered","Modules_Polling_GetCurrentPoll_SubmitPollText":"Vote Now!","Modules_email_MailTo_NameLabel":"Your Name","Common_Includes_Actions_PrintPage":"Print This Page","Common_includes_quicklinksAdvanced_Section6HeaderText":"Contact Us","Modules_News_BlogPost_ErrorInvalidImage":"is not a valid image file.","Modules_Polling_PollFeedError":"Unable to pull Poll data","Common_Includes_IdLikeTo_ViewAllTitleText":"View More for","Common_Includes_LocateFacility_ViewAllText":"View All...","Modules_search_hosted_NoResults":"No Search Results","Modules_News_BlogSearch_SearchHeaderText":"Search","Common_scripts_responsiveScripts_MainNavToggleText":"Toggle section","Modules_News_index_RSSAltText":"Open new window to subscribe via RSS","Common_Includes_FooterNav_DesignedByText":"By GHD Digital","Common_Includes_mobileDropdown_CloseIconAltText":"Close menu icon","Modules_email_MailTo_RecipientEmailLabel":"Recipient Email","Modules_AtoZ_JavascriptDisabled":"\u003cp\u003eJavaScript Disabled. \u003c/p\u003e\u003cp\u003ePlease enable JavaScript to view this content.\u003c/p\u003e","Modules_News_BlogPost_ErrorMaxAttachments":"You have reached the maximum number of attachments allowed","Modules_search_hosted_SortByRelevence":"relevance","Modules_ChartingModule_ChartError":"An error occurred retrieving the chart","Modules_News_Global_BackToSearchTitle":"Link back to search page","Common_Includes_IdLikeToDropdownMega_IdLikeToText":"I\u0027d Like To...","Modules_News_BlogComments_CommentLabel":"Comment (maximum of 500 characters)","Modules_AtoZ_controls_AtoZBar_TitleText":"A to Z Listing","Modules_News_Global_TwitterShareText":"Tweet","Modules_News_BlogPost_Expiration90":"90 days","Modules_News_BlogPost_Expiration15":"15 days","Modules_News_BlogPost_Expiration30":"30 days","Modules_News_BlogPost_Expiration60":"60 days","Common_Login_ForgotPasswordText":"Forgot Password?","Modules_Calendar_controls_CalendarSocialTab_TitleText":"Events Calendar","Common_Includes_GoogleTranslate_GoogleTranslate_Text":"Translate","Modules_search_hosted_FindResultsText":"Find Results","Modules_News_BlogComments_CommentHeadingText":"Post a Comment","Modules_Calendar_controls_Global_NoEventsText":"No Events","Modules_News_controls_BrowserAlertBanner_CloseText":"Close Browser Alert Banner","Modules_email_emailattachment_EmailError":"We were unable to send your email at this time please try again later.","Modules_Contact_controls_PhoneDirectory_ExpandContactText":"Expand bullet for","Modules_email_MailTo_ValidationHeaderText":"The following errors require your immediate attention:","Modules_email_emailattachment_EmailLabel":"Your email Address","Modules_News_BlogPost_NewPostHeadingText":"New Post","Common_includes_quicklinksAdvanced_Section4TitleText":"Attend an Event","Common_idliketo_IdLikeToText":"I\u0026apos;d Like To...","Common_Includes_subNavTrigger_Text":"More","Modules_Calendar_controls_Global_FeedErrorText":"An error occured","Common_includes_facebookTicker_ErrorText":"An error occurred - Unable to pull content","Modules_search_controls_search_SearchButtonText":"Go!","Modules_Polling_PollResults_VotesLabel":"Votes","Modules_News_Search_NextPageText":"Go to next page","Modules_News_BlogComments_NameLabel":"Name","Modules_News_confirm_SuccessMessage":"Thank you for confirming your subscription; you will now receive our news items directly in your inbox.","Common_Includes_SocialMediaPlugin_PostedText":"Posted:","Modules_Calendar_controls_miniCalendar_PrevText":"View previous month","Modules_search_hosted_SearchAll":"Show Results for All Sites","Modules_Contact_Controls_BasicSearch_KeywordLabel":"Keyword","Common_Includes_IdLikeToDropdownMega_IdLikeToLinkTitleText":"View our I\u0027d Like To... page","Common_includes_quicklinksAdvanced_Section5HeaderText":"Locate a Facility","Modules_News_BlogPost_NamePlaceholder":"Your name","Modules_News_Global_BackToSearchText":"Back to Search","Modules_email_MailTo_CommentsLabel":"Comments","Modules_email_emailattachment_ErrorMessageAfterText":"character(s)","Modules_News_BlogSearch_CommentsText":"Comments","Modules_ChartingModule_DataSeriesColTitle":"Name","Modules_Contact_Controls_CategoryAtoZ_LetterLinkTitle":"Jump to","Modules_Contact_Controls_BasicSearch_SearchButtonText":"Search","Modules_News_BlogPost_SubscribeButtonText":"Subscribe to Blog","Modules_Calendar_controls_Global_EventLinkTitleText":"View event","Modules_News_Search_LastPageText":"Go to last page","Modules_News_BlogPost_ContactNameLabel":"Contact Name","Common_includes_quicklinksAdvanced_Section5TitleText":"Locate a Facility","Modules_News_Services_getTopFiveBlogs_NoBlogText":"No Blogs","Modules_search_hosted_PagingNext":"Next","Modules_search_hosted_PagingText":"Viewing {0} to {1} of {2} results","Common_Includes_subNavTrigger_IconAltText":"Show or hide navigation","Modules_PageSubscription_GetPageSubscriptionForm_EmailLabel":"Email Address","Modules_PageSubscription_GetPageSubscriptionForm_EmailError":"Email is a required field","Modules_News_Search_AccordionOpenCloseText":"Expand/Minimize","Modules_News_controls_Global_PauseAlertTitleText":"Pause Alert","Common_Includes_socialCornerLinks_IconImageAltText":"Social Corner icon","Common_includes_quicklinksAdvanced_Section2HeaderText":"Stay Informed","Modules_News_BlogPost_ContactPhoneLabel":"Contact Phone","Common_includes_twitterTicker_TwitterTitleText":"Link to Twitter","Modules_News_BlogPost_ErrorCreatingBlog":"Error occurred while creating blog item.","Modules_News_BlogPost_SubmitText":"Submit","Common_includes_quicklinksAdvanced_Section3TitleText":"News Centre","Modules_email_MailTo_ErrorYourEmailInvalid":"Sender email is invalid","Modules_News_BlogPost_DescriptionLabel":"Description","Modules_News_Search_ReadMoreText":"Read More","Modules_News_BlogPost_ErrorInvalidDocument":"is not a valid document file.","Modules_search_hosted_ClearButtonText":"Clear","Modules_Polling_GetCurrentPoll_ViewPollResultsTitleText":"Click to View Results","Modules_PDFBuilder_PrintButtonTitleText":"Click to review, download and print report","Modules_News_BlogPost_PostingExpirationLabel":"Expiration Date","Common_Includes_socialMediaPlugin_TwitterViewAllText":"View Twitter Page...","Modules_Polling_PollResults_BackText":"Back","Modules_search_hosted_KeywordAllText":"with \u003cstrong\u003eall of the words\u003c/strong\u003e:","Modules_email_emailattachment_ErrorFileTooLarge":"File Size exceeds {0}MB file limit...","Modules_News_Search_ReadMoreTitleText":"Read More","Modules_search_hosted_KeywordExactText":"with the \u003cstrong\u003eexact phrase\u003c/strong\u003e:","Common_Includes_Actions_TextDecrease":"Decrease text size","Common_includes_quicklinksAdvanced_Section4HeaderText":"Attend an Event","Common_Includes_IdLikeTo_ViewAllLinkText":"View More...","Modules_News_BlogComments_LikeText":"Like","Modules_News_BlogPost_ContactEmailPlaceholder":"Enter email","Modules_News_Search_PageConnectorText":"of","Modules_News_BlogPost_ErrorFileReaderNotSupport":"This browser does not support HTML5 FileReader.","Common_includes_quicklinksAdvanced_Section2ImageAltText":"Stay Informed Image","Common_Includes_Share_ShareImageAlt":"Share This Page","Modules_News_controls_Global_JavascriptDisabledText":"JavaScript is disabled. Please enable JavaScript to view this content.","Modules_News_BlogComments_ErrorCaptcha":"Google Authentication (I\u0027m not a robot) must be checked.","Modules_News_controls_NewsSocialTab_HeaderLinkTitleText":"News","Modules_News_BlogSearch_ArchiveMonthPlaceholderText":"Select Month","Common_Includes_subFooter_TwitterPauseText":"Pause","Modules_email_MailToTemplate_TemplateText":"{5} ({0}) has sent you information from the \u003ca href=\u0027{1}\u0027\u003e{2}\u003c/a\u003e website.\u003cbr /\u003e\u003cbr /\u003e\r\n\u003cb\u003eMessage:\u003c/b\u003e\u003cp style=\u0027padding: 20px;\u0027\u003e{3}\u003c/p\u003e","Modules_News_BlogComments_ReplyTitleText":"Click to reply","Modules_Contact_Controls_PhoneDirectoryWithPhoto_NoImageAltText":"No image to display","Modules_Polling_GetCurrentPoll_ErrorNoOptionSelected":"Please select an option","Modules_News_Global_NoResults":"No Results Found","Common_Includes_interiorQuicklinks_QuickLinksTitle":"Quick Links","Modules_News_controls_Global_BrowserAlertBannerCloseText":"Close Old Browser Notification","Modules_search_hosted_KeywordAnyText":"with \u003cstrong\u003eat least one\u003c/strong\u003e of the words:","Modules_Polling_GetCurrentPoll_SubmitPollTitleText":"Click to Vote Now!","Modules_email_MailTo_ErrorYourEmailRequired":"Sender email is a required field","Modules_News_BlogPost_ItemLabel":"Item","Modules_search_hosted_AdvancedSearchText":"Advanced Search","Modules_News_BlogPost_ErrorNoCategory":"Category must be selected","Modules_Feedback_FeedbackText":"Feedback","Modules_News_Global_ErrorArticleNotFound":"The item you are looking for either doesn\u0027t exist or has been removed from the site. Sorry for the inconvenience.","Modules_AtoZ_SameWindowText":"View our","Modules_News_BlogPost_ErrorFileTooBig":"file size is over 1MB.","Modules_News_BlogPost_CategoryLabel":"Category","Modules_Polling_GetCurrentPoll_ErrorAlreadySubmitted":"You have already submitted a response to this poll!","Modules_email_emailattachment_EmailTemplate":"{0}{0}-------------------------------------{0}Origin: {1}{0}-------------------------------------{0}{0}This email was sent to you by {2} through {3}.","Modules_News_Global_PostedDateText":"Posted on","Common_Includes_Actions_Email":"Email This Page","Modules_News_controls_Global_NextAlertTitleText":"Next Alert","Modules_News_controls_BrowserAlertBanner_Message":"It appears you are trying to access this site using an outdated browser.  As a result, parts of the site may not function properly for you.  We recommend updating your browser to its most recent version at your earliest convenience.","Common_Layouts_Interior_RelatedLinksText":"Related Links","Common_Layouts_Global_MainMenuClose":"Close main menu","Common_includes_quicklinksAdvanced_Section6TitleText":"Contact Us","Modules_PageSubscription_GetPageSubscriptionForm_SubscribeText":"Subscribe","Common_includes_quicklinksAdvanced_Section1SubHeaderText":"You spoke, we acted...","Modules_Calendar_controls_Global_LoadingText":"Loading","Modules_News_BlogComments_CategoryText":"Category","Modules_News_Search_SearchButtonTitleText":"News Search","Modules_Calendar_controls_miniCalendar_MonthTitleText":"View","Common_scripts_icrtTicker_PlayText":"Play","Common_includes_quicklinksAdvanced_Section1HeaderText":"Get Involved","Modules_Contact_Controls_PhoneDirectoryWithPhoto_EditButtonText":"Edit","Modules_News_Search_SearchBoxTitle":"Search News","Modules_News_BlogPost_NameLabel":"Name","Modules_Polling_PollResults_ChoiceLabel":"Choice","Modules_email_emailattachment_NameLabel":"Your Name","Modules_email_scripts_DisabledMessage":"Sorry, email is disabled within iCalendar or iBlog generated pages","Common_Includes_subFooter_TwitterFeedTitleText":"Recent Tweets","Modules_email_emailattachment_AttachmentDeleteText":"Remove","Modules_PageSubscription_Global_CloseText":"Close","Modules_PDFBuilder_AddLinkTitleText":"Click to add this page to the report","Modules_search_hosted_ShowText":"Show","Modules_News_controls_Global_LoadingText":"Loading...","Modules_News_controls_Global_NextAlertText":"Next","AriaLabel_Common_GoogleTranslate":"Google Translate Widget","Modules_News_BlogComments_ErrorCommentBlank":"Comments must not be blank.","Common_Includes_skipNavigation_SkipContentText":"Skip to Content","Common_Includes_subFooter_TwitterIconAltText":"Twitter logo","Modules_email_emailattachment_ErrorInvalidEmail":"Invalid email address.","Modules_email_MailTo_ErrorEmailRequired":"Recipient email is a required field","Modules_News_BlogComments_PostedBy":"Posted By","Modules_News_BlogSubmitSuccess_BackText":"Back","Modules_email_emailattachment_EmailSuccess":"Your email has been sent...","Modules_email_MailTo_ErrorSendingEmail":"Could not send email","Modules_search_hosted_OccurrencesAnywhere":"anywhere in the page","Common_Layouts_Global_LogoLinkText":"Click to return to the homepage","Modules_search_hosted_OccurrencesUrl":"in the URL of the page","Modules_News_controls_Global_PreviousAlertText":"Previous","Modules_email_MailTo_Instructions":"To email this page, fill in the form below and click the \u003cem\u003eSend Email\u003c/em\u003e button","Modules_search_hosted_KeywordExcludeText":"\u003cstrong\u003ewithout\u003c/strong\u003e the words:","Common_Includes_footerSitemap_ViewAllLinkText":"View All...","Common_Includes_Share_EmailText":"Email","Common_Includes_mobileNav_MenuIconAltText":"Main menu icon","Common_includes_quicklinksAdvanced_Section1TitleText":"Get Involved","Modules_News_BlogSearch_SearchText":"Search","Modules_email_emailattachment_AttachmentAdd":"Add attachment","Modules_AtoZ_controls_AtoZBar_LinkTitleText":"a to z","Common_Includes_Share_ShareProviderImageAlt":"Open new window to share this page via","Common_includes_twitterTicker_ErrorText":"An error occurred - Unable to pull content","Common_includes_quicklinksAdvanced_Section1ImageAltText":"Get involved image","Modules_News_BlogSearch_SearchPlaceholderText":"What are you looking for?","Modules_News_BlogComplete_ThankYouMessage":"Thank you for submitting your comments.","Common_sitemap_SiteMapText":"Sitemap","Modules_search_hosted_OccurrencesTitle":"in the title of the page","Modules_search_hosted_PagingPrevious":"Previous","Modules_email_emailattachment_MessageLabel":"Your Message","Modules_Calendar_controls_Global_ViewAllText":"View All Events","Common_scripts_youTubePlayer_DescriptionText":"Created using HTML elements, videos are loaded and played from the server or Youtube.","Modules_Calendar_controls_miniCalendar_NextText":"View next month","Modules_News_BlogComments_ReplyText":"Reply","Modules_email_Global_CloseWindowTitleText":"Close this Window","Modules_News_controls_BrowserAlertBanner_AlertTitle":"Browser Compatibility Notification","Modules_search_hosted_SearchButtonText":"Search","Modules_search_hosted_SearchSiteOnly":"Show Results for This Site Only","Common_Includes_breadCrumbs_HomeText":"Home","Modules_News_BlogSubmitSuccess_SuccessMessage":"Thank you for submitting your item.","Modules_News_BlogSubmitSuccess_BackTitleText":"link back to submit a blog page","Modules_News_BlogPost_ContactNamePlaceholder":"Enter name","Modules_News_controls_Global_ViewMoreText":"View All News","Modules_PageSubscription_ConfirmationDialog_TitleText":"Page Subscription Confirmation","Modules_News_Search_PageNumberTotalText":"Displaying","Modules_News_BlogPost_ErrorMaxImages":"You have reached the maximum number of images allowed","Common_Includes_Share_EmailImageAlt":"Email this page","Modules_News_Global_SubscribeText":"Subscribe","Common_Layouts_Homepage_NewsTickerTitle":"Latest News","Modules_News_controls_Global_PreviousAlertTitleText":"Previous Alert","Modules_News_Search_MonthNames":"[\u0027January\u0027, \u0027February\u0027, \u0027March\u0027, \u0027April\u0027, \u0027May\u0027, \u0027June\u0027, \u0027July\u0027, \u0027August\u0027, \u0027September\u0027, \u0027October\u0027, \u0027November\u0027, \u0027December\u0027]","Modules_email_scripts_NotSupportedMessage":"Your browser is not capable of performing this operation!","Common_Includes_popups_footerPopupCalendarA_Zone3Title":"Upcoming Events","Modules_News_controls_NewsSocialTab_HeaderText":"News","Modules_search_ResultsTitle":"Search Results","Modules_PageSubscription_GetPageSubscriptionForm_PageSubscriptionTitle":"Page Subscription","Modules_email_MailTo_YourEmailLabel":"Your Email","Common_Includes_breadCrumbs_HomeTitleText":"Homepage ","Modules_News_Global_CharacterCountLabel":"Character count","Modules_News_Global_FacebookLikeTitle":"facebook like button","Modules_email_emailattachment_BrowseTitleText":"Browse to select a file","Modules_email_emailattachment_AttachmentLabel":"Attachment","Modules_Polling_PollResults_ThankYouMessage":"Thank you for your submission!","Common_Includes_mobileDropdown_CloseLinkText":"Close menu","Common_scripts_icrtTicker_PauseText":"Pause","Modules_email_MailTo_ErrorEmailInvalid":"Recipient email is invalid","Modules_News_BlogSearch_FeaturePostsHeaderText":"Featured Posts","Common_includes_browseAloud_BrowseAloudText":"BrowseAloud","Modules_Contact_Controls_PhoneDirectory_ExpandAllText":"Expand All","Modules_search_hosted_ToggleText":"Toggle","Modules_AtoZ_LoadingMessage":"Loading...","Modules_News_Search_FirstPageText":"Go to first page","Modules_News_Global_MaxCharactersReached":"Reached maximum characters allowed","Common_includes_quicklinksAdvanced_Section2TitleText":"Stay Informed","Modules_search_hosted_ResultsTitle":"Search Results","Modules_News_controls_Global_EmergencyAlertBannerCloseText":"Close Alert Banner","Common_Includes_socialCornerLinks_LinkTitleText":"Social Corner","Modules_News_BlogComments_ErrorInvalidCharacters":"Comments include invalid characters","Modules_News_Global_SubscribeTitleText":"Click to subscribe","Modules_email_emailattachment_EmailAutoReplyBodyTemplate":"This message is to confirm receipt of your recent email to the {1}{0}{0}Thank you,{0}{1}","Common_Includes_socialMediaPlugin_TwitterViewAllTitleText":"View Our Twitter Page","Modules_PDFBuilder_AddButtonTitleText":"Click to add this page to the report","Modules_News_Global_NewPostLinkText":"New Post","Modules_News_BlogPost_PostingDateTimeLabel":"Posting Date \u0026amp; Time","Modules_Polling_PollResults_BackTitleText":"Click to go Back","Modules_News_controls_Global_PlayAlert":"Play","Modules_Polling_GetCurrentPoll_ViewPollResultsText":"View Results","Modules_email_emailattachment_SubjectLabel":"Subject","Modules_News_Global_PostedOnText":"Posted On","Modules_email_emailattachment_AttachmentMaximum":"Maximum number of attachments reached","Modules_News_BlogPost_DetailText":"Details","Modules_PageSubscription_GetPageSubscriptionForm_CaptchaError":"Please check I\u0026apos;m not a robot.","Common_Includes_Actions_TextDefault":"Default text size","Common_Layouts_Global_PauseTitle":"Pause","Common_includes_quicklinksAdvanced_Section4ImageAltText":"Attend an Event Image","Modules_News_Search_PreviousPageText":"Go to previous page","Modules_News_BlogPost_ContactPhonePlaceholder":"Enter phone","Modules_News_BlogComplete_BackToItemTitleText":"Click to go back to item","Common_pagenotfound_PageNotFoundText":"Page Not Found","Common_Includes_socialCornerLinks_Text":"Social Corner","Modules_News_controls_EmergencyAlertBanner_AttachmentLinkTitle":"Click to view","Common_Includes_twitterFeed_ErrorText":"An error occurred - Unable to pull content","Modules_PDFBuilder_PrintButtonText":"Download and Print Report","Modules_News_index_BackLinkText":"Back to Search","Common_includes_quicklinksAdvanced_Section3ImageAltText":"News Centre Image","Modules_News_BlogSearch_ItemLinkTitle":"View item","Modules_AtoZ_NewWindowText":"Open new window to view","Modules_PDFBuilder_LogoAltText":"Town of Caledon Logo","Modules_Calendar_controls_Global_JavascriptDisabled":"JavaScript is disabled. Please enable JavaScript to view this content.","Modules_Polling_GetCurrentPoll_PollNotAvailable":"Poll Not Available","Modules_News_controls_NewsFeedPlugin_PluginTitleText":"Latest News","Common_Includes_Actions_TextIncrease":"Increase text size","Common_scripts_youTubePlayer_FeedErrorText":"Error retrieving youtube feed","Modules_search_controls_search_SearchButtonTitle":"Click to view search page.","Modules_PDFBuilder_AddLinkText":"+","Common_includes_quicklinksAdvanced_Section6ImageAltText":"Contact Us","Common_Includes_mobileNav_ContactIconAltText":"Contact Us","Modules_PageSubscription_GetPageSubscriptionForm_CancelText":"Or Cancel","Modules_email_emailattachment_EmailAutoReplySubject":"(Automatic Reply) Thank you for contacting the ","Common_scripts_youTubePlayer_ChannelUserErrorText":"Error, the user/channel provided either was not found or has no data","Modules_Polling_PollResults_TotalLabel":"% Total","Modules_search_hosted_SortByText":"\u003cstrong\u003esort\u003c/strong\u003e by:","Common_includes_quicklinksAdvanced_Section1Icon1Alt":"Get Involved","Common_includes_quicklinksAdvanced_Section1Icon3Alt":"Get Involved","Common_includes_quicklinksAdvanced_Section1Icon2Alt":"Get Involved","Common_includes_quicklinksAdvanced_Section1Icon4Alt":"Get Involved","Modules_search_hosted_SortByDate":"date","Modules_News_BlogComments_ErrorCommentTooLong":"Comments must be less than 500 characters."},
+        siteTitle: 'Town of Caledon'
+    }
+
+    var myStringArray = "".split(',');
+    for(var i = 0; i < myStringArray.length; i++)
+    {
+        var mySubstring = myStringArray[i].split('|');
+        iCreateObject.newsFeeds[mySubstring[0]] = mySubstring[1];
+    }
+
+    try {
+        if (document.location.href.toLowerCase().indexOf('https://') == 0) {
+            iCreateObject.corpHome = 'https://' + iCreateObject.corpHome.substring(8);
+        }
+    } catch (err) { }
+
+    if (iCreateObject.isSiteInLocalDevelopment)
+        console.log(iCreateObject);
+
+</script>
+
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+
+<!--This is only needed if you are using the Google translate widget-->
+<meta name="google-translate-customization" content="64f17b6d9cb6233b-e59f9de7b0b09f30-g4ca0816f9369ddc5-e"/>
+
+
+
+
+
+<link href="https://use.typekit.net/mal7cgx.css" rel="stylesheet" type="text/css">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#143f6e" />
+<link rel="manifest" href="/site.webmanifest" />
+<meta name="msapplication-TileColor" content="#143f6e">
+<meta name="theme-color" content="#ffffff"/>
+
+<link href="/Common/styles/styles.css?v=v10" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Common/styles/icreate.css?v=v3" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Common/styles/print.css" rel="stylesheet" type="text/css" media="print" />
+<link href="https://js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelementplayer.min.css" rel="stylesheet" type="text/css" media="screen" />
+
+ <!-- Modernizr needs to be in head to preview FOUC. Best after stylesheet references -->
+<script type="text/javascript" src="/Common/scripts/modernizr.min.js"></script>
+
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery/1.11.2/jquery.min.js"></script>
+
+<link href="https://js.esolutionsgroup.ca/js/libs/jquery-ui/1.10.4/resources/themes/base/jquery-ui.min.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery-ui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_cookie/1.4.0/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/hover-intent/1.8.0/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_superfish/1.7.4/superfish.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/icreate-date/1.0.0/icrt-toDateTimeString.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_linkify/1.1.6/jquery.linkify.min.js"></script>
+<script type="text/javascript" src='/Common/scripts/general.js'></script>
+<script type="text/javascript" src='/Common/scripts/quicklinks-dropdown.js'></script>
+<script type="text/javascript" src='/Common/scripts/jquery.matchHeight-min.js'></script>
+<script type="text/javascript" src='/Modules/email/scripts/email.js'></script>
+<link href="https://js.esolutionsgroup.ca/js/libs/jquery_contextmenu/skins/1.0.0/contextMenu.min.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_contextmenu/1.0.0/jquery.contextMenu.min.js"></script>
+
+
+
+<script type="text/javascript">
+	$(function() {
+		// Drop-down lists
+		$('#nav').superfish({
+			cssArrows: false,
+			speed: 'normal',
+			speedOut: 'fast'
+		});
+
+		if (!iCreateObject.isSiteInICreateMode) {
+			$('video,audio').mediaelementplayer({
+				// if the <video width> is not specified, this is the default
+				defaultVideoWidth: 480,
+				// if the <video height> is not specified, this is the default
+				defaultVideoHeight: 270,
+				// if set, overrides <video width>
+				videoWidth: -1,
+				// if set, overrides <video height>
+				videoHeight: -1,
+				// width of audio player
+				audioWidth: 400,
+				// height of audio player
+				audioHeight: 30,
+				// initial volume when the player starts
+				startVolume: 0.8,
+				// useful for <audio> player loops
+				loop: false,
+				// enables Flash and Silverlight to resize to content size
+				enableAutosize: true,
+				// the order of controls you want on the control bar (and other plugins below)
+				features: ['playpause', 'progress', 'current', 'duration', 'tracks', 'volume', 'fullscreen'],
+				// Hide controls when playing and mouse is not over the video
+				alwaysShowControls: false,
+				// force iPad's native controls
+				iPadUseNativeControls: false,
+				// force iPhone's native controls
+				iPhoneUseNativeControls: false,
+				// force Android's native controls
+				AndroidUseNativeControls: false,
+				// forces the hour marker (##:00:00)
+				alwaysShowHours: false,
+				// show framecount in timecode (##:00:00:00)
+				showTimecodeFrameCount: false,
+				// used when showTimecodeFrameCount is set to true
+				framesPerSecond: 25,
+				// turns keyboard support on and off for this instance
+				enableKeyboard: true,
+				// when this player starts, it will pause other players
+				pauseOtherPlayers: true,
+				// array of keyboard commands
+				keyActions: []
+			});
+		}
+	});
+
+	function PrintScreen() {
+		if (iCreateObject.isSiteInICreateMode) {
+			showNAMessage();
+		} else {
+			window.print();
+		}
+	}
+</script>
+
+<link href="https://customer.cludo.com/css/overlay/cludo-search-default.min.css" type="text/css" rel="stylesheet" />
+<!--[if lte IE 9]>
+<script src="https://api.cludo.com/scripts/xdomain.js" slave="https://api.cludo.com/proxy.html" type="text/javascript"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function() {
+        var popupElement;
+        window.cookieconsent.initialise({
+            palette: {
+                "popup": {
+                    "background": "#373D57"
+                },
+                "button": {
+                    "background": "#ffca00"
+                }
+            },
+            content: {
+                "message": "This website uses cookies to enhance usability and provide you with a more personal experience.  By using this website, you agree to our use of cookies as explained in our ",
+                "dismiss": "Agree",
+                "link": "Privacy Policy.",
+                "href": "www.caledon.ca/privacy",
+                close: '&#x274c;',
+            },
+            "cookie": {
+                "domain": ".caledon.ca",
+                "path": "/",
+                "expiryDays": "365"
+            },
+            onStatusChange: function(status, chosenBefore) {
+                var hasConsented = this.hasConsented();
+                if (hasConsented) {
+                    document.body.classList.add("hasConsented");
+                }
+            },
+            window: '<div role="dialog" aria-label="Cookie Prompt" aria-describedby="cookieconsent:desc" class="cc-window {{classes}}">{{children}}</div>',
+            elements: {
+                messagelink: '<span id="cookieconsent:desc" class="cc-message">{{message}} <a aria-label="Privacy Policy" tabindex="0" class="cc-link" href="https://{{href}}">{{link}}</a></span>',
+                dismiss: '<a aria-label="Agree to cookie message" tabindex="0" class="cc-btn cc-dismiss">{{dismiss}}</a>',
+            }
+        }, function(popup) {
+            popupElement = popup;
+        }, function(err) {
+            //console.error(err);
+        });
+
+        $(".cc-dismiss").keyup(function(event) {
+            var code = event.keyCode || event.which;
+            if (code == 13 || code == 27) { //Enter keycode
+                popupElement.close();
+            }
+        });
+
+        function hasClass(element, className) {
+            document.body.classList.add("hasConsented");
+        }
+
+        var myDiv = document.getElementsByClassName('cc-window')[0];
+        hasClass(myDiv, 'cc-invisible');
+    });
+</script>
+
+
+
+<link href="/Common/styles/int.css?v=v5" rel="stylesheet" type="text/css" media="screen" />
+
+<script type="text/javascript">
+    if (!$("script[src='https://js.esolutionsgroup.ca/js/libs/ios_slider/structure/1.3.42/jquery.iosslider.min.js']").length) {
+        var script = document.createElement('script');
+        script.setAttribute('src', 'https://js.esolutionsgroup.ca/js/libs/ios_slider/structure/1.3.42/jquery.iosslider.min.js');
+        script.setAttribute('type', 'text/javascript');
+        $('head').append(script);
+    }
+</script>
+
+
+<script type="text/javascript">
+    function icrt_table_resize() {
+        if (!iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode) {
+
+            var contentWidth = ($('#printAreaContent').width());
+            
+            $('#printAreaContent table').each(function (index, item) {
+                var contentRow = $(item).closest('.fbg-row');
+                
+                if ((contentRow.length && $(this).width() > $(contentRow).width()) || $(this).width() > contentWidth) {
+                    if ($(this).parent('.tableContainer').length == 0){
+                        $(this).wrap('<div class="tableContainer" />');
+                        var wideTable = $(this).addClass('wideTable');
+                        
+                        var wideTableContainer = $(wideTable).parent();
+                        $('<div class="tableContainerHead">Scroll right to view complete table</div>"').insertBefore(wideTableContainer);
+                    }
+                } else if ((contentRow.length && $(this).width() <= $(contentRow).width()) || $(this).width() <= contentWidth) {
+                    if ($(this).parent('.tableContainer').length > 0){
+                        $(this).parent().siblings('.tableContainerHead').detach();
+                        $(this).unwrap();
+                        $(this).removeClass('wideTable');
+                    }
+                }
+            });
+
+        }
+    }
+    $(window).load(function () {
+        setTimeout(function () {
+            icrt_table_resize();
+        }, 0);
+    });
+     $(window).resize(function() {
+        setTimeout(function () {
+            icrt_table_resize();
+        }, 0);
+    });
+</script>
+
+<!-- Twitter Timeline -->
+<script>
+	window.twttr = (function (d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0],
+		t = window.twttr || {};
+		if (d.getElementById(id)) return t;
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "https://platform.twitter.com/widgets.js";
+		fjs.parentNode.insertBefore(js, fjs);
+
+		t._e = [];
+		t.ready = function (f) {
+			t._e.push(f);
+		};
+
+		return t;
+	}(document, "script", "twitter-wjs"));
+</script>
+<script type="text/javascript" src='/Common/scripts/icrtShortcut.js'></script>
+<script type="text/javascript">
+    if (typeof String.prototype.endsWith !== 'function') {
+        String.prototype.endsWith = function (suffix) {
+            return this.indexOf(suffix, this.length - suffix.length) !== -1;
+        };
+    }
+    $(document).ready(function () {
+        var redirectUrl;
+        if (location.href.indexOf('/edit_') > -1) {
+            redirectUrl = location.href.replace('/edit_', '/');
+        } else {
+            var icreateBaseUrl = 'https://ic12.esolg.ca/';
+            if (!icreateBaseUrl.endsWith('/')) {
+                icreateBaseUrl += '/';
+            }
+            
+            redirectUrl = icreateBaseUrl + 'icreate/modules/pageeditor3/page.srv?pageId=81617';
+            
+        }
+        $(document).icrtShortcut({
+            shortcutKey: 'f9_f9',
+            redirectUrl: redirectUrl
+        });
+    });
+
+</script>
+
+<title>
+	
+        
+    
+        Ward 1 Councillor
+    
+        - Town of Caledon
+</title>
+    <meta name="description" content="Meet the Town of Caledon&rsquo;s Ward 1 Area Councillor and find out how you can get in touch." />
+
+<meta property="dcterms.issued" content="2025-03-26T11:41:17-0400" />
+<meta property="og:title" content="Ward 1 Councillor" />
+<meta property="og:url" content="https://www.caledon.ca/en/government/ward-1-area-councillor.aspx" />
+<meta property="og:description" content="Meet the Town of Caledon&rsquo;s Ward 1 Area Councillor and find out how you can get in touch." />
+<meta property="og:image" content="https://www.caledon.ca/en/images/structure/news_avatar.jpg" />
+<link rel="alternate" hreflang="x-default" href="https://www.caledon.ca/en/government/ward-1-area-councillor.aspx" />
+<link rel="canonical" href="https://www.caledon.ca/en/government/ward-1-area-councillor.aspx" /><script async src="https://tag.simpli.fi/sifitag/fbf0d310-9803-0136-4f23-067f653fa718"></script><link rel="stylesheet" type="text/css" media="screen" href="/Modules/NewsModule/styles/EmergencyAlertBanners.css?v=2"></link><script type="text/javascript" src="/Common/scripts/textSize.js"></script><script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/feedback-form/structure/2.9.1/feedbackStructure.min.js"></script><script type="text/javascript">$(function(){$(".feedbackLink, .feedbackClassLink").feedbackForm({
+useDefaultIfNoIdIsSet: "True".toLowerCase() == "true",
+baseUrl: "https://ic12.esolg.ca/feedback/api/1.0/",
+getUrl: "client/11187116_TownofCaledon/default-form/en",
+jsServerUrl: "https://js.esolutionsgroup.ca/js/libs/feedback-form/",
+previewMode: false,
+showButton: true,
+pageTitle: document.title.replace(" - Town of Caledon", "").trim(),
+buttonText: "",
+feedbackFormId: $("#FeedbackFormId") === undefined ? "" : $("#FeedbackFormId").val(),
+language: 'en'
+})});</script><script type="text/javascript" src="/Modules/Polling/PollModule.js"></script><script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_gallery/1.2.4/jquery.gallery.min.js"></script><script type="text/javascript">$(function () {
+    $(".eSolutionsGroupPhotoGalleryV2PlaceholderDiv").each(function () {
+        var method = $(this).attr("method");
+        var id = $(this).attr("id");
+        if (id != '') {
+            $(this).load(id, function () { return method; })
+        } else {
+            $(this).html('');
+        }
+    })
+});</script></head>
+<body>
+    <div class='	'>
+         
+<div id="EmergencyBannerWrapperOuter" class="hide">
+    <div id="EmergencyBannerWrapper">
+        <div id="EmergencyBannerWrapperInner">
+            <div class="nocontent" id="EmergencyBanner" style="display: block;">
+                <div class="bannerContainer" id="emergencyAlertBanners">
+                    <div id="EmergencyBannerClose" role="contentinfo" aria-label="Close Alert Banner Notification">
+                        <a class="Close" href="#" onclick="javascript: HideEmergencyAlertBanners();event.preventDefault();">Close Alert Banner</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+    
+    <input type="hidden" name="FeedbackFormId" id="FeedbackFormId" value="" />
+    
+
+        <div id="uber" class='interior navTab03 en'>
+            <header class="nocontent">
+                
+<div id="skipContentWrapper" class="nocontent" role="navigation" aria-label="Skip to Main Content">			
+    <a id="skipContentLink" title="Skip Navigation and go to Content" href="#mainContent">Skip to Content</a>			
+</div>
+                <div id="headerInner" class="ic-container-fluid">
+                    <div id="headerLeft">
+                        <div id="logo">                            
+                            
+<p class="defaultLogo">
+    <a href="/en/index.aspx" title="Click to return to the homepage">
+        
+
+<img class="default" src="/en/images/structure/logo.svg" alt="Town of Caledon Logo" />
+
+
+        
+
+<img class="printLogo" src="/en/images/structure/logo_print.svg" alt="Town of Caledon Logo" />
+
+    </a>
+</p>
+
+                            
+    
+                        </div>
+                        
+<script type="text/javascript">
+    var _element = $('#logo');
+    _title = _element.attr('title');
+
+    if(($('div#logo img').length) || ($('div#logo').has('div.eSolutionsGroupPhotoGalleryV2PlaceholderDiv').length)) {
+        _element.addClass('hasImage');
+        if (iCreateObject.isSiteInICreateMode) {
+            _element.css('background','none');
+        }
+    }
+    else {
+        if (iCreateObject.isSiteInICreateMode && !iCreateObject.isSiteInPreviewMode) {
+            _element.removeClass('hasImage');
+            imgsrc = '/en/images/structure/logo.svg';
+            var title = _title;
+            var url = '/en/index.aspx';
+            var target = "_self";
+            _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px").css("height","89px").css("width","200px").css("background-size","contain").attr("title", jQuery.trim(title) != "" ? title : _title);
+            if (url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode) {
+                _element.attr("onclick", "javascript:window.open('" + url + "','" + target + "');");
+            }
+        }        
+    }
+  </script>
+                        
+<div class="mobileNav" aria-label="Mobile Nav">
+    <a href="/contact">
+        <img src="/Common/images/structure/mobilenav-contact-icon.svg" alt="Contact Us" />
+    </a>
+
+    <a href="#" title="Mobile Site Menu" class="menuTrigger">
+        <span></span>
+        <span></span>
+        <span></span>
+        <span></span>
+        <span class="assistiveTech-only">Mobile Site Menu</span>
+    </a>
+</div>
+
+                    </div>
+                    <!--headerLeft-->
+
+                    <div id="headerRight">
+                        <div id="topNavContainer" role="navigation" aria-label="Top Navigation">
+                             
+<div id="topNav" role="navigation" aria-label="Top Nav Links">
+    <a title="Visit our Public Engagement site" href="https://haveyoursaycaledon.ca/" target="_blank" class="withIcon">HaveYourSayCaledon</a><a title="View our Economic Development website" href="https://caledonbusiness.ca" target="_blank" class="withIcon">Economic Development</a><a title="VisitCaledon.ca" href="https://www.visitcaledon.ca" target="_blank" class="withIcon">VisitCaledon</a>
+    
+
+    
+</div>
+
+
+                            
+                        </div>
+                        
+                         
+
+<nav id="mainNav" aria-label="Main Nav">
+<ul id="nav"><li id="navTab01"><a title="View our Living Here page" href="/en/living-here/living-here.aspx" class="mainNavItem">Living Here</a><div class="dropDownContainer sf-mega"><div class="dropDownContainerInner cf"><ul class="dropdown"><li><a title="View our Parks, Recreation and Culture page" href="/en/living-here/parks-recreation-and-culture-landing-page.aspx" class="">Parks, Recreation and Culture</a></li><li><a title="View our Animal services page" href="/en/living-here/animal-services.aspx" class="">Animal Services</a></li></ul><ul class="dropdown"><li><a title="View our Garbage, recycling, water + environment page" href="/en/town-services/garbage-recycling-water--environment.aspx" class="">Garbage, Recycling, Water + Environment</a></li><li><a title="View our Employment + volunteering page" href="/en/government/employment--volunteering.aspx" class="">Employment + Volunteering</a></li></ul><ul class="dropdown"><li><a title="View our Heritage and History page" href="/en/living-here/heritage-history-and-indigenous-relations.aspx" class="">Heritage, History and Indigenous Relations</a></li><li><a title="View our Maps page" href="/en/living-here/maps-2.aspx?_mid_=117976" class="">Maps</a></li></ul></div></div></li><li id="navTab02"><a title="View our Town Services page" href="/en/town-services/town-services.aspx" class="mainNavItem">Town Services</a><div class="dropDownContainer sf-mega"><div class="dropDownContainerInner cf"><ul class="dropdown"><li><a title="" href="http://www.caledon.ca/tax" class="">Property Tax Portal</a></li><li><a title="View our Customer service page" href="/en/government/customer-service.aspx?_mid_=3158" class="">Customer Service</a></li><li><a title="View our News + Notices page" href="/en/government/news--events.aspx" class="">News, Events and Notices</a></li></ul><ul class="dropdown"><li><a title="View our Report a Problem page" href="/en/government/customer-service-report-a-problem.aspx" class="">Report a Problem</a></li><li><a title="View our Building + renovating page" href="/en/living-here/building-renovating.aspx" class="">Building + Renovating</a></li><li><a title="View our Current Applications page" href="/en/town-services/current-applications.aspx?_mid_=118046" class="">Current Applications</a></li></ul><ul class="dropdown"><li><a title="" href="/en/government/poa.aspx?_mid_=106481" class="">Provincial Offences Court</a></li><li><a title="View our Roads + sidewalks page" href="/en/town-services/roads--sidewalks.aspx" class="">Roads, Trails, Cycling</a></li><li><a title="View our Parking page" href="/en/living-here/parking.aspx?_mid_=3216" class="">Courts | Tickets | Parking</a></li></ul></div></div></li><li id="navTab03" class="current"><a title="View our Government page" href="/en/government/government.aspx" class="mainNavItem current">Government</a><div class="dropDownContainer sf-mega"><div class="dropDownContainerInner cf"><ul class="dropdown"><li><a title="View our A to Z directory page" href="/Modules/AtoZ/Index.aspx" class="">A to Z directory</a></li><li><a title="View our Caledon to continue growing in Peel Region  page" href="/en/living-here/illegal-land-use-trucking.aspx" class="">Illegal Land Use and Trucking</a></li><li><a title="" href="/en/government/agendas-and-minutes.aspx?_mid_=104896" class="">Agendas and Minutes</a></li></ul><ul class="dropdown"><li><a title="View our Business, planning + development page" href="/en/town-services/business-planning--development.aspx" class="">Business, Planning + Development</a></li><li><a title="View our Council + Town administration page" href="/en/government/council--town-administration.aspx" class="">Council + Town Administration</a></li><li><a title="View our Legal Services page" href="/en/government/legal-services.aspx" class="">Legal Services</a></li></ul><ul class="dropdown"><li><a title="View our Property tax page" href="/en/town-services/property-tax.aspx" class="">Property Tax</a></li><li><a title="View our Public safety + community services page" href="/en/town-services/public-safety--community-services.aspx" class="">Public Safety + Community Services</a></li></ul></div></div></li></ul>
+</nav>
+
+                        
+<div class="searchContainer">
+    <div class="search" id="search-box"  role="search">
+        
+        <input type="search" name="search" class="searchInput" placeholder="" aria-label="What are you looking for?" title="Enter search keywords"  />
+        <button type="submit" value="Search" class="Btn searchButton" title="Search" >Search</button>
+    </div>
+</div>
+                    </div>
+                    <!--headerRight-->
+                </div>
+                <!--headerInner-->
+            </header>
+            <div id="intBg">
+                <div id="intBgImage" class="nocontent" role="banner" aria-label="Page Banner Image">
+                    
+    
+                    <p class="defaultImage"><img alt="Caledon Town Hall" src="/en/rotatingimages/navTab03/banner-townhall.jpg" /></p>
+                </div>
+                <script type="text/javascript">
+      var _element = $('#intBgImage');
+      _title = _element.attr('title');
+
+      if(($('div#intBgImage img').length) || ($('div#intBgImage').has('div.eSolutionsGroupPhotoGalleryV2PlaceholderDiv').length)) {
+      if (iCreateObject.isSiteInICreateMode ) {
+      _element.css('background','none');
+      _element.addClass('hasImage');
+      }
+      else{
+      _element.addClass('hasImage');
+      }
+
+      } else {
+      if (iCreateObject.isSiteInICreateMode && !iCreateObject.isSiteInPreviewMode) {
+      _element.removeClass('hasImage');
+      var interiorBanners = [
+        repSingleQuote("/en/rotatingimages/navTab03/banner-townhall.jpg")];
+      var titles = [
+        repSingleQuote("Caledon Town Hall")];
+      var urls = [
+        ""];
+      var newWindows = [false];
+      if (interiorBanners.length != 0) {
+      var num = Math.floor(Math.random() * ( (interiorBanners.length - 1) + 1));
+      imgsrc = interiorBanners[num];
+      var title = titles[num];
+      var url = urls[num];
+      var target = newWindows[num]?"_blank":"_self";
+      _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px #FFFFFF").attr("title", jQuery.trim(title) != "" ? title : _title);
+      if(url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode){
+      _element.attr("onclick","javascript:window.open('"+url+"','"+target+"');");
+      }
+      } else {
+      var defaultBanners = [
+        repSingleQuote("/en/rotatingimages/defaultInterior/banner-townhall.jpg")];
+      var defaultTitles = [
+        repSingleQuote("Default Interior Banner")];
+      var defaultUrls = [
+        ""];
+      var defaultNewWindows = [false];
+      if (defaultBanners.length != 0) {
+      var num = Math.floor(Math.random() * ( (defaultBanners.length - 1) + 1));
+      imgsrc = defaultBanners[num];
+      var title = defaultTitles[num];
+      _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px #FFFFFF").attr("title", jQuery.trim(title) != "" ? title : _title);
+      if(url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode){
+      _element.attr("onclick","javascript:window.open('"+url+"','"+target+"');");
+      }
+      }
+      }
+      }
+      }
+    </script>
+                
+<div id="translateContainer">
+    <div id="google_translate_element" role="form"></div>
+</div>
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        if (!iCreateObject.isSiteInICreateMode)
+            new google.translate.TranslateElement({ pageLanguage: iCreateObject.lang, layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: iCreateObject.gaTrackingCode }, 'google_translate_element');
+    }
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script>
+$(document).ready(function () {
+    var temp ='';
+
+    var observer = new MutationObserver(function (mutations) {
+        mutations.forEach(function (mutation) {
+            var nodes = Array.prototype.slice.call(mutation.addedNodes);
+            nodes.forEach(function (node) {
+                if ($(node).find('.goog-te-menu-value > span:first-child').length) {
+                    if ($(node).get(0).nodeType === Node.ELEMENT_NODE && $(node).is("span")) {
+                        
+                        $(node).find("span:first").text("Translate");
+                        temp = $(node).html();
+                        $(node).html(temp.replace("Select Language", "Translate"))
+                        $('#goog-gt-tt').each(function (ev) {
+                           $(this).attr("role", 'region');
+                           $(this).attr("aria-label", 'Google Google Translate Widget');
+                        });
+
+                    }
+
+                }
+            });
+        });
+    });
+    observer.observe(document.querySelector("#google_translate_element"), {
+        childList: true,
+        subtree: true,
+        attributes: false,
+        characterData: false,
+    });
+
+
+}); 
+</script>
+            </div>
+            <!--intBg-->
+            <div class="topContentWrapper ic-container-fluid">
+                
+<div id="breadcrumbs" class="cf nocontent" role="navigation" aria-label="Breadcrumb Navigation">
+<a href="/en/index.aspx" title="Homepage ">Home</a><a title="View our Council + Town administration page" href="/en/government/council--town-administration.aspx">Council + Town Administration</a><span>Council</span>
+</div>
+
+                
+<div id="actions" role="toolbar" class="nocontent" aria-label="Action Links">
+    <div class="actionsInner">
+        <div class="resizeText"><!--TODO: LANGC: Get Translations for the title texts FEATURE: Make Language Content Dynamic -->
+            <button class="textDecrease" title="Decrease text size">
+                <img src="/Common/images/actions/text-decrease-dark.svg" alt="Decrease text size icon" />
+                <span class="assistiveTech-only">Decrease text size</span>
+            </button>
+            <button class="textDefault" title="Default text size">
+                <img src="/Common/images/actions/text-reset-dark.svg" alt="Default text size icon" />
+                <span class="assistiveTech-only">Default text size</span>
+            </button>
+
+            <button class="textIncrease" title="Increase text size">
+                <img src="/Common/images/actions/text-increase-dark.svg" alt="Increase text size icon" />
+                <span class="assistiveTech-only">Increase text size</span>
+            </button> 
+        </div>
+        <input type="hidden" id="hdnContent" name="hdnContent" />
+	    <input type="hidden" id="hdnPage" name="hdnPage" />
+        <!-- <div>
+            <a id="emailLink" href="#" title="" class="emailLink" onClick="javascript: mailTo(event);">
+			    <img src="/Common/images/actions/email.svg" alt="Email This Page" /></a>
+        </div>
+	    -->
+        <div class="print">
+            <button id="printLink" class="printLink" title="Print This Page" onClick="javascript: PrintScreen();">
+                <img src="/Common/images/actions/print-dark.svg" alt="Print This Page icon" />
+                <span class="assistiveTech-only">Print This Page</span>
+            </button>
+        </div>
+        
+<div id="Share" class="share">
+	<button class="ShareLink" title="Share this page">
+        <img src="/Common/images/actions/share-dark.svg" alt="Share this page icon" />
+	</button>
+    
+	<ul id="ShareItemsPlaceholder" class="shareDropDown">
+        <li>
+            <a href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.caledon.ca%2fen%2fgovernment%2fward-1-area-councillor.aspx" title="" target="_blank" id="fbShare">
+                <img src="/Common/images/share/icon-facebook.svg" alt="Open new window to share this page via Facebook" />
+                <span>Facebook</span>
+            </a>
+        </li>
+        <li>
+            <a href="http://twitter.com/home?status=Check+out+http%3a%2f%2fwww.caledon.ca%2fen%2fgovernment%2fward-1-area-councillor.aspx" title="" target="_blank" id="twShare">
+                <img src="/Common/images/share/icon-twitter.svg" alt="Open new window to share this page via X" />
+                <span>X</span>
+            </a>
+        </li>
+        <li>
+            <a href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2fwww.caledon.ca%2fen%2fgovernment%2fward-1-area-councillor.aspx" title="" target="_blank" id="">
+                <img src="/Common/images/share/icon-pinterest.svg" alt="Open new window to share this page via LinkedIn" />
+                <span>Pinterest</span>
+            </a>
+        </li>
+        <li>
+            <a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fwww.caledon.ca%2fen%2fgovernment%2fward-1-area-councillor.aspx" title="" target="_blank" id="liShare">
+                <img src="/Common/images/share/icon-linkedin.svg" alt="Open new window to share this page via LinkedIn" />
+                <span>LinkedIn</span>
+            </a>
+        </li>
+<!-- 
+        <li>
+            <a id="emailLink" href="#" onclick="javascript: mailTo(event);" title="">
+                <img src="/Common/images/share/icon-email.svg" alt="Email this page" />
+                <span>Email</span>
+            </a>
+        </li> -->
+	</ul>
+    
+    <script type="text/javascript">
+        if (!iCreateObject.isSiteInICreateMode) {
+            $("#ShareItemsPlaceholder li").last().addClass("last");
+        }
+        else
+        {
+            $("#ShareItemsPlaceholder").empty();
+        }
+
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            $("#Share a.ShareLink").click(function (event) {
+                if (iCreateObject.isSiteInICreateMode) {
+                    showNAMessage();
+                }
+                else {
+                    event.preventDefault();
+                    $("#Share").trigger("mouseenter");
+                }
+            });
+        }
+        //override the share links to current URL
+        var curpage = encodeURIComponent(window.location);
+        $("#fbShare").attr("href", "http://www.facebook.com/sharer.php?u=" + curpage);
+        $("#liShare").attr("href", "http://www.linkedin.com/shareArticle?mini=true&url=" + curpage);
+        $("#twShare").attr("href", "http://twitter.com/home?status=Check+out+" + curpage);
+    </script>
+</div>
+	
+    </div>
+    <button id="subNavBtn"><span>Menu</span></button>
+</div>
+
+
+                
+            </div>
+            <div id="uberMain" class="mainInterior">
+                <main id="main" class="ic-container-fluid">
+
+                    <div id="contentInt">
+                        <div id="mainContent" tabindex="-1" role="main">
+                            <div id="printArea">
+                                <div id="pageHeading">
+                                    <h1 id="pageHeadingH1">
+                                        
+    
+        Ward 1 Councillor
+    
+                                    </h1>
+                                </div>
+                                <!--pageHeading-->
+                                <div style="display: none;" class="icreateTokenWrapper">
+                                    
+    
+        <form id="frmToggleContent" action="#"><input type="hidden" id="hdnHideLeftContent" value=""><input type="hidden" id="hdnHideSubNav" value="hide"><input type="hidden" id="hdnHideBannerImage" value="hide"><input type="hidden" id="hdnHideRightContact" value=""><input type="hidden" id="hdnHideEmergencyAlert" value=""><input type="submit" id="btnToggleContent" name="btnToggleContent" aria-label="Toggle Content" class="hideButton"></form>
+    
+                                </div>
+
+                                <div id="printAreaContent" class="printAreaContent" tabindex="-1">
+                                    
+    
+        <div class="fbg-row lmRow ui-sortable" data-lm-customclass=""><div data-lm-columnwidth="4" class="lmColumn ui-sortable fbg-col-xs-12 fbg-col-sm-4 column" data-lm-customclass=""><div class="ge-content ge-content-type-gridHTML ui-droppable" data-ge-content-type="gridHTML"><div class="fbg-container-fluid lmLayoutComponent" data-lm-id="lm1591198129879" data-lm-componenttype="StandardOneColumn" data-lm-componenttitle=""><div class="fbg-row"><div class="fbg-col-xs-12"><div class="iCreateDynaToken" data-lm-tokenid="StandardOneColumnTK1" data-icrt-tk-cfg="StandardColumnContent" id="StandardOneColumnTK1_lm1591198129879"><p><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlkAAAJZCAYAAACa+CBHAAAgAElEQVR4nOzdeYxkWXbf9+8590VmLV3TM8OeJiEu0z0kKGvI0XBECRAsg0ORtv/QH7ZkrYYhUrJlw9AKGVoIwbBkyTZkQQItQbL1h2GClAnaAmWTtEjRMEUOZ8baKHKWnp6RTHK6umdIdtdeuWfEu/f4j3tfRORSldldFZWREb8PUKhcIjMjM1++d965555jERGIiIiIyFPlF/0ERERERFaRgiwRERGRBVCQJSIiIrIACrJEREREFkBBloiIiMgCKMgSERERWQAFWSIiIiILoCBLREREZAEUZImIiIgsgIIsERERkQVQkCUiIiKyAAqyRERERBZAQZaIiIjIAijIEhEREVkABVkiIiIiC6AgS0RERGQBFGSJiIiILICCLBEREZEFUJAlIiIisgAKskREREQWQEGWiIiIyAIoyBIRERFZAAVZIiIiIgugIEtERERkARRkiYiIiCyAgiwRERGRBVCQJSIiIrIACrJEREREFkBBloiIiMgCKMgSERERWQAFWSIiIiILoCBLREREZAEUZImIiIgsgIIsERERkQVQkCUiIiKyAAqyRERERBZAQZaIiIjIAijIEhEREVkABVkiIiIiC6AgS0RERGQBFGSJiIiILICCLBEREZEFUJAlIiIisgAKskREREQWQEGWiIiIyAIoyBIRERFZAAVZIiIiIgugIEtERERkARRkiYiIiCyAgiwRERGRBVCQJSIiIrIACrJEREREFkBBloiIiMgCKMgSERERWQAFWSIiIiILoCBLREREZAEUZImIiIgsgIIsERERkQVQkCUiIiKyAAqyRERERBZAQZaIiIjIAijIEhEREVkABVkiIiIiC6AgS0RERGQBFGSJiIiILICCLBEREZEFUJAlIiIisgAKskREREQWQEGWiIiIyAIoyBIRERFZAAVZIiIiIgugIEtERERkARRkiYiIiCyAgiwRERGRBVCQJSIiIrIACrJEREREFkBBloiIiMgCKMgSERERWQAFWSIiIiILoCBLREREZAEUZImIiIgsgIIsERERkQVQkCUiIiKyAAqyRERERBZAQZaIiIjIAijIEhEREVkABVkiIiIiC6AgS9ZCRDz2/YW598f8f+09JR99/Wk/v2P/Q2EhX0hERJ4ZBVmyFszsxNsiYhrI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kAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZAIosQgghhJAFoMgihBBCCFkAiixCCCGEkAWgyCKEEEIIWQCKLEIIIYSQBaDIIoQQQghZgP8PQ/CQMiknMBkAAAAASUVORK5CYII=" alt="" width="321" height="321"></p></div></div></div></div></div></div><div data-lm-columnwidth="8" class="lmColumn ui-sortable fbg-col-xs-12 fbg-col-sm-8 column" data-lm-customclass=""><div class="ge-content ge-content-type-gridHTML ui-droppable" data-ge-content-type="gridHTML"><div class="fbg-container-fluid lmLayoutComponent" data-lm-id="lm1591198110485" data-lm-componenttype="StandardOneColumn" data-lm-componenttitle=""><div class="fbg-row"><div class="fbg-col-xs-12"><div class="iCreateDynaToken" data-lm-tokenid="StandardOneColumnTK1" data-icrt-tk-cfg="StandardColumnContent" id="StandardOneColumnTK1_lm1591198110485"><p>Councillor Lynn Kiernan was first elected in 2018 and served her first term representing the residents and businesses of Ward 1 as Area Councillor. In October 2022, Councillor Kiernan won the support of her community to continue to serve&nbsp; as the Ward 1 Councillor.</p>
+<p>During her first four years, Councillor Kiernan acted on significant issues for residents and business such as: being a persistent and strong advocate for much-needed safety measures for the highway 10 corridor as well she championed the development and approval of the aggregate interim control bylaw in collaboration with the Forks of the Credit Preservation Group. She has a long history of community involvement and will continue supporting grass roots, resident-led organizations.</p>
+<p>Prior to entering the political world, Councillor Kiernan enjoyed a successful career in the investment industry. It was her interest in helping the people around her that lead her to pursue a more active leadership role in her community.</p>
+<p>Councillor Kiernan has lived in Caledon all her life and currently resides in the charming historic village of Inglewood along with her family who are proud and active members of the community.</p>
+<h3><strong>Committee Involvement</strong></h3>
+<ul>
+<li>Age Friendly Advisory Committee, Council Liaison&nbsp;</li>
+<li>Aggregate Resource Committee</li>
+<li>Audit Committee</li>
+<li>Caledon Meals on Wheels (Vice-Chair)</li>
+<li>Heritage Committee, Council Liaison&nbsp;</li>
+<li>Niagara Escarpment Commission</li>
+<li>Physician Recruitment and Retention Steering Committee</li>
+</ul></div></div></div></div></div></div></div>
+    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <!--contentInt-->
+                    <div id="subNavWrapper" class="nocontent">
+                        <nav id="subNavContainer" aria-label="Sub Navigation"><ul class="subNav top"><li class="withChildren open"><a title="" href="#"><span>Council + Town Administration</span></a><ul><li class="&#xD;&#xA;          withChildren "><a title="View our A to Z directory page" href="/Modules/AtoZ/Index.aspx" class=""><span>A to Z directory</span></a></li><li><a title="View our Caledon to continue growing in Peel Region  page" href="/en/living-here/illegal-land-use-trucking.aspx" class=""><span>Illegal Land Use and Trucking</span></a></li><li><a title="" href="/en/government/agendas-and-minutes.aspx?_mid_=104896" class=""><span>Agendas and Minutes</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Business, planning + development page" href="/en/town-services/business-planning--development.aspx" class=""><span>Business, Planning + Development</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Business, Planning + Development Menu
+        </div><ul style="display:none;"><li><a title="View our Advertising Opportunities page" href="/en/town-services/advertising-opportunities.aspx" class=""><span>Advertising Opportunities</span></a></li><li><a title="View our Bids and Tenders page" href="/en/government/council--town-administration-bids-and-tenders.aspx?_mid_=3022" class=""><span>Bids and Tenders</span></a></li><li><a title="View our Business Licensing page" href="/en/town-services/business-licensing.aspx" class=""><span>Business Licensing</span></a></li><li><a title="View our Building Services page" href="/en/living-here/building-permits.aspx?_mid_=3023" class=""><span>Building Services</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="Visit our Economic Development website" href="https://www.caledonbusiness.ca/en/index.aspx" class=""><span>Economic Development</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Economic Development Menu
+        </div><ul style="display:none;"><li><a title="View our Business events calendar page" href="/en/town-services/business-events.aspx" class=""><span>Events</span></a></li><li><a title="Business News" href="/Modules/News/en?CategoryNames=Business+News&amp;TagWhiteList=" class=""><span>Business News</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Development Applications page" href="/en/town-services/development-applications.aspx" class=""><span>Development Applications</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Development Applications Menu
+        </div><ul style="display:none;"><li><a title="View our Aggregates page" href="/en/government/plans-reports-and-studies-aggregates.aspx?_mid_=3036" class=""><span>Aggregates</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Current Applications page" href="/en/town-services/current-applications.aspx" class=""><span>Current Applications</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Current Applications Menu
+        </div><ul style="display:none;"><li><a title="View our 0 Highway 9 page" href="/en/town-services/0-highway-9.aspx" class=""><span>0 Highway 9</span></a></li><li><a title="View our 0 Kennedy Road page" href="/en/town-services/0-kennedy-road.aspx" class=""><span>0 Kennedy Road</span></a></li><li><a title="View our 0 Kennedy Road (21CDM-24001C) page" href="/en/town-services/0-kennedy-road-21cdm-24001c.aspx" class=""><span>0 Kennedy Road (21CDM-24001C)</span></a></li><li><a title="View our 0 McLaughlin Road page" href="/en/town-services/0-mclaughlin-road.aspx" class=""><span>0 McLaughlin Road</span></a></li><li><a title="View our 0 Mount Pleasant page" href="/en/town-services/0-mount-pleasant.aspx" class=""><span>0 Mount Pleasant</span></a></li><li><a title="View our 0 King Street page" href="/en/town-services/0-king-street.aspx" class=""><span>0 King Street</span></a></li><li><a title="View our 1 Victoria Street page" href="/en/town-services/1-victoria-street.aspx" class=""><span>1 Victoria Street</span></a></li><li><a title="View our 84 Nancy Street page" href="/en/town-services/84-nancy-street.aspx" class=""><span>84 Nancy Street</span></a></li><li><a title="View our 2068 Mayfield Road page" href="/en/town-services/2068-mayfield-road.aspx" class=""><span>2068 Mayfield Road</span></a></li><li><a title="View our 2650 Mayfield Road page" href="/en/town-services/2650-mayfield-road.aspx" class=""><span>2650 Mayfield Road</span></a></li><li><a title="View our 6098 - 6142 Old Church Road  page" href="/en/town-services/6098-6142-old-church-road.aspx" class=""><span>6098 - 6142 Old Church Road </span></a></li><li><a title="View our 8186 King Street page" href="/en/town-services/8186-king-street.aspx" class=""><span>8186 King Street</span></a></li><li><a title="View our 10819 Highway 9 page" href="/en/town-services/10819-highway-9.aspx" class=""><span>10819 Highway 9</span></a></li><li><a title="View our 12148 Albion Vaughan Road page" href="/en/town-services/12148-albion-vaughan-road.aspx" class=""><span>12148 Albion Vaughan Road</span></a></li><li><a title="View our 12245 Torbram Road page" href="/en/town-services/12245-torbram-rd.aspx" class=""><span>12245 Torbram Road</span></a></li><li><a title="View our 12290 Hutchinson Farm Lane page" href="/en/town-services/12290-hutchinson-farm-lane.aspx" class=""><span>12290 Hutchinson Farm Lane</span></a></li><li><a title="View our 12259 Chinguacousy Road page" href="/en/town-services/12259-chinguacousy-road.aspx" class=""><span>12259 Chinguacousy Road</span></a></li><li><a title="View our 12304 Heart Lake Road page" href="/en/town-services/12304-heart-lake-road.aspx" class=""><span>12304 Heart Lake Road</span></a></li><li><a title="View our 12476 Highway 50 page" href="/en/town-services/12476-highway-50.aspx" class=""><span>12476 Highway 50</span></a></li><li><a title="View our 12434 Dixie Road page" href="/en/town-services/12434-dixie-road.aspx" class=""><span>12434 Dixie Road</span></a></li><li><a title="View our 12507 Old Kennedy Road page" href="/en/town-services/12507-old-kennedy-road.aspx" class=""><span>12507 Old Kennedy Road</span></a></li><li><a title="View our 12529 Chinguacousy Road page" href="/en/town-services/12529-chinguacousy-road.aspx" class=""><span>12529 Chinguacousy Road</span></a></li><li><a title="View our 12544 Highway 50 page" href="/en/town-services/12544-highway-50.aspx" class=""><span>12544 Highway 50</span></a></li><li><a title="View our 12211,12213,12231 Hurontario Street page" href="/en/town-services/12211-12213-12231-hurontario-street.aspx" class=""><span>12211,12213,12231 Hurontario Street</span></a></li><li><a title="View our 12728 Kennedy rd and 0 Dotchson rd page" href="/en/town-services/12728-kennedy-rd-and-0-dotchson-rd.aspx" class=""><span>12728 Kennedy rd and 0 Dotchson rd</span></a></li><li><a title="View our 12862 Dixie Road page" href="/en/town-services/12862-dixie-road.aspx" class=""><span>12862 Dixie Road</span></a></li><li><a title="View our 13576 and 13584 Coleraine Drive page" href="/en/town-services/13576-and-13584-coleraine-drive.aspx" class=""><span>13576 and 13584 Coleraine Drive</span></a></li><li><a title="View our 12301 and 12304 Heart Lake Road page" href="/en/town-services/12301-and-12304-heart-lake-road.aspx" class=""><span>12301 and 12304 Heart Lake Road</span></a></li><li><a title="View our 13656 Emil Kolb Parkway page" href="/en/town-services/13656-emil-kolb-parkway.aspx" class=""><span>13656 Emil Kolb Parkway</span></a></li><li><a title="View our 15728 Airport Road page" href="/en/town-services/15728-airport-road.aspx" class=""><span>15728 Airport Road</span></a></li><li><a title="View our 15867 Airport Road page" href="/en/town-services/15867-airport-road.aspx" class=""><span>15867 Airport Road</span></a></li><li><a title="View our 16054 and 16060 Airport Road page" href="/en/town-services/16054-and-16060-airport-road.aspx" class=""><span>16054 and 16060 Airport Road</span></a></li><li><a title="View our 17736 Heart Lake Road page" href="/en/town-services/17736-heart-lake-road.aspx" class=""><span>17736 Heart Lake Road</span></a></li><li><a title="View our 18314 Hurontario Street page" href="/en/town-services/18314-hurontario-street.aspx" class=""><span>18314 Hurontario Street</span></a></li><li><a title="View our 14245 Highway 50 page" href="/en/town-services/14245-highway-50.aspx" class=""><span>14245 Highway 50</span></a></li><li><a title="View our 15, 21 and 27 Shore Street page" href="/en/town-services/15-21-and-27-shore-street.aspx" class=""><span>15, 21 and 27 Shore Street</span></a></li><li><a title="View our Averica page" href="/en/town-services/averica.aspx" class=""><span>Averica</span></a></li><li><a title="View our Brentwood Development Corporation page" href="/en/town-services/brentwood-development-corporation.aspx" class=""><span>Brentwood Development Corporation</span></a></li><li><a title="View our Evans Planning Inc. page" href="/en/town-services/evans-planning-inc.aspx" class=""><span>Evans Planning Inc.</span></a></li><li><a title="View our Humber Station Employment Area Secondary Plan page" href="/en/town-services/humber-station-employment-area-secondary-plan.aspx" class=""><span>Humber Station Employment Area Secondary Plan</span></a></li><li><a title="View our Humphries Planning Group Inc. page" href="/en/town-services/humphries-planning-group-inc.aspx" class=""><span>Humphries Planning Group Inc.</span></a></li><li><a title="View our Hurontario Street, Kennedy Road and Old School Road page" href="/en/town-services/hurontario-street-kennedy-road-and-old-school-road.aspx" class=""><span>Hurontario Street, Kennedy Road and Old School Road</span></a></li><li><a title="View our Hi-lands page" href="/en/town-services/hi-lands.aspx" class=""><span>Hi-lands</span></a></li><li><a title="View our Kennedy Road &amp;amp; Mayfield Road page" href="/en/town-services/kennedy-road-mayfield-road.aspx" class=""><span>Kennedy Road &amp; Mayfield Road</span></a></li><li><a title="View our Manors of Belfountain (Enterac) page" href="/en/town-services/manors-of-belfountain-enterac.aspx" class=""><span>Manors of Belfountain (Enterac)</span></a></li><li><a title="View our Mount Hope Estates page" href="/en/town-services/mount-hope-estates.aspx" class=""><span>Mount Hope Estates</span></a></li><li><a title="View our Shacca Caledon Holdings page" href="/en/town-services/shacca-caledon-holdings.aspx" class=""><span>Shacca Caledon Holdings</span></a></li><li><a title="View our Telecommunication Towers page" href="/en/town-services/telecommunication-towers.aspx" class=""><span>Telecommunication Towers</span></a></li><li><a title="View our Triple Crown Line Developments page" href="/en/town-services/triple-crown-line-developments.aspx" class=""><span>Triple Crown Line Developments</span></a></li><li><a title="View our Tropical Land Developments page" href="/en/town-services/tropical-land-developments.aspx" class=""><span>Tropical Land Developments</span></a></li><li><a title="View our Weston Consulting page" href="/en/town-services/weston-consulting.aspx" class=""><span>Weston Consulting</span></a></li><li><a title="View our Zelinka Prima Ltd page" href="/en/town-services/zelinka-prima-ltd.aspx" class=""><span>Zelinka Prima Ltd</span></a></li><li><a title="View our 10249 Hunsden Sdrd page" href="/en/town-services/10249-hunsden-sdrd.aspx" class=""><span>10249 Hunsden Sdrd</span></a></li><li><a title="View our 0 King Street' page" href="/en/town-services/0-king-street.aspx?_mid_=104690" class=""><span>0 King Street'</span></a></li><li><a title="View our 13290 Nunnville Road' page" href="/en/town-services/13290-nunnville-road.aspx" class=""><span>13290 Nunnville Road'</span></a></li><li><a title="View our 12555 Coleraine Drive' page" href="/en/town-services/12555-coleraine-drive.aspx?_mid_=104692" class=""><span>12555 Coleraine Drive'</span></a></li><li><a title="View our 10249 Hunsded Sdrd page" href="/en/town-services/10249-hunsded-sdrd.aspx" class=""><span>10249 Hunsded Sdrd</span></a></li><li><a title="View our 12541 and 12577 Airport RD'' page" href="/en/town-services/12541-and-12577-airport-rd.aspx?_mid_=104695" class=""><span>12541 and 12577 Airport RD''</span></a></li><li><a title="View our 12434 Dixie Rd'' page" href="/en/town-services/12434-dixie-rd.aspx" class=""><span>12434 Dixie Rd''</span></a></li><li><a title="View our 12304 Heart Lake - Phase 2'' page" href="/en/town-services/12304-heart-lake-phase-2.aspx" class=""><span>12304 Heart Lake - Phase 2''</span></a></li><li><a title="View our 0 Mount Hope R' page" href="/en/town-services/0-mount-hope-r.aspx" class=""><span>0 Mount Hope R'</span></a></li></ul></li><li><a title="View our Development Charges page" href="/en/town-services/development-charges.aspx" class=""><span>Development Charges</span></a></li><li><a title="View our Park Dedication page" href="/en/town-services/park-dedication.aspx" class=""><span>Park Dedication</span></a></li><li><a title="View our Planning Appeals page" href="/en/town-services/planning-appeals.aspx" class=""><span>Planning Appeals</span></a></li><li><a title="View our Public Meetings at the Town of Caledon page" href="/en/town-services/public-meetings-planning-and-development.aspx" class=""><span>Public Meetings at the Town of Caledon</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Site Plan Applications page" href="/en/town-services/site-plan-applications.aspx" class=""><span>Site Plan Applications</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Site Plan Applications Menu
+        </div><ul style="display:none;"><li><a title="View our Oak Ridges Moraine page" href="/en/town-services/oak-ridges-moraine.aspx" class=""><span>Oak Ridges Moraine</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Standards, Policies and Guidelines page" href="/en/town-services/standards-policies-and-guidelines.aspx" class=""><span>Standards, Policies and Guidelines</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Standards, Policies and Guidelines Menu
+        </div><ul style="display:none;"><li><a title="View our Landscape Requirements page" href="/en/town-services/landscape-requirements.aspx" class=""><span>Landscape Requirements</span></a></li><li><a title="View our Minimum Distance Separation (MDS) page" href="/en/town-services/minimum-distance-separation-mds.aspx" class=""><span>Minimum Distance Separation (MDS)</span></a></li><li><a title="View our Urban Design page" href="/en/town-services/urban-design-requirements.aspx" class=""><span>Urban Design</span></a></li><li><a title="View our Terms of Reference page" href="/en/government/terms-of-reference.aspx" class=""><span>Terms of Reference</span></a></li><li><a title="View our Green Development Standards page" href="/en/town-services/green-development-standards.aspx" class=""><span>Green Development Standards</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Subdivisions page" href="/en/town-services/subdivisions.aspx" class=""><span>Subdivisions</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Subdivisions Menu
+        </div><ul style="display:none;"><li><a title="View our Digram Developments Caledon Inc page" href="/en/town-services/digram-developments-caledon-inc.aspx" class=""><span>Digram Developments Caledon Inc</span></a></li></ul></li></ul></li><li><a title="View our Public Utility Coordinating Committee page" href="/en/town-services/public-utility-coordinating-committee.aspx" class=""><span>Public Utility Coordinating Committee</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Official Plan page" href="/en/town-services/official-plan.aspx" class=""><span>Official Plan</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Official Plan Menu
+        </div><ul style="display:none;"><li><a title="View our Logistics Land Use Strategy page" href="/en/town-services/logistics-land-use-strategy.aspx" class=""><span>Logistics Land Use Strategy</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Zoning page" href="/en/town-services/zoning.aspx" class=""><span>Zoning</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Zoning Menu
+        </div><ul style="display:none;"><li><a title="View our Airport Zoning Regulation (AZR) page" href="/en/town-services/airport-zoning-regulation-azr.aspx" class=""><span>Airport Zoning Regulation (AZR)</span></a></li><li><a title="View our MZOs (Ministerial Zoning Orders) page" href="/en/town-services/mzos-ministerial-zoning-orders.aspx" class=""><span>MZOs (Ministerial Zoning Orders)</span></a></li><li><a title="View our Zoning By-law Review page" href="/en/town-services/zoning-by-law-review.aspx" class=""><span>Zoning By-law Review</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Grants, Incentives and Rebates page" href="/en/government/community-grants.aspx?_mid_=3072" class=""><span>Grants, Rebates and Incentives</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Grants, Rebates and Incentives Menu
+        </div><ul style="display:none;"><li><a title="View our Community Improvement Plans page" href="/en/town-services/community-improvement-plans.aspx" class=""><span>Community Improvement Plans</span></a></li><li><a title="View our Green Building Incentives page" href="/en/town-services/green-building-incentives.aspx" class=""><span>Green Building Incentives</span></a></li></ul></li></ul></li><li class="&#xD;&#xA;          withChildren  open "><a title="View our Council + Town administration page" href="/en/government/council--town-administration.aspx" class="current"><span>Council + Town Administration</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Council + Town Administration Menu
+        </div><ul><li class="&#xD;&#xA;          withChildren  open "><a title="View our Mayor and Council page" href="/en/government/mayor-and-council.aspx" class="current"><span>Council</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Council Menu
+        </div><ul><li><a title="View our Accountability and Transparency page" href="/en/government/accountability-and-transparency.aspx" class=""><span>Accountability and Transparency</span></a></li><li><a title="View our Council Meeting Calendar page" href="/en/government/agendas-and-minutes.aspx?_mid_=3124" class=""><span>Calendar</span></a></li><li><a title="View our Code of Conduct for Members of Council and Designated Boards page" href="/en/government/code-of-conduct.aspx" class=""><span>Code of Conduct</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Elections page" href="/en/government/election-landing-page.aspx?_mid_=102850" class=""><span>Elections</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Elections Menu
+        </div><ul style="display:none;"><li><a title="View our Candidate Election Information page" href="/en/government/candidate-election-information.aspx" class=""><span>Candidate Election Information</span></a></li><li><a title="View our Past Municipal Election Results page" href="/en/government/elections.aspx" class=""><span>Past Municipal Election Results</span></a></li></ul></li><li><a title="View our Expenses page" href="/en/government/expenses.aspx" class=""><span>Expenses</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Mayor page" href="/en/government/mayor.aspx" class=""><span>Mayor</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Mayor Menu
+        </div><ul style="display:none;"><li><a title="View our Birthdays and Anniversaries page" href="/en/government/birthdays-and-anniversaries.aspx" class=""><span>Birthdays and Anniversaries</span></a></li><li><a title="View our Special Event Invitation page" href="/en/government/special-event-invitation.aspx" class=""><span>Special Event Invitation</span></a></li></ul></li><li><a title="View our Mayoral Decisions page" href="/en/government/mayoral-decisions.aspx" class=""><span>Mayoral Decisions</span></a></li></ul></li><li><a title="View our Agendas and Minutes page" href="/en/government/agendas-and-minutes.aspx" class=""><span>Agendas and Minutes</span></a></li><li><a title="View our Bids and Tenders page" href="/en/government/council--town-administration-bids-and-tenders.aspx" class=""><span>Bids and Tenders</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Boards, Committees and Task Forces page" href="/en/government/boards-committees-and-task-forces-l.aspx" class=""><span>Boards, committees and task forces</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Boards, committees and task forces Menu
+        </div><ul style="display:none;"><li><a title="View our Accessibility Advisory Committee page" href="/en/government/accessibility-advisory-committee.aspx" class=""><span>Accessibility Advisory Committee</span></a></li><li><a title="View our Active Transportation Task Force page" href="/en/government/active-transportation-task-force.aspx" class=""><span>Active Transportation Task Force</span></a></li><li><a title="View our Age-Friendly Advisory Committee page" href="/en/government/age-friendly-advisory-committee.aspx" class=""><span>Age-Friendly Advisory Committee</span></a></li><li><a title="View our Audit Committee page" href="/en/government/audit-committee.aspx" class=""><span>Audit Committee</span></a></li><li><a title="View our Committee of Adjustment page" href="/en/government/committee-of-adjustment.aspx" class=""><span>Committee of Adjustment</span></a></li><li><a title="View our Compliance Audit Committee page" href="/en/government/compliance-audit-committee.aspx" class=""><span>Municipal Election Compliance Audit Committee</span></a></li><li><a title="View our Golf Tournament Committee page" href="/en/government/golf-tournament-committee.aspx" class=""><span>Golf Tournament Committee</span></a></li><li><a title="View our Heritage Caledon page" href="/en/government/heritage-caledon.aspx" class=""><span>Heritage Caledon</span></a></li><li><a title="View our Public Library Board page" href="/en/government/public-library-board.aspx" class=""><span>Public Library Board</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Budget and Finances page" href="/en/government/budget-and-finances.aspx" class=""><span>Budget and Finances</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Budget and Finances Menu
+        </div><ul style="display:none;"><li><a title="View our Asset Management page" href="/en/government/asset-management.aspx" class=""><span>Asset Management</span></a></li></ul></li><li><a title="View our By-laws and Policies page" href="/en/government/by-laws-and-policies.aspx" class=""><span>By-laws and Policies</span></a></li><li><a title="View our Freedom of Information Requests page" href="/en/government/freedom-of-information-requests.aspx" class=""><span>Freedom of Information Requests</span></a></li><li><a title="View our Lobbyist Registry page" href="/en/government/lobbyist-registry.aspx" class=""><span>Lobbyist Registry</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Plans, Reports and Studies page" href="/en/government/plans-reports-and-studies.aspx" class=""><span>Plans, Reports and Studies</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Plans, Reports and Studies Menu
+        </div><ul style="display:none;"><li><a title="View our Adult 55 Strategic Plan page" href="/en/government/adult-55-strategic-plan.aspx" class=""><span>Adult 55 Strategic Plan</span></a></li><li><a title="View our Aggregates page" href="/en/government/plans-reports-and-studies-aggregates.aspx" class=""><span>Aggregates</span></a></li><li><a title="View our Bolton Queen Street Corridor Study page" href="/en/government/bolton-queen-street-corridor-study.aspx" class=""><span>Bolton Queen Street Corridor Study</span></a></li><li><a title="View our Bolton Residential Expansion Study page" href="/en/government/bolton-residential-expansion-study.aspx" class=""><span>Bolton Residential Expansion Study</span></a></li><li><a title="View our Bolton Special Policy Area Study page" href="/en/government/bolton-special-policy-area-study.aspx" class=""><span>Bolton Special Policy Area Study</span></a></li><li><a title="View our Bolton Transportation Master Plan page" href="/en/government/bolton-transportation-master-plan.aspx" class=""><span>Bolton Transportation Master Plan</span></a></li><li><a title="View our Council Work Plan page" href="/en/government/council-work-plan.aspx" class=""><span>Council Work Plan</span></a></li><li><a title="View our Excess Soil page" href="/en/government/excess-soil.aspx" class=""><span>Excess Soil</span></a></li><li><a title="View our Growth Management page" href="/en/government/growth-management.aspx" class=""><span>Growth Management</span></a></li><li><a title="View our Mayfield West Secondary Plan page" href="/en/government/mayfield-west-secondary-plan.aspx" class=""><span>Mayfield West Secondary Plan</span></a></li><li><a title="View our Palgrave Estate Residential Community Policy Review page" href="/en/government/palgrave-estate-residential-community-policy-review.aspx" class=""><span>Palgrave Estate Residential Community Policy Review</span></a></li><li><a title="View our Preservation of Rural Community Character and Infill Policy Review page" href="/en/government/preservation-of-rural-community-character-and-infill-policy-review.aspx" class=""><span>Preservation of Rural Community Character and Infill Policy Review</span></a></li><li><a title="View our Rehabilitation Master Plan page" href="/en/government/rehabilitation-master-plan.aspx" class=""><span>Rehabilitation Master Plan</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Transportation Studies page" href="/en/government/transportation-studies.aspx" class=""><span>Transportation Studies</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Transportation Studies Menu
+        </div><ul style="display:none;"><li><a title="View our Chinguacousy Road Improvements Class Environmental Assessment page" href="/en/government/chinguacousy-road-improvements-class-environmental-assessment.aspx" class=""><span>Chinguacousy Road Improvements Class Environmental Assessment</span></a></li></ul></li></ul></li><li><a title="View our Town Administration page" href="/en/government/town-administration.aspx" class=""><span>Town Administration</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Legal Services page" href="/en/government/legal-services.aspx" class=""><span>Legal Services</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Legal Services Menu
+        </div><ul style="display:none;"><li><a title="View our Articling Program page" href="/en/government/articling-program.aspx?_mid_=117989" class=""><span>Articling Program</span></a></li><li><a title="View our Document Commissioning page" href="/en/government/document-commissioning.aspx?_mid_=117990" class=""><span>Document Commissioning</span></a></li><li><a title="View our Marriage Licensing page" href="/en/government/marriage-licensing.aspx?_mid_=117991" class=""><span>Marriage Licensing</span></a></li><li><a title="" href="/en/government/poa.aspx?_mid_=117992" class=""><span>Tickets | Provincial Offences | Courts</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Property tax page" href="/en/town-services/property-tax.aspx" class=""><span>Property Tax</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Property Tax Menu
+        </div><ul style="display:none;"><li><a title="View our Farm Properties page" href="/en/town-services/farm-properties.aspx" class=""><span>Farm Properties</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Pay Your Taxes page" href="/en/town-services/pay-your-taxes.aspx" class=""><span>Pay Your Taxes</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Pay Your Taxes Menu
+        </div><ul style="display:none;"><li><a title="View our Internet Levy page" href="/en/town-services/internet-levy.aspx" class=""><span>Broadband Levy</span></a></li><li><a title="View our Late Payment Charges page" href="/en/town-services/late-payment-charges.aspx" class=""><span>Late Payment Charges</span></a></li><li><a title="View our Tax Appeals page" href="/en/town-services/tax-appeals.aspx" class=""><span>Tax Appeals</span></a></li><li><a title="View our Tax Sales and Arrears page" href="/en/government/tax-sales-and-arrears.aspx" class=""><span>Tax Sales and Arrears</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Property Assessments page" href="/en/town-services/property-assessments.aspx" class=""><span>Property Assessments</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Property Assessments Menu
+        </div><ul style="display:none;"><li><a title="View our Appealing your Assessment page" href="/en/town-services/appealing-your-assessment.aspx" class=""><span>Appealing your Assessment</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Property Tax Calculator page" href="/en/town-services/property-tax-calculator.aspx" class=""><span>Property Tax Calculator</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Property Tax Calculator Menu
+        </div><ul style="display:none;"><li><a title="View our Tax Calculator " href="/Modules/PropertyTax/PropertyTaxCalculator.aspx" class=""><span>Calculate your Taxes</span></a></li></ul></li><li><a title="View our Request a Tax Certificate page" href="/en/town-services/request-a-tax-certificate.aspx" class=""><span>Request a Tax Certificate</span></a></li><li><a title="View our Tax Rates and Statements page" href="/en/town-services/tax-rates-and-statements.aspx" class=""><span>Tax Rates and Statements</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Tax Rebates page" href="/en/town-services/tax-rebates.aspx" class=""><span>Tax Rebates</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Tax Rebates Menu
+        </div><ul style="display:none;"><li><a title="View our Assistance for Seniors and Persons with Disabilities page" href="/en/town-services/assistance-for-seniors-and-persons-with-disabilities.aspx" class=""><span>Assistance for Seniors and Persons with Disabilities</span></a></li></ul></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Public safety + community services page" href="/en/town-services/public-safety--community-services.aspx" class=""><span>Public Safety + Community Services</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Public Safety + Community Services Menu
+        </div><ul style="display:none;"><li class="&#xD;&#xA;          withChildren "><a title="View our Burn Permits page" href="/en/town-services/burn-permits.aspx" class=""><span>Burn Permits</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Burn Permits Menu
+        </div><ul style="display:none;"><li><a title="Open to apply for Burn Permit" href="https://webforms.caledon.ca/Burn-Permit" class=""><span>Apply for a Burn Permit</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Caledon Fire and Emergency Services page" href="/en/town-services/caledon-fire-and-emergency-services.aspx" class=""><span>Caledon Fire and Emergency Services</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Caledon Fire and Emergency Services Menu
+        </div><ul style="display:none;"><li class="&#xD;&#xA;          withChildren "><a title="View our About Us page" href="/en/town-services/about-us.aspx" class=""><span>About Us</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section About Us Menu
+        </div><ul style="display:none;"><li><a title="View our Stations page" href="/en/town-services/stations.aspx" class=""><span>Stations</span></a></li></ul></li><li><a title="View our Fire Media Centre page" href="https://www.caledon.ca/Modules/News/en?CategoryNames=Caledon+Fire+Media+Centre&amp;TagWhiteList=" class=""><span>Fire Media Centre</span></a></li><li class="&#xD;&#xA;          withChildren "><a title="View our Fire Safety page" href="/en/town-services/fire-safety.aspx" class=""><span>Fire Safety</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Fire Safety Menu
+        </div><ul style="display:none;"><li><a title="View our Carbon Monoxide Alarms page" href="/en/town-services/carbon-monoxide-alarms.aspx" class=""><span>Carbon Monoxide Alarms</span></a></li><li><a title="View our Home Safety page" href="/en/town-services/home-safety.aspx" class=""><span>Home Safety</span></a></li></ul></li><li><a title="View our Fireworks page" href="/en/town-services/fireworks.aspx" class=""><span>Fireworks</span></a></li><li><a title="View our Recruitment page" href="/en/town-services/recruitment.aspx" class=""><span>Recruitment</span></a></li><li><a title="View our Tanker Accreditation page" href="/en/town-services/tanker-accreditation.aspx" class=""><span>Tanker Accreditation</span></a></li><li><a title="View our Regional Training Centre page" href="/en/government/regional-training-centre.aspx" class=""><span>Regional Training Centre</span></a></li></ul></li><li class="&#xD;&#xA;          withChildren "><a title="View our Caledon OPP page" href="/en/town-services/caledon-opp.aspx" class=""><span>Caledon OPP</span></a><div tabindex="0" class="toggle in" role="button">
+          Toggle Section Caledon OPP Menu
+        </div><ul style="display:none;"><li><a title="View our About Us page" href="/en/town-services/caledon-opp-about-us.aspx" class=""><span>About Us</span></a></li><li><a title="View our Community Safety page" href="/en/town-services/community-safety.aspx" class=""><span>Community Safety</span></a></li><li><a title="Caledon OPP Media Contact" href="/en/town-services/opp-media-centre.aspx" class=""><span>Media Contact</span></a></li><li><a title="OPP Record Checks" href="/en/town-services/caledon-opp.aspx#RBCs" class=""><span>Record and Background Checks</span></a></li></ul></li><li><a title="View our Emergency Preparedness page" href="/en/town-services/emergency-preparedness.aspx" class=""><span>Emergency Preparedness</span></a></li><li><a title="View our Fireworks page" href="/en/town-services/fireworks.aspx?_mid_=103032" class=""><span>Fireworks</span></a></li><li><a title="View our Grow Ops and Clandestine Labs page" href="/en/town-services/grow-ops-and-clandestine-labs.aspx" class=""><span>Grow Ops and Clandestine Labs</span></a></li><li><a title="View our Municipal Numbering page" href="/en/town-services/municipal-numbering.aspx" class=""><span>Municipal Numbering</span></a></li><li><a title="View our New to Caledon page" href="/en/town-services/new-to-caledon.aspx" class=""><span>New to Caledon</span></a></li><li><a title="View our Paramedics page" href="/en/town-services/paramedics.aspx" class=""><span>Paramedics</span></a></li><li><a title="View our Vulnerable Persons Registry page" href="/en/town-services/vulnerable-persons-registry.aspx" class=""><span>Vulnerable Persons Registry</span></a></li></ul></li></ul></li></ul></nav>
+                        
+
+                        <div id="contactMainContainer">
+                            <div class="contactContainer">
+                                <div class="contactHeader">
+                                    <div class="contactHeaderTitle">
+                                        <p>Contact Us</p>
+                                    </div>
+                                </div>
+                                <div class="contactBody">
+                                    
+    
+        <div class="contactBodyContactInfoContactModuleV2" id="contactEntry_4570"></div>
+    
+                                </div>
+                                <div class="contactFooter"></div>
+                            </div>
+                        </div>
+                        <!--contactMainContainer-->
+                         
+<a href="#" id="pageSubscription" class="btn nocontent" style="display:none;">
+    <img src="/Common/images/actions/subscribe-dark.svg" alt="page subscription icon">
+    
+    Subscribe to this page
+
+</a>
+
+    <link rel='stylesheet' href='/Modules/PageSubscription/style/PageSubscriptionForm.css' />
+    <script src="/Modules/PageSubscription/scripts/PageSubscription.js"></script>
+
+                    </div>
+                    <!--subNavWrapper-->
+                </main>
+                <!--main-->
+            </div>
+            <!--uberMain-->
+
+            <footer class="nocontent">
+                
+
+    <div id="footerTop">
+        <div class="ic-container-fluid">
+            <div id="contact">
+                <div class="item">
+                    <h2>How can we help?</h2>
+<p><a title="Call 311 on your phone" rel="noopener noreferrer" href="tel:311" target="_blank" aria-label="Dial 311 opens in new window">Dial 311</a> or&nbsp;<a title="send an email to Service Caledon" rel="noopener noreferrer" href="mailto:info@caledon.ca" target="_blank" aria-label="email opens in new window">email</a>&nbsp;us!</p>
+                </div>
+                <div class="item">
+                    <h2>Stay Informed</h2>
+<p><a title="Town of Caledon email newsletter sign-up form" rel="noopener noreferrer" href="https://confirmsubscription.com/h/i/77EED888EA12F3F9" target="_blank">Subscribe now</a>&nbsp;to get our newsletter.</p>
+                </div>
+                <div class="item">
+                    <h2>Have your say</h2>
+<p>Contact&nbsp;<a title="View our Council page" href="/en/government/mayor-and-council.aspx">Council</a>&nbsp;or visit our new <a title="Have Your Say Caledon" rel="noopener noreferrer" href="http://www.haveyoursaycaledon.ca" target="_blank">public engagement site</a>.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <div id="footerBottom">
+        <div class="footerBottom-top ic-container-fluid">
+            <div class="column">
+                <div id="footerLogo">
+                    <img src="/en/images/structure/logo.svg" alt="Town of Caledon logo">
+
+                </div>
+                <p>Our residents make Caledon a vibrant place to live, work and&nbsp;play.&nbsp;</p>
+<div id="socialIcons"  role="complementary" aria-label="Social Media Links">
+    <ul>
+  <li>
+    <a title="" href="https://twitter.com/TownOfCaledon" target="_blank">
+      <img alt="View our Twitter Page" src="/en/resourcesGeneral/socialicons/icon-twitter.svg" />
+    </a>
+  </li>
+  <li>
+    <a title="" href="https://www.facebook.com/thetownofcaledon" target="_blank">
+      <img alt="View our Facebook Page" src="/en/resourcesGeneral/socialicons/icon-facebook.svg" />
+    </a>
+  </li>
+  <li>
+    <a title="" href="https://www.instagram.com/townofcaledon/" target="_blank">
+      <img alt="View our Instagram Page" src="/en/resourcesGeneral/socialicons/icon-instagram.svg" />
+    </a>
+  </li>
+  <li>
+    <a title="" href="https://www.linkedin.com/company/town-of-caledon/" target="_blank">
+      <img alt="View our LinkedIn Page" src="/en/resourcesGeneral/socialicons/icon-linkedin.svg" />
+    </a>
+  </li>
+  <li>
+    <a title="" href="https://www.youtube.com/@townofcaledon" target="_blank">
+      <img alt="View our YouTube Page" src="/en/resourcesGeneral/socialicons/icon-youtube.svg" />
+    </a>
+  </li>
+  <li>
+    <a title="" href="https://bsky.app/profile/townofcaledon.bsky.social" target="_blank">
+      <img alt="Follow us on Bluesky" src="/en/resourcesGeneral/socialicons/Bluesky-Icon.svg" />
+    </a>
+  </li>
+</ul>
+</div>
+
+
+            </div>  
+            <div class="bottom-content">
+                <div class="column">
+                    <h2>Contact Us</h2>
+<p>The Corporation of the Town of Caledon<br> 6311 Old Church Rd<br> Caledon ON L7C 1J6</p>
+<p>Phone<br> <a href="tel:19055842272">905-584-2272</a></p>
+<p>Toll Free<br> <a href="tel:18882253366">1-888-225-3366</a></p>
+                </div>
+                
+         
+<div id="footerNav" class="footerNav" aria-label="Footer Site Navigation Links" role="navigation">
+    <h2>Resources</h2>
+    <ul><li><a title="View our A to Z Directory page" href="https://www.caledon.ca/Modules/AtoZ/Index.aspx"><span>A to Z Directory</span></a></li><li><a title="View our Accessibility page" href="/en/government/accessibility.aspx"><span>Accessibility</span></a></li><li><a title="View our Customer Services page" href="/en/government/customer-service.aspx"><span>Customer Service</span></a></li><li><a title="View our Privacy Policy" href="/Privacy"><span>Privacy</span></a></li><li><a title="View our Sitemap" href="/Common/Sitemap.aspx"><span>Sitemap</span></a></li></ul>    
+</div>                
+                 
+<div class="footerNav" role=navigation aria-label="Footer External Navigation Links">
+    <h2>Other Websites</h2>
+    <ul><li><a title="Visit our Public Engagement site" href="https://haveyoursaycaledon.ca/" target="_blank" class="withIcon">HaveYourSayCaledon</a></li><li><a title="View our Economic Development website" href="https://caledonbusiness.ca" target="_blank" class="withIcon">Economic Development</a></li><li><a title="VisitCaledon.ca" href="https://www.visitcaledon.ca" target="_blank" class="withIcon">VisitCaledon</a></li></ul>
+
+    
+</div>
+
+
+
+            </div>     
+
+        </div>
+        <div class="footerBottom-bottom ic-container-fluid">
+            <p>Copyright © 2022 The Corporation of the Town of Caledon</p>
+            <p>
+                <a href="https://ghddigitalpss.com" title="By GHD Digital" target="_blank" id="esol">By GHD Digital</a>
+            </p>
+        </div>
+    </div>
+
+<!-- Footer top -->
+
+
+<script type="text/javascript">
+
+    iCreateObject.gaTrackingCode = 'UA-24951926-1';                                                                         //UA Tracking Code
+
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', iCreateObject.gaTrackingCode, 'auto', {'allowAnchor': true});
+    ga('require', 'linkid');                                                                                                //Enhanced Link Attribution - tracks links with IDs 
+    ga('require', 'displayfeatures');                                                                                       //Advertiser Support (display advertising and remarketing)
+    ga('send', 'pageview');
+
+    if (typeof jQuery != 'undefined') {                                                                                     //Event Tracking Setup
+        var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i;                      //Event Tracking - File Download Types
+        var baseHref = '';
+        if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+        var hrefRedirect = '';
+
+        jQuery('body').on('click', 'a', function (event) {
+            var el = jQuery(this);
+            var track = true;
+            var href = (typeof (el.attr('href')) != 'undefined') ? el.attr('href') : '';
+            var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
+            if (!href.match(/^javascript:/i)) {
+                var elEv = []; elEv.value = 0, elEv.non_i = false;
+                if (href.match(/^mailto\:/i)) {                                                                                 //Event Tracking - Email
+                    elEv.category = 'Email';
+                    elEv.action = 'click';
+                    elEv.label = href.replace(/^mailto\:/i, '');
+                    elEv.loc = href;
+                }
+                else if (href.match(filetypes)) {                                                                               //Event Tracking - File Downloads
+                    var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                    elEv.category = 'Download';
+                    elEv.action = 'click-' + extension[0];
+                    elEv.label = href.replace(/ /g, '-');
+                    elEv.loc = baseHref + href;
+                }
+                else if (href.match(/^https?\:/i) && !isThisDomain) {                                                           //Event Tracking - External Links
+                    elEv.category = 'External';
+                    elEv.action = 'click';
+                    elEv.label = href.replace(/^https?\:\/\//i, '');
+                    elEv.non_i = true;
+                    elEv.loc = href;
+                }
+                else if (href.match(/^tel\:/i)) {                                                                               //Event Tracking - Telephone
+                    elEv.category = 'Telephone';
+                    elEv.action = 'click';
+                    elEv.label = href.replace(/^tel\:/i, '');
+                    elEv.loc = href;
+                }
+                else track = false;
+
+                if (track) {
+                    var ret = true;
+                    if ((elEv.category == 'External' || elEv.category == 'Download') && (el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank')) {
+                        hrefRedirect = elEv.loc;
+
+                        ga('send', 'event', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, {
+                            'nonInteraction': elEv.non_i,
+                            'hitCallback': gaHitCallbackHandler
+                        });
+                        ret = false;
+                    }
+                    else {
+                        ga('send', 'event', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, {
+                            'nonInteraction': elEv.non_i
+                        });
+                    }
+                    return ret;
+                }
+            }
+        });
+        jQuery(".AccordionTrigger").on("click", function () {
+            ga('send', 'event', 'Accordion', 'click', location.pathname + '#' + jQuery("a", this).attr('name'));
+            ga('send', 'pageview', location.pathname + '#' + jQuery("a", this).attr('name'));
+        });        
+        gaHitCallbackHandler = function () {
+            window.location.href = hrefRedirect;
+        }
+    }
+</script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NRCLQNFS4G"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NRCLQNFS4G');
+</script>
+                 
+<script type="text/javascript" src="/Common/scripts/toggleContent.js?v=v8"></script>
+ 
+            </footer>
+        </div>
+        <!--uber-->
+        
+        
+
+<script type="text/javascript" src='/Common/scripts/jquery.lazy.js'></script>
+<script type="text/javascript" src='/Common/scripts/responsiveScripts.js'></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/icreate-date/1.0.0/icrt-toDateTimeString.min.js" ></script>
+
+<script type="text/javascript" src="/Modules/NewsModule/scripts/jquery.EmergencyAlertBanners.min.js"></script><script type="text/javascript" src="/Modules/NewsModule/scripts/EmergencyAlertBanner.min.js"></script><script type="text/javascript" src="/Modules/NewsModule/scripts/NewsFeedPlugin.js?v=v7"></script><script type="text/javascript" src="/Modules/NewsModule/scripts/BrowserAlertBanner.min.js"></script>
+
+
+<link href='/Modules/Contact/styles/ContactsExtended.css' rel="stylesheet" media="screen" type="text/css" />
+
+    <script src='/Modules/Contact/scripts/contactsV2.js' type="text/javascript"></script>
+
+
+<div id="searchModalBinding"></div>
+<script type="text/javascript" src="https://customer.cludo.com/scripts/bundles/search-script.min.js"></script>
+<script>
+    var CludoSearch;
+    (function () {
+        var cludoSettings = {
+            customerId: 10000026,
+            engineId: 10000026,
+            language: 'en',
+            searchInputs: ["searchModalBinding","search-box"],
+            type: 'standardOverlay',//inline for 2-page, standardOverlay for popup
+            theme: {
+                themeColor: '#02345e',
+                themeBannerColor: { textColor: '#ffffff', backgroundColor: '#02345e' },
+                borderRadius: 0, borderRadiusInput: 0
+            },
+            searchApiUrl: 'https://api-us1.cludo.com/api/v3'
+            
+        };
+        CludoSearch = new Cludo(cludoSettings);
+        CludoSearch.init();
+    })();
+</script>
+
+
+
+
+<!-- Video Playlist Player Styles -->
+<link rel="stylesheet" type="text/css" href="/Common/styles/video_playlist_player/video_playlist_player.css" />
+
+<!-- Video Playlist Player Scripts -->
+<script type="text/javascript" src="/Common/scripts/video-playlist.min.js"></script>
+<!--<script type="text/javascript" src="../scripts/video-playlist-init.js"></script>-->
+
+<!-- YouTube init script -->
+<script type="text/javascript" src='/Common/scripts/youTubePlayer.min.js'></script>
+
+<div id="scriptsContainer"></div>
+
+<!-- ACCORDION -->
+
+<script type="text/javascript" src='/Common/scripts/libs/icreate-tinymce-accordion/1.0.8/jquery-icrtaccordion-clean.js'></script>
+
+
+<!-- NEWS POST -->
+
+
+<!-- SHARE -->
+<script type="text/javascript">
+    $(function() {
+		if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+		    $("#Share a.ShareLink").click(function (event) {
+		        if (iCreateObject.isSiteInICreateMode) {
+		            showNAMessage();
+		        }
+		        else {
+		            event.preventDefault();
+		            $("#Share").trigger("mouseenter");
+		        }
+		    });
+		} 
+
+    });
+</script>
+
+<!-- MEDIA -->
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelement-and-player.min.js"></script>
+<script type="text/javascript">
+	$(function() {
+		if (!iCreateObject.isSiteInICreateMode) {
+			$('video,audio').mediaelementplayer({
+				// if the <video width> is not specified, this is the default
+				defaultVideoWidth: 480,
+				// if the <video height> is not specified, this is the default
+				defaultVideoHeight: 270,
+				// if set, overrides <video width>
+				videoWidth: -1,
+				// if set, overrides <video height>
+				videoHeight: -1,
+				// width of audio player
+				audioWidth: 400,
+				// height of audio player
+				audioHeight: 30,
+				// initial volume when the player starts
+				startVolume: 0.8,
+				// useful for <audio> player loops
+				loop: false,
+				// enables Flash and Silverlight to resize to content size
+				enableAutosize: true,
+				// the order of controls you want on the control bar (and other plugins below)
+				features: ['playpause', 'progress', 'current', 'duration', 'tracks', 'volume', 'fullscreen'],
+				// Hide controls when playing and mouse is not over the video
+				alwaysShowControls: false,
+				// force iPad's native controls
+				iPadUseNativeControls: false,
+				// force iPhone's native controls
+				iPhoneUseNativeControls: false,
+				// force Android's native controls
+				AndroidUseNativeControls: false,
+				// forces the hour marker (##:00:00)
+				alwaysShowHours: false,
+				// show framecount in timecode (##:00:00:00)
+				showTimecodeFrameCount: false,
+				// used when showTimecodeFrameCount is set to true
+				framesPerSecond: 25,
+				// turns keyboard support on and off for this instance
+				enableKeyboard: true,
+				// when this player starts, it will pause other players
+				pauseOtherPlayers: true,
+				// array of keyboard commands
+				keyActions: []
+			});
+		}
+	});
+</script>
+        
+        
+        
+        
+
+<script type="text/javascript">
+    $(function () {
+        if ($(".icrtcalendarpluginv2").length) {
+            insertJsScriptToElementById("scriptsContainer", "/Modules/Calendar/scripts/CalendarFeedPluginV2.min.js");
+        }
+    });
+</script>
+
+
+        
+        
+         
+
+<div id="BrowserBannerWrapperOuter" class="hide">
+    <div id="BrowserBannerWrapper">
+        <div id="BrowserBannerWrapperInner">
+	        <div id="BrowserBanner" class="nocontent" style="display:block;">
+                <div class="bannerContainer" id="browserAlertBanners">
+                    <div id="BrowserBannerClose" role="contentinfo" aria-label="Close Browser Compatibility Notification"> 
+			            <a href="#" onclick="javascript: HideBrowserAlertBanners();event.preventDefault();">Close Old Browser Notification</a>
+		            </div> 			                    
+			        <div class="alertbanner browserAlert" role="contentinfo" aria-label="Browser Compatibility Notification">
+				        <div class="BrowserBannerTitle">Browser Compatibility Notification</div>
+				        <div class="BrowserBannerText">It appears you are trying to access this site using an outdated browser.  As a result, parts of the site may not function properly for you.  We recommend updating your browser to its most recent version at your earliest convenience.</div>
+		 	        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+        
+    </div>
+    <!--theme-->
+</body>
+</html>
+
+

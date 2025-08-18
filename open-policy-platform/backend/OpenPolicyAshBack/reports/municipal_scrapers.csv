@@ -1,0 +1,29 @@
+Name,Path,Schedule,Priority,Tested,Status
+Ca On Ottawa,scrapers/scrapers-ca/ca_on_ottawa,monthly,high,True,working
+Ca On London,scrapers/scrapers-ca/ca_on_london,monthly,medium,True,working
+Ca Ab Calgary,scrapers/scrapers-ca/ca_ab_calgary,monthly,high,True,working
+Ca Ab Lethbridge,scrapers/scrapers-ca/ca_ab_lethbridge,monthly,medium,True,working
+Ca Bc Richmond,scrapers/scrapers-ca/ca_bc_richmond,monthly,medium,True,working
+Ca On Kitchener,scrapers/scrapers-ca/ca_on_kitchener,monthly,medium,True,working
+Ca Bc Victoria,scrapers/scrapers-ca/ca_bc_victoria,monthly,medium,True,working
+Ca Nl St John S,scrapers/scrapers-ca/ca_nl_st_john_s,monthly,medium,True,working
+Ca On Hamilton,scrapers/scrapers-ca/ca_on_hamilton,monthly,medium,True,working
+Ca Mb Winnipeg,scrapers/scrapers-ca/ca_mb_winnipeg,monthly,high,True,working
+Ca On Mississauga,scrapers/scrapers-ca/ca_on_mississauga,monthly,medium,True,working
+Ca Bc Surrey,scrapers/scrapers-ca/ca_bc_surrey,monthly,medium,True,working
+Ca Sk Regina,scrapers/scrapers-ca/ca_sk_regina,monthly,medium,True,working
+Ca Qc Montreal,scrapers/scrapers-ca/ca_qc_montreal,monthly,high,True,working
+Ca Qc Montreal Est,scrapers/scrapers-ca/ca_qc_montreal_est,monthly,high,True,working
+Ca Sk Saskatoon,scrapers/scrapers-ca/ca_sk_saskatoon,monthly,medium,True,working
+Ca Ns Halifax,scrapers/scrapers-ca/ca_ns_halifax,monthly,medium,True,working
+Ca Bc Burnaby,scrapers/scrapers-ca/ca_bc_burnaby,monthly,medium,True,working
+Ca Qc Gatineau,scrapers/scrapers-ca/ca_qc_gatineau,monthly,medium,True,working
+Ca Nb Moncton,scrapers/scrapers-ca/ca_nb_moncton,monthly,medium,True,working
+Ca Nb Fredericton,scrapers/scrapers-ca/ca_nb_fredericton,monthly,medium,True,working
+Ca On Richmond Hill,scrapers/scrapers-ca/ca_on_richmond_hill,monthly,medium,True,working
+Ca On Toronto,scrapers/scrapers-ca/ca_on_toronto,monthly,high,True,working
+Ca Bc Vancouver,scrapers/scrapers-ca/ca_bc_vancouver,monthly,high,True,working
+Ca Qc Quebec,scrapers/scrapers-ca/ca_qc_quebec,monthly,high,True,working
+Ca Pe Charlottetown,scrapers/scrapers-ca/ca_pe_charlottetown,monthly,medium,True,working
+Ca Ab Edmonton,scrapers/scrapers-ca/ca_ab_edmonton,monthly,high,True,working
+Ca On Brampton,scrapers/scrapers-ca/ca_on_brampton,monthly,medium,True,working

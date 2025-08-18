@@ -1,0 +1,1093 @@
+{
+  "timestamp": "2025-08-09T00:06:56.754217",
+  "system_resources": {
+    "cpu_count": 16,
+    "memory_gb": 64.0,
+    "current_cpu_usage": 0.0,
+    "current_memory_usage": 0.0
+  },
+  "summary": {
+    "total_scrapers": 51,
+    "successful": 1,
+    "failed": 50,
+    "skipped": 0,
+    "success_rate": 1.9607843137254901,
+    "total_records_collected": 5,
+    "total_records_inserted": 0,
+    "size_breakdown": {
+      "small": 31,
+      "medium": 14,
+      "large": 6
+    }
+  },
+  "category_stats": {
+    "parliamentary": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "provincial": {
+      "total": 14,
+      "successful": 0,
+      "failed": 14,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 9,
+      "medium": 2,
+      "large": 3
+    },
+    "municipal": {
+      "total": 34,
+      "successful": 1,
+      "failed": 33,
+      "records_collected": 5,
+      "records_inserted": 0,
+      "small": 21,
+      "medium": 11,
+      "large": 2
+    },
+    "civic": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "update": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    }
+  },
+  "failed_scrapers": [
+    {
+      "name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "error": "No people.py file found in ../../scrapers/openparliament"
+    },
+    {
+      "name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on: No module named 'agateexcel'"
+    },
+    {
+      "name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nt: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nu: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca: No module named 'unidecode'"
+    },
+    {
+      "name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc: No module named 'agateexcel'"
+    },
+    {
+      "name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl: cannot import name 'CUSTOM_USER_AGENT' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab: No module named 'agateexcel'"
+    },
+    {
+      "name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_yt: No module named 'agateexcel'"
+    },
+    {
+      "name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_mississauga: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_calgary: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_montreal: No module named 'agateexcel'"
+    },
+    {
+      "name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_ottawa: No module named 'agateexcel'"
+    },
+    {
+      "name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_gatineau: No module named 'agateexcel'"
+    },
+    {
+      "name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_hamilton: No module named 'agateexcel'"
+    },
+    {
+      "name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_london: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_kitchener: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer"
+    },
+    {
+      "name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_edmonton: No module named 'agateexcel'"
+    },
+    {
+      "name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat"
+    },
+    {
+      "name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_toronto: No module named 'agateexcel'"
+    },
+    {
+      "name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_windsor: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_kelowna: No module named 'agateexcel'"
+    },
+    {
+      "name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_regina: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_saskatoon: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_richmond: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_surrey: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_laval: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_burnaby: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_abbotsford: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_vancouver: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_lethbridge: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns_halifax: No module named 'agateexcel'"
+    },
+    {
+      "name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_brampton: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_victoria: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb_winnipeg: No module named 'agateexcel'"
+    },
+    {
+      "name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_saint_john: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe_charlottetown: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_moncton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_fredericton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl_st_john_s: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_quebec: No module named 'agateexcel'"
+    },
+    {
+      "name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "error": "No people.py file found in ../../scrapers/civic-scraper"
+    },
+    {
+      "name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "error": "No people.py file found in ../../scripts"
+    }
+  ],
+  "detailed_results": [
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "success",
+      "start_time": "2025-08-09T00:06:56.591790",
+      "end_time": "2025-08-09T00:06:56.717924",
+      "records_collected": 5,
+      "records_inserted": 0,
+      "error_message": null,
+      "execution_time": 6.413459777832031e-05,
+      "memory_usage": 47.3,
+      "cpu_usage": 44.3
+    },
+    {
+      "scraper_name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.718693",
+      "end_time": "2025-08-09T00:06:56.718855",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/openparliament",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.719319",
+      "end_time": "2025-08-09T00:06:56.724746",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.720062",
+      "end_time": "2025-08-09T00:06:56.724788",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.720551",
+      "end_time": "2025-08-09T00:06:56.724874",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nt: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.719531",
+      "end_time": "2025-08-09T00:06:56.724958",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.720888",
+      "end_time": "2025-08-09T00:06:56.724979",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nu: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.719237",
+      "end_time": "2025-08-09T00:06:56.725359",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca: No module named 'unidecode'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.719393",
+      "end_time": "2025-08-09T00:06:56.725727",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.719922",
+      "end_time": "2025-08-09T00:06:56.725790",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.720261",
+      "end_time": "2025-08-09T00:06:56.725850",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.719751",
+      "end_time": "2025-08-09T00:06:56.725870",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.719816",
+      "end_time": "2025-08-09T00:06:56.725924",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.720436",
+      "end_time": "2025-08-09T00:06:56.725986",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl: cannot import name 'CUSTOM_USER_AGENT' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.719639",
+      "end_time": "2025-08-09T00:06:56.726368",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.721007",
+      "end_time": "2025-08-09T00:06:56.726614",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_yt: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.728011",
+      "end_time": "2025-08-09T00:06:56.729398",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_mississauga: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.727566",
+      "end_time": "2025-08-09T00:06:56.729303",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_calgary: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.727344",
+      "end_time": "2025-08-09T00:06:56.729193",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_montreal: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.727814",
+      "end_time": "2025-08-09T00:06:56.730406",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_ottawa: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.729256",
+      "end_time": "2025-08-09T00:06:56.731359",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_gatineau: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.728468",
+      "end_time": "2025-08-09T00:06:56.731947",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_hamilton: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.728857",
+      "end_time": "2025-08-09T00:06:56.732038",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_london: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.728695",
+      "end_time": "2025-08-09T00:06:56.732100",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_kitchener: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.732106",
+      "end_time": "2025-08-09T00:06:56.732325",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.727701",
+      "end_time": "2025-08-09T00:06:56.732752",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_edmonton: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.732758",
+      "end_time": "2025-08-09T00:06:56.732868",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.727290",
+      "end_time": "2025-08-09T00:06:56.733420",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_toronto: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.728963",
+      "end_time": "2025-08-09T00:06:56.733510",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_windsor: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.731955",
+      "end_time": "2025-08-09T00:06:56.734353",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_kelowna: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.733425",
+      "end_time": "2025-08-09T00:06:56.734425",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_regina: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.732872",
+      "end_time": "2025-08-09T00:06:56.734492",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_saskatoon: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.730412",
+      "end_time": "2025-08-09T00:06:56.734514",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_richmond: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.729690",
+      "end_time": "2025-08-09T00:06:56.734606",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_surrey: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.729338",
+      "end_time": "2025-08-09T00:06:56.734750",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_laval: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.729609",
+      "end_time": "2025-08-09T00:06:56.734869",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_burnaby: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.731366",
+      "end_time": "2025-08-09T00:06:56.734957",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_abbotsford: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.727429",
+      "end_time": "2025-08-09T00:06:56.735038",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_vancouver: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.732330",
+      "end_time": "2025-08-09T00:06:56.735218",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_lethbridge: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.734360",
+      "end_time": "2025-08-09T00:06:56.737097",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns_halifax: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.728299",
+      "end_time": "2025-08-09T00:06:56.737135",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_brampton: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.732044",
+      "end_time": "2025-08-09T00:06:56.737223",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_victoria: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.733515",
+      "end_time": "2025-08-09T00:06:56.737588",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb_winnipeg: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.734437",
+      "end_time": "2025-08-09T00:06:56.737647",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_saint_john: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.734613",
+      "end_time": "2025-08-09T00:06:56.737698",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe_charlottetown: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.734497",
+      "end_time": "2025-08-09T00:06:56.737724",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_moncton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.734517",
+      "end_time": "2025-08-09T00:06:56.737806",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_fredericton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.734755",
+      "end_time": "2025-08-09T00:06:56.737971",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl_st_john_s: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.729145",
+      "end_time": "2025-08-09T00:06:56.752746",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_quebec: No module named 'agateexcel'",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.753493",
+      "end_time": "2025-08-09T00:06:56.753562",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/civic-scraper",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-09T00:06:56.753924",
+      "end_time": "2025-08-09T00:06:56.753967",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scripts",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    }
+  ]
+}

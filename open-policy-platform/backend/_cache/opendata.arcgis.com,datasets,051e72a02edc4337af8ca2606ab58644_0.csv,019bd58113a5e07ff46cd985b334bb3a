@@ -1,0 +1,36 @@
+status: 200
+encoding: ISO-8859-1
+Date: Sat, 09 Aug 2025 05:45:14 GMT
+Content-Type: text/csv
+Content-Length: 539
+Connection: keep-alive
+Vary: Accept-Encoding
+x-amz-replication-status: COMPLETED
+Last-Modified: Tue, 24 Jun 2025 15:14:53 GMT
+ETag: "f07e5874e54f70a080b73d24393fb390"
+x-amz-server-side-encryption: AES256
+Cache-Control: must-revalidate
+x-amz-meta-cachetime: 638
+Content-Disposition: attachment; filename="Huron_County_Councillors.csv"
+Content-Encoding: gzip
+x-amz-meta-contentlastmodified: 2023-03-08T19:17:38.954Z
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+
+﻿District_name,District_ID,Primary_role,First_name,Last_name,Gender,Party_name,Email,Phone,Fax,Cell,Photo_URL,Source_URL,Website,Address_line_1,Address_line_2,Locality,Province,Postal_code,Facebook,Twitter,ObjectId
+Ashfield-Colborne-Wawanosh,,Councilor,Glen,McNeil,,,gmcneil@huroncounty.ca,,,,,,,,,,,,,,1
+Ashfield-Colborne-Wawanosh,,Councilor,Bill ,Vanstone,,,bvanstone@huroncounty.ca,,,,,,,,,,,,,,2
+Bluewater,,Councilor,Paul,Klopp,,,pklopp@huroncounty.ca,,,,,,,,,,,,,,3
+Bluewater,,Councilor,John ,Becker,,,jbecker@huroncounty.ca,,,,,,,,,,,,,,4
+Central Huron,,Councilor,Jim,Ginn,,,jginn@huroncounty.ca,,,,,,,,,,,,,,5
+Central Huron,,Councilor,Marg ,Anderson,,,manderson@huroncounty.ca,,,,,,,,,,,,,,6
+Goderich,,Councilor,Myles,Murdock,,,mmurdock@huroncounty.ca,,,,,,,,,,,,,,7
+Goderich,,Councilor,Trevor ,Bazinet,,,tbazinet@huroncounty.ca,,,,,,,,,,,,,,8
+Howick,,Councilor,Doug,Harding,,,dharding@huroncounty.ca,,,,,,,,,,,,,,9
+Huron East,,Councilor,Bernie,MacLellan,,,bmaclellan@huroncounty.ca,,,,,,,,,,,,,,10
+Huron East,,Councilor,Alvin ,McLellan,,,amclellan@huroncounty.ca,,,,,,,,,,,,,,11
+Morris-Turnberry,,Councilor,Jamie,Heffer,,,jheffer@huroncounty.ca,,,,,,,,,,,,,,12
+North Huron,,Councilor,Paul ,Heffer,,,pheffer@huroncounty.ca,,,,,,,,,,,,,,13
+South Huron,,Councilor,George,Finch,,,gfinch@huroncounty.ca,,,,,,,,,,,,,,14
+South Huron,,Councilor,Jim,Dietrich,,,jdietrich@huroncounty.ca,,,,,,,,,,,,,,15

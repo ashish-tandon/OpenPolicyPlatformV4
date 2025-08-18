@@ -1,0 +1,32 @@
+status: 200
+encoding: ISO-8859-1
+Date: Sat, 09 Aug 2025 05:45:07 GMT
+Content-Type: text/csv
+Content-Length: 410
+Connection: keep-alive
+Vary: Accept-Encoding
+x-amz-replication-status: COMPLETED
+Last-Modified: Tue, 24 Jun 2025 14:37:33 GMT
+ETag: "08d1d73108f39da423603cdb3f5b2abb"
+x-amz-server-side-encryption: AES256
+Cache-Control: must-revalidate
+x-amz-meta-cachetime: 143
+Content-Disposition: attachment; filename="City_of_Brantford_Elected_Officials_-_2014_to_2018.csv"
+Content-Encoding: gzip
+x-amz-meta-contentlastmodified: 2016-05-17T18:43:04.056Z
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+
+﻿POSITION,NAME,WARD,WARD_NAME,EMAIL,MOBILE,FID
+Ward 1 Councillor,Larry Kings,1,Ward 1,larrykings@brantford.ca,226-388-0002,1
+Ward 1 Councillor,Rick Weaver,1,Ward 1,rickweaver@brantford.ca,226-388-1623,2
+Ward 2 Councillor,John Utley,2,Ward 2,johnutley@brantford.ca,226-388-0005,3
+Ward 2 Councillor,John Sless,2,Ward 2,johnsless@brantford.ca,226-387-3714,4
+Ward 3 Councillor,Dan McCreary,3,Ward 3,danmccreary@brantford.ca,519-761-2439,5
+Ward 3 Councillor,Greg Martin,3,Ward 3,gregmartin@brantford.ca,519-754-7269,6
+Ward 4 Councillor,Richard Carpenter,4,Ward 4,richardcarpenter@brantford.ca,519-770-6027,7
+Ward 4 Councillor,Cheryl Antoski,4,Ward 4,cherylantoski@brantford.ca,226-387-3321,8
+Ward 5 Councillor,David Neumann,5,Ward 5,davidneumann@brantford.ca,226-388-0009,9
+Ward 5 Councillor,Brian Van Tilborg,5,Ward 5,brianvantilborg@brantford.ca,226-387-4964,10
+Mayor,Chris Friel,,,cfriel@brantford.ca,,11

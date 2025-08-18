@@ -1,0 +1,43 @@
+status: 200
+encoding: utf-8
+Server: openresty
+Date: Sat, 09 Aug 2025 05:45:11 GMT
+Content-Type: application/csv; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+X-RateLimit-Remaining: 14971
+X-RateLimit-Limit: 15000
+X-RateLimit-Reset: 2025-08-10 00:00:00+00:00
+Content-Disposition: attachment; filename="elected-officials-contact-information.csv"
+Content-Security-Policy: upgrade-insecure-requests; 
+Vary: Accept-Language, Cookie, Host
+Content-Language: en-us
+x-datadog-trace-id: 18323110290679723534
+Strict-Transport-Security: max-age=31536000;includeSubdomains
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: midi=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+X-UA-Compatible: IE=edge
+Content-Encoding: gzip
+
+Election;Primary role;First name;Last name;Gender;Email;URL;Photo URL;Address line 1;Locality;Postal code;Province;Phone;Fax
+2022 Municipal Election;Commissioner;Marie-Claire;Howard;F;marie-claire.howard@vancouver.ca;https://vancouver.ca/your-government/marie-claire-howard.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/11e093a8534751fd1072f73c6c0e3f6b;2099 Beach Ave;Vancouver;V6G 1Z4;BC;604-364-5522;N/A
+2022 Municipal Election;Mayor;Ken;Sim;M;Ken.Sim@vancouver.ca;https://vancouver.ca/your-government/mayor-ken-sim.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/0a061a07d51d1606372efeb08b1ca4e0;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7171;604-873-7685
+2022 Municipal Election;Councillor;Pete;Fry;M;Pete.Fry@vancouver.ca;https://vancouver.ca/your-government/pete-fry.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/c22565dc0ac152054a0c401a2f21d83a;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7246;604-873-7750
+2022 Municipal Election;Councillor;Sarah;Kirby-Yung;F;Sarah.Kirby-Yung@vancouver.ca;https://vancouver.ca/your-government/sarah-kirby-yung.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/f80fa35f34e23ab9c7b89d54b7af3151;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7247;604-873-7750
+2022 Municipal Election;Councillor;Peter;Meiszner;M;Peter.Meiszner@vancouver.ca;https://vancouver.ca/your-government/peter-meiszner.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/74ef198a8fe49aad18dfd84e31c655d6;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7244;604-873-7750
+2022 Municipal Election;Commissioner;Brennan;Bastyovanszky;M;brennan.bastyovanszky@vancouver.ca;https://vancouver.ca/your-government/brennan-bastyovanszky.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/e50ab690e9ce581489a9f49ecd0cdf72;2099 Beach Ave;Vancouver;V6G 1Z4;BC;604-360-6637;N/A
+2022 Municipal Election;Councillor;Adriane;Carr;F;Adriane.Carr@vancouver.ca;https://vancouver.ca/your-government/adriane-carr.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/32d46dd20d2c6d21b680e269c846b278;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7245;604-873-7750
+2022 Municipal Election;Councillor;Mike;Klassen;M;Mike.Klassen@vancouver.ca;https://vancouver.ca/your-government/mike-klassen.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/39656fcb8338e0e8e5eff89df5346818;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7240;604-873-7750
+2022 Municipal Election;Commissioner;Angela;Haer;F;angela.haer@vancouver.ca;https://vancouver.ca/your-government/angela-haer.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/55aaac518df9c4688fc9c9e01159b408;2099 Beach Ave;Vancouver;V6G 1Z4;BC;604-360-0043;N/A
+2022 Municipal Election;Commissioner;Jas;Virdi;M;jas.virdi@vancouver.ca;https://vancouver.ca/your-government/jas-virdi.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/7120a5f84b31516ea98060b3d13ddd18;2099 Beach Ave;Vancouver;V6G 1Z4;BC;604-363-0227;N/A
+2022 Municipal Election;Councillor;Lisa;Dominato;F;Lisa.Dominato@vancouver.ca;https://vancouver.ca/your-government/lisa-dominato.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/63f5a86f4776b9f23afc08e85d75eadc;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7248;604-873-7750
+2022 Municipal Election;Commissioner;Tom;Digby;M;tom.digby@vancouver.ca;https://vancouver.ca/your-government/tom-digby.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/396a3448ee628e806b666c2e239da245;2099 Beach Ave;Vancouver;V6G 1Z4;BC;604-365-0338;N/A
+2022 Municipal Election;Councillor;Rebecca;Bligh;F;Rebecca.Bligh@vancouver.ca;https://vancouver.ca/your-government/rebecca-bligh.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/1cd469e4fc148a89f8ce5fed6738e7dc;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7249;604-873-7750
+2022 Municipal Election;Councillor;Christine;Boyle;F;Christine.Boyle@vancouver.ca;https://vancouver.ca/your-government/christine-boyle.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/b468e72388ea4e727267ebab80c7fab5;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7242;604-873-7750
+2022 Municipal Election;Councillor;Brian;Montague;M;Brian.Montague@vancouver.ca;https://vancouver.ca/your-government/brian-montague.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/3c51664163aa154935edd2246f78bb0a;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7243;604-873-7750
+2022 Municipal Election;Councillor;Lenny;Zhou;M;Lenny.Zhou@vancouver.ca;https://vancouver.ca/your-government/lenny-zhou.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/b38bc09e32d321898ae21a310ba39532;453 12th Avenue West;Vancouver;V5Y 1V4;BC;604-873-7241;604-873-7750
+2022 Municipal Election;Commissioner;Laura;Christensen;F;laura.christensen@vancouver.ca;https://vancouver.ca/your-government/laura-christensen.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/97a7d0b1cf8114d0865232dc3fbd0e8a;2099 Beach Ave;Vancouver;V6G 1Z4;BC;604-363-6659;N/A
+2022 Municipal Election;Commissioner;Scott;Jensen;M;scott.jensen@vancouver.ca;https://vancouver.ca/your-government/scott-jensen.aspx;https://opendata.vancouver.ca/api/v2/catalog/datasets/elected-officials-contact-information/files/91be44056d3d3d022f18970e9138782d;2099 Beach Ave;Vancouver;V6G 1Z4;BC;604-364-8588;N/A

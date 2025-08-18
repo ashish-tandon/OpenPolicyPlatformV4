@@ -1,0 +1,934 @@
+status: 200
+encoding: UTF-8
+Server: nginx
+Date: Sat, 09 Aug 2025 05:45:15 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Security-Policy: frame-ancestors 'self';
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Encoding: gzip
+
+<!doctype html>
+
+  
+    
+<html class="no-js" lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="Author" lang="fr" CONTENT="Ville de Saguenay">
+    <meta name="ROBOTS" content="INDEX, FOLLOW">
+    <meta name="keywords" content="Ville de Saguenay,Saguenay,Chicoutimi,Jonquière,La Baie,Saguenay.ca,Activités à Saguenay">
+    <meta name="description" content="Site officiel de la Ville de Saguenay.">
+          <meta property="og:image" content="https://ville.saguenay.ca/themes/v2017/assets/img/facebook.jpg" />
+      <meta property="og:url" content="https://ville.saguenay.ca/fr" />
+    
+
+
+    <link href="https://ville.saguenay.ca/themes/v2017/assets/img/favicon2.png" rel="icon" type="image/png" />
+    <link href="https://ville.saguenay.ca/themes/v2017/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    <title>Ville de Saguenay | Membres des conseils</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,500" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
+
+        <link rel="stylesheet" href="https://ville.saguenay.ca/themes/v2017/assets/css/app.css?1754718314">
+    <link rel="stylesheet" href="https://ville.saguenay.ca/themes/v2017/assets/css/foundation-datepicker.css">
+
+
+    <!-- Google analytics -->
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3N18VPJS9Z"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3N18VPJS9Z');
+  gtag('config', 'AW-643424983');
+</script>
+
+    
+
+
+  </head>
+
+  
+    
+            
+  
+    
+  
+  <body id="membres-des-conseils-id" class="la-ville-et-vie-democratique-id" data-view="page">
+
+
+  
+
+
+<div class="off-canvas-wrapper">
+    <div class="off-canvas position-left" id="offCanvas" data-off-canvas data-transition="overlap">
+
+      <!-- Your menu or Off-canvas content goes here -->
+      <nav class="off-canvas-menu" role="navigation">
+
+        <ul class="vertical menu  " id="main-menu-mobile" data-accordion-menu><li role="menuitem" class="is-accordion-submenu-parent  services-aux-citoyens"><a href="services-aux-citoyens">Services aux citoyens</a><ul class="vertical menu nested left-submenu" id="services-aux-citoyens" ><li role="menuitem" class="is-accordion-submenu-parent  animaux"><a href="animaux">Animaux</a><ul class="vertical menu nested left-submenu" id="animaux" ><li class="  animaux-autorises-et-interdits"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/animaux-autorises-et-interdits">Animaux autorisés et interdits</a></li><li class="  animaux-en-liberte"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/animaux-en-liberte">Animaux de ferme</a></li><li class="  animaux-en-liberte-sauvage"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/animaux-en-liberte-sauvage">Animaux en liberté</a></li><li class="  avant-ladoption"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/avant-ladoption">Avant l’adoption</a></li><li class="  coordonnees-des-refuges-municipaux"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/coordonnees-des-refuges-municipaux">Coordonnées des fourrières municipales</a></li><li class="  devoirs-du-proprietaire"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/devoirs-du-proprietaire">Devoirs du propriétaire</a></li><li class="  licences-et-micropuces"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/licences-et-micropuces">Licences et micropuces</a></li><li class="  parc-a-chiens"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/parc-a-chiens">Parcs canins</a></li><li class="  sterilisation"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/sterilisation">Stérilisation</a></li><li class="  zones-interdites-aux-chiens"><a href="https://ville.saguenay.ca/services-aux-citoyens/animaux/zones-interdites-aux-chiens">Zones interdites aux chiens</a></li></ul></li><li class="  appels-automatises"><a href="https://ville.saguenay.ca/services-aux-citoyens/appels-automatises">Appels automatisés</a></li><li role="menuitem" class="is-accordion-submenu-parent  construire-et-renover"><a href="construire-et-renover">Construire et rénover</a><ul class="vertical menu nested left-submenu" id="construire-et-renover" ><li class="  demarrer-un-projet"><a href="https://ville.saguenay.ca/services-aux-citoyens/construire-et-renover/demarrer-un-projet">Démarrer un projet résidentiel</a></li><li class="  reglements-durbanisme"><a href="https://ville.saguenay.ca/services-aux-citoyens/construire-et-renover/reglements-durbanisme">Règlements d'urbanisme</a></li><li class="  programmes-de-subvention"><a href="https://ville.saguenay.ca/services-aux-citoyens/construire-et-renover/programmes-de-subvention">Programmes de subvention</a></li><li class="  services-aux-professionnels"><a href="https://ville.saguenay.ca/services-aux-citoyens/construire-et-renover/services-aux-professionnels">Services aux professionnels</a></li><li class="  renovation-patrimoniale"><a href="https://ville.saguenay.ca/services-aux-citoyens/construire-et-renover/renovation-patrimoniale">Rénovation patrimoniale</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  cour-municipale"><a href="cour-municipale">Cour municipale</a><ul class="vertical menu nested left-submenu" id="cour-municipale" ><li class="  juridiction"><a href="https://ville.saguenay.ca/services-aux-citoyens/cour-municipale/juridiction">Juridiction</a></li><li class="  constat-dinfraction"><a href="https://ville.saguenay.ca/services-aux-citoyens/cour-municipale/constat-dinfraction">Constat d'infraction</a></li><li class="  procedure-penale"><a href="https://ville.saguenay.ca/services-aux-citoyens/cour-municipale/procedure-penale">Procédure pénale et contestation</a></li><li class="  execution-des-jugements"><a href="https://ville.saguenay.ca/services-aux-citoyens/cour-municipale/execution-des-jugements">Exécution des jugements</a></li><li class="  disposition-legislative"><a href="https://ville.saguenay.ca/services-aux-citoyens/cour-municipale/disposition-legislative">Disposition législative</a></li><li class="  quelques-particularites"><a href="https://ville.saguenay.ca/services-aux-citoyens/cour-municipale/quelques-particularites">Quelques particularités</a></li><li class="  avis-publics-de-signification"><a href="https://ville.saguenay.ca/services-aux-citoyens/cour-municipale/avis-publics-de-signification">Avis publics de signification</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  environnement"><a href="environnement">Environnement</a><ul class="vertical menu nested left-submenu" id="environnement" ><li class="  arbres"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/arbres">Arbres</a></li><li role="menuitem" class="is-accordion-submenu-parent  bac-brun-compost"><a href="bac-brun-compost">Bac brun/compost</a><ul class="vertical menu nested left-submenu" id="bac-brun-compost" ><li class="  horaire-de-collectes"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/ordures-menageres/horaire-de-la-collecte">Horaire de collectes</a></li><li class="  matieres-acceptees-et-refusees"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/matieres-acceptees-et-refusees">Matières acceptées et refusées</a></li><li class="  type-de-sacs"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/type-de-sacs">Type de sacs acceptés</a></li><li class="  pourquoi-la-collecte-des-matieres-organiques"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/pourquoi-la-collecte-des-matieres-organiques">Pourquoi la collecte des matières organiques?</a></li><li class="  trucs-et-astuces"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/trucs-et-astuces">Trucs et astuces</a></li><li class="  que-deviennent-les-matieres-collectees"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/que-deviennent-les-matieres-collectees">Que deviennent les matières collectées</a></li><li class="  residus-verts"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/residus-verts">Résidus verts</a></li><li class="  compostage-domestique"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/compostage-domestique">Compostage domestique</a></li><li class="  ecoles-et-cpe"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/ecoles-et-cpe">Écoles et CPE</a></li><li class="  industries-commerces-et-institutions"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/industries-commerces-et-institutions">Industries, commerces et institutions</a></li><li class="  proprietaires-dimmeubles-locatifs"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/proprietaires-dimmeubles-locatifs">Propriétaires d'immeubles locatifs</a></li><li class="  foire-aux-questions"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bac-brun-compost/foire-aux-questions">Foire aux questions</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  bandes-riveraines"><a href="bandes-riveraines">Bandes riveraines et milieux hydriques</a><ul class="vertical menu nested left-submenu" id="bandes-riveraines" ><li class="  service-daccompagnement"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bandes-riveraines/service-daccompagnement">Milieux hydriques</a></li><li role="menuitem" class="is-accordion-submenu-parent  protection-des-rives-et-du-littoral"><a href="protection-des-rives-et-du-littoral">Rives & Littoral</a><ul class="vertical menu nested left-submenu" id="protection-des-rives-et-du-littoral" ><li class="  protection-des-rives-et-du-littoral"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bandes-riveraines/protection-des-rives-et-du-littoral/protection-des-rives-et-du-littoral">Protection des rives et du littoral</a></li><li class="  interventions"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bandes-riveraines/protection-des-rives-et-du-littoral/interventions">Interventions</a></li><li class="  plan-damenagement"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bandes-riveraines/protection-des-rives-et-du-littoral/plan-damenagement">Plan d'aménagement</a></li><li class="  exemples-de-realisations"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bandes-riveraines/protection-des-rives-et-du-littoral/exemples-de-realisations">Exemples de réalisations</a></li></ul></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  developpement-durable"><a href="developpement-durable">Développement durable</a><ul class="vertical menu nested left-submenu" id="developpement-durable" ><li class="  efficacite-energetique"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/developpement-durable/efficacite-energetique">Efficacité énergétique</a></li><li class="  plan-de-developpement-durable"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/developpement-durable/plan-de-developpement-durable">Plan de développement durable</a></li><li class="  plan-climat"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/developpement-durable/plan-climat">Plan climat</a></li><li class="  ville-amie-des-monarques"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/developpement-durable/ville-amie-des-monarques">Ville amie des monarques</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  eau"><a href="eau">Eau</a><ul class="vertical menu nested left-submenu" id="eau" ><li class="  composes-perfluores"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/eau/composes-perfluores">Composés perfluorés (PFAS)</a></li><li class="  eau-potable"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/eau/eau-potable">Eau potable</a></li><li class="  eaux-usees"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/eau/eaux-usees">Eaux usées</a></li><li class="  compteur-deau-residentiels"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/eau/compteur-deau-residentiels">Compteurs d'eau résidentiels</a></li><li class="  compteurs-deau-ici"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/eau/compteurs-deau-ici">Compteurs d'eau ICI</a></li><li class="  bilans"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/eau/bilans">Trousse d'économie d'eau et d'énergie</a></li><li class="  actions-pour-proteger-l-eau"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/eau/actions-pour-proteger-l-eau">Actions pour protéger l'eau</a></li></ul></li><li class="  ecocentres"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/ecocentres">Écocentres</a></li><li role="menuitem" class="is-accordion-submenu-parent  fosses-septiques-et-eaux-usees"><a href="fosses-septiques-et-eaux-usees">Fosses septiques et eaux usées</a><ul class="vertical menu nested left-submenu" id="fosses-septiques-et-eaux-usees" ><li class="  calendrier-des-vidanges"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/fosses-septiques-et-eaux-usees/calendrier-des-vidanges">Vidange d'une fosse septique</a></li><li class="  duree-de-vie"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/fosses-septiques-et-eaux-usees/duree-de-vie">Durée de vie</a></li><li class="  fosse-septique-a-retention-totale"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/fosses-septiques-et-eaux-usees/fosse-septique-a-retention-totale">Fosse septique à rétention totale</a></li><li class="  installation-dune-fosse-septique"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/fosses-septiques-et-eaux-usees/installation-dune-fosse-septique">Installation d'une fosse septique</a></li></ul></li><li class="  jardins-communautaires"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/jardins-communautaires">Jardins communautaires</a></li><li role="menuitem" class="is-accordion-submenu-parent  lac-kenogami"><a href="lac-kenogami">Lac Kénogami</a><ul class="vertical menu nested left-submenu" id="lac-kenogami" ><li class="  bonnes-pratiques"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/lac-kenogami/bonnes-pratiques">Boîte à outils</a></li><li class="  conseils"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/lac-kenogami/conseils">Restez à l'affût</a></li><li class="  protegeons-des-especes-exotiques-envahissantes"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/lac-kenogami/protegeons-des-especes-exotiques-envahissantes">Espèces exotiques envahissantes</a></li><li class="  cartes"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/bandes-riveraines">Bandes riveraines</a></li><li class="  environnement"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/fosses-septiques-et-eaux-usees">Fosses septiques et eaux usées</a></li></ul></li><li class="  monstres-menagers"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/monstres-menagers">Monstres ménagers</a></li><li role="menuitem" class="is-accordion-submenu-parent  ordures-menageres"><a href="ordures-menageres">Ordures ménagères</a><ul class="vertical menu nested left-submenu" id="ordures-menageres" ><li class="  horaire-de-la-collecte"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/ordures-menageres/horaire-de-la-collecte">Horaire de la collecte</a></li><li class="  avez-vous-la-bonne-poubelle"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/ordures-menageres/avez-vous-la-bonne-poubelle">Avez-vous la bonne poubelle?</a></li><li class="  consignes-de-mise-au-chemin"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/ordures-menageres/consignes-de-mise-au-chemin">Consignes de mise au chemin</a></li><li class="  matieres-acceptees-et-refusees"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/ordures-menageres/matieres-acceptees-et-refusees">Matières acceptées et refusées</a></li></ul></li><li class="  residus-verts"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/residus-verts">Plantes exotiques envahissantes</a></li><li role="menuitem" class="is-accordion-submenu-parent  recyclage"><a href="recyclage">Récupération</a><ul class="vertical menu nested left-submenu" id="recyclage" ><li class="  horaire-de-la-collecte"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/horaire-de-la-collecte">Horaire de la collecte</a></li><li class="  industries-commerces-et-institutions"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/industries-commerces-et-institutions">Industries, commerces et institutions</a></li><li class="  consignes-de-mise-au-chemin"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/consignes-de-mise-au-chemin">Consignes de mise au chemin</a></li><li role="menuitem" class="is-accordion-submenu-parent  matieres-acceptees-refusees"><a href="matieres-acceptees-refusees">Matières acceptées et refusées</a><ul class="vertical menu nested left-submenu" id="matieres-acceptees-refusees" ><li class="  matieres-recyclables"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/matieres-acceptees-refusees/matieres-recyclables">Matières acceptées</a></li><li class="  bons-coups"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/matieres-acceptees-refusees/bons-coups">Bons coups et moins bons coups</a></li><li class="  matieres-non-recyclables"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/matieres-acceptees-refusees/matieres-non-recyclables">Matières refusées</a></li><li class="  limportance-de-bien-trier"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/matieres-acceptees-refusees/limportance-de-bien-trier">L'importance de bien trier</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  recycler-ce-qui-ne-va-pas-dans-le-bac-bleu"><a href="recycler-ce-qui-ne-va-pas-dans-le-bac-bleu">Récupérer ce qui ne va pas dans le bac bleu</a><ul class="vertical menu nested left-submenu" id="recycler-ce-qui-ne-va-pas-dans-le-bac-bleu" ><li class="  piles-usees"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/recycler-ce-qui-ne-va-pas-dans-le-bac-bleu/piles-usees">Piles et batteries usées</a></li><li class="  bouchons-de-liege"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/recycler-ce-qui-ne-va-pas-dans-le-bac-bleu/bouchons-de-liege">Bouchons de liège</a></li><li class="  crayons-et-stylos"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/recycler-ce-qui-ne-va-pas-dans-le-bac-bleu/crayons-et-stylos">Crayons et stylos</a></li><li class="  cartouches-dencre"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/recycler-ce-qui-ne-va-pas-dans-le-bac-bleu/cartouches-dencre">Cartouches d'encre</a></li><li class="  tout-autre-matiere"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/recyclage/recycler-ce-qui-ne-va-pas-dans-le-bac-bleu/tout-autre-matiere">Toute autre matière</a></li></ul></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  reemploi"><a href="reemploi">Réemploi</a><ul class="vertical menu nested left-submenu" id="reemploi" ><li class="  coffre-aux-sports"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/coffre-aux-sports">Coffre aux sports</a></li><li role="menuitem" class="is-accordion-submenu-parent  couches-lavables"><a href="couches-lavables">Couches lavables</a><ul class="vertical menu nested left-submenu" id="couches-lavables" ><li class="  couches-lavables-pour-enfants"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/reemploi/couches-lavables/couches-lavables-pour-enfants">Couches lavables pour enfants</a></li><li class="  produits-dincontinence-durables"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/reemploi/couches-lavables/produits-dincontinence-durables">Produits d'incontinence durables</a></li></ul></li><li class="  produits-dhygiene-feminine"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/reemploi/produits-dhygiene-feminine">Produits d'hygiène féminine</a></li><li class="  don-de-biens-reutilisables"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/reemploi/don-de-biens-reutilisables">Don de biens réutilisables</a></li></ul></li><li class="  transport-et-traitement-des-matieres"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/transport-et-traitement-des-matieres">Transport et traitement des matières</a></li><li class="  vidange-de-vehicules-recreatifs"><a href="https://ville.saguenay.ca/services-aux-citoyens/environnement/vidange-de-vehicules-recreatifs">Vidange de véhicules récréatifs</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  hydro-jonquiere"><a href="hydro-jonquiere">Hydro-Jonquière</a><ul class="vertical menu nested left-submenu" id="hydro-jonquiere" ><li class="  compteurs-electroniques-a-affichage-numerique"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/compteurs-electroniques-a-affichage-numerique">Compteurs électroniques avec module à radiofréquences</a></li><li class="  etes-vous-client-chez-hydro-jonquiere"><a href="https://forms.office.com/pages/responsepage.aspx?id=RWov0EsQ9kCalYJOihuSYsMmnBuIHr1BtfH9MeBEV3JUNFhaTFJTU1o3UDVYWllYVEpIUEkxQ1Q3WiQlQCN0PWcu&route=shorturl">Demande d'élagage</a></li><li class="  demande-de-localisation"><a href="https://forms.office.com/pages/responsepage.aspx?id=RWov0EsQ9kCalYJOihuSYsMmnBuIHr1BtfH9MeBEV3JUNDg4V1A5Mk4yU1BKMEIyUkk2WUc2WFpKViQlQCN0PWcu&route=shorturl">Demande de localisation de câbles</a></li><li class="  demenagement"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/demenagement">Déménagement</a></li><li class="  deposer-une-plainte-officielle"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/deposer-une-plainte-officielle">Déposer une plainte officielle</a></li><li class="  facturation-et-paiement"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/facturation-et-paiement">Facturation et paiement</a></li><li class="  historique-dhydro-jonquiere"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/historique-dhydro-jonquiere">Historique d'Hydro-Jonquière</a></li><li class="  mission-et-mandat"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/mission-et-mandat">Mission et mandat</a></li><li class="  nous-joindre"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/hydro-jonquiere">Nous joindre</a></li><li class="  ouverture-de-compte"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/ouverture-de-compte">Ouverture de compte</a></li><li class="  reglementation"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/reglementation">Réglementation</a></li><li class="  service-de-facturation-en-ligne"><a href="https://ville.saguenay.ca/services-aux-citoyens/hydro-jonquiere/service-de-facturation-en-ligne">Service de facturation en ligne</a></li><li class="  transmettre-un-fichier"><a href="https://fichiers.saguenay.ca/filedrop/Hydro-Jonquiere">Transmettre un fichier</a></li></ul></li><li class="  info-travaux"><a href="https://ville.saguenay.ca/infos-travaux">Info-Travaux</a></li><li role="menuitem" class="is-accordion-submenu-parent  immigration"><a href="immigration">Immigration</a><ul class="vertical menu nested left-submenu" id="immigration" ><li class="  la-ville-de-saguenay"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/la-ville-de-saguenay">Le territoire</a></li><li class="  se-deplacer"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/se-deplacer">Se déplacer</a></li><li class="  s-habiller"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/s-habiller">S'habiller</a></li><li class="  se-loger"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/se-loger">Se loger</a></li><li class="  se-divertir"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/se-divertir">Se divertir</a></li><li class="  se-nourrir"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/se-nourrir">Se nourrir</a></li><li class="  se-soigner"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/se-soigner">Se soigner</a></li><li class="  etudier"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/etudier">Étudier</a></li><li class="  travailler"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/travailler">Travailler</a></li><li class="  entreprendre"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/entreprendre">Entreprendre</a></li><li class="  demarches-dimmigration"><a href="https://ville.saguenay.ca/services-aux-citoyens/immigration/demarches-dimmigration">Démarches d'immigration</a></li></ul></li><li class="  ombudsman"><a href="https://ville.saguenay.ca/services-aux-citoyens/ombudsman">Ombudsman</a></li><li class="  reglements-municipaux"><a href="https://ville.saguenay.ca/services-aux-citoyens/reglements-municipaux">Règlements municipaux</a></li><li role="menuitem" class="is-accordion-submenu-parent  requetes-et-demandes-dinformation"><a href="requetes-et-demandes-dinformation">Requêtes et demandes d'information</a><ul class="vertical menu nested left-submenu" id="requetes-et-demandes-dinformation" ><li class="  requetes-et-plaintes"><a href="https://ville.saguenay.ca/services-aux-citoyens/requetes-et-demandes-dinformation/requetes-et-plaintes">Requêtes et demandes d'information</a></li><li class="  reclamations"><a href="https://ville.saguenay.ca/services-aux-citoyens/requetes-et-demandes-dinformation/reclamations">Réclamations</a></li><li class="  loi-dacces-a-linformation"><a href="https://ville.saguenay.ca/services-aux-citoyens/requetes-et-demandes-dinformation/loi-dacces-a-linformation">Loi d'accès à l'information</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  sante-publique-et-qualite-de-vie"><a href="sante-publique-et-qualite-de-vie">Santé publique et qualité de vie</a><ul class="vertical menu nested left-submenu" id="sante-publique-et-qualite-de-vie" ><li role="menuitem" class="is-accordion-submenu-parent  vie-sociale-et-entraide"><a href="vie-sociale-et-entraide">Vie sociale et entraide</a><ul class="vertical menu nested left-submenu" id="vie-sociale-et-entraide" ><li class="  entraide-et-soutien"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/vie-sociale-et-entraide/entraide-et-soutien">Entraide et soutien</a></li><li class="  services-aux-familles"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/vie-sociale-et-entraide/services-aux-familles">Services aux familles</a></li><li class="  organismes-jeunesse"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/vie-sociale-et-entraide/organismes-jeunesse">Organismes jeunesse</a></li><li class="  soupes-populaires"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/vie-sociale-et-entraide/soupes-populaires">Soupes populaires</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  services-aux-aines"><a href="services-aux-aines">Services aux ainés</a><ul class="vertical menu nested left-submenu" id="services-aux-aines" ><li class="  conseil-des-aines"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-aines/conseil-des-aines">Conseil des aînés</a></li><li class="  demographie-de-la-population-des-aines"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-aines/demographie-de-la-population-des-aines">Démographie de la population des aînés</a></li><li class="  hebergement"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-aines/hebergement">Hébergement</a></li><li class="  coffre-a-outils"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-aines/coffre-a-outils">Coffre à outils</a></li><li class="  clubs-et-organismes"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-aines/clubs-et-organismes">Clubs et organismes</a></li><li class="  programmes-et-services"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-aines/programmes-et-services">Programmes et services</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  benevolat"><a href="benevolat">Bénévolat</a><ul class="vertical menu nested left-submenu" id="benevolat" ><li class="  devenir-benevole"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/benevolat/devenir-benevole">Devenir bénévole</a></li><li class="  formation-et-colloque"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/benevolat/formation-et-colloque">Formation et colloque</a></li><li class="  prix-et-reconnaissance"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/benevolat/prix-et-reconnaissance">Prix et reconnaissance</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  services-aux-personnes-en-situation-de-handicap"><a href="services-aux-personnes-en-situation-de-handicap">Organismes pour personnes handicapées</a><ul class="vertical menu nested left-submenu" id="services-aux-personnes-en-situation-de-handicap" ><li role="menuitem" class="is-accordion-submenu-parent  associations-pour-personnes-vivant-avec-une-deficience"><a href="associations-pour-personnes-vivant-avec-une-deficience">Associations pour personnes vivant avec une déficience</a><ul class="vertical menu nested left-submenu" id="associations-pour-personnes-vivant-avec-une-deficience" ><li class="  arrondissement-de-chicoutimi"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap/associations-pour-personnes-vivant-avec-une-deficience/arrondissement-de-chicoutimi">Arrondissement de Chicoutimi</a></li><li class="  arrondissement-de-jonquiere"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap/associations-pour-personnes-vivant-avec-une-deficience/arrondissement-de-jonquiere">Arrondissement de Jonquière</a></li><li class="  arrondissement-de-la-baie"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap/associations-pour-personnes-vivant-avec-une-deficience/arrondissement-de-la-baie">Arrondissement de La Baie</a></li></ul></li><li class="  transport-adapte"><a href="https://sts.saguenay.ca/transport-adapte">Transport adapté</a></li><li class="  formulaires-et-plans-daction"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap/formulaires-et-plans-daction">Plans d'action & Bilans</a></li><li class="  utilisateurs-daides-a-la-mobilite-motorisees"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap/utilisateurs-daides-a-la-mobilite-motorisees">Utilisateurs d'aides à la mobilité motorisées (AMM)
+</a></li><li class="  stationnements-reserves"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap/stationnements-reserves">Stationnements réservés</a></li><li class="  programme-daccompagnement-en-loisir"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap/programme-daccompagnement-en-loisir">Programme d'accompagnement en loisir</a></li><li class="  programme-secours-adaptes"><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap/programme-secours-adaptes">Programme Secours adaptés</a></li></ul></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  securite-publique"><a href="securite-publique">Sécurité publique</a><ul class="vertical menu nested left-submenu" id="securite-publique" ><li class="  police"><a href="https://ville.saguenay.ca/services-aux-citoyens/securite-publique/police">Police</a></li><li class="  incendie"><a href="https://ville.saguenay.ca/services-aux-citoyens/securite-publique/incendie">Sécurité incendie</a></li><li class="  numeros-durgence"><a href="https://ville.saguenay.ca/services-aux-citoyens/securite-publique/numeros-durgence">Numéros d'urgence</a></li><li class="  gestion-des-risques"><a href="https://ville.saguenay.ca/services-aux-citoyens/securite-publique/gestion-des-risques">Sécurité civile</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  taxes-et-evaluation"><a href="taxes-et-evaluation">Taxes et évaluation</a><ul class="vertical menu nested left-submenu" id="taxes-et-evaluation" ><li class="  evaluation-fonciere"><a href="https://ville.saguenay.ca/services-aux-citoyens/taxes-et-evaluation/evaluation-fonciere">Évaluation foncière</a></li><li class="  taxation"><a href="https://ville.saguenay.ca/services-aux-citoyens/taxes-et-evaluation/taxation">Taxation</a></li><li class="  droit-de-mutation-immobiliere"><a href="https://ville.saguenay.ca/services-aux-citoyens/taxes-et-evaluation/droit-de-mutation-immobiliere">Droit de mutation immobilière</a></li><li class="  vente-pour-taxes"><a href="https://ville.saguenay.ca/services-aux-citoyens/taxes-et-evaluation/vente-pour-taxes">Vente pour taxes</a></li><li class="  programme-daide-aux-aines"><a href="https://ville.saguenay.ca/services-aux-citoyens/taxes-et-evaluation/programme-daide-aux-aines">Programme d'aide aux ainés</a></li><li class="  rapports-et-budgets"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/budgets-et-investissement">Rapports et budgets</a></li><li class="  taxation-2025"><a href="https://ville.saguenay.ca/services-aux-citoyens/taxes-et-evaluation/taxation-2025">Budget 2025</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  transport-et-entretien"><a href="transport-et-entretien">Transport et entretien</a><ul class="vertical menu nested left-submenu" id="transport-et-entretien" ><li role="menuitem" class="is-accordion-submenu-parent  entretien-des-routes"><a href="entretien-des-routes">Entretien des routes</a><ul class="vertical menu nested left-submenu" id="entretien-des-routes" ><li role="menuitem" class="is-accordion-submenu-parent  deneigement"><a href="deneigement">Déneigement</a><ul class="vertical menu nested left-submenu" id="deneigement" ><li class="  quartiers-blancs"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/entretien-des-routes/deneigement/quartiers-blancs">Quartiers blancs</a></li><li class="  standards-de-deneigement"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/entretien-des-routes/deneigement/standards-de-deneigement">Standards de déneigement</a></li><li class="  comment-disposer-de-sa-neige"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/entretien-des-routes/deneigement/comment-disposer-de-sa-neige">Comment disposer de sa neige</a></li></ul></li><li class="  nids-de-poule"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/entretien-des-routes/nids-de-poule">Nids-de-poule</a></li><li class="  chemins-prives"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/entretien-des-routes/chemins-prives">Chemins privés</a></li></ul></li><li class="  sts"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/sts">Société de transport du Saguenay</a></li><li class="  travaux-dinfrastructure"><a href="https://ville.saguenay.ca/services-aux-citoyens/info-travaux">Travaux d'infrastructure</a></li><li class="  aeroport"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/aeroport">Aéroport</a></li><li role="menuitem" class="is-accordion-submenu-parent  pistes-cyclables"><a href="pistes-cyclables">Pistes cyclables</a><ul class="vertical menu nested left-submenu" id="pistes-cyclables" ><li class="  normes-et-conseils-de-securite"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/pistes-cyclables/normes-et-conseils-de-securite">Normes et conseils de sécurité</a></li><li class="  reseaux-cyclables"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/pistes-cyclables/reseaux-cyclables">Navette de la marina de Shipshaw</a></li></ul></li><li class="  cartes"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/cartes">Cartes</a></li><li class="  bornes-de-recharge-electrique"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/bornes-de-recharge-electrique">Bornes de recharge électrique</a></li><li class="  covoiturage"><a href="https://ville.saguenay.ca/services-aux-citoyens/transport-et-entretien/covoiturage">Covoiturage</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  urbanisme"><a href="urbanisme">Urbanisme</a><ul class="vertical menu nested left-submenu" id="urbanisme" ><li class="  occupation-du-domaine-public"><a href="https://ville.saguenay.ca/services-aux-citoyens/urbanisme/occupation-du-domaine-public">Occupation du domaine public</a></li><li class="  plan-durbanisme"><a href="https://ville.saguenay.ca/services-aux-citoyens/urbanisme/plan-durbanisme">Plan d'urbanisme</a></li><li class="  ppu"><a href="https://ville.saguenay.ca/services-aux-citoyens/urbanisme/ppu">Plan particulier d'urbanisme (PPU)</a></li><li class="  developpement-domiciliaire"><a href="https://ville.saguenay.ca/services-aux-citoyens/urbanisme/developpement-domiciliaire">Développement domiciliaire</a></li><li class="  vision-strategique"><a href="https://ville.saguenay.ca/services-aux-citoyens/urbanisme/vision-strategique">Plans d'agriculture</a></li><li class="  populations-et-statistiques"><a href="https://ville.saguenay.ca/services-aux-citoyens/urbanisme/populations-et-statistiques">Populations et statistiques</a></li><li class="  reglements-durbanisme"><a href="https://ville.saguenay.ca/services-aux-citoyens/construire-et-renover/reglements-durbanisme">Règlements d'urbanisme</a></li><li class="  schema-damenagement"><a href="https://ville.saguenay.ca/services-aux-citoyens/urbanisme/schema-damenagement">Schéma d'aménagement</a></li><li class="  assemblees-publiques-de-consultation"><a href="https://ville.saguenay.ca/services-aux-citoyens/urbanisme/assemblees-publiques-de-consultation">Assemblées publiques de consultation</a></li></ul></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  activites-et-loisirs"><a href="activites-et-loisirs">Activités et loisirs</a><ul class="vertical menu nested left-submenu" id="activites-et-loisirs" ><li role="menuitem" class="is-accordion-submenu-parent  sports-en-plein-air"><a href="sports-en-plein-air">Sports et plein air</a><ul class="vertical menu nested left-submenu" id="sports-en-plein-air" ><li class="  cours-et-ateliers"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/cours-et-ateliers">Cours et ateliers</a></li><li role="menuitem" class="is-accordion-submenu-parent  parcs-et-espaces-verts"><a href="parcs-et-espaces-verts">Parcs et espaces verts</a><ul class="vertical menu nested left-submenu" id="parcs-et-espaces-verts" ><li class="  parcs-et-espaces-verts-1"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur Chicoutimi nord</a></li><li class="  parcs-et-espaces-verts-2"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur Chicoutimi sud</a></li><li class="  parcs-et-espaces-verts-3"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur Laterrière</a></li><li class="  parcs-et-espaces-verts-4"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur Arvida</a></li><li class="  parcs-et-espaces-verts-5"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur Jonquière</a></li><li class="  parcs-et-espaces-verts-6"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur Kénogami</a></li><li class="  parcs-et-espaces-verts-7"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur Lac-Kénogami</a></li><li class="  parcs-et-espaces-verts-8"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur Shipshaw</a></li><li class="  parcs-et-espaces-verts-9"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/parcs-et-espaces-verts">Secteur La Baie</a></li></ul></li><li class="  centres-plein-air"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/centres-plein-air">Centres plein air</a></li><li role="menuitem" class="is-accordion-submenu-parent  installations-sportives"><a href="installations-sportives">Installations sportives</a><ul class="vertical menu nested left-submenu" id="installations-sportives" ><li class="  jeux-deau"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sports-aquatiques/baignade-exterieure/jeux-deau">Jeux d'eau</a></li><li class="  marinas-et-debarcaderes"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/marinas-et-debarcaderes">Marinas et débarcadères</a></li><li class="  parc-de-planche-a-roulettes"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-individuels/planche-a-roulettes">Parcs de planche à roulettes (skateboard)</a></li><li role="menuitem" class="is-accordion-submenu-parent  patinoires"><a href="patinoires">Patinoires</a><ul class="vertical menu nested left-submenu" id="patinoires" ><li class="  interieures"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/interieures">Intérieures</a></li><li role="menuitem" class="is-accordion-submenu-parent  exterieures"><a href="exterieures">Extérieures</a><ul class="vertical menu nested left-submenu" id="exterieures" ><li class="  exterieures-2"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures">Secteur Chicoutimi nord</a></li><li class="  exterieures-1"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures">Secteur Chicoutimi sud</a></li><li class="  secteur-laterriere"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures/secteur-laterriere">Secteur Laterrière</a></li><li class="  exterieures-3"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures">Secteur Arvida</a></li><li class="  secteur-jonquiere"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures/secteur-jonquiere">Secteur Jonquière</a></li><li class="  exterieures-4"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures">Secteur Kénogami</a></li><li class="  exterieures-5"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures">Secteur Lac-Kénogami</a></li><li class="  exterieures-6"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures">Secteur Shipshaw</a></li><li class="  exterieures-7"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/patinoires/exterieures">Secteur La Baie</a></li></ul></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  piscines"><a href="piscines">Piscines</a><ul class="vertical menu nested left-submenu" id="piscines" ><li class="  interieures"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/piscines/interieures">Intérieures</a></li><li class="  exterieures"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sports-aquatiques/baignade-exterieure/piscines-exterieures">Extérieures</a></li></ul></li><li class="  pistes-a-rouleaux"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-individuels/pistes-a-rouleaux">Pistes à rouleaux</a></li><li class="  sentiers-de-raquette"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/plein-air/raquette">Sentiers de raquette</a></li><li class="  sentiers-de-ski-de-fond-raquette"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/plein-air/ski-de-fond">Sentiers de ski de fond & raquette</a></li><li class="  stade-de-soccer-saguenay"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/installations-sportives/stade-de-soccer-saguenay">Stade de soccer Saguenay</a></li><li class="  terrains-de-baseball"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-collectifs/balle-lente-et-baseball">Terrains de baseball</a></li><li class="  terrains-de-basketball"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-collectifs/basketball">Terrains de basketball</a></li><li class="  terrains-de-football"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-collectifs/football">Terrains de football</a></li><li class="  terrain-de-pickleball"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-individuels/pickleball">Terrain de pickleball</a></li><li class="  terrains-de-soccer"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-collectifs/soccer">Terrains de soccer extérieurs</a></li><li class="  terrains-de-tennis"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-individuels/tennis">Terrains de tennis</a></li><li class="  terrain-de-tir-a-larc"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-individuels/tir-a-larc">Terrain de tir à l'arc</a></li><li class="  terrains-de-volleyball"><a href="https://loisirs.saguenay.ca/cours-et-activites/activites-sportives-et-de-plein-air/sports-collectifs/volleyball-et-volleyball-de-plage">Terrains de volleyball</a></li></ul></li><li class="  jardins-communautaires"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/jardins-communautaires">Jardins communautaires</a></li><li role="menuitem" class="is-accordion-submenu-parent  peche-blanche"><a href="peche-blanche">Pêche blanche</a><ul class="vertical menu nested left-submenu" id="peche-blanche" ><li class="  la-baie"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/peche-blanche/la-baie">La Baie</a></li><li class="  lac-kenogami"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/peche-blanche/lac-kenogami">Lac-Kénogami</a></li></ul></li><li class="  sentiers-pedestres"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/sentiers-pedestres">Sentiers pédestres</a></li><li class="  coffre-aux-sports"><a href="https://ville.saguenay.ca/activites-et-loisirs/sports-en-plein-air/coffre-aux-sports">Coffre aux sports</a></li></ul></li><li class="  idees-de-sorties"><a href="https://ville.saguenay.ca/activites-et-loisirs/idees-de-sorties">Idées de sorties</a></li><li role="menuitem" class="is-accordion-submenu-parent  arts-et-culture"><a href="arts-et-culture">Arts et culture</a><ul class="vertical menu nested left-submenu" id="arts-et-culture" ><li class="  ateliers-et-cours"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/ateliers-et-cours">Ateliers et cours</a></li><li role="menuitem" class="is-accordion-submenu-parent  art-public"><a href="art-public">Art public</a><ul class="vertical menu nested left-submenu" id="art-public" ><li class="  banque-dartistes-en-art-visuel"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/art-public/banque-dartistes-en-art-visuel">Banque d'artistes en arts visuels</a></li><li class="  quelques-reperes-pour-approcher-loeuvre"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/art-public/quelques-reperes-pour-approcher-loeuvre">Quelques repères pour approcher les oeuvres</a></li><li class="  residences-de-creation"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/art-public/residences-de-creation">Résidences artistiques</a></li><li class="  parcours-doeuvres"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/art-public/parcours-doeuvres">Parcours d'oeuvres d'art public</a></li><li class="  acquisition-doeuvre-dart-public"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/art-public/acquisition-doeuvre-dart-public">Acquisition d'oeuvre d'art public</a></li></ul></li><li class="  conseils-des-arts"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/conseils-des-arts">Conseil des arts</a></li><li role="menuitem" class="is-accordion-submenu-parent  histoire-et-patrimoine"><a href="histoire-et-patrimoine">Activités patrimoniales</a><ul class="vertical menu nested left-submenu" id="histoire-et-patrimoine" ><li class="  circuits"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/histoire-et-patrimoine/circuits">Circuits</a></li><li class="  parcours-audiotheatral"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/histoire-et-patrimoine/parcours-audiotheatral">Parcours audiothéâtraux</a></li></ul></li><li class="  programme-culture-education"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/programme-culture-education">Programme Culture Éducation</a></li><li role="menuitem" class="is-accordion-submenu-parent  programme-eveille-ma-culture"><a href="programme-eveille-ma-culture">Programme Éveille ma culture</a><ul class="vertical menu nested left-submenu" id="programme-eveille-ma-culture" ><li class="  historique-et-mission"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/programme-eveille-ma-culture/historique-et-mission">Historique et mission</a></li><li class="  la-mediation-culturelle"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/programme-eveille-ma-culture/la-mediation-culturelle">La médiation culturelle</a></li><li class="  brigade-benevole"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/programme-eveille-ma-culture/brigade-benevole">Brigade bénévole</a></li><li class="  projets-de-mediation"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/programme-eveille-ma-culture/projets-de-mediation">Projets de médiation</a></li><li class="  outils-et-ressources"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/programme-eveille-ma-culture/outils-et-ressources">Outils et ressources</a></li></ul></li><li class="  comment-exposer"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/comment-exposer">Comment exposer?</a></li><li role="menuitem" class="is-accordion-submenu-parent  expositions"><a href="expositions">Expositions</a><ul class="vertical menu nested left-submenu" id="expositions" ><li class="  expositions-virtuelles"><a href="https://ville.saguenay.ca/activites-et-loisirs/arts-et-culture/expositions/expositions-virtuelles">Exposition virtuelle</a></li></ul></li></ul></li><li class="  camps-de-jours"><a href="https://ville.saguenay.ca/activites-et-loisirs/camps-de-jours">Camps de jour</a></li><li role="menuitem" class="is-accordion-submenu-parent  bibliotheque"><a href="bibliotheque">Bibliothèques</a><ul class="vertical menu nested left-submenu" id="bibliotheque" ><li class="  responsabilites-des-usagers"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/responsabilites-des-usagers">Responsabilités des usagers</a></li><li class="  reservation-en-ligne"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/reservation-en-ligne">Réserver un document</a></li><li role="menuitem" class="is-accordion-submenu-parent  abonnements-et-prets"><a href="abonnements-et-prets">Abonnements et prêts</a><ul class="vertical menu nested left-submenu" id="abonnements-et-prets" ><li class="  sabonner"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/abonnements-et-prets/sabonner">S'abonner</a></li><li class="  carte-maternelle"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/abonnements-et-prets/carte-maternelle">Abonnement maternelle</a></li><li class="  emprunter"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/abonnements-et-prets/emprunter">Emprunter</a></li></ul></li><li class="  catalogue"><a href="https://sagu.ent.sirsidynix.net/client/fr_FR/formation">Catalogue</a></li><li class="  services"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/services">Services</a></li><li class="  horaire-et-coordonnees"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/horaire-et-coordonnees">Horaire et coordonnées</a></li><li class="  pret-numerique"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/pret-numerique">Livres numériques et audionumériques</a></li><li class="  ressources-numeriques"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/ressources-numeriques">Ressources numériques</a></li><li class="  biblio-sante"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/biblio-sante">Biblio-Santé</a></li><li class="  magazines-numeriques"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/magazines-numeriques">Périodiques numériques</a></li><li class="  activites-a-animation"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/activites-a-animation">Activités et contenus d'animation</a></li><li role="menuitem" class="is-accordion-submenu-parent  le-portic"><a href="le-portic">Le Portic</a><ul class="vertical menu nested left-submenu" id="le-portic" ><li class="  demande-dassistance"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/le-portic/demande-dassistance">Demande d'assistance</a></li><li class="  clinique-daide-virtuelle"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/le-portic/clinique-daide-virtuelle">Clinique d'aide virtuelle</a></li><li class="  programme-de-formation"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/le-portic/programme-de-formation">Cours et programme de formation</a></li><li class="  apprendre-a-son-rythme"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/le-portic/apprendre-a-son-rythme">Apprendre à son rythme</a></li><li class="  boite-a-outils"><a href="https://ville.saguenay.ca/activites-et-loisirs/bibliotheque/le-portic/boite-a-outils">Boîte à outils</a></li></ul></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  organiser-un-evenement"><a href="organiser-un-evenement">Organiser un événement</a><ul class="vertical menu nested left-submenu" id="organiser-un-evenement" ><li role="menuitem" class="is-accordion-submenu-parent  grand-public"><a href="grand-public">Événement grand public</a><ul class="vertical menu nested left-submenu" id="grand-public" ><li class="  procedure-de-demande"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/grand-public/procedure-de-demande">Procédure de demande</a></li><li class="  reglementation"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/grand-public/reglementation">Règlementation applicable</a></li><li class="  autorisations-particulieres"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/grand-public/autorisations-particulieres">Autorisations particulières</a></li><li class="  soutien-logistique"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/grand-public/soutien-logistique">Soutien logistique</a></li><li class="  responsabilites-du-promoteur"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/grand-public/responsabilites-du-promoteur">Responsabilités du promoteur</a></li><li class="  ecoresponsabilite"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/grand-public/ecoresponsabilite">Évènement écoresponsable</a></li></ul></li><li class="  marche-et-manifestations"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/marche-et-manifestations">Marches et manifestations</a></li><li class="  collecte-de-fonds"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/collecte-de-fonds">Collectes de fonds</a></li><li class="  lavothons"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/lavothons">Lavothons</a></li><li class="  activites-scolaires"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/activites-scolaires">Activités scolaires</a></li><li class="  evenement-ecoresponsable"><a href="https://ville.saguenay.ca/activites-et-loisirs/organiser-un-evenement/evenement-ecoresponsable">Corvée de nettoyage extérieur</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  activites-recreatives-et-communautaires"><a href="activites-recreatives-et-communautaires">Activités récréatives et communautaires</a><ul class="vertical menu nested left-submenu" id="activites-recreatives-et-communautaires" ><li class="  cours-et-ateliers"><a href="https://ville.saguenay.ca/activites-et-loisirs/activites-recreatives-et-communautaires/cours-et-ateliers">Cours et ateliers</a></li><li class="  programme-acces-loisirs"><a href="https://ville.saguenay.ca/activites-et-loisirs/activites-recreatives-et-communautaires/programme-acces-loisirs">Programme Accès-Loisirs</a></li></ul></li><li class="  comites-de-loisirs"><a href="https://ville.saguenay.ca/activites-et-loisirs/comites-de-loisirs">Comités de loisirs</a></li><li class="  carte-acces-saguenay"><a href="https://ville.saguenay.ca/activites-et-loisirs/carte-acces-saguenay">Carte Accès Saguenay</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  la-ville-et-vie-democratique"><a href="la-ville-et-vie-democratique">La ville et vie démocratique</a><ul class="vertical menu nested left-submenu" id="la-ville-et-vie-democratique" ><li class="  cabinet"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/cabinet">Cabinet</a></li><li role="menuitem" class="is-accordion-submenu-parent  carriere-a-la-ville"><a href="carriere-a-la-ville">Carrière à la Ville</a><ul class="vertical menu nested left-submenu" id="carriere-a-la-ville" ><li class="  offres-generales"><a href="https://carriere.saguenay.ca/">Offres d'emploi</a></li></ul></li><li class="  comites-et-commissions"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/comites-et-commissions">Comités et commissions</a></li><li role="menuitem" class="is-accordion-submenu-parent  conseils-municipaux-et-darrondissement"><a href="conseils-municipaux-et-darrondissement">Conseils municipaux et d’arrondissement</a><ul class="vertical menu nested left-submenu" id="conseils-municipaux-et-darrondissement" ><li class="  membres-des-conseils"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement/membres-des-conseils">Membres des conseils</a></li><li class="  horaire-des-conseils"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement/horaire-des-conseils">Conseils en direct et documents</a></li><li class="  conseils-en-ligne"><a href="https://ville.saguenay.ca/videos?playlist=PL5gid0efChzH3R8TAE1nwdI98Y61GzFUb#playlist">Conseils en ligne</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  decouvrir-saguenay"><a href="decouvrir-saguenay">Découvrir Saguenay</a><ul class="vertical menu nested left-submenu" id="decouvrir-saguenay" ><li class="  les-centres-villes"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/decouvrir-saguenay/les-centres-villes">Les centres-villes</a></li><li class="  croisieres-internationales"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/decouvrir-saguenay/croisieres-internationales">Croisières internationales</a></li><li class="  industrie-et-commerce"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/decouvrir-saguenay/industrie-et-commerce">Industrie et commerce</a></li><li class="  tourisme"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/decouvrir-saguenay/tourisme">Tourisme</a></li><li class="  congres"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/decouvrir-saguenay/congres">Congrès</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  demande-de-commandite"><a href="demande-de-commandite">Demande de commandite</a><ul class="vertical menu nested left-submenu" id="demande-de-commandite" ><li class="  demande-de-commandites-ou-d-achats-publicitaires"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/demande-de-commandite/demande-de-commandites-ou-d-achats-publicitaires">Demande de commandites ou d'achats publicitaires</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  districts-electoraux"><a href="districts-electoraux">Districts électoraux</a><ul class="vertical menu nested left-submenu" id="districts-electoraux" ><li class="  resultats"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/districts-electoraux/resultats">Districts électoraux</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  patrimoine"><a href="patrimoine">Patrimoine</a><ul class="vertical menu nested left-submenu" id="patrimoine" ><li class="  arvida"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/arvida">Arvida</a></li><li role="menuitem" class="is-accordion-submenu-parent  poste-de-traite-de-chicoutimi"><a href="poste-de-traite-de-chicoutimi">Poste-de-Traite-de-Chicoutimi</a><ul class="vertical menu nested left-submenu" id="poste-de-traite-de-chicoutimi" ><li class="  maison-du-commis"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/poste-de-traite-de-chicoutimi/maison-du-commis">La maison du commis</a></li><li class="  rapports-de-fouilles"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/poste-de-traite-de-chicoutimi/rapports-de-fouilles">Les fouilles archéologiques</a></li><li class="  la-pulperie"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/poste-de-traite-de-chicoutimi/la-pulperie">Expo Chek8timi</a></li><li class="  industriel"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/poste-de-traite-de-chicoutimi/industriel">L'occupation industrielle</a></li><li class="  carte-des-sites"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/poste-de-traite-de-chicoutimi/carte-des-sites">Reconnaissance patrimoniale</a></li><li class="  presbytere"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/poste-de-traite-de-chicoutimi/presbytere">Le presbytère du père Laure</a></li><li class="  troisieme-chapelle"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/poste-de-traite-de-chicoutimi/troisieme-chapelle">La terrasse des chapelles</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  saint-jean-vianney"><a href="saint-jean-vianney">Saint-Jean-Vianney</a><ul class="vertical menu nested left-submenu" id="saint-jean-vianney" ><li class="  histoire"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/saint-jean-vianney/histoire">Histoire</a></li><li class="  commemorations"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/saint-jean-vianney/commemorations">Aménagements</a></li><li class="  temoignages"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/saint-jean-vianney/temoignages">Témoignages</a></li><li class="  evenement-historique"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/saint-jean-vianney/evenement-historique">Événement historique</a></li><li class="  expositions"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/saint-jean-vianney/expositions">Expositions</a></li><li class="  pour-sy-rendre"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/saint-jean-vianney/pour-sy-rendre">Pour s'y rendre</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  evenements-historiques"><a href="evenements-historiques">Événements historiques</a><ul class="vertical menu nested left-submenu" id="evenements-historiques" ><li class="  arrivee-de-la-societe-des-vingt-et-un-au-saguenay"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/evenements-historiques/arrivee-de-la-societe-des-vingt-et-un-au-saguenay">Arrivée de la Société des Vingt-et-Un</a></li><li class="  glissement-de-terrain-de-saint-jean-vianney"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/evenements-historiques/glissement-de-terrain-de-saint-jean-vianney">Glissement de terrain de Saint-Jean-Vianney</a></li><li class="  defense-militaire-d-arvida"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/evenements-historiques/defense-militaire-d-arvida">Défense militaire d'Arvida</a></li><li class="  deluge-du-saguenay"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/evenements-historiques/deluge-du-saguenay">Inondations de juillet 1996 au Saguenay</a></li><li class="  letablissement-de-chicoutimi-en-1676"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/evenements-historiques/letablissement-de-chicoutimi-en-1676">L'établissement historique de Chicoutimi en 1676</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  personnages-historiques"><a href="personnages-historiques">Personnages historiques</a><ul class="vertical menu nested left-submenu" id="personnages-historiques" ><li class="  georges-vezina"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/personnages-historiques/georges-vezina">Georges Vézina</a></li><li class="  arthur-vinning-davis"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/personnages-historiques/arthur-vinning-davis">Arthur Vining Davis</a></li><li class="  sir-william-price"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/personnages-historiques/sir-william-price">Sir William Price</a></li><li class="  marguerite-belley"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/personnages-historiques/marguerite-belley">Marguerite Belley</a></li></ul></li><li class="  lhistoire-dessinee"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/lhistoire-dessinee">Histoire dessinée</a></li><li class="  la-ligne-du-temps"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/la-ligne-du-temps">La ligne du temps</a></li><li class="  organismes-et-musees"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/organismes-et-musees">Organismes et musées</a></li><li class="  toponymie"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/toponymie">Toponymie</a></li><li class="  programmes-de-subventions"><a href="https://ville.saguenay.ca/services-aux-citoyens/construire-et-renover/programmes-de-subvention">Programmes de subventions</a></li><li class="  renovation-patrimoniale"><a href="https://ville.saguenay.ca/services-aux-citoyens/construire-et-renover/renovation-patrimoniale">Rénovation patrimoniale</a></li><li class="  comite-du-patrimoine"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine/comite-du-patrimoine">Comité du patrimoine</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  fondations-galas-et-reconnaissances"><a href="fondations-galas-et-reconnaissances">Programmes et bourses</a><ul class="vertical menu nested left-submenu" id="fondations-galas-et-reconnaissances" ><li class="  fontation-timi"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/fondations-galas-et-reconnaissances/fontation-timi">Fondation TIMI</a></li><li class="  programme-equipe-saguenay"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/fondations-galas-et-reconnaissances/programme-equipe-saguenay">Programme Équipe Saguenay</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  publications"><a href="publications">Publications</a><ul class="vertical menu nested left-submenu" id="publications" ><li class="  appel-doffres"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/appel-doffres">Appel d'offres</a></li><li class="  budgets-et-investissement"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/budgets-et-investissement">Budgets et investissement</a></li><li role="menuitem" class="is-accordion-submenu-parent  documents-des-conseils-et-avis-publics"><a href="documents-des-conseils-et-avis-publics">Documents des conseils et avis publics</a><ul class="vertical menu nested left-submenu" id="documents-des-conseils-et-avis-publics" ><li class="  documents-des-conseils"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/documents-des-conseils-et-avis-publics/documents-des-conseils">Documents des conseils</a></li><li class="  avis-publics"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/documents-des-conseils-et-avis-publics/avis-publics">Avis publics</a></li></ul></li><li class="  guides"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/guides">Guides</a></li><li class="  memoires"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/memoires">Mémoires & Rapports spéciaux</a></li><li class="  plans-daction"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/plans-daction">Plans </a></li><li role="menuitem" class="is-accordion-submenu-parent  politique"><a href="politique">Politiques</a><ul class="vertical menu nested left-submenu" id="politique" ><li class="  politiques-culturelles"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politiques-culturelles">Politiques culturelles</a></li><li class="  politiques-de-fonctionnement"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politiques-de-fonctionnement">Politiques de fonctionnement</a></li><li class="  politiques-de-gestion"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politiques-de-gestion">Politiques de développement</a></li><li class="  politiques-dapprovisionnement"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politiques-dapprovisionnement">Politiques d'approvisionnement</a></li><li class="  politiques-dinvestissement"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politiques-dinvestissement">Politiques d'investissement</a></li><li class="  politiques-financieres"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politiques-financieres">Politiques financières</a></li><li class="  politiques-dimmigration"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politiques-dimmigration">Politiques sociales</a></li><li class="  politiques-sportives"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politiques-sportives">Politiques sportives</a></li><li class="  politique-linguistique-de-letat"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/politique/politique-linguistique-de-letat">Politique linguistique de l'État</a></li></ul></li><li class="  proces-verbaux"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/proces-verbaux">Procès-verbaux</a></li><li class="  rapports-annuels"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/rapports-annuels">Rapports annuels</a></li><li class="  planification-strategique"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications/planification-strategique">Plan stratégique</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  reconnaissance-des-organismes"><a href="reconnaissance-des-organismes">Reconnaissance et soutien des organismes</a><ul class="vertical menu nested left-submenu" id="reconnaissance-des-organismes" ><li class="  reconnaissance-des-organismes"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/reconnaissance-des-organismes/reconnaissance-des-organismes">Reconnaissance des organismes</a></li><li class="  soutien-des-organismes"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/reconnaissance-des-organismes/soutien-des-organismes">Soutien des organismes</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  salle-des-medias"><a href="salle-des-medias">Salle des médias</a><ul class="vertical menu nested left-submenu" id="salle-des-medias" ><li class="  communiques-de-presse"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/salle-des-medias/communiques-de-presse">Communiqués de presse</a></li><li class="  relations-de-presse"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/salle-des-medias/relations-de-presse">Relations de presse</a></li><li class="  reseaux-sociaux"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/salle-des-medias/reseaux-sociaux">Réseaux sociaux</a></li><li class="  videos"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/salle-des-medias/videos">Vidéos</a></li></ul></li><li role="menuitem" class="is-accordion-submenu-parent  services-municipaux"><a href="services-municipaux">Services municipaux</a><ul class="vertical menu nested left-submenu" id="services-municipaux" ><li class="  affaires-juridiques"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/affaires-juridiques">Affaires juridiques</a></li><li class="  amenagement-du-territoire-et-urbanisme"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/amenagement-du-territoire-et-urbanisme">Aménagement du territoire et urbanisme</a></li><li role="menuitem" class="is-accordion-submenu-parent  bureaux-darrondissement"><a href="bureaux-darrondissement">Bureaux d'arrondissement</a><ul class="vertical menu nested left-submenu" id="bureaux-darrondissement" ><li class="  bureau-darrondissement-de-chicoutimi"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/bureaux-darrondissement/bureau-darrondissement-de-chicoutimi">Bureau d'arrondissement de Chicoutimi</a></li><li class="  bureau-darrondissement-de-jonquiere"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/bureaux-darrondissement/bureau-darrondissement-de-jonquiere">Bureau d'arrondissement de Jonquière</a></li><li class="  bureau-darrondissement-de-la-baie"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/bureaux-darrondissement/bureau-darrondissement-de-la-baie">Bureau d'arrondissement de La Baie</a></li></ul></li><li class="  communications"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/communications">Communications</a></li><li class="  culture-sports-et-vie-communautaire"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/culture-sports-et-vie-communautaire">Culture, sports et vie communautaire</a></li><li class="  developpement-durable-et-environnement"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/developpement-durable-et-environnement">Développement durable et environnement</a></li><li class="  direction-generale"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/direction-generale">Direction générale</a></li><li class="  finances"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/finances">Finances</a></li><li class="  genie"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/genie">Génie</a></li><li class="  greffe"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/greffe">Greffe</a></li><li class="  hydro-jonquiere"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/hydro-jonquiere">Hydro-Jonquière</a></li><li class="  immeubles"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/immeubles">Immeubles et équipements motorisés</a></li><li class="  ressources-humaines"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/ressources-humaines">Ressources humaines</a></li><li class="  ressources-informationnelles"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/ressources-informationnelles">Ressources informationnelles</a></li><li class="  securite-incendie"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/securite-incendie">Sécurité incendie</a></li><li class="  securite-publique"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/securite-publique">Police</a></li><li class="  travaux-publics"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux/travaux-publics">Travaux publics</a></li></ul></li><li class="  verificateur-general"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/verificateur-general">Vérificateur général</a></li><li class="  confidentialite-protection-des-renseignements-personnels"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/confidentialite-protection-des-renseignements-personnels">Protection des renseignements personnels</a></li><li class="  democratie-municipale"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/democratie-municipale">Démocratie municipale</a></li></ul></li></ul>
+
+        <ul class="vertical menu" id="secondary-menu-mobile">
+          <li role="menuitem" class="nous-joindre" aria-label="Nous joindre" aria-controls="nous-joindre">
+              <a href="https://carriere.saguenay.ca/" class="nous-joindre"><i class="fa fa-certificate" aria-hidden="true"></i> Carrière</a>
+          </li>
+          <li role="menuitem" class="nous-joindre" aria-label="Nous joindre" aria-controls="nous-joindre">
+              <a href="https://ville.saguenay.ca/nous-joindre" class="nous-joindre"><i class="fa fa-at" aria-hidden="true"></i> Nous joindre</a>
+          </li>
+          <li role="menuitem" class="accessibilite" aria-label="Nous contactez" aria-controls="accessibilite">
+              <a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap" class="accessibilite"><i class="fa fa-wheelchair" aria-hidden="true"></i> Accessibilité</a>
+          </li>
+        </ul>
+      </nav>
+
+    </div>
+    <div class="off-canvas-content" data-off-canvas-content>
+
+        <a href="javascript:" id="return-to-top"><i class="fa fa-arrow-up"></i></a>
+        <a name="hautdepage"></a>
+
+        <div class="global">
+
+          <div class="header-sticky">
+    <div class="row-header-sticky">
+
+        
+        <button class="float-left hide-for-medium mobile-menu-toggle" id="mobile-menu-open" type="button" data-toggle="offCanvas"><i class="fa fa-bars fa-2x"></i></button>
+        <div class="weather float-left show-for-xlarge"></div>
+
+        <div class="float-left hide-for-xlarge">
+            <ul class="menu align-right float-right sticky-menu" aria-hidden="true">
+                <li><a href="https://destination.saguenay.ca/fr/" class="show-for-medium" id="ic_tourisme_mobile">Tourisme</a></li>
+                <li><a href="https://carriere.saguenay.ca/" class="show-for-medium" id="ic_tourisme_mobile">Carrière</a></li>
+            </ul>
+        </div>
+
+        <ul class="menu align-right float-right sticky-menu">
+
+            <li><a href="#!" class="img" id="ic_loupe"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+            <li><a href="https://ville.saguenay.ca/services-aux-citoyens/sante-publique-et-qualite-de-vie/services-aux-personnes-en-situation-de-handicap" class="show-for-medium img" id="ic_wheelchair"><i class="fa fa-wheelchair" aria-hidden="true"></i></a></li>
+                        <li><a href="https://ville.saguenay.ca/nous-joindre" class="show-for-medium" id="nous-joindre">Nous joindre</a></li>
+            <li class="show-for-xlarge"><a href="https://destination.saguenay.ca/fr/" class="show-for-medium" id="nous-joindre">Tourisme</a></li>
+            <li class="show-for-xlarge"><a href="https://carriere.saguenay.ca/" class="show-for-medium" id="nous-joindre">Carrière</a></li>
+                
+
+        </ul>
+
+        <div class="site-recherche">
+
+            <script>
+                (function() {
+                    var cx = '004979191518627989310:mi2-rclwi-m';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                })();
+            </script>
+            <gcse:searchbox-only resultsUrl="/recherche"></gcse:searchbox-only>
+
+            <!--
+            <button class="close-button" id="button_recherche_fermer" aria-label="Dismiss alert" type="button">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          -->
+        </div>
+
+        <!--<img class="home-header-logo" src="{{root}}assets/img/logo_ville_blanc.svg" />-->
+        <a href="https://ville.saguenay.ca/">
+            <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 523.71 188.66" class="home-header-logo avertissement ">
+  <defs>
+    <style>.cls-1{fill:#ffffff;}.cls-2{fill:#ffffff;}</style>
+  </defs>
+  <title>Logo Ville de Saguenay</title>
+  <path class="cls-1" d="M8.4,177.39c19.2-12.71,47-23.89,78-30.65,75.45-48.19,138.93-34.47,149.13-31.58C130.2,83.44,37.11,153.15,8.4,177.39"/>
+  <path class="cls-1" d="M101.27,145.53c9-1.5,17.68-2.49,26-3.07,5.45-4.38,32.27-25.51,71.27-26.48,0,0-50-3.75-105.12,30.94,2.6-.51,5.21-1,7.85-1.39"/>
+  <path class="cls-1" d="M157.56,143.56c3.73-3.9,25.85-25.53,55.21-23.5,0,0-38.83-6.56-80.64,23.18a199.16,199.16,0,0,1,25.43.32"/>
+  <path class="cls-2" d="M225.91,94.44h0l-1.16-.19-.78-.1-.55-.12a.84.84,0,0,1-.62-.33,3.59,3.59,0,0,1-.38-1.5,32.37,32.37,0,0,1-.14-3.47V62.61a24.42,24.42,0,0,0-.85-7.25A11,11,0,0,0,218,50.53c-3-2.55-7-3.83-11.94-3.83a26.67,26.67,0,0,0-13.66,3.67c-3,1.83-4.43,3.4-4.43,5a2.58,2.58,0,0,0,.76,1.86,2.66,2.66,0,0,0,2,.8,4.66,4.66,0,0,0,2.76-1.27c3.59-2.62,7.22-4,10.74-4,4.4,0,7.09,1.61,8.18,4.88a14.72,14.72,0,0,1,.63,3.57c.1,1.51.18,5,.18,10.25,0,4.9-.08,8.25-.18,10.3a28.88,28.88,0,0,1-.56,4.77,11,11,0,0,1-3.61,5.86,9.44,9.44,0,0,1-6.23,2.15,8.5,8.5,0,0,1-6.45-2.62,9.28,9.28,0,0,1-2.53-6.74,11.79,11.79,0,0,1,4.05-9A22.17,22.17,0,0,1,209,70.93q3.07-.64,3.07-2.58c0-.63-.21-2.65-3.11-2.65a18.69,18.69,0,0,0-3.5.41c-1.44.31-2.76.68-4,1.06a33.19,33.19,0,0,0-3.77,1.43,24.57,24.57,0,0,0-9.49,7.22,15.81,15.81,0,0,0-3.37,9.74A13.5,13.5,0,0,0,189.6,96a15.61,15.61,0,0,0,5.38,3,21,21,0,0,0,6.51,1,17.91,17.91,0,0,0,7.35-1.42,17,17,0,0,0,4.5-2.9v0c0,2.1,1.3,3.28,3.54,3.28h8.41a2.2,2.2,0,0,0,2.45-2.29,2.31,2.31,0,0,0-1.84-2.33"/>
+  <path class="cls-2" d="M318.21,94.31l-1.14-.17s-.83-.14-.83-.14c-.73-.09-1-.27-1.12-.39s-.27-.3-.4-1.27a31.58,31.58,0,0,1-.16-3.76V51.23a7.66,7.66,0,0,0-.43-3.1A2.19,2.19,0,0,0,312,46.89l-1,.13-.18,0-.1.07-.65.35-7.75,3.94c-1.47.72-2.21,1.62-2.21,2.69,0,.68.31,2.3,3.16,2.37a6.6,6.6,0,0,1,1.87.34c.08.05.29.34.42,1.11a33.14,33.14,0,0,1,.23,4.66V77.2c0,5.52-.81,9.58-2.42,12.15A9.8,9.8,0,0,1,299.08,93a13.63,13.63,0,0,1-5.91,1.44c-3.64,0-5.94-1.38-7-4.17a14,14,0,0,1-.75-3.3,53.07,53.07,0,0,1-.26-6.14V52.24a9.84,9.84,0,0,0-.35-3.36,2.1,2.1,0,0,0-2.05-1.23,5.8,5.8,0,0,0-2.21.6l-7.44,3.34c-1.38.65-2.07,1.48-2.07,2.49A2.12,2.12,0,0,0,272,56a5,5,0,0,0,2.28.61c1.19.07,1.58.34,1.68.47s.37.52.37,1.88c0,0,.07,2,.07,2V84.64a31.53,31.53,0,0,0,.63,7,10.54,10.54,0,0,0,2.5,4.7,12,12,0,0,0,5,3.09,19.54,19.54,0,0,0,6.71,1.09,22.26,22.26,0,0,0,8.61-1.61,22.86,22.86,0,0,0,5.48-3.25s0,.1,0,.1a3,3,0,0,0,1,2.6,4.52,4.52,0,0,0,2.76.66h8.58a2.18,2.18,0,0,0,2.41-2.32,2.22,2.22,0,0,0-1.86-2.37"/><path class="cls-2" d="M361.81,86.67a3.24,3.24,0,0,0-2.49,1.42c-3.84,4.51-8.34,6.82-13.33,6.82a13.37,13.37,0,0,1-8.24-2.58,16.44,16.44,0,0,1-5.49-7.45,31.25,31.25,0,0,1-1.95-11.54,31.46,31.46,0,0,1,1.84-10.9,17.49,17.49,0,0,1,5-7.5,11,11,0,0,1,7.13-2.57,9.14,9.14,0,0,1,6.6,2.8,8.39,8.39,0,0,1,2.84,6.26,4.11,4.11,0,0,1-1.16,2.78,20.28,20.28,0,0,1-4.44,3.4L335,75.38a8.77,8.77,0,0,0-1.8,1.32,2.5,2.5,0,0,0-.55,1.66,2.39,2.39,0,0,0,2.68,2.51,5.86,5.86,0,0,0,2.79-1L357.55,68.3a15.06,15.06,0,0,0,4.09-3.19,6,6,0,0,0,1.18-3.79c0-2.4-1.12-5-3.26-7.7-3.64-4.34-8.58-6.54-14.69-6.54a23,23,0,0,0-17.26,7.67,26.06,26.06,0,0,0-5.06,8.59,30,30,0,0,0-1.8,10.45,29.67,29.67,0,0,0,3.12,13.55,24,24,0,0,0,8.7,9.58,22.79,22.79,0,0,0,12.24,3.47,27.12,27.12,0,0,0,7.06-1,19.43,19.43,0,0,0,10.58-6.55c1.3-1.52,1.89-2.69,1.89-3.69a2.25,2.25,0,0,0-.82-1.81,2.48,2.48,0,0,0-1.72-.66"/>
+  <path class="cls-2" d="M415.31,94.37h0l-1.16-.19-1-.13a2.27,2.27,0,0,1-1.12-.41,2.57,2.57,0,0,1-.38-1.26,29.79,29.79,0,0,1-.18-3.71v-26a24.63,24.63,0,0,0-.82-7.25,10.09,10.09,0,0,0-3.11-4.69c-2.53-2.42-6.31-3.68-11.12-3.68a21.75,21.75,0,0,0-14.09,5v-1.7c0-2.86-1.52-3.29-2.43-3.29a5.66,5.66,0,0,0-2.34.66s-7.29,3.91-7.29,3.91c-1.65.77-2,1.83-2,2.58,0,.51.18,2.14,2.49,2.3l1.18.07c1,.06,1.12.43,1.19.53.15.3.39,1.16.39,3.67V88.67a15.8,15.8,0,0,1-.39,4.57c-.12.25-.4.63-1.43.81l-1,.13-1.12.19a2.11,2.11,0,0,0-2,2.3,2.29,2.29,0,0,0,2.34,2.4h15.85a2.19,2.19,0,0,0,2.38-2.34,2.25,2.25,0,0,0-1.88-2.36l-1.18-.19L384,94c-.93-.18-1.18-.55-1.29-.81a15.93,15.93,0,0,1-.37-4.57v-19A35.58,35.58,0,0,1,383,62a11.26,11.26,0,0,1,2-4.42,10.59,10.59,0,0,1,4.36-3.24A14.17,14.17,0,0,1,395,53.11a9.14,9.14,0,0,1,4.36,1,5,5,0,0,1,2.43,2.5c.37.92.81,3.06.81,8.18V88.67a15.49,15.49,0,0,1-.38,4.57c-.06.14-.23.61-1.33.81l-1.16.13a6.08,6.08,0,0,0-2.2.57,2.09,2.09,0,0,0-.9,1.91,2.3,2.3,0,0,0,2.35,2.4h15.68a2.22,2.22,0,0,0,2.44-2.34,2.32,2.32,0,0,0-1.85-2.35"/>
+  <path class="cls-2" d="M459.68,94.44h0l-1.17-.19-.76-.1-.55-.12c-.41-.06-.56-.21-.62-.34a3.28,3.28,0,0,1-.4-1.46c-.07-.9-.13-2.11-.13-3.49V62.61a24.54,24.54,0,0,0-.85-7.26,11.11,11.11,0,0,0-3.39-4.83c-3-2.55-7-3.83-11.93-3.83a26.58,26.58,0,0,0-13.67,3.67c-3,1.82-4.46,3.4-4.46,5a2.6,2.6,0,0,0,.76,1.86,2.7,2.7,0,0,0,2,.8,4.58,4.58,0,0,0,2.75-1.27,18.26,18.26,0,0,1,10.74-4c4.42,0,7.1,1.61,8.16,4.88a13.22,13.22,0,0,1,.65,3.57c.12,1.48.19,4.85.19,10.25,0,4.92-.07,8.32-.19,10.3a28.65,28.65,0,0,1-.55,4.77,11,11,0,0,1-3.6,5.86,9.46,9.46,0,0,1-6.24,2.15A8.54,8.54,0,0,1,430,91.91a9.3,9.3,0,0,1-2.55-6.74,11.79,11.79,0,0,1,4.07-9,22.12,22.12,0,0,1,11.31-5.29q3.09-.64,3.08-2.58c0-.63-.22-2.65-3.12-2.65a18.4,18.4,0,0,0-3.5.41c-1.46.31-2.77.68-4,1.06a33.1,33.1,0,0,0-3.77,1.43A24.34,24.34,0,0,0,422,75.82a15.85,15.85,0,0,0-3.39,9.74A13.37,13.37,0,0,0,423.38,96a15.55,15.55,0,0,0,5.37,3,21.19,21.19,0,0,0,6.54,1,17.82,17.82,0,0,0,7.33-1.42,16.84,16.84,0,0,0,4.49-2.9v0c0,2.1,1.27,3.28,3.55,3.28h8.41a2.21,2.21,0,0,0,2.44-2.29,2.31,2.31,0,0,0-1.83-2.33"/>
+  <path class="cls-2" d="M173.31,60a95.86,95.86,0,0,0-12-9.21l-5.73-3.91c-4.19-2.84-7.08-5.27-8.57-7.19a10.29,10.29,0,0,1-2.13-6.49,10.94,10.94,0,0,1,1.54-5.79,10.21,10.21,0,0,1,4.22-3.91A13.89,13.89,0,0,1,157,22.09a18.61,18.61,0,0,1,7.3,1.49,16.51,16.51,0,0,1,6,4.26,44.06,44.06,0,0,1,3.59,4.85,2.71,2.71,0,0,0,2.42,1.53,2.31,2.31,0,0,0,1.77-.79,2.5,2.5,0,0,0,.64-1.69l-.12-.61.07.24-.06-.34-.09-.58s-2.14-10.68-2.14-10.68c-.49-2.33-1.46-3.5-2.85-3.5a2.5,2.5,0,0,0-1.92.87l-.56.62a1.53,1.53,0,0,1-1.24.71,7.42,7.42,0,0,1-2-.32l-3.41-.91a40.23,40.23,0,0,0-8.53-1,24.4,24.4,0,0,0-10.66,2.23,17.26,17.26,0,0,0-7.28,6.43,17.76,17.76,0,0,0-2.56,9.54,19.06,19.06,0,0,0,1.31,6.8,19.28,19.28,0,0,0,3.75,6.13,35.52,35.52,0,0,0,4.13,3.92c1.24,1,4,3,8.52,6.16,5.48,3.74,9.24,6.46,11.5,8.33,4.77,4,7.2,8.55,7.2,13.47A14.67,14.67,0,0,1,167.53,90a14.53,14.53,0,0,1-10.77,4.21c-7.34,0-13.71-3.77-18.88-11.21-1-1.42-1.9-2.09-2.83-2.09a2.46,2.46,0,0,0-2.59,2.77,6.45,6.45,0,0,0,.27,1.74c0-.07,2.77,11.8,2.77,11.8l0,.06a6.42,6.42,0,0,0,.94,2.18,2.3,2.3,0,0,0,1.84.78,2.59,2.59,0,0,0,2.36-1.41l.42-.78c.34-.61.67-.61.81-.61s1.38.36,1.89.5a42.07,42.07,0,0,0,12.88,2.3,30.51,30.51,0,0,0,10.17-1.63A22.83,22.83,0,0,0,174.69,94a20.26,20.26,0,0,0,5-7.13,23.4,23.4,0,0,0,1.77-9.21,22.94,22.94,0,0,0-1.86-9.34,26.82,26.82,0,0,0-6.29-8.3"/>
+  <path class="cls-2" d="M262.54,90.74a63.79,63.79,0,0,0-10-7.12,83.26,83.26,0,0,1-10.37-6.88,19.5,19.5,0,0,1-5.09-5.67,12.92,12.92,0,0,1-1.37-6.13,11.74,11.74,0,0,1,1.58-6,11.31,11.31,0,0,1,4.3-4.29,13.09,13.09,0,0,1,6.32-1.53,11.6,11.6,0,0,1,8.55,3.16,11.73,11.73,0,0,1,3.11,8.57c0,5-2.12,8.37-6.46,10.42l-1.63.77a2.64,2.64,0,0,0-1.71,2.45c0,.75.32,2.52,3.22,2.52a12.93,12.93,0,0,0,7.32-2.33,17.13,17.13,0,0,0,5.51-6.17,16.42,16.42,0,0,0,.7-14.48,14,14,0,0,0-3-4.16c2.41-1.72,3.7-3.75,3.7-6.07a4.32,4.32,0,0,0-1.08-2.91,3.87,3.87,0,0,0-2.92-1.24,3,3,0,0,0-2.31.9,5.71,5.71,0,0,0-1.16,2.74c-.44,1.78-1.28,1.78-1.63,1.78a13.49,13.49,0,0,1-3.46-.61,24.65,24.65,0,0,0-17.49,1.41,17.19,17.19,0,0,0-7.2,6.75,19.3,19.3,0,0,0-2.53,9.84,21.34,21.34,0,0,0,1.68,8.71,22.29,22.29,0,0,0,5.65,7.38,64.41,64.41,0,0,0,10.41,7.35c2.38,1.43,4.37,2.68,6,3.74h0c4.88,3.16,6,5.28,7.21,7.4s2.79,6.66.5,10.56-3.8,4.72-10.32,4.94a56.87,56.87,0,0,1-13.5-1.71c3,.77,12.5,3.48,19.7,7.67,0,0,13.78-1.66,14.39-16.91,0,0,.5-9.31-6.58-14.89"/><path class="cls-2" d="M199.64,23a2.85,2.85,0,0,0,.18-.84c0-.33-.24-.54-.7-.64l-.51-.09c-.49-.07-.82-.37-.82-.74,0-.58.32-.76,1.17-.76h4.48c.7,0,1,.21,1,.72s-.38.8-1,.86-1,.25-1.42,1.48L196.5,37.67c-.35,1-.71,1.25-1.57,1.25s-1.15-.25-1.48-1.12l-6-14.81c-.5-1.3-.59-1.38-1.52-1.56-.59-.07-.86-.31-.86-.74s.34-.76,1.08-.76h6.13c.82,0,1.11.21,1.11.79s-.29.68-.93.73c-.81.06-1,.2-1,.69a3.65,3.65,0,0,0,.27,1.12l3.91,10.5Z"/>
+  <path class="cls-2" d="M209.81,27.36c0-.61-.21-.9-.66-.9-.14,0-.14,0-.77.21l-3.23,1.17c-.76.25-1,.43-1,.87s.29.63,1.1.75.88.27.88,1.42v3.76c0,2-.08,2.22-.8,2.37l-.31.05c-.66.13-.83.31-.83.71,0,.56.31.75,1.26.75h5c1,0,1.28-.19,1.28-.75,0-.41-.23-.6-.81-.71l-.37-.05c-.69-.1-.77-.32-.77-2.37Zm-4.25-4.87a2.26,2.26,0,0,0,2.33,2.15,2.14,2.14,0,1,0,0-4.28,2.26,2.26,0,0,0-2.33,2.13"/>
+  <path class="cls-2" d="M218.5,34.63c0,2,.08,2.22.78,2.37l.33.05c.63.12.85.31.85.71,0,.57-.28.75-1.29.75h-5c-1,0-1.27-.18-1.27-.75,0-.41.21-.59.85-.71l.36-.05c.67-.15.72-.32.72-2.37v-11c0-.65-.18-.86-.91-.92s-1-.28-1-.72.16-.61.72-.85l3.61-1.43a1.16,1.16,0,0,1,.6-.18c.5,0,.68.28.68,1Z"/>
+  <path class="cls-2" d="M227.22,34.63c0,2,.06,2.22.75,2.37l.34.05c.63.12.85.31.85.71,0,.57-.3.75-1.27.75h-5.05c-1,0-1.26-.18-1.26-.75,0-.41.19-.59.84-.71l.33-.05c.7-.15.76-.32.76-2.37v-11c0-.65-.22-.86-.94-.92s-1-.28-1-.72.16-.61.72-.85l3.59-1.43a1.19,1.19,0,0,1,.61-.18c.5,0,.7.28.7,1Z"/>
+  <path class="cls-2" d="M241,31.62c.82-.42,1.08-.8,1.08-1.48,0-2-2.27-3.65-5.14-3.65-3.87,0-6.63,2.59-6.63,6.21s2.61,6.09,6.6,6.09c2.53,0,5.22-1.24,5.22-2.38a.77.77,0,0,0-.8-.8,2,2,0,0,0-.85.3,6.13,6.13,0,0,1-3.08.94c-2,0-3.23-1.54-3.23-4.21s1.08-4.33,2.66-4.33A1.67,1.67,0,0,1,238.47,30c0,.59-.18.84-1.15,1.43l-1.9,1.14a.69.69,0,0,0-.4.64,1,1,0,0,0,.94.88,1.67,1.67,0,0,0,.87-.3Z"/>
+  <path class="cls-2" d="M254.82,39c-3.39,0-5.56-2.45-5.56-6.27s2.17-6.16,5.36-6.16c1.51,0,2.45.47,2.45,1.2a.74.74,0,0,1-.7.77l-.11,0-.44-.08a2.42,2.42,0,0,0-.43,0c-1.43,0-2.2,1.49-2.2,4.23s.91,4.31,2.54,4.31a1.88,1.88,0,0,0,1.85-1.14,10.21,10.21,0,0,0,.17-2.1V24.44c0-1.54,0-1.55-1.08-1.7-.57-.08-.82-.31-.82-.73s.2-.61.7-.8l3.69-1.51a1.2,1.2,0,0,1,.53-.15c.51,0,.7.35.7,1.17V34.63c0,2,0,2.22.75,2.37l.31,0c.66.14.86.32.86.73,0,.57-.31.74-1.28.74h-3.3a.57.57,0,0,1-.6-.56v-.36a4.29,4.29,0,0,1-3.4,1.37"/>
+  <path class="cls-2" d="M271.06,33.83a1.84,1.84,0,0,1-.89.29,1,1,0,0,1-.95-.88.71.71,0,0,1,.4-.64l1.93-1.14c1-.59,1.13-.83,1.13-1.43A1.66,1.66,0,0,0,271,28.31c-1.55,0-2.65,1.75-2.65,4.33s1.2,4.21,3.24,4.21a6.12,6.12,0,0,0,3.08-.94,2,2,0,0,1,.84-.3.76.76,0,0,1,.78.8c0,1.14-2.66,2.38-5.22,2.38-4,0-6.6-2.43-6.6-6.09s2.78-6.21,6.67-6.21c2.85,0,5.13,1.66,5.13,3.65,0,.67-.28,1.08-1.07,1.5Z"/>
+  <path class="cls-2" d="M508.49,46.35H496c-2.83,0-3.13,1.72-3.13,2.46a2,2,0,0,0,1,1.94,7.17,7.17,0,0,0,2.55.45c2.38.11,2.38,1.18,2.38,1.75s-.32,2.3-1.89,6.3c0,0-7.05,18.58-9.55,25.09-1.58-3.8-11.22-27-11.22-27-1.27-3.17-1.47-4.31-1.47-4.72s0-1.11,2.1-1.23a8,8,0,0,0,2.68-.48,2,2,0,0,0,1-2c0-.76-.32-2.53-3.3-2.53H462.07c-3.19,0-3.65,1.58-3.65,2.53a2.17,2.17,0,0,0,.87,1.93,5.67,5.67,0,0,0,2.62.64,3,3,0,0,1,2,.86,19.74,19.74,0,0,1,2.26,4.52s14.74,35.09,16.49,39.31c-1.4,3.07-3.19,6.63-5.36,10.6-1.53,2.84-2.73,4.92-3.54,6.17l-4,5.84a4,4,0,0,0-.83,2.1,1.88,1.88,0,0,0,.85,1.71,3.52,3.52,0,0,0,1.87.38h4.33a3.11,3.11,0,0,0,2.87-2.17l.54-1.29s24.17-62.67,24.17-62.67a15.49,15.49,0,0,1,2.09-4.13A3.8,3.8,0,0,1,508,51.5l1.55-.39a2.29,2.29,0,0,0,2-2.36c0-.73-.3-2.4-3.08-2.4"/>
+</svg>
+        </a>
+
+
+    </div>
+</div>
+
+
+
+                             
+                         
+
+          
+                        
+                          
+
+            <div role="alert" id="pagespeciale" style="position:relative; top: 75px; background-image: url('https://ville.saguenay.ca/themes/v2017/assets/img/warning.png'); background-color:#df1b1c;">
+       
+                             <div class="row large-up-1" style="text-align:center;">
+                                    
+                      
+                        
+                          
+                                                                                                      <div class="column column-block" style="margin-bottom:20px; margin-top:20px;">
+                                          <i class="fa fa-exclamation-triangle fa-2x" aria-hidden="true" style="margin-top:-10px; color: #fff; "></i>&nbsp;&nbsp;<a href="https://ville.saguenay.ca/avertissements/avis-de-bouillir-reseau-shipshaw-sud" style="color: #fff; ">L&#39;avis de bouillir - Réseau Shipshaw-Sud</a>
+                                  </div>   
+
+                          
+                        
+                      
+
+                                   </div>
+                               </div>
+     
+                      
+                        
+                      
+
+                
+
+                              <!--
+        		Navigation Menu  -->
+                    	<nav class="header-menu show-for-medium avertissement"  role="navigation">
+        		<div class="row">
+
+        				<ul class="menu expanded" >
+        				   <li class="services-aux-citoyens">
+        				      <a href="https://ville.saguenay.ca/services-aux-citoyens">Services <br>aux citoyens</a>
+        				   </li>
+        				
+        				   <li class="activites-et-loisirs">
+        				      <a href="https://ville.saguenay.ca/activites-et-loisirs">Activités <br>et loisirs</a>
+        				   </li>
+        				
+        				   <li class="la-ville-et-vie-democratique is-active"">
+        				      <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique">La ville et vie <br>démocratique</a>
+        				   </li>
+        				</ul>
+
+        		</div>
+        	</nav>
+        
+<div>
+<nav aria-label="Vous êtes ici :" role="navigation" class="breadcrumb-menu avertissement" >
+
+  <div class="row hide-for-large">
+    <div class="columns">
+      <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement" class="breadcrumb-mobile">Conseils municipaux et d’arrondissement</a>
+    </div>
+  </div>
+
+  <div class="row show-for-large" >
+
+    <ul class="dropdown menu" data-dropdown-menu data-hover-delay="300" >
+      <li><a href="https://ville.saguenay.ca/"><img src="https://ville.saguenay.ca/themes/v2017/assets/img/icons/ic_home.svg" class="ic_home" /></a></li>
+        
+                
+    
+    
+
+              
+                        
+              
+      
+
+            <li><a href='https://ville.saguenay.ca/la-ville-et-vie-democratique'>La ville et vie démocratique</a>        <ul class="menu" >
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/cabinet">Cabinet</a>
+           </li>
+        
+           <li>
+              <a href="https://carriere.saguenay.ca/">Carrière à la Ville</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/comites-et-commissions">Comités et commissions</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement">Conseils municipaux et d’arrondissement</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/decouvrir-saguenay">Découvrir Saguenay</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/demande-de-commandite">Demande de commandite</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/districts-electoraux">Districts électoraux</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/patrimoine">Patrimoine</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/fondations-galas-et-reconnaissances">Programmes et bourses</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/publications">Publications</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/reconnaissance-des-organismes">Reconnaissance et soutien des organismes</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/salle-des-medias">Salle des médias</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/services-municipaux">Services municipaux</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/verificateur-general">Vérificateur général</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/confidentialite-protection-des-renseignements-personnels">Protection des renseignements personnels</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/democratie-municipale">Démocratie municipale</a>
+           </li>
+        </ul></li>
+                <li><a href='https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement'>Conseils municipaux et d’arrondissement</a>        <ul class="menu" >
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement/membres-des-conseils">Membres des conseils</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement/horaire-des-conseils">Conseils en direct et documents</a>
+           </li>
+        
+           <li>
+              <a href="https://ville.saguenay.ca/videos?playlist=PL5gid0efChzH3R8TAE1nwdI98Y61GzFUb#playlist">Conseils en ligne</a>
+           </li>
+        </ul></li>
+                
+
+    <li class="active"><a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/conseils-municipaux-et-darrondissement/membres-des-conseils">Membres des conseils</a></li>
+
+    </ul>
+  </div>
+</nav>
+</div>
+
+
+  
+
+
+
+
+	<main>
+
+                      <div class="row xlarge-collapse">
+                <div class="columns">
+                  <h1>Membres des conseils</h1>
+                </div>
+            </div>
+            <div class="row xlarge-collapse content-article-container">
+                <div class="xlarge-offset-1 xlarge-10 columns">
+
+          
+
+          
+          
+            <article>
+                <p>Le conseil municipal joue le rôle de représentant de la Ville et il en administre les affaires. En fait, c&#39;est l&#39;instance suprême de la municipalité. Le conseil se compose du maire ainsi que d&#39;un conseiller par district électoral, pour un total de 16 élus.</p>
+<p>En tant que représentant de la population, le conseil a le devoir d&#39;offrir des services qui répondent aux besoins de la collectivité et de respecter les obligations qui lui sont dévolues en rapport avec la municipalité. Ses actions se concrétisent par l&#39;adoption de règlements et de résolutions lors d&#39;assemblées tenues dans les règles suivant le processus démocratique.</p>
+            </article>
+          
+
+                    
+
+          
+
+          
+
+                    
+            
+
+                                            
+                                              
+                      
+                                                <article class="accordion">
+                            <ul class="accordion" data-accordion data-allow-all-closed="true"  data-multi-expand="true">
+                                                                          <li class="accordion-item" data-accordion-item>
+                                <a id="attestation-de-participation-formation" name="attestation-de-participation-formation" class="anchor anchor-plus"></a>
+                                <!-- Accordion tab title -->
+                                <a href="#" class="accordion-title"><h3>Attestation de participation - Formation éthique et déontologie <small></small></h3></a>
+                                <!-- Accordion tab content: it would start in the open state due to using the `is-active` state class. -->
+                                <div class="accordion-content" data-tab-content>
+                                  
+                                  
+                                  <ul>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_de_participation_ka_ethique_et_deontologie_fevrier_2022.pdf" target="_blank">Kevin Armstrong</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_de_participation_claude_bouchard.pdf" target="_blank">Claude Bouchard</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_de_participation_jimmy_bouchard_2022.pdf" target="_blank">Jimmy Bouchard</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/bouchard_marc_attestation.pdf" target="_blank">Marc Bouchard</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_umq_jacques_cleary_module_2.pdf" target="_blank">Jacques Cleary</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_de_participation_jmc_2022.pdf" target="_blank">Jean-Marc Crevier</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/carl_dufour_attestation.pdf" target="_blank">Carl Dufour</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/dufour_julie_attestation.pdf" target="_blank">Julie Dufour</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/serge_gaudreault_attestation_2.pdf" target="_blank">Serge Gaudreault</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_martin_harvey.pdf" target="_blank">Martin Harvey</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/mireille_jean_attestation_module_2.pdf" target="_blank">Mireille Jean</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_de_participation_michel_potvin.pdf" target="_blank">Michel Potvin</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_raynald_simard.pdf" target="_blank">Raynald Simard</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/attestation_de_participation_michel_thiffault_2022.pdf" target="_blank">Michel Thiffault</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/jean_tremblay_attestation_de_participation.pdf" target="_blank">Jean Tremblay</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/michel_tremblay_attestation_de_participation_umq.pdf" target="_blank">Michel Tremblay</a></li>
+</ul>
+
+                                  
+
+                                  
+
+                                  
+
+
+
+
+
+                                  <div class="clearfix"></div>
+                                </div>
+
+                              </li>
+                      
+                      
+
+            
+          
+            
+
+                                            
+                                              
+                      
+                                                                          <li class="accordion-item" data-accordion-item>
+                                <a id="remuneration-des-elus-2017-2021" name="remuneration-des-elus-2017-2021" class="anchor anchor-plus"></a>
+                                <!-- Accordion tab title -->
+                                <a href="#" class="accordion-title"><h3>Rémunération des élus <small></small></h3></a>
+                                <!-- Accordion tab content: it would start in the open state due to using the `is-active` state class. -->
+                                <div class="accordion-content" data-tab-content>
+                                  
+                                  
+                                  <ul>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/remuneration_des_elus_2017.pdf">Rémunération des élus | Année 2017</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/publications/remuneration_elu_2018.pdf">Rémunération des élus | Année 2018</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/remuneration_des_elus_2019.pdf">Rémunération des élus | Année 2019</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/remuneration_des_elus_2020.pdf" target="_blank">Rémunération des élus | Année 2020</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/remuneration_des_elus_2021.pdf" target="_blank">Rémunération des élus | Année 2021</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/remuneration_des_elus_2022.pdf" target="_blank">Rémunération des élus | Année 2022</a></li>
+<li><a href="https://ville.saguenay.ca/files/la_ville_et_vie_democratique/conseil_municipal/etat_financier_final_2023_97.pdf" target="_blank">Rémunération des élus | Année 2023</a></li>
+</ul>
+
+                                  
+
+                                  
+
+                                  
+
+
+
+
+
+                                  <div class="clearfix"></div>
+                                </div>
+
+                              </li>
+                      
+                      
+
+            
+          
+            
+
+                                            
+                      
+                                                                                                </ul>
+                            <div class="clearfix"></div>
+                          </article>
+                                                                        <a id="membres-des-conseils" name="membres-des-conseils" class="anchor anchor-plus"></a>
+                        <article class="noborder">
+                                                    <h2>
+                            Arrondissement de Jonquière <small></small>
+                          </h2>
+                                                    
+                          
+                          
+
+                          
+                            <div class="row xlarge-collapse">
+                                <div class="medium-up-2 columns" data-equalizer>
+                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District #1</h3>
+                                      <div class="card-section">
+                                        <p><strong>Vice-président de l'arrondissement de Jonquière<br /></strong>Jimmy Bouchard<br />418 698-3356<br /><a href="mailto:jimmy.bouchard@ville.saguenay.qc.ca">jimmy.bouchard@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District #2</h3>
+                                      <div class="card-section">
+                                        <p>Claude Bouchard<br />418 698-3356<br /><a href="mailto:claude.bouchard@ville.saguenay.qc.ca">claude.bouchard@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 3</h3>
+                                      <div class="card-section">
+                                        <p>Michel Thiffault<br />418 698-3356<br /><a href="mailto:Michel.Thiffault@ville.saguenay.qc.ca">michel.thiffault@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 4</h3>
+                                      <div class="card-section">
+                                        <p>Kevin Armstrong<br />418 698-3356<br /><a href="mailto:Kevin.Armstrong@ville.saguenay.qc.ca">kevin.armstrong@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 5</h3>
+                                      <div class="card-section">
+                                        <p><strong>Président de l'arrondissement de Jonquière</strong><br />Carl Dufour<br />418 698-3356<br /><a href="mailto:Carl.Dufour@ville.saguenay.qc.ca">carl.dufour@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 6</h3>
+                                      <div class="card-section">
+                                        <p>Jean-Marc Crevier<br />418 698-3356<br /><a href="mailto:Jean-Marc.Crevier@ville.saguenay.qc.ca">jean-marc.crevier@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                </div>
+                            </div>
+                          
+
+                          
+
+                          
+
+
+
+
+
+                          <div class="clearfix"></div>
+                        </article>
+                      
+                      
+
+            
+          
+            
+
+                                            
+                      
+                                                                                                                    <a id="arrondissement-de-chicoutimi-3" name="arrondissement-de-chicoutimi-3" class="anchor anchor-plus"></a>
+                        <article class="">
+                                                    <h2>
+                            Arrondissement de Chicoutimi <small></small>
+                          </h2>
+                                                    
+                          
+                          
+
+                          
+                            <div class="row xlarge-collapse">
+                                <div class="medium-up-2 columns" data-equalizer>
+                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 7</h3>
+                                      <div class="card-section">
+                                        <p>Serge Gaudreault<br />418 698-3355<br /><a href="mailto:serge.gaudreault@ville.saguenay.qc.ca">serge.gaudreault@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 8</h3>
+                                      <div class="card-section">
+                                        <p>Mireille Jean<br />418 698-3355<br /><a href="mailto:mireille.jean@ville.saguenay.qc.ca">mireille.jean@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 9</h3>
+                                      <div class="card-section">
+                                        <p>Michel Tremblay<br /><strong>Vice-président de l'arrondissement de Chicoutimi</strong><br />418 698-3355<br /><a href="mailto:Michel.Tremblay@ville.saguenay.qc.ca">michel.tremblay@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 10</h3>
+                                      <div class="card-section">
+                                        <p><strong>Président de l'arrondissement de Chicoutimi</strong><br />Jacques Cleary<br />418 698-3355<br /><a href="mailto:jacques.cleary@ville.saguenay.qc.ca">jacques.cleary@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 11</h3>
+                                      <div class="card-section">
+                                        <p>Marc Bouchard<br />418 698-3355<br /><a href="mailto:Marc.Bouchard.elu@ville.saguenay.qc.ca">marc.bouchard@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 12</h3>
+                                      <div class="card-section">
+                                        <p>Michel Potvin<br />418 698-3355<br /><a href="mailto:Michel.Potvin@ville.saguenay.qc.ca">michel.potvin@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                </div>
+                            </div>
+                          
+
+                          
+
+                          
+
+
+
+
+
+                          <div class="clearfix"></div>
+                        </article>
+                      
+                      
+
+            
+          
+            
+
+                                            
+                      
+                                                                                                                    <a id="arrondissement-de-la-baie-2" name="arrondissement-de-la-baie-2" class="anchor anchor-plus"></a>
+                        <article class="">
+                                                    <h2>
+                            Arrondissement de La Baie <small></small>
+                          </h2>
+                                                    
+                          
+                          
+
+                          
+                            <div class="row xlarge-collapse">
+                                <div class="medium-up-2 columns" data-equalizer>
+                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 13</h3>
+                                      <div class="card-section">
+                                        <p><strong>Président de l'arrondissement de La Baie</strong><br />Raynald Simard<br />418 698-3357<br /><a href="mailto:Raynald.Simard@ville.saguenay.qc.ca">raynald.simard@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 14</h3>
+                                      <div class="card-section">
+                                        <p>Jean Tremblay<br />418 698-3357<br /><a href="mailto:jean.tremblay.elu@ville.saguenay.qc.ca">jean.tremblay.elu@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                                                                                      <div class="column column-block">
+                                    <div class="card" data-equalizer-watch>
+                                      <h3 class="card-divider" >District 15</h3>
+                                      <div class="card-section">
+                                        <p><strong>Vice-président de l'arrondissement de La Baie</strong><br />Martin Harvey<br />418 698-3357<br /><a href="mailto:Martin.Harvey@ville.saguenay.qc.ca">martin.harvey@ville.saguenay.qc.ca</a></p>
+                                      </div>
+                                    </div>
+                                  </div>
+                                                                
+                                </div>
+                            </div>
+                          
+
+                          
+
+                          
+
+
+
+
+
+                          <div class="clearfix"></div>
+                        </article>
+                      
+                      
+
+            
+          
+            
+
+                                            
+                      
+                                                                                                                    <a id="officiers-municipaux" name="officiers-municipaux" class="anchor anchor-plus"></a>
+                        <article class="">
+                                                    <h2>
+                            Officiers municipaux <small></small>
+                          </h2>
+                                                    
+                          
+                          <p>Les personnes suivantes siègent également aux assemblées du <strong>conseil d&#39;arrondissement de Chicoutimi</strong>.</p>
+<ul>
+<li><span style="font-size: 1em;">Assistant-greffier |</span> 418 698-3260</li>
+<li>Marie-Eve Boivin, directrice d&#39;arrondissement | 418 698-3355</li>
+</ul>
+<p>Les personnes suivantes siègent également aux assemblées du <strong>conseil d&#39;arrondissement de Jonquière</strong>.</p>
+<ul>
+<li>Assistant-greffier | 418 698-3260</li>
+<li>Michael Larue, directeur d&#39;arrondissement | 418 698-3356</li>
+</ul>
+<p>Les personnes suivantes siègent également aux assemblées du <strong>conseil d&#39;arrondissement de La Baie</strong>.</p>
+<ul>
+<li>Assistant-greffier | 418 698-3260</li>
+<li>Valérie Bossé, directrice d&#39;arrondissement | 418 698-3357</li>
+</ul>
+
+                          
+
+                          
+
+                          
+
+
+
+
+
+                          <div class="clearfix"></div>
+                        </article>
+                      
+                      
+
+            
+          
+
+
+				</div>
+		</div>
+	</main>
+
+
+
+<footer>
+
+    <div class="xlarge-12 columns">
+        <center>
+            <ul class="menu vertical medium-horizontal support" >
+                <li>
+                    <a href="https://ville.saguenay.ca/avis-juridique">
+                        Avis juridique
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://ville.saguenay.ca/confidentialite">
+                        Confidentialité
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://ville.saguenay.ca/assistance-technique">
+                        Assistance technique
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://ville.saguenay.ca/realisations">
+                        Réalisations
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://ville.saguenay.ca/credits-photos">
+                        Mentions de source
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://ville.saguenay.ca/plan-du-site">
+                        Plan du site
+                    </a>
+                </li>
+            </ul>
+        </center>
+    </div>
+    <div class="xlarge-12 columns footer">
+        <div class="row">
+            <div class="small-12 medium-6 large-3 medium-push-6 large-push-9 columns">
+                <img src="https://ville.saguenay.ca/themes/v2017/assets/img/logo_ville_blanc.svg"/>
+                <div class="medias-sociaux">
+                    <a href="https://www.google.com/maps/d/viewer?mid=1QwLDhNo5Pc8667sFyPfQ00Ko62zT26YJ&ll=48.37392508363135%2C-71.09931925000001&z=11">
+                      <i class="fa fa-wifi fa-2x" aria-hidden="true" title="Carte des borne WI-FI"></i>
+                    </a>
+                    <a href="https://twitter.com/VilledeSaguenay?lang=fr">
+                      <i class="fa fa-twitter fa-2x" aria-hidden="true"></i>
+                    </a>
+                    <a href="https://www.facebook.com/villesaguenayofficiel/">
+                      <i class="fa fa-facebook fa-2x" aria-hidden="true"></i>
+                    </a>
+                    <a href="https://www.instagram.com/villedesaguenay/?hl=fr">
+                      <i class="fa fa-instagram fa-2x" aria-hidden="true"></i>
+                    </a>
+                    <a href="https://www.youtube.com/user/villesaguenay">
+                      <i class="fa fa-youtube fa-2x" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="small-12 medium-6 large-3 medium-pull-6 large-pull-3 columns">
+                <h5>
+                    Les sites de Saguenay
+                </h5>
+                <form>
+                    <select class="" id="sites-saguenay">
+                        <option value="https://ville.saguenay.ca">Ville</option>
+                        <option value="https://loisirs.saguenay.ca">Loisirs</option>
+                        <option value="https://destination.saguenay.ca">Tourisme</option>
+                        <option value="https://promotion.saguenay.ca">Promotion Saguenay</option>
+                        <option value="https://aeroport.saguenay.ca">Aéroport</option>
+                        <option value="https://arvida.saguenay.ca">Arvida</option>
+                        <option value="https://montfortin.saguenay.ca">Mont-Fortin</option>
+                        <option value="https://elections.saguenay.ca">Élections</option>
+                        <option value="https://cultureeducation.saguenay.ca">Culture-Éducation</option>
+                    </select>
+                </form>
+
+            </div>
+            <div class="small-12 medium-6 large-3 large-pull-3 columns">
+                <h5>
+                    Courriels à la ville
+                </h5>
+
+                <a href="https://ville.saguenay.ca/services-aux-citoyens/requetes-et-demandes-dinformation/requetes-et-plaintes">Info, requête et suggestion</a><br/>
+                <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/cabinet/ecrire-au-maire">
+                    
+                        Écrire à la mairesse <span style="font-size: 12px; display: block; margin-bottom: 5px; color: #aeaebe;">Julie Dufour</span>
+                    
+                </a>
+                <a href="https://ville.saguenay.ca/la-ville-et-vie-democratique/cabinet/ecrire-au-conseiller">
+                    
+                        Écrire au conseiller <span style="font-size: 12px; display: block; margin-bottom: 5px; color: #aeaebe;">Marc Bouchard</span>
+                    
+                </a>
+                            </div>
+            <div class="small-12 medium-6 large-3 large-pull-3 columns">
+                <h5>
+                    Portail employés
+                </h5>
+                <a href="https://extranet.saguenay.ca" class="button">Accéder au portail &nbsp;&nbsp;<i
+                            class="fa fa-chevron-right" aria-hidden="true"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        Copyright © 2025 Ville de Saguenay. Tous droits réservés.
+    </div>
+
+</footer>
+
+</div>
+    <!--  ------------------------  -->
+    </div>
+    </div>
+
+<script src="https://ville.saguenay.ca/themes/v2017/javascript/app.js"></script>
+<script src="https://ville.saguenay.ca/themes/v2017/javascript/vendor-dist.js"></script>
+<script src="https://ville.saguenay.ca/themes/v2017/javascript/custom-dist.js?1754718315"></script>
+
+
+<script>
+
+var wbody = '';
+var iframeContents = '';
+var base_url = 'https://ville.saguenay.ca/';
+var last_scroll_position = 0;
+
+$(function () {
+            $('#main-menu-mobile').foundation('down', $('#la-ville-et-vie-democratique'));
+        $('#main-menu-mobile').foundation('down', $('#conseils-municipaux-et-darrondissement'));
+        $('#main-menu-mobile').foundation('down', $('#membres-des-conseils'));
+    
+    var scroll = 0;
+
+    $(window).scroll(function () {
+        scroll = window.pageYOffset;
+
+        if (scroll >= 10) {
+            $('.header-menu').css('z-index', 100);
+        }
+        else {
+            $('.header-menu').css('z-index', 1100);
+        }
+    });
+    });
+
+</script>
+
+<script src="https://ville.saguenay.ca/themes/v2017/javascript/fix_breadcrumb_on_scroll.js"></script>
+
+
+</body>
+</html>
+

@@ -1,0 +1,26 @@
+{
+  "Canada (Federal)": {
+    "error": "No people.py file found",
+    "data": null
+  },
+  "Ontario (Provincial)": {
+    "error": "No people.py file found",
+    "data": null
+  },
+  "Toronto, ON": {
+    "error": "No people.py file found",
+    "data": null
+  },
+  "Montreal, QC": {
+    "error": "No people.py file found",
+    "data": null
+  },
+  "Vancouver, BC": {
+    "error": "No people.py file found",
+    "data": null
+  },
+  "Calgary, AB": {
+    "error": "No people.py file found",
+    "data": null
+  }
+}

@@ -1,0 +1,90 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: files-service
+  namespace: openpolicy
+  labels:
+    app: files-service
+    tier: api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: files-service
+  template:
+    metadata:
+      labels:
+        app: files-service
+        tier: api
+    spec:
+      containers:
+      - name: files-service
+        image: files-service:latest
+        ports:
+        - containerPort: 8015
+        env:
+        - name: PORT
+          value: "8015"
+        - name: ENVIRONMENT
+          value: "production"
+        resources:
+          requests:
+            memory: "256Mi"
+            cpu: "250m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+        livenessProbe:
+          httpGet:
+            path: /healthz
+            port: 8015
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /readyz
+            port: 8015
+          initialDelaySeconds: 5
+          periodSeconds: 5
+        volumeMounts:
+        - name: logs
+          mountPath: /app/logs
+        - name: file-storage
+          mountPath: /app/files
+      volumes:
+      - name: logs
+        emptyDir: {}
+      - name: file-storage
+        persistentVolumeClaim:
+          claimName: files-storage-pvc
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: files-service
+  namespace: openpolicy
+  labels:
+    app: files-service
+    tier: api
+spec:
+  type: ClusterIP
+  ports:
+  - port: 8015
+    targetPort: 8015
+    protocol: TCP
+    name: http
+  selector:
+    app: files-service
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: files-storage-pvc
+  namespace: openpolicy
+spec:
+  accessModes:
+    - ReadWriteMany
+  resources:
+    requests:
+      storage: 10Gi
+  storageClassName: standard

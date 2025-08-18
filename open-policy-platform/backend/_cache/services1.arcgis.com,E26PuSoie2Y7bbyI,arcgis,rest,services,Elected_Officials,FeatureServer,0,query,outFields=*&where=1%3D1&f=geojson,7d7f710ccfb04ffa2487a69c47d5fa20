@@ -1,0 +1,32 @@
+status: 200
+encoding: utf-8
+Content-Type: application/json; charset=utf-8
+Content-Length: 845
+Connection: keep-alive
+Access-Control-Allow-Credentials: true
+Content-Encoding: gzip
+Last-Modified: Fri, 23 Jul 2021 12:27:08 GMT
+Request-Context: appId=cid-v1:02d88829-cd35-4b36-83db-f89bb9f85514, appId=cid-v1:3e4b9f12-ca59-424b-b320-0c429e32d54c
+x-arcgis-upstream: us1h01c00
+Strict-Transport-Security: max-age=63072000
+X-ArcGIS-Trace-Id: sYoc7W91Aupmp3PbM4JZZGlaGy-XqVDHX3XJynDNiNThvoYaQjnIcQ==
+x-esri-query-request-units: 2
+x-esri-tiles-basic-query-mode: true
+x-esri-tiles-basic-query-type: Basic
+x-esri-org-request-units-per-min: usage=2;max=6000
+X-ArcGIS-Correlation-Id: 00-561a470aa5ac2c96fe8d8276cfbfd260-871daefff3461d6b-00
+X-ArcGIS-Instance: i7tdixsfq00000N
+Access-Control-Expose-Headers: Request-Context
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: Content-Type, Authorization, X-Esri-Authorization
+Cache-Control: public, max-age=30, s-maxage=30
+Date: Sat, 09 Aug 2025 05:44:51 GMT
+ETag: sd90709_948675493
+Vary: X-Esri-Authorization
+X-Cache: Hit from cloudfront
+Via: 1.1 93dd261beb8bff4a306c0517cbe46df0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: YTO53-P1
+X-Amz-Cf-Id: lbnZMHnSCZvPVTfZHORicCOtHbL3l3gVDoVVJLSolxI89KBc2vZR2w==
+Age: 16
+
+{"type":"FeatureCollection","features":[{"type":"Feature","id":1,"geometry":null,"properties":{"OBJECTID":1,"ID":1,"WARDNUM":0,"WardName":"Moncton","Name":"Monique LeBlanc","Primary_role":"Councillor at Large","Email":"monique.leblanc@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/moniqueleblanc.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":2,"geometry":null,"properties":{"OBJECTID":2,"ID":2,"WARDNUM":0,"WardName":"Moncton","Name":"Marty Kingston","Primary_role":"Councillor at Large","Email":"marty.kingston@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/martykingson.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 866-8069","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":3,"geometry":null,"properties":{"OBJECTID":3,"ID":3,"WARDNUM":0,"WardName":"Moncton","Name":"Dawn Arnold","Primary_role":"Mayor","Email":"mayor@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/dawnarnold.jpg","Source_URL":"","Website":"","Address_line_1":"655 Main Street","Address_line_2":"","Locality":"Moncton","Province":"NB","Postal_code":"E1C 1E8","Phone":"1 506 856-4343","Fax":"1 506 853-3553","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":4,"geometry":null,"properties":{"OBJECTID":4,"ID":4,"WARDNUM":1,"WardName":"1","Name":"Paulette Thériault","Primary_role":"Councillor","Email":"paulette.theriault@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/paulettetheriault.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 863-3990","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":5,"geometry":null,"properties":{"OBJECTID":5,"ID":5,"WARDNUM":1,"WardName":"1","Name":"Shawn Crossman","Primary_role":"Councillor","Email":"shawn.crossman@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/shawncrossman.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 961-0827","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":6,"geometry":null,"properties":{"OBJECTID":6,"ID":6,"WARDNUM":2,"WardName":"2","Name":"Daniel Bourgeois","Primary_role":"Councillor","Email":"daniel.bourgeois@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/danielbourgeois.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 850-6382","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":7,"geometry":null,"properties":{"OBJECTID":7,"ID":7,"WARDNUM":2,"WardName":"2","Name":"Charles Léger","Primary_role":"Councillor","Email":"charles.leger@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/charlesleger.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 871-6746","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":8,"geometry":null,"properties":{"OBJECTID":8,"ID":8,"WARDNUM":3,"WardName":"3","Name":"Bryan Butler","Primary_role":"Councillor","Email":"bryan.butler@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/bryanbutler.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 961-6932","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":9,"geometry":null,"properties":{"OBJECTID":9,"ID":9,"WARDNUM":3,"WardName":"3","Name":"Dave Steeves","Primary_role":"Councillor","Email":"dave.steeves@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/davesteeves.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 962-7888","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":10,"geometry":null,"properties":{"OBJECTID":10,"ID":10,"WARDNUM":4,"WardName":"4","Name":"Paul Richard","Primary_role":"Councillor","Email":"paul.richard@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/paulrichard.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 961-3444","Fax":"","Cell":"","Facebook":"","Twitter":""}},{"type":"Feature","id":11,"geometry":null,"properties":{"OBJECTID":11,"ID":11,"WARDNUM":4,"WardName":"4","Name":"Susan Edgett","Primary_role":"Councillor","Email":"susan.edgett@moncton.ca","Photo_URL":"https://www5.moncton.ca/docs/photos/susanedgett.jpg","Source_URL":"","Website":"","Address_line_1":"","Address_line_2":"","Locality":"","Province":"","Postal_code":"","Phone":"1 506 871-1135","Fax":"","Cell":"","Facebook":"","Twitter":""}}]}

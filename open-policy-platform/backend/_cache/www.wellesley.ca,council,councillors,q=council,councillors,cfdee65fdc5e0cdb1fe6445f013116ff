@@ -1,0 +1,1188 @@
+status: 200
+encoding: utf-8
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: 
+X-AspNet-Version: 4.0.30319
+X-Powered-By: 
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Sat, 09 Aug 2025 05:44:58 GMT
+Content-Length: 26371
+
+
+
+<!DOCTYPE html>
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript">
+    var esol_ico_width = 0;
+
+    try {
+        esol_ico_width = window.innerWidth
+            || document.documentElement.clientWidth
+            || document.body.clientWidth;
+    } catch (err) { }
+
+    var iCreateObject =
+    {
+        isSiteInICreateMode: "False".toLowerCase() == "true",
+        lang: "en",
+        isIe8: false,
+        corpHome: "https://www.wellesley.ca/",
+        corpRoot: "/",
+        gaTrackingCode: '',
+        isSiteInLocalDevelopment: 'False'.toLowerCase() == "true",
+        calendarUrl: 'https://calendar.wellesley.ca/',
+        isSiteInPreviewMode: 'False'.toLowerCase() == "true",
+        newsFeeds: {},
+        isMobile: esol_ico_width <= 767,
+        iCreateTheme: ''
+    }
+
+    var myStringArray = "".split(',');
+    for(var i = 0; i < myStringArray.length; i++)
+    {
+        var mySubstring = myStringArray[i].split('|');
+        iCreateObject.newsFeeds[mySubstring[0]] = mySubstring[1];
+    }
+
+    try {
+        if (document.location.href.toLowerCase().indexOf('https://') == 0) {
+            iCreateObject.corpHome = 'https://' + iCreateObject.corpHome.substring(8);
+        }
+    } catch (err) { }
+
+    if (iCreateObject.isSiteInLocalDevelopment)
+        console.log(iCreateObject);
+
+</script>
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+
+<!--This is only needed if you are using the Google translate widget-->
+<meta name="google-translate-customization" content="64f17b6d9cb6233b-e59f9de7b0b09f30-g4ca0816f9369ddc5-e"/>
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet" type="text/css">
+<link href="/Common/styles/styles.css?v=1" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Common/styles/icreate.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/Common/styles/print.css" rel="stylesheet" type="text/css" media="print" />
+<link href="https://js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelementplayer.min.css" rel="stylesheet" type="text/css" media="screen" />
+
+<link href="https://customer.cludo.com/css/overlay/cludo-search-default.min.css" type="text/css" rel="stylesheet" />
+<!--[if lte IE 9]>
+<script src="https://api.cludo.com/scripts/xdomain.js" slave="https://api.cludo.com/proxy.html" type="text/javascript"></script>
+<![endif]-->
+
+<!-- Modernizr needs to be in head to preview FOUC. Best after stylesheet references -->
+<script type="text/javascript" src="/Common/scripts/modernizr.min.js"></script>
+
+<!--[if lt IE 9]>
+    <script src="http://js.esolutionsgroup.ca/js/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery/1.11.2/jquery.min.js"></script>
+<link href="https://js.esolutionsgroup.ca/js/libs/jquery-ui/1.10.4/resources/themes/base/jquery-ui.min.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery-ui/1.11.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_cookie/1.4.0/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/hover-intent/1.8.0/jquery.hoverIntent.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_superfish/1.7.4/superfish.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelement-and-player.min.js"></script>
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/icreate-date/1.0.0/icrt-toDateTimeString.min.js"></script>
+<script type="text/javascript" src='/Common/scripts/general.js'></script>
+<script type="text/javascript" src='/Common/scripts/quicklinks-dropdown.js'></script>
+<script type="text/javascript" src='/Modules/email/scripts/email.js'></script>
+<link href="https://js.esolutionsgroup.ca/js/libs/jquery_contextmenu/skins/1.0.0/contextMenu.min.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_contextmenu/1.0.0/jquery.contextMenu.min.js"></script>
+<script type="text/javascript">
+  $(function () {
+    // Drop-down lists
+    $('#nav').superfish({ cssArrows: false, speed: (iCreateObject.isIe8 ? 0 : 'normal'), speedOut: (iCreateObject.isIe8 ? 0 : 'fast') });
+
+		if (!iCreateObject.isSiteInICreateMode) {
+		    $('video,audio').mediaelementplayer({
+			    // if the <video width> is not specified, this is the default
+			    defaultVideoWidth: 480,
+			    // if the <video height> is not specified, this is the default
+			    defaultVideoHeight: 270,
+			    // if set, overrides <video width>
+			    videoWidth: -1,
+			    // if set, overrides <video height>
+			    videoHeight: -1,
+			    // width of audio player
+			    audioWidth: 400,
+			    // height of audio player
+			    audioHeight: 30,
+			    // initial volume when the player starts
+			    startVolume: 0.8,
+			    // useful for <audio> player loops
+			    loop: false,
+			    // enables Flash and Silverlight to resize to content size
+			    enableAutosize: true,
+			    // the order of controls you want on the control bar (and other plugins below)
+			    features: ['playpause', 'progress', 'current', 'duration', 'tracks', 'volume', 'fullscreen'],
+			    // Hide controls when playing and mouse is not over the video
+			    alwaysShowControls: false,
+			    // force iPad's native controls
+			    iPadUseNativeControls: false,
+			    // force iPhone's native controls
+			    iPhoneUseNativeControls: false,
+			    // force Android's native controls
+			    AndroidUseNativeControls: false,
+			    // forces the hour marker (##:00:00)
+			    alwaysShowHours: false,
+			    // show framecount in timecode (##:00:00:00)
+			    showTimecodeFrameCount: false,
+			    // used when showTimecodeFrameCount is set to true
+			    framesPerSecond: 25,
+			    // turns keyboard support on and off for this instance
+			    enableKeyboard: true,
+			    // when this player starts, it will pause other players
+			    pauseOtherPlayers: true,
+			    // array of keyboard commands
+			    keyActions: []
+			});
+		}
+  });
+
+  function PrintScreen() {
+      if (iCreateObject.isSiteInICreateMode) {
+          showNAMessage();
+      } else {
+          window.print();
+      }
+  }
+</script>
+<!-- Video Playlist Player Styles -->
+<link rel="stylesheet" type="text/css" href="/Common/styles/video_playlist_player/video_playlist_player.css" />
+
+<!-- Video Playlist Player Scripts -->
+<script type="text/javascript" src="/Common/scripts/video-playlist.min.js"></script>
+<!--<script type="text/javascript" src="../scripts/video-playlist-init.js"></script>-->
+
+<!-- YouTube init script -->
+<script type="text/javascript" src='/Common/scripts/youTubePlayer.js'></script>
+
+<link href='/Modules/Contact/styles/ContactsExtended.css' rel="stylesheet" media="screen" type="text/css" />
+
+    <script src='/Modules/Contact/scripts/contactsV2.js' type="text/javascript"></script>
+
+
+<!-- Twitter Timeline -->
+<script>
+	window.twttr = (function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0],
+      t = window.twttr || {};
+    if (d.getElementById(id)) return t;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "https://platform.twitter.com/widgets.js";
+    fjs.parentNode.insertBefore(js, fjs);
+
+    t._e = [];
+    t.ready = function (f) {
+        t._e.push(f);
+    };
+
+    return t;
+}(document, "script", "twitter-wjs"));
+</script>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/Common/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/Common/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/Common/favicon-16x16.png" sizes="16x16">
+<link rel="shortcut icon" href="/Common/favicon.ico">
+<link rel="manifest" href="/Common/manifest.json">
+<link rel="mask-icon" href="/Common/safari-pinned-tab.svg" color="#262626">
+<meta name="msapplication-config" content="/Common/browserconfig.xml">
+<meta name="theme-color" content="#262626">
+
+
+
+<link href="/Common/styles/int.css" rel="stylesheet" type="text/css" media="screen" />
+
+<script type="text/javascript">
+    if (!$("script[src='https://js.esolutionsgroup.ca/js/libs/ios_slider/structure/1.3.43/jquery.iosslider.min.js']").length) {
+        var script = document.createElement('script');
+        script.setAttribute('src', 'https://js.esolutionsgroup.ca/js/libs/ios_slider/structure/1.3.43/jquery.iosslider.min.js');
+        script.setAttribute('type', 'text/javascript');
+        $('head').append(script);
+    }
+</script>
+<script type="text/javascript">
+    $(function() {
+		if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+		    $("#Share a.ShareLink").click(function (event) {
+		        if (iCreateObject.isSiteInICreateMode) {
+		            showNAMessage();
+		        }
+		        else {
+		            event.preventDefault();
+		            $("#Share").trigger("mouseenter");
+		        }
+		    });
+		} 
+
+    });
+</script>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        if (!iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode) {
+
+            var contentWidth = ($('#mainContent').width());
+            var contentTable = $('#printAreaContent table');
+
+            $('#printAreaContent table').each(function () {
+                if ($(this).width() > contentWidth) {
+                    $(this).wrap('<div class="tableContainer" />');
+                    var wideTable = $(this).addClass('wideTable');
+                }
+                var wideTableContainer = $(wideTable).parent();
+                $('<div class="tableContainerHead">Scroll right to view complete table</div>"').insertBefore(wideTableContainer);
+
+            });
+
+            $(".AccordionTrigger").on("click", function () {
+                $('#printAreaContent .AccordionContent table').each(function () {
+                    var width = $(this).parent(".AccordionContent").width();
+                    if (width > 0 && $(this).width() > width && !$(this).hasClass("wideTable")) {
+                        $(this).wrap('<div class="tableContainer" />');
+                        var wideTable = $(this).addClass('wideTable');
+                    }
+                    var wideTableContainer = $(wideTable).parent();
+                    $('<div class="tableContainerHead">Scroll right to view complete table</div>"').insertBefore(wideTableContainer);
+
+                });
+            });
+        }
+    });
+</script>
+
+<script type="text/javascript" src='/Common/scripts/icrtShortcut.js'></script>
+<script type="text/javascript">
+    if (typeof String.prototype.endsWith !== 'function') {
+        String.prototype.endsWith = function (suffix) {
+            return this.indexOf(suffix, this.length - suffix.length) !== -1;
+        };
+    }
+    $(document).ready(function () {
+        var redirectUrl;
+        if (location.href.indexOf('/edit_') > -1) {
+            redirectUrl = location.href.replace('/edit_', '/');
+        } else {
+            var icreateBaseUrl = 'https://icreate7.esolutionsgroup.ca/';
+            if (!icreateBaseUrl.endsWith('/')) {
+                icreateBaseUrl += '/';
+            }
+            
+            redirectUrl = icreateBaseUrl + 'icreate/modules/pageeditor3/page.srv?pageUrl=' + encodeURIComponent(location.href.trim().split("#", 1));
+            
+        }
+        $(document).icrtShortcut({
+            shortcutKey: 'ctrl_ctrl',
+            redirectUrl: redirectUrl
+        });
+    });
+
+</script>
+
+<title>
+	
+     
+        Mayor and Council
+     - Township of Wellesley
+</title>
+        <meta name="description" content="" />
+
+<meta property="dcterms.issued" content="2025-05-13T17:52:26-0400" />
+<meta property="og:title" content="Mayor and Council" />
+<meta property="og:url" content="https://www.wellesley.ca/en/township-services/mayor-and-council.aspx" />
+<link rel="alternate" hreflang="x-default" href="https://www.wellesley.ca/en/township-services/mayor-and-council.aspx" />
+<link rel="canonical" href="https://www.wellesley.ca/en/township-services/mayor-and-council.aspx" /><script type="text/javascript" src="/Modules/News/scripts/jquery.EmergencyAlertBanners.js"></script><link rel="stylesheet" type="text/css" media="screen" href="/Modules/News/styles/EmergencyAlertBanners.css"></link><script type="text/javascript" src="/Common/scripts/textSize.js"></script><script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/feedback-form/structure/2.6.0/feedbackStructure.min.js?v=1"></script><script type="text/javascript">$(function(){$("#feedbackLink").feedbackForm({
+useDefaultIfNoIdIsSet: "True".toLowerCase() == "true",
+baseUrl: "https://icreate7.esolutionsgroup.ca/feedback/api/1.0/",
+getUrl: "client/11111046_WellesleyTownship/default-form/en",
+jsServerUrl: "https://js.esolutionsgroup.ca/js/libs/feedback-form/",
+previewMode: false,
+showButton: true,
+pageTitle: document.title.replace(" - Township of Wellesley", "").trim(),
+buttonText: "",
+feedbackFormId: $("#FeedbackFormId") === undefined ? "" : $("#FeedbackFormId").val(),
+language: 'en'
+})});</script><script type="text/javascript" src="/Modules/Polling/PollModule.js"></script><script type="text/javascript" src="https://js.esolutionsgroup.ca/js/libs/jquery_gallery/1.2.4/jquery.gallery.min.js"></script><script type="text/javascript">$(function () {
+    $(".eSolutionsGroupPhotoGalleryV2PlaceholderDiv").each(function () {
+        var method = $(this).attr("method");
+        var id = $(this).attr("id");
+        if (id != '') {
+            $(this).load(id, function () { return method; })
+        } else {
+            $(this).html('');
+        }
+    })
+});</script></head>
+<body>
+    <div class='	'>
+     
+<script type="text/javascript">
+    function HideEmergencyAlertBanners() {
+        if(! jQuery('#EmergencyBannerWrapperOuter').hasClass("hide")){
+            jQuery('#EmergencyBannerWrapperOuter').addClass("hide");
+		}
+        jQuery.cookie('seenAlertBanner', 1, { path: "/" });
+    }
+
+    jQuery(function () {
+        if (iCreateObject.corpHome.indexOf(document.location.hostname) >= 0) {
+            if ((document.location.href.toLowerCase().indexOf('/edit_') == -1) && (jQuery.cookie('seenAlertBanner') != 1) && iCreateObject.isSiteInICreateMode == false) {
+                jQuery.getJSON(iCreateObject.corpHome + '/Modules/News/services/getAlertBannerFeeds.ashx?feedId=ec21c5d4-bae1-401d-a047-b4f5168e02db&callback=?',
+	                function (result) {
+	                    var results = "";
+	                    jQuery.each(result, function (index, element) {
+	                        results += "<div class=\"alertbanner " + element.Categories[0].Code + "\"><div class=\"EmergencyBannerTitle\">" + element.Title + "</div><div class=\"EmergencyBannerText\">" + element.Description;
+	                        if (element.Attachments && element.Attachments.length > 0) {
+                                results += "<div class=\"EmergencyBannerAttachments\"><p class=\"AttachmentTitle\">Attachments</p><ul>"
+	                        }
+	                        jQuery.each(element.Attachments, function (index, attachment) {
+	                            results += "<li><a title=\"Click to view \"" + attachment.DisplayName + "\" href=\"https://icreate7.esolutionsgroup.ca/230002_iCreate_NewsV2/Management/Attachment/Download/"+attachment.Id+"\" target=\"_blank\">" + attachment.DisplayName + "</a></li>"
+	                        });
+	                        if (element.Attachments && element.Attachments.length > 0) {
+	                            results += "</ul></div>"
+	                        }
+	                        results+="</div></div>";
+	                    });
+	                    if (results != "") {
+	                        jQuery("#emergencyAlertBanners").append(results);
+	                        jQuery("#emergencyAlertBanners").children(".alertbanner:first").addClass("default");
+	                        jQuery("#EmergencyBannerWrapperOuter").removeClass("hide");
+	                        jQuery("#emergencyAlertBanners").rotating_EmergencyAlertBanners();
+	                    }
+	                }
+	            );
+            }
+        }
+    });
+		
+</script>
+
+<div id="EmergencyBannerWrapperOuter" class="hide">
+	<div id="EmergencyBanner" style="display: block;" class="nocontent">
+        <div id="emergencyAlertBanners" class="bannerContainer">	
+            <div id="EmergencyBannerClose">
+			    <a class="Close" href="#" onclick="javascript: HideEmergencyAlertBanners();">Close</a>
+		    </div> 	                          
+		</div>
+	</div>
+</div>
+
+	 
+<script type="text/javascript">
+    function HideBrowserAlertBanners() {
+        jQuery("#BrowserBannerWrapperOuter").addClass("hide");
+        jQuery.cookie("seenBrowserBanner", 1, {path: "/"});
+    }
+</script>
+
+
+<script type="text/javascript">
+if(/msie ((1[0])|[1-9]\.)/i.exec(navigator.userAgent))
+{
+    jQuery(function () {
+        if ((document.location.href.toLowerCase().indexOf("/edit_") == -1) && (jQuery.cookie("seenBrowserBanner") != 1)) {
+            jQuery("#BrowserBannerWrapperOuter").removeClass("hide");
+        }
+    });
+}
+</script>
+
+<div id="BrowserBannerWrapperOuter" class="hide">
+	<div id="BrowserBanner" class="nocontent">
+        <div id="browserAlertBanners" class="bannerContainer">	
+            <div id="BrowserBannerClose"> 
+			    <a href="#" onclick="javascript: HideBrowserAlertBanners();">Close</a>
+		    </div> 			                    
+			<div class="alertbanner browserAlert">
+				<div class="BrowserBannerTitle">Browser Compatibility Notification</div>
+				<div class="BrowserBannerText">It appears you are trying to access this site using an outdated browser.  As a result, parts of the site may not function properly for you.  We recommend updating your browser to its most recent version at your earliest convenience.</div>
+		 	</div>
+		</div>
+	</div>
+</div>
+    
+    
+        <input type="hidden" name="FeedbackFormId" id="FeedbackFormId" value="" />
+    
+        
+    <div id="intBg"><div id="intBgImage"><img src="/en/rotatingimages/background_defaultInterior/snow-plow.jpg" alt="Winter picture" /></div></div>
+
+    <div id="uber" class='interior navTab00'>
+        
+<div id="skipContentWrapper" class="nocontent">			
+    <a id="skipContentLink" title="Skip Navigation and go to Content" href="#mainContent">Skip to Content</a>			
+</div>
+        <header class="nocontent">
+            <div class="headerWrapper">
+                <div id="headerLeft">
+                    <div id="logo" title="View our Homepage">
+                        
+<p class="defaultLogo">
+    <a href="/en/index.aspx" title="Click to return to the homepage">
+        <img src="/en/images/structure/logo.svg" alt="Township of Wellesley Logo">
+    </a>
+</p>
+
+                        
+    
+                    </div>
+                    
+<script type="text/javascript">
+    var _element = $('#logo');
+    _title = _element.attr('title');
+
+    if(($('div#logo img').length) || ($('div#logo').has('div.eSolutionsGroupPhotoGalleryV2PlaceholderDiv').length)) {
+        _element.addClass('hasImage');
+        if (iCreateObject.isSiteInICreateMode) {
+            _element.css('background','none');
+        }
+    }
+    else {
+        if (iCreateObject.isSiteInICreateMode && !iCreateObject.isSiteInPreviewMode) {
+            _element.removeClass('hasImage');
+            imgsrc = '/en/images/structure/logo.svg';
+            var title = _title;
+            var url = '/en/index.aspx';
+            var target = "_self";
+            _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px #FFFFFF").css("height","89px").css("width","200px").css("background-size","contain").attr("title", jQuery.trim(title) != "" ? title : _title);
+            if (url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode) {
+                _element.attr("onclick", "javascript:window.open('" + url + "','" + target + "');");
+            }
+        }        
+    }
+  </script>
+                    
+<div class="mobileNav">
+    <!--displayed only for smaller viewports-->
+    
+    <a href="/contact">
+        <img src="/Common/images/structure/mobilenav-contact-icon.svg" alt="Contact Us" />
+    </a>
+    <a href="#" class="menuTrigger">
+        <img src="/Common/images/structure/mobilenav-menu-icon.svg" alt="Main menu icon" />
+    </a>
+</div>
+
+                </div>
+                <div id="headerRight">
+                     
+<div id="topNav">
+    <a title="View our External Agency Links page" href="/en/external-website-links.aspx">Quick Links</a><a title="View our Contact Us Page" href="/contact" id="contactLink">Contact Us</a>
+    
+</div>
+
+
+                     
+
+<nav id="mainNav">
+<ul id="nav"><li id="navTab01"><a title="View our Living Here page" href="/en/living-here/living-here.aspx" class="mainNavItem">Living <br />Here</a><div class="dropDownContainer sf-mega"><ul class="dropdown"><li><a title="View our Animal Control Services page" href="/en/living-here/animal-control-services.aspx" class="">Animal Control Services</a></li><li><a title="View our By-Law Enforcement page" href="/en/living-here/by-law-enforcement.aspx" class="">By-Law Enforcement</a></li><li><a title="View our Cemeteries page" href="/en/living-here/cemeteries.aspx" class="">Cemeteries</a></li><li><a title="View our E-Newsletter page" href="/en/living-here/e-newsletter.aspx" class="">E-Newsletter</a></li><li><a title="View our Emergency Services and Preparedness page" href="/en/living-here/emergency-services-and-preparedness.aspx" class="">Emergency Services and Preparedness</a></li><li><a title="View our Events Calendar page" href="http://calendar.wellesley.ca/" class="">Events Calendar</a></li><li><a title="View our Garbage, Recycling and Waste page" href="/en/living-here/garbage-recycling-and-waste.aspx" class="">Garbage, Recycling and Waste</a></li><li><a title="View our Grants and Special Assistance page" href="/en/living-here/grants-and-special-assistance.aspx" class="">Grants and Special Assistance</a></li><li><a title="View our Have Your Say page" href="/en/living-here/have-your-say.aspx" class="">Have Your Say</a></li><li><a title="View our Library page" href="/en/living-here/library.aspx?_mid_=10670" class="">Library</a></li></ul><ul class="dropdown"><li><a title="View our My Property page" href="/en/living-here/my-property.aspx" class="">My Property</a></li><li><a title="View our Programs and Initiatives page" href="/en/living-here/Programs-and-initiatives.aspx" class="">Partnerships and Initiatives</a></li><li><a title="View our Places of Worship page" href="/en/living-here/places-of-worship.aspx" class="">Places of Worship</a></li><li><a title="View our Planting Roots page" href="/en/township-services/planting-roots.aspx" class="">Planting Roots Tree Program</a></li><li><a title="View our Respectful Behaviour Policy page" href="/en/living-here/respectful-behaviour-policy.aspx" class="">Respectful Behaviour Policy</a></li><li><a title="View our Roads and Parking page" href="/en/living-here/roads-and-parking.aspx" class="">Roads and Parking</a></li><li><a title="View our Schools page" href="/en/living-here/schools.aspx" class="">Schools</a></li><li><a title="View our Seniors Services page" href="/en/living-here/seniors-services.aspx" class="">Seniors Services</a></li><li><a title="View our Taxes page" href="/en/living-here/taxes.aspx?_mid_=10702" class="">Taxes</a></li><li><a href="/en/living-here/living-here.aspx" title="View More for Living [\n]Here" class="viewMore">View More...</a></li></ul><div class="dropdown dropDownRight"><img alt="View our Roads and Parking page" src="/en/resourcesGeneral/dropdown-07.jpg" /><a title="View our Roads and Parking page" href="/en/living-here/roads-and-parking.aspx?_mid_=9678">Roads and Parking</a></div></div></li><li id="navTab02"><a title="View our Things To Do page" href="/en/things-to-do/things-to-do.aspx" class="mainNavItem">Things <br />To Do</a><div class="dropDownContainer sf-mega"><ul class="dropdown"><li><a title="View our Eat and Buy Local page" href="/en/things-to-do/eat-and-buy-local.aspx" class="">Eat and Buy Local</a></li><li><a title="View our Events Calendar page" href="http://calendar.wellesley.ca/?_mid_=10729" class="">Events Calendar</a></li><li><a title="View our Get Involved page" href="/en/things-to-do/get-involved.aspx" class="">Get Involved</a></li><li><a title="View our Libraries page" href="/en/living-here/library.aspx" class="">Library</a></li></ul><ul class="dropdown"><li><a title="View our Recreation and Facilities page" href="/en/things-to-do/recreation-and-facilities.aspx" class="">Recreation and Facilities</a></li><li><a title="View our Tourism page" href="/en/things-to-do/tourism.aspx" class="">Tourism</a></li><li><a title="View our Volunteering page" href="/en/township-services/volunteering.aspx?_mid_=10738" class="">Volunteering</a></li><li><a title="View our Township of Wellesley Recreation Complex page" href="/en/living-here/new-recreation-land.aspx" class="">Township of Wellesley Recreation Complex</a></li></ul><div class="dropdown dropDownRight"><img alt="View our Parks and Facilities page" src="/en/resourcesGeneral/dropdown-02.jpg" /><a title="View our Parks and Facilities page" href="http://wellesley.icreate7.esolutionsgroup.ca/Modules/Facilities/Index.aspx">Parks and Facilities</a></div></div></li><li id="navTab03"><a title="View our Doing Business page" href="/en/doing-business/doing-business.aspx" class="mainNavItem">Doing <br />Business</a><div class="dropDownContainer sf-mega"><ul class="dropdown"><li><a title="View our Applications, Licences and Permits page" href="/en/township-services/applications-licences-and-permits.aspx" class="">Applications, Licences and Permits</a></li><li><a title="View our Bids and Tenders page" href="https://wellesley.bidsandtenders.ca" class="">Bids and Tenders</a></li><li><a title="View our Building and Planning page" href="/en/doing-business/building-and-planning.aspx" class="">Building and Planning</a></li><li><a title="View our Community Profile page" href="/en/doing-business/community-profile.aspx?_mid_=10771" class="">Community Profile</a></li><li><a title="View our Economic Development in Waterloo Region page" href="/en/doing-business/economic-development-in-waterloo-region.aspx" class="">Economic Development in Waterloo Region</a></li></ul><ul class="dropdown"><li><a title="View our Filming in Wellesley page" href="/en/doing-business/filming-in-wellesley.aspx" class="">Filming in Wellesley</a></li><li><a title="View our Home Renovation or Construction page" href="/en/living-here/home-renovation-or-construction.aspx?_mid_=10779" class="">Home Renovation or Construction</a></li><li><a title="View our Official Plan page" href="/en/doing-business/official-plan.aspx" class="">Official Plan</a></li><li><a title="View our Reports, Studies and Plans page" href="/en/township-services/reports-studies-and-plans.aspx" class="">Reports, Studies and Plans</a></li><li><a title="View our Zoning page" href="/en/doing-business/zoning.aspx" class="">Zoning</a></li></ul><div class="dropdown dropDownRight"><img alt="View our Building and Planning page" src="/en/resourcesGeneral/dropdown-06.jpg" /><a title="View our Building and Planning page" href="/en/doing-business/building-and-planning.aspx?_mid_=9692">Building and Planning</a></div></div></li><li id="navTab04"><a title="View our Township Services page" href="/en/township-services/township-services.aspx" class="mainNavItem">Township <br />Services</a><div class="dropDownContainer sf-mega"><ul class="dropdown"><li><a title="View our A-Z-Services page" href="/Modules/AtoZ/index.aspx" class="">A-Z-Services</a></li><li><a title="View our Accessibility page" href="/en/township-services/accessibility.aspx" class="">Accessibility</a></li><li><a title="View our Agendas and Minutes page" href="http://calendar.wellesley.ca/Council" class="">Agendas and Minutes</a></li><li><a title="View our Applications, Licences and Permits page" href="/en/township-services/applications-licences-and-permits.aspx?_mid_=10793" class="">Applications, Licences and Permits</a></li><li><a title="View our Budget and Finance page" href="/en/township-services/budget-and-finance.aspx?_mid_=10794" class="">Budget and Finance</a></li><li><a title="View our By-Laws page" href="/en/township-services/by-laws.aspx" class="">By-laws</a></li><li><a title="View our Careers and Volunteering page" href="/en/township-services/careers-and-volunteering.aspx" class="">Careers and Volunteering</a></li><li><a title="View our Commissioner of Oaths page" href="/en/township-services/commissioner-of-oaths.aspx" class="">Commissioner of Oaths</a></li><li><a title="View our Contact Us page" href="/Modules/contact/search.aspx?s=NGEUTCghp6B3ZCSZMhMNEQeQuAleQuAl" class="">Contact Us</a></li><li><a title="View our Customer Service page" href="/en/township-services/customer-service.aspx" class="">Customer Service</a></li></ul><ul class="dropdown"><li><a title="View our Departments page" href="/en/township-services/departments.aspx" class="">Departments</a></li><li><a title="View our Elections page" href="/en/township-services/elections.aspx" class="">Elections</a></li><li><a title="View our Freedom of Information page" href="/en/township-services/freedom-of-information.aspx?_mid_=10813" class="">Freedom of Information</a></li><li><a title="View our Grants and Special Assistance page" href="/en/living-here/grants-and-special-assistance.aspx?_mid_=10814" class="">Grants and Special Assistance</a></li><li><a title="View our Indigenous Reconciliation page" href="/en/township-services/indigenous-reconciliation.aspx" class="">Indigenous Reconciliation</a></li><li><a title="View our Maps page" href="/en/township-services/maps.aspx?_mid_=10815" class="">Maps</a></li><li><a title="View our Marriages page" href="/en/township-services/marriages.aspx" class="">Marriages</a></li><li><a title="View our Mayor and Council page" href="/en/township-services/mayor-and-council.aspx" class="">Mayor and Council</a></li><li><a title="View our Municipal Drains page" href="/en/township-services/Municipal_Drains.aspx" class="">Municipal Drains</a></li><li><a href="/en/township-services/township-services.aspx" title="View More for Township [\n]Services" class="viewMore">View More...</a></li></ul><div class="dropdown dropDownRight"><img alt="View our Committees page" src="/en/resourcesGeneral/dropdown-05.jpg" /><a title="View our Committees page" href="/en/township-services/committees.aspx?_mid_=9699">Committees</a></div></div></li></ul><div id="idLikeTo" >    <a href="#" title="View our I'd Like To... page">
+        I'd Like To...
+    </a><div class="likeToDropDown"><ul><li><a title="View our Apply or Register Page" href="#">Apply or Register</a><ul><li><a title="View our Marriages page" href="/en/township-services/marriages.aspx">Marriage License</a></li><li><a title="View our Building Permits page" href="/en/doing-business/building-permits.aspx">Building Permit</a></li><li><a title="View our Burn Permit page" href="/en/living-here/burn-permits-and-open-air-burning.aspx">Burn Permit</a></li><li><a title="Open file in new window: Dog-Tag purchase" href="https://forms.wellesley.ca/Dog-Tag-Payment-and-Registration-Form">Dog-Tag</a></li></ul></li><li><a title="Facility Booking Information" href="/en/things-to-do/request-a-facility.aspx?_mid_=27228" target="_blank">Facility Booking Information</a></li><li><a title="View our Learn About Page" href="#">Learn About</a><ul><li><a title="View our Mayor and Council page" href="/en/township-services/mayor-and-council.aspx">Council</a></li><li><a title="View our Budget and Finance page" href="/en/township-services/budget-and-finance.aspx">Budget</a></li><li><a title="View our New to Wellesley page" href="/en/living-here/new-to-wellesley.aspx">New to Wellesley</a></li><li><a title="View our My Property page" href="/en/living-here/my-property.aspx?_mid_=14062">My Property</a></li></ul></li><li><a title="View our Report It page" href="/en/township-services/report-it.aspx?_mid_=32989" target="_blank">Report It</a></li><li><a title="View our Sign up For Page" href="#">Sign up For</a><ul><li><a title="View our Subscribe page" href="/subscribe">News and Public Notices</a></li></ul></li></ul><div class="clearfix"></div></div>
+</div>
+
+
+</nav>
+                </div>
+            </div>
+        </header>
+        
+        <a title="Customer Service" href="/en/township-services/customer-service.aspx" id="serviceLink">Customer Service</a><a title="Site Feedback" href="#" id="feedbackLink">Site Feedback</a>
+
+        <div id="main">
+            <div class="ic-container-fluid">
+                <div id="topContentWrapper">
+                    <div id="topContent">
+                        <div id="pageHeading">
+                            <h1>
+    
+        Mayor and Council
+    </h1>
+                            
+<nav class="subNavTriggerContainer nocontent">
+    <a class="subNavTrigger" href="#" title="">
+    <span class="subNavTriggerText">More</span></a>
+</nav>
+                        </div>
+                        <div class="socialMedia nocontent">
+                             
+<a href="#" id="pageSubscription" class="button nocontent" style="display:none;">Subscribe</a>
+
+    <link rel='stylesheet' href='/Modules/PageSubscription/style/PageSubscriptionForm.css' />
+    <script src="/Modules/PageSubscription/scripts/PageSubscription.js"></script>
+
+                            <button class="searchBtn" data-modal-id="popup">Search <img src="/common/images/structure/search-icon.svg" alt=""/></button>
+                            <a title="" href="https://www.facebook.com/Township-of-Wellesley-1532148360175505/" target="_blank">
+  <img alt="View our Facebook Page" src="/en/resourcesGeneral/socialicons/icon-facebook.svg" />
+</a>
+<a title="" href="https://www.engagewr.ca/engage-wellesley" target="_blank">
+  <img alt="View our Engage Page" src="/en/resourcesGeneral/socialicons/Icon-Engage-SVG.svg" />
+</a>
+<a title="" href="https://www.instagram.com/wellesleytownship/?hl=en" target="_blank">
+  <img alt="View our Instagram Page" src="/en/resourcesGeneral/socialicons/icon-instagram.svg" />
+</a>
+<a title="" href="https://www.youtube.com/@TownshipofWellesley" target="_blank">
+  <img alt="View our YouTube Page" src="/en/resourcesGeneral/socialicons/icon-youtube.svg" />
+</a>
+                        </div>
+                    </div>
+                    
+<div id="breadcrumbs" class="cf nocontent">
+
+</div>
+
+                    
+<div id="actions" role="toolbar" class="cf nocontent">
+    <div class="resizeText"><!--TODO: LANGC: Get Translations for the title texts FEATURE: Make Language Content Dynamic -->
+        
+             <a class="textDecrease" href="#" role="button" title="Decrease text size"></a>
+            <a class="textDefault" href="#" role="button" title="Default text size"></a>
+            <a class="textIncrease" href="#" role="button" title="Increase text size"></a> 
+            
+        
+    </div>
+    <input type="hidden" id="hdnContent" name="hdnContent" />
+	<input type="hidden" id="hdnPage" name="hdnPage" />
+    <!-- <div>
+        <a id="emailLink" href="#" title="" class="emailLink" onClick="javascript: mailTo(event);">
+			<img src="/Common/images/actions/email.svg" alt="Email This Page" /></a>
+    </div>
+	-->
+
+    
+    <div class="actionItem">
+        <a id="printLink" class="printLink" title="Print This Page" href="javascript: PrintScreen();"></a>
+    </div>
+    
+<div id="Share" class="share">
+	<a class="ShareLink" href="javascript: void(0);" title="Share This Page">	</a>
+    
+	<ul id="ShareItemsPlaceholder" class="shareDropDown">
+        <li>
+            <a href="http://www.facebook.com/sharer.php?u=http%3a%2f%2fwww.wellesley.ca%2fen%2ftownship-services%2fmayor-and-council.aspx%3fq%3dcouncil%2fcouncillors" title="" target="_blank">
+                <img src="/Common/images/share/facebook.gif" alt="Open new window to share this page via Facebook" />
+                <span>Facebook</span>
+            </a>
+        </li>
+        <li>
+            <a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fwww.wellesley.ca%2fen%2ftownship-services%2fmayor-and-council.aspx%3fq%3dcouncil%2fcouncillors" title="" target="_blank">
+                <img src="/Common/images/share/linkedin.gif" alt="Open new window to share this page via LinkedIn" />
+                <span>LinkedIn</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="http://twitter.com/home?status=Check+out+http%3a%2f%2fwww.wellesley.ca%2fen%2ftownship-services%2fmayor-and-council.aspx%3fq%3dcouncil%2fcouncillors" title="" target="_blank">
+                <img src="/Common/images/share/twitter.gif" alt="Open new window to share this page via Twitter" />
+                <span>Twitter</span>
+            </a>
+        </li>
+
+        <li>
+            <a id="emailLink" href="#" onclick="javascript: mailTo(event);" title="">
+                <img src="/Common/images/share/email.png" alt="Email This page" />
+                
+                    <span>Email</span>
+                
+            </a>
+        </li>
+	</ul>
+    
+    <script type="text/javascript">
+        if (!iCreateObject.isSiteInICreateMode) {
+            $("#ShareItemsPlaceholder li").last().addClass("last");
+        }
+        else
+        {
+            $("#ShareItemsPlaceholder").empty();
+        }
+
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry/i.test(navigator.userAgent)) {
+            $("#Share a.ShareLink").click(function (event) {
+                if (iCreateObject.isSiteInICreateMode) {
+                    showNAMessage();
+                }
+                else {
+                    event.preventDefault();
+                    $("#Share").trigger("mouseenter");
+                }
+            });
+        }
+
+        if (iCreateObject.lang == 'fr') {
+            $("#Share a.ShareLink").attr("title", "Partager cette page");
+
+            $("#ShareItemsPlaceholder li a").each(function () {
+                $(this).attr("title", $(this).attr("title").replace("Open new window to share this page via", "Ouvrir une nouvelle fen�tre pour partager cette page avec"));
+            });
+        }
+        
+    </script>
+</div>
+	
+</div>
+
+
+                </div>
+            
+                <div id="subNavWrapper" class="nocontent">
+                    <nav id="subNavContainer">
+                        <ul class="subNav"><li></li></ul>
+                    </nav>
+                </div> 
+                         
+                <div id="contentInt">
+                    <div id="mainContent" tabindex="-1">
+                        <div id="printArea">
+                            <div style="display: none;" class="icreateTokenWrapper">
+                                
+    
+        <form id="frmToggleContent" action="#"><input id="hdnHideLeftContent" value="" type="hidden"><input id="hdnHideBannerImage" value="" type="hidden"><input id="hdnHideContact" value="" type="hidden"><input id="btnToggleContent" name="btnToggleContent" class="hideButton" type="submit"></form>
+    
+                            </div>
+                       
+                            <div id="intBanner">
+                                <div id="intBannerImage" class="nocontent">
+                                    
+    
+        <p><img title="Mayor and Council 2014-2018" src="/en/township-services/resources/2022-2026-Township-of-Wellesley-Council---For-Print.jpg" alt="Mayor and Council 2014-2018"></p>
+    
+                                    
+                                </div>          
+                                <script type="text/javascript">
+      var _element = $('#intBannerImage');
+      _title = _element.attr('title');
+
+      if(($('div#intBannerImage img').length) || ($('div#intBannerImage').has('div.eSolutionsGroupPhotoGalleryV2PlaceholderDiv').length)) {
+      if (iCreateObject.isSiteInICreateMode ) {
+      _element.css('background','none');
+      _element.addClass('hasImage');
+      }
+      else{
+      _element.addClass('hasImage');
+      }
+
+      } else {
+      if (iCreateObject.isSiteInICreateMode && !iCreateObject.isSiteInPreviewMode) {
+      _element.removeClass('hasImage');
+      var interiorBanners = [
+        repSingleQuote("/en/rotatingimages/defaultInterior/Countryside3.jpg")];
+      var titles = [
+        repSingleQuote("Default Interior Banner")];
+      var urls = [
+        ""];
+      var newWindows = [false];
+      if (interiorBanners.length != 0) {
+      var num = Math.floor(Math.random() * ( (interiorBanners.length - 1) + 1));
+      imgsrc = interiorBanners[num];
+      var title = titles[num];
+      var url = urls[num];
+      var target = newWindows[num]?"_blank":"_self";
+      _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px #FFFFFF").attr("title", jQuery.trim(title) != "" ? title : _title);
+      if(url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode){
+      _element.attr("onclick","javascript:window.open('"+url+"','"+target+"');");
+      }
+      } else {
+      var defaultBanners = [
+        repSingleQuote("/en/rotatingimages/defaultInterior/Countryside3.jpg")];
+      var defaultTitles = [
+        repSingleQuote("Default Interior Banner")];
+      var defaultUrls = [
+        ""];
+      var defaultNewWindows = [false];
+      if (defaultBanners.length != 0) {
+      var num = Math.floor(Math.random() * ( (defaultBanners.length - 1) + 1));
+      imgsrc = defaultBanners[num];
+      var title = defaultTitles[num];
+      _element.css("background", "url(" + imgsrc + ") no-repeat 0px 0px #FFFFFF").attr("title", jQuery.trim(title) != "" ? title : _title);
+      if(url != '' && !iCreateObject.isSiteInICreateMode || iCreateObject.isSiteInPreviewMode){
+      _element.attr("onclick","javascript:window.open('"+url+"','"+target+"');");
+      }
+      }
+      }
+      }
+      }
+    </script>
+                            </div>
+
+                            <div id="printAreaContent" tabindex="-1">
+                                
+    
+        <h2 class="Left">Mayor and Council&nbsp;2022 - 2026</h2>
+<p>Standing: Derek Brick- Ward Three Councillor; Claude Hergott - Ward Four Councillor</p>
+<p>Seated: Shelley Wagner - Ward One Councillor; Mayor Joe Nowak; Lori Sebben - Ward Two Councillor</p>
+<table class="icrtAccordion" border="0">
+<tbody>
+<tr>
+<td data-name="accParent">
+<h2>Mayor</h2>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">Mayor Joe Nowak is serving his third term as Mayor for the Township of Wellesley.
+<p><a title="Open new window to send an email to Joe Nowak" href="javascript:emailContactV2('5lA5HKfKhWHcTvZ00C2LqkUXmweQuAleQuAl')&amp;&amp;false">Email Mayor Nowak</a></p>
+<p>Phone: 519-504-1834</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h2>Council</h2>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<table class="icrtAccordion" border="0">
+<tbody>
+<tr>
+<td data-name="accParent">
+<h3>Ward One</h3>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">Councillor Shelley Wagner is serving her fifth term as Councillor for Ward One.
+<p><a title="Open new window to send an email to Shelley Wagner" href="javascript:emailContactV2('dxzv1gzlK2vtwuRbYrN8pgeQuAleQuAl')&amp;&amp;false">Email Councillor Wagner</a></p>
+<p>Phone: 519-503-0657</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h3>Ward Two</h3>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">Councillor Lori Sebben is serving her first term as Councillor for Ward Two.
+<p><a title="Open new window to view Email Councillor Sebben" rel="noopener noreferrer" href="mailto:lsebben@wellesley.ca" target="_blank" aria-label="Email Councillor Sebben opens in new window">Email Councillor Sebben</a></p>
+<p>Phone: 519-504-7707</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h3>Ward Three</h3>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">Councillor Derek Brick is serving his first term as Councillor for Ward Three.
+<p><a title="Open new window to view Email Councillor Brick" rel="noopener noreferrer" href="mailto:dbrick@wellesley.ca" target="_blank" aria-label="Email Councillor Brick opens in new window">Email Councillor Brick</a></p>
+<p>Phone: 519-503-0618</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h3>Ward Four</h3>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">Councillor Claude Hergott is serving his first term as Councillor for Ward Four.
+<p><a title="Open new window to view Email Councillor Hergott" rel="noopener noreferrer" href="mailto:chergott@wellesley.ca" target="_blank" aria-label="Email Councillor Hergott opens in new window">Email Councillor Hergott</a></p>
+<p>Phone: 519-503-0826</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 class="Left">Council and Committee of the Whole Meetings</h2>
+<p class="Left">Council and Committee of the Whole&nbsp;Meetings are held in the historic Township of Wellesley Council Chambers. Committee of the Whole meetings begin at 5:45p.m. and Council meetings begin at 6:45pm.</p>
+<h3 class="defaultButton-Green Center"><a title="Open new window to view 2025 Council and Committee of the Whole Meeting Schedule" rel="noopener noreferrer" href="/en/township-services/resources/2025-Council-Meeting-Schedule---Council-Approved---Revised.pdf" target="_blank" aria-label="2025 Council and Committee of the Whole Meeting Schedule opens in new window">2025 Council and Committee of the Whole Meeting Schedule</a></h3>
+<h2>Disclosures of Pecuniary Interest</h2>
+<p>All members of Council, local boards and committees have an obligation to act honestly and responsibly when making decisions or giving advice on Council, board or committee matters. This obligation includes the disclosure of pecuniary interest.</p>
+<p>A pecuniary interest refers to a situation where a member has a direct or indirect conflict related to a matter under consideration. A full explanation of direct and indirect pecuniary interests can be found in the <a href="https://www.ontario.ca/laws/statute/90m50/v15?search=e+laws#top">Municipal Conflict of Interest Act</a>.</p>
+<p>The onus is on the member to determine whether they are affected by the pecuniary interest provisions. All members must submit their disclosures of pecuniary interest in writing to the Clerk immediately following the meeting during which they verbally disclose a pecuniary interest using the online <a href="https://forms.wellesley.ca/Declaration-of-Pecuniary-Interest">Disclosure of Pecuniary Interest Form</a>.</p>
+<table class=" datatable" style="width: 100%;" border="0" cellspacing="0" cellpadding="0"><caption>Registry of Disclosure of Pecuniary Interest</caption>
+<tbody>
+<tr class="titlerow"><th scope="col">Council Member</th><th scope="col">Meeting</th><th scope="col">
+<p>Date of Disclosure</p>
+</th></tr>
+<tr class="row">
+<td>Councillor Lori Sebben</td>
+<td>Committee of the Whole Meeting held February 27, 2024</td>
+<td><a title="Open new window to view 2024/03/13 Declaration of Pecuniary Interest" rel="noopener noreferrer" href="/en/township-services/resources/Disclosure-of-Pecuniary-Interest/Declaration-of-Pecuniary-Interest---Councillor-Lori-Sebben---March-13-2024.pdf" target="_blank" aria-label="2024/03/13 opens in new window">2024/03/13</a></td>
+</tr>
+<tr class="altrow">
+<td>Councillor Claude Hergott</td>
+<td>Council Meeting held March 12, 2024</td>
+<td><a title="Open new window to view 2024/03/13 Declaration of Pecuniary Interest" rel="noopener noreferrer" href="/en/township-services/resources/Disclosure-of-Pecuniary-Interest/Declaration-of-Pecuniary-Interest---Councillor-Claude-Hergott---March-13-2024.pdf" target="_blank" aria-label="2024/03/13 opens in new window">2024/03/13</a></td>
+</tr>
+<tr class="altrow">
+<td>Councillor Derek Brick</td>
+<td>Committee of the Whole Meeting held March 25, 2025</td>
+<td><a title="Open new window to view 2025/04/08" rel="noopener noreferrer" href="/en/township-services/resources/Disclosure-of-Pecuniary-Interest/Declaration-of-Pecuniary-Interest---Councillor-Derek-Brick---March-25-2025.pdf" target="_blank" aria-label="2025/04/08 opens in new window">2025/04/08</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<table class="icrtAccordion" border="0">
+<tbody>
+<tr>
+<td data-name="accParent">
+<h2>Speak Before Council</h2>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<div id="printAreaContent">
+<p>All Meetings of Council are open to the public unless they are a Closed Meeting under Section 239 (2) of the <a title="Open new window to view https://www.ontario.ca/laws/statute/01m25" href="https://www.ontario.ca/laws/statute/01m25" target="_blank" aria-label="Municipal Act opens in new window">Municipal Act</a>.</p>
+<h3>Register as a delegation</h3>
+<p>Members of the public may register as a delegation to speak at an open meeting of Council by contacting the Clerk by the Wednesday before the meeting at 519-699-3946.</p>
+<p>Delegations are encouraged to attend discussion focused Committee of the Whole meetings rather than Council meetings. The Clerk can help you decide what meeting to register for. Registered delegates are permitted to address Council for a maximum of 10 minutes. Any member of the public can ask to be heard at an open Meeting and Council may pass a resolution allowing them to speak for a maximum of 5 minutes.</p>
+<p>Public Meetings for planning matters or municipal drains normally allow for residents to speak without registering or asking to be heard at the meeting. At the appropriate part of the meeting the Chair will ask if anyone wants to address Council on that topic.</p>
+<h3>Presentation Materials</h3>
+<p>Delegations are encouraged to submit written material outlining their position by noon on the Wednesday preceding the meeting. Material submitted by this time will be included in the Agenda package. If a delegation is unable to submit the written information in advance of the meeting, he/she should provide 10 copies for distribution to Council and staff.</p>
+<p>If you will be using a Power Point presentation, an electronic copy must be provided to Township staff by the Monday preceding the Meeting. If you have any additional audio/ visual requirements, you should let staff know at the time of registration.</p>
+<p>The Township encourages members of the public to comment on matters of interest to them, however, delegations are cautioned that if derogatory or inappropriate remarks are made, the delegation will not be permitted to continue speaking and the comments will not be recorded in the meeting minutes. Applause, booing or other audible demonstrations of support or opposition are prohibited.</p>
+<p>Delegations are requested to respect all citizens, members of Council and staff, regardless of differing opinions and views. Please display the same courtesy and respect to others that you expect for yourself.</p>
+<p>As a delegation, you must also be aware that all Committee of the Whole and Council meetings are open to the media and your comments may be reported in the newspaper.</p>
+<p>Topics relating to Township operations should be discussed with staff first.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h2>Request a Certificate</h2>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<div id="printAreaContent">
+<p>Members of Council are pleased to issue congratulatory letters and certificates to residents of the Township of Wellesley who are celebrating a milestone birthday or anniversary.</p>
+<p>To request a certificate, we require the following information:</p>
+<ul>
+<li>Your name and contact information</li>
+<li>Full name(s)and address of the recipient(s)</li>
+<li>Address of where the certificate and letter are to be mailed (you can also let us know if you'd like to pick it up in person)</li>
+<li>The occasion being celebrated and the date of the occasion (birthday or anniversary)</li>
+<li>The date when the certificate is required</li>
+</ul>
+<p>To submit your request, please call or email the <a title="view our contact listing" href="/Modules/contact/search.aspx?s=NGEUTCghp6B3ZCSZMhMNEQeQuAleQuAl" target="_blank" aria-label="Clerks department opens in new window">Clerks department</a>.</p>
+<p>The Township can also request a certificate on your behalf from the MP and MPP.</p>
+</div>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<div>
+<h2>Ward Maps</h2>
+</div>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">The Township of Wellesley is divided into four Wards. The Ward Councillor represents the residents of their Ward. The Wards determine which Councillor a resident could vote for during an election. A convenient <a title="Open file in new window: Ward_Map.pdf" href="/en/things-to-do/resources/Documents/Ward_Map.pdf" target="_blank" aria-label="Ward Map opens in new window">Ward Map</a> shows the entire municipality and where the Ward boundaries are.</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h2>Council Code of Conduct</h2>
+</td>
+</tr>
+<tr>
+<td data-name="accChild"><a title="Open new window to view &nbsp;Council Code of Conduct" href="/en/township-services/resources/FINAL---Council-Code-of-Conduct.pdf" target="_blank" aria-label="Council Code of Conduct opens in new window">Council Code of Conduct</a></td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h2>Mock Council Meeting</h2>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p>The Council of the Township of Wellesley hosts the Wellesley Health Centre Youth Council for a mock council meeting annually.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="icrtAccordion" border="0">
+<tbody>
+<tr>
+<td data-name="accParent">
+<h2>Messages From the Mayor</h2>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<table class="icrtAccordion" border="0">
+<tbody>
+<tr>
+<td data-name="accParent">
+<h3>Statement Regarding the 215 Remains of Indigenous Children Found in Kamloops, BC.</h3>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p>May 31, 2021</p>
+<p>I have asked that all flags in the Township of Wellesley be lowered to half-mast to honour the 215 children whose remains were found at a former residential school in Kamloops, B.C., and for all Indigenous children who never made it home, the survivors and their families.</p>
+<p>All of us have been affected by this horrific discovery and emotions are now conflicted between anger and sadness. This is a terrible reminder of the reprehensible legacy of assimilation imposed upon Indigenous children in residential schools and the thousands of innocent children who died.</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h3>2019 Ontario Municipal Partnership Fund (OMPF)</h3>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p><strong>February 15, 2019</strong></p>
+<p>On February 5th, Council passed your 2019 budget. That meeting was well published and was open to anyone who wished to seek clarification, support, oppose, or ask questions. As with all our budget deliberations, they are open for public scrutiny. No one attended. The day after, it was posted on Facebook that the Council passed a misleading, inaccurate budget, that this budget was an insult to your intelligence, that passing this budget was irresponsible, and that passing this inaccurate budget sent a clear message to the government that they can’t manage their own. Harsh words from ill- informed. The author’s claim was that, because our Treasurer had budgeted for the full amount of 2018 OMPF (Provincial Grant) funding, knowing that it may be reduced as had been suggested by the government, we were in some way putting the Township in a precarious situation. Our sources had suggested a potential alternative scenario which is why OMPF funding was budgeted as it was. I believe the following letter from the Minister of Finance explains the outcome. Wellesley Township is blessed with knowledgeable and dedicated staff willing to answer your questions at anytime. We have a history of strong fiscal management. As I said repeatedly throughout the election, “PLEASE GET THE FACTS”.</p>
+<p>&nbsp;</p>
+<p><strong>February 13, 2019 </strong></p>
+<p>Dear Head of Council: We are writing to provide you with an update on the 2019 Ontario Municipal Partnership Fund (OMPF). Recognizing that we are already well into the municipal budget year, the government will be maintaining the current structure of the OMPF for 2019 as well as Transitional Assistance. This means that the program and funding will remain virtually the same as in 2018, while allowing for annual data updates and related adjustments. We heard the concerns of municipalities and that is why we are now providing the certainty they need to begin finalizing their budgets.</p>
+<p>Ministry staff are working to finalize data updates to ensure the OMPF continues to be responsive to changing municipal circumstances as is the case under the current program. Allocation notices with funding details for each municipality, as well as supporting material, will be available in mid-March. At that time, the final 2019 funding envelope will also be announced. Consistent with prior years, Transitional Assistance will continue to gradually decline as fewer municipalities require this funding. As we communicated previously, Ontario inherited a $15 billion deficit. The rising cost of servicing our massive debt, if left unchecked, will imperil our hospitals, schools and other public services. We cannot allow this to happen. We continue to review government transfer payments, including the OMPF, as we work to put our province back on a sustainable and responsible fiscal path.</p>
+<p>In the coming months, we will continue to consult with municipalities to ensure the OMPF program is sustainable and focused on the Northern and rural municipalities that need this funding the most. As we noted in December, the OMPF will be reviewed. For this reason, we are committed to announcing 2020 allocations well in advance of the municipal budget year so that municipalities have appropriate time to plan.</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h3>Ministry of Municipal Affairs and Housing Funding Announcement</h3>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p><strong>April 1, 2019</strong><br>As Mayor of Wellesley Township, I believe that it would be irresponsible and misleading of me to suggest that the monies we have received ($676,040) through the Ministry of Municipal Affairs, could be used for anything other than what has been prescribed by the Province. When the Ministry suggests that these funds are “unconditional”, THERE ARE EXPECTATIONS. As stated in the announcement, these funds are intended to help modernize service delivery and reduce future costs through investments in projects such as: “service delivery reviews, development of shared services agreements, and capital investments”. It has been made quite clear that these funds should not be used for infrastructure projects like road maintenance or recreational enhancements. There are other funding streams that can be applied for in those regards.</p>
+<p>Your Council will be tasked with approving how this money is spent. Some suggestions that I have been made aware of are improved connectivity to all Township facilities including firehalls and community centers, completion of our asset management plan so that we are able to continue to apply for funding when announced or an improved communication plan, an issue that I heard a lot about during the election.</p>
+<p>I have followed, with interest, some suggestions posted on social media. In response to some suggestions, Boomer Line will be paved this year from Herrgott to Moser-Young as part of our Roads Capital Program. The Region has agreed to do a further review of the intersection at Herrgott and Lobsinger Line considering the additional heavy-truck traffic generated by the new Chervin plant. This is strictly a Regional responsibility. With regards to recreational enhancements, I would suggest you contact your Community Center Board Chairs with your wishes and, better still, join the boards as a volunteer.</p>
+<p>Sign up for Council agenda notifications at <a title="Open new window to view http://calendar.wellesley.ca/council/Subscription" rel="noopener noreferrer" href="https://calendar.wellesley.ca/council/Subscription" target="_blank" aria-label="http://calendar.wellesley.ca/council/Subscription opens in new window">http://calendar.wellesley.ca/council/Subscription</a> so that you can be informed of discussions and decisions at the Council table.</p>
+</td>
+</tr>
+<tr>
+<td data-name="accParent">
+<h3>2020 Budget Approved for the Township of Wellesley</h3>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p><strong>January 8, 2020</strong></p>
+<p>Message from the Mayor, Joe Nowak</p>
+<p>At last night’s Council meeting, Council of the Township of Wellesley passed your 2020 Budget.The 2020 Budget acts as our business plan for the year, demonstrating the costs associated with providing municipal services and the revenues required to sustain these services. It also aims to continue with the mission and vision set by Council in the Strategic Plan and continues to provide the high levels of service that residents of the Township of Wellesley both expect and enjoy.</p>
+<p>Township Staff are always looking for funding opportunities and innovative approaches to make the best use of the funds that we have available and to minimize the burden on taxpayers. For 2020, we have applied for Provincial and Federal funding for a new Township Recreation Complex. We are hopeful that this application will be successful and will continue to look into other funding opportunities as they become available.</p>
+<p>Extreme weather events, such as the current bush fire crisis in Australia, severe floods, droughts and excessively high temperatures across the world,have made climate change hard to ignore. In October 2019, Council of the Township of Wellesley passed a resolution endorsing the Declaration of a Climate Emergency, with the directive to provide continued support to corporate and community climate action at the Township and to work towards improved targets where possible.</p>
+<p>In order to support the reduction of our carbon emissions, the 2020 budget includes three green initiatives for Wellesley Township:</p>
+<p>1. 0.5% Greening Levy (approximately $25,000) towards the purchase of trees that would be available to residents throughout the Township for planting to replace trees that were affected by the emerald ash borer and to support the reduction of our carbon footprint. More details on this project to come;</p>
+<p>2. The purchase of an electric ice resurfacing machine for the St. Clements Arena; and</p>
+<p>3. The installation of 3 Electric Vehicle Charging Stations throughout Wellesley Township in collaboration with the Region of Waterloo through grant money awarded from Natural Resources Canada.</p>
+<p>Climate Action Waterloo Region is leading the creation of a long-term Climate Action Strategy and Carbon Budget for the municipalities of the Region of Waterloo with a goal of reducing local greenhouse gas emissions by 80 per cent below 2010 levels by the year 2050. These projects are in their early planning stages, but are a positive step towards doing our part as global citizens to reduce greenhouse gas emissions and mitigate the effects of climate change on the environment.</p>
+<p>Wellesley Township Council would also like to investigate ways to make more employment/industrial land available and develop more affordable housing in the Township of Wellesley. The joint service delivery review being done by the four Waterloo Region townships by KPMG should also help identify any areas where efficiencies could be found in the study areas and possible cost reductions for our residents.</p>
+<p>Council approved a 2020 Budget with a 3.355per cent tax increase plus a 0.5% Greening Levy. For a typical home assessed at $399,038, this means approximately $3.01 more per month than 2019 property taxes.</p>
+<p>I believe this is a fair and balanced budget that allows the municipality to acquire new infrastructure, repair existing assets and provide the daily services that significantly impact the quality of life in the Township of Wellesley, while also preparing for a bright and prosperous future.</p>
+<p>As always, I welcome your feedback. Township Staff, Councillors and myself can be reached by email or telephone through the Township of Wellesley Website. On behalf of Council and Staff of the Township of Wellesley, we wish you all the best in 2020 and we thank you for being a part of making the Township of Wellesley a great place to live, work and play!</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+<tbody></tbody>
+</table>
+<table class="icrtAccordion" border="0">
+<tbody>
+<tr>
+<td data-name="accParent">
+<h2>Interviews with the Mayor</h2>
+</td>
+</tr>
+<tr>
+<td data-name="accChild">
+<p><a rel="noopener noreferrer" href="https://businessviewmagazine.com/township-wellesley-ontario-growing-stronger-responsibly/" target="_blank" aria-label="Growing Stronger, Responsibly - Business View Magazine Article - December 2, 2021 opens in new window">Growing Stronger, Responsibly - Business View Magazine Article - December 2, 2021</a></p>
+<p><a title="Open new window to view Growing Stronger, Responsibly Brochure - Business View Magazine" rel="noopener noreferrer" href="/en/township-services/resources/Documents/Mayor-and-Council-2018-2022/Township-of-Wellesley---Growing-Stronger-Responsibly---Business-View-Magazine-2022.pdf" target="_blank" aria-label="Growing Stronger, Responsibly Brochure - Business View Magazine opens in new window">Growing Stronger, Responsibly Brochure - Business View Magazine</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+    
+                            </div>
+                        
+                             <div id="contactMainContainer">
+                                <div class="contactContainer">
+                                    <div class="contactHeader">
+								    </div>
+                                    <div class="contactBody">
+                                        
+    
+                                    </div>
+                                </div>
+                            </div>
+
+                             
+<script type="text/javascript" src="/Common/scripts/toggleContent.js"></script>
+ 
+                        </div>
+                    </div>
+                </div>
+                <!--contentInt-->
+            </div>
+        </div>
+        <!--main-->
+        
+<div id="atozBar" class="nocontent">
+    <div class="ic-container-fluid">
+        <span class="atozBarTitle">A to Z Listings:</span>
+        <ul>
+            <li><a title="a to z: A" href="javascript:void(0)">A</a></li>
+            <li><a title="a to z: B" href="javascript:void(0)">B</a></li>
+            <li><a title="a to z: C" href="javascript:void(0)">C</a></li>
+            <li><a title="a to z: D" href="javascript:void(0)">D</a></li>
+            <li><a title="a to z: E" href="javascript:void(0)">E</a></li>
+            <li><a title="a to z: F" href="javascript:void(0)">F</a></li>
+            <li><a title="a to z: G" href="javascript:void(0)">G</a></li>
+            <li><a title="a to z: H" href="javascript:void(0)">H</a></li>
+            <li><a title="a to z: I" href="javascript:void(0)">I</a></li>
+            <li><a title="a to z: J" href="javascript:void(0)">J</a></li>
+            <li><a title="a to z: K" href="javascript:void(0)">K</a></li>
+            <li><a title="a to z: L" href="javascript:void(0)">L</a></li>
+            <li><a title="a to z: M" href="javascript:void(0)">M</a></li>
+            <li><a title="a to z: N" href="javascript:void(0)">N</a></li>
+            <li><a title="a to z: O" href="javascript:void(0)">O</a></li>
+            <li><a title="a to z: P" href="javascript:void(0)">P</a></li>
+            <li><a title="a to z: Q" href="javascript:void(0)">Q</a></li>
+            <li><a title="a to z: R" href="javascript:void(0)">R</a></li>
+            <li><a title="a to z: S" href="javascript:void(0)">S</a></li>
+            <li><a title="a to z: T" href="javascript:void(0)">T</a></li>
+            <li><a title="a to z: U" href="javascript:void(0)">U</a></li>
+            <li><a title="a to z: V" href="javascript:void(0)">V</a></li>
+            <li><a title="a to z: W" href="javascript:void(0)">W</a></li>
+            <li><a title="a to z: X" href="javascript:void(0)">X</a></li>
+            <li><a title="a to z: Y" href="javascript:void(0)">Y</a></li>
+            <li><a title="a to z: Z" href="javascript:void(0)">Z</a></li>
+        </ul>
+    </div>
+</div>
+
+<script type="text/javascript">
+    $("#atozBar a").click(function (event) {
+        event.preventDefault();
+
+        if (!iCreateObject.isSiteInICreateMode)
+            window.location.href = iCreateObject.corpHome + "Modules/AtoZ/index.aspx?nav=topone" + $(this).html();
+    });
+</script>
+
+
+
+        <footer class="nocontent">
+            
+<div class="ic-container-fluid">
+    <div id="footerLeft">
+        <div class="footerlogo">
+            <p><img src="/en/images/structure/logo.svg" alt=""></p>
+        </div>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>© 2017 Township of Wellesley<br> 4639 Lobsinger Line<br> St. Clements ON N0B 2M0<br> <a href="tel:519-699-4611">519-699-4611</a><br> 519-699-4540 (facsimile)</p>
+
+
+         
+<div id="footerNav">
+    <a title="View our Administrative Office Page" href="/contact"><span>Administrative Office</span></a><a title="View our Terms and Conditions page" href="/en/township-services/terms-and-conditions.aspx"><span>Terms and Conditions</span></a><a title="View our Departments page" href="/en/township-services/departments.aspx"><span>Departments</span></a><a title="Sitemap" href="/Common/Sitemap.aspx"><span>Sitemap</span></a>
+		<a href="http://www.esolutionsgroup.ca" title="Designed by eSolutionsGroup" target="_blank" id="esol">Designed by eSolutionsGroup</a>
+	
+</div>
+    </div>
+    <nav id="footerMega">    <ul><li><a title="View our Living Here page" href="/en/living-here/living-here.aspx">Living Here</a><ul><li><a title="View our Animal Control Services page" href="/en/living-here/animal-control-services.aspx">Animal Control Services</a></li><li><a title="View our By-Law Enforcement page" href="/en/living-here/by-law-enforcement.aspx">By-Law Enforcement</a></li><li><a title="View our Cemeteries page" href="/en/living-here/cemeteries.aspx">Cemeteries</a></li><li><a title="View our E-Newsletter page" href="/en/living-here/e-newsletter.aspx">E-Newsletter</a></li><li><a title="View our Emergency Services and Preparedness page" href="/en/living-here/emergency-services-and-preparedness.aspx">Emergency Services and Preparedness</a></li><li><a title="View our Events Calendar page" href="http://calendar.wellesley.ca/">Events Calendar</a></li><li><a title="View our Garbage, Recycling and Waste page" href="/en/living-here/garbage-recycling-and-waste.aspx">Garbage, Recycling and Waste</a></li><li><a title="View our Grants and Special Assistance page" href="/en/living-here/grants-and-special-assistance.aspx">Grants and Special Assistance</a></li><li><a title="View our Have Your Say page" href="/en/living-here/have-your-say.aspx">Have Your Say</a></li><li><a class="viewAll" href="/en/living-here/living-here.aspx" title="Living [\n]Here">View All...</a></li></ul></li></ul><ul><li><a title="View our Things To Do page" href="/en/things-to-do/things-to-do.aspx">Things To Do</a><ul><li><a title="View our Eat and Buy Local page" href="/en/things-to-do/eat-and-buy-local.aspx">Eat and Buy Local</a></li><li><a title="View our Events Calendar page" href="http://calendar.wellesley.ca/?_mid_=10729">Events Calendar</a></li><li><a title="View our Get Involved page" href="/en/things-to-do/get-involved.aspx">Get Involved</a></li><li><a title="View our Libraries page" href="/en/living-here/library.aspx">Library</a></li><li><a title="View our Recreation and Facilities page" href="/en/things-to-do/recreation-and-facilities.aspx">Recreation and Facilities</a></li><li><a title="View our Tourism page" href="/en/things-to-do/tourism.aspx">Tourism</a></li><li><a title="View our Volunteering page" href="/en/township-services/volunteering.aspx?_mid_=10738">Volunteering</a></li><li><a title="View our Township of Wellesley Recreation Complex page" href="/en/living-here/new-recreation-land.aspx">Township of Wellesley Recreation Complex</a></li></ul></li></ul><ul><li><a title="View our Doing Business page" href="/en/doing-business/doing-business.aspx">Doing Business</a><ul><li><a title="View our Applications, Licences and Permits page" href="/en/township-services/applications-licences-and-permits.aspx">Applications, Licences and Permits</a></li><li><a title="View our Bids and Tenders page" href="https://wellesley.bidsandtenders.ca">Bids and Tenders</a></li><li><a title="View our Building and Planning page" href="/en/doing-business/building-and-planning.aspx">Building and Planning</a></li><li><a title="View our Community Profile page" href="/en/doing-business/community-profile.aspx?_mid_=10771">Community Profile</a></li><li><a title="View our Economic Development in Waterloo Region page" href="/en/doing-business/economic-development-in-waterloo-region.aspx">Economic Development in Waterloo Region</a></li><li><a title="View our Filming in Wellesley page" href="/en/doing-business/filming-in-wellesley.aspx">Filming in Wellesley</a></li><li><a title="View our Home Renovation or Construction page" href="/en/living-here/home-renovation-or-construction.aspx?_mid_=10779">Home Renovation or Construction</a></li><li><a title="View our Official Plan page" href="/en/doing-business/official-plan.aspx">Official Plan</a></li><li><a title="View our Reports, Studies and Plans page" href="/en/township-services/reports-studies-and-plans.aspx">Reports, Studies and Plans</a></li><li><a class="viewAll" href="/en/doing-business/doing-business.aspx" title="Doing [\n]Business">View All...</a></li></ul></li></ul><ul><li><a title="View our Township Services page" href="/en/township-services/township-services.aspx">Township Services</a><ul><li><a title="View our A-Z-Services page" href="/Modules/AtoZ/index.aspx">A-Z-Services</a></li><li><a title="View our Accessibility page" href="/en/township-services/accessibility.aspx">Accessibility</a></li><li><a title="View our Agendas and Minutes page" href="http://calendar.wellesley.ca/Council">Agendas and Minutes</a></li><li><a title="View our Applications, Licences and Permits page" href="/en/township-services/applications-licences-and-permits.aspx?_mid_=10793">Applications, Licences and Permits</a></li><li><a title="View our Budget and Finance page" href="/en/township-services/budget-and-finance.aspx?_mid_=10794">Budget and Finance</a></li><li><a title="View our By-Laws page" href="/en/township-services/by-laws.aspx">By-laws</a></li><li><a title="View our Careers and Volunteering page" href="/en/township-services/careers-and-volunteering.aspx">Careers and Volunteering</a></li><li><a title="View our Commissioner of Oaths page" href="/en/township-services/commissioner-of-oaths.aspx">Commissioner of Oaths</a></li><li><a title="View our Contact Us page" href="/Modules/contact/search.aspx?s=NGEUTCghp6B3ZCSZMhMNEQeQuAleQuAl">Contact Us</a></li><li><a class="viewAll" href="/en/township-services/township-services.aspx" title="Township [\n]Services">View All...</a></li></ul></li></ul></nav>
+   
+</div>
+<!-- Footer top -->
+
+<script type="text/javascript" src='/Common/scripts/responsiveScripts.js'></script>
+
+    <script type="text/javascript" src='https://js.esolutionsgroup.ca/js/libs/icreate-tinymce-accordion/1.0.5/jquery-icrtaccordion-clean.min.js'></script>
+
+<script type="text/javascript" src="/Common/scripts/placeholders.jquery.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    iCreateObject.gaTrackingCode = 'UA-46334597-1';
+
+    var _gaq = _gaq || []; var pluginUrl = "//www.google-analytics.com/plugins/ga/inpage_linkid.js"; _gaq.push(["_require", "inpage_linkid", pluginUrl]); _gaq.push(["_setAccount", iCreateObject.gaTrackingCode]); _gaq.push(["_trackPageview"]); (function () { var e = document.createElement("script"); e.type = "text/javascript"; e.async = true; e.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js"; var t = document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(e, t) })(); if (typeof jQuery != "undefined") { jQuery(document).ready(function (e) { var t = /\.(zip|exe|pdf|doc*|xls*|ppt*|mp3)$/i; var n = ""; if (jQuery("base").attr("href") != undefined) n = jQuery("base").attr("href"); jQuery("a").each(function () { var e = jQuery(this).attr("href"); var r = jQuery(this).attr("href"); if (e) { e = e.toLowerCase() } if (e && e.match(/^https?\:/i) && !e.match(document.domain)) { jQuery(this).click(function () { var t = e.replace(/^https?\:\/\//i, ""); _gaq.push(["_trackEvent", "External", "Click", t]); if (jQuery(this).attr("target") != undefined && jQuery(this).attr("target").toLowerCase() != "_blank") { setTimeout(function () { location.href = r }, 200); return false } }) } else if (e && e.match(/^mailto\:/i)) { jQuery(this).click(function () { var t = e.replace(/^mailto\:/i, ""); _gaq.push(["_trackEvent", "Email", "Click", t]) }) } else if (e && e.match(t)) { jQuery(this).click(function () { var t = /[.]/.exec(e) ? /[^.]+$/.exec(e) : undefined; var r = e; _gaq.push(["_trackEvent", "Download", "Click-" + t, r]); if (jQuery(this).attr("target") != undefined && jQuery(this).attr("target").toLowerCase() != "_blank") { setTimeout(function () { location.href = n + e }, 200); return false } }) } }) }) }
+</script>
+
+
+        </footer>
+    </div>
+    <!--uber-->
+    
+     
+
+<div id="popup" class="modal-box">
+    <div class="modal-body">
+        <div class="search" id="search-box" >
+		    <input type="search" name="search" class="searchInput" placeholder="What are you looking for?" aria-label="" title="Enter search keywords"  />
+		    <button type="submit" value="Search"" class="Btn searchButton" title="Search" >Search</button>
+        </div>
+        <a href="#" class="js-modal-close">x</a>
+    </div>
+</div>
+    
+    
+    
+     
+
+<div id="searchModalBinding"></div>
+<script type="text/javascript" src="https://customer.cludo.com/scripts/bundles/search-script.min.js"></script>
+<script>
+    var CludoSearch;
+    (function () {
+        var cludoSettings = {
+            customerId: 10000084,
+            engineId: 10000107,
+            language: 'en',
+            searchInputs: ["searchModalBinding","search-box"],
+            type: 'standardOverlay',
+            theme: {
+                themeColor: '#8a272e',
+                themeBannerColor: { textColor: '#ffffff', backgroundColor: '#8a272e' },
+                borderRadius: 0, borderRadiusInput: 0
+            },
+            searchApiUrl: 'https://api-us1.cludo.com/api/v3',
+			//disableAutocomplete: ($(".homepage").length >=1)
+        };
+        CludoSearch = new Cludo(cludoSettings);
+        CludoSearch.init();
+    })();
+</script>
+
+    </div>
+</body>
+</html>
+
+                                
+                            

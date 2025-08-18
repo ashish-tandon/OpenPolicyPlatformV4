@@ -1,0 +1,446 @@
+status: 200
+encoding: utf-8
+Content-Type: text/html; charset=utf-8
+Content-Length: 18471
+Connection: keep-alive
+Cache-Control: max-age=600
+Content-Encoding: gzip
+Content-Language: fr
+Date: Sat, 09 Aug 2025 05:37:06 GMT
+Expires: Sat, 09 Aug 2025 05:47:06 GMT
+Pragma: public
+Server: Apache
+Set-Cookie: PHPSESSID=1cb843cfe301729fde1181da7797333a; path=/
+X-Content-Type-Options: nosniff
+X-Ua-Compatible: IE=edge
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 0e761f7a5b2481acd893422a702c9fa8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: YTO50-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: s_pOLfZXCmMCWC7Mq5P0ZV1h0Fn71fNtiXUdynWf_JoeAv23pi6X5w==
+Age: 467
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2019 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://www.ville.levis.qc.ca/">
+
+
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="Composition du conseil municipal de la Ville de Lévis.">
+<meta name="author" content="Ville de Lévis">
+<meta name="keywords" content="conseil, municipal, composition, municipaux, dirigeants, conseillers, districts, mairie, maire, mairesse, élections,ville,levis">
+
+
+<link rel="stylesheet" type="text/css" href="typo3temp/assets/css/363ecc06b3.css?1731042142" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/ns_twitter/Resources/Public/Css/style.css?1731041367" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/ns_twitter/Resources/Public/Css/font-awesome/css/font-awesome.min.css?1731041367" media="all">
+<link rel="stylesheet" type="text/css" href="typo3conf/ext/we_cookie_consent/Resources/Public/Stylesheet/style.css?1731041368" media="all">
+<link rel="stylesheet" type="text/css" href="fileadmin/templates/villelevis/tmpl/style.css?1754571588" media="all">
+
+
+
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/modernizr.foundation.js?1731041366" type="text/javascript"></script>
+<script src="typo3conf/ext/solr/Resources/Public/JavaScript/JQuery/jquery.min.js?1731041367" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/lbo-conditional-field.js?1731041366" type="text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBNn0_TGzoBYwYARWA-lXqDXZN9aIQ5tqg" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/iframeResizer.min.js?1731041366" type="text/javascript"></script>
+<script src="https://kit.fontawesome.com/28226af725.js" type="text/javascript"></script>
+
+
+<!-- Google Tag Manager --><script type="opt-in" data-type="text/javascript" data-name="other-1">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MLBMH9K');</script><!-- End Google Tag Manager --><!-- Facebook Pixel Code --><script type="opt-in" data-type="text/javascript" data-name="other-6">
+            !function(f,b,e,v,n,t,s){
+                if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+                if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+                n.queue=[];t=b.createElement(e);t.async=!0;
+                t.src=v;s=b.getElementsByTagName(e)[0];
+                s.parentNode.insertBefore(t,s)
+            }(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '1648454838546512');
+            fbq('track', 'PageView');
+        </script><noscript><img height="1" width="1" data-src="https://www.facebook.com/tr?id=1648454838546512&ev=PageView&noscript=1"/></noscript><!-- Pixel Metricool --><script type="opt-in" data-type="text/javascript" data-name="other-8">function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.,c.data-src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"a6310d6afa4e2bee388bd5e1d1f5f08d"})});</script><!-- SnapChat Pixel Code --><script type="opt-in" data-type="text/javascript" data-name="other-5" type='text/javascript'>(function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function() {a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)}; a.queue=[];var s='script';r=t.createElement(s);r.async=!0; r.src=n;var u=t.getElementsByTagName(s)[0]; u.parentNode.insertBefore(r,u);})(window,document, 'https://sc-static.net/scevent.min.js'); snaptr('init', '881e464e-e1de-4ba3-a547-6b2702a89ef5', { 'user_email': '__INSERT_USER_EMAIL__' }); snaptr('track', 'PAGE_VIEW'); </script><!-- TikTok Pixel Code --><script type="opt-in" data-type="text/javascript" data-name="other-4">!function (w, d, t) {w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.,o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)}; ttq.load('C0ILLASP76SVVJ0V08FG'); ttq.page(); }(window, document, 'ttq'); </script>
+	
+<title>Présentation des élus&nbsp;- Ville de Lévis </title><meta name="DC.keywords" content="conseil, municipal, composition, municipaux, dirigeants, conseillers, districts, mairie, maire, mairesse, électionsville,levis" /><meta name="DC.creator" content="Ville de Lévis" /><meta name="DC.description" content="Composition du conseil municipal de la Ville de Lévis. 
+" />    <script>var tx_solr_suggestUrl = "/index.php?eID=tx_solr_vdlsuggest&id=434";</script>        <link rel="stylesheet" href="https://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css" />        <meta name="viewport" content="width=device-width, initial-scale=1">        <script type="text/javascript">
+            if (!Array.prototype.indexOf) {
+                Array.prototype.indexOf = function(obj, start) {
+                    for (var i = (start || 0), j = this.length; i < j; i++) {
+                        if (this[i] === obj) {
+                            return i;
+                        }
+                    }
+                    return -1;
+                };
+            }
+        </script><meta property="og:image" content="https://www.ville.levis.qc.ca/fileadmin/documents/meta-img/conseil-meta.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:url" content="https://www.ville.levis.qc.ca/la-ville/conseil-municipal/elus/"><meta property="og:title" content="Présentation des élus"><meta property="og:description" content="Composition du conseil municipal de la Ville de Lévis. 
+"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@VilledeLevis"><meta name="twitter:title" content="Présentation des élus"><meta name="twitter:description" content="Composition du conseil municipal de la Ville de Lévis. 
+"><meta name="twitter:image" content="https://www.ville.levis.qc.ca/fileadmin/documents/meta-img/conseil-meta.jpg">
+</head>
+<body class="la-ville">
+
+    <header id="branding" role="banner"><div class="content"><div class="wrapper"><a href="#" id="passer-au-contenu" class="visuallyhidden">Passer au contenu</a><h1 class="logo"><a href="/"><img src="fileadmin/templates/villelevis/tmpl/images/v2020/logos/logo-levis-124x49.svg" width="124" height="49"   alt="Ville de Lévis" ></a></h1><a href="#" class="nav-mega-menu-toggle">                <svg xmlns="http://www.w3.org/2000/svg" width="17" height="14" viewBox="0 0 17 14" 
+                class="nav-mega-menu-icon" aria-hidden="true"><g fill="none"><rect x="-319" y="-58" width="1440" 
+                height="6154" /><rect x="-15" y="-15" width="102" height="45" rx="5"/>
+                <g class="main-color" fill="#002B54"><path d="M16.5 12C16.8 12 17 12.2 17 12.5L17 13.5C17 13.8 
+                16.8 14 16.5 14L0.5 14C0.2 14 0 13.8 0 13.5L0 12.5C0 12.2 0.2 12 0.5 12L16.5 12ZM16.5 6C16.8 6 
+                17 6.2 17 6.5L17 7.5C17 7.8 16.8 8 16.5 8L0.5 8C0.2 8 0 7.8 0 7.5L0 6.5C0 6.2 0.2 6 0.5 6L16.5 
+                6ZM16.5 0C16.8 0 17 0.2 17 0.5L17 1.5C17 1.8 16.8 2 16.5 2L0.5 2C0.2 2 0 1.8 0 1.5L0 0.5C0 0.2 
+                0.2 0 0.5 0L16.5 0Z"/></g></g></svg><span>Menu</span></a><nav role="navigation" class="nav-wrapper"><div class="nav-overlay"></div><div class="nav-scroller"><div class="nav-row"><div class="nav-column"><div class="nav-panel"><div class="nav-mobi-extras hide-for-middle-up"></div><h2>Naviguer</h2><ul class="nav-mega-menu"><li><a href="cour-municipale/">Cour municipale</a><div class="submenu"><ul class="submenu-list"><li><a href="cour-municipale/paiements/"><span>Paiement à la cour municipale</span></a></li><li><a href="cour-municipale/constat-dinfraction/"><span>Constat d'infraction</span></a></li><li><a href="cour-municipale/horaire-et-coordonnees-de-la-cour-municipale/"><span>Horaire et coordonnées de la Cour municipale</span></a></li><li><a href="cour-municipale/matiere-criminelle/"><span>Matière criminelle</span></a></li><li><a href="cour-municipale/matiere-penale/"><span>Matière pénale</span></a></li><li><a href="cour-municipale/avis-de-publication-roles-et-calendrier-de-la-cour-municipale/"><span>Avis de publication, rôles et calendrier de la cour municipale</span></a></li><li><a href="cour-municipale/service-dinformation-juridique/"><span>Service d'information juridique</span></a></li><li><a href="cour-municipale/tribunal-adapte/"><span>Tribunal adapté</span></a></li><li><a href="cour-municipale/se-preparer-a-se-representer-seul/"><span>Se préparer à se représenter seul</span></a></li></ul></div></li><li><a href="culture/" class="oneliner">Culture</a><div class="submenu"><ul class="submenu-list"><li><a href="culture/a-votre-agenda/"><span>À votre agenda</span></a></li><li><a href="culture/loisirs/"><span>Activités culturelles du Guide des loisirs</span></a></li><li><a href="culture/actualites/"><span>Actualités - Arts et culture</span></a></li><li><a href="culture/arts-visuels/"><span>Arts visuels</span></a></li><li><a href="culture/attraits-culturels/"><span>Attraits culturels</span></a></li><li><a href="culture/bibliotheques/"><span>Bibliothèques</span></a></li><li><a href="culture/bulletin-des-arts-et-de-la-culture/"><span>Bulletin des arts et de la culture</span></a></li><li><a href="culture/histoire-patrimoine/"><span>Histoire et patrimoine</span></a></li><li><a href="culture/organismes-culturels/"><span>Organismes culturels</span></a></li><li><a href="culture/politiques-publications/"><span>Politiques, publications et brochures</span></a></li></ul></div></li><li><a href="developpement-planification/">Développement et planification</a><div class="submenu"><ul class="submenu-list"><li><a href="developpement-planification/agriculture/"><span>Agriculture</span></a></li><li><a href="developpement-planification/architecture-patrimoniale/"><span>Architecture patrimoniale</span></a></li><li><a href="developpement-planification/aspects-environnementaux/"><span>Aspects environnementaux à considérer</span></a></li><li><a href="developpement-planification/bureau-projet/"><span>Bureau de projets</span></a></li><li><a href="developpement-planification/pctr/"><span>Réseau de positionnement cinématique en temps réel</span></a></li><li><a href="developpement-planification/commandites-soutien-evenements/"><span>Commandites et soutien aux organisateurs d’événements</span></a></li><li><a href="developpement-planification/contribution-au-developpement/"><span>Contribution au développement</span></a></li><li><a href="developpement-planification/developpement-residentiel/"><span>Développement résidentiel</span></a></li><li><a href="developpement-planification/developpement-social-et-communautaire/"><span>Développement social et communautaire</span></a></li><li><a href="developpement-planification/immigration/"><span>Immigrer et vivre à Lévis</span></a></li><li><a href="developpement-planification/normes-procedures/"><span>Normes et procédures pour travaux d'ingénierie</span></a></li><li><a href="developpement-planification/planification-urbanisme/"><span>Planification du territoire et urbanisme</span></a></li><li><a href="developpement-planification/ppu-programmes-particuliers-durbanisme/"><span>PPU - Programmes particuliers d’urbanisme</span></a></li><li><a href="developpement-planification/quartiers-historiques-revitalisation/"><span>Quartiers historiques et revitalisation</span></a></li><li><a href="developpement-planification/reglements-a-caractere-provisoire-sur-les-projets-de-construction/"><span>Règlements à caractère provisoire sur les projets de construction</span></a></li><li><a href="developpement-planification/entreprises/"><span>Soutien aux entreprises</span></a></li><li><a href="developpement-planification/statistiques-indicateurs-developpement/"><span>Statistiques et indicateurs de développement</span></a></li><li><a href="developpement-planification/verifier-votre-adresse/"><span>Vérifier votre adresse</span></a></li></ul></div></li><li><a href="environnement-et-collectes/">Environnement et collectes</a><div class="submenu"><ul class="submenu-list"><li><a href="environnement-et-collectes/aide-financiere/"><span>Aides financières environnementales</span></a></li><li><a href="environnement-et-collectes/arbres-plantes-envahissantes-et-insectes-nuisibles/"><span>Arbres, plantes envahissantes et insectes nuisibles</span></a></li><li><a href="environnement-et-collectes/collectes/"><span>Collectes</span></a></li><li><a href="environnement-et-collectes/eaux-usees-des-entreprises/"><span>Eaux usées des entreprises</span></a></li><li><a href="environnement-et-collectes/lieux/"><span>Écocentres et lieux de dépôt</span></a></li><li><a href="environnement-et-collectes/embellisement-horticole/"><span>Embellisement horticole</span></a></li><li><a href="environnement-et-collectes/agir-au-quotidien/"><span>Gestes et conseils écoresponsables</span></a></li><li><a href="environnement-et-collectes/guide-du-tri-et-reemploi/guide-du-tri/"><span>Guide du tri</span></a></li><li><a href="environnement-et-collectes/installations-septiques/"><span>Installations septiques</span></a></li><li><a href="environnement-et-collectes/politiques-et-plans-dactions-en-environnement/"><span>Politiques et plans d'actions en environnement</span></a></li><li><a href="environnement-et-collectes/education-formation/"><span>Programmes éducatifs environnementaux</span></a></li><li><a href="environnement-et-collectes/grands-dossiers/"><span>Protection de l'environnement</span></a></li></ul></div></li><li class="active "><a href="la-ville/" class="oneliner">La Ville</a><div class="submenu"><ul class="submenu-list"><li><a href="la-ville/nousjoindre/"><span>311 Lévis</span></a></li><li><a href="la-ville/arrondissements/"><span>Arrondissements</span></a></li><li><a href="la-ville/carrieres-a-la-ville-de-levis/"><span>Carrières et offres d'emploi</span></a></li><li><a href="la-ville/mariage-civil/"><span>Célébration d'une union civile ou d'un mariage</span></a></li><li class="active"><a href="la-ville/conseil-municipal/"><span>Conseil municipal<span class="visuallyhidden">Page active</span></span></a></li><li><a href="la-ville/contrats-appels-offres/"><span>Contrats et appels d'offres</span></a></li><li><a href="la-ville/demande-dacces-a-un-document-de-la-ville/"><span>Demande d'accès à un document de la Ville</span></a></li><li><a href="la-ville/divulgation-dactes-reprehensibles/"><span>Divulgation d’actes répréhensibles</span></a></li><li><a href="la-ville/election-municipale/"><span>Élection municipale</span></a></li><li><a href="la-ville/finances/"><span>Finances et gestion de la dette</span></a></li><li><a href="la-ville/mission-vision/"><span>Mission et vision</span></a></li><li><a href="la-ville/participation-citoyenne/"><span>Participation citoyenne</span></a></li><li><a href="la-ville/politiques-plans-action/"><span>Politiques et plans d'action</span></a></li><li><a href="la-ville/prix/"><span>Prix et distinctions</span></a></li><li><a href="la-ville/statistiques/"><span>Statistiques et cartes</span></a></li><li><a href="la-ville/structure-administrative/"><span>Organisation municipale</span></a></li><li><a href="la-ville/verificateur-general/"><span>Vérificateur général</span></a></li></ul></div></li><li><a href="securite/" class="oneliner">Sécurité publique</a><div class="submenu"><ul class="submenu-list"><li><a href="securite/numeros-services-urgence/"><span>Numéros et services d'urgence</span></a></li><li><a href="securite/service-de-police/"><span>Service de police</span></a></li><li><a href="securite/securite-incendie/"><span>Sécurité incendie</span></a></li><li><a href="securite-publique/securite-civile/"><span>Sécurité civile</span></a></li><li><a href="securite-publique/securite-routiere/"><span>Sécurité routière et circulation</span></a></li></ul></div></li><li><a href="loisirs/">Sports et loisirs</a><div class="submenu"><ul class="submenu-list"><li><a href="loisirs/carte/"><span>Carte et horaires des installations sportives</span></a></li><li><a href="loisirs/activites-libres/"><span>Activités sportives et de loisirs</span></a></li><li><a href="loisirs/installations-sportives/parcs-et-espaces-verts/"><span>Parcs et espaces verts</span></a></li><li><a href="loisirs/installations-sportives/location/"><span>Location de salles communautaires et d'installations sportives</span></a></li><li><a href="loisirs/installations-sportives/complexe-aquatique-multifonctionnel/"><span>Complexe aquatique multifonctionnel</span></a></li><li><a href="loisirs/programmation/"><span>Guide des loisirs et inscription</span></a></li><li><a href="loisirs/camps-de-jour/"><span>Camp de jour</span></a></li><li><a href="loisirs/organismes/"><span>Organismes</span></a></li><li><a href="loisirs/bourses-aux-athletes-ambassadeurs/"><span>Bourses aux athlètes ambassadeurs</span></a></li><li><a href="loisirs/centre-culturel-de-levis/"><span>Centre culturel de Lévis</span></a></li><li><a href="loisirs/saines-habitudes/"><span>Saines habitudes de vie</span></a></li></ul></div></li><li><a href="taxes-permis-reglements/">Taxes, permis et règlements</a><div class="submenu"><ul class="submenu-list"><li><a href="taxes-permis-reglements/animaux/"><span>Animaux</span></a></li><li><a href="taxes-permis-reglements/autorisations-et-demandes-de-permis/"><span>Autorisations et demandes de permis</span></a></li><li><a href="taxes-permis-reglements/avis-publics/"><span>Avis publics</span></a></li><li><a href="taxes-permis-reglements/hebergement-touristique/"><span>Encadrement de l’hébergement touristique dans les résidences principales</span></a></li><li><a href="taxes-permis-reglements/fiches-de-reglementation-simplifiee/"><span>Fiches de réglementation simplifiée</span></a></li><li><a href="taxes-permis-reglements/programmes-subventions/"><span>Programmes de subventions</span></a></li><li><a href="taxes-permis-reglements/reglements-municipaux/"><span>Règlements municipaux</span></a></li><li><a href="taxes-permis-reglements/taxes-evaluation-fonciere/"><span>Taxes et évaluation foncière</span></a></li></ul></div></li><li><a href="transport-et-infrastructures/">Transport et infrastructures</a><div class="submenu"><ul class="submenu-list"><li><a href="transport-et-infrastructures/bornes-de-recharge-electrique/"><span>Bornes de recharge électrique</span></a></li><li><a href="transport-et-infrastructures/projet-de-transport-collectif-et-actif-sur-le-boulevard-guillaume-couture/"><span>Projet de transport collectif et actif sur le boulevard Guillaume-Couture</span></a></li><li><a href="transport-et-infrastructures/deneigement/"><span>Déneigement</span></a></li><li><a href="transport-et-infrastructures/bris/"><span>En cas de bris</span></a></li><li><a href="transport-et-infrastructures/evenement-circulation/"><span>Événements et circulation</span></a></li><li><a href="transport-et-infrastructures/levis-en-chantier/"><span>Lévis en chantier</span></a></li><li><a href="transport-et-infrastructures/aqueduc/"><span>Réseau d'eau et d'égout</span></a></li><li><a href="transport-et-infrastructures/reseau-routier/"><span>Réseau routier</span></a></li><li><a href="transport-et-infrastructures/societe-transport-levis/"><span>Société de transport de Lévis</span></a></li><li><a href="transport-et-infrastructures/traverse/"><span>Traverse Québec-Lévis</span></a></li></ul></div></li></ul><a href="#" class="nav-mega-menu-close"><span class="visuallyhidden">Fermer la navigation</span></a></div></div></div></div></nav><a href="#" class="header-search-link">                <svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g id="Guide-de-style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g class="fill-switch" transform="translate(-654.000000, -1360.000000)" fill="#002B54" fill-rule="nonzero" id="Icônes">
+                            <g transform="translate(526.000000, 1286.000000)">
+                                <g id="Base" transform="translate(0.000000, 69.000000)">
+                                    <path d="M137.274005,5 C142.400468,5 146.548009,9.17688679 146.548009,14.3396226 C146.548009,16.0778302 146.058548,17.7641509 145.18267,19.2169811 L145.18267,19.2169811 L149.407494,23.4457547 C149.793911,23.8608491 150,24.379717 150,24.9245283 C150,25.495283 149.793911,26.0141509 149.407494,26.4033019 C148.995316,26.7924528 148.505855,27 147.93911,27 C147.372365,27 146.857143,26.7924528 146.470726,26.4033019 L146.470726,26.4033019 L142.297424,22.2004717 C140.803279,23.1603774 139.051522,23.6792453 137.274005,23.6792453 C132.147541,23.6792453 128,19.5023585 128,14.3396226 C128,9.17688679 132.147541,5 137.274005,5 Z M144.229508,20.4882075 L143.508197,21.2146226 L147.552693,25.2877358 C147.733021,25.4693396 148.093677,25.4693396 148.274005,25.2877358 C148.377049,25.2099057 148.428571,25.0801887 148.428571,24.9245283 C148.428571,24.7948113 148.377049,24.6650943 148.274005,24.5613208 L148.274005,24.5613208 L144.229508,20.4882075 Z M137.274005,6.60849057 C133.04918,6.60849057 129.59719,10.0849057 129.59719,14.3396226 C129.59719,18.5943396 133.04918,22.0707547 137.274005,22.0707547 C138.948478,22.0707547 140.545667,21.5259434 141.885246,20.5141509 L141.885246,20.5141509 L142.42623,20.125 L143.147541,19.4245283 L143.12178,19.3985849 L143.508197,18.8537736 C144.461358,17.5306604 144.95082,15.9740566 144.95082,14.3396226 C144.95082,10.0849057 141.498829,6.60849057 137.274005,6.60849057 Z M136.758782,7.85377358 C140.59719,7.85377358 143.714286,10.9929245 143.714286,14.8584906 C143.714286,15.2995283 143.379391,15.6367925 142.941452,15.6367925 C142.503513,15.6367925 142.168618,15.2995283 142.168618,14.8584906 C142.168618,11.8490566 139.747073,9.41037736 136.758782,9.41037736 C136.320843,9.41037736 135.985948,9.07311321 135.985948,8.63207547 C135.985948,8.19103774 136.320843,7.85377358 136.758782,7.85377358 Z" id="ico_recherche"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </svg><span>Recherche</span></a><div class="searchbar-wrapper"><div class="searchbar"><form action="no_cache/recherche-avancee/" class="autocompletion"><input type="text" name="q" id="search-text" value="" class="tx-solr-q" title="Que cherchez-vous?" placeholder="Que cherchez-vous?"><button type="submit" title="Lancer la recherche"><img src="fileadmin/templates/villelevis/tmpl/images/v2020/small_icons/ico_recherche.svg"></button></form><a href="#" class="header-search-close"><span class="visuallyhidden">Fermer la recherche</span></a></div></div><a href="la-ville/nousjoindre/" class="header-contact-link">                <svg width="25px" height="22px" viewBox="0 0 25 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <g id="Guide-de-style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <g class="fill-switch" transform="translate(-696.000000, -1360.000000)" fill="#002B54" fill-rule="nonzero" id="Icônes">
+                            <g transform="translate(526.000000, 1286.000000)">
+                                <g id="Base" transform="translate(0.000000, 69.000000)">
+                                    <path d="M182.152663,5 L182.516688,5.00100839 C185.810982,5.05626592 188.987617,6.35771921 191.222496,8.57221721 C193.206793,10.5389476 194.3,13.0648522 194.3,15.6850366 C194.3,21.6468861 188.848056,26.4920034 182.149639,26.4920034 C181.375002,26.4920034 180.592228,26.4296352 179.811987,26.3059298 L179.344231,26.2243544 L178.879013,26.1283937 L178.547013,26.0540249 C177.60064,25.8248203 176.734072,25.4850852 176.042651,25.0489544 C174.774478,25.6878524 173.317699,25.9009287 171.602309,25.699617 C171.133051,25.6472927 170.724766,25.2848017 170.607438,24.8160937 C170.503687,24.3483921 170.68683,23.8992867 171.103074,23.6015208 C171.443276,23.3894054 171.753777,23.0928025 171.997148,22.7508957 L172.113066,22.5763484 L172.216678,22.3957924 L172.30937,22.205507 L172.35965,22.1602571 L172.291561,22.0788641 C171.046463,20.5849932 170.269878,18.7495613 170.058547,16.8185939 L170.02557,16.455478 L170.006062,16.0915637 L170,15.7463624 C170,10.0133669 175.105617,5.30271292 181.528366,5.01400533 L181.840156,5.00350093 L182.152663,5 Z M182.089035,6.77398147 C176.331811,6.77398147 171.65133,10.8294198 171.65133,15.8069666 C171.65133,17.8729773 172.443531,19.8213891 173.944498,21.4477149 C174.119818,21.6214259 174.193627,21.9273226 174.134784,22.1871656 L174.101353,22.2951877 L173.942602,22.6797702 L173.797188,23.0021064 C173.733228,23.1357652 173.670791,23.2545906 173.60616,23.3650839 L173.507101,23.5253873 L173.416459,23.6577097 L173.267379,23.8481002 L172.951538,24.0843748 L173.369319,24.0469451 C173.965805,23.9925271 174.528493,23.8486241 175.050585,23.6174488 L175.308216,23.4945986 L175.559363,23.3571191 C175.82898,23.1881658 176.135316,23.1826703 176.404895,23.3291304 L176.50412,23.3911534 L176.608457,23.4777893 C177.17599,23.8014554 177.878251,24.0816432 178.714797,24.3233631 L179.081538,24.4246168 L179.611459,24.5593099 C180.41487,24.7441585 181.264575,24.8406732 182.089035,24.8406732 C187.846428,24.8406732 192.52674,20.7850901 192.52674,15.8069666 C192.52674,10.8294198 187.846259,6.77398147 182.089035,6.77398147 Z M178.55,14.9999998 C179.104273,14.9999998 179.6,15.495612 179.6,16.0495803 C179.6,16.644483 179.13157,17.0999998 178.55,17.0999998 C177.995535,17.0999998 177.5,16.6041959 177.5,16.0495803 C177.5,15.495612 177.995727,14.9999998 178.55,14.9999998 Z M182.3,14.9999998 C182.854273,14.9999998 183.35,15.495612 183.35,16.0495803 C183.35,16.644483 182.88157,17.0999998 182.3,17.0999998 C181.745535,17.0999998 181.25,16.6041959 181.25,16.0495803 C181.25,15.495612 181.745727,14.9999998 182.3,14.9999998 Z M186.05,14.9999998 C186.604273,14.9999998 187.1,15.495612 187.1,16.0495803 C187.1,16.644483 186.63157,17.0999998 186.05,17.0999998 C185.495535,17.0999998 185,16.6041959 185,16.0495803 C185,15.495612 185.495727,14.9999998 186.05,14.9999998 Z" id="ico_nousjoindre"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </svg>Nous joindre</a><a href="/accueil/services-en-lignes/" class="header-services-link">Services en ligne</a><div class="header-services-wrapper"><div class="header-services-overlay"></div><div class="header-services-panel"><a href="#" class="header-services-close"><span class="visuallyhidden">Fermer le panneau de Services en ligne</span></a><h2>Services en ligne</h2><ul><li><a href="transport-et-infrastructures/reseau-routier/entrave-de-la-voie-publique/">Autorisation d'entrave sur la voie publique</a></li><li><a href="culture/bibliotheques/catalogue-et-recherche/">Catalogue des bibliothèques</a></li><li><a href="accueil/formulaires/inscription-a-la-collecte-des-encombrants/">Collecte des encombrants</a></li><li><a href="taxes-permis-reglements/taxes-evaluation-fonciere/compte-de-taxes-en-ligne/">Compte de taxes en ligne</a></li><li><a href="https://e-services.acceo.com/gsel_bean/controller/ConstatPub/U3131/contester?fourn_const_seq=355&amp;lFournConstSeq=355&amp;nstd_sNoContrevenant=&amp;dtNaissance=&amp;g-recaptcha-response=">Contester un constat d'infraction</a></li><li><a href="info-levis/">Info-Lévis - Avis courriels et textos</a></li><li><a href="loisirs/programmation/inscription/">Inscription aux loisirs</a></li><li><a href="https://inscriptionsbibliotheques.ville.levis.qc.ca/fr/inscriptions-aux-activites">Inscription aux activités des bibliothèques</a></li><li><a href="cour-municipale/paiements/">Payer un constat d'infraction</a></li><li><a href="taxes-permis-reglements/autorisations-et-demandes-de-permis/permis-de-construction-et-de-renovation/demande-de-permis-de-construction/">Permis de construction</a></li><li><a href="securite/service-de-police/rapport-devenement-a-la-police/">Rapport d'événement à la police</a></li><li><a href="securite-publique/securite-civile/service-dalerte-automatise/">Service d'alerte automatisé</a></li><li><a href="la-ville/divulgation-dactes-reprehensibles/">Signaler un acte répréhensible</a></li></ul><h2>Formulaires en ligne</h2><ul><li><a href="accueil/formulaires/assistance-policiere-randonnee/">Assistance policière pour une randonnée</a></li><li><a href="accueil/formulaires/autorisation-fermeture-rue/">Autorisation de fermeture de rue</a></li><li><a href="https://app.smartsheet.com/b/form/7d4ad2d5e03e4ae389f3f4b92e37f2f2" target="_blank">Autorisation de parade</a></li><li><a href="taxes-permis-reglements/autorisations-et-demandes-de-permis/autorisation-de-tournage/">Autorisation de tournage</a></li><li><a href="accueil/formulaires/avis-dinscription-au-role-de-la-cour/">Avis d’inscription au rôle de la cour</a></li><li><a href="https://formulaires.ville.levis.qc.ca/view.php?id=33174" target="_blank">Camp de jour - Demande de remboursement</a></li><li><a href="https://fichesante.acceo.com/levis/" target="_blank">Camp de jour - Fiche santé</a></li><li><a href="https://levis.metaprisme.com/" target="_blank">Camp de jour - Identification de besoins particuliers</a></li><li><a href="accueil/formulaires/demande-de-certificat-du-greffier/">Demande de certificat du greffier</a></li><li><a href="accueil/formulaires/inscription-a-la-collecte-des-encombrants/">Collecte des encombrants</a></li><li><a href="loisirs/organismes/boite-a-outils/">Demande d'affichage extérieur</a></li><li><a href="accueil/formulaires/demande-de-divulgation-de-la-preuve/">Demande de divulgation de la preuve</a></li><li><a href="accueil/formulaires/demande-de-remise-daudition/">Demande de remise d'audition</a></li><li><a href="la-ville/demande-dacces-a-un-document-de-la-ville/">Demande d’accès à un document</a></li><li><a href="accueil/formulaires/demande-denregistrement-audio-dune-audition/">Demande d’enregistrement audio d’une audition</a></li><li><a href="accueil/formulaires/demande-dentente-de-paiement/">Demande d’entente de paiement avec la Cour municipale</a></li><li><a href="accueil/formulaires/evaluation-programmes-de-prevention-du-service-de-police/">Évaluation - Programmes de prévention de la police</a></li><li><a href="accueil/formulaires/numero-de-client-pour-les-activites-de-loisirs/">Numéro de client pour les activités de loisirs</a></li><li><a href="accueil/formulaires/paiement-preautorise-du-compte-de-taxes/">Paiement préautorisé du compte de taxes</a></li><li><a href="accueil/formulaires/demande-de-permis-de-brulage/">Permis de brûlage</a></li><li><a href="https://www.ville.levis.qc.ca/transport-et-infrastructures/deneigement/permis-deneigement/#formulaire">Permis de déneigement</a></li><li><a href="accueil/formulaires/prevention-policiere-ecoles/">Programme de prévention du Service de Police</a></li><li><a href="securite/service-de-police/rapport-devenement-a-la-police/">Rapport d'événement à la police</a></li><li><a href="accueil/formulaires/reclamation-prejudice/">Réclamation en cas de préjudice</a></li><li><a href="https://www.ville.levis.qc.ca/machform/view.php?id=59611">Remboursement d'une activité de loisirs</a></li><li><a href="accueil/formulaires/nid-de-poule/">Signaler un nid-de-poule</a></li></ul></div></div></div></header><div class="header-spacer"></div>
+    <div class="header-image"></div>
+    <div id="main" role="main">
+        <div class="wrapper">
+            <nav class="sub-nav"><h2 class="sub-nav-title">Dans cette section</h2><div class="mobile-dropdown-wrapper"><div class="mobile-dropdown-content"><ul><li><a href="la-ville/nousjoindre/"><span>311 Lévis</span></a></li><li><a href="la-ville/arrondissements/"><span>Arrondissements</span></a></li><li><a href="la-ville/carrieres-a-la-ville-de-levis/"><span>Carrières et offres d'emploi</span></a></li><li><a href="la-ville/mariage-civil/"><span>Célébration d'une union civile ou d'un mariage</span></a></li><li class="active"><a href="la-ville/conseil-municipal/"><span>Conseil municipal</span></a><ul><li><a href="la-ville/conseil-municipal/bureau-mairie/">Bureau de la mairie</a></li><li><a href="la-ville/conseil-municipal/comite-executif/">Comité exécutif</a></li><li><a href="la-ville/conseil-municipal/proces-verbaux-ce/">Décisions du comité exécutif</a></li><li><a href="la-ville/conseil-municipal/proces-verbaux/">Décisions du conseil</a></li><li><a href="la-ville/conseil-municipal/mot-maire/">Mot du maire</a></li><li><a href="la-ville/conseil-municipal/ordres-du-jour/">Ordres du jour du conseil</a></li><li class="active"><a href="la-ville/conseil-municipal/elus/">Présentation des élus</a></li><li><a href="la-ville/conseil-municipal/une-journee-dans-la-vie-d-un-citoyen/">Une journée dans la vie d'un citoyen</a></li><li><a href="la-ville/conseil-municipal/webdiffusion-des-seances/">Webdiffusion des séances</a></li></ul></li><li><a href="la-ville/contrats-appels-offres/"><span>Contrats et appels d'offres</span></a></li><li><a href="la-ville/demande-dacces-a-un-document-de-la-ville/"><span>Demande d'accès à un document de la Ville</span></a></li><li><a href="la-ville/divulgation-dactes-reprehensibles/"><span>Divulgation d’actes répréhensibles</span></a></li><li><a href="la-ville/election-municipale/"><span>Élection municipale</span></a></li><li><a href="la-ville/finances/"><span>Finances et gestion de la dette</span></a></li><li><a href="la-ville/mission-vision/"><span>Mission et vision</span></a></li><li><a href="la-ville/participation-citoyenne/"><span>Participation citoyenne</span></a></li><li><a href="la-ville/politiques-plans-action/"><span>Politiques et plans d’action</span></a></li><li><a href="la-ville/prix/"><span>Prix et distinctions</span></a></li><li><a href="la-ville/statistiques/"><span>Statistiques et cartes</span></a></li><li><a href="la-ville/structure-administrative/"><span>Organisation municipale</span></a></li><li><a href="la-ville/verificateur-general/"><span>Vérificateur général</span></a></li></ul></div></div></nav>
+            <div class="main-col">
+				<article>
+					<nav class="breadcrumbs"><ul><li><a href="/">Accueil</a></li><li><a href="la-ville/">La Ville</a></li><li><a href="la-ville/conseil-municipal/">Conseil municipal</a></li><li><a href="la-ville/conseil-municipal/elus/" class="active">Présentation des élus</a><span class="visuallyhidden">Page active</span></li></ul></nav><!--TYPO3SEARCH_begin--><div id="c1164" class="csc-frame csc-frame-default"><h1>Présentation des élus</h1><div><p class="bodytext">Le conseil municipal compte 16 membres :&nbsp;</p></div><div><ul><li>Un maire élu au suffrage universel&nbsp;</li><li>15 conseillers et conseillères représentant autant de districts électoraux</li><li>Le comité exécutif, composé de 5 membres du conseil municipal</li></ul></div><p class="bodytext"><img src="fileadmin/documents/Images/district-electoraux.gif" height="362" width="695" alt="" style="" /></p></div><div id="c9502" class="csc-frame csc-frame-default">
+    <div class="drawers"><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Maire - Gilles Lehouillier</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/user_upload/2023_lehouillier.jpg" width="300" height="300" alt="" style="" /></p>
+<h3> Maire - Gilles Lehouillier</h3>
+<h4>Président du comité exécutif</h4>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:gilles.lehouillier@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">gilles.lehouillier@ville.levis.qc.ca</a></p><ul><li>Président du Comité exécutif&nbsp;</li><li>Communauté métropolitaine de Québec&nbsp;</li><li>Table régionale des élus municipaux de la Chaudière-Appalaches (TREMCA)</li><li>Président du Comité directeur sur la mobilité durable</li><li>Maire du Forum des élus de la Capitale-Nationale</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 1, Saint-Étienne – Serge Bonin</a></div>
+          <div class="dropdown"><h2><img src="fileadmin/documents/Images/ville/2022_M._Serge_Bonin.jpg" width="300" height="300" alt="" style="" /></h2>
+<h3>Conseiller district 1, Saint-Étienne – Serge Bonin</h3>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:sbonin@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">sbonin@ville.levis.qc.ca</a></p><ul><li>Président de la Régie intermunicipale de gestion des déchets des Chutes-de-la-Chaudière</li><li>Président du Comité de la gestion des matières résiduelles</li><li>Président du Comité de démolition</li><li>Comité consultatif d’urbanisme en patrimoine</li><li>Comité de toponymie</li><li>Commission de la culture</li><li>Société de transport de Lévis</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 2, Saint-Nicolas – Jeannot Demers</a></div>
+          <div class="dropdown"><h2><img src="fileadmin/documents/Images/ville/2022_M._Jeannot_Demers.jpg" width="300" height="300" alt="" style="" /></h2>
+<h3>Conseiller district 2, Saint-Nicolas – Jeannot Demers</h3><div><p class="bodytext"><b>Courriel<br /></b><a href="mailto:jeannot.demers@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">jeannot.demers@ville.levis.qc.ca</a></p><ul><li>Vice-président du conseil de la Ville</li><li>Président de la Commission de l’activité physique, du sport et du plein air</li><li>Président de la Commission du développement social et communautaire</li><li>Comité de sécurité publique, circulation et transport</li><li>Commission de l’environnement </li><li>Régie intermunicipale de gestion des déchets des Chutes-de-la-Chaudière</li><li>Comité de la gestion des matières résiduelles</li><li>Comité sur le déneigement</li></ul></div></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseillère district 3, Villieu – Isabelle Demers</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_Mme_Isabelle_Demers.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseillère district 3, Villieu – Isabelle Demers</h3>
+<p class="bodytext"><b>Membre du comité exécutif</b></p><div><p class="bodytext"><b>Courriel<br /></b><a href="mailto:idemers@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">idemers@ville.levis.qc.ca</a></p></div><div><ul><li>Mairesse suppléante</li><li>Comité exécutif / Finances</li><li>Présidente du Comité des finances de la Ville</li><li>Comité de régime de retraite 31 986&nbsp;</li><li>Comité de régime de retraite 21 190&nbsp;</li></ul></div></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 4, Saint-Rédempteur – Réjean Lamontagne</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_M._Rejean_Lamontagne.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseiller district 4, Saint-Rédempteur – Réjean Lamontagne</h3><div><p class="bodytext"><b>Courriel<br /></b><a href="mailto:rlamontagne@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">rlamontagne@ville.levis.qc.ca</a>&nbsp;&nbsp;</p></div><div><ul><li>Président de l’arrondissement des Chutes-de-la-Chaudière-Ouest</li><li>Président du Comité consultatif d’urbanisme</li><li>Comité consultatif d’urbanisme en patrimoine</li><li>Comité de démolition</li><li>Comité des finances de la Ville</li><li>Comité des services de proximité</li><li>Comité de toponymie</li><li>Commission consultative d’urbanisme et d’aménagement de la Ville</li></ul></div></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseillère district 5, Charny – Karine Lavertu</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_Mme_Karine_Lavertu.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseillère district 5, Charny – Karine Lavertu</h3><div><p class="bodytext"><b>Courriel<br /></b><a href="mailto:klavertu@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">klavertu@ville.levis.qc.ca</a></p></div><div><ul><li>Présidente du Comité consultatif agricole de la Ville</li><li>Présidente du Comité des services de proximité</li><li>Vice-présidente de la Commission de l’activité physique, du sport et du plein air</li><li>Comité de développement économique, main-d’œuvre et revitalisation</li><li>Comité des finances de la Ville</li><li>Comité de suivi du Bureau de projets</li><li>Régie intermunicipale de gestion des déchets des Chutes-de-la-Chaudière</li><li>Comité de la gestion des matières résiduelles</li><li>Table agro-urbaine</li><li>Comité sur le déneigement</li></ul></div><div><div></div></div></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 6, Breakeyville – Michel Turner</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_M._Michel_Turner.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseiller district 6, Breakeyville – Michel Turner</h3><div><p class="bodytext"><b>Courriel<br /></b><a href="mailto:mturner@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">mturner@ville.levis.qc.ca</a></p></div><div><ul><li>Président de l’arrondissement des Chutes-de-la-Chaudière-Est</li><li>Président du Comité consultatif d’urbanisme en patrimoine</li><li>Comité consultatif d’urbanisme</li><li>Comité de démolition</li><li>Comité des finances de la Ville</li><li>Comité de vigilance environnementale de Sanimax</li><li>Commission consultative d’urbanisme et d’aménagement de la Ville</li><li>Société de transport de Lévis</li></ul></div><div></div></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 7, Saint-Jean – Guy Dumoulin</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_M._Guy_Dumoulin.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseiller district 7, Saint-Jean – Guy Dumoulin</h3>
+<h4>Vice-président du comité exécutif</h4><div><p class="bodytext"><b>Courriel<br /></b><a href="mailto:gdumoulin@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">gdumoulin@ville.levis.qc.ca</a></p></div><div><ul><li>Vice-président du Comité exécutif / Aménagement</li><li>Communauté métropolitaine de Québec&nbsp;</li><li>Président de la Commission consultative d’urbanisme et d’aménagement de la Ville</li><li>Président du Comité de suivi du Bureau des projets</li><li>Comité consultatif agricole (membre substitut)</li><li>Comité directeur sur la mobilité durable</li><li>Forum des élus de la Capitale-Nationale</li><li>Table agro-urbaine</li><li>Comité sur le déneigement</li></ul></div><div></div></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 8, Taniata – Michel Patry</a></div>
+          <div class="dropdown"><h2><img src="fileadmin/documents/Images/ville/2022_M._Michel_Patry.jpg" width="300" height="300" alt="" style="" /></h2>
+<h3>Conseiller district 8, Taniata – Michel Patry</h3>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:michel.patry@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">michel.patry@ville.levis.qc.ca</a></p><ul><li>Président du conseil de la Ville</li><li>Président du Comité de développement économique, main-d’œuvre et revitalisation</li><li>Président du Comité de toponymie</li><li>Comité des services de proximité</li><li>Comité de suivi du Bureau de projets</li><li>Comité directeur sur la mobilité durable</li><li>Commission du développement social et communautaire</li><li>Table régionale des élus municipaux de la Chaudière-Appalaches (TREMCA)</li><li>Vice-président de la Société de transport de Lévis</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseillère district 9, Saint-Romuald – Brigitte Duchesneau</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_Mme_Brigitte_Duchesneau.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseillère district 9, Saint-Romuald – Brigitte Duchesneau</h3>
+<h4>Membre du comité exécutif</h4>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:bduchesneau@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">bduchesneau@ville.levis.qc.ca</a></p><ul><li>Comité exécutif / Environnement</li><li>Comité de sécurité publique, circulation et transport</li><li>Comité permanent de liaison avec la communauté – Valero</li><li>Commission consultative de la culture</li><li>Commission consultative sur de l’environnement</li><li>Communauté métropolitaine de Québec</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 10, Notre-Dame – Steve Dorval</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_M._Steve_Dorval.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseiller district 10, Notre-Dame – Steve Dorval</h3>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:steve.dorval@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">steve.dorval@ville.levis.qc.ca</a></p><ul><li>Président de la Société de transport de Lévis</li><li>Comité de développement économique, main-d’œuvre et revitalisation</li><li>Comité directeur sur la mobilité durable</li><li>Comité permanent de liaison avec la communauté – Valero</li><li>Commission de la culture</li><li>Régie intermunicipale de gestion des déchets des Chutes-de-la-Chaudière</li><li>Comité de la gestion des matières résiduelles</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 11, Saint-David – Serge Côté</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_M._Serge_Cote.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseiller district 11, Saint-David – Serge Côté</h3>
+<h3>Membre du comité exécutif</h3>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:scote@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">scote@ville.levis.qc.ca</a></p><ul><li>Comité exécutif / Mobilité durable et transport</li><li>Comité des finances de la Ville</li><li>Comité de sécurité publique, circulation et transport</li><li>Communauté métropolitaine de Québec</li><li>Société de transport de Lévis</li><li>Comité de régime de retraite 31 986&nbsp;</li><li>Comité de régime de retraite 21 190&nbsp;</li><li>Comité sur le déneigement</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseiller district 12, Christ-Roi - Alexandre Fallu</a></div>
+          <div class="dropdown"><h3><img src="fileadmin/documents/Images/ville/2023_M.__Alexandre_Fallu.jpg" width="300" height="300" alt="" style="" /></h3>
+<h3>Conseiller district 12, Christ-Roi – Alexandre Fallu</h3>
+<p class="bodytext"><b>Courriel</b><br /><a href="mailto:afallu@ville.levis.qc.ca" class="mail">afallu@ville.levis.qc.ca</a></p><ul><li>Président de la Commission consultative de la culture</li><li>Membre du comité sur la sécurité publique et la circulation</li><li>Membre de la commission consultative de l’environnement</li><li>Membre du comité consultatif agricole</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseillère district 13, Bienville – Amélie Landry</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_Mme_Amelie_Landry.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseillère district 13, Bienville – Amélie Landry</h3>
+<p class="bodytext"><b>Membre du comité exécutif</b></p>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:alandry@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">alandry@ville.levis.qc.ca&nbsp;</a></p><ul><li>Comité exécutif / Qualité de vie</li><li>Comité sur le logement social et communautaire</li><li>Commission de l’activité physique, du sport et du plein air</li><li>Commission du développement social et communautaire</li><li>Communauté métropolitaine de Québec</li><li>Office municipal d’habitation de Lévis</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseillère district 14, Lauzon – Fleur Paradis</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_Mme_Fleur_Paradis.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseillère district 14, Lauzon – Fleur Paradis</h3>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:fparadis@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">fparadis@ville.levis.qc.ca</a></p><ul><li>Présidente de la Commission de l’environnement</li><li>Comité sur le logement social et communautaire</li><li>Comité de suivi du Bureau de projets</li><li>Office municipal d’habitation de Lévis</li></ul></div>
+        </div><div class="drawer">
+          <div class="drawer-title"><a href="#" class="openclose">Conseillère district 15, Pintendre – Ann Jeffrey</a></div>
+          <div class="dropdown"><p class="bodytext"><img src="fileadmin/documents/Images/ville/2022_Mme_Ann_Jeffrey.jpg" width="300" height="300" alt="" style="" /></p>
+<h3>Conseillère district 15, Pintendre – Ann Jeffrey</h3>
+<p class="bodytext"><b>Courriel<br /></b><a href="mailto:ajeffrey@ville.levis.qc.ca" title="Envoyez un courriel" class="mail">ajeffrey@ville.levis.qc.ca</a></p><ul><li>Présidente de l’arrondissement de Desjardins</li><li>Comité consultatif agricole de la Ville</li><li>Comité consultatif d’urbanisme</li><li>Comité consultatif d’urbanisme en patrimoine</li><li>Commission consultative d’urbanisme et d’aménagement de la Ville</li></ul></div>
+        </div></div>
+</div><!--TYPO3SEARCH_end-->
+					<div class="subpages-list"></div>
+				</article>
+			</div>
+            <div class="right sidebar"><div id="c6086" class="csc-frame csc-frame-default">
+        <aside>
+            <h2>Horaire des séances</h2>
+            <ul><li><a href="la-ville/conseil-municipal#seances" title="Initiates file download">Calendrier des séances du conseil municipal</a></li></ul>
+        </aside>
+    </div><div id="c3809" class="csc-frame csc-frame-default">
+        <aside>
+            <h2>Webdiffusion des séances</h2>
+            <p class="bodytext">Visionnez les séances du conseil de la Ville en direct et en différé.</p>
+<p class="bodytext"><a href="la-ville/conseil-municipal/webdiffusion-des-seances/" title="Opens internal link in current window" class="internal-link">Webdiffusion des séances</a></p>
+        </aside>
+    </div></div>
+        </div><!--wrapper-->
+    </div>
+    <div id="prefooter"><div class="content"><div class="wrapper"><div class="column col-half"><div class="left cyan-box"><h2><a href="la-ville/nousjoindre/">311 Lévis</a></h2><div class="content"><div class="text"><p>Pour toute information, vous pouvez communiquer avec le 311 Lévis.</p><a href="la-ville/service-clientele/" class="submit-btn">Nous joindre</a></div></div></div></div><div class="column col-4"><div class="prefooter-top-side"><div class="prefooter-infolevis">                    <h2>Abonnez-vous à l'Info-Lévis</h2>
+                    <p>Recevez en temps et en heure des alertes sur les sujets qui vous intéressent.</p></div><a href="info-levis/" class="submit-btn">M'abonner</a></div></div><div class="prefooter-bottom"><div class="prefooter-main-links"><ul><li><h3>À propos</h3><ul><li><a href="taxes-permis-reglements/avis-publics/">Avis publics</a></li><li><a href="https://levisrecrute.com">Carrières</a></li><li><a href="accueil/levis-au-service-des/">Lévis au service des...</a></li></ul></li><li><h3>Média</h3><ul><li><a href="accueil/branchez-vous-sur-levis/cahier-municipal/">Cahier municipal</a></li><li><a href="accueil/branchez-vous-sur-levis/mediassociaux/">Médias sociaux</a></li><li><a href="accueil/branchez-vous-sur-levis/journal-municipal-levis-sinforme/">Lévis'informe</a></li><li><a href="accueil/salle-presse/">Salle de presse</a></li></ul></li><li><h3>Utile</h3><ul><li><a href="la-ville/statistiques/cartes-interactives/">Cartes interactives</a></li><li><a href="accueil/carte-secteurs-arrondissements/">Carte des secteurs et arrondissements</a></li><li><a href="https://villedelevis.sharepoint.com">Portail employés</a></li></ul></li><li><h3>Partenaires</h3><ul><li><a href="https://www.courantlevis.com">Courant Lévis</a></li></ul></li></ul></div><div class="prefooter-social-links"><h3>Nous suivre</h3><ul><li><a href="https://www.facebook.com/villedelevis/" target="_blank">                        <svg width="31px" height="30px" viewBox="0 0 31 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <g id="Guide-de-style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g class="fill-switch" transform="translate(-913.000000, -1511.000000)" fill="#FFFFFF" fill-rule="nonzero" id="Icônes">
+                                    <g transform="translate(526.000000, 1286.000000)">
+                                        <g id="Social" transform="translate(293.392728, 201.000000)">
+                                            <path d="M108.893274,24 C117.118603,24 123.786549,30.667946 123.786549,38.8932743 C123.786549,46.6442351 117.865527,53.0122671 110.299857,53.720996 L110.299647,43.2834094 L113.117444,43.2834094 L113.490429,39.658839 L110.299929,39.658839 L110.299929,37.5236755 C110.299929,36.7228132 110.829145,36.5347724 111.205508,36.5347724 L111.205508,36.5347724 L113.5,36.5347724 L113.5,33.0132304 L110.33765,33 C106.827931,33 106.030446,35.6289113 106.030446,37.3077664 L106.030446,37.3077664 L106.030446,39.6554611 L104,39.6554611 L104,43.2834094 L106.030446,43.2834094 L106.029923,53.5115586 C99.1745524,52.1765349 94,46.1391953 94,38.8932743 C94,30.667946 100.667946,24 108.893274,24 Z" id="ico_facebook"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg></a></li><li><a href="https://twitter.com/VilledeLevis" target="_blank">                        <svg width="31px" height="30px" id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 31 30">
+                            <defs>
+                                <style>
+                                .cls-1 {
+                                    fill: #fff;
+                                    stroke-width: 0px;
+                                }
+                                </style>
+                            </defs>
+                            <path class="cls-1" d="M30.2,14.9C30.2,6.7,23.5,0,15.3,0S.4,6.7.4,14.9s6.7,14.9,14.9,14.9,14.9-6.7,14.9-14.9ZM18.7,22.5l-3.9-5.3-4.5,5.3h-2.5l5.9-6.9L7.4,7.3h5.2l3.6,4.9,4.1-4.9h2.5l-5.5,6.5,6.4,8.8h-5Z"/>
+                            <polygon class="cls-1" points="20.8 21 11.8 8.7 10.3 8.7 19.4 21 20.8 21"/>
+                        </svg></a></li><li><a href="https://www.youtube.com/channel/UCCJGmU9-dA7gD5Imke8Aw-A" target="_blank">                        <svg width="31px" height="30px" viewBox="0 0 31 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <g id="Guide-de-style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g class="fill-switch" transform="translate(-1063.000000, -1511.000000)" fill="#FFFFFF" fill-rule="nonzero" id="Icônes">
+                                    <g transform="translate(526.000000, 1286.000000)">
+                                        <g id="Social" transform="translate(293.392728, 201.000000)">
+                                            <path d="M258.893274,24 C267.118603,24 273.786549,30.667946 273.786549,38.8932743 C273.786549,47.1186026 267.118603,53.7865487 258.893274,53.7865487 C250.667946,53.7865487 244,47.1186026 244,38.8932743 C244,30.667946 250.667946,24 258.893274,24 Z M259.280791,33.0009811 L258.719211,33.0009811 C257.647125,33.0068674 253.818431,33.0480719 252.748904,33.3365035 C252.060516,33.5217181 251.518349,34.0673717 251.334336,34.760242 C251.037148,35.8765688 251.004128,38.0709266 251.000459,38.5447799 L251.000459,38.7279407 C251.004128,39.201794 251.037148,41.3961519 251.334336,42.5124786 C251.518349,43.2053489 252.060516,43.7282975 252.748904,43.9134828 C253.818431,44.2019143 257.647125,44.2431188 258.719211,44.2490052 L259.280789,44.2490052 C260.352875,44.2431188 264.181569,44.2019143 265.251096,43.9134828 C265.939484,43.7282975 266.481651,43.2053489 266.665664,42.5124786 C266.962852,41.3961519 266.995872,39.201794 266.999541,38.7279407 L266.999983,38.6469408 C267,38.6399546 267,38.6363603 267,38.6363603 L266.999983,38.6257798 L266.999983,38.6257798 L266.999541,38.5447799 C266.995872,38.0709266 266.962852,35.8765688 266.665664,34.760242 C266.481651,34.0673717 265.939484,33.5216888 265.251096,33.3365035 C264.181594,33.0480719 260.352882,33.0068674 259.280791,33.0009811 Z M257.363625,36.2573691 L261.545427,38.6364189 L257.363625,41.0153515 L257.363625,36.2573691 Z" id="ico_youtube"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg></a></li><li><a href="https://www.instagram.com/villedelevis/" target="_blank">                        <svg width="31px" height="30px" viewBox="0 0 31 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <g id="Guide-de-style" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g class="fill-switch" transform="translate(-963.000000, -1511.000000)" fill="#FFFFFF" fill-rule="nonzero" id="Icônes">
+                                    <g transform="translate(526.000000, 1286.000000)">
+                                        <g id="Social" transform="translate(293.392728, 201.000000)">
+                                            <path d="M158.959667,24 C167.221333,24 173.919333,30.698 173.919333,38.9596667 C173.919333,47.2213333 167.221333,53.9193333 158.959667,53.9193333 C150.698,53.9193333 144,47.2213333 144,38.9596667 C144,30.698 150.698,24 158.959667,24 Z M162.961852,31 L155.035481,31 C152.810337,31 151,32.8103368 151,35.0354807 L151,35.0354807 L151,42.9618523 C151,45.1872925 152.810337,46.997333 155.035481,46.997333 L155.035481,46.997333 L162.961852,46.997333 C165.187292,46.997333 166.997333,45.1872925 166.997333,42.9618523 L166.997333,42.9618523 L166.997333,35.0354807 C166.997333,32.8103368 165.187292,31 162.961852,31 L162.961852,31 Z M162.961852,32.7410048 C164.22731,32.7410048 165.256625,33.770319 165.256625,35.0354807 L165.256625,35.0354807 L165.256625,42.9618523 C165.256625,44.2273103 164.227014,45.2566245 162.961852,45.2566245 L162.961852,45.2566245 L155.035481,45.2566245 C153.770319,45.2566245 152.741005,44.227014 152.741005,42.9618523 L152.741005,42.9618523 L152.741005,35.0354807 C152.741005,33.770319 153.770319,32.7410048 155.035481,32.7410048 L155.035481,32.7410048 Z M158.998666,34.8787429 C156.727005,34.8787429 154.878743,36.7270049 154.878743,38.9986665 C154.878743,41.2706244 156.727005,43.1188864 158.998666,43.1188864 C161.270328,43.1188864 163.118886,41.2703281 163.118886,38.9986665 C163.118886,36.7270049 161.270624,34.8787429 158.998666,34.8787429 Z M158.998666,36.6197476 C160.310346,36.6197476 161.377585,37.6872834 161.377585,38.9983702 C161.377585,40.3103459 160.310642,41.3778816 158.998666,41.3778816 C157.687283,41.3778816 156.619451,40.3103459 156.619451,38.9983702 C156.619451,37.6869871 157.687283,36.6197476 158.998666,36.6197476 Z M163.251328,33.7809855 C162.713561,33.7809855 162.276235,34.2183107 162.276235,34.7557822 C162.276235,35.2932537 162.713561,35.730579 163.251328,35.730579 C163.7888,35.730579 164.226125,35.2932537 164.226125,34.7557822 C164.226125,34.2183107 163.7888,33.7809855 163.251328,33.7809855 Z" id="ico_instagram"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg></a></li><li><a href="https://www.linkedin.com/company/villedelevis/" target="_blank">                        <svg width="31px" height="30px" id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3334 3334"><path d="M1667,0c920,0,1667,746,1667,1667,0,920-746,1667-1667,1667C747,3334,0,2588,0,1667,0,747,746,0,1667,0ZM1452,1336h342v175h5c48-86,164-175,338-175,361,0,428,225,428,517v596H2208V1921c0-126-3-288-186-288-186,0-214,137-214,279v537H1451V1336Zm-247-309c0,102-83,186-186,186-102,0-186-83-186-186,0-102,83-186,186-186C1121,841,1205,924,1205,1027ZM834,1336h371V2449H834Z" style="fill:#fff;fill-rule:evenodd"/></svg></a></li></ul><a href="accueil/branchez-vous-sur-levis/mediassociaux/">Voir la liste complète</a></div><div class="column"><div class="prefooter-bottom-images"><a href="http://quaipaquetlevis.com/"><img src="fileadmin/user_upload/logo_quai_paquet_renv_100.png" width="100" height="49"   alt="" ></a><a href="https://www.courantlevis.com/"><img src="fileadmin/user_upload/logo-vivezlecourant%402x.png" width="160" height="96"   alt="" ></a></div></div></div></div></div></div><footer id="footer"><div class="wrapper"><nav role="navigation"><h2 class="visuallyhidden">Navigation de bas de page</h2></nav><p class="copyright">©&nbsp;2025, Ville de Lévis. Tous droits réservés.</p><ul><li><a href="accueil/plan-site/">Plan du site</a></li><li><a href="accueil/accessibilite/">Accessibilité</a></li><li><a href="politiques-de-confidentialite-et-protection-des-renseignements-personnels/">Politiques de confidentialité et protection des renseignements personnels</a></li></ul></div></footer><div id="slider-lightbox-focus"><div id="slider-lightbox" class="reveal-modal"></div></div>
+            <!-- Elastislide -->
+        <script id="img-wrapper-tmpl" type="text/x-jquery-tmpl">
+            <div class="rg-image-wrapper">
+                <div id="slider-focus">
+                    <div class="slider-main-image">
+                        <div id="main-image-frame" class="rg-image"></div>
+                        <div class="rg-loading">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#transparent;display:block;" width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+                                <rect x="15" y="30" width="10" height="40" fill="#002b54">
+                                    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" values="1;0.2;1" begin="-0.6"></animate>
+                                </rect><rect x="35" y="30" width="10" height="40" fill="#516380">
+                                    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" values="1;0.2;1" begin="-0.4"></animate>
+                                </rect><rect x="55" y="30" width="10" height="40" fill="#afbdd2">
+                                    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" values="1;0.2;1" begin="-0.2"></animate>
+                                </rect><rect x="75" y="30" width="10" height="40" fill="#f2f4f6">
+                                    <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" values="1;0.2;1" begin="-1"></animate>
+                                </rect>
+                            </svg>
+                        </div>
+                    </div>
+                    <div class="rg-caption-wrapper">
+                        <div class="rg-caption" style="display:none;">
+                            <h3 class="description"></h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </script><script type="text/javascript">var currentFormUrl="/environnement-et-collectes/guide-du-tri-et-reemploi/guide-du-tri/matiere/";</script>
+<div class="tx-we-cookie-consent">
+    
+		
+	
+</div>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/foundation.min.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/app.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/jquery-ui.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/jquery.maskedinput.min.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/mediaelement-and-player.min.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/lodash.min.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/jquery.foundation.reveal.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/roundabout/jquery.roundabout.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/slides/jquery.slides.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/jquery.tmpl.min.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/jquery.easing.1.3.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/gallery.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/jquery.elastislide.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/inline-slider.js?1731041366" type="text/javascript"></script>
+<script src="typo3conf/ext/solr/Resources/Public/JavaScript/JQuery/jquery.autocomplete.min.js?1731041367" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/ext/solr/suggest_controller.js?1731041365" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/upload.js?1731041366" type="text/javascript"></script>
+<script src="/machform/js/uploadifive/jquery.uploadifive.js?1732040269" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/jquery.tipsy.js?1731041366" type="text/javascript"></script>
+<script src="fileadmin/templates/villelevis/tmpl/javascripts/script.js?1731041366" type="text/javascript"></script>
+<script src="/fileadmin/templates/villelevis/tmpl/javascripts/accueil.js?1731041366" type="text/javascript"></script>
+
+<script type="text/javascript" src="typo3conf/ext/we_cookie_consent/Resources/Public/JavaScript/Controller/ConsentController.js"></script><script type="text/javascript">var klaroConfig = {"acceptAll":true,"additionalClass":"","cookieDomain":"","cookieExpiresAfterDays":"365","default":false,"elementID":"klaro","groupByPurpose":true,"hideDeclineAll":false,"hideLearnMore":false,"htmlTexts":true,"lang":"en","mustConsent":false,"poweredBy":"https:\/\/consent.websedit.de","privacyPolicy":"https:\/\/www.ville.levis.qc.ca\/politiques-de-confidentialite-et-protection-des-renseignements-personnels\/","storageMethod":"cookie","storageName":"klaro","stylePrefix":"klaro we_cookie_consent","testing":false,"consentMode":false,"translations":{"en":{"consentModal":{"title":"Param\u00e8tres de confidentialit\u00e9","description":"Lors de votre visite sur un site Web, des donn\u00e9es, souvent des t\u00e9moins (cookies en anglais) peuvent \u00eatre stock\u00e9es ou extraites par votre navigateur. Elles concernent vos pr\u00e9f\u00e9rences et votre appareil, permettant au site de suivre vos visites et activit\u00e9s. Bien qu&#039;elles ne vous identifient g\u00e9n\u00e9ralement pas directement, elles contribuent \u00e0 une exp\u00e9rience Web personnalis\u00e9e. Dans le respect de votre vie priv\u00e9e, nous vous donnons la possibilit\u00e9 de refuser certains types de t\u00e9moins. Explorez les cat\u00e9gories pour plus de d\u00e9tails et ajustez les param\u00e8tres par d\u00e9faut selon vos pr\u00e9f\u00e9rences.\u003Cbr\u003E\u003Cbr\u003E"},"privacyPolicy":{"text":"\u003Cb\u003EAjustez les param\u00e8tres ci-dessous.\u003C\/b\u003E","name":"Avis de confidentialit\u00e9"},"consentNotice":{"description":"Dans le respect de votre vie priv\u00e9e, nous vous donnons la possibilit\u00e9 de refuser certains types de t\u00e9moins. Explorez les cat\u00e9gories pour plus de d\u00e9tails et ajustez les param\u00e8tres par d\u00e9faut selon vos pr\u00e9f\u00e9rences.","changeDescription":"Depuis votre derni\u00e8re visite, des modifications ont \u00e9t\u00e9 apport\u00e9es aux param\u00e8tres de confidentialit\u00e9. Veuillez mettre \u00e0 jour vos param\u00e8tres.","learnMore":"Modifier les param\u00e8tres"},"contextualConsent":{"acceptOnce":"Oui","acceptAlways":"Toujours","description":"Voulez-vous charger du contenu externe fourni par {title}?"},"service":{"disableAll":{"title":"Accepter tout","description":"Vous avez le droit de r\u00e9voquer votre consentement \u00e0 tout moment, que ce soit individuellement ou dans son int\u00e9gralit\u00e9. Si le consentement au traitement des donn\u00e9es est r\u00e9voqu\u00e9, les donn\u00e9es qui ont \u00e9t\u00e9 l\u00e9galement collect\u00e9es jusqu&#039;\u00e0 la r\u00e9vocation peuvent toujours \u00eatre trait\u00e9es par le fournisseur."},"optOut":{"title":"(D\u00e9sinscription)","description":"Cette application est charg\u00e9e par d\u00e9faut (mais vous pouvez la d\u00e9sactiver)."},"required":{"title":"(toujours n\u00e9cessaire)","description":"Cette application est toujours n\u00e9cessaire."},"purpose":"Objectif","purposes":"Objectifs"},"purposes":{"unknown":"Non attribu\u00e9","statistiques des visites":{"title":"Statistiques des visites","description":""},"requis":{"title":"Requis","description":""}},"ok":"Accepter","save":"Enregistrer les param\u00e8tres","acceptAll":"Accepter tout","acceptSelected":"Accepter la s\u00e9lection","decline":"Rejeter","close":"Ferner","poweredBy":"Provided by websedit"}},"services":[],"purposeOrder":["requis","statistiques des visites","unknown"]}</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'other-1',
+		title: 'Google Tag Manager',
+        description: 'Permets d\'avoir des statistiques sur l\'utilisation du site et en améliorer les fonctionnalités.&nbsp;',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Google Tag Manager'}}, 
+        purposes: ['statistiques des visites'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'other-10',
+		title: 'Klaro',
+        description: 'Permets de sauvegarder vos choix de témoins (cookie).',
+        default: true,
+        defaultIfNoConsent: true,
+        required: true,
+        optOut: false,
+        translations: {'en':{'title':'Klaro'}}, 
+        purposes: ['requis'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'other-6',
+		title: 'Meta',
+        description: 'Permets de suivre les résultats de nos campagnes publicitaires sur les plateformes Meta.',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Meta'}}, 
+        purposes: ['statistiques des visites'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'other-9',
+		title: 'PHPSESSID',
+        description: 'Témoin natif des applications PHP qui stocke et identifie l’ID de session unique d’un utilisateur pour gérer les sessions utilisateur sur le site Web. Il sera supprimé lorsque toutes les fenêtres du navigateur seront fermées.',
+        default: true,
+        defaultIfNoConsent: true,
+        required: true,
+        optOut: false,
+        translations: {'en':{'title':'PHPSESSID'}}, 
+        purposes: ['requis'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'other-8',
+		title: 'Metricool',
+        description: 'Permets de regrouper les statistiques de visites et d\'en faire l\'analyse.',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Metricool'}}, 
+        purposes: ['statistiques des visites'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'other-5',
+		title: 'Snapchat',
+        description: 'Permets de suivre les résultats de nos campagnes publicitaires sur Snapchat.',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Snapchat'}}, 
+        purposes: ['statistiques des visites'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'other-4',
+		title: 'Tiktok',
+        description: 'Permets de suivre les résultats de nos campagnes publicitaires sur Tiktok.',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Tiktok'}}, 
+        purposes: ['statistiques des visites'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript" src="typo3conf/ext/we_cookie_consent/Resources/Public/Library/klaro/klaro.js"></script>
+</body>
+</html>
+<!-- Parsetime: 0ms -->

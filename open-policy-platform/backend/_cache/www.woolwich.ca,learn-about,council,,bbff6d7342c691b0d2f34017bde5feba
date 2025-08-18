@@ -1,0 +1,1599 @@
+status: 200
+encoding: utf-8
+Date: Sat, 09 Aug 2025 05:44:53 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+Vary: Accept-Encoding
+x-azure-ref: 20250809T054453Z-185659d9b78wnpxnhC1YTOpmaw0000000d2g0000000093xz
+X-Cache: CONFIG_NOCACHE
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en" class="no-js usn">
+<head>
+            <!-- Google Analytics -->
+        <link rel="dns-prefetch" href="//www.google-analytics.com">
+
+    <!-- Google Fonts -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+<link rel="dns-prefetch" href="//fonts.gstatic.com">
+<link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
+
+<!-- Google -->
+<link rel="dns-prefetch" href="//www.gstatic.com">
+<link rel="preconnect" href="//www.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="preconnect" href="//www.google.com" crossorigin>
+
+<!-- Icons -->
+<link rel="preload" href="/css/GOV/icons/ionicons.woff2?v=4.5.4" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/css/GOV/icons/ionicons.woff?v=4.5.4" as="font" type="font/woff" crossorigin>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=2">
+        <link rel="canonical" href="https://www.woolwich.ca/learn-about/council/" />
+    <title>Council | Township of Woolwich</title>
+    <meta name="description" content="">
+            <link rel="alternate" hreflang="en-us" href="https://www.woolwich.ca/learn-about/council/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Council | Township of Woolwich" />
+    <meta property="og:image" content="https://www.woolwich.ca/media/dfjf0de1/woolwich-township-vector-logo.svg" />
+    <meta property="og:url" content="https://www.woolwich.ca/learn-about/council/" />
+    <meta property="og:description" content="" />
+    <meta property="og:site_name" content="Township of Woolwich" />
+    <meta name="robots" content="index,follow">
+
+    
+
+
+
+
+    <link href="/sb/sitebuilder-ltr-css-bundle.css.v1-8-2-0" media="screen" rel="stylesheet" />
+<link href="/sb/sitebuilder-css-bundle.css.v1-8-2-0" media="screen" rel="stylesheet" />
+<link href="/sb/sitebuilder-css-small-bundle.css.v1-8-2-0" media="screen and (min-width:0) and (max-width:1164px)" rel="stylesheet" />
+<link href="/sb/sitebuilder-css-large-bundle.css.v1-8-2-0" media="screen and (min-width:1165px)" rel="stylesheet" />
+<link rel="stylesheet" media="screen" href="/uSkinned/css/generated/51cbe6b0-0bb8-4465-99e4-c15a5c122d3a.css?version=638590684092430000" />
+<link href="/sb/sitebuilder-css-prnt-bundle.css.v1-8-2-0" media="print" rel="stylesheet" />
+
+<link href="/sb/gov-css-bundle.css.v1-8-2-0" media="screen" rel="stylesheet" />
+
+
+            <link rel="shortcut icon" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=32&amp;height=32">
+        <link rel="apple-touch-icon" sizes="57x57" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=57&amp;height=57">
+        <link rel="apple-touch-icon" sizes="60x60" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=60&amp;height=60">
+        <link rel="apple-touch-icon" sizes="72x72" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=72&amp;height=72">
+        <link rel="apple-touch-icon" sizes="76x76" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=76&amp;height=76">
+        <link rel="apple-touch-icon" sizes="114x114" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=114&amp;height=114">
+        <link rel="apple-touch-icon" sizes="120x120" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=120&amp;height=120">
+        <link rel="apple-touch-icon" sizes="144x144" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=144&amp;height=144">
+        <link rel="apple-touch-icon" sizes="152x152" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=152&amp;height=152">
+        <link rel="apple-touch-icon" sizes="180x180" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=180&amp;height=180">
+        <link rel="icon" sizes="16x16" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=16&amp;height=16">
+        <link rel="icon" sizes="32x32" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=32&amp;height=32">
+        <link rel="icon" sizes="96x96" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=96&amp;height=96">
+        <link rel="icon" sizes="192x192" type="image/svg" href="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=192&amp;height=192">
+        <meta name="msapplication-square70x70logo" content="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=70&height=70" />
+        <meta name="msapplication-square150x150logo" content="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=150&height=150" />
+        <meta name="msapplication-wide310x150logo" content="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=310&height=150" />
+        <meta name="msapplication-square310x310logo" content="/media/zsva2d2v/woolwich-township-w-favicon.svg?width=310&height=310" />
+
+            <script>
+var notificationExDays = 365;        </script>
+
+    
+<link href="/css/GOV/themes/gs-theme-prestige.css" media="screen" rel="stylesheet">        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-S5VX85CMEQ"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-S5VX85CMEQ');
+        </script>
+
+    
+</head>
+<body 
+    
+ class="body-bg body-bg-solid header-14-lg header-01-sm show_header-on-scroll-lg hide_header-on-scroll-sm directional-icons-triangle               content-underline-link-hover      "
+
+>
+
+
+
+    <link rel="stylesheet" href="/css/GOV/modules/alert/alert.css" />
+
+    <section class="umb--alerts umb--alerts--modals" aria-label="Alerts">
+        <div class="ghd--carousel" data-flickity-options='{ "cellAlign": "center", "cellSelector": ".ghd--carousel__cell"}'>
+            <button class="umb--alerts__dismiss" type="button">Dismiss all alerts</button>
+
+                <div class="ghd--carousel__cell">
+                    <div data-modal id="alert-modal-6614" class="bx--modal umb--alert umb--alert--warning is-visible" role="alertdialog" aria-modal="true" aria-labelledby="alert-modal-1-heading" aria-describedby="alert-modal-1-label" tabindex="-1">
+                        <div class="bx--modal-container">
+                            <div class="gs-modal-container-content">
+                                <div class="bx--modal-header">
+                                    <div class="umb--alert__icon"></div>
+                                     <p class="bx--modal-header__heading bx--type-beta" id="alert-modal-1-heading">Open Burn Ban - Effective Immediately</p>
+                                    <p class="bx--modal-header__label bx--type-delta" id="alert-modal-1-label"></p>
+                                    <button class="bx--modal-close" type="button" data-modal-close aria-label="close modal" data-modal-primary-focus>
+                                        <svg focusable="false" preserveAspectRatio="xMidYMid meet" style="will-change: transform;" xmlns="http://www.w3.org/2000/svg" class="bx--modal-close__icon" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M12 4.7L11.3 4 8 7.3 4.7 4 4 4.7 7.3 8 4 11.3 4.7 12 8 8.7 11.3 12 12 11.3 8.7 8z"></path></svg>
+                                    </button>
+                                </div>
+                                <div class="bx--modal-content">
+                                    <p>Due to hot and dry conditions, the Townships of North Dumfries, Wellesley, Wilmot and Woolwich are suspending open air burning, effective immediately. <a href="/news/posts/rural-townships-issue-open-burn-ban-august-7-2025/" title="View full media release - open burn ban">View full media release</a>.</p>
+                                </div>
+                                <div class="bx--modal-content--overflow-indicator"></div>
+
+                                <div class="bx--modal-footer">
+                            </div>
+                            </div>
+                        </div>
+                        <span></span>
+                    </div>
+                </div>
+        </div>
+    </section>
+
+
+
+
+
+    
+
+    <!-- Skip links -->
+    <a class="skip-to-content" id="skip-to-content-link" href="#site-content">Skip to main content</a>
+    <a class="skip-to-content" id="skip-to-footer-link" href="#site-footer">Skip to footer</a>
+    <!--// Skip links -->
+
+    <!-- Site -->
+    <div id="site">
+
+        <!-- Header -->
+            <header id="site-header" class="header-bg header-bg-solid" tabindex="-1">
+        <div class="container-fluid">
+
+            <div class="row">
+
+                    <div id="logo" >
+        <a href="/" title="Township of Woolwich">
+                                <img src="/media/obni1e4e/woolwich-township-horizontal-vector-logo.svg"  alt="Woolwich Township">
+                <span class="sr-only">Township of Woolwich</span>
+        </a>
+    </div>
+
+
+
+                    <!-- Expand -->
+                    <button id="burgerNavStyle" class="expand-header expand-3-bars expand-even-lines expand-active-cross" type="button" aria-expanded="false" aria-label="Expand header">
+                        <span>Menu</span>
+                    </button>
+                    <!--// Expand -->
+                <!-- Main navigation -->
+        <nav aria-label="Main" class="main nav-dropdown navigation-dropdown-bg navigation-dropdown-bg-solid">
+                <ul >
+                            <li  class="has-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/discover/"  >Explore & Play</a>
+                                </span>
+
+                                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Explore & Play">
+                                        <span aria-hidden="true">Expand sub pages Explore & Play</span>
+                                    </button>
+                <ul  class="multi-col">
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/about-woolwich/"  >About Woolwich</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/arts-and-culture/"  >Arts and Culture</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/bridges/"  >Bridges</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/clean-tech-tour-and-directory/"  >Clean Tech Tour and Directory</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/climate-action/"  >Climate Action</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/communities-and-landmarks/"  >Communities and Landmarks</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://events.woolwich.ca/"  >Community Events</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/cycling/"  >Cycling</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/demographics/"  >Demographics</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/discover/"  >Discover</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/eat/"  >Eat</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/elmira-maple-syrup-festival/"  >Elmira Maple Syrup Festival</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/heritage/"  >Heritage</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/libraries/"  >Libraries</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/new-to-woolwich/"  >New to Woolwich</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/recreation-programs/parks-and-trails/"  >Parks and Trails</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/plan/"  >Plan</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/recreation-programs/"  >Recreation and Facilities</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/shop/"  >Shop</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/recreation-programs/skating/"  >Skating</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/stay/"  >Stay</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/recreation-programs/swimming-lessons/"  >Swimming Lessons</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/the-mennonite-story/"  >The Mennonite Story</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/tours-and-self-guided-tours/"  >Tours and Self-Guided Tours</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/transportation-and-getting-here/"  >Transportation and Getting Here</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/visitor-information-centres/"  >Visitor Information Centres</a>
+                                </span>
+
+                            </li>
+                </ul>
+                            </li>
+                            <li  class="has-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/"  >Build & Invest</a>
+                                </span>
+
+                                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Build & Invest">
+                                        <span aria-hidden="true">Expand sub pages Build & Invest</span>
+                                    </button>
+                <ul  class="multi-col">
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/available-lands/"  >Available Lands</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/backflow-prevention-program/"  >Backflow Prevention Program</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/building-construction/"  >Building & Construction</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/community-profile/"  >Community Profile</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/developers/"  >Developers</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/economic-development/"  >Economic Development</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/economic-development-in-woolwich/"  >Economic Development in Woolwich</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/home-owners/"  >Home Owners</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/maps/"  >Maps</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/planning-development/"  >Planning & Development</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/starting-a-business/"  >Starting a Business</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/water-and-sewer-services/"  >Water and Sewer Services</a>
+                                </span>
+
+                            </li>
+                </ul>
+                            </li>
+                            <li  class="has-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/"  >Apply & Register</a>
+                                </span>
+
+                                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Apply & Register">
+                                        <span aria-hidden="true">Expand sub pages Apply & Register</span>
+                                    </button>
+                <ul  class="multi-col">
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/applications-forms-licences-and-permits/"  >Applications, Forms, Licences and Permits</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://woolwich.bidsandtenders.ca/Module/Tenders/en"  >Bids and Tenders</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/building-construction/"  >Building Permit</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/fire-services-and-emergency-management/fire-services/burn-permits-and-burning/"  >Burn Permit</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/careers-and-volunteering/"  >Careers and Volunteering</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/pay-buy/dog-tag-licensing/"  >Dog Tag</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/elmira-maple-syrup-festival-licensing/"  >Elmira Maple Syrup Festival Licensing</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/freedom-of-information/"  >Freedom of Information</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/grants-and-special-assistance/"  >Grants and Special Assistance</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/insurance-claims/"  >Insurance Claims</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/locates/"  >Locates</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/lottery-licensing/"  >Lottery License</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/marriages/"  >Marriages</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/pay-buy/parking/"  >Parking Permit</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/recreation-programs/"  >Recreation Programs</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/roads-and-sidewalks/"  >Road Work Permit</a>
+                                </span>
+
+                            </li>
+                </ul>
+                            </li>
+                            <li  class="has-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/pay-buy/"  >Pay & Buy</a>
+                                </span>
+
+                                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Pay & Buy">
+                                        <span aria-hidden="true">Expand sub pages Pay & Buy</span>
+                                    </button>
+                <ul  class="multi-col">
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/pay-buy/advertising-and-sponsorship/"  >Advertising and Sponsorship</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/building-construction/"  >Building Permit</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/fire-services-and-emergency-management/fire-services/burn-permits-and-burning/"  >Burn Permit</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/pay-buy/dog-tag-licensing/"  >Dog Tag</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/recreation-programs/facilities-rentals/"  >Facilities Rentals</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/apply-register/marriages/"  >Marriage License</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="/pay-buy/parking/#ParkingPermit"  >Parking Permit</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/pay-buy/parking/"  >Parking Ticket</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/pay-buy/taxes/"  >Taxes</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/pay-buy/water-billing/"  >Water Billing</a>
+                                </span>
+
+                            </li>
+                </ul>
+                            </li>
+                            <li  class="has-child active">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/"  >Learn About</a>
+                                </span>
+
+                                    <button class="expand-subpages" type="button" aria-expanded="false" aria-label="Expand sub pages Learn About">
+                                        <span aria-hidden="true">Expand sub pages Learn About</span>
+                                    </button>
+                <ul  class="multi-col">
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/accessibility/"  >Accessibility</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/animal-services/"  >Animal Services</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/budget-financials/"  >Budget and Financials</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/business-improvement-areas-bias/"  >Business Improvement Areas (BIAs)</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/by-laws/"  >By-laws</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/by-law-enforcement/"  >By-law Enforcement</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/careers-and-volunteering/"  >Careers and Volunteering</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/cemeteries/"  >Cemeteries</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/climate-action/"  >Climate Action</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/community-profile/"  >Community Profile</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child active">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/council/"  >Council</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/council/council-meetings/"  >Council Meetings</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/departments/"  >Departments</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/election/"  >Election</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/equity-diversity-inclusion-and-belonging/"  >Equity, Diversity, Inclusion, and Belonging</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/fire-services-and-emergency-management/"  >Fire Services and Emergency Management</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/build-invest/home-owners/garbage-recycling-and-waste/"  >Garbage, Recycling and Waste</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/explore-play/heritage/"  >Heritage</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/manuals-and-plans/"  >Manuals and Plans</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/council/mayor/"  >Mayor</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/municipal-drains/"  >Municipal Drains</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/report-it/"  >Reporting</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/roads-and-sidewalks/"  >Roads and Sidewalks</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/schools-and-education/"  >Schools and Education</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/snow-and-significant-weather-events/"  >Snow and Significant Weather</a>
+                                </span>
+
+                            </li>
+                            <li  class="no-child ">
+                                <span>
+                                    <a href="https://www.woolwich.ca/learn-about/trees-and-yards/"  >Trees and Yards</a>
+                                </span>
+
+                            </li>
+                </ul>
+                            </li>
+                </ul>
+        </nav>
+
+
+                <!--// Main navigation -->
+                <!-- Secondary navigation -->
+                
+        <nav aria-label="Secondary" class="secondary nav-dropdown navigation-dropdown-bg navigation-dropdown-bg-solid">
+            <ul>
+                            <li><span><a href="https://www.woolwich.ca/learn-about/careers-and-volunteering/"  >Careers</a></span></li>
+                            <li><span><a href="https://www.woolwich.ca/contacts-directory/"  >Contacts Directory</a></span></li>
+                            <li><span><a href="https://www.woolwich.ca/learn-about/report-it/"  >Report It</a></span></li>
+
+            </ul>
+        </nav>
+
+                <!--// Secondary navigation -->
+                <!-- CTA Links -->
+                
+                <!--// CTA Links -->
+                <!-- Site search -->
+                <!--// Site search -->
+                <!-- Site search Advanced -->
+                                            <div class="form site-search-form site-search radio-topnav">
+                                <div class="gs-search-popup-wrapper">
+                                        <div class="gs-search-inputs">
+
+
+    <!-- GOOGLE SEARCH -->
+        <div class="search-form-container google_search_field-topnav" data-placeholder="Search the site..." data-engine-id="26cd0e53fde50f57f" data-btn="base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid" name="google_search_field-topnav" data-selector="GOVGoogleSearch">
+            <div class="google-search-container site-search-input" aria-label="Site search" data-search="Search">
+                <gcse:searchbox-only></gcse:searchbox-only>
+            </div>
+        </div>
+    <!--// GOOGLE SEARCH -->
+
+                                        </div>
+
+    <!-- SEARCH SELECTION -->
+    <!--// SEARCH SELECTION -->
+
+                                </div>
+
+                                <button class="expand-search" type="button" data-toggle="collapse" aria-label="Expand site search">
+                                    <em>Expand Search</em>
+                                    <i aria-hidden="true" class="icon usn_ion-ios-search search-icon"></i>
+                                    <i aria-hidden="true" class="icon usn_ion-md-close close-icon" tabindex="0"></i>
+                                </button>
+                            </div>
+
+                <!--// Site search Advanced -->
+
+            </div>
+
+        </div>
+    </header>
+
+
+        <!--// Header -->
+        <!-- Content -->
+        <main id="site-content" tabindex="-1">
+
+                <section class="content component usn_cmp_code base-bg base-bg-solid  " >  
+
+        <div class="image lazyload background-image component-background-image"  style="background-image:url('/media/flunguhr/main-website-banner-option-5.svg'); background-repeat:no-repeat;background-size:cover;background-position:center center;" role="img" aria-label=""></div>
+        <div class="component-inner">
+                    <div class="container-fluid">
+
+
+
+                <div class="code-item " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+        <html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Test</title>
+    <style type="text/css" media="screen">
+     * {
+       margin: 0; 
+       padding: 0;
+     }
+
+     div#banner { 
+       position: absolute; 
+       top: 0; 
+       left: 0; 
+       width: 100%; 
+     }
+     div#banner-content { 
+       width: 500px;
+       height: 60px;
+       margin: 0 auto; 
+       padding: 10px; 
+     }
+     div#main-content { 
+       padding-top: 70px;
+    }
+    </style>
+</head>
+</html>
+    </div>
+
+
+
+
+                    </div>
+        </div>
+    </section>
+
+            
+
+
+
+
+
+
+    <section class="content component base-bg base-bg-solid"><div class="container">        <!-- Row -->
+        <div class="row">
+            <div class="heading-col col">
+
+
+                <h1 class="heading main base-heading">Council</h1>
+
+                    <!-- For GS Mobile Subnav -->
+                            <button class="gs-subnav-trigger" type="button" aria-controls="gs-subnav-wrapper" aria-expanded="false" aria-label="Toggle sub navigation">
+                                <span aria-hidden="true"></span>
+                                <span class="triggerText">Section Menu</span>
+                            </button>
+
+            </div>
+        </div>
+        <!--// Row -->
+<div class="row justify-content-between">
+    <!-- Content column -->
+    <div class="content-col left-col col-lg-8 col-12 order-1">
+
+            <section class="content component usn_cmp_accordiontab base-bg base-bg-solid pb-0 " >  
+
+        <div class="component-inner">
+
+        <!-- Introduction -->
+        <div class="component-introduction row justify-content-start text-left " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="info col">
+
+                
+
+                    <div class="text base-text">
+                        <p><img src="/media/2s4nbiil/council-2022-2026.png" alt="Picture of the council members and mayor dressed nicely and wearing boutonniere"></p>
+<p>Woolwich Township Council includes a Mayor and five Councillors who are are elected to serve a four-year term in a municipal election. For historical information contact the <a href="mailto:councilmeetings@woolwich.ca" title="Email Council Meetings">Corporate Services Department</a>. The next local <a href="/township-services/election/" title="View our Elections page">election </a>is scheduled in October 2026.</p>
+<p>The Mayor is elected at large across the Township and the ward Councillors are elected within their wards. To see the wards, download a <a rel="noopener noreferrer" href="/media/rjkf01st/ward-boundaries-v2-as-of-september-14-2022.pdf" target="_blank" title="Open new window to view the printable ward map PDF" aria-label="printable ward map opens in new window">printable ward map</a> or view our <a href="/township-services/maps/" title="View our interactive GIS Maps page">interactive GIS mapping page</a>.</p>
+<hr>
+<p><strong>Find Council contact and background information below, or for more information see:</strong></p>
+<ul>
+<li>The <a rel="noopener" href="https://events.woolwich.ca/council/" target="_blank" title="Open new window to view the Council Calendar" aria-label="Council Calendar opens in new window">Council Calendar</a>, which shows Council meeting dates, agendas and minutes.</li>
+<li>Council's <a href="/township-services/mayor-and-council/code-of-conduct-for-council-local-boards-and-advisory-committees/" title="View our Code of Conduct page">Code of Conduct</a>.</li>
+<li><a href="/township-services/mayor-and-council/committees-of-council/" title="View our Committees of Council page">Boards and Committees </a>of the Township.</li>
+<li>Information about <a href="/township-services/mayor-and-council/council-meetings/" title="View our Council Meetings page">Council meetings</a>, including how to speak before Council.</li>
+<li><a href="/township-services/mayor-and-council/expenses/" title="View our Council Expenses page">Council Expenses</a>, in support of Council's commitment to openness and transparency.</li>
+</ul>
+                    </div>
+            </div>
+        </div>
+        <!--// Introduction -->
+
+
+                        <div class="repeatable accordion tab-basic " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link collapsed" data-toggle="collapse" href="#collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_1" aria-controls="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_1" aria-expanded="false" role="button">
+                                Mayor Sandy Shantz
+                            </a>
+                        </p>
+                        <div id="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_1" class="info repeatable-content collapse  ">
+                            <div class="text"><p>Sandy Shantz<br>Mayor of the Township of Woolwich<br>Office: 519-669-6003<br>Toll Free: 1-877-969-0094 extension 6003<br><a href="mailto:mayor@woolwich.ca">Email Mayor Shantz</a></p>
+<hr>
+<p>Sandy Shantz is serving her third term as Mayor of the Township of Woolwich.   To learn more about Mayor Shantz and the events she has held, visit her <a href="/learn-about/council/mayor/" title="Mayor">Mayor page.</a></p></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link collapsed" data-toggle="collapse" href="#collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_2" aria-controls="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_2" aria-expanded="false" role="button">
+                                Councillor Evan Burgess (Ward 1)
+                            </a>
+                        </p>
+                        <div id="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_2" class="info repeatable-content collapse  ">
+                            <div class="text"><p>Councillor, Ward 1<br>Office: 519-514-6051<br>Toll Free: 1-877-969-0094 extension 6051</p>
+<p><a href="mailto:eburgess@woolwich.ca">Email Evan Burgess</a></p></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link collapsed" data-toggle="collapse" href="#collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_3" aria-controls="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_3" aria-expanded="false" role="button">
+                                Councillor Nathan Cadeau (Ward 1)
+                            </a>
+                        </p>
+                        <div id="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_3" class="info repeatable-content collapse  ">
+                            <div class="text"><p>Councillor, Ward 1<br>Office: 519-514-6052<br>Toll Free: 1-877-969-0094 extension 6052</p>
+<p><a href="mailto:ncadeau@woolwich.ca">Email Nathan Cadeau</a></p>
+<hr>
+<p>Nathan Cadeau is a respected expert in Criminology and Criminal Justice Policy with extensive academic and professional experience. He obtained his Master of Arts in Criminology and Criminal Justice Policy from the University of Guelph and his Honours Bachelor of Arts in Criminal Justice with a specialization in Administration and Social Policy from Nipissing University. With a professional certification as a Certified Associate in Project Management from the Project Management Institute, Nathan has demonstrated a keen understanding of the importance of effective planning and execution.</p>
+<p>Nathan has gained valuable experience in his various roles within the field of Corrections, including working as a Strategic Advisor to the Assistant Deputy Minister, Regional Incident Manager, Program Advisor, Information Analyst, Policy Advisor, Senior Statistics and Evaluation Officer, and Business Analyst with the at the Ministry of the Solicitor General in North Bay.</p>
+<p>In addition to his professional accomplishments, Nathan has been sharing his knowledge and expertise by teaching as a Professor for the Bachelor of Community and Criminal Justice program at Conestoga College since August 2019, and as an Adjunct Instructor for the Social Welfare and Social Development Program at Nipissing University since September 2014.</p>
+<p>Nathan's unique combination of academic excellence and professional experience has equipped him with the skills and knowledge necessary to be an effective leader in the political arena. He is committed to promoting evidence-based policies and practices that improve the safety and well-being of our communities.</p></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link collapsed" data-toggle="collapse" href="#collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_4" aria-controls="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_4" aria-expanded="false" role="button">
+                                Councillor Eric Schwindt (Ward 2)
+                            </a>
+                        </p>
+                        <div id="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_4" class="info repeatable-content collapse  ">
+                            <div class="text"><p>Councillor, Ward 2<br>Office: 519-514-6053<br>Toll Free: 1-877-969-0094 extension 6053</p>
+<p><a href="mailto:eschwindt@woolwich.ca">Email Eric Schwindt</a></p></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link collapsed" data-toggle="collapse" href="#collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_5" aria-controls="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_5" aria-expanded="false" role="button">
+                                Councillor Bonnie Bryant (Ward 3)
+                            </a>
+                        </p>
+                        <div id="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_5" class="info repeatable-content collapse  ">
+                            <div class="text"><p>Councillor, Ward 3<br>Office: 519-514-6054<br>Toll Free: 1-877-969-0094 extension 6054</p>
+<p><a href="mailto:bbryant@woolwich.ca">Email Bonnie Bryant</a></p>
+<hr>
+<p>Bonnie Bryant was previously elected to Council for the term of 2010 – 2014. She spent her working career in sales and marketing, and was also a small business owner. Bonnie volunteered for over ten years with the Ontario Society for the Prevention of Cruelty to Animals.  She served two years on the Provincial Board of Directors for the OSPCA.  She has been Chair of the Woolwich Heritage Committee for the past 8 years.</p>
+<p>Bonnie has lived in Maryhill for over 20 years. She spends her spare time with friends and family, and enjoys gardening and other activities.</p>
+<p>Working together, we can make Woolwich the best place to work, live, and play.</p></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link collapsed" data-toggle="collapse" href="#collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_6" aria-controls="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_6" aria-expanded="false" role="button">
+                                Councillor Kayla Grant (Ward 3)
+                            </a>
+                        </p>
+                        <div id="collapse_6d7d5da8-a623-4fb1-a312-3a5b8ea038b6_6" class="info repeatable-content collapse  ">
+                            <div class="text"><p>Councillor, Ward 3<br>Office: 519-514-6055<br>Toll Free: 1-877-969-0094 extension 6055</p>
+<p><a href="mailto:kgrant@woolwich.ca">Email Kayla Grant</a></p></div>
+                        </div>
+            </div>
+
+
+
+
+        </div>
+    </section>
+
+
+
+
+    </div>
+    <!--// Content column -->
+    <!-- Second column -->
+    <div class="right-col col-xl-3 col-lg-4 col-12 order-2">
+                <!-- Sub Navigation Advanced -->
+                <div id="gs-subnav-desktop" aria-label="Sub pages" class="sub">
+                    <div id="gs-subnav-wrapper" class="subnav-cross subnav-title-top">
+                        <nav id="gs-subnav-container" aria-labelledby="gs-subnav-title">
+                            <div id="gs-subnav-title" class="gs-subnav-main-title">
+                                <a href="/learn-about/">
+                                    <span>Learn About</span>
+                                </a>
+                        </div>
+                            <ul class="gs-subnav gs-subnav-top">
+                                <li class="with-children open">
+                                    <!-- disabled -->
+                                    <a href="/learn-about/council/">
+                                        <span>Council</span>
+                                    </a>
+                                    <button class="toggle" type="button" aria-expanded="false">
+                                        <span class="sr-only">Toggle Section</span>
+                                    </button>
+                                    <!-- //disabled -->
+                                    <ul id="gs-subnav-dropdown-0">
+                                        <li class="with-children open">
+                                                <a href="/learn-about/council/"   class="current">
+                                                    <span>Council</span>
+                                                </a>
+                                                <button class="toggle" type="button" aria-expanded="false" aria-controls="gs-subnav-dropdown-1">
+                                                    <span class="sr-only">Toggle Section</span>
+                                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/learn-about/council/code-of-conduct/"  class=""><span>
+Code of Conduct                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/council/committees/"  class=""><span>
+Committees                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/council/council-meetings/"  class=""><span>
+Council Meetings                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/council/expenses/"  class=""><span>
+Expenses                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/council/mayor/"  class=""><span>
+Mayor                                </span></a>
+                            </li>
+            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+			                <ul class="gs-subnav gs-subnav-bottom">
+                                <li class="with-children">
+					                <div class="gs-subnav-extended-wrapper">
+                                    <a href="#" class="gs-subnav-extended-link" role="button" aria-expanded="false" data-open-title="View Full Menu" data-close-title="Close Full Menu" aria-controls="gs-subnav-extended-menu"><span>View Full Menu</span></a>
+                                    <button class="gs-subnav-extended-toggle toggle" type="button" aria-controls="gs-subnav-extended-menu" aria-expanded="false"><span class="sr-only">Toggle Section</span></button>
+					                </div>
+        <ul id="gs-subnav-extended-menu">
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/accessibility/"><span>
+Accessibility                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/animal-services/"><span>
+Animal Services                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/learn-about/budget-financials/"  class=""><span>
+Budget &amp; Financials                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/learn-about/budget-financials/financial-reporting/"  class=""><span>
+Financial Reporting                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/budget-financials/purchasing-and-accounts-payable/"  class=""><span>
+Purchasing and Accounts Payable                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/business-improvement-areas-bias/"><span>
+Business Improvement Areas (BIAs)                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/by-law-enforcement/"><span>
+By-law Enforcement                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/by-laws/"><span>
+By-laws                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/careers-and-volunteering/"><span>
+Careers and Volunteering                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/cemeteries/"><span>
+Cemeteries                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/climate-action/"><span>
+Climate Action                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/communities-and-landmarks/"><span>
+Communities and Landmarks                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/community-and-social-services/"><span>
+Community and Social Services                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/learn-about/compliments-and-complaints/"  class=""><span>
+Compliments and Complaints                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/learn-about/compliments-and-complaints/respectful-behaviour-policy/"  class=""><span>
+Respectful Behaviour Policy                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/departments/"><span>
+Departments                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/learn-about/election/"  class=""><span>
+Election                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/learn-about/election/election-results/"  class=""><span>
+Election Results                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/election/list-of-candidates-financial-statements/"  class=""><span>
+List of Candidates &amp; Financial Statements                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/equity-diversity-inclusion-and-belonging/"><span>
+Equity, Diversity, Inclusion, and Belonging                        </span></a>
+                    </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/"  class=""><span>
+Fire Services and Emergency Management                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li  class="with-children">
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/fire-services/"  class=""><span>
+Fire Services                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/fire-services/burn-permits-and-burning/"  class=""><span>
+Burn Permits and Burning                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/fire-services/carbon-monoxide-and-smoke-alarms/"  class=""><span>
+Carbon Monoxide and Smoke Alarms                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/fire-services/fire-education-and-prevention/"  class=""><span>
+Fire Education and Prevention                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/fire-services/fire-safety-tips/"  class=""><span>
+Fire Safety Tips                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/fire-services/fire-stations/"  class=""><span>
+Fire Stations                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/fire-services/inspections-and-reporting/"  class=""><span>
+Inspections and Reporting                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/fire-services/recruitment/"  class=""><span>
+Recruitment                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/emergency-management/"  class=""><span>
+Emergency Management                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/emergency-management/siren-and-shelter-in-place/"  class=""><span>
+Siren and Shelter-in-Place                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/emergency-management/flood-planning-and-preparedness/"  class=""><span>
+Flood Planning and Preparedness                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/emergency-management/be-prepared/"  class=""><span>
+Be Prepared                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/fire-services-and-emergency-management/emergency-management/municipal-emergency-preparedness/"  class=""><span>
+Municipal Emergency Preparedness                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+            </ul>
+                            </li>
+                            <li  class="with-children">
+                                <a target="_self" href="/learn-about/manuals-and-plans/"  class=""><span>
+Manuals and Plans                                </span></a>
+                                <button class="toggle" type="button" aria-expanded="false">
+                                    <span class="sr-only">Toggle Section</span>
+                                </button>
+            <ul>
+                            <li >
+                                <a target="_self" href="/learn-about/manuals-and-plans/community-strategic-plan/"  class=""><span>
+Community Strategic Plan                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/manuals-and-plans/asset-management/"  class=""><span>
+Asset Management                                </span></a>
+                            </li>
+                            <li >
+                                <a target="_self" href="/learn-about/manuals-and-plans/conservation-and-demand-management/"  class=""><span>
+Conservation and Demand Management                                </span></a>
+                            </li>
+            </ul>
+                            </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/municipal-drains/"><span>
+Municipal Drains                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/report-it/"><span>
+Report It                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/roads-and-sidewalks/"><span>
+Roads and Sidewalks                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/schools-and-education/"><span>
+Schools and Education                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/snow-and-significant-weather-events/"><span>
+Snow and Significant Weather Events                        </span></a>
+                    </li>
+                        <li  class="with-children">
+                            <a target="_self" href="/learn-about/trees-and-yards/"><span>
+Trees and Yards                        </span></a>
+                    </li>
+        </ul>
+                                </li>
+			                </ul>
+                        </nav>
+                    </div>
+                </div>
+                <!--// Sub Navigation Advanced -->
+        <!-- Pods -->
+        <div class="swp">
+
+                <div class="listing listing-pods">
+
+            <div class="item   swp-item item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading sm base-heading " >Contact Us</p>
+
+                            <div class="text base-text">
+                                <p data-renderer-start-pos="2072"><strong>Woolwich Township</strong><br>24 Church Street West<br>P.O. Box 158<br>Elmira ON, N3B 2Z6<br>519-669-1647</p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+
+
+                </div>
+
+        </div>
+        <!--// Pods -->
+
+    </div>
+    <!--// Second column -->
+
+
+    </div></div></section> 
+
+
+
+
+
+
+                <section class="content component usn_cmp_ctastrip c1-bg c1-bg-solid  prestige-subscribe" >  
+
+        <div class="component-inner">
+                    <div class="container">
+
+
+                    <!-- ROW -->
+        <div class="row justify-content-between align-items-center textAlignmentLeft">
+
+            <div class="info">
+
+                <p class="heading  c1-heading os-animation"  data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s" >Sign up to Woolwich News!</p>
+
+                    <div class="text c1-text os-animation" data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                        <p><span class="lg">Stay up to date on Township activities, events, programs and operations by subscribing to News and Public Notices.</span></p>
+                    </div>
+
+            </div>
+
+                <p class="link os-animation" data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                            <a class="btn  c4-btn-bg c4-btn-bg-solid c4-btn-bg-hover-solid c4-btn-text c4-btn-borders" href="https://www.woolwich.ca/subscription-messaging/"  >
+                                <span></span>
+                                Sign Up Today!
+                            </a>
+                </p>
+
+        </div>
+        <!--// ROW -->
+
+
+
+                    </div>
+        </div>
+    </section>
+
+
+        </main>
+        <!--// Content -->
+        <!-- Footer -->
+                    <footer id="site-footer" class="footer-bg footer-bg-solid" tabindex="-1">
+
+                <!-- Breadcrumb -->
+                        <section class="breadcrumb-trail">
+            <div class="container">
+                <nav aria-label="Breadcrumb">
+                    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                                <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+
+                                        <a href="/" itemtype="https://schema.org/Thing" itemprop="item">
+                                            <span itemprop="name"><i class="icon before"></i>Home</span>
+                                        </a>
+                                    <meta itemprop="position" content="1" />
+                                </li>
+                                <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+
+                                        <a href="/learn-about/" itemtype="https://schema.org/Thing" itemprop="item">
+                                            <span itemprop="name"><i class="icon before"></i>Learn About</span>
+                                        </a>
+                                    <meta itemprop="position" content="2" />
+                                </li>
+                            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item active" aria-current="page"><span itemprop="name"><i class="icon before"></i>Council</span><meta itemprop="position" content="3" /></li>
+                    </ol>
+                </nav>
+            </div>
+        </section>
+
+                <!--// Breadcrumb -->
+
+                <div class="container">
+
+                        <!-- Row -->
+                        <div class="row listing">
+
+            <div class="item  footer-item   col-lg-3 col-md-5 col-12 col  item_text-below usn_pod_textimage textAlignmentLeft  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="0.9s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading sm footer-heading " >Contact Us</p>
+
+                            <div class="text footer-text">
+                                <p data-renderer-start-pos="2072"><strong>Woolwich Township</strong><br>24 Church Street West<br>P.O. Box 158<br>Elmira ON, N3B 2Z6<br>519-669-1647</p>
+<p data-renderer-start-pos="2072"><strong>After-hours Emergency<br></strong><span>Roads, Sewer, Water Line Break and Localized Flooding<br>Call Region of Waterloo Call Centre<br>519-575-4400</span></p>
+<p data-renderer-start-pos="2072"><span>Parks, Facilities, Cemeteries, Trails<br>Call Woolwich Memorial Centre<br>519-514-7000</span></p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+            <div class="item  footer-item offset-lg-1 offset-md-1 col-lg-3 col-md-5 col-12 col  item_text-below usn_pod_textimage textAlignmentLeft  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="0.9s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading sm footer-heading " >Resources</p>
+
+                            <div class="text footer-text">
+                                <p><a href="/sitemap/" title="Sitemap" data-anchor="#">Sitemap</a><br><a href="/learn-about/accessibility/" title="View our Accessibility page" data-anchor="#">Accessibility</a><br><a href="/learn-about/report-it/" title="View our Report It page" data-anchor="#">Website Feedback</a><br><a href="/privacy-policy/" title="View our website Privacy Policy page">Privacy Policy</a><br><a href="/alerts/" title="View our Alerts page" data-anchor="#">Alerts</a><br><a rel="noopener" href="https://login.microsoftonline.com/?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&amp;redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&amp;response_type=code%20id_token&amp;scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&amp;response_mode=form_post&amp;nonce=638542488352152238.NWUwYTUyNTAtYmRiNy00YTMxLTg1ZDQtNzlkNmFmOWVjMzY2ZWZkZDc3MjMtNzY2Mi00MWI4LWE4MTAtOTAzZGRkYzE1NDYx&amp;ui_locales=en-US&amp;mkt=en-US&amp;client-request-id=358ef656-fe0b-4b25-b244-3ceaab23f4c6&amp;state=okds5Yx-5i9t30V4b5cZVklMGkSh3RR79aKvzT1R5KQACdGMGTBVjL_jJ5aSPTLzMIoM49ZLlD3Es7HuDkzQEulFgzCfI8yiN0JMhbxH-3oCDRQIvJAji_fBF_SfCGkM6_Amswnb59BdwShroU-k4wlfAYxV3utsQZyZiDQqrAy30A1ESw2mnX7hy-rVI3gyyTJVi77F2hDoe1d8g-3Hx4kRoNPHrOBvk02N77GYj56iDdyDYfQ6crZhJVvvcJR7-bnHwkcydjtGUU_BMxveGA&amp;x-client-SKU=ID_NET8_0&amp;x-client-ver=7.3.1.0&amp;sso_reload=true?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&amp;redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&amp;response_type=code%20id_token&amp;scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&amp;response_mode=form_post&amp;nonce=638542488352152238.NWUwYTUyNTAtYmRiNy00YTMxLTg1ZDQtNzlkNmFmOWVjMzY2ZWZkZDc3MjMtNzY2Mi00MWI4LWE4MTAtOTAzZGRkYzE1NDYx&amp;ui_locales=en-US&amp;mkt=en-US&amp;client-request-id=358ef656-fe0b-4b25-b244-3ceaab23f4c6&amp;state=okds5Yx-5i9t30V4b5cZVklMGkSh3RR79aKvzT1R5KQACdGMGTBVjL_jJ5aSPTLzMIoM49ZLlD3Es7HuDkzQEulFgzCfI8yiN0JMhbxH-3oCDRQIvJAji_fBF_SfCGkM6_Amswnb59BdwShroU-k4wlfAYxV3utsQZyZiDQqrAy30A1ESw2mnX7hy-rVI3gyyTJVi77F2hDoe1d8g-3Hx4kRoNPHrOBvk02N77GYj56iDdyDYfQ6crZhJVvvcJR7-bnHwkcydjtGUU_BMxveGA&amp;x-client-SKU=ID_NET8_0&amp;x-client-ver=7.3.1.0&amp;sso_reload=true" target="_blank" title="Staff Login" data-anchor="?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&amp;redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&amp;response_type=code%20id_token&amp;scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&amp;response_mode=form_post&amp;nonce=638542488352152238.NWUwYTUyNTAtYmRiNy00YTMxLTg1ZDQtNzlkNmFmOWVjMzY2ZWZkZDc3MjMtNzY2Mi00MWI4LWE4MTAtOTAzZGRkYzE1NDYx&amp;ui_locales=en-US&amp;mkt=en-US&amp;client-request-id=358ef656-fe0b-4b25-b244-3ceaab23f4c6&amp;state=okds5Yx-5i9t30V4b5cZVklMGkSh3RR79aKvzT1R5KQACdGMGTBVjL_jJ5aSPTLzMIoM49ZLlD3Es7HuDkzQEulFgzCfI8yiN0JMhbxH-3oCDRQIvJAji_fBF_SfCGkM6_Amswnb59BdwShroU-k4wlfAYxV3utsQZyZiDQqrAy30A1ESw2mnX7hy-rVI3gyyTJVi77F2hDoe1d8g-3Hx4kRoNPHrOBvk02N77GYj56iDdyDYfQ6crZhJVvvcJR7-bnHwkcydjtGUU_BMxveGA&amp;x-client-SKU=ID_NET8_0&amp;x-client-ver=7.3.1.0&amp;sso_reload=true?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&amp;redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&amp;response_type=code%20id_token&amp;scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&amp;response_mode=form_post&amp;nonce=638542488352152238.NWUwYTUyNTAtYmRiNy00YTMxLTg1ZDQtNzlkNmFmOWVjMzY2ZWZkZDc3MjMtNzY2Mi00MWI4LWE4MTAtOTAzZGRkYzE1NDYx&amp;ui_locales=en-US&amp;mkt=en-US&amp;client-request-id=358ef656-fe0b-4b25-b244-3ceaab23f4c6&amp;state=okds5Yx-5i9t30V4b5cZVklMGkSh3RR79aKvzT1R5KQACdGMGTBVjL_jJ5aSPTLzMIoM49ZLlD3Es7HuDkzQEulFgzCfI8yiN0JMhbxH-3oCDRQIvJAji_fBF_SfCGkM6_Amswnb59BdwShroU-k4wlfAYxV3utsQZyZiDQqrAy30A1ESw2mnX7hy-rVI3gyyTJVi77F2hDoe1d8g-3Hx4kRoNPHrOBvk02N77GYj56iDdyDYfQ6crZhJVvvcJR7-bnHwkcydjtGUU_BMxveGA&amp;x-client-SKU=ID_NET8_0&amp;x-client-ver=7.3.1.0&amp;sso_reload=true">Staff Email Login</a><br><a rel="noopener" href="/umbraco" target="_blank" title="Link to access Govstack">Website Login</a></p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+                                        <div class="item footer-item usn_pod_sociallinks offset-lg-1  col-lg-4 col-md-12 col-12 col ">
+                                                <div class="inner">
+                                                    <p class="heading sm footer-heading "  data-os-animation="fadeInDown" data-os-animation-delay="0s" data-os-animation-duration="1s" >Connect With Us</p>        <nav class="social " data-os-animation="fadeInDown" data-os-animation-delay="0s" data-os-animation-duration="1s" aria-label="Social links">
+
+            <ul>
+                        <li>
+                            <span>
+                                <a href="https://www.facebook.com/WoolwichTownship/?ref=ts" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                            <img src="/media/owmdjtd1/facebook-circle-white.svg" alt="">
+                                        <span class="sr-only">Facebook</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                <a href="https://www.youtube.com/channel/UCOnLlF3Srk2gLEBjkq8pIMQ" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                            <img src="/media/ml4pbayp/youtube-circle-white.svg" alt="">
+                                        <span class="sr-only">Youtube</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                <a href="https://www.instagram.com/woolwichtownship/?igshid=1uyrfn11653b0" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                            <img src="/media/tiulvhpf/instagram-circle-white.svg" alt="">
+                                        <span class="sr-only">Instagram</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                <a href="https://ca.linkedin.com/company/township-of-woolwich"  >
+                                            <img src="/media/3rbl4nss/linkedin-circle-white.svg" alt="">
+                                        <span class="sr-only">Linked In</span>
+                                </a>
+                            </span>
+                        </li>
+                        <li>
+                            <span>
+                                <a href="https://x.com/Woolwichupdates?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"  >
+                                            <img src="/media/1ophyxtj/twitter-circle-white.svg" alt="">
+                                        <span class="sr-only">Twitter</span>
+                                </a>
+                            </span>
+                        </li>
+            </ul>
+        </nav>
+
+                                                </div>
+                                        </div>
+
+                        </div>
+                        <!--// Row -->
+                    <!-- Row -->
+                    <div class="row">
+
+                        <div class="col">
+                            <nav aria-label="Footer" class="footer-navigation">
+                                <ul>
+                                    <li><div>&copy; 2025 Township of Woolwich</div></li>
+                                    
+                                    <li class="site-credit">
+                                        <div>Made with </div>
+                                        <span><a target="_blank" rel="noopener" title="Link will open in a new window/tab" href="https://govstack.com/">Govstack</a></span>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+
+                    </div>
+                    <!--// Row -->
+
+                            <!-- Back to top -->
+        <div class="usn_back-to-top position-right">
+            <button id="back-to-top-link" aria-label="Back to top" class="btn base-btn-bg base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders btn-back-to-top">
+                <span></span>
+                <i aria-hidden="true" class="icon"></i><span aria-hidden="true" class="d-none">Back to top</span>
+            </button>
+        </div>
+        <!--// Back to top -->
+
+
+                </div>
+            </footer>
+
+        <!--// Footer -->
+
+    </div>
+    <!--// Site -->
+
+            <!-- Notification -->
+        <div class="usn-notification position-center base-bg closed" id="NotificationPanel">
+            <div class="inner">
+
+                
+
+                    <div class="text base-text">
+                        <p>This website uses cookies to enhance usability and provide you with a more personal experience. By using this website, you agree to our use of cookies as explained in our <a href="/privacy-policy/" title="Privacy Policy">Privacy Policy</a>.</p>
+                    </div>
+                <p class="link">
+                    <button class="btn base-btn-bg base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders accept-cookies">
+                        <span></span>
+                        Agree
+                    </button>
+                </p>
+            </div>
+        </div>
+        <!--// Notification -->
+
+    
+
+
+        <script src="/sb/sitebuilder-js-bundle.js.v1-8-2-0" type="text/javascript"></script>
+        <script src="/sb/gov-js-bundle.js.v1-8-2-0" type="text/javascript"></script>
+        <script async defer src="https://www.google.com/recaptcha/api.js"></script>
+
+<script>
+    $(function(){
+        $('body').attr('data-large-breakpoint', 1165);
+    });
+</script>
+
+<!-- CSS VARS Ponyfill -->
+
+<!-- News Custom Search -->
+<script>
+    $('#btnSearch').click(function (e) {
+        window.location.href = "?search_field=" + $('#txtItemSearch').val() + "&category=" + $('#news-categories').val() + "&startDate=" + $('#dateFrom').val() + "&endDate=" + $('#dateTo').val();
+    });
+    $('#txtItemSearch').keypress(function (e) {
+        if (e.which == '13') {
+            window.location.href = "?search_field=" + $('#txtItemSearch').val() + "&category=" + $('#news-categories').val() + "&startDate=" + $('#dateFrom').val() + "&endDate=" + $('#dateTo').val();
+        }
+    });
+    $('#btnClear').click(function (e) {
+        $('#txtItemSearch').val('');
+        $('#news-categories').get(0).selectedIndex = 0;
+        window.location.href ="/news";
+    });
+</script>
+    <!--Including some scripts for Alerts-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flickity/2.2.2/flickity.pkgd.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script type="text/javascript" src="/scripts/GOV/gs-alerts.js?v=1.5"></script>
+
+
+<!--Cludo Scripts-->
+                                                                                        <script type="text/javascript" src="https://cse.google.com/cse.js?cx=26cd0e53fde50f57f"></script>
+
+    
+    
+
+    
+
+</body>
+<!--
+    ____        _ ____              _ __  __             _____ __   _                      __
+   / __ )__  __(_) / /_   _      __(_) /_/ /_     __  __/ ___// /__(_)___  ____  ___  ____/ /
+  / __  / / / / / / __/  | | /| / / / __/ __ \   / / / /\__ \/ //_/ / __ \/ __ \/ _ \/ __  /
+ / /_/ / /_/ / / / /_    | |/ |/ / / /_/ / / /  / /_/ /___/ / ,< / / / / / / / /  __/ /_/ /
+/_____/\__,_/_/_/\__/    |__/|__/_/\__/_/ /_/   \__,_//____/_/|_/_/_/ /_/_/ /_/\___/\__,_/
+
+Find out more at uSkinned.net
+
+-->
+</html>

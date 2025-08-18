@@ -1,0 +1,462 @@
+status: 200
+encoding: utf-8
+Date: Sat, 09 Aug 2025 05:44:40 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+strict-transport-security: max-age=31536000; includeSubDomains
+x-frame-options: DENY
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+content-security-policy: upgrade-insecure-requests; object-src 'none'; block-all-mixed-content; img-src 'self' data: https://www.google-analytics.com https://video.isilive.ca https://prd.jwpltx.com; form-action 'self'; font-src 'self' https://fonts.gstatic.com https://*.isilive.ca; style-src 'self' https://fonts.googleapis.com https://cdn.jsdelivr.net https://*.isilive.ca 'unsafe-inline'; base-uri 'self'; frame-ancestors 'none'; script-src 'self' blob: https://www.googletagmanager.com https://www.google-analytics.com https://www.gstatic.com https://*.isilive.ca https://remoteip.isi.sh http://localhost/ https://cdn.jwplayer.com https://ssl.p.jwpcdn.com 'unsafe-inline'
+referrer-policy: strict-origin-when-cross-origin
+cross-origin-opener-policy: same-origin
+cross-origin-resource-policy: cross-origin
+permissions-policy: accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=*, geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), picture-in-picture=(), sync-xhr=(), usb=()
+cf-cache-status: DYNAMIC
+Server: cloudflare
+CF-RAY: 96c4f1629f27ebbc-YYZ
+
+<!DOCTYPE html>
+<html translate="no" lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--
+    <meta http-equiv="Content-Security-Policy" content="default-src blob: 'self'; media-src 'self' blob: *;connect-src 'self' https://*.isilive.ca/; frame-src 'self' https://*.google.com/ https://*.googleapis.com/; script-src 'self' 'unsafe-inline' blob: https://*.isiglobal.ca/ https://*.isilive.ca/ https://*.aspnetcdn.com/ https://*.googletagmanager.com https://*.google.com/ https://*.google-analytics.com/ http://*.google-analytics.com/ https://*.googleapis.com/ https://*.gstatic.com; style-src 'self' 'unsafe-inline' * ; font-src 'self' * ; img-src 'self' 'unsafe-inline' * " />
+    -->
+    <meta name="theme-color" content="#660033">
+
+    <meta name="robots" content="index,follow">
+    <meta name="googlebot" content="index,follow">
+    <meta name="google" content="nositelinkssearchbox">
+    <meta name="google" content="notranslate">
+
+    <meta name="referrer" content="no-referrer">
+    <meta name="format-detection" content="telephone=yes">
+
+    <meta name="ICBM" content="45.959384, -66.636318">
+    <meta name="geo.position" content="45.959384, -66.636318">
+    <meta name="geo.region" content="CA-NB">
+    <meta name="geo.placename" content="Fredericton">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#4285f4">
+
+    <link rel="me" href="mailto:legwebadmin@legnb.ca">
+
+    <link href="https://fonts.googleapis.com/css?family=Inter:400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Rufina" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/flatpickr.min.css">
+
+    
+
+    <title>Member of the Legislative Assembly : Kathy Bockus - Legislative Assembly of New Brunswick</title>
+    <meta name="description" content=""/>
+
+
+    
+
+
+    
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-CMSE8Q7GQ3"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'G-CMSE8Q7GQ3');
+        </script>
+    
+
+    
+        <link rel="stylesheet" type="text/css" href="/styles/styles.min.css?v=qWmFVwub5h3UjD-F8hGkFGn2kb1uPLvqHdzjW_D9FnA" />
+    
+    
+    <link rel="stylesheet" href="/NBLegWeb.Public.Web.styles.css" />
+</head>
+<body>
+
+
+
+
+<header class="site-header">
+    <div class="container-lg container-fluid">
+        <div class="header-content">
+            <a class="header-branding" href="/en">
+                <div class="header-branding-logo d-none d-lg-block">
+                    <img src="/images/coatofarms_sm.png" alt="A drawing of the New Brunswick coat of arms. There is a crest featuring a boat and a lion, with a deer standing on its hind legs on each side of the crest and a fish above." />
+                </div>
+                <img class="header-branding-logo-sm d-lg-none" src="/images/logo.png" alt="A white silhouette drawing of the dome on top of the legislative assembly." />
+                <div class="header-branding-meta">
+                    <span class="header-branding-title">Legislative Assembly <br>of New Brunswick</span>
+                    <span class="header-branding-location">Fredericton, New Brunswick, Canada</span>
+                </div>
+            </a>
+            <nav class="header-nav-quicklinks" role="navigation">
+                <ul>
+                    <li class="header-nav-quicklinks-link" lang="fr">
+                            <a class="nav-link" href="/fr/parlementaires/actuel/162/kathy-bockus">Fran&#xE7;ais</a>
+                    </li>
+                    <li class="header-nav-quicklinks-link">
+                        <a class="nav-link" href="http://www2.gnb.ca">GNB.ca</a>
+                    </li>
+                    <li class="header-nav-quicklinks-link">
+                        <a class="nav-link" href="/en/legislature/contact">Contact</a>
+                    </li>
+                </ul>
+                <a class="calendar-quick-link" href="/en/calendar">
+                    <i class="fas fa-calendar-alt"></i> Legislative Calendar
+                </a>
+            </nav>
+        </div>
+    </div>
+</header>
+<input type="checkbox" id="nav-toggle">
+<nav class="main-navigation">
+    <div class="container-lg container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="container">
+                    <div class="row d-lg-none nav-actions">
+                        <div class="col-6">
+                            <label for="nav-toggle" class="nav-menu-toggler">
+                                <span><i class="fas fa-bars"></i> Menu</span>
+                            </label>
+                        </div>
+                        <div class="col-6">
+                            <a class="language-toggle" href="/fr">
+                                <i class="fas fa-globe"></i> Fran&#xE7;ais
+                            </a>
+                        </div>
+                    </div>
+                    
+<ul class="nav-items">
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/legislature">Legislative Assembly</a>
+        <ul>
+            <li class="nav-link">
+                <a href="/en/legislature/history">Purpose &amp; History</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/legislative-references">Legislative References</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/notices">Notices</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/publications">Publications</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislative-officers">Legislative Officers</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/opportunities">Student Opportunities</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/contact">Contact Us</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/legislature/visit">Visit Us</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/members">Members</a>
+        <ul>
+            <li class="nav-link">
+                <a href="/en/members/current">Current Members Directory</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/members/disclosures">Public Disclosures</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/members/expenses">Members Expense Reports</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/members/speakers">Speakers</a>
+            </li>
+            <li class="nav-link">
+                <a href="https://www1.gnb.ca/Elections/en/provstreetkey/provskinformation-e.asp">Find My MLA</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link">Legislation</a>
+        <ul>
+            <li class="nav-link">
+                <a data-lang="en" href="/en/legislation/bills/61/1">Status of Legislation</a>
+            </li>
+            <li class="nav-link">
+                <a data-lang="en" href="/en/legislation/bills">Bills Archive</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/house-business">House Business</a>
+        <ul>
+            <li class="nav-link">
+                <a href="/en/house-business">Legislative Sessions</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/order-papers">Order Papers</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/journals">Journals</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/hansard">Hansard</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/tabled-documents">Tabled Documents</a>
+            </li>
+            <li class="nav-link">
+                <a href="/en/house-business/question-period-transcripts">Question Period</a>
+            </li>
+        </ul>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/committees">Committees</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/webcasts">Webcasts</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="http://www1.gnb.ca/leglibbib">Legislative Library</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="http://www2.gnb.ca">GNB.ca</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" data-lang="en" href="/en/legislature/contact">Contact</a>
+    </li>
+</ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+<div class="site-notices">
+    <div class="container">
+    </div>
+</div>
+
+
+
+
+<nav class="breadcrumb-nav" aria-label="breadcrumb">
+    <div class="container">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item" aria-current="page"><a href="/en/"><span>Home</span></a></li>
+                    <li class="breadcrumb-item" aria-current="page">
+                        <a href="/en/members"><span>Members</span></a>
+                    </li>
+                    <li class="breadcrumb-item" aria-current="page">
+                        <a href="/en/members/current"><span>Current</span></a>
+                    </li>
+                    <li class="breadcrumb-item active" aria-current="page">Kathy Bockus</li>
+        </ol>
+    </div>
+</nav>
+<main>
+    <div class="page-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div id="member-profile-header">
+                        <h1>Kathy Bockus</h1>
+                        <ul class="member-details-positions">
+                        </ul>
+                        <div class="member-details-meta">
+                            <span><i class="fas fa-circle fa-fw"
+                                     style="color: #005DAC"></i> Progressive Conservative Party</span>
+                            <span><i
+                                    class="fas fa-map-marker-alt fa-fw"></i> Saint Croix</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+
+            <div class="col-12 col-md-4">
+                <div class="member-details-portrait image image-portrait">
+                        <img src="/content\members\portraits\61-1\Kathy_Bockus_lg.jpg" />
+                </div>
+                    <div class="member-details-contacts">
+                            <span><a href="/cdn-cgi/l/email-protection#a7ecc6d3cfde89e5c8c4ccd2d4e7c0c9c589c4c6"><span class="__cf_email__" data-cfemail="e3a882978b9acda18c80889690a3848d81cd8082">[email&#160;protected]</span></a></span>
+                    </div>
+                <aside class="p-2">
+                    <span class="aside-header">
+                        Related
+                    </span>
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="/en/members/expenses">Members Expense Reports</a>
+                            </li>
+                            <li>
+                                <a href="/en/members/disclosures">Public Disclosures</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </aside>
+            </div>
+            <div class="col-12 col-md-8">
+                <section class="content-block">
+                    <p><strong>Kathy Bockus</strong>&nbsp;was first elected to the Legislative Assembly of New Brunswick in the September 2020 general election to represent the riding of&nbsp;<strong>Saint Croix</strong>. She was appointed to cabinet in June of 2023 to the post of Minister Responsible for Seniors.</p><p>She served on a number of legislative committees -&nbsp;Social Policy (chair), Climate Change and Environmental Stewardship, Private Bills, Estimates and Fiscal Policy,&nbsp;Law Amendments and she chaired the Select Committee on Accessibility in New Brunswick</p><p>The Accessibility Committee was responsible for providing the framework to create the province’s first <em>Accessibility Act</em>, passed in the Legislature in June of 2024.</p><p>As Seniors Minister Ms. Bockus said her greatest achievement was increasing the comfort and care allowance for seniors in nursing homes and special care homes. That increase began September 1<sup>st</sup>, 2024, and went from $108 to $150 for nursing home residents and from $135 to $190 for residents of special care homes. There had not been an increase since 2007.</p><p>She also advocated for a turn around of percentages of a couple’s income when one spouse was in a nursing home, changing it so that the larger amount, 60 percent, was provided to the senior still living at home. Ms. Bockus also supported the $200 annual increase in the Low-Income Seniors Benefit.</p><p>She has advocated in her riding under the Community Investment Fund, helping to award grants to a variety of community groups for projects to benefit constituents. And has advocated for funding from RDC for major projects such as Community Playgrounds in St. Stephen and McAdam and a new mobile command post for the Charlotte County Ground Search and Rescue.</p><p>Ms. Bockus was born in Saint John, raised in Hampton and moved back to Saint John with her husband Walter, a funeral director, to raise their two children and continue her decades long career as an award-winning journalist.</p><p>With her husband, she moved to the outskirts of St. Stephen in the late 1990s, continuing her journalism career there with the biweekly newspaper for almost 17 years, becoming familiar with the people, the places and the issues of the region. Through her writing she became an advocate for communities and those who live in them.</p><p>Ms. Bockus went to work as a constituency office assistant for the late Greg Thompson shortly after he was elected as an MLA in 2018. Throughout his term while he battled cancer, she filled in for him on many occasions while handling the day to day operations of his constituency office. Before Mr. Thompson passed away he told her to keep doing what she was doing; taking care of people.</p><p>That promise prompted her decision to run for election to continue to be able to help people solve their issues and support the economic sustainability of the region.</p><p>Ms. Bockus and her husband, who is now a beekeeping hobbyist, have seven grandchildren and live in Leverville, just outside St. Stephen, where the wild turkeys roam.</p>
+                </section>
+                <section class="content-block">
+                    <h2>Constituency Office</h2>
+                        <table class="table properties-table">
+                            <tbody>
+                                <tr>
+                                    <td style="width: 180px;">Mainline Phone</td>
+                                    <td>
+                                        <a href="tel:(506) 466-1449">(506) 466-1449</a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 180px;">Fax Phone</td>
+                                    <td><a href="fax:(506) 466-3196">(506) 466-3196</a></td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 180px;">Address</td>
+                                    <td>
+                                        78 Milltown Boulevard, Unit 8<br/>
+                                        St. Stephen<br/>
+                                        E3L 1G6
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 180px;">Hours of Operation</td>
+                                    <td>Monday to Thursday 9 a.m. - 2 p.m.</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                </section>
+                    <section class="content-block">
+                        <h2>Committee</h2>
+                        <ul>
+                                <li>
+                                    <a href="/en/committees/4/standing-committee-on-estimates-and-fiscal-policy">Standing Committee on Estimates and Fiscal Policy</a>
+                                </li>
+                                <li>
+                                    <a href="/en/committees/7/standing-committee-on-private-bills">Standing Committee on Private Bills</a>
+                                </li>
+                        </ul>
+                    </section>
+            </div>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-4">
+                <div class="footer-list-group">
+                    <span class="footer-list-header">
+                        Legislative Officers
+                    </span>
+                    <ul>
+                        <li>
+                            <a class="item" href="https://www.agnb-vgnb.ca/">Auditor General</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www.electionsnb.ca/content/enb/en.html">Chief Electoral Officer</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www.defenseur-nb-advocate.ca/">Child, Youth and Senior Advocate</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www.insurance-assurance.ca/index">Consumer Advocate for Insurance</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://oic-bci.ca/">Office of the Integrity Commissioner</a>
+                        </li>
+                        <li>
+                            <a class="item" href="http://officiallanguages.nb.ca/">Commissioner of Official Languages</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www.ombudnb.ca/">Ombud</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <div class="footer-list-group">
+                    <span class="footer-list-header">
+                        Information
+                    </span>
+                    <ul>
+
+                        <li>
+                            <a class="item" href="https://www2.gnb.ca/content/gnb/en/lgnb.html">Lieutenant Governor of New Brunswick</a>
+                        </li>
+                        <li>
+                            <a class="item" href="http://laws.gnb.ca/en/BrowseTitle">New Brunswick Acts &amp; Regulations</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://www2.gnb.ca/content/gnb/en/contacts/dept_renderer.201936.html#structure">Employee Directory</a>
+                        </li>
+                        <li>
+                            <a class="item" href="/en/disclaimer">Disclaimer</a>
+                        </li>
+                        <li>
+                            <a class="item" href="/en/sitemap">Sitemap</a>
+                        </li>
+                        <li>
+                            <a class="item" href="/en/other-legislatures">Other Legislatures</a>
+                        </li>
+                        <li>
+                            <a class="item" href="https://epp.legnb.ca?lang=en">Member and Employee Portal</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-12 col-lg-4">
+                <address class="footer-legislature-address">
+                    Legislative Assembly of New Brunswick<br/>
+706 Queen Street<br/>
+Fredericton, N.B.<br/>
+E3B 1C5<br/>
+Canada<br/>
+(506) 453-2506<br>
+Mon. to Fri.: 8:15 a.m. – 4:30 p.m.
+                </address>
+            </div>
+        </div>
+    </div>
+    <div class="site-copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <span style="color: rgba(255, 255, 255, 0.6);">
+                        2025 The Legislative Assembly of New Brunswick
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/js/site.js?v=YvbCUlaKUemuZMC3jbhGW5tU_fDbTdesBqt3Q13cBUs"></script>
+
+
+
+
+</body>
+</html>

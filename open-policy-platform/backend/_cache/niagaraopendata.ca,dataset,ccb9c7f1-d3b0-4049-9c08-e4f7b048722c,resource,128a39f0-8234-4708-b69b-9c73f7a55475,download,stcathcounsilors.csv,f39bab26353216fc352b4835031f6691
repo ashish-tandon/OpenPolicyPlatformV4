@@ -1,0 +1,26 @@
+status: 200
+encoding: None
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 09 Aug 2025 05:44:52 GMT
+Content-Type: application/csv
+Content-Length: 2509
+Connection: keep-alive
+Last-Modified: Wed, 21 May 2025 15:00:48 GMT
+Cache-Control: public, max-age=0, must-revalidate
+Expires: Sat, 09 Aug 2025 17:44:52 GMT
+ETag: "1747839648.355875-2509-648024260"
+
+﻿District name,District ID,Primary role,First name,Last name,Email,Photo URL,Phone
+MERRITTON,1,Councillor,Jackie,Lindal,jlindal@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Lindal.jpg,905.327.0484
+MERRITTON,1,Councillor,Greg,Miller,gmiller@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Councillor-Greg-Miller.jpg,905.327.0442
+ST. ANDREW'S,2,Councillor,Matt,Harris,mharris@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Councillor-Matt-Harris.jpg,905.329.6802
+ST. ANDREW'S,2,Councillor,Joe,Kushner,jkushner@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Councillor-Joe-Kushner.jpg,905.327.9638
+ST. GEORGE'S,3,Councillor,Mark,Stevens,mstevens@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Stevens.jpg,289.696.3673
+ST. GEORGE'S,3,Councillor,Kevin,Townsend,ktownsend@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Councillor-Kevin-Townsend.jpg,905.327.0401
+ST. PATRICK'S,4,Councillor,Caleb,Ratzlaff,cratzlaff@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Ratzlaff.jpg,905.327.0473
+ST. PATRICK'S,4,Councillor,Robin,McPherson,rmcpherson@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/McPherson.jpg,905.328.0003
+GRANTHAM,5,Councillor,Dawn,Dodge,ddodge@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Councillor-Dawn-Dodge.jpg,905.933.0373
+GRANTHAM,5,Councillor,Bill,Phillips,bphillips@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Councillor-Bill-Phillips.jpg,905.327.5363
+PORT DALHOUSIE,6,Councillor,Marty,Mako,mmako@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Councillor-Marty-Mako3.jpg,289.697.2749
+PORT DALHOUSIE,6,Councillor,Bruce,Williamson,bwilliamson@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Councillors/Councillor-Bruce-Williamson.jpg,905.934.2787
+,,Mayor,Mat,Siscoe,mayor@stcatharines.ca,https://www.stcatharines.ca/en/council-and-administration/resources/Images/Mayor-Siscoe-Chain_testresize2.jpg,905.688.5600x1540

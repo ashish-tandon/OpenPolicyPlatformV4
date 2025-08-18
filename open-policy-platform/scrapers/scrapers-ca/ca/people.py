@@ -1,0 +1,174 @@
+import hashlib
+import re
+
+from opencivicdata.divisions import Division
+from unidecode import unidecode
+
+from utils import CanadianPerson as Person
+from utils import CanadianScraper
+
+COUNCIL_PAGE = "https://www.ourcommons.ca/Members/en/search?caucusId=all&province=all"
+COUNCIL_PAGE_MALE = "https://www.ourcommons.ca/Members/en/search?caucusId=all&province=all&gender=M"
+COUNCIL_PAGE_FEMALE = "https://www.ourcommons.ca/Members/en/search?caucusId=all&province=all&gender=F"
+IMAGE_PLACEHOLDER_SHA1 = ["e4060a9eeaf3b4f54e6c16f5fb8bf2c26962e15d"]
+
+TRANSLATION_TABLE = str.maketrans("\u2013\u2014-", "   ", "\u200f")  # n-dash, m-dash, right-to-left mark
+CONSECUTIVE_WHITESPACE_REGEX = re.compile(r"\s+")
+CORRECTIONS = {
+    # Different names.
+    "Kelowna Lake Country": "Kelowna",
+    "Nonafot Nunavut": "Nunavut",
+    # Typographic errors.
+    "Northwest Territores": "Northwest Territories",
+}
+
+
+class CanadaPersonScraper(CanadianScraper):
+    """
+    The CSV at http://www.parl.gc.ca/Parliamentarians/en/members/export?output=CSV
+    accessible from http://www.parl.gc.ca/Parliamentarians/en/members has no
+    contact information or photo URLs.
+    """
+
+    normalized_names = {}
+
+    def normalize_district(self, district):
+        # Ignore accents, hyphens, lettercase, and leading, trailing and consecutive whitespace.
+        district = unidecode(district.translate(TRANSLATION_TABLE)).title().strip()
+        district = CONSECUTIVE_WHITESPACE_REGEX.sub(" ", district)
+        return CORRECTIONS.get(district, district)
+
+    def is_valid_telephone_number(self, string):
+        return len(re.sub(r"\D", "", string)) in {7, 10, 11}
+
+    def scrape(self):
+        # Create list mapping names to IDs.
+        for division in Division.get("ocd-division/country:ca").children("ed"):
+            if "2023" in division.id:
+                self.normalized_names[self.normalize_district(division.name)] = division.name
+
+        genders = {"male": COUNCIL_PAGE_MALE, "female": COUNCIL_PAGE_FEMALE}
+        for gender, url in genders.items():
+            page = self.lxmlize(url)
+            rows = page.xpath('//div[contains(@class, "ce-mip-mp-tile-container")]')
+            yield from self.scrape_people(rows, gender)
+
+    def scrape_people(self, rows, gender):
+        assert len(rows), "No members found"
+        for row in rows:
+            name = row.xpath('.//div[@class="ce-mip-mp-name"][1]')[0].text_content()
+            constituency = row.xpath('.//div[@class="ce-mip-mp-constituency"][1]')[0].text_content()
+            constituency = self.normalized_names[self.normalize_district(constituency)]
+
+            province = row.xpath('.//div[@class="ce-mip-mp-province"][1]')[0].text_content()
+
+            party = row.xpath('.//div[@class="ce-mip-mp-party"][1]')[0].text_content()
+
+            url = row.xpath('.//a[@class="ce-mip-mp-tile"]/@href')[0]
+
+            if province == "Québec":
+                url = url.replace("/en/", "/fr/")
+
+            mp_page = self.lxmlize(url)
+            email = self.get_email(mp_page, '//*[@id="contact"]/div/p/a', error=False)
+
+            photo = mp_page.xpath('.//div[@class="ce-mip-mp-profile-container"]//img/@src')[0]
+
+            m = Person(primary_org="lower", name=name, district=constituency, role="MP", party=party)
+            m.add_source(COUNCIL_PAGE)
+            m.add_source(url)
+            m.gender = gender
+            # @see https://www.ourcommons.ca/Members/en/ziad-aboultaif(89156)
+            if email:
+                m.add_contact("email", email)
+
+            if photo:
+                # Determine whether the photo is actually a generic silhouette
+                photo_response = self.get(photo)
+                if (
+                    photo_response.status_code == 200
+                    and hashlib.sha1(photo_response.content).hexdigest() not in IMAGE_PLACEHOLDER_SHA1  # noqa: S324 # non-cryptographic
+                ):
+                    m.image = photo
+
+            # The "Personal Web Site" section changed to "Website" some time around 2019
+            personal_url = mp_page.xpath('.//a[contains(@title, "Website")]/@href')
+            if personal_url:
+                m.add_link(personal_url[0])
+
+            preferred_languages = mp_page.xpath(
+                './/dt[contains(., "Preferred Language")]/following-sibling::dd/text()'
+            )
+
+            if preferred_languages:
+                m.extras["preferred_languages"] = [
+                    language.replace("/", "").strip() for language in preferred_languages
+                ]
+
+            roles_node = mp_page.xpath('.//div[@id="roles"]')
+            roles = roles_node[0].xpath('//h4[contains(., "Offices and Roles")]/following-sibling::ul[1]/li/text()')
+            if roles:
+                m.extras["roles"] = roles
+
+            if province == "Québec":
+                m.add_contact("address", "Chambre des communes\nOttawa ON  K1A 0A6", "legislature")
+            else:
+                m.add_contact("address", "House of Commons\nOttawa ON  K1A 0A6", "legislature")
+
+            # Hill Office contacts
+            # Now phone and fax are in the same element
+            # <p>
+            #   Telephone: xxx-xxx-xxxx<br/>
+            #   Fax: xxx-xxx-xxx
+            # </p>
+            phone_el = mp_page.xpath(
+                './/h4[contains(., "Hill Office")]/../p[contains(., "Telephone")]|.//h4[contains(., "Hill Office")]/../p[contains(., "Téléphone :")]'
+            )
+            fax_el = mp_page.xpath(
+                './/h4[contains(., "Hill Office")]/../p[contains(., "Fax")]|.//h4[contains(., "Hill Office")]/../p[contains(., "Télécopieur :")]'
+            )
+
+            if phone_el:
+                phone = phone_el[0].text_content().strip().splitlines()
+                phone = phone[0].replace("Telephone:", "").replace("Téléphone :", "").strip()
+                if phone and self.is_valid_telephone_number(phone):
+                    m.add_contact("voice", phone, "legislature")
+
+            if fax_el:
+                fax = fax_el[0].text_content().strip().splitlines()
+                fax = fax[0].replace("Fax:", "").replace("Télécopieur :", "").strip()
+                if fax and self.is_valid_telephone_number(fax):
+                    m.add_contact("fax", fax, "legislature")
+
+            # Constituency Office contacts
+            # Some people has more than one, e.g. https://www.ourcommons.ca/Members/en/ben-lobb(35600)#contact
+            for i, constituency_office_el in enumerate(
+                mp_page.xpath('.//div[@class="ce-mip-contact-constituency-office-container"]/div')
+            ):
+                note = "constituency"
+                if i:
+                    note += f" ({i + 1})"
+
+                address = constituency_office_el.xpath("./p[1]")[0]
+                address = address.text_content().strip().splitlines()
+                address = list(map(str.strip, address))
+                m.add_contact("address", "\n".join(address), note)
+
+                phone_and_fax_el = constituency_office_el.xpath(
+                    './p[contains(., "Telephone")]|./p[contains(., "Téléphone")]'
+                )
+                if len(phone_and_fax_el):
+                    phone_and_fax = phone_and_fax_el[0].text_content().strip().splitlines()
+                    # Note that https://www.ourcommons.ca/Members/en/michael-barrett(102275)#contact
+                    # has a empty value - "Telephone:". So the search / replace cannot include space.
+
+                    voice = phone_and_fax[0].replace("Telephone:", "").replace("Téléphone :", "").strip()
+                    if voice and self.is_valid_telephone_number(voice):
+                        m.add_contact("voice", voice, note)
+
+                    if len(phone_and_fax) > 1:
+                        fax = phone_and_fax[1].replace("Fax:", "").replace("Télécopieur :", "").strip()
+                        if fax and self.is_valid_telephone_number(fax):
+                            m.add_contact("fax", fax, note)
+
+            yield m

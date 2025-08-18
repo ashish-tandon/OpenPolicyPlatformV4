@@ -1,0 +1,940 @@
+status: 200
+encoding: UTF-8
+Date: Sat, 09 Aug 2025 05:44:57 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+cf-edge-cache: cache,platform=wordpress
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-XSS-Protection: 1; mode=block
+Last-Modified: Sat, 09 Aug 2025 05:24:18 GMT
+CF-Cache-Status: HIT
+Age: 1239
+Server: cloudflare
+CF-RAY: 96c4f1d08c7baba2-YYZ
+
+<!doctype html>
+<!--[if lt IE 9]><html class="no-js no-svg ie lt-ie9 lt-ie8 lt-ie7" lang="fr-CA"> <![endif]-->
+<!--[if IE 9]><html class="no-js no-svg ie ie9 lt-ie9 lt-ie8" lang="fr-CA"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js no-svg loading" lang="fr-CA">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/style.css" type="text/css" media="screen" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<script type="text/javascript" data-cookieconsent="ignore">
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+
+	gtag("consent", "default", {
+		ad_personalization: "denied",
+		ad_storage: "denied",
+		ad_user_data: "denied",
+		analytics_storage: "denied",
+		functionality_storage: "denied",
+		personalization_storage: "denied",
+		security_storage: "granted",
+		wait_for_update: 500,
+	});
+	gtag("set", "ads_data_redaction", true);
+	</script>
+<script type="text/javascript"
+		id="Cookiebot"
+		src="https://consent.cookiebot.com/uc.js"
+		data-implementation="wp"
+		data-cbid="654bf9cb-004e-4dde-ba6b-dfab74137d3d"
+						data-culture="FR"
+				data-blockingmode="auto"
+	></script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v25.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Nathalie Lepage - Ville de Terrebonne</title>
+	<meta name="description" content="La Ville de Terrebonne privilégie la bienveillance dans ses communications. Tous les échanges doivent se faire dans le respect et la tolérance envers les" />
+	<link rel="canonical" href="https://terrebonne.ca/district-3/" />
+	<meta property="og:locale" content="fr_CA" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Nathalie Lepage - Ville de Terrebonne" />
+	<meta property="og:description" content="La Ville de Terrebonne privilégie la bienveillance dans ses communications. Tous les échanges doivent se faire dans le respect et la tolérance envers les" />
+	<meta property="og:url" content="https://terrebonne.ca/district-3/" />
+	<meta property="og:site_name" content="Ville de Terrebonne" />
+	<meta property="article:publisher" content="https://www.facebook.com/VilledeTerrebonne" />
+	<meta property="article:modified_time" content="2024-12-17T16:51:01+00:00" />
+	<meta property="og:image" content="https://terrebonne.ca/wp-content/uploads/2023/05/c78f4b78d31cef2a8a52a31952a91bb4.png" />
+	<meta property="og:image:width" content="300" />
+	<meta property="og:image:height" content="450" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@terrebonneville" />
+	<meta name="twitter:label1" content="Estimation du temps de lecture" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://terrebonne.ca/district-3/","url":"https://terrebonne.ca/district-3/","name":"Nathalie Lepage - Ville de Terrebonne","isPartOf":{"@id":"https://terrebonne.ca/#website"},"primaryImageOfPage":{"@id":"https://terrebonne.ca/district-3/#primaryimage"},"image":{"@id":"https://terrebonne.ca/district-3/#primaryimage"},"thumbnailUrl":"https://terrebonne.ca/wp-content/uploads/2023/05/c78f4b78d31cef2a8a52a31952a91bb4.png","datePublished":"2023-06-09T13:54:06+00:00","dateModified":"2024-12-17T16:51:01+00:00","description":"La Ville de Terrebonne privilégie la bienveillance dans ses communications. Tous les échanges doivent se faire dans le respect et la tolérance envers les","breadcrumb":{"@id":"https://terrebonne.ca/district-3/#breadcrumb"},"inLanguage":"fr-CA","potentialAction":[{"@type":"ReadAction","target":["https://terrebonne.ca/district-3/"]}]},{"@type":"ImageObject","inLanguage":"fr-CA","@id":"https://terrebonne.ca/district-3/#primaryimage","url":"https://terrebonne.ca/wp-content/uploads/2023/05/c78f4b78d31cef2a8a52a31952a91bb4.png","contentUrl":"https://terrebonne.ca/wp-content/uploads/2023/05/c78f4b78d31cef2a8a52a31952a91bb4.png","width":300,"height":450,"caption":"Nathalie Lepage - Conseillère municipale - District 3 - Du Ruisseau Noir"},{"@type":"BreadcrumbList","@id":"https://terrebonne.ca/district-3/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://terrebonne.ca/"},{"@type":"ListItem","position":2,"name":"Ville","item":"https://terrebonne.ca/a-propos-de-la-ville/"},{"@type":"ListItem","position":3,"name":"Administration et gouvernance","item":"https://terrebonne.ca/administration-et-gouvernance/"},{"@type":"ListItem","position":4,"name":"Conseil municipal","item":"https://terrebonne.ca/conseil-municipal/"},{"@type":"ListItem","position":5,"name":"Membres du conseil municipal","item":"https://terrebonne.ca/membres-du-conseil-municipal/"},{"@type":"ListItem","position":6,"name":"Nathalie Lepage"}]},{"@type":"WebSite","@id":"https://terrebonne.ca/#website","url":"https://terrebonne.ca/","name":"Ville de Terrebonne","description":"","publisher":{"@id":"https://terrebonne.ca/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://terrebonne.ca/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-CA"},{"@type":"Organization","@id":"https://terrebonne.ca/#organization","name":"Ville de Terrebonne","url":"https://terrebonne.ca/","logo":{"@type":"ImageObject","inLanguage":"fr-CA","@id":"https://terrebonne.ca/#/schema/logo/image/","url":"https://terrebonne.ca/wp-content/uploads/2025/03/logo-ville-de-terrebonne.jpg","contentUrl":"https://terrebonne.ca/wp-content/uploads/2025/03/logo-ville-de-terrebonne.jpg","width":696,"height":696,"caption":"Ville de Terrebonne"},"image":{"@id":"https://terrebonne.ca/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/VilledeTerrebonne","https://x.com/terrebonneville"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Ville de Terrebonne &raquo; Flux" href="https://terrebonne.ca/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ville de Terrebonne &raquo; Flux des commentaires" href="https://terrebonne.ca/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/terrebonne.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://terrebonne.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--yellow: #FFC95E;--wp--preset--color--secondary: #FFA450;--wp--preset--color--blue: #61B0E3;--wp--preset--color--background: #F6F6F4;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: clamp(1rem, 1rem + ((1vw - 0.2rem) * 0.079), 1.0625rem);--wp--preset--font-size--medium: clamp(1rem, 1rem + ((1vw - 0.2rem) * 0.313), 1.25rem);--wp--preset--font-size--large: clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 0.391), 1.5625rem);--wp--preset--font-size--x-large: clamp(25.014px, 1.563rem + ((1vw - 3.2px) * 1.327), 42px);--wp--preset--font-family--crimson-pro: "Crimson Pro", serif;--wp--preset--font-family--rubik: 'Rubik', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: clamp(1.5rem, 5vw, 2rem);--wp--preset--spacing--40: clamp(1.8rem, 1.8rem + ((1vw - 0.48rem) * 2.885), 3rem);--wp--preset--spacing--50: clamp(2.5rem, 8vw, 4.5rem);--wp--preset--spacing--60: clamp(3.75rem, 10vw, 7rem);--wp--preset--spacing--70: clamp(5rem, 5.25rem + ((1vw - 0.48rem) * 9.096), 8rem);--wp--preset--spacing--80: clamp(7rem, 14vw, 11rem);--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}.wp-block-button .wp-block-button__link{--wp--preset--spacing--small: 10px;--wp--preset--spacing--default: clamp(0.625rem, 0rem + 1.8182vw, 1.25rem);}:root { --wp--style--global--content-size: 1200px;--wp--style--global--wide-size: 100%; }:where(body) { margin: 0; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) { padding-right: 0; padding-left: 0; }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) > .alignfull { margin-left: 0; margin-right: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: clamp(1.875rem, 0.9231rem + 2.7692vw, 3rem); margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: clamp(1.875rem, 0.9231rem + 2.7692vw, 3rem); }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: clamp(1.875rem, 0.9231rem + 2.7692vw, 3rem);margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: clamp(1.875rem, 0.9231rem + 2.7692vw, 3rem);margin-block-end: 0;}:root :where(.is-layout-flex){gap: clamp(1.875rem, 0.9231rem + 2.7692vw, 3rem);}:root :where(.is-layout-grid){gap: clamp(1.875rem, 0.9231rem + 2.7692vw, 3rem);}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{background-color: white;color: #1D1814;font-family: var(--wp--preset--font-family--rubik);font-size: var(--wp--preset--font-size--medium);line-height: 1.6;--wp--style--root--padding-top: var(--wp--preset--spacing--40);--wp--style--root--padding-right: var(--bs-gutter-x, 0.75rem);--wp--style--root--padding-bottom: var(--wp--preset--spacing--40);--wp--style--root--padding-left: var(--bs-gutter-x, 0.75rem);}a:where(:not(.wp-element-button)){color: var(--wp--preset--color--orange);text-decoration: underline;}:root :where(a:where(:not(.wp-element-button)):visited){color: #457fa5;}:root :where(a:where(:not(.wp-element-button)):hover){text-decoration: none;}:root :where(a:where(:not(.wp-element-button)):focus){text-decoration: underline dashed;}:root :where(a:where(:not(.wp-element-button)):active){color: var(--wp--preset--color--blue);text-decoration: none;}h1, h2, h3, h4, h5, h6{font-family: var(--wp--preset--font-family--crimson-pro);font-weight: 400;line-height: 1.4;margin-top: clamp(2.5625rem, 0.625rem + 2.7273vw, 2.5rem);margin-bottom: clamp(2.5625rem, 0.625rem + 2.7273vw, 2.5rem);}h1{font-size: clamp(2.8125rem, 0.75rem + 6vw, 4.875rem);letter-spacing: -2px;line-height: clamp(2.5rem, 1.1875rem + 3.8182vw, 3.8125rem);}h2{font-size: clamp(2.8125rem, 2.125rem + 2vw, 3.5rem);letter-spacing: -1px;line-height: clamp(2.5rem, 2rem + 1.4545vw, 3rem);}h3{font-size: clamp(1.875rem, 1.375rem + 1.4545vw, 2.375rem);font-weight: 500;letter-spacing: -0.5px;line-height: clamp(1.875rem, 1.375rem + 1.3333vw, 2.375rem);margin-top: clamp(2rem, 0.625rem + 2.7273vw, 1.5rem);margin-bottom: clamp(2rem, 0.625rem + 2.7273vw, 1.5rem);}h4{font-size: clamp(1.5625rem, 1.25rem + 0.9091vw, 1.875rem);;font-weight: 500;letter-spacing: -0.2px;line-height: 30px;margin-top: clamp(2rem, 0.625rem + 2.7273vw, 1.5rem);margin-bottom: clamp(2rem, 0.625rem + 2.7273vw, 1.5rem);}h5{font-family: var(--wp--preset--font-family--rubik);font-size: clamp(1.125rem, 0.875rem + 0.7273vw, 1.375rem);;font-weight: 500;line-height: 30px;margin-top: 30px;margin-bottom: 30px;}h6{font-family: var(--wp--preset--font-family--rubik);font-size: clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.234), 17px);font-weight: 500;line-height: 20px;margin-top: 30px;margin-bottom: 30px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: transparent;border-radius: 12px;border-color: #1D1814;border-width: 2px;border-style: solid;border-bottom-width: 4px;color: #1D1814;font-family: inherit;font-size: clamp(1rem, 0.9375rem + 0.1818vw, 1.0625rem);font-weight: 500;letter-spacing: -0.3px;line-height: inherit;padding-top: clamp(0.625rem, 0rem + 1.8182vw, 1.25rem);padding-right: 30px;padding-bottom: clamp(0.625rem, 0rem + 1.8182vw, 1.25rem);padding-left: 30px;text-decoration: none;}:root :where(.wp-element-button:visited, .wp-block-button__link:visited){color: #1D1814;}:root :where(.wp-element-button:hover, .wp-block-button__link:hover){color: white;}:root :where(.wp-element-button:focus, .wp-block-button__link:focus){background-color: #1D1814;color: white;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-yellow-color{color: var(--wp--preset--color--yellow) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-blue-color{color: var(--wp--preset--color--blue) !important;}.has-background-color{color: var(--wp--preset--color--background) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-yellow-background-color{background-color: var(--wp--preset--color--yellow) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-blue-background-color{background-color: var(--wp--preset--color--blue) !important;}.has-background-background-color{background-color: var(--wp--preset--color--background) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-yellow-border-color{border-color: var(--wp--preset--color--yellow) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-blue-border-color{border-color: var(--wp--preset--color--blue) !important;}.has-background-border-color{border-color: var(--wp--preset--color--background) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}
+:root :where(.wp-block-columns){margin-top: clamp(3.75rem, 1.3816rem + 5.2632vw, 5rem);;margin-bottom: clamp(3.75rem, 1.3816rem + 5.2632vw, 5rem);;}
+:root :where(.wp-block-pullquote){font-size: clamp(0.984em, 0.984rem + ((1vw - 0.2em) * 0.645), 1.5em);line-height: 1.6;}
+:root :where(.wp-block-post-title){font-weight: 400;margin-top: 1.25rem;margin-bottom: 1.25rem;}
+:root :where(.wp-block-post-title a:where(:not(.wp-element-button))){text-decoration: none;}
+:root :where(.wp-block-post-title a:where(:not(.wp-element-button)):hover){text-decoration: underline;}
+:root :where(.wp-block-post-title a:where(:not(.wp-element-button)):focus){text-decoration: underline dashed;}
+:root :where(.wp-block-post-title a:where(:not(.wp-element-button)):active){color: var(--wp--preset--color--secondary);text-decoration: none;}
+:root :where(.wp-block-quote){border-color: #1D1814;border-width: 0px 0px 0px 3px;border-style: solid;color: #8d8b89;font-size: clamp(1.25rem, 0.7763rem + 1.0526vw, 1.5rem);font-style: italic;line-height: clamp(1.625rem, 0.9145rem + 1.5789vw, 2rem);margin-right: 0;margin-left: 0;padding-right: 0;padding-left: var(--wp--preset--spacing--30);}
+:root :where(.wp-block-quote cite){color: #1D1814;font-size: clamp(14px, 0.875rem + ((1vw - 3.2px) * 0.234), 17px);font-style: normal;}
+:root :where(.wp-block-image img, .wp-block-image .wp-block-image__crop-area, .wp-block-image .components-placeholder){border-radius: 10px;}
+:root :where(.wp-block-image .wp-element-caption,.wp-block-image  .wp-block-audio figcaption,.wp-block-image  .wp-block-embed figcaption,.wp-block-image  .wp-block-gallery figcaption,.wp-block-image  .wp-block-image figcaption,.wp-block-image  .wp-block-table figcaption,.wp-block-image  .wp-block-video figcaption){background-color: white;border-radius: 0;color: rgb(29 24 20 / 75%);font-size: 11px;}
+:root :where(.wp-block-separator){border-color: #757575;border-width: 1px 0px 0px 0px;margin-top: clamp(2.5rem, -1.25rem + 10.9091vw, 6.25rem);margin-bottom: clamp(2.5rem, -1.25rem + 10.9091vw, 6.25rem);}
+:root :where(.wp-block-group){margin-top: 40px;margin-bottom: 40px;}
+:root :where(.wp-block-buttons){margin-top: 15px;margin-bottom: 15px;}
+:root :where(.wp-block-table){margin-top: 30px;margin-bottom: 30px;}
+:root :where(.wp-block-list){margin-top: 30px;}
+</style>
+<link rel='stylesheet' id='site-critical-css' href='https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/dist/styles/critical.css?ver=1754717058' type='text/css' media='all' />
+<link rel='stylesheet' id='site-style-css' href='https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/dist/styles/app.css?ver=1754717058' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://terrebonne.ca/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://terrebonne.ca/wp-json/wp/v2/council/317" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://terrebonne.ca/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.2" />
+<link rel='shortlink' href='https://terrebonne.ca/?p=317' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://terrebonne.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fterrebonne.ca%2Fdistrict-3%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://terrebonne.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fterrebonne.ca%2Fdistrict-3%2F&#038;format=xml" />
+<meta name="cdp-version" content="1.5.0" />
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"pagePostType":"council","pagePostType2":"single-council","pagePostAuthor":"Alexandra Lamoureux"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PBMCN6CL');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style class='wp-fonts-local' type='text/css'>
+@font-face{font-family:"Crimson Pro";font-style:normal;font-weight:400;font-display:fallback;font-stretch:normal;}
+@font-face{font-family:Rubik;font-style:normal;font-weight:400;font-display:fallback;font-stretch:normal;}
+</style>
+
+	<script src='https://platform-api.sharethis.com/js/sharethis.js#property=65e643e0f44fb1001a4c6bc1&product=sop' async='async'></script>
+	<link rel="apple-touch-icon" sizes="180x180" href="https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/assets/images/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/assets/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/assets/images/favicon-16x16.png">
+	<link rel="manifest" href="https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/assets/images/site.webmanifest">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+	
+</head>
+<body class="wp-singular council-template-default single single-council postid-317 wp-theme-ville-de-terrebonne">
+	<script>
+		(function (d) {
+		var s = d.createElement("script");
+		s.setAttribute("data-account", "9UACsf0o8R");
+		s.setAttribute("src", "https://cdn.userway.org/widget.js");
+		(d.body || d.head).appendChild(s);
+		})(document)
+	</script>
+	<noscript>Please ensure Javascript is enabled for purposes of
+		<a href="https://userway.org">website accessibility</a>
+	</noscript>
+
+	<a id="skipContent" href="#main" class="sr-only focusable">Aller au contenu principal</a>
+
+	<div class="preloader"></div>
+
+	    <div data-aos="fade-down" data-aos-delay="100" id="alerts" class="alerts-ctn">
+                    <div id="moderate-1" class="alert --moderate ">
+                <div class="inner">
+                                        <p class="title"><span class="icon icon-alert-moderate "></span> Chaleur accablante</p>
+                    <p class="message">
+                        <span>
+                            Forte humidité prévue, des centres de rafraîchissements sont ouverts.
+                        </span>
+                                                    <a aria-label="En savoir plusForte humidité prévue, des centres de rafraîchissements sont ouverts." class="link" href="https://terrebonne.ca/mesure-d-urgence/" target="_self">Mesure d’urgence</a>
+                                            </p>
+                </div>
+                <button class="close" aria-label="fermer l'alerte"><span class="icon-close"></span></button>
+            </div>
+            </div>
+	<header data-aos="fade-down" data-aos-delay="100" id="header" class="header">
+	<div class="logo-ctn">
+		<a href="https://terrebonne.ca">
+			<img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="Aller à la page d'accueil" data-src="https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/assets/images/main-logo.svg" decoding="async" class="lazyload"><noscript><img src="https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/assets/images/main-logo.svg" alt="Aller à la page d'accueil" data-eio="l"></noscript>
+		</a>
+	</div>
+	<div class="top-header">
+		<ul role="menu" class="menu secondary-menu">
+          <li role="menuitem" class="level-1  menu-item menu-item-type-post_type menu-item-object-page menu-item-22552">
+        <a class="" href="https://terrebonne.ca/carrieres/" target="_self">Emplois</a>
+      </li>
+          <li role="menuitem" class="level-1  menu-item menu-item-type-post_type menu-item-object-page menu-item-5303">
+        <a class="" href="https://terrebonne.ca/cartes-interactives/" target="_self">Cartes interactives</a>
+      </li>
+          <li role="menuitem" class="level-1  menu-item menu-item-type-post_type menu-item-object-page menu-item-4020">
+        <a class="" href="https://terrebonne.ca/nous-joindre/" target="_self">Nous joindre</a>
+      </li>
+    </ul>		<div class="header-actions">
+    <ul>
+        <li class="accessibility">
+            <button class="icon-accessibility" id="accessibilityWidget" tabindex="0" aria-label="Menu d'accessibilité" aria-haspopup="dialog"></button>
+        </li>
+        <li>
+            <a href="/?s=" aria-label="Aller à la page recherche">
+                <span class="icon-search"></span>
+            </a>
+        </li>
+    </ul>
+    <div class="toggler-mobile">
+    <button aria-label="Ouvrir le menu" class="menu-button hamburger ">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+</div></div>	</div>
+	<div id="main-panel" class="panel-menu primary-menu-ctn">
+    	<ul role="menubar" class="menu primary-menu">
+        					<li id="services" role="none" class="menu-item primary-item " style="--menu-color : #FFC95E">
+					<button role="menuitem" tabindex="0" aria-expanded="false" aria-haspopup="menu">Services</button>
+					<div class="menu-inner-panel panel-0">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Services</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class="hidden menu-item menu-item-type-post_type menu-item-object-page menu-item-29100 item-col-0-1">
+                                    <a target="_self" href="https://terrebonne.ca/services/">Services</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-95 menu-item-has-children item-col-0-2">
+                                    <button role="menuitem">Services à la population</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Services à la population</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class="-arrow menu-item menu-item-type-post_type menu-item-object-page menu-item-314 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/trouver-mes-services-par-adresse/">Trouver mes services par adresse</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-5283 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/aide-soutien-et-subventions/">Aide, soutien et subventions</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12518 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/assermentation/">Assermentation</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-309 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/collectes/">Collectes</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12519 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/constat-d-infraction-et-cour-municipale/">Constat d’infraction et cour municipale</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12520 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/deneigement-et-stationnement/">Déneigement et stationnement</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-25772 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/securite-publique/">Sécurité publique</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12521 item-col-1-8">
+                                    <a target="_self" href="https://terrebonne.ca/info-taxes/">Taxes et rôle foncier</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12522 item-col-1-9">
+                                    <a target="_self" href="https://terrebonne.ca/transport/">Transport</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12523 item-col-1-10">
+                                    <a target="_self" href="https://terrebonne.ca/travaux-entretien-et-avis-d-ebullition/">Travaux, entretien et avis d’ébullition</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12524 item-col-1-11">
+                                    <a target="_self" href="https://terrebonne.ca/wi-fi-gratuit/">Wi-Fi gratuit</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-96 menu-item-has-children item-col-0-3">
+                                    <button role="menuitem">Services aux organismes</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Services aux organismes</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12525 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/admissibilite/">Admissibilité</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12526 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/aide-financiere/">Aide financière</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12527 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/boite-a-outils/">Boîte à outils</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12528 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/demande-d-affichage-sur-le-territoire/">Demande d’affichage sur le territoire</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12529 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/organismes-mandataires/">Organismes mandataires</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12530 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/programme-d-action-benevole/">Programme d’action bénévole</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12531 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/reservation-de-plateaux-et-equipements/">Réservation de plateaux et équipements</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12532 item-col-1-8">
+                                    <a target="_self" href="https://terrebonne.ca/repondants-municipaux/">Répondants municipaux</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-97 menu-item-has-children item-col-0-4">
+                                    <button role="menuitem">Services aux entreprises</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Services aux entreprises</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12535 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/appel-d-offres-et-gestion-contractuelle/">Appel d’offres et gestion contractuelle</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-34348 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/collecte-des-matieres-recyclables-et-organiques-dans-les-commerces/">Collecte dans les commerces</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-39559 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/commerces-animaux/">Commerces amis des animaux</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-31649 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/developpement-economique/">Développement économique</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12534 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/entreprises-d-utilite-publique/">Entreprises d’utilité publique</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12537 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/ouverture-d-un-service-de-garde/">Ouverture d'un service de garde</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-25380 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/programmes-de-subventions-pour-les-entreprises/">Soutien et subventions</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-98 menu-item-has-children item-col-0-5">
+                                    <button role="menuitem">Permis, règlements et conseils</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Permis, règlements et conseils</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class="-arrow menu-item menu-item-type-post_type menu-item-object-page menu-item-273 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/permis-reglements-et-conseils/">Voir tout</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-176 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/permis-reglements-et-conseils?categories=12">Aménagement extérieur</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-24749 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/permis-reglements-et-conseils?categories=13">Animaux et insectes</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-24747 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/reglements-permis/utilisation-de-leau-et-periodes-darrosage/">Arrosage</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-179 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/permis-reglements-et-conseils?categories=47">Construction, rénovation et travaux</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-181 item-col-1-6">
+                                    <a target="_self" href="/permis-reglements-et-conseils?categories=204">Sécurité</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-182 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/permis-reglements-et-conseils?categories=114">Urbanisme</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-183 item-col-1-8">
+                                    <a target="_self" href="https://terrebonne.ca/permis-reglements-et-conseils?categories=111">Vie de quartier</a>
+                            </li>
+            </ul>
+</div>                            </li>
+            </ul>
+</div>				</li>
+							<li id="loisirs-et-culture" role="none" class="menu-item primary-item " style="--menu-color : #61B0E3">
+					<button role="menuitem" tabindex="0" aria-expanded="false" aria-haspopup="menu">Loisirs et culture</button>
+					<div class="menu-inner-panel panel-0">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Loisirs et culture</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-91 menu-item-has-children item-col-0-1">
+                                    <button role="menuitem">Activités avec inscription</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Activités avec inscription</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12498 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/camps-de-jour/">Camps de jour</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12823 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/carte-acces-terrebonne/">Carte Accès Terrebonne</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-31982 item-col-1-3">
+                                    <a target="_self" href="https://inscriptions.ville.terrebonne.qc.ca/IC3P.WebSite/">Inscription et réservation d'activités</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-13216 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/programmation-loisirs/">Programmation Loisirs+</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12501 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/programmes-favorisant-l-accessibilite-aux-loisirs/">Programmes favorisant l’accessibilité</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-92 menu-item-has-children item-col-0-2">
+                                    <button role="menuitem">Bibliothèques et culture</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Bibliothèques et culture</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-5307 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/activites-et-festivites/">Activités et festivités</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12502 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/bibliotheques/">Bibliothèques</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-35589 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/croque-livres/">Croque-livres</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-22692 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/lieux-culturels/">Lieux culturels</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-5305 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/artistes-et-oeuvres-d-art/">Œuvres d’art et artistes</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-25642 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/vision-culturelle/">Vision culturelle</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-90 menu-item-has-children item-col-0-3">
+                                    <button role="menuitem">Parcs et espaces récréatifs</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Parcs et espaces récréatifs</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-32664 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/activites-dans-les-parcs/">Activités dans les parcs</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12503 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/arenas/">Arénas</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-25729 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/complexe-aquatique/">Complexe aquatique</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12506 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/jeux-eau/">Jeux d’eau</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-23779 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/liste-des-parcs/">Parcs</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-24012 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/patinoires-exterieures/">Patinoires extérieures</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12508 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/terrains-sportifs/">Terrains sportifs</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12509 item-col-1-8">
+                                    <a target="_self" href="https://terrebonne.ca/sentiers-et-espaces-verts/">Sentiers et espaces verts</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-93 menu-item-has-children item-col-0-4">
+                                    <button role="menuitem">Vie collective</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Vie collective</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class="-arrow menu-item menu-item-type-post_type menu-item-object-page menu-item-622 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/calendrier-des-evenements/">Calendrier des événements</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-16223 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/activites-des-organismes/">Activités des organismes</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12512 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/implication-benevole/">Bénévolat et implication citoyenne</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12513 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/fete-des-voisins/">Fête des voisins</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12511 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/banque-de-modeles-seances-photo-et-video/">Figurants pour photos et vidéos</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12514 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/jardins-communautaires/">Jardins communautaires et forêts nourricières</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-32009 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/un-brin-de-jasette/">Un brin de jasette</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12517 item-col-1-8">
+                                    <a target="_self" href="https://terrebonne.ca/ventes-garage/">Ventes de garage</a>
+                            </li>
+            </ul>
+</div>                            </li>
+            </ul>
+</div>				</li>
+							<li id="ville" role="none" class="menu-item primary-item is-menu-ancestor" style="--menu-color : #FFA450">
+					<button role="menuitem" tabindex="0" aria-expanded="false" aria-haspopup="menu">Ville</button>
+					<div class="menu-inner-panel panel-0">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Ville</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class="hidden menu-item menu-item-type-post_type menu-item-object-page menu-item-15183 item-col-0-1">
+                                    <a target="_self" href="https://terrebonne.ca/a-propos-de-la-ville/">Ville</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-287 menu-item-has-children item-col-0-2">
+                                    <button role="menuitem">Administration et gouvernance</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Administration et gouvernance</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class="-arrow menu-item menu-item-type-post_type menu-item-object-page menu-item-248 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/conseil-municipal/">Conseil municipal</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12540 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/administration-municipale/">Administration municipale</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12541 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/acces-a-l-information/">Accès à l’information</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-289 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/avis-publics/">Avis publics</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12542 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/biet-integrite-et-ethique/">Bureau d'intégrité et d'éthique</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12544 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/comite-executif/">Comité exécutif</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-15224 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/commissions-et-comites/">Commissions et comités</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-15301 item-col-1-8">
+                                    <a target="_self" href="https://terrebonne.ca/documentation-et-orientations/">Documentation et orientations</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12548 item-col-1-9">
+                                    <a target="_self" href="https://terrebonne.ca/verificateur-general/">Vérificateur général</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-14725 menu-item-has-children item-col-0-3">
+                                    <button role="menuitem">Découvrir Terrebonne</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Découvrir Terrebonne</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-239 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/actualites/">Actualités</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-362 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/histoire-et-patrimoine/">Histoire et patrimoine</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12549 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/identite-municipale-logo/">Identité municipale (logo)</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-184 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/cartes-interactives/">Installations et espaces publics</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12550 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/mission-vision-valeurs/">Mission, vision, valeurs</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12551 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/presentation-de-la-ville/">Présentation de la ville</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12552 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/secteurs-et-developpements/">Secteurs et développements</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-22746 item-col-1-8">
+                                    <a target="_self" href="https://terrebonne.ca/tourisme/">Tourisme</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-35395 item-col-1-9">
+                                    <a target="_self" href="https://terrebonne.ca/le-350e-anniversaire/">350e anniversaire</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-103 menu-item-has-children item-col-0-4">
+                                    <button role="menuitem">Enjeux et projets porteurs</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Enjeux et projets porteurs</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12554 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/developpement-social/">Développement social</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-39963 item-col-1-2">
+                                    <a target="_blank" href="https://elections.ville.terrebonne.qc.ca/">Élections municipales</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-38301 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/finale-des-jeux-du-quebec-2029/">Milieu candidat – Finale Jeux du Québec 2029</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-279 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/participation-citoyenne/">Participation citoyenne</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-32437 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/proprete-et-embellissement/">Propreté et embellissement</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-37855 item-col-1-6">
+                                    <a target="_self" href="https://terrebonne.ca/strategie-bleue/">Stratégie bleue</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-28921 item-col-1-7">
+                                    <a target="_self" href="https://terrebonne.ca/territoireterrebonne/">Territoire Terrebonne</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12555 item-col-1-8">
+                                    <a target="_self" href="https://terrebonne.ca/transition-ecologique/">Transition écologique</a>
+                            </li>
+            </ul>
+</div>                            </li>
+                    <li role="none" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-105 menu-item-has-children item-col-0-5">
+                                    <button role="menuitem">Sécurité publique</button>
+                    <div class="menu-inner-panel panel-1">
+    <div class="back">
+        <button class="back-btn js-go-back"><span class="icon-arrow-left"></span>Retour</button>
+        <span class="parent-name">Sécurité publique</span>
+    </div>
+    <ul class="sub-menu">
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12556 item-col-1-1">
+                                    <a target="_self" href="https://terrebonne.ca/alerte-terrebonne/">Alerte Terrebonne</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12557 item-col-1-2">
+                                    <a target="_self" href="https://terrebonne.ca/porte-a-porte-et-patrouille/">Porte-à-porte et patrouille</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12558 item-col-1-3">
+                                    <a target="_self" href="https://terrebonne.ca/securite-civile-et-mesures-d-urgence/">Sécurité civile et mesures d’urgence</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12559 item-col-1-4">
+                                    <a target="_self" href="https://terrebonne.ca/service-de-police/">Service de police</a>
+                            </li>
+                    <li role="none" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-12560 item-col-1-5">
+                                    <a target="_self" href="https://terrebonne.ca/securite-incendie/">Service de sécurité incendie</a>
+                            </li>
+            </ul>
+</div>                            </li>
+            </ul>
+</div>				</li>
+					</ul>
+		<ul role="menu" class="menu secondary-menu">
+          <li role="menuitem" class="level-1  menu-item menu-item-type-post_type menu-item-object-page menu-item-22552">
+        <a class="" href="https://terrebonne.ca/carrieres/" target="_self">Emplois</a>
+      </li>
+          <li role="menuitem" class="level-1  menu-item menu-item-type-post_type menu-item-object-page menu-item-5303">
+        <a class="" href="https://terrebonne.ca/cartes-interactives/" target="_self">Cartes interactives</a>
+      </li>
+          <li role="menuitem" class="level-1  menu-item menu-item-type-post_type menu-item-object-page menu-item-4020">
+        <a class="" href="https://terrebonne.ca/nous-joindre/" target="_self">Nous joindre</a>
+      </li>
+    </ul>	</div>
+</header>
+	<div class="main-content" style="--pageColor:#FFA450">
+			
+	<div data-aos="fade" data-aos-delay="300" class="breadcrumb-ctn">
+    <div class="container-fluid">
+        <nav id="breadcrumbs" title="Fil d'ariane"  class="main-breadcrumbs"><span><span><a href="https://terrebonne.ca/">Accueil</a></span> <i class="icon-slide-arrow-right"></i> <span><a href="https://terrebonne.ca/a-propos-de-la-ville/">Ville</a></span> <i class="icon-slide-arrow-right"></i> <span><a href="https://terrebonne.ca/administration-et-gouvernance/">Administration et gouvernance</a></span> <i class="icon-slide-arrow-right"></i> <span><a href="https://terrebonne.ca/conseil-municipal/">Conseil municipal</a></span> <i class="icon-slide-arrow-right"></i> <span><a href="https://terrebonne.ca/membres-du-conseil-municipal/">Membres du conseil municipal</a></span> <i class="icon-slide-arrow-right"></i> <span class="breadcrumb_last" aria-current="page">Nathalie Lepage</span></span></nav>
+    </div>
+</div>
+	<div class="council-member-hero">
+		<div class="container-lg">
+			<div class="row ">
+				<div class="col-md-4 col-lg-5">
+										<div class="thumbnail-ctn">
+						<img data-aos="fade" data-aos-delay="500" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAAK8AQMAAADh/eYgAAAAA1BMVEVHcEyC+tLSAAAAAXRSTlMAQObYZgAAAEVJREFUeNrtwQEBAAAAgiD/r25IQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8GS/aAABxLwmYAAAAABJRU5ErkJggg==" alt="Nathalie Lepage" data-src="https://terrebonne.ca/wp-content/uploads/2023/05/c78f4b78d31cef2a8a52a31952a91bb4-550x700-c-default.png" decoding="async" class="lazyload" data-eio-rwidth="550" data-eio-rheight="700" /><noscript><img data-aos="fade" data-aos-delay="500" src="https://terrebonne.ca/wp-content/uploads/2023/05/c78f4b78d31cef2a8a52a31952a91bb4-550x700-c-default.png" alt="Nathalie Lepage" data-eio="l" /></noscript>
+					</div>
+				</div>
+				<div class="col-md-8 col-lg-7 ps-lg-5">
+					<div data-aos="fade" data-aos-delay="300" class="council-member-inner">
+						<h1>Nathalie Lepage</h1>
+													<p class="role">Conseillère municipale</p>
+												<div class="council-links">
+														<ul class="socials">
+																									<li>
+										<a href="https://twitter.com/terrebonneville" target="_blank">
+											<span class="icon-twitter-x"></span>
+										</a>
+									</li>
+																									<li>
+										<a href="https://www.facebook.com/nathalie.lepage.7528" target="_blank">
+											<span class="icon-facebook"></span>
+										</a>
+									</li>
+															</ul>
+						</div>
+						<div class="phones-ctn">
+							<div class="phone-group">
+								<span class="icon icon-phone"></span>
+								<a href="tel:450961-2001">450 961-2001</a>
+								<p class="label">Pour une requête</p>
+							</div>
+															<div class="phone-group">
+									<span class="icon icon-mobile-phone"></span>
+									<a href="tel:514-781-1915">514-781-1915</a>
+									<p class="label">Personnel</p>
+								</div>
+													</div>
+													<p class="contact">
+								<span class="icon icon-email-outlined"></span>
+								<a href="/cdn-cgi/l/email-protection#206e415448414c49450e4c45504147456056494c4c450e5445525245424f4e4e450e51430e4341"><span class="__cf_email__" data-cfemail="bef0dfcad6dfd2d7db90d2dbcedfd9dbfec8d7d2d2db90cadbccccdbdcd1d0d0db90cfdd90dddf">[email&#160;protected]</span></a>
+							</p>
+												<div class="gutenberg description">
+							
+<p><em>La Ville de Terrebonne privilégie la bienveillance dans ses communications. Tous les échanges doivent se faire dans le respect et la tolérance envers les élus et les équipes.</em></p>
+
+
+
+<ul class="wp-block-list">
+<li>Conseillère municipale du district 3 &#8211; Du Ruisseau Noir</li>
+
+
+
+<li>Présidente de la Commission des infrastructures, de la propreté et de l’information aux citoyens (CIPIC)</li>
+
+
+
+<li>Vice-présidente de la Commission des loisirs et du développement social et sportif (CLDSS)</li>
+
+
+
+<li>Membre du conseil de la MRC Les Moulins</li>
+
+
+
+<li>Membre du conseil la Régie d&rsquo;aqueduc intermunicipale des Moulins (RAIM)</li>
+
+
+
+<li> Représentante d&rsquo;AMINATE (Accueil multiethnique et intégration des nouveaux arrivants à Terrebonne et les environs)</li>
+</ul>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="return-to-main">
+	<p>
+		<a href="https://terrebonne.ca/membres-du-conseil-municipal/">
+			<span class="icon-long-arrow-left"></span>
+			Membres du conseil municipal</a>
+	</p>
+</div>
+		</div>
+	</div>
+
+	<div class="share-bar" id="share-bar">
+	<p>Partager</p>
+
+	<ul>
+		<li>
+			<button id="share-bar-btn-fb" class="button st-custom-button facebook-share-button" data-network="facebook" aria-label="Partager sur Facebook">
+				<span class="icon-facebook"></span>
+			</button>
+		</li>
+		<li>
+			<button id="share-bar-btn-twt" class="button st-custom-button twitter-share-button" data-network="twitter" aria-label="Partager sur Twitter">
+				<span class="icon-twitter-x"></span>
+			</button>
+		</li>
+		<li>
+			<button id="share-bar-btn-mail" class="button st-custom-button email-share-button" data-network="email" data-email-subject="J'aimerais partager un lien du site terrebonne.ca"  aria-label="Partager par courriel">
+				<span class="icon-email"></span>
+			</button>
+		</li>
+		<li>
+			<button onclick="window.print();" class="button st-custom-button" aria-label="Imprimer la page">
+				<span class="icon-print"></span>
+			</button>
+		</li>
+	</ul>
+</div>
+	</div>
+
+	
+<footer id="footer" class="footer">
+    <div class="footer-container">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6 col-xl-3">
+                    <div class="footer-content">
+    <p class="footer-title">Bureau des citoyens</p>
+            <div class="text "><p>Vous êtes importants pour nous : joignez-nous au <a href="tel:4509612001">450 961-2001</a> ou en utilisant le <a href="https://terrebonne.ca/nous-joindre/">formulaire de contact</a>.</p>
+</div>
+                <p class="text-icon">
+            <span class="icon icon-clock"></span>
+            <span>Du lundi au vendredi, de 7&nbsp;h&nbsp;30 à 19&nbsp;h&nbsp;30</span>
+        </p>
+                <p class="text-icon">
+            <span class="icon icon-pin"></span>
+            <a href="https://goo.gl/maps/yQUadAbWNUbeo4Qh6" target="_blank">708 A, boulevard des Seigneurs,  Terrebonne</a>
+        </p>
+                <div class="transparent-btn">
+            <a href="https://terrebonne.ca/nous-joindre/" target="_self">Nous joindre</a>
+        </div>
+    </div>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <div class="footer-content">
+    <p class="footer-title">Infolettre citoyenne</p>
+            <div class="text --hidden"><p>Vous y trouverez les plus récentes actualités et événements en condensé, directement dans votre boîte courriel.</p>
+<p>L&rsquo;infolettre est diffusée une fois par mois.</p>
+</div>
+                        <div class="transparent-btn">
+            <a href="https://terrebonne.ca/infolettre/" target="_self">M’abonner à l’infolettre</a>
+        </div>
+    </div>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <div class="footer-content">
+    <p class="footer-title">Alerte Terrebonne</p>
+            <div class="text --hidden"><p>Messages automatisés pour être informé en cas d’urgence.</p>
+<p>Alerte Terrebonne, la plateforme d’appels et de messages textes utilisée par la Ville de Terrebonne lors de mesures d’urgence.</p>
+</div>
+                        <div class="transparent-btn">
+            <a href="https://terrebonne.ca/alerte-terrebonne/" target="_self">M’inscrire aux alertes</a>
+        </div>
+    </div>
+                </div>
+                <div class="col-md-6 col-xl-3">
+                    <p class="footer-title">Suivez-nous !</p>
+                    <ul class="socials">
+			<li>
+			<a href="https://www.facebook.com/VilledeTerrebonne" aria-label="Aller sur le Facebook de Ville de Terrebonne" target="_blank">
+				<span class="icon-facebook"></span>
+			</a>
+		</li>
+				<li>
+			<a href="https://twitter.com/terrebonneville" aria-label="Aller sur le Twitter de Ville de Terrebonne" target="_blank">
+				<span class="icon-twitter-x"></span>
+			</a>
+		</li>
+				<li>
+			<a href="https://www.linkedin.com/company/ville-de-terrebonne/?originalSubdomain=fr" aria-label="Aller sur le LinkedIn de Ville de Terrebonne" target="_blank">
+				<span class="icon-linkedin"></span>
+			</a>
+		</li>
+				<li>
+			<a href="https://www.instagram.com/villedeterrebonne/?hl=fr" aria-label="Aller sur le Instagram de Ville de Terrebonne" target="_blank">
+				<span class="icon-instagram"></span>
+			</a>
+		</li>
+				<li>
+			<a href="https://www.youtube.com/user/VilledeTerrebonne" aria-label="Aller sur le Youtube de Ville de Terrebonne" target="_blank">
+				<span class="icon-youtube"></span>
+			</a>
+		</li>
+				<li>
+			<a href="https://bsky.app/profile/villedeterrebonne.bsky.social" aria-label="Aller sur le Bluesky de Ville de Terrebonne" target="_blank">
+				<span class="icon-bluesky"></span>
+			</a>
+		</li>
+	</ul>
+                    <div class="transparent-btn">
+                        <a href="https://terrebonne.ca/reseaux-sociaux/" target="_self">Nous suivre</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="sub-footer">
+            <div class="container-fluid">
+                <div class="inner">
+                    <p class="copyright">©2025 Tous droits réservés Ville de Terrebonne</p>
+                    <ul class="sub-footer-menu">
+                                                    <li class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-25188">
+                                <a href="https://terrebonne.ca/politique-de-confidentialite/">Politique de confidentialité</a>
+                            </li>
+                                                    <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-15">
+                                <a href="https://terrebonne.ca/accessibilite-universelle/">Accessibilité universelle</a>
+                            </li>
+                                                    <li class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-16">
+                                <a href="https://terrebonne.ca/sitemap_index.xml/">Plan du site</a>
+                            </li>
+                                            </ul>
+                                            <div class="transparent-btn">
+                            <a href="https://terrebonne.vipcloud.ca/default" target="_blank">Mon dossier employé</a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</footer>	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/ville-de-terrebonne\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="eio-lazy-load-js-before" data-cookieconsent="ignore">
+/* <![CDATA[ */
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0,"use_dpr":1};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://terrebonne.ca/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=820" id="eio-lazy-load-js" async="async" data-wp-strategy="async" data-cookieconsent="ignore"></script>
+<script type="text/javascript" src="https://terrebonne.ca/wp-content/themes/ville-de-terrebonne/dist/scripts/app.js?ver=1754717058" id="site-main-js" data-cookieconsent="ignore"></script>
+        <script type="text/javascript">
+            /* <![CDATA[ */
+           document.querySelectorAll("ul.nav-menu").forEach(
+               ulist => { 
+                    if (ulist.querySelectorAll("li").length == 0) {
+                        ulist.style.display = "none";
+
+                                            } 
+                }
+           );
+            /* ]]> */
+        </script>
+        
+
+	<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'96c4f1d08c7baba2',t:'MTc1NDcxODI5Ny4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>

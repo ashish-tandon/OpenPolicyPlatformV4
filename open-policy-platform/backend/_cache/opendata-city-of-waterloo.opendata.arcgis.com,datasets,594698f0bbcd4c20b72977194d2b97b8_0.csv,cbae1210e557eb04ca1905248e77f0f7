@@ -1,0 +1,32 @@
+status: 200
+encoding: None
+Date: Sat, 09 Aug 2025 05:45:11 GMT
+Content-Type: application/octet-stream
+Content-Length: 3436
+Connection: keep-alive
+Content-MD5: rDpXSQ1x+B6KQf7pHxYJvQ==
+Last-Modified: Fri, 31 Jan 2025 11:21:42 GMT
+Accept-Ranges: bytes
+ETag: "0x8DD41E97066E6B5"
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: edbc76c4-301e-0027-70f0-087460000000
+x-ms-version: 2018-03-28
+x-ms-meta-lastEditDate: 1684433470894
+x-ms-meta-recordCount: 8
+x-ms-creation-time: Fri, 31 Jan 2025 11:21:42 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,x-ms-meta-lastEditDate,x-ms-meta-recordCount,Content-Type,ETag,Last-Modified,x-ms-creation-time,Content-MD5,x-ms-lease-status,x-ms-lease-state,x-ms-blob-type,x-ms-server-encrypted,Accept-Ranges,Content-Length,Date,Transfer-Encoding
+Access-Control-Allow-Origin: *
+
+﻿OBJECTID,DISTRICT_NAME,PRIMARY_ROLE,NAME,FIRST_NAME,LAST_NAME,GENDER,PARTY_NAME,EMAIL,PHOTO_URL,SOURCE_URL,WEBSITE,FACEBOOK,INSTAGRAM,TWITTER,LINKEDIN,YOUTUBE,OFFICE_TYPE,ADDRESS,PHONE,FAX,FID
+6,Ward 6,Councillor,Mary Lou Roe,Mary Lou,Roe,,,marylou.roe@waterloo.ca,https://maps.waterloo.ca/Images/Councillors/Councillor Roe Official Picture.jpg,https://www.waterloo.ca/en/government/city-council.aspx#Ward-6-councillor-Mary-Lou-Roe,https://marylouroe.ca/,https://m.facebook.com/marylouroe/,,https://twitter.com/Mary_Lou_Roe,https://ca.linkedin.com/in/mary-lou-roe-4a512543,,legislature,,1 519 747 8784,1 519 747 8500,9
+2,Ward 2,Councillor,Royce Bodaly,Royce,Bodaly,,,royce.bodaly@waterloo.ca,https://maps.waterloo.ca/Images/Councillors/Councillor Bodaly Official Picture.jpg,https://www.waterloo.ca/en/government/city-council.aspx#Ward-2-councillor-Royce-Bodaly,https://www.roycebodaly.ca/,https://www.facebook.com/roycebodalyward2/,,https://twitter.com/RoyceBodaly,https://ca.linkedin.com/in/royce-bodaly-298145a2,,legislature,,1 519 747 8784,1 519 747 8500,10
+4,Ward 4,Councillor,Diane Freeman,Diane,Freeman,,,diane.freeman@waterloo.ca,https://maps.waterloo.ca/Images/Councillors/Councillor Freeman Official Picture.jpg,https://www.waterloo.ca/en/government/city-council.aspx#Ward-4-councillor-Diane-Freeman,http://www.dianefreeman.ca/,https://www.facebook.com/Diane-Freeman-Ward-4-City-Councillor-Waterloo-140698609306535/,,https://twitter.com/DianeLFreeman,https://ca.linkedin.com/pub/diane-freeman/26/573/237,,legislature,,1 519 747 8784,1 519 747 8500,11
+3,Ward 3,Councillor,Hans Roach,Hans,Roach,,,hans.roach@waterloo.ca,https://maps.waterloo.ca/Images/Councillors/Councillor Roach Official Picture.jpg,https://www.waterloo.ca/en/government/city-council.aspx#Ward-3-councillor-Hans-Roach,https://www.hansroachwaterloo.com/,,,https://twitter.com/hans__roach,,,legislature,,1 519 747 8784,1 519 747 8500,12
+5,Ward 5,Councillor,Jen Vasic,Jen,Vasic,,,jen.vasic@waterloo.ca,https://maps.waterloo.ca/Images/Councillors/Councillor Jen Vasic Official Picture.jpg,https://www.waterloo.ca/en/government/city-council.aspx#Ward-5-councillor-Jen-Vasic,https://jenvasicwaterloo.ca/,https://www.facebook.com/jenvasic/,,https://twitter.com/jenvasic,https://ca.linkedin.com/in/jen-vasic-29189535,,legislature,,1 519 747 8784,1 519 747 8500,13
+7,Ward 7,Councillor,Julie Wright,Julie,Wright,,,julie.wright@waterloo.ca,https://maps.waterloo.ca/Images/Councillors/Councillor Wright Official Picture.jpg,https://www.waterloo.ca/en/government/city-council.aspx#Ward-7-councillor-Julie-Wright,https://www.wrightward7.com/,,,https://twitter.com/wrightward7,,,legislature,,1 519 747 8784,1 519 747 8500,14
+1,Ward 1,Councillor,Sandra Hanmer,Sandra ,Hanmer,,,sandra.hanmer@waterloo.ca,https://maps.waterloo.ca/Images/Councillors/Councillor Hanmer Official Picture.jpg,https://www.waterloo.ca/en/government/city-council.aspx#Ward-1-councillor-Sandra-Hanmer,https://sandrahanmer.ca/,,,,https://ca.linkedin.com/in/sandra-hanmer,,legislature,,1 519 747 8784,1 519 747 8500,15
+8,Waterloo,Mayor,Dorothy McCabe,Dorothy,McCabe,,,mayor@waterloo.ca,https://www.waterloo.ca/en/government/resources/Images/Council/Mayor-McCabe.jpg,https://www.waterloo.ca/en/government/city-council.aspx#Mayor-Dorothy-McCabe,https://mccabe4mayor.ca/,,,https://twitter.com/DorothyMcCabe,https://ca.linkedin.com/in/dorothymccabe,,legislature,,1 519 747 8700,1 519 747 8500,16

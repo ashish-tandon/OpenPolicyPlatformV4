@@ -1,0 +1,45 @@
+status: 200
+encoding: None
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 09 Aug 2025 05:45:00 GMT
+Content-Type: application/octet-stream
+Content-Length: 7133
+Connection: keep-alive
+Last-Modified: Mon, 29 Jan 2024 13:20:27 GMT
+Cache-Control: public, max-age=0, must-revalidate
+Expires: Sat, 09 Aug 2025 17:45:00 GMT
+ETag: "1706534427.2155247-7133-771428687"
+
+District _ID,Primary_role,First_name,Last_name,Gender,Email,Photo_URL,Website,Address_line_1,Address_line_2,Locality,Province,Postal code,Phone,Ext.,Fax,Cell,Facebook,Twitter,LinkedIn
+Lincoln,Mayor,Sandra,Easton,,sandra.easton@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Sandra&l=Easton,4800 South Service Rd.,,Lincoln, ON,L0R 1B1,905-563-8205,,,,,,
+Grimsby,Councillor,Wayne F.,Fertich,,wayne.fertich@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Wayne F.&l=Fertich,384 Main St. West,,Grimsby, ON,L3M 1T2,905-719-6697,,,,,,
+Lincoln,Councillor,Robert,Foster,,robert.foster@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Robert&l=Foster,4579 Cedarbrook Ln.,,Lincoln, ON,L0R 1B5,905-563-7219,,,,,,
+Wainfleet,Mayor,Kevin,Gibson,,kevin.gibson@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Kevin&l=Gibson,31940 Highway 3, P.O. Box 40,Wainfleet, ON,L0S 1V0,905-899-3463,227,,,,,
+Niagara Falls,Councillor,Barbara,Greenwood,,barbara.greenwood@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Barbara&l=Greenwood,4584 Armoury St.,,Niagara Falls, ON,L2E 1S6,905-358-7226,,,,,,
+St. Catharines,Councillor,Brian,Heit,,brian.heit@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Brian&l=Heit,21 Sunnyside Dr.,,St. Catharines, ON,L2M 1Z9,905-935-8377,,,,,,
+Pelham,Councillor,Diana,Huson,,diana.huson@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Diana&l=Huson,14 Cherry Ridge Blvd.,,Pelham, ON,L0S 1C0,905-324-3094,,,,,,
+Fort Erie,Councillor,Tom,Insinna,,tom.insinna@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Tom&l=Insinna,220 High St.,,Fort Erie, ON,L2A 3R3,905-321-5908,,,,,,
+St. Catharines,Councillor,Laura,Ip,,laura.ip@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Laura&l=Ip,1815 Sir Isaac Brock Way,,St. Catharines, ON,L2V 4T7,905-324-3134,,,,,,
+Grimsby,Mayor,Jeff,Jordan,,jeff.jordan@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Jeff&l=Jordan,524 Ridge Rd. West,,Grimsby, ON,L3M 4E7,905-979-0662,,,,,,
+Pelham,Mayor,Marvin,Junkin,,marvin.junkin@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Marvin&l=Junkin,20 Pelham Town Sq., P.O. Box 400,Pelham, ON,L0S 1E0,905-658-2986,,,,,,
+Niagara Falls,Councillor,Peter,Nicholson,,peter.nicholson@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Peter&l=Nicholson,3060 Portage Rd., Unit 202,Niagara Falls, ON,L2J 2J9,289-687-0799,,,,,,
+Fort Erie,Mayor,Wayne,Redekop,,wayne.redekop@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Wayne&l=Redekop,1553 Frenchman’s Ln.,,Fort Erie, ON,L2A 5M4,905-871-1600,,,,,,
+St. Catharines,Councillor,Tim,Rigby,,tim.rigby@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Tim&l=Rigby,18 Rockcliffe Rd.,,St. Catharines, ON,L2R 3S9,905-328-8508,,,,,,
+St. Catharines,Mayor,Walter,Sendzik,,walter.sendzik@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Walter&l=Sendzik,50 Church St., P.O. Box 3012,St. Catharines, ON,L2R 7C2,905-688-5601,1540,,,,,
+Port Colborne,Mayor,Bill,Steele,,bill.steele@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Bill&l=Steele,66 Charlotte St.,,Port Colborne, ON,L3K 3C8,905-835-2900,301,,,,,
+Thorold,Mayor,Terry,Ugulini,,terry.ugulini@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Terry&l=Ugulini,3540 Schmon Pkwy., P.O. Box 1044,Thorold, ON,L2V 4A7,905-227-0160,,,,,,
+Thorold,Councillor,Tim,Whalen,,tim.whalen@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Tim&l=Whalen,67 Thompson Ave.,,Thorold, ON,L2V 2N2,905-227-8397,,,,,,
+West Lincoln,Councillor,Albert,Witteveen,,albert.witteveen@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Albert&l=Witteveen,2853 South Grimsby Rd., Unit 7,West Lincoln, ON,L0R 2A0,289-253-7739,,,,,,
+Niagara-on-the-Lake,Councillor,Gary,Zalepa,,gary.zalepa@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Gary&l=Zalepa,630 Charlotte St., P.O. Box 1124,Niagara-on-the-Lake, ON,L0S 1J0,416-602-5431,,,,,,
+Port Colborne,Councillor,Barbara,Butters,,barbara.butters@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Barbara&l=Butters,1152 Weaver Rd.,,Port Colborne, ON,L3K 5V3,905-834-4005,,,,,,
+West Lincoln,Mayor,Dave,Bylsma,,dave.bylsma@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Dave&l=Bylsma,5313 Sixteen Rd.,,West Lincoln, ON,L0R 1Y0,905-984-1515,,,,,,
+Welland,Mayor,Frank,Campion,,frank.campion@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Frank&l=Campion,60 East Main St.,,Welland, ON,L3B 3X4,905-735-1700,2101,,,,,
+Welland,Councillor,Pat,Chiocchio,,pat.chiocchio@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Pat&l=Chiocchio,160 Creekside Dr.,,Welland, ON,L3C 0B4,289-228-2503,,,,,,
+St. Catharines,Councillor,George,Darte,,george.darte@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=George&l=Darte,35 Canal St.,,St. Catharines, ON,L2N 4S7,905-687-6066,,,,,,
+Niagara Falls,Mayor,Jim,Diodati,,jim.diodati@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Jim&l=Diodati,4310 Queen St.,,Niagara Falls, ON,L2E 6X5,905-356-7521,4201,,,,,
+Niagara-on-the-Lake,Mayor,Betty,Disero,,betty.disero@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Betty&l=Disero,1593 Four Mile Creek Rd., P.O. Box 100,Niagara-on-the-Lake, ON,L0S 1J0,905-468-3266,,,,,,
+Niagara Falls,Councillor,Bob,Gale,,bob.gale@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Bob&l=Gale,719 Read Rd.,,Niagara Falls, ON,L0S 1J0,905-321-4253,,,,,,
+Niagara Region,Regional Chair,Jim,Bradley,,jim.bradley@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Jim&l=Bradley,1815 Sir Isaac Brock Way,,Niagara Region, ON,L2V 4T7,905-980-6000,3600,,,,,
+St. Catharines,Councillor,Sandie,Bellows,,sandie.bellows@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Sandie&l=Bellows,1815 Sir Isaac Brock Way,,St. Catharines, ON,L2V 4T7,905-380-7310,,,,,,
+Welland,Councillor,Leanna,Villella,,leanna.villella@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Leanna&l=Villella,59 Church St.,,Welland, ON,L3C 4N7,905-650-2198,,,,,,
+St. Catharines,Councillor,Kelly,Edgar,,kelly.edgar@niagararegion.ca,,https://niagararegion.ca/government/council/profiles/profile.aspx?f=Kelly&l=Edgar,66 Chaplin Ave.,,St. Catharines, ON,L2R 2E7,905-646-1477,,,,,,

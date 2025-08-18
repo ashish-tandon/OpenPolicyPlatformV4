@@ -1,0 +1,1093 @@
+{
+  "timestamp": "2025-08-08T21:25:45.356107",
+  "system_resources": {
+    "cpu_count": 16,
+    "memory_gb": 64.0,
+    "current_cpu_usage": 0.0,
+    "current_memory_usage": 0.0
+  },
+  "summary": {
+    "total_scrapers": 51,
+    "successful": 1,
+    "failed": 50,
+    "skipped": 0,
+    "success_rate": 1.9607843137254901,
+    "total_records_collected": 5,
+    "total_records_inserted": 0,
+    "size_breakdown": {
+      "small": 31,
+      "medium": 14,
+      "large": 6
+    }
+  },
+  "category_stats": {
+    "parliamentary": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "provincial": {
+      "total": 14,
+      "successful": 0,
+      "failed": 14,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 9,
+      "medium": 2,
+      "large": 3
+    },
+    "municipal": {
+      "total": 34,
+      "successful": 1,
+      "failed": 33,
+      "records_collected": 5,
+      "records_inserted": 0,
+      "small": 21,
+      "medium": 11,
+      "large": 2
+    },
+    "civic": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "update": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    }
+  },
+  "failed_scrapers": [
+    {
+      "name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "error": "No people.py file found in ../../scrapers/openparliament"
+    },
+    {
+      "name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer"
+    },
+    {
+      "name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat"
+    },
+    {
+      "name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Scraper.__init__() missing 1 required positional argument: 'datadir'"
+    },
+    {
+      "name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "error": "No people.py file found in ../../scrapers/civic-scraper"
+    },
+    {
+      "name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "error": "No people.py file found in ../../scripts"
+    }
+  ],
+  "detailed_results": [
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "success",
+      "start_time": "2025-08-08T21:25:44.829938",
+      "end_time": "2025-08-08T21:25:45.315933",
+      "records_collected": 5,
+      "records_inserted": 0,
+      "error_message": null,
+      "execution_time": 0.0001621246337890625,
+      "memory_usage": 52.5,
+      "cpu_usage": 13.8
+    },
+    {
+      "scraper_name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.317748",
+      "end_time": "2025-08-08T21:25:45.318027",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/openparliament",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.319101",
+      "end_time": "2025-08-08T21:25:45.320400",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.318755",
+      "end_time": "2025-08-08T21:25:45.320701",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.318935",
+      "end_time": "2025-08-08T21:25:45.320962",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.319347",
+      "end_time": "2025-08-08T21:25:45.321261",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.319664",
+      "end_time": "2025-08-08T21:25:45.321909",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.319901",
+      "end_time": "2025-08-08T21:25:45.322366",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.320453",
+      "end_time": "2025-08-08T21:25:45.322767",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.321090",
+      "end_time": "2025-08-08T21:25:45.323307",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.321395",
+      "end_time": "2025-08-08T21:25:45.323403",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.321502",
+      "end_time": "2025-08-08T21:25:45.323862",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.322236",
+      "end_time": "2025-08-08T21:25:45.324252",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.322071",
+      "end_time": "2025-08-08T21:25:45.324460",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.321679",
+      "end_time": "2025-08-08T21:25:45.324592",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.322050",
+      "end_time": "2025-08-08T21:25:45.324672",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.326359",
+      "end_time": "2025-08-08T21:25:45.327627",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.326238",
+      "end_time": "2025-08-08T21:25:45.327929",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.326498",
+      "end_time": "2025-08-08T21:25:45.328389",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.326936",
+      "end_time": "2025-08-08T21:25:45.328478",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.327101",
+      "end_time": "2025-08-08T21:25:45.328600",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.327387",
+      "end_time": "2025-08-08T21:25:45.329061",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.328110",
+      "end_time": "2025-08-08T21:25:45.330465",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.327722",
+      "end_time": "2025-08-08T21:25:45.330560",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.328071",
+      "end_time": "2025-08-08T21:25:45.330659",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.327848",
+      "end_time": "2025-08-08T21:25:45.330743",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.328178",
+      "end_time": "2025-08-08T21:25:45.331162",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.329852",
+      "end_time": "2025-08-08T21:25:45.331993",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.332151",
+      "end_time": "2025-08-08T21:25:45.333680",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.328753",
+      "end_time": "2025-08-08T21:25:45.332309",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.330885",
+      "end_time": "2025-08-08T21:25:45.332886",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.331025",
+      "end_time": "2025-08-08T21:25:45.333008",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.331351",
+      "end_time": "2025-08-08T21:25:45.333189",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.330951",
+      "end_time": "2025-08-08T21:25:45.333303",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.333410",
+      "end_time": "2025-08-08T21:25:45.335043",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.331778",
+      "end_time": "2025-08-08T21:25:45.334140",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.331864",
+      "end_time": "2025-08-08T21:25:45.334229",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.332640",
+      "end_time": "2025-08-08T21:25:45.334609",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.332084",
+      "end_time": "2025-08-08T21:25:45.334947",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.333688",
+      "end_time": "2025-08-08T21:25:45.335825",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.334065",
+      "end_time": "2025-08-08T21:25:45.335910",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.333754",
+      "end_time": "2025-08-08T21:25:45.336395",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.334287",
+      "end_time": "2025-08-08T21:25:45.336597",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.334422",
+      "end_time": "2025-08-08T21:25:45.336666",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.334795",
+      "end_time": "2025-08-08T21:25:45.336790",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.335071",
+      "end_time": "2025-08-08T21:25:45.337078",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.335528",
+      "end_time": "2025-08-08T21:25:45.337497",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.335429",
+      "end_time": "2025-08-08T21:25:45.337596",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.328915",
+      "end_time": "2025-08-08T21:25:45.354581",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Scraper.__init__() missing 1 required positional argument: 'datadir'",
+      "execution_time": 0,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.355350",
+      "end_time": "2025-08-08T21:25:45.355424",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/civic-scraper",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:25:45.355801",
+      "end_time": "2025-08-08T21:25:45.355884",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scripts",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    }
+  ]
+}

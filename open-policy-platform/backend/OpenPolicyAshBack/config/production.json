@@ -1,0 +1,62 @@
+{
+  "environment": "production",
+  "database": {
+    "url": "postgresql://openpolicy:openpolicy123@localhost:5432/openpolicy",
+    "host": "localhost",
+    "port": 5432,
+    "name": "openpolicy",
+    "user": "openpolicy",
+    "password": "openpolicy123",
+    "pool_size": 20,
+    "max_overflow": 30,
+    "pool_timeout": 30,
+    "pool_recycle": 3600
+  },
+  "services": {
+    "monitoring_interval": 300,
+    "dashboard_port": 5000,
+    "api_port": 8000,
+    "max_workers": 20,
+    "timeout": 300
+  },
+  "alerts": {
+    "webhook_url": null,
+    "email": null,
+    "slack_webhook": null,
+    "alert_thresholds": {
+      "cpu_usage": 80.0,
+      "memory_usage": 85.0,
+      "disk_usage": 90.0,
+      "success_rate": 80.0,
+      "data_quality": 85.0
+    }
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "file": "logs/openpolicy.log",
+    "max_size": "100MB",
+    "backup_count": 5
+  },
+  "security": {
+    "secret_key": "your-secret-key-here",
+    "allowed_hosts": ["localhost", "127.0.0.1"],
+    "cors_origins": ["http://localhost:3000", "http://127.0.0.1:3000"],
+    "rate_limit": {
+      "requests_per_minute": 100,
+      "burst_size": 20
+    }
+  },
+  "performance": {
+    "cache_ttl": 3600,
+    "max_connections": 100,
+    "timeout": 30,
+    "retry_attempts": 3
+  },
+  "monitoring": {
+    "enabled": true,
+    "metrics_interval": 60,
+    "health_check_interval": 300,
+    "alert_cooldown": 3600
+  }
+}

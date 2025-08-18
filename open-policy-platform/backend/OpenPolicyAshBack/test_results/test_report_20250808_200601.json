@@ -1,0 +1,112 @@
+{
+  "start_time": "2025-08-08T20:06:01.504724",
+  "test_suites": {
+    "API Tests": {
+      "passed": 0,
+      "failed": 0,
+      "skipped": 0,
+      "total": 0,
+      "duration_seconds": 0.962777853012085,
+      "success": false,
+      "stdout": "",
+      "stderr": "ImportError while loading conftest '/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/tests/conftest.py'.\ntests/conftest.py:32: in <module>\n    from api.main import app\nsrc/api/main.py:54: in <module>\n    from api.progress_api import router as progress_router\nsrc/api/progress_api.py:13: in <module>\n    from ..progress_tracker import progress_tracker, TaskStatus, TaskType\nE   ImportError: attempted relative import beyond top-level package\n"
+    },
+    "Database Tests": {
+      "passed": 0,
+      "failed": 0,
+      "skipped": 0,
+      "total": 0,
+      "duration_seconds": 0.7266559600830078,
+      "success": false,
+      "stdout": "",
+      "stderr": "ImportError while loading conftest '/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/tests/conftest.py'.\ntests/conftest.py:32: in <module>\n    from api.main import app\nsrc/api/main.py:54: in <module>\n    from api.progress_api import router as progress_router\nsrc/api/progress_api.py:13: in <module>\n    from ..progress_tracker import progress_tracker, TaskStatus, TaskType\nE   ImportError: attempted relative import beyond top-level package\n"
+    },
+    "Scraper Tests": {
+      "passed": 0,
+      "failed": 0,
+      "skipped": 0,
+      "total": 0,
+      "duration_seconds": 0.7194287776947021,
+      "success": false,
+      "stdout": "",
+      "stderr": "ImportError while loading conftest '/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/tests/conftest.py'.\ntests/conftest.py:32: in <module>\n    from api.main import app\nsrc/api/main.py:54: in <module>\n    from api.progress_api import router as progress_router\nsrc/api/progress_api.py:13: in <module>\n    from ..progress_tracker import progress_tracker, TaskStatus, TaskType\nE   ImportError: attempted relative import beyond top-level package\n"
+    },
+    "UI Tests": {
+      "passed": 0,
+      "failed": 0,
+      "skipped": 0,
+      "total": 0,
+      "duration_seconds": 0.7164499759674072,
+      "success": false,
+      "stdout": "",
+      "stderr": "ImportError while loading conftest '/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/tests/conftest.py'.\ntests/conftest.py:32: in <module>\n    from api.main import app\nsrc/api/main.py:54: in <module>\n    from api.progress_api import router as progress_router\nsrc/api/progress_api.py:13: in <module>\n    from ..progress_tracker import progress_tracker, TaskStatus, TaskType\nE   ImportError: attempted relative import beyond top-level package\n"
+    },
+    "Integration Tests": {
+      "passed": 0,
+      "failed": 0,
+      "skipped": 0,
+      "total": 0,
+      "duration_seconds": 0.6936690807342529,
+      "success": false,
+      "stdout": "",
+      "stderr": "ImportError while loading conftest '/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/tests/conftest.py'.\ntests/conftest.py:32: in <module>\n    from api.main import app\nsrc/api/main.py:54: in <module>\n    from api.progress_api import router as progress_router\nsrc/api/progress_api.py:13: in <module>\n    from ..progress_tracker import progress_tracker, TaskStatus, TaskType\nE   ImportError: attempted relative import beyond top-level package\n"
+    }
+  },
+  "summary": {
+    "end_time": "2025-08-08T20:06:06.703740",
+    "total_duration_seconds": 5.199016,
+    "total_tests": 0,
+    "total_passed": 0,
+    "total_failed": 0,
+    "total_skipped": 0,
+    "success_rate": 0,
+    "overall_success": false
+  },
+  "environment": {
+    "python_version": "3.13.5 (main, Jun 11 2025, 15:36:57) [Clang 17.0.0 (clang-1700.0.13.3)]",
+    "platform": "darwin",
+    "working_directory": "/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack",
+    "environment_variables": {
+      "TESTING": "0",
+      "DB_URL": "not_set",
+      "REDIS_URL": "not_set"
+    }
+  },
+  "phased_loading_tests": {
+    "error": "ScraperManager.__init__() takes 1 positional argument but 2 were given",
+    "overall_success": false
+  },
+  "performance_metrics": {
+    "/health": {
+      "average_response_time": 0.0010046005249023438,
+      "max_response_time": 0.0016090869903564453,
+      "within_target": true,
+      "samples": 5
+    }
+  },
+  "prerequisites": {
+    "all_passed": true,
+    "checks": [
+      [
+        "Python packages",
+        true,
+        "All required packages available"
+      ],
+      [
+        "Database",
+        true,
+        "PostgreSQL connection successful"
+      ],
+      [
+        "Redis",
+        true,
+        "Redis connection successful"
+      ],
+      [
+        "API",
+        true,
+        "API server responding"
+      ]
+    ]
+  }
+}

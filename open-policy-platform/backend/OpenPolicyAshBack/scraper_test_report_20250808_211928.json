@@ -1,0 +1,1093 @@
+{
+  "timestamp": "2025-08-08T21:19:28.900772",
+  "system_resources": {
+    "cpu_count": 16,
+    "memory_gb": 64.0,
+    "current_cpu_usage": 0.0,
+    "current_memory_usage": 0.0
+  },
+  "summary": {
+    "total_scrapers": 51,
+    "successful": 1,
+    "failed": 50,
+    "skipped": 0,
+    "success_rate": 1.9607843137254901,
+    "total_records_collected": 5,
+    "total_records_inserted": 0,
+    "size_breakdown": {
+      "small": 31,
+      "medium": 14,
+      "large": 6
+    }
+  },
+  "category_stats": {
+    "parliamentary": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 0,
+      "large": 1
+    },
+    "provincial": {
+      "total": 14,
+      "successful": 0,
+      "failed": 14,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 9,
+      "medium": 2,
+      "large": 3
+    },
+    "municipal": {
+      "total": 34,
+      "successful": 1,
+      "failed": 33,
+      "records_collected": 5,
+      "records_inserted": 0,
+      "small": 21,
+      "medium": 11,
+      "large": 2
+    },
+    "civic": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 0,
+      "medium": 1,
+      "large": 0
+    },
+    "update": {
+      "total": 1,
+      "successful": 0,
+      "failed": 1,
+      "records_collected": 0,
+      "records_inserted": 0,
+      "small": 1,
+      "medium": 0,
+      "large": 0
+    }
+  },
+  "failed_scrapers": [
+    {
+      "name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "error": "No people.py file found in ../../scrapers/openparliament"
+    },
+    {
+      "name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nt: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_yt: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl: cannot import name 'CUSTOM_USER_AGENT' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nu: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_toronto: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_calgary: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_montreal: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_hamilton: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_laval: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_brampton: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_edmonton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_ottawa: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_vancouver: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_kitchener: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_mississauga: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_london: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_windsor: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_gatineau: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer"
+    },
+    {
+      "name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat"
+    },
+    {
+      "name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_richmond: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_burnaby: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_lethbridge: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_victoria: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_kelowna: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_regina: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_saskatoon: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb_winnipeg: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_abbotsford: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_saint_john: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_surrey: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe_charlottetown: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_fredericton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl_st_john_s: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns_halifax: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_moncton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)"
+    },
+    {
+      "name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "error": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_quebec: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)"
+    },
+    {
+      "name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "error": "No people.py file found in ../../scrapers/civic-scraper"
+    },
+    {
+      "name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "error": "No people.py file found in ../../scripts"
+    }
+  ],
+  "detailed_results": [
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "success",
+      "start_time": "2025-08-08T21:19:28.632136",
+      "end_time": "2025-08-08T21:19:28.747362",
+      "records_collected": 5,
+      "records_inserted": 0,
+      "error_message": null,
+      "execution_time": 7.724761962890625e-05,
+      "memory_usage": 52.6,
+      "cpu_usage": 8.4
+    },
+    {
+      "scraper_name": "Federal Parliament",
+      "category": "parliamentary",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.748253",
+      "end_time": "2025-08-08T21:19:28.748410",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/openparliament",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ontario",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.749015",
+      "end_time": "2025-08-08T21:19:28.870403",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.749193",
+      "end_time": "2025-08-08T21:19:28.870990",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Northwest Territories",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.750864",
+      "end_time": "2025-08-08T21:19:28.871060",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nt: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nova Scotia",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.750009",
+      "end_time": "2025-08-08T21:19:28.871128",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Canada Federal",
+      "category": "provincial",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.748943",
+      "end_time": "2025-08-08T21:19:28.871213",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "British Columbia",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.749313",
+      "end_time": "2025-08-08T21:19:28.871313",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Alberta",
+      "category": "provincial",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.749422",
+      "end_time": "2025-08-08T21:19:28.871371",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatchewan",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.749596",
+      "end_time": "2025-08-08T21:19:28.871434",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Yukon",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.870997",
+      "end_time": "2025-08-08T21:19:28.871802",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_yt: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Newfoundland and Labrador",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.750315",
+      "end_time": "2025-08-08T21:19:28.871864",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl: cannot import name 'CUSTOM_USER_AGENT' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "New Brunswick",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.750116",
+      "end_time": "2025-08-08T21:19:28.871916",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Prince Edward Island",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.750220",
+      "end_time": "2025-08-08T21:19:28.871967",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Manitoba",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.749723",
+      "end_time": "2025-08-08T21:19:28.872029",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Nunavut",
+      "category": "provincial",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.870434",
+      "end_time": "2025-08-08T21:19:28.872076",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nu: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Toronto, ON",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.872742",
+      "end_time": "2025-08-08T21:19:28.874258",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_toronto: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Calgary, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.872965",
+      "end_time": "2025-08-08T21:19:28.875162",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_calgary: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Montreal, QC",
+      "category": "municipal",
+      "size": "large",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.872801",
+      "end_time": "2025-08-08T21:19:28.875238",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_montreal: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Hamilton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.873691",
+      "end_time": "2025-08-08T21:19:28.876104",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_hamilton: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Laval, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.875169",
+      "end_time": "2025-08-08T21:19:28.876135",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_laval: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Brampton, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.873608",
+      "end_time": "2025-08-08T21:19:28.876159",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_brampton: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Edmonton, AB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.873116",
+      "end_time": "2025-08-08T21:19:28.876203",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_edmonton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Ottawa, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.873273",
+      "end_time": "2025-08-08T21:19:28.876225",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_ottawa: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Vancouver, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.872889",
+      "end_time": "2025-08-08T21:19:28.876254",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_vancouver: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kitchener, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.873813",
+      "end_time": "2025-08-08T21:19:28.876281",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_kitchener: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Mississauga, ON",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.873458",
+      "end_time": "2025-08-08T21:19:28.876350",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_mississauga: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "London, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.873907",
+      "end_time": "2025-08-08T21:19:28.876387",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_london: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Windsor, ON",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.874040",
+      "end_time": "2025-08-08T21:19:28.876453",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_on_windsor: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Gatineau, QC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.875244",
+      "end_time": "2025-08-08T21:19:28.876822",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_gatineau: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Red Deer, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876284",
+      "end_time": "2025-08-08T21:19:28.877053",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_red_deer",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Medicine Hat, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876389",
+      "end_time": "2025-08-08T21:19:28.877385",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/scrapers-ca/ca_ab_medicine_hat",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Richmond, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876164",
+      "end_time": "2025-08-08T21:19:28.878256",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_richmond: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Burnaby, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876140",
+      "end_time": "2025-08-08T21:19:28.878731",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_burnaby: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Lethbridge, AB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876353",
+      "end_time": "2025-08-08T21:19:28.878766",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ab_lethbridge: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Victoria, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876257",
+      "end_time": "2025-08-08T21:19:28.878823",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_victoria: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Kelowna, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876229",
+      "end_time": "2025-08-08T21:19:28.878869",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_kelowna: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Regina, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876826",
+      "end_time": "2025-08-08T21:19:28.878926",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_regina: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saskatoon, SK",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876457",
+      "end_time": "2025-08-08T21:19:28.878963",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_sk_saskatoon: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Winnipeg, MB",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.877060",
+      "end_time": "2025-08-08T21:19:28.878981",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_mb_winnipeg: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Abbotsford, BC",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876207",
+      "end_time": "2025-08-08T21:19:28.879962",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_abbotsford: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Saint John, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.878260",
+      "end_time": "2025-08-08T21:19:28.879994",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_saint_john: cannot import name 'CSVScraper' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Surrey, BC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.876110",
+      "end_time": "2025-08-08T21:19:28.880354",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_bc_surrey: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Charlottetown, PE",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.878828",
+      "end_time": "2025-08-08T21:19:28.880374",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_pe_charlottetown: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Fredericton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.878771",
+      "end_time": "2025-08-08T21:19:28.880459",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_fredericton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "St. John's, NL",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.878872",
+      "end_time": "2025-08-08T21:19:28.880480",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nl_st_john_s: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Halifax, NS",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.877390",
+      "end_time": "2025-08-08T21:19:28.880556",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_ns_halifax: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Moncton, NB",
+      "category": "municipal",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.878736",
+      "end_time": "2025-08-08T21:19:28.880584",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_nb_moncton: cannot import name 'CanadianPerson' from 'utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/../../scrapers/scrapers-ca/utils.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Quebec City, QC",
+      "category": "municipal",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.874636",
+      "end_time": "2025-08-08T21:19:28.899596",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "Error loading scraper ../../scrapers/scrapers-ca/ca_qc_quebec: cannot import name 'DatetimeValidator' from 'pupa.utils' (/Users/ashishtandon/Github/Base Code/backend/OpenPolicyAshBack/venv/lib/python3.13/site-packages/pupa/utils/__init__.py)",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Civic Data",
+      "category": "civic",
+      "size": "medium",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.900200",
+      "end_time": "2025-08-08T21:19:28.900260",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scrapers/civic-scraper",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    },
+    {
+      "scraper_name": "Update Scripts",
+      "category": "update",
+      "size": "small",
+      "status": "failed",
+      "start_time": "2025-08-08T21:19:28.900544",
+      "end_time": "2025-08-08T21:19:28.900595",
+      "records_collected": 0,
+      "records_inserted": 0,
+      "error_message": "No people.py file found in ../../scripts",
+      "execution_time": null,
+      "memory_usage": null,
+      "cpu_usage": null
+    }
+  ]
+}

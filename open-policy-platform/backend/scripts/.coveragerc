@@ -1,0 +1,28 @@
+[run]
+source = scripts,utils
+omit = 
+    */tests/*
+    */venv/*
+    */__pycache__/*
+    */temp/*
+
+[report]
+exclude_lines =
+    pragma: no cover
+    def __repr__
+    if self.debug:
+    if settings.DEBUG
+    raise AssertionError
+    raise NotImplementedError
+    if 0:
+    if __name__ == .__main__.:
+    class .*\\bProtocol\\):
+    @(abc\\.)?abstractmethod
+
+fail_under = 70
+
+[html]
+directory = reports/htmlcov
+
+[xml]
+output = reports/coverage.xml

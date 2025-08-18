@@ -1,0 +1,64 @@
+{
+  "timestamp": "2025-08-09T05:57:40.154934",
+  "platform": "OpenPolicy",
+  "version": "1.0.0",
+  "status": "critical",
+  "services": {
+    "database": {
+      "status": "healthy",
+      "connection": "successful",
+      "representatives": 2774,
+      "jurisdictions": 241,
+      "last_check": "2025-08-09T05:57:40.278897"
+    },
+    "dashboard": {
+      "status": "warning",
+      "url": "http://localhost:5000",
+      "response_code": 403,
+      "last_check": "2025-08-09T05:57:40.281416"
+    },
+    "api_endpoints": {
+      "/api/system-metrics": {
+        "status": "warning",
+        "response_code": 403,
+        "response_time": 0.000976
+      },
+      "/api/scraper-metrics": {
+        "status": "warning",
+        "response_code": 403,
+        "response_time": 0.000947
+      },
+      "/api/data-quality": {
+        "status": "warning",
+        "response_code": 403,
+        "response_time": 0.000748
+      },
+      "/api/database-health": {
+        "status": "warning",
+        "response_code": 403,
+        "response_time": 0.000711
+      }
+    },
+    "system_metrics": {
+      "cpu_usage": 22.1,
+      "memory_usage": 50.7,
+      "disk_usage": 0.5644767082255377,
+      "network_io": {
+        "bytes_sent": 1654045696,
+        "bytes_recv": 1696197632
+      },
+      "last_check": "2025-08-09T05:57:41.293967"
+    },
+    "processes": {
+      "dashboard": {
+        "status": "stopped"
+      },
+      "monitoring": {
+        "status": "stopped"
+      }
+    }
+  },
+  "health_percentage": 20.0,
+  "healthy_services": 1,
+  "total_services": 5
+}

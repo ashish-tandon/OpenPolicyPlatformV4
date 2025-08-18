@@ -1,0 +1,37 @@
+status: 200
+encoding: None
+Date: Sat, 09 Aug 2025 05:45:11 GMT
+Content-Type: application/octet-stream
+Content-Length: 3429
+Connection: keep-alive
+Content-MD5: P8hO6a5VvcCoGZlLuJnLrg==
+Last-Modified: Wed, 05 Feb 2025 13:46:15 GMT
+Accept-Ranges: bytes
+ETag: "0x8DD45EB75B53601"
+Server: Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0
+x-ms-request-id: 9ff00903-e01e-007a-0cf0-08746e000000
+x-ms-version: 2018-03-28
+x-ms-meta-lastEditDate: 1736181527996
+x-ms-meta-recordCount: 13
+x-ms-creation-time: Wed, 05 Feb 2025 13:46:15 GMT
+x-ms-lease-status: unlocked
+x-ms-lease-state: available
+x-ms-blob-type: BlockBlob
+x-ms-server-encrypted: true
+Access-Control-Expose-Headers: x-ms-request-id,Server,x-ms-version,x-ms-meta-lastEditDate,x-ms-meta-recordCount,Content-Type,ETag,Last-Modified,x-ms-creation-time,Content-MD5,x-ms-lease-status,x-ms-lease-state,x-ms-blob-type,x-ms-server-encrypted,Accept-Ranges,Content-Length,Date,Transfer-Encoding
+Access-Control-Allow-Origin: *
+
+﻿OBJECTID,District name,District ID,Primary role,First name,Last name,Gender,Party name,Email,Website,Address line 1,Address line 2,Locality,Postal code,Province,Phone,Fax
+1,Countryside,1,Councillor,Gary,Oosterhof,M,,goosterhof@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District1%E2%80%93Countryside-GaryOosterhof,216 Ontario Street,,Kingston,K7L2Z3,ON,613 453 3235,
+2,Trillium,6,Councillor,Jimmy,Hassan,M,,jhassan@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District6%E2%80%93Trillium-JimmyHassan,216 Ontario Street,,Kingston,K7L2Z3,ON,613 217 2324,
+3,Meadowbrook-Strathcona,8,Councillor,Jeff,McLaren,M,,jmclaren@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District8%E2%80%93Meadowbrook%E2%80%93Strathcona-JeffMcLaren,216 Ontario Street,,Kingston,K7L2Z3,ON,613 888 4327,
+4,,,Mayor,Bryan,Paterson,M,,mayor@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/mayor/,216 Ontario Street,,Kingston,K7L2Z3,ON,613 546 4291 ext. 1400,
+5,Portsmouth,5,Councillor,Don,Amos,M,,damos@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District5%E2%80%93Portsmouth-DonAmos,216 Ontario Street,,Kingston,K7L2Z3,ON,613 217 2153,
+6,Williamsville,9,Councillor,Vincent,Cinanni,M,,vcinanni@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District9%E2%80%93Williamsville-VincentCinanni,216 Ontario Street,,Kingston,K7L2Z3,ON,613 217 3593,
+7,Pittsburgh,12,Councillor,Ryan,Boehme,M,,rnboehme@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District12%E2%80%93Pittsburgh-RyanBoehme,1369 Waterside Way,,Kingston,K7K0G2,ON,613 888 3924,
+8,Loyalist-Cataraqui,2,Councillor,Paul,Chaves,M,,pchaves@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District2%E2%80%93Loyalist-Cataraqui-PaulChaves,216 Ontario Street,,Kingston,K7L2Z3,ON,613 331 6995,
+9,Collins-Bayridge,3,Councillor,Lisa,Osanic,F,,losanic@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District3%E2%80%93Collins-Bayridge-LisaOsanic,599 Rankin Cres,,Kingston,K7M7K6,ON,613 389 7336,
+10,Lakeside,4,Councillor,Wendy,Stephen,F,,wstephen@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District4%E2%80%93Lakeside-WendyStephen,216 Ontario Street,,Kingston,K7L2Z3,ON,613 217 2250,
+11,Kingscourt-Rideau,7,Councillor,Brandon,Tozzo,M,,btozzo@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District7%E2%80%93Kingscourt-Rideau-BrandonTozzo,216 Ontario Street,,Kingston,K7L2Z3,ON,613 217 2529,
+12,Sydenham,10,Councillor,Conny,Glen,F,,cglenn@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District10%E2%80%93Sydenham%E2%80%93ConnyGlenn,216 Ontario Street,,Kingston,K7L2Z3,ON,613 217 3731,
+13,King’s Town,11,Councillor,Gregory,Ridge,M,,gridge@cityofkingston.ca,https://www.cityofkingston.ca/council-and-city-administration/council/city-council/#District11%E2%80%93King%E2%80%99sTown-GregoryRidge,216 Ontario Street,,Kingston,K7L2Z3,ON,613 217 3687,

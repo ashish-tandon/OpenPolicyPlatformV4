@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-08-09T11:44:17.029271",
+  "platform": "OpenPolicy",
+  "version": "1.0.0",
+  "status": "critical",
+  "services": {
+    "database": {
+      "status": "healthy",
+      "connection": "successful",
+      "representatives": 2774,
+      "jurisdictions": 241,
+      "last_check": "2025-08-09T11:44:17.155622"
+    },
+    "dashboard": {
+      "status": "error",
+      "url": "http://localhost:5001",
+      "error": "HTTPConnectionPool(host='localhost', port=5001): Read timed out. (read timeout=10)",
+      "last_check": "2025-08-09T11:44:27.158788"
+    },
+    "api_endpoints": {
+      "/api/system-metrics": {
+        "status": "error",
+        "error": "HTTPConnectionPool(host='localhost', port=5001): Read timed out. (read timeout=5)"
+      },
+      "/api/scraper-metrics": {
+        "status": "error",
+        "error": "HTTPConnectionPool(host='localhost', port=5001): Read timed out. (read timeout=5)"
+      },
+      "/api/data-quality": {
+        "status": "error",
+        "error": "HTTPConnectionPool(host='localhost', port=5001): Read timed out. (read timeout=5)"
+      },
+      "/api/database-health": {
+        "status": "error",
+        "error": "HTTPConnectionPool(host='localhost', port=5001): Read timed out. (read timeout=5)"
+      }
+    },
+    "system_metrics": {
+      "cpu_usage": 8.8,
+      "memory_usage": 51.0,
+      "disk_usage": 0.5644767082255377,
+      "network_io": {
+        "bytes_sent": 1724230656,
+        "bytes_recv": 1913138176
+      },
+      "last_check": "2025-08-09T11:44:48.188581"
+    },
+    "processes": {
+      "dashboard": {
+        "status": "running",
+        "pid": "50334"
+      },
+      "monitoring": {
+        "status": "stopped"
+      }
+    }
+  },
+  "health_percentage": 20.0,
+  "healthy_services": 1,
+  "total_services": 5
+}

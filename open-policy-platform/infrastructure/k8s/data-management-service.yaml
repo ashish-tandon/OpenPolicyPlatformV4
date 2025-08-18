@@ -1,0 +1,72 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: data-management-service
+  namespace: openpolicy
+  labels:
+    app: data-management-service
+    tier: api
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: data-management-service
+  template:
+    metadata:
+      labels:
+        app: data-management-service
+        tier: api
+    spec:
+      containers:
+      - name: data-management-service
+        image: data-management-service:latest
+        ports:
+        - containerPort: 8017
+        env:
+        - name: PORT
+          value: "8017"
+        - name: ENVIRONMENT
+          value: "production"
+        resources:
+          requests:
+            memory: "256Mi"
+            cpu: "250m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+        livenessProbe:
+          httpGet:
+            path: /healthz
+            port: 8017
+          initialDelaySeconds: 30
+          periodSeconds: 10
+        readinessProbe:
+          httpGet:
+            path: /readyz
+            port: 8017
+          initialDelaySeconds: 5
+          periodSeconds: 5
+        volumeMounts:
+        - name: logs
+          mountPath: /app/logs
+      volumes:
+      - name: logs
+        emptyDir: {}
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: data-management-service
+  namespace: openpolicy
+  labels:
+    app: data-management-service
+    tier: api
+spec:
+  type: ClusterIP
+  ports:
+  - port: 8017
+    targetPort: 8017
+    protocol: TCP
+    name: http
+  selector:
+    app: data-management-service

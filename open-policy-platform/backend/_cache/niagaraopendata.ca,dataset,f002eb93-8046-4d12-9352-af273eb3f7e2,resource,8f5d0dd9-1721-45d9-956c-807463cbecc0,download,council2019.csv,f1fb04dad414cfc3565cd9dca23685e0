@@ -1,0 +1,23 @@
+status: 200
+encoding: None
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sat, 09 Aug 2025 05:45:09 GMT
+Content-Type: application/octet-stream
+Content-Length: 986
+Connection: keep-alive
+Last-Modified: Mon, 29 Jan 2024 13:23:35 GMT
+Cache-Control: public, max-age=0, must-revalidate
+Expires: Sat, 09 Aug 2025 17:45:09 GMT
+ETag: "1706534615.5737267-986-874516861"
+
+District_ID,Primary_role,First_name,Last_name,Email,Phone,Mobil,Ext,Fax
+Niagara-on-the-Lake,Lord Mayor,Betty,Disero,betty.disero@notl.com,905-468-3266,905-246-4653,,
+Niagara-on-the-Lake,Councillor,Norm,Arsenault,norm.arsenault@notl.com,,289-214-8836,,
+Niagara-on-the-Lake,Councillor,Allan,Bisback,allan.bisback@notl.com,905-468-8550,289-241-9977,,
+Niagara-on-the-Lake,Councillor,Gary,Burroughs,gary.burroughs@notl.com,905-468-3568,905-658-8717,,
+Niagara-on-the-Lake,Councillor,Clare,Cameron,clare.cameron@notl.com,,905-246-3682,,
+Niagara-on-the-Lake,Councillor,Wendy,Cheropita,wendy.cheropita@notl.com,905-468-7971,416-809-2194,,
+Niagara-on-the-Lake,Councillor,Stuart,McCormack,stuart.mccormack@notl.com,905-371-5659,,,
+Niagara-on-the-Lake,Councillor,Erwin,Wiens,erwin.wiens@notl.com,289-687-5551,,,
+Niagara-on-the-Lake,Councillor,John,Wiens,john.wiens@notl.com,905-246-1138,,,
+Niagara-on-the-Lake,Regional Councillor,Gary,Zalepa,gary.zalepa@niagararegion.ca,416-602-5431,,,

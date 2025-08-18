@@ -1,0 +1,148 @@
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: openpolicy123
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./backend/migrations/00-init-multi-db.sql:/docker-entrypoint-initdb.d/00-init-multi-db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  api:
+    build:
+      context: ./backend
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - APP_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_app
+      - SCRAPERS_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+      - AUTH_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_auth
+      - SECRET_KEY=dev-secret-change-me
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_NAME=openpolicy_app
+      - DB_USER=openpolicy
+      - DB_PASSWORD=openpolicy123
+      - SCRAPER_REPORTS_DIR=/app/OpenPolicyAshBack
+      - SCRAPER_LOGS_DIR=/app/OpenPolicyAshBack/logs
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=dev-secret-change-in-prod
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  web:
+    working_dir: /app
+    build:
+      context: ./web
+    environment:
+      - VITE_API_URL=http://localhost:8000
+    command: ["npm", "run", "dev", "--", "--host"]
+    ports:
+      - "5173:5173"
+    depends_on:
+      - api
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  celery-worker:
+    profiles: ["workers"]
+    build:
+      context: ./backend
+    command: ["celery", "-A", "api.celery_app.celery_app", "worker", "-l", "info"]
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - SCRAPERS_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+    depends_on:
+      - redis
+
+  celery-beat:
+    profiles: ["workers"]
+    build:
+      context: ./backend
+    command: ["celery", "-A", "api.celery_app.celery_app", "beat", "-l", "info"]
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - SCRAPERS_DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+    depends_on:
+      - redis
+
+  flower:
+    profiles: ["workers"]
+    image: mher/flower:latest
+    environment:
+      - FLOWER_BROKER=redis://redis:6379/0
+      - CELERY_BROKER_URL=redis://redis:6379/0
+    ports:
+      - "5555:5555"
+    depends_on:
+      - redis
+
+  scraper-runner:
+    build:
+      context: ./backend
+    command: ["python", "OpenPolicyAshBack/background_scraper_execution.py"]
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy_scrapers
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_NAME=openpolicy_scrapers
+      - DB_USER=openpolicy
+      - DB_PASSWORD=openpolicy123
+      - SCRAPERS_DATA_DIR=/app/scrapers-data
+    volumes:
+      - ./scrapers:/scrapers:ro
+      - ./scrapers-data:/app/scrapers-data:rw
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  prometheus:
+    profiles: ["ops"]
+    image: prom/prometheus:latest
+    volumes:
+      - ./backend/monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./backend/monitoring/alert.rules.yml:/etc/prometheus/alert.rules.yml:ro
+    ports:
+      - "9090:9090"
+
+  grafana:
+    profiles: ["ops"]
+    image: grafana/grafana:latest
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./backend/monitoring/grafana-provisioning/datasources:/etc/grafana/provisioning/datasources:ro
+      - ./backend/monitoring/grafana-provisioning/dashboards:/etc/grafana/provisioning/dashboards:ro
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus
+
+  gateway:
+    profiles: ["gateway"]
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./infrastructure/gateway/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api
+      - web
+
+volumes:
+  pgdata:
+  grafana_data:

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2025-08-09T11:13:01.878980",
+  "overall_status": "critical",
+  "system_metrics": {
+    "cpu_usage": 6.6,
+    "memory_usage": 51.2,
+    "disk_usage": 0.5644767082255377,
+    "network_io": {
+      "bytes_sent": 1718774784,
+      "bytes_recv": 1898187776,
+      "packets_sent": 15647602,
+      "packets_recv": 10966081
+    }
+  },
+  "scraper_metrics": {
+    "total_scrapers": 0,
+    "average_success_rate": 0.0,
+    "scrapers_by_status": {
+      "healthy": 0,
+      "warning": 0,
+      "critical": 0
+    }
+  },
+  "data_quality_metrics": {
+    "total_records": 0,
+    "complete_records": 0,
+    "missing_data_count": 0,
+    "duplicate_records": 0,
+    "invalid_records": 0,
+    "quality_score": 0.0
+  },
+  "database_status": "critical",
+  "alerts": [
+    {
+      "type": "data_quality",
+      "severity": "warning",
+      "message": "Low data quality score: 0.0%"
+    }
+  ]
+}

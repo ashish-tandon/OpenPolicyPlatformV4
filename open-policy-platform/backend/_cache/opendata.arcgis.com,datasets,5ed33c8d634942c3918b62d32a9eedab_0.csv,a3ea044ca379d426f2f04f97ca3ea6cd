@@ -1,0 +1,34 @@
+status: 200
+encoding: ISO-8859-1
+Date: Sat, 09 Aug 2025 05:45:11 GMT
+Content-Type: text/csv
+Content-Length: 919
+Connection: keep-alive
+Vary: Accept-Encoding
+x-amz-replication-status: COMPLETED
+Last-Modified: Tue, 24 Jun 2025 16:36:20 GMT
+ETag: "3e75cc9da9099f226ed9fc9538cc456c"
+x-amz-server-side-encryption: AES256
+Cache-Control: must-revalidate
+x-amz-meta-cachetime: 166
+Content-Disposition: attachment; filename="Elected_Officials_2018_(CSV).csv"
+Content-Encoding: gzip
+x-amz-meta-contentlastmodified: 2019-10-24T15:35:06.571Z
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests
+
+﻿District_ID,District_name,Primary_role,First_name,Last_name,Email,Photo_URL,Source_URL,Phone,Fax,FID,ObjectId
+1,Ward 1,Councillor,Mark,Signoretti,mark.signoretti@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_Signoretti_WEB(1).png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-1-mark-signoretti/,705-698-5579,(705) 673-1651,1,1
+2,Ward 2,Councillor,Michael,Vagnini,michael.vagnini@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_Vagnini_WEB.png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-2-michael-vagnini/,(705) 822-2997,(705) 673-1651,2,2
+3,Ward 3,Councillor,Gerry,Montpellier,gerry.montpellier@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_Montpellier_WEB.png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-3-gerry-montpellier/,(705) 698-2759,(705) 673-1651,3,3
+4,Ward 4,Councillor,Geoff,McCausland,geoff.mccausland@greatersudbury.ca,,https://www.greatersudbury.ca/city-hall/mayor-and-council/city-council/ward-4-geoff-mccausland/,705-626-6022,(705) 673-1651,4,4
+5,Ward 5,Councillor,Robert,Kirwan,robert.kirwan@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_Kirwan_WEB(1).png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-5-robert-kirwan/,(705) 929-2778,(705) 673-1651,5,5
+6,Ward 6,Councillor,Rene,Lapierre,rene.lapierre@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_Lapierre_WEB.png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-6-rene-lapierre/,(705) 923-5669,(705) 673-1651,6,6
+7,Ward 7,Councillor,Mike,Jakubo,mike.jakubo@greatersudbury.ca,https://www.greatersudbury.ca/sudburyen/assets/File/PHOTO%20color%20(please%20use%20this%20one).jpg,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-7-mike-jakubo/,(705) 923-9252,(705) 673-1651,7,7
+8,Ward 8,Councillor,Al,Sizer,al.sizer@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_Sizer_WEB.png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-8-alsizer/,(705) 592-2029,(705) 673-1651,8,8
+9,Ward 9,Councillor,Deb,McIntosh,deb.mcintosh@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_MacIntosh_WEB.png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-9-deb-mcintosh/,(705) 929-2517,(705) 673-1651,9,9
+10,Ward 10,Councillor,Fern,Cormier,fern.cormier@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_Cormier_WEB.png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-10-fern-cormier/,(705) 586-1640,(705) 673-1651,10,10
+,,Mayor,Brian,Bigger,mayor@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Mayor_Bigger_WEB.jpg,http://www.greatersudbury.ca/inside-city-hall/mayor/,"(705) 674-4455, ext. 2514",(705) 673-3096,11,11
+11,Ward 11,Councillor,Bill,Leduc,bill.leduc@greatersudbury.ca,,https://www.greatersudbury.ca/city-hall/mayor-and-council/city-council/ward-11-bill-leduc/,705-665-5873,(705) 673-1651,12,12
+12,Ward 12,Councillor,Joscelyne,Landry-Altmann,joscelyne.landry-altmann@greatersudbury.ca,http://www.greatersudbury.ca/image/councillors/Councillor_Landry-Altmann_WEB.png,http://www.greatersudbury.ca/inside-city-hall/city-council/ward-12-joscelyne-landry-altmann/,(705) 674-1212,(705) 669-0886,13,13

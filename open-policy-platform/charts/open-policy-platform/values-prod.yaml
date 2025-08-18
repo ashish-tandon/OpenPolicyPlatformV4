@@ -1,0 +1,581 @@
+# ========================================
+# AZURE PRODUCTION ENVIRONMENT VALUES
+# ========================================
+# This file overrides default values for Azure production environment
+# Full resource allocation and advanced deployment strategies
+
+global:
+  environment: "production"
+  imageRegistry: "ghcr.io"
+  domain: "openpolicy.com"
+  adminDomain: "admin.openpolicy.com"
+
+# Production environment - full resources
+infrastructure:
+  postgres:
+    persistence:
+      size: 100Gi
+    resources:
+      requests:
+        memory: 2Gi
+        cpu: 2000m
+      limits:
+        memory: 8Gi
+        cpu: 8000m
+  
+  postgresTest:
+    persistence:
+      size: 50Gi
+    resources:
+      requests:
+        memory: 2Gi
+        cpu: 2000m
+      limits:
+        memory: 8Gi
+        cpu: 8000m
+  
+  redis:
+    persistence:
+      size: 20Gi
+    resources:
+      requests:
+        memory: 1Gi
+        cpu: 1000m
+      limits:
+        memory: 4Gi
+        cpu: 4000m
+  
+  elasticsearch:
+    persistence:
+      size: 200Gi
+    resources:
+      requests:
+        memory: 4Gi
+        cpu: 2000m
+      limits:
+        memory: 16Gi
+        cpu: 8000m
+  
+  logstash:
+    resources:
+      requests:
+        memory: 2Gi
+        cpu: 1000m
+      limits:
+        memory: 4Gi
+        cpu: 4000m
+  
+  kibana:
+    resources:
+      requests:
+        memory: 1Gi
+        cpu: 1000m
+      limits:
+        memory: 4Gi
+        cpu: 4000m
+  
+  prometheus:
+    persistence:
+      size: 50Gi
+    resources:
+      requests:
+        memory: 1Gi
+        cpu: 1000m
+      limits:
+        memory: 4Gi
+        cpu: 4000m
+  
+  grafana:
+    persistence:
+      size: 10Gi
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  fluentd:
+    resources:
+      requests:
+        memory: 1Gi
+        cpu: 1000m
+      limits:
+        memory: 4Gi
+        cpu: 4000m
+
+# Production environment - high replicas
+microservices:
+  apiGateway:
+    replicaCount: 5
+    service:
+      type: LoadBalancer
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  configService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  authService:
+    replicaCount: 5
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  policyService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  notificationService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  analyticsService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  monitoringService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  etlService:
+    replicaCount: 5
+    resources:
+      requests:
+        memory: 1Gi
+        cpu: 1000m
+      limits:
+        memory: 4Gi
+        cpu: 4000m
+  
+  scraperService:
+    replicaCount: 10
+    resources:
+      requests:
+        memory: 1Gi
+        cpu: 1000m
+      limits:
+        memory: 4Gi
+        cpu: 4000m
+  
+  searchService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  dashboardService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  filesService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  reportingService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  workflowService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  integrationService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  dataManagementService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  representativesService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  plotlyService:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  mobileApi:
+    replicaCount: 5
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  legacyDjango:
+    replicaCount: 3
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+  
+  web:
+    replicaCount: 5
+    service:
+      type: LoadBalancer
+    resources:
+      requests:
+        memory: 512Mi
+        cpu: 500m
+      limits:
+        memory: 2Gi
+        cpu: 2000m
+
+# Production environment - full ingress
+microservices.apiGateway.ingress.enabled = true
+microservices.web.ingress.enabled = true
+
+# Production environment - aggressive monitoring
+monitoring:
+  healthChecks:
+    enabled: true
+    initialDelaySeconds: 30
+    periodSeconds: 5
+    timeoutSeconds: 3
+    failureThreshold: 2
+    successThreshold: 1
+  
+  readinessProbes:
+    enabled: true
+    initialDelaySeconds: 5
+    periodSeconds: 3
+    timeoutSeconds: 2
+    failureThreshold: 2
+    successThreshold: 1
+  
+  livenessProbes:
+    enabled: true
+    initialDelaySeconds: 60
+    periodSeconds: 5
+    timeoutSeconds: 3
+    failureThreshold: 2
+    successThreshold: 1
+
+# Production environment - aggressive HPA
+hpa:
+  enabled: true
+  minReplicas: 3
+  maxReplicas: 20
+  targetCPUUtilizationPercentage: 70
+  targetMemoryUtilizationPercentage: 70
+
+# Production environment - maximum security
+podSecurityContext:
+  fsGroup: 1000
+  runAsNonRoot: true
+  runAsUser: 1000
+
+containerSecurityContext:
+  allowPrivilegeEscalation: false
+  readOnlyRootFilesystem: true
+  runAsNonRoot: true
+  runAsUser: 1000
+  capabilities:
+    drop:
+      - ALL
+
+# Production environment - advanced deployment strategies
+deployment:
+  blueGreen:
+    enabled: true
+    autoSwitch: true
+    switchAfter: 300  # 5 minutes
+    rollbackOnFailure: true
+  
+  canary:
+    enabled: true
+    initialTraffic: 5   # percentage
+    maxTraffic: 100     # percentage
+    stepSize: 5         # percentage
+    stepInterval: 30    # seconds
+    autoPromote: true
+    rollbackOnFailure: true
+
+# Production environment - strict network policies
+networkPolicy:
+  enabled: true
+  ingressRules:
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              name: ingress-nginx
+        - podSelector:
+            matchLabels:
+              app: ingress-nginx
+      ports:
+        - protocol: TCP
+          port: 80
+        - protocol: TCP
+          port: 443
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              name: monitoring
+      ports:
+        - protocol: TCP
+          port: 9090
+        - protocol: TCP
+          port: 3000
+  egressRules:
+    - to:
+        - namespaceSelector: {}
+      ports:
+        - protocol: TCP
+          port: 53
+        - protocol: UDP
+          port: 53
+    - to:
+        - ipBlock:
+            cidr: 0.0.0.0/0
+      ports:
+        - protocol: TCP
+          port: 443
+        - protocol: TCP
+          port: 80
+
+# Production environment - strict pod disruption budget
+podDisruptionBudget:
+  enabled: true
+  minAvailable: 2
+
+# Production environment - Azure Key Vault integration
+secrets:
+  database:
+    existingSecret: "azure-key-vault-db-secret"
+    secretName: "azure-key-vault-db-secret"
+    postgresqlPassword: ""
+    postgresqlUsername: ""
+    postgresqlDatabase: ""
+  
+  redis:
+    existingSecret: "azure-key-vault-redis-secret"
+    secretName: "azure-key-vault-redis-secret"
+    password: ""
+  
+  elasticsearch:
+    existingSecret: "azure-key-vault-elasticsearch-secret"
+    secretName: "azure-key-vault-elasticsearch-secret"
+    username: ""
+    password: ""
+
+# Production environment - Azure-specific configurations
+azure:
+  keyVault:
+    enabled: true
+    name: "openpolicy-keyvault"
+    tenantId: ""
+    clientId: ""
+    clientSecret: ""
+  
+  aks:
+    clusterName: "openpolicy-aks"
+    resourceGroup: "openpolicy-rg"
+    location: "East US"
+  
+  storage:
+    accountName: "openpolicystorage"
+    containerName: "openpolicy-data"
+    accessKey: ""
+  
+  cdn:
+    enabled: true
+    profileName: "openpolicy-cdn"
+    endpointName: "openpolicy-endpoint"
+  
+  monitoring:
+    logAnalytics:
+      enabled: true
+      workspaceName: "openpolicy-logs"
+      workspaceId: ""
+      sharedKey: ""
+    
+    applicationInsights:
+      enabled: true
+      name: "openpolicy-appinsights"
+      instrumentationKey: ""
+      connectionString: ""
+
+# Production environment - advanced monitoring
+advancedMonitoring:
+  prometheus:
+    retention: 30d
+    scrapeInterval: 15s
+    evaluationInterval: 15s
+  
+  grafana:
+    adminPassword: ""
+    persistence:
+      enabled: true
+      size: 20Gi
+  
+  alerting:
+    enabled: true
+    slack:
+      webhookUrl: ""
+    email:
+      smtpServer: ""
+      smtpPort: 587
+      username: ""
+      password: ""
+      from: ""
+      to: []
+  
+  tracing:
+    enabled: true
+    jaeger:
+      enabled: true
+      resources:
+        requests:
+          memory: 512Mi
+          cpu: 500m
+        limits:
+          memory: 1Gi
+          cpu: 1000m
+
+# Production environment - backup and disaster recovery
+backup:
+  enabled: true
+  schedule: "0 2 * * *"  # Daily at 2 AM
+  retention: 30
+  storage:
+    type: "azure"
+    container: "openpolicy-backups"
+    accountName: "openpolicystorage"
+    accessKey: ""
+  
+  databases:
+    postgres:
+      enabled: true
+      schedule: "0 1 * * *"  # Daily at 1 AM
+      retention: 30
+    elasticsearch:
+      enabled: true
+      schedule: "0 3 * * *"  # Daily at 3 AM
+      retention: 30
+
+# Production environment - scaling policies
+scaling:
+  verticalPodAutoscaler:
+    enabled: true
+    updatePolicy:
+      updateMode: "Auto"
+    resourcePolicy:
+      containerPolicies:
+        - containerName: "*"
+          minAllowed:
+            cpu: 100m
+            memory: 50Mi
+          maxAllowed:
+            cpu: 1
+            memory: 500Mi
+          controlledValues: RequestsAndLimits
+  
+  clusterAutoscaler:
+    enabled: true
+    scaleDownDelayAfterAdd: 10m
+    scaleDownUnneeded: 10m
+    maxNodeProvisionTime: 15m
+    okTotalUnreadyCount: 3
+    maxTotalUnreadyPercentage: 45
+    scaleDownDelayAfterFailure: 3m
+    scaleDownDelayAfterDelete: 10s
