@@ -11,7 +11,7 @@ echo "🚀 Starting Open Policy Platform V4 deployment to QNAP NAS..."
 COMPOSE_FILE="docker-compose.qnap.yml"
 ENV_FILE=".env.qnap"
 CONFIG_FILE="qnap-config.json"
-SSH_KEY="~/.ssh/openpolicy_qnap_key"
+SSH_KEY="$HOME/.ssh/openpolicy_qnap_key"
 BACKUP_DIR="/share/Container/OpenPolicyPlatform/backups"
 LOG_DIR="/share/Container/OpenPolicyPlatform/logs"
 
