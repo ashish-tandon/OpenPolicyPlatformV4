@@ -1,0 +1,122 @@
+# Open Policy Platform V4 - AlertManager Configuration
+# Alert routing and notification management
+
+global:
+  resolve_timeout: 5m
+  smtp_smarthost: 'localhost:25'
+  smtp_from: 'alertmanager@openpolicy.com'
+
+# Route configuration
+route:
+  group_by: ['alertname', 'job', 'severity']
+  group_wait: 10s
+  group_interval: 10s
+  repeat_interval: 1h
+  receiver: 'web.hook'
+  routes:
+    # Critical alerts - immediate notification
+    - match:
+        severity: critical
+      receiver: 'critical-alerts'
+      repeat_interval: 5m
+      group_wait: 0s
+      group_interval: 5s
+    
+    # Warning alerts - delayed notification
+    - match:
+        severity: warning
+      receiver: 'warning-alerts'
+      repeat_interval: 15m
+      group_wait: 30s
+      group_interval: 30s
+    
+    # Service down alerts
+    - match:
+        alertname: ServiceDown
+      receiver: 'service-alerts'
+      repeat_interval: 2m
+      group_wait: 0s
+      group_interval: 10s
+    
+    # High resource usage alerts
+    - match:
+        alertname: HighResourceUsage
+      receiver: 'resource-alerts'
+      repeat_interval: 10m
+      group_wait: 1m
+      group_interval: 1m
+
+# Receiver configurations
+receivers:
+  # Webhook receiver for general alerts
+  - name: 'web.hook'
+    webhook_configs:
+      - url: 'http://localhost:5001/'
+        send_resolved: true
+
+  # Critical alerts receiver
+  - name: 'critical-alerts'
+    webhook_configs:
+      - url: 'http://localhost:5001/critical'
+        send_resolved: true
+    email_configs:
+      - to: 'admin@openpolicy.com'
+        send_resolved: true
+
+  # Warning alerts receiver
+  - name: 'warning-alerts'
+    webhook_configs:
+      - url: 'http://localhost:5001/warning'
+        send_resolved: true
+
+  # Service alerts receiver
+  - name: 'service-alerts'
+    webhook_configs:
+      - url: 'http://localhost:5001/service'
+        send_resolved: true
+    email_configs:
+      - to: 'ops@openpolicy.com'
+        send_resolved: true
+
+  # Resource alerts receiver
+  - name: 'resource-alerts'
+    webhook_configs:
+      - url: 'http://localhost:5001/resource'
+        send_resolved: true
+
+# Inhibition rules
+inhibit_rules:
+  # Inhibit critical alerts when service is down
+  - source_match:
+      severity: 'critical'
+      alertname: 'ServiceDown'
+    target_match:
+      severity: 'critical'
+    equal: ['job']
+  
+  # Inhibit resource alerts when node is down
+  - source_match:
+      alertname: 'NodeDown'
+    target_match:
+      alertname: 'HighResourceUsage'
+    equal: ['instance']
+
+# Time muting
+time_intervals:
+  - name: workdays
+    time_intervals:
+      - weekdays: ['monday:friday']
+        times:
+          - start_time: 09:00
+            end_time: 17:00
+  
+  - name: weekends
+    time_intervals:
+      - weekdays: ['saturday', 'sunday']
+        times:
+          - start_time: 00:00
+            end_time: 23:59
+
+# Template for alert messages
+templates:
+  - '/etc/alertmanager/template/*.tmpl'

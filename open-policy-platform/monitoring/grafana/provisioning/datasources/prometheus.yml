@@ -1,0 +1,44 @@
+# Open Policy Platform V4 - Grafana Datasource Configuration
+# Prometheus datasource for metrics visualization
+
+apiVersion: 1
+
+datasources:
+  - name: Prometheus
+    type: prometheus
+    access: proxy
+    url: http://openpolicy-monitoring-prometheus:9090
+    isDefault: true
+    editable: true
+    jsonData:
+      timeInterval: "15s"
+      queryTimeout: "60s"
+      httpMethod: "POST"
+      manageAlerts: true
+      alertmanagerUid: "alertmanager"
+      prometheusType: "Prometheus"
+      prometheusVersion: "2.45.0"
+      cacheLevel: "High"
+      disableRecordingRules: false
+      incrementalQueryOverlapWindow: "10m"
+      incrementalQueryOverlapWindowEnabled: true
+    secureJsonData: {}
+    version: 1
+
+  - name: AlertManager
+    type: alertmanager
+    access: proxy
+    url: http://openpolicy-monitoring-alertmanager:9093
+    editable: true
+    jsonData:
+      handleGrafanaManagedAlerts: true
+      implementation: "prometheus"
+      alertmanagerImplementation: "prometheus"
+      alertmanagerUID: "alertmanager"
+      alertmanagerAccess: "proxy"
+      alertmanagerURL: "http://openpolicy-monitoring-alertmanager:9093"
+      alertmanagerDataSourceUID: "prometheus"
+      alertmanagerImplementationName: "Prometheus"
+      alertmanagerImplementationVersion: "0.25.0"
+    secureJsonData: {}
+    version: 1

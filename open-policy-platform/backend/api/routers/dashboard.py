@@ -12,7 +12,7 @@ from datetime import datetime, timedelta
 from pydantic import BaseModel
 from ..config import settings
 from ..dependencies import get_db
-from ...config.database import db_config
+from config.database import db_config
 
 router = APIRouter(prefix="/api/v1/dashboard", tags=["dashboard"])
 

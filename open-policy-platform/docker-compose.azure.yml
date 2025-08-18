@@ -1,0 +1,283 @@
+# Open Policy Platform V4 - Azure Deployment Configuration
+# Optimized for Azure Container Instances and Azure Container Registry
+
+version: '3.8'
+
+services:
+  # PostgreSQL Database (Azure Database for PostgreSQL)
+  postgresql:
+    image: postgres:15-alpine
+    container_name: openpolicy-azure-postgres
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: ${AZURE_POSTGRES_USER:-openpolicy}
+      POSTGRES_PASSWORD: ${AZURE_POSTGRES_PASSWORD}
+      POSTGRES_HOST_AUTH_METHOD: scram-sha-256
+      POSTGRES_INITDB_ARGS: "--encoding=UTF-8 --lc-collate=C --lc-ctype=C"
+    volumes:
+      - azure-postgres-data:/var/lib/postgresql/data
+      - ./backend/database/init:/docker-entrypoint-initdb.d
+    ports:
+      - "5432:5432"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${AZURE_POSTGRES_USER:-openpolicy} -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Redis Cache (Azure Cache for Redis)
+  redis:
+    image: redis:7-alpine
+    container_name: openpolicy-azure-redis
+    command: redis-server --appendonly yes --maxmemory 512mb --maxmemory-policy allkeys-lru --requirepass ${AZURE_REDIS_PASSWORD}
+    volumes:
+      - azure-redis-data:/data
+    ports:
+      - "6379:6379"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "-a", "${AZURE_REDIS_PASSWORD}", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # Core API Service
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: openpolicy-azure-api
+    environment:
+      - DATABASE_URL=postgresql://${AZURE_POSTGRES_USER:-openpolicy}:${AZURE_POSTGRES_PASSWORD}@postgresql:5432/openpolicy
+      - REDIS_URL=redis://:${AZURE_REDIS_PASSWORD}@redis:6379
+      - JWT_SECRET=${AZURE_JWT_SECRET}
+      - ENVIRONMENT=production
+      - LOG_LEVEL=INFO
+      - AZURE_STORAGE_CONNECTION_STRING=${AZURE_STORAGE_CONNECTION_STRING}
+      - AZURE_APPLICATION_INSIGHTS_CONNECTION_STRING=${AZURE_APPLICATION_INSIGHTS_CONNECTION_STRING}
+    volumes:
+      - ./backend:/app
+      - azure-api-logs:/app/logs
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgresql:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Web Frontend
+  web:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: openpolicy-azure-web
+    environment:
+      - VITE_API_URL=https://${AZURE_DOMAIN:-localhost}:8000
+      - VITE_APP_NAME=Open Policy Platform
+      - VITE_AZURE_INSIGHTS_KEY=${AZURE_APPLICATION_INSIGHTS_KEY}
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Nginx Gateway with Azure Load Balancer
+  gateway:
+    image: nginx:alpine
+    container_name: openpolicy-azure-gateway
+    volumes:
+      - ./nginx/nginx.azure.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+      - azure-gateway-logs:/var/log/nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - api
+      - web
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # Azure Application Insights Agent
+  app-insights:
+    image: mcr.microsoft.com/azuremonitor/containerinsights/ciprod:latest
+    container_name: openpolicy-azure-appinsights
+    environment:
+      - AZURE_CLIENT_ID=${AZURE_CLIENT_ID}
+      - AZURE_CLIENT_SECRET=${AZURE_CLIENT_SECRET}
+      - AZURE_TENANT_ID=${AZURE_TENANT_ID}
+      - AZURE_SUBSCRIPTION_ID=${AZURE_SUBSCRIPTION_ID}
+      - AZURE_RESOURCE_GROUP=${AZURE_RESOURCE_GROUP}
+      - AZURE_CLUSTER_NAME=${AZURE_CLUSTER_NAME}
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /var/log:/var/log
+      - /var/lib/docker/containers:/var/lib/docker/containers
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+  # Monitoring Stack
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: openpolicy-azure-prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention.time=200h'
+      - '--web.enable-lifecycle'
+      - '--storage.tsdb.retention.size=10GB'
+    volumes:
+      - ./monitoring/prometheus:/etc/prometheus
+      - azure-prometheus-data:/prometheus
+    ports:
+      - "9090:9090"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: openpolicy-azure-grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${AZURE_GRAFANA_PASSWORD}
+      - GF_USERS_ALLOW_SIGN_UP=false
+      - GF_SERVER_ROOT_URL=https://${AZURE_DOMAIN}/grafana
+      - GF_SERVER_SERVE_FROM_SUB_PATH=true
+    volumes:
+      - azure-grafana-data:/var/lib/grafana
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards
+    ports:
+      - "3001:3000"
+    depends_on:
+      - prometheus
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+  alertmanager:
+    image: prom/alertmanager:latest
+    container_name: openpolicy-azure-alertmanager
+    command:
+      - '--config.file=/etc/alertmanager/alertmanager.yml'
+      - '--storage.path=/alertmanager'
+      - '--web.external-url=https://${AZURE_DOMAIN}/alertmanager'
+    volumes:
+      - ./monitoring/alertmanager:/etc/alertmanager
+      - azure-alertmanager-data:/alertmanager
+    ports:
+      - "9093:9093"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+  # Azure Backup Service
+  backup:
+    image: mcr.microsoft.com/azure-cli:latest
+    container_name: openpolicy-azure-backup
+    command: >
+      sh -c "
+        az login --service-principal -u $$AZURE_CLIENT_ID -p $$AZURE_CLIENT_SECRET --tenant $$AZURE_TENANT_ID &&
+        while true; do
+          echo 'Starting Azure backup at $$(date)';
+          pg_dump -h postgresql -U $$AZURE_POSTGRES_USER -d openpolicy > /backup/backup_$$(date +%Y%m%d_%H%M%S).sql;
+          az storage blob upload-batch --account-name $$AZURE_STORAGE_ACCOUNT --auth-mode key --account-key $$AZURE_STORAGE_KEY --source /backup --destination openpolicy-backups;
+          echo 'Azure backup completed at $$(date)';
+          sleep 86400;
+        done
+      "
+    environment:
+      - AZURE_CLIENT_ID=${AZURE_CLIENT_ID}
+      - AZURE_CLIENT_SECRET=${AZURE_CLIENT_SECRET}
+      - AZURE_TENANT_ID=${AZURE_TENANT_ID}
+      - AZURE_STORAGE_ACCOUNT=${AZURE_STORAGE_ACCOUNT}
+      - AZURE_STORAGE_KEY=${AZURE_STORAGE_KEY}
+      - PGPASSWORD=${AZURE_POSTGRES_PASSWORD}
+      - AZURE_POSTGRES_USER=${AZURE_POSTGRES_USER:-openpolicy}
+    volumes:
+      - azure-backup-data:/backup
+    depends_on:
+      - postgresql
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+  # Azure Key Vault Integration
+  keyvault:
+    image: mcr.microsoft.com/azure-keyvault/akv-azure-key-vault:latest
+    container_name: openpolicy-azure-keyvault
+    environment:
+      - AZURE_CLIENT_ID=${AZURE_CLIENT_ID}
+      - AZURE_CLIENT_SECRET=${AZURE_CLIENT_SECRET}
+      - AZURE_TENANT_ID=${AZURE_TENANT_ID}
+      - AZURE_KEY_VAULT_NAME=${AZURE_KEY_VAULT_NAME}
+    volumes:
+      - azure-keyvault-certs:/certs
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+volumes:
+  azure-postgres-data:
+    driver: local
+  azure-redis-data:
+    driver: local
+  azure-api-logs:
+    driver: local
+  azure-gateway-logs:
+    driver: local
+  azure-prometheus-data:
+    driver: local
+  azure-grafana-data:
+    driver: local
+  azure-alertmanager-data:
+    driver: local
+  azure-backup-data:
+    driver: local
+  azure-keyvault-certs:
+    driver: local
+
+networks:
+  openpolicy-azure-network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.21.0.0/16

@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.openpolicy.openpolicyapp",
+      "sha256_cert_fingerprints": [
+        "BC:C2:FF:11:D8:F0:A7:D9:DF:CB:BC:10:5B:4C:6F:E1:75:BC:1B:F1:B5:D0:AE:60:DB:BC:04:A9:DD:90:2E:1D",
+        "AE:AF:DB:66:63:54:E8:56:1D:CE:88:C7:B9:1D:1F:DB:F7:D5:89:64:7E:92:FB:5B:FB:91:4F:94:D4:93:01:5C"
+      ]
+    }
+  }
+]

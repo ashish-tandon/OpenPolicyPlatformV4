@@ -1,0 +1,229 @@
+# Open Policy Platform V4 - QNAP Deployment Configuration
+# Optimized for QNAP NAS with QTS 5.0+
+
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  postgresql:
+    image: postgres:15-alpine
+    container_name: openpolicy-qnap-postgres
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-openpolicy123}
+      POSTGRES_INITDB_ARGS: "--encoding=UTF-8 --lc-collate=C --lc-ctype=C"
+    volumes:
+      - qnap-postgres-data:/var/lib/postgresql/data
+      - ./backend/database/init:/docker-entrypoint-initdb.d
+    ports:
+      - "5432:5432"
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    container_name: openpolicy-qnap-redis
+    command: redis-server --appendonly yes --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - qnap-redis-data:/data
+    ports:
+      - "6379:6379"
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # Core API Service
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: openpolicy-qnap-api
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgresql:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - JWT_SECRET=${JWT_SECRET:-your_jwt_secret_key_here}
+      - ENVIRONMENT=production
+      - LOG_LEVEL=INFO
+    volumes:
+      - ./backend:/app
+      - qnap-api-logs:/app/logs
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgresql:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Web Frontend
+  web:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: openpolicy-qnap-web
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - VITE_APP_NAME=Open Policy Platform
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Nginx Gateway
+  gateway:
+    image: nginx:alpine
+    container_name: openpolicy-qnap-gateway
+    volumes:
+      - ./nginx/nginx.qnap.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - api
+      - web
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # Monitoring Stack
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: openpolicy-qnap-prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention.time=200h'
+      - '--web.enable-lifecycle'
+    volumes:
+      - ./monitoring/prometheus:/etc/prometheus
+      - qnap-prometheus-data:/prometheus
+    ports:
+      - "9090:9090"
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: openpolicy-qnap-grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${GRAFANA_PASSWORD:-admin123}
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - qnap-grafana-data:/var/lib/grafana
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards
+    ports:
+      - "3001:3000"
+    depends_on:
+      - prometheus
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+
+  alertmanager:
+    image: prom/alertmanager:latest
+    container_name: openpolicy-qnap-alertmanager
+    command:
+      - '--config.file=/etc/alertmanager/alertmanager.yml'
+      - '--storage.path=/alertmanager'
+    volumes:
+      - ./monitoring/alertmanager:/etc/alertmanager
+      - qnap-alertmanager-data:/alertmanager
+    ports:
+      - "9093:9093"
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+
+  # Backup Service
+  backup:
+    image: alpine:latest
+    container_name: openpolicy-qnap-backup
+    command: >
+      sh -c "
+        apk add --no-cache postgresql-client &&
+        while true; do
+          echo 'Starting backup at $$(date)';
+          pg_dump -h postgresql -U openpolicy -d openpolicy > /backup/backup_$$(date +%Y%m%d_%H%M%S).sql;
+          echo 'Backup completed at $$(date)';
+          sleep 86400;
+        done
+      "
+    environment:
+      - PGPASSWORD=openpolicy123
+    volumes:
+      - qnap-backup-data:/backup
+    depends_on:
+      - postgresql
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+
+volumes:
+  qnap-postgres-data:
+    driver: local
+  qnap-redis-data:
+    driver: local
+  qnap-api-logs:
+    driver: local
+  qnap-prometheus-data:
+    driver: local
+  qnap-grafana-data:
+    driver: local
+  qnap-alertmanager-data:
+    driver: local
+  qnap-backup-data:
+    driver: local
+
+networks:
+  openpolicy-network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16

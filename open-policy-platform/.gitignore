@@ -1,198 +1,180 @@
-# ========================================
-# OPEN POLICY PLATFORM .GITIGNORE
-# ========================================
-# This file excludes files that should not be committed to Git
+# Open Policy Platform V4 - Git Ignore File
+# Protects sensitive credentials and environment-specific configurations
 
-# Database files (too large for Git)
-*.sql
-*.db
-*.sqlite
-*.sqlite3
-openparliament.public.sql
-
-# Logs
-logs/
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Coverage directory used by tools like istanbul
-coverage/
-*.lcov
-
-# nyc test coverage
-.nyc_output
-
-# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-# Bower dependency directory (https://bower.io/)
-bower_components
-
-# node_modules
-node_modules/
-
-# Dependency directories
-jspm_packages/
-
-# TypeScript cache
-*.tsbuildinfo
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Microbundle cache
-.rpt2_cache/
-.rts2_cache_cjs/
-.rts2_cache_es/
-.rts2_cache_umd/
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variables file
+# =============================================================================
+# ENVIRONMENT & CREDENTIAL FILES
+# =============================================================================
 .env
-.env.test
 .env.local
 .env.production
+.env.staging
+.env.development
+.env.*.local
+.env.*.production
+.env.*.staging
 
-# parcel-bundler cache (https://parceljs.org/)
-.cache
-.parcel-cache
-
-# Next.js build output
-.next
-
-# Nuxt.js build / generate output
-.nuxt
-dist
-
-# Gatsby files
-.cache/
-public
-
-# Storybook build outputs
-.out
-.storybook-out
-
-# Temporary folders
-tmp/
-temp/
-
-# Editor directories and files
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Docker
-.dockerignore
-docker-compose.override.yml
-
-# Kubernetes
-*.kubeconfig
-kubeconfig
-
-# Helm
-charts/*/charts/
-charts/*/requirements.lock
-
-# Terraform
-*.tfstate
-*.tfstate.*
-.terraform/
-.terraform.lock.hcl
-
-# Secrets and credentials
-secrets/
+# =============================================================================
+# AUTH0 & SECURITY CREDENTIALS
+# =============================================================================
+auth0-config.json
+auth0-credentials.json
 *.pem
 *.key
 *.crt
 *.p12
 *.pfx
 
-# Build artifacts
-build/
-dist/
-target/
-*.exe
-*.dll
+# =============================================================================
+# DATABASE CREDENTIALS & CONNECTIONS
+# =============================================================================
+database-config.json
+db-credentials.json
+*.db
+*.sqlite
+*.sqlite3
+
+# =============================================================================
+# AZURE & QNAP CONFIGURATIONS
+# =============================================================================
+azure-config.json
+qnap-config.json
+azure-credentials.json
+qnap-credentials.json
+
+# =============================================================================
+# SSH KEYS & ACCESS TOKENS
+# =============================================================================
+*.pem
+*.key
+*.pub
+ssh/
+.ssh/
+id_rsa*
+id_ed25519*
+openpolicy_qnap_key*
+
+# =============================================================================
+# LOGS & TEMPORARY FILES
+# =============================================================================
+logs/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# =============================================================================
+# PYTHON & NODE MODULES
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
 *.so
-*.dylib
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
-# Test artifacts
-test-results/
-coverage/
-.nyc_output/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Cache directories
-.cache/
-.parcel-cache/
-.next/
-.nuxt/
+# =============================================================================
+# DOCKER & CONTAINER FILES
+# =============================================================================
+.dockerignore
+docker-compose.override.yml
+docker-compose.*.local.yml
 
-# Local development files
-.local/
-local/
-dev/
+# =============================================================================
+# IDE & EDITOR FILES
+# =============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
 
-# Backup files
+# =============================================================================
+# BACKUP & ARCHIVE FILES
+# =============================================================================
 *.bak
 *.backup
 *.old
-
-# Temporary files
-*.tmp
-*.temp
-
-# Large media files
-*.mp4
-*.avi
-*.mov
-*.wmv
-*.flv
-*.webm
-*.mkv
-
-# Archive files
-*.zip
+*.orig
+*.save
 *.tar
 *.gz
-*.bz2
-*.7z
+*.zip
 *.rar
+*.7z
 
-# Database dumps
-*.dump
-*.backup
-*.sql.gz
-*.sql.bz2
+# =============================================================================
+# TEST & COVERAGE FILES
+# =============================================================================
+.coverage
+.pytest_cache/
+.tox/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
 
-# Application specific
-# Add any other files specific to your application here
+# =============================================================================
+# PLATFORM SPECIFIC
+# =============================================================================
+# QNAP specific
+.qnap/
+.qnap-backup/
+
+# Azure specific
+.azure/
+azure-deployment-logs/
+
+# =============================================================================
+# MONITORING & METRICS
+# =============================================================================
+prometheus-data/
+grafana-data/
+alertmanager-data/
+monitoring-logs/
+
+# =============================================================================
+# UPLOADED FILES & USER CONTENT
+# =============================================================================
+uploads/
+user-content/
+scraped-data/
+reports/
+data-exports/
+
+# =============================================================================
+# SECRETS & KEYS (ADDITIONAL PROTECTION)
+# =============================================================================
+secrets/
+keys/
+certificates/
+*.secret
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx

@@ -12,9 +12,10 @@ import logging
 import os
 
 # Import all routers
-from .routers import policies, scrapers, admin, auth, health, scraper_monitoring, data_management, dashboard
+from .routers import policies, scrapers, admin, auth_enhanced as auth, health, scraper_monitoring, data_management, dashboard
 from .routers import metrics as metrics_router
-from .routers import representatives, committees, debates, votes, search, analytics, notifications, files
+from .routers import representatives, committees, debates, votes, search, notifications, files
+from .routers import mobile as mobile_router, entities as entities_router
 
 # Import middleware
 from .middleware.performance import PerformanceMiddleware
@@ -28,7 +29,7 @@ logging.basicConfig(level=getattr(logging, settings.log_level.upper(), logging.I
 
 REQUIRED_ENVS = [
     ("DATABASE_URL", lambda: bool(settings.database_url)),
-    ("SECRET_KEY", lambda: bool(settings.secret_key) and settings.secret_key != "your-secret-key-change-in-production"),
+            ("JWT_SECRET", lambda: bool(settings.jwt_secret) and settings.jwt_secret != "your-jwt-secret-key-change-in-production"),
 ]
 
 # Additional production-only policy checks
@@ -131,7 +132,6 @@ def create_app() -> FastAPI:
     app.include_router(debates.router, prefix="/api/v1/debates", tags=["Debates"])
     app.include_router(votes.router, prefix="/api/v1/votes", tags=["Votes"])
     app.include_router(search.router, prefix="/api/v1/search", tags=["Search"])
-    app.include_router(analytics.router, prefix="/api/v1/analytics", tags=["Analytics"])
     app.include_router(notifications.router, prefix="/api/v1/notifications", tags=["Notifications"])
     app.include_router(files.router, prefix="/api/v1/files", tags=["Files"])
     app.include_router(scrapers.router, prefix="/api/v1/scrapers", tags=["Scrapers"])
@@ -142,6 +142,46 @@ def create_app() -> FastAPI:
     app.include_router(metrics_router.router, tags=["Metrics"])  # /metrics
     app.include_router(mobile_router.router, prefix="/api/v1/mobile", tags=["Mobile"])
     app.include_router(entities_router.router)  # /api/v1/entities
+    
+    # Import and include analytics, reporting, and business intelligence routers
+    from .routers import analytics, reporting, business_intelligence
+    app.include_router(analytics.router, prefix="/api/v1/analytics", tags=["Analytics"])
+    app.include_router(reporting.router, prefix="/api/v1/reporting", tags=["Reporting"])
+    app.include_router(business_intelligence.router, prefix="/api/v1/business-intelligence", tags=["Business Intelligence"])
+    
+    # Import and include machine learning router
+    from .routers import machine_learning
+    app.include_router(machine_learning.router, prefix="/api/v1/ml", tags=["Machine Learning"])
+    
+    # Import and include interactive dashboard and data visualization routers
+    from .routers import interactive_dashboard, data_visualization
+    app.include_router(interactive_dashboard.router, prefix="/api/v1/dashboards", tags=["Interactive Dashboards"])
+    app.include_router(data_visualization.router, prefix="/api/v1/visualization", tags=["Data Visualization"])
+    
+    # Import and include enterprise authentication and monitoring routers
+    from .routers import enterprise_auth, enterprise_monitoring
+    app.include_router(enterprise_auth.router, prefix="/api/v1/enterprise/auth", tags=["Enterprise Authentication"])
+    app.include_router(enterprise_monitoring.router, prefix="/api/v1/enterprise/monitoring", tags=["Enterprise Monitoring"])
+    
+    # Import and include platform integration router
+    from .routers import platform_integration
+    app.include_router(platform_integration.router, prefix="/api/v1/platform", tags=["Platform Integration"])
+    
+    # Import and include production deployment router
+    from .routers import production_deployment
+    app.include_router(production_deployment.router, prefix="/api/v1/production", tags=["Production Deployment"])
+    
+    # Import and include OAuth authentication router
+    from .routers import oauth_auth
+    app.include_router(oauth_auth.router, prefix="/api/v1/oauth", tags=["OAuth Authentication"])
+    
+    # Import and include Umami analytics router
+    from .routers import umami_analytics
+    app.include_router(umami_analytics.router, prefix="/api/v1/analytics/umami", tags=["Umami Analytics"])
+    
+    # Import and include Content Management router
+    from .routers import content_management
+    app.include_router(content_management.router, prefix="/api/v1/content", tags=["Content Management"])
 
     @app.get("/")
     async def root():
@@ -154,7 +194,7 @@ def create_app() -> FastAPI:
             "security": "enabled",
             "performance": "optimized"
         }
-    
+
     @app.get("/health")
     async def health_check():
         """Health check endpoint"""
@@ -165,7 +205,7 @@ def create_app() -> FastAPI:
             "security": "enabled",
             "performance": "optimized"
         }
-    
+
     return app
 
 # Create app instance

@@ -16,7 +16,7 @@ import logging
 
 from ..dependencies import get_db, require_admin
 from ..config import settings
-from ...config.database import db_config
+from config.database import db_config
 
 router = APIRouter()
 logger = logging.getLogger("openpolicy.api.admin")

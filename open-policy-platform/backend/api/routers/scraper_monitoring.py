@@ -292,8 +292,8 @@ async def get_data_collection_stats(request: Request):
 					row = row.fetchone()
 					if row and row[0] is not None:
 						total_records = int(row[0])
-				except Exception as e:
-					logger.warning("DB count query failed: %s", e)
+			except Exception as e:
+				logger.warning("DB count query failed: %s", e)
 
 		reports_dir = getattr(request.app.state, "scraper_reports_dir", os.getcwd())
 		today = datetime.now().strftime("%Y%m%d")
@@ -431,7 +431,6 @@ async def get_failure_analysis():
 
 @router.get("/database/status")
 async def get_database_status():
-<<<<<<< HEAD
 	"""Get database status and record counts"""
 	try:
 		tables = []
@@ -462,8 +461,8 @@ async def get_database_status():
 					size_row = conn.execute(sql_text("SELECT pg_size_pretty(pg_database_size(current_database()));")).fetchone()
 					if size_row and size_row[0]:
 						db_size = size_row[0]
-				except Exception as e:
-					logger.warning("DB table/size query failed: %s", e)
+			except Exception as e:
+				logger.warning("DB table/size query failed: %s", e)
 		
 		return {
 			"database_size": db_size,

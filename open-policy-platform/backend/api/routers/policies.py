@@ -13,7 +13,7 @@ from pydantic import BaseModel
 
 from ..dependencies import get_db
 from ..config import settings
-from ...config.database import db_config
+from config.database import db_config
 
 router = APIRouter()
 

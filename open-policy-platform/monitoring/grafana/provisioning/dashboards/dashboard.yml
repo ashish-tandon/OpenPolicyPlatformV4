@@ -1,0 +1,15 @@
+# Open Policy Platform V4 - Grafana Dashboard Provisioning
+# Automatic dashboard loading and configuration
+
+apiVersion: 1
+
+providers:
+  - name: 'OpenPolicy Platform Dashboards'
+    orgId: 1
+    folder: 'OpenPolicy Platform'
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 10
+    allowUiUpdates: true
+    options:
+      path: /var/lib/grafana/dashboards

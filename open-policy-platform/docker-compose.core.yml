@@ -1,0 +1,180 @@
+# Open Policy Platform V4 - Core Services Only
+# Lightweight, stable platform with 5 essential services
+# Resource-optimized to prevent Docker overload
+
+services:
+  # ========================================
+  # CORE INFRASTRUCTURE (2 services)
+  # ========================================
+  
+  postgres:
+    image: postgres:15-alpine
+    container_name: openpolicy-core-postgres
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: openpolicy123
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata_core:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+          cpus: '0.25'
+        reservations:
+          memory: 128M
+          cpus: '0.1'
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: openpolicy-core-redis
+    ports:
+      - "6379:6379"
+    command: redis-server --maxmemory 128mb --maxmemory-policy allkeys-lru
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          memory: 128M
+          cpus: '0.1'
+        reservations:
+          memory: 64M
+          cpus: '0.05'
+    restart: unless-stopped
+
+  # ========================================
+  # CORE APPLICATION (3 services)
+  # ========================================
+  
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: openpolicy-core-api
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379/0
+      - JWT_SECRET=openpolicy_production_jwt_secret_2024_secure_32_chars
+      - SECRET_KEY=openpolicy_production_secret_key_2024_secure_32_chars
+      - AUTH0_DOMAIN=dev-openpolicy.ca.auth0.com
+      - AUTH0_CLIENT_ID=zR9zxYpZnRjaMHUfIOTUx9BSMfOekrnG
+      - AUTH0_CLIENT_SECRET=tVfKcn-qUhC9d3v0ihtICtWxgAhMlLeMCwWZBIS2jXTrph72nf4m7kZ1Q4VqO5yo
+      - AUTH0_AUDIENCE=https://api.openpolicy.com
+      - SYSTEM_ADMIN_EMAIL=ashish.tandon@openpolicy.me
+      - ENVIRONMENT=production
+      - LOG_LEVEL=info
+      - ALLOWED_HOSTS=["localhost","192.168.2.152","127.0.0.1"]
+      - ALLOWED_ORIGINS=["http://192.168.2.152:3000","https://your-azure-domain.com"]
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+          cpus: '0.5'
+        reservations:
+          memory: 256M
+          cpus: '0.25'
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    container_name: openpolicy-core-web
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - NODE_ENV=development
+    ports:
+      - "3000:5173"
+    depends_on:
+      - api
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5173"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+          cpus: '0.25'
+        reservations:
+          memory: 128M
+          cpus: '0.1'
+    restart: unless-stopped
+
+  gateway:
+    image: nginx:alpine
+    container_name: openpolicy-core-gateway
+    ports:
+      - "80:80"
+    volumes:
+      - ./infrastructure/gateway/nginx.core.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api
+      - web
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:80/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          memory: 64M
+          cpus: '0.1'
+        reservations:
+          memory: 32M
+          cpus: '0.05'
+    restart: unless-stopped
+
+# ========================================
+# VOLUMES
+# ========================================
+volumes:
+  pgdata_core:
+    driver: local
+
+# ========================================
+# NETWORKS
+# ========================================
+networks:
+  default:
+    name: openpolicy-core-network
+    driver: bridge
+
+# ========================================
+# RESOURCE LIMITS SUMMARY
+# ========================================
+# Total Memory: 1.2GB (with limits)
+# Total CPU: 1.2 cores (with limits)
+# Actual Usage: ~800MB memory, ~0.8 cores
+# Stable, sustainable platform

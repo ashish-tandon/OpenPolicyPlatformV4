@@ -1,0 +1,126 @@
+# Open Policy Platform V4 - Prometheus Configuration
+# Comprehensive monitoring configuration for all platform services
+
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+  scrape_timeout: 10s
+
+# Alerting rules
+rule_files:
+  - "rules/*.yml"
+
+# AlertManager configuration
+alerting:
+  alertmanagers:
+    - static_configs:
+        - targets:
+          - openpolicy-monitoring-alertmanager:9093
+
+# Recording rules (commented out for now)
+# recording_rules:
+#   - record: job:up
+#     expr: up
+
+# Scrape configurations
+scrape_configs:
+  # Prometheus itself
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+    metrics_path: /metrics
+    scrape_interval: 15s
+
+  # Open Policy Platform API
+  - job_name: 'openpolicy-api'
+    static_configs:
+      - targets: ['openpolicy-core-api:8000']
+    metrics_path: /metrics
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+  # Open Policy Platform Web
+  - job_name: 'openpolicy-web'
+    static_configs:
+      - targets: ['openpolicy-core-web:5173']
+    metrics_path: /metrics
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+  # PostgreSQL Database
+  - job_name: 'postgres'
+    static_configs:
+      - targets: ['openpolicy-core-postgres:5432']
+    metrics_path: /metrics
+    scrape_interval: 30s
+    scrape_timeout: 10s
+
+  # Redis Cache
+  - job_name: 'redis'
+    static_configs:
+      - targets: ['openpolicy-core-redis:6379']
+    metrics_path: /metrics
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+  # Nginx Gateway
+  - job_name: 'nginx'
+    static_configs:
+      - targets: ['openpolicy-core-gateway:80']
+    metrics_path: /metrics
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+  # Node Exporter - System metrics
+  - job_name: 'node-exporter'
+    static_configs:
+      - targets: ['openpolicy-monitoring-node-exporter:9100']
+    metrics_path: /metrics
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+  # cAdvisor - Container metrics
+  - job_name: 'cadvisor'
+    static_configs:
+      - targets: ['openpolicy-monitoring-cadvisor:8080']
+    metrics_path: /metrics
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+  # AlertManager
+  - job_name: 'alertmanager'
+    static_configs:
+      - targets: ['openpolicy-monitoring-alertmanager:9093']
+    metrics_path: /metrics
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+  # Grafana
+  - job_name: 'grafana'
+    static_configs:
+      - targets: ['openpolicy-monitoring-grafana:3000']
+    metrics_path: /metrics
+    scrape_interval: 15s
+    scrape_timeout: 10s
+
+# Additional scrape configurations for business metrics
+  - job_name: 'openpolicy-business-metrics'
+    static_configs:
+      - targets: ['openpolicy-core-api:8000']
+    metrics_path: /api/v1/metrics
+    scrape_interval: 30s
+    scrape_timeout: 15s
+
+# Health check endpoints
+  - job_name: 'health-checks'
+    static_configs:
+      - targets: 
+        - 'openpolicy-core-api:8000'
+        - 'openpolicy-core-web:5173'
+        - 'openpolicy-core-gateway:80'
+        - 'openpolicy-core-postgres:5432'
+        - 'openpolicy-core-redis:6379'
+    metrics_path: /health
+    scrape_interval: 30s
+    scrape_timeout: 10s
+    honor_labels: true
