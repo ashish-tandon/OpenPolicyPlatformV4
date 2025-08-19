@@ -1,0 +1,402 @@
+version: '3.8'
+
+services:
+  # Local PostgreSQL Database
+  postgres:
+    image: postgres:15
+    container_name: openpolicy-local-postgres
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: openpolicy123
+      POSTGRES_HOST_AUTH_METHOD: trust
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./scripts/seed_db.sql:/docker-entrypoint-initdb.d/seed_db.sql
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # Local Redis Cache
+  redis:
+    image: redis:7-alpine
+    container_name: openpolicy-local-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # Local MinIO (S3-compatible storage)
+  minio:
+    image: minio/minio:latest
+    container_name: openpolicy-local-minio
+    environment:
+      MINIO_ROOT_USER: minioadmin
+      MINIO_ROOT_PASSWORD: minio123
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio_data:/data
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    command: server /data --console-address ":9001"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # Local Vault (for secrets management)
+  vault:
+    image: vault:1.15
+    container_name: openpolicy-local-vault
+    environment:
+      VAULT_DEV_ROOT_TOKEN_ID: vault123
+      VAULT_DEV_LISTEN_ADDRESS: 0.0.0.0:8200
+    ports:
+      - "8200:8200"
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    command: server -dev
+    healthcheck:
+      test: ["CMD", "vault", "status"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+  # API Service - Local Development
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: openpolicy-local-api
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - STORAGE_URL=http://minio:9000
+      - STORAGE_ACCESS_KEY=minioadmin
+      - STORAGE_SECRET_KEY=minio123
+      - VAULT_URL=http://vault:8200
+      - VAULT_TOKEN=vault123
+      - ENVIRONMENT=development
+      - LOG_LEVEL=DEBUG
+      - ALLOWED_HOSTS=localhost,127.0.0.1,0.0.0.0
+      - ALLOWED_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+      - JWT_SECRET=local-development-secret-key-for-jwt-tokens
+      - AUTH0_DOMAIN=local
+      - AUTH0_CLIENT_ID=local
+      - AUTH0_CLIENT_SECRET=local
+      - AUTH0_AUDIENCE=local
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+      vault:
+        condition: service_healthy
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    volumes:
+      - ./backend:/app
+      - /app/__pycache__
+      - /app/.pytest_cache
+
+  # Web Frontend - Local Development
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    container_name: openpolicy-local-web
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - VITE_APP_NAME=Open Policy Platform (Local)
+      - VITE_STORAGE_URL=http://localhost:9000
+    ports:
+      - "3000:5173"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5173/ || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    volumes:
+      - ./web:/app
+      - /app/node_modules
+
+  # Scraper Service - Local Development
+  scraper:
+    build:
+      context: ./services/scraper-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-local-scraper
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - STORAGE_URL=http://minio:9000
+      - STORAGE_ACCESS_KEY=minioadmin
+      - STORAGE_SECRET_KEY=minio123
+      - LOG_LEVEL=DEBUG
+      - SCRAPER_INTERVAL=300
+      - SCRAPER_REPORTS_DIR=/app/reports
+      - SCRAPER_LOGS_DIR=/app/logs
+    volumes:
+      - scraper_reports:/app/reports
+      - scraper_logs:/app/logs
+      - ./services/scraper-service:/app
+      - /app/__pycache__
+    ports:
+      - "9008:9008"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+      api:
+        condition: service_healthy
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9008/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Auth Service - Local Development
+  auth:
+    build:
+      context: ./services/auth-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-local-auth
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - VAULT_URL=http://vault:8200
+      - VAULT_TOKEN=vault123
+      - JWT_SECRET=local-development-secret-key-for-jwt-tokens
+      - LOG_LEVEL=DEBUG
+    ports:
+      - "8001:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      vault:
+        condition: service_healthy
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Policy Service - Local Development
+  policy:
+    build:
+      context: ./services/policy-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-local-policy
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - API_URL=http://api:8000
+      - LOG_LEVEL=DEBUG
+    ports:
+      - "8002:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      api:
+        condition: service_healthy
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Data Management Service - Local Development
+  data-management:
+    build:
+      context: ./services/data-management-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-local-data-management
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - STORAGE_URL=http://minio:9000
+      - STORAGE_ACCESS_KEY=minioadmin
+      - STORAGE_SECRET_KEY=minio123
+      - LOG_LEVEL=DEBUG
+    ports:
+      - "8003:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      minio:
+        condition: service_healthy
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Search Service - Local Development
+  search:
+    build:
+      context: ./services/search-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-local-search
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+      - LOG_LEVEL=DEBUG
+    ports:
+      - "8004:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      elasticsearch:
+        condition: service_healthy
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Elasticsearch for Search Service
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+    container_name: openpolicy-local-elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - "9200:9200"
+    volumes:
+      - elasticsearch_data:/usr/share/elasticsearch/data
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Prometheus - Local Monitoring
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: openpolicy-local-prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention.time=200h'
+      - '--web.enable-lifecycle'
+    volumes:
+      - ./monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    ports:
+      - "9090:9090"
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+
+  # Grafana - Local Dashboards
+  grafana:
+    image: grafana/grafana:latest
+    container_name: openpolicy-local-grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
+    ports:
+      - "3001:3000"
+    depends_on:
+      - prometheus
+    networks:
+      - openpolicy-local-network
+    restart: unless-stopped
+
+networks:
+  openpolicy-local-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
+  redis_data:
+  minio_data:
+  elasticsearch_data:
+  prometheus_data:
+  grafana_data:
+  scraper_reports:
+  scraper_logs:
