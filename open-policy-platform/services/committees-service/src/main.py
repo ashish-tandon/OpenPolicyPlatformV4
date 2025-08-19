@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Response, HTTPException, Depends, Query
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from prometheus_client import CONTENT_TYPE_LATEST, generate_latest
-from typing import List, Optional
+from typing import List, Optional, Dict, Any
 import os
 import logging
 from datetime import datetime

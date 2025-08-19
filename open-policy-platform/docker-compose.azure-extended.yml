@@ -1,0 +1,255 @@
+version: '3.8'
+
+# 🚀 Open Policy Platform V4 - Extended Azure Deployment
+# This file deploys the core services plus key additional services
+
+services:
+  # Core API Service
+  api:
+    image: openpolicyacr.azurecr.io/openpolicy-api:latest
+    container_name: openpolicy-azure-api
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - ENVIRONMENT=production
+      - LOG_LEVEL=INFO
+      - ALLOWED_HOSTS=localhost,127.0.0.1,0.0.0.0
+      - ALLOWED_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+      - JWT_SECRET=${AZURE_JWT_SECRET}
+      - AUTH0_DOMAIN=${AUTH0_DOMAIN}
+      - AUTH0_CLIENT_ID=${AUTH0_CLIENT_ID}
+      - AUTH0_CLIENT_SECRET=${AUTH0_CLIENT_SECRET}
+      - AUTH0_AUDIENCE=${AUTH0_AUDIENCE}
+    ports:
+      - "8000:8000"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Web Frontend
+  web:
+    image: openpolicyacr.azurecr.io/openpolicy-web:latest
+    container_name: openpolicy-azure-web
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - VITE_APP_NAME=Open Policy Platform V4
+    ports:
+      - "3000:5173"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5173/ || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Scraper Service
+  scraper:
+    build:
+      context: ./services/scraper-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-azure-scraper
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - LOG_LEVEL=INFO
+      - SCRAPER_INTERVAL=300
+      - SCRAPER_REPORTS_DIR=/app/reports
+      - SCRAPER_LOGS_DIR=/app/logs
+    volumes:
+      - scraper_reports:/app/reports
+      - scraper_logs:/app/logs
+    ports:
+      - "9008:9008"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9008/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Auth Service
+  auth:
+    build:
+      context: ./services/auth-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-azure-auth
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - JWT_SECRET=${AZURE_JWT_SECRET}
+      - LOG_LEVEL=INFO
+    ports:
+      - "8001:8000"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Policy Service
+  policy:
+    build:
+      context: ./services/policy-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-azure-policy
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - API_URL=http://api:8000
+      - LOG_LEVEL=INFO
+    ports:
+      - "8002:8000"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Data Management Service
+  data-management:
+    build:
+      context: ./services/data-management-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-azure-data-management
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - LOG_LEVEL=INFO
+    ports:
+      - "8003:8000"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Search Service
+  search:
+    build:
+      context: ./services/search-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-azure-search
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - LOG_LEVEL=INFO
+    ports:
+      - "8004:8000"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Dashboard Service
+  dashboard:
+    build:
+      context: ./services/dashboard-service
+      dockerfile: Dockerfile
+    container_name: openpolicy-azure-dashboard
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - API_URL=http://api:8000
+      - LOG_LEVEL=INFO
+    ports:
+      - "8006:8000"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Prometheus Monitoring
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: openpolicy-azure-prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention.time=200h'
+      - '--web.enable-lifecycle'
+    volumes:
+      - ./monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - prometheus_data:/prometheus
+    ports:
+      - "9090:9090"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+  # Grafana Dashboards
+  grafana:
+    image: grafana/grafana:latest
+    container_name: openpolicy-azure-grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
+    ports:
+      - "3001:3000"
+    depends_on:
+      - prometheus
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+networks:
+  openpolicy-azure-network:
+    driver: bridge
+
+volumes:
+  prometheus_data:
+  grafana_data:
+  scraper_reports:
+  scraper_logs:

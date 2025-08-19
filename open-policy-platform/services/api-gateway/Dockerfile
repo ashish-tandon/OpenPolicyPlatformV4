@@ -5,6 +5,7 @@ RUN go mod init api-gateway || true && go mod tidy && go build -o /out/api-gatew
 
 FROM alpine:3.20
 WORKDIR /app
+RUN apk add --no-cache curl
 COPY --from=build /out/api-gateway /app/api-gateway
-EXPOSE 9000
+EXPOSE 8000
 CMD ["/app/api-gateway"]

@@ -1,5 +1,7 @@
 from fastapi import FastAPI, Response
-from datetime import datetimefrom prometheus_client import CONTENT_TYPE_LATEST, generate_latest
+from datetime import datetime
+from prometheus_client import CONTENT_TYPE_LATEST, generate_latest
+from typing import Dict, Any
 
 app = FastAPI(title="mcp-service")
 
