@@ -1,0 +1,72 @@
+{
+  "qnap": {
+    "ip_address": "192.168.2.152",
+    "port": 8080,
+    "username": "ashish101",
+    "password": "Pergola@41",
+    "ssh_key_path": "~/.ssh/openpolicy_qnap_key",
+    "ssh_port": 22
+  },
+  "container_station": {
+    "type": "non_standard_docker",
+    "docker_compose_path": "/share/Container/Compose",
+    "volumes_path": "/share/Container/Volumes",
+    "logs_path": "/share/Container/Logs",
+    "backup_path": "/share/Container/Backup"
+  },
+  "deployment": {
+    "project_name": "open-policy-platform",
+    "target_directory": "/share/Container/open-policy-platform",
+    "backup_enabled": true,
+    "monitoring_enabled": true,
+    "ssl_enabled": true,
+    "auto_restart": true
+  },
+  "services": {
+    "postgresql": {
+      "data_path": "/share/Container/Volumes/openpolicy/postgresql",
+      "backup_path": "/share/Container/Backup/openpolicy/postgresql",
+      "port": 5432
+    },
+    "redis": {
+      "data_path": "/share/Container/Volumes/openpolicy/redis",
+      "backup_path": "/share/Container/Backup/openpolicy/redis",
+      "port": 6379
+    },
+    "api": {
+      "port": 8000,
+      "logs_path": "/share/Container/Logs/openpolicy/api"
+    },
+    "web": {
+      "port": 3000,
+      "logs_path": "/share/Container/Logs/openpolicy/web"
+    },
+    "gateway": {
+      "port": 80,
+      "ssl_port": 443,
+      "logs_path": "/share/Container/Logs/openpolicy/gateway"
+    },
+    "monitoring": {
+      "prometheus_port": 9090,
+      "grafana_port": 3001,
+      "alertmanager_port": 9093,
+      "logs_path": "/share/Container/Logs/openpolicy/monitoring"
+    }
+  },
+  "network": {
+    "subnet": "172.20.0.0/16",
+    "gateway": "172.20.0.1",
+    "dns": ["8.8.8.8", "8.8.4.4"]
+  },
+  "security": {
+    "ssl_cert_path": "/share/Container/SSL/openpolicy",
+    "firewall_rules": [
+      "Allow port 80 (HTTP)",
+      "Allow port 443 (HTTPS)",
+      "Allow port 22 (SSH)",
+      "Allow port 8000 (API)",
+      "Allow port 3000 (Web)",
+      "Allow port 3001 (Grafana)"
+    ]
+  }
+}

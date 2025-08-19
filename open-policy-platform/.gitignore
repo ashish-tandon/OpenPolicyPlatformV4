@@ -1,80 +1,61 @@
-# Open Policy Platform V4 - Git Ignore File
-# Protects sensitive credentials and environment-specific configurations
+# Open Policy Platform V4 - Comprehensive .gitignore
 
-# =============================================================================
-# ENVIRONMENT & CREDENTIAL FILES
-# =============================================================================
-.env
-.env.local
-.env.production
-.env.staging
-.env.development
-.env.*.local
-.env.*.production
-.env.*.staging
+# Environment Variables & Secrets
+.env*
+*.env
+env.azure*
+env.local*
+env.production*
+env.staging*
+env.development*
 
-# =============================================================================
-# AUTH0 & SECURITY CREDENTIALS
-# =============================================================================
-auth0-config.json
-auth0-credentials.json
+# Azure Configuration Files
+azure-config.json
+azure-secrets.json
 *.pem
 *.key
 *.crt
 *.p12
-*.pfx
 
-# =============================================================================
-# DATABASE CREDENTIALS & CONNECTIONS
-# =============================================================================
-database-config.json
-db-credentials.json
+# Database Files
 *.db
 *.sqlite
 *.sqlite3
+*.psql
+*.dump
 
-# =============================================================================
-# LARGE DATABASE FILES (GitHub size limit: 100MB)
-# =============================================================================
-openparliament.public.sql
-*.sql
-scrapers-data/**/*.sql
-scrapers-data/**/openparliament.public.sql
-
-# =============================================================================
-# AZURE & QNAP CONFIGURATIONS
-# =============================================================================
-azure-config.json
-qnap-config.json
-azure-credentials.json
-qnap-credentials.json
-
-# =============================================================================
-# SSH KEYS & ACCESS TOKENS
-# =============================================================================
-*.pem
-*.key
-*.pub
-ssh/
-.ssh/
-id_rsa*
-id_ed25519*
-openpolicy_qnap_key*
-
-# =============================================================================
-# LOGS & TEMPORARY FILES
-# =============================================================================
-logs/
+# Logs
 *.log
-*.tmp
-*.temp
-*.swp
-*.swo
-*~
+logs/
+log/
+*.out
 
-# =============================================================================
-# PYTHON & NODE MODULES
-# =============================================================================
+# Runtime Data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Grunt intermediate storage
+.grunt
+
+# Bower dependency directory
+bower_components
+
+# node_modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -97,92 +78,159 @@ wheels/
 *.egg
 MANIFEST
 
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# PyInstaller
+*.manifest
+*.spec
 
-# =============================================================================
-# DOCKER & CONTAINER FILES
-# =============================================================================
-.dockerignore
-docker-compose.override.yml
-docker-compose.*.local.yml
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
 
-# =============================================================================
-# IDE & EDITOR FILES
-# =============================================================================
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-.DS_Store
-Thumbs.db
-
-# =============================================================================
-# BACKUP & ARCHIVE FILES
-# =============================================================================
-*.bak
-*.backup
-*.old
-*.orig
-*.save
-*.tar
-*.gz
-*.zip
-*.rar
-*.7z
-
-# =============================================================================
-# TEST & COVERAGE FILES
-# =============================================================================
-.coverage
-.pytest_cache/
+# Unit test / coverage reports
+htmlcov/
 .tox/
+.coverage
+.coverage.*
 .cache
 nosetests.xml
 coverage.xml
 *.cover
 .hypothesis/
+.pytest_cache/
 
-# =============================================================================
-# PLATFORM SPECIFIC
-# =============================================================================
-# QNAP specific
-.qnap/
-.qnap-backup/
+# Translations
+*.mo
+*.pot
 
-# Azure specific
-.azure/
-azure-deployment-logs/
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
 
-# =============================================================================
-# MONITORING & METRICS
-# =============================================================================
-prometheus-data/
-grafana-data/
-alertmanager-data/
-monitoring-logs/
+# Flask stuff:
+instance/
+.webassets-cache
 
-# =============================================================================
-# UPLOADED FILES & USER CONTENT
-# =============================================================================
-uploads/
-user-content/
-scraped-data/
-reports/
-data-exports/
+# Scrapy stuff:
+.scrapy
 
-# =============================================================================
-# SECRETS & KEYS (ADDITIONAL PROTECTION)
-# =============================================================================
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Kubernetes
+*.kubeconfig
+kubeconfig
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Ansible
+*.retry
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Build artifacts
+build/
+dist/
+target/
+out/
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+
+# Local configuration
+config.local.*
+settings.local.*
+
+# Test files
+test-results/
+test-output/
+coverage/
+
+# Backup files
+*.backup
+*.old
+*.orig
+
+# Cache directories
+.cache/
+cache/
+tmp/
+
+# Sensitive data
 secrets/
 keys/
 certificates/
-*.secret
-*.key
-*.pem
-*.crt
-*.p12
-*.pfx
+passwords.txt
+credentials.json
