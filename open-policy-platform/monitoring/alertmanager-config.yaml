@@ -1,0 +1,183 @@
+global:
+  # Global configuration
+  resolve_timeout: 5m
+  
+  # SMTP configuration for email alerts
+  smtp_smarthost: 'smtp.gmail.com:587'
+  smtp_from: 'alerts@openpolicyplatform.com'
+  smtp_auth_username: 'alerts@openpolicyplatform.com'
+  smtp_auth_password: 'your-smtp-password'  # Use environment variable in production
+  smtp_require_tls: true
+
+  # Slack configuration
+  slack_api_url: 'https://hooks.slack.com/services/YOUR/SLACK/WEBHOOK'  # Use environment variable
+
+# Templates for notifications
+templates:
+  - '/etc/alertmanager/templates/*.tmpl'
+
+# Route tree for alerts
+route:
+  # Default receiver
+  receiver: 'platform-team'
+  
+  # Group alerts together
+  group_by: ['alertname', 'cluster', 'service']
+  group_wait: 10s
+  group_interval: 10s
+  repeat_interval: 12h
+  
+  # Child routes for specific alert routing
+  routes:
+    # Critical alerts go to PagerDuty and Slack
+    - match:
+        severity: critical
+      receiver: critical-alerts
+      continue: true
+      
+    # Database alerts go to DBA team
+    - match:
+        team: database
+      receiver: database-team
+      
+    # Security alerts go to security team
+    - match:
+        team: security
+      receiver: security-team
+      
+    # Infrastructure alerts
+    - match:
+        team: infrastructure
+      receiver: infrastructure-team
+
+# Inhibition rules to prevent alert storms
+inhibit_rules:
+  # Inhibit warning alerts if critical alert is firing
+  - source_match:
+      severity: 'critical'
+    target_match:
+      severity: 'warning'
+    equal: ['alertname', 'cluster', 'service']
+    
+  # Inhibit info alerts if warning alert is firing
+  - source_match:
+      severity: 'warning'
+    target_match:
+      severity: 'info'
+    equal: ['alertname', 'cluster', 'service']
+
+# Receivers configuration
+receivers:
+  # Default platform team receiver
+  - name: 'platform-team'
+    email_configs:
+      - to: 'platform-team@openpolicyplatform.com'
+        headers:
+          Subject: '[{{ .Status | toUpper }}] Platform Alert: {{ .GroupLabels.alertname }}'
+        html: |
+          <h2>{{ .Status | toUpper }}: {{ .GroupLabels.alertname }}</h2>
+          <p><strong>Summary:</strong> {{ range .Alerts }}{{ .Annotations.summary }}{{ end }}</p>
+          <p><strong>Description:</strong> {{ range .Alerts }}{{ .Annotations.description }}{{ end }}</p>
+          <p><strong>Severity:</strong> {{ .CommonLabels.severity }}</p>
+          <p><strong>Service:</strong> {{ .CommonLabels.service }}</p>
+          <h3>Alerts:</h3>
+          <ul>
+          {{ range .Alerts }}
+            <li>
+              <strong>{{ .Labels.alertname }}</strong><br>
+              Started: {{ .StartsAt.Format "2006-01-02 15:04:05 MST" }}<br>
+              {{ if .Annotations.runbook }}Runbook: <a href="{{ .Annotations.runbook }}">{{ .Annotations.runbook }}</a>{{ end }}
+            </li>
+          {{ end }}
+          </ul>
+    slack_configs:
+      - channel: '#platform-alerts'
+        title: '{{ .Status | toUpper }}: {{ .GroupLabels.alertname }}'
+        text: '{{ range .Alerts }}{{ .Annotations.summary }}{{ end }}'
+        color: '{{ if eq .Status "firing" }}danger{{ else }}good{{ end }}'
+        fields:
+          - title: 'Severity'
+            value: '{{ .CommonLabels.severity }}'
+            short: true
+          - title: 'Service'
+            value: '{{ .CommonLabels.service }}'
+            short: true
+
+  # Critical alerts receiver (PagerDuty + Slack + Email)
+  - name: 'critical-alerts'
+    pagerduty_configs:
+      - service_key: 'YOUR-PAGERDUTY-SERVICE-KEY'  # Use environment variable
+        description: '{{ .GroupLabels.alertname }}: {{ range .Alerts }}{{ .Annotations.summary }}{{ end }}'
+        details:
+          severity: '{{ .CommonLabels.severity }}'
+          service: '{{ .CommonLabels.service }}'
+          cluster: '{{ .CommonLabels.cluster }}'
+    slack_configs:
+      - channel: '#critical-alerts'
+        title: '🚨 CRITICAL: {{ .GroupLabels.alertname }}'
+        text: '{{ range .Alerts }}{{ .Annotations.summary }}{{ end }}'
+        color: 'danger'
+        fields:
+          - title: 'Service'
+            value: '{{ .CommonLabels.service }}'
+            short: true
+          - title: 'Environment'
+            value: '{{ .CommonLabels.environment }}'
+            short: true
+    email_configs:
+      - to: 'oncall@openpolicyplatform.com,platform-lead@openpolicyplatform.com'
+        headers:
+          Subject: '🚨 [CRITICAL] {{ .GroupLabels.alertname }}'
+          Priority: 'urgent'
+
+  # Database team receiver
+  - name: 'database-team'
+    email_configs:
+      - to: 'database-team@openpolicyplatform.com'
+        headers:
+          Subject: '[{{ .Status | toUpper }}] Database Alert: {{ .GroupLabels.alertname }}'
+    slack_configs:
+      - channel: '#database-alerts'
+        title: 'Database {{ .Status | toUpper }}: {{ .GroupLabels.alertname }}'
+        text: '{{ range .Alerts }}{{ .Annotations.description }}{{ end }}'
+
+  # Security team receiver
+  - name: 'security-team'
+    email_configs:
+      - to: 'security-team@openpolicyplatform.com'
+        headers:
+          Subject: '[SECURITY] {{ .GroupLabels.alertname }}'
+          Priority: 'high'
+    slack_configs:
+      - channel: '#security-alerts'
+        title: '🔒 Security Alert: {{ .GroupLabels.alertname }}'
+        text: '{{ range .Alerts }}{{ .Annotations.description }}{{ end }}'
+        color: 'warning'
+    webhook_configs:
+      - url: 'https://security-siem.openpolicyplatform.com/webhook/alerts'
+        send_resolved: true
+
+  # Infrastructure team receiver
+  - name: 'infrastructure-team'
+    email_configs:
+      - to: 'infrastructure-team@openpolicyplatform.com'
+    slack_configs:
+      - channel: '#infrastructure-alerts'
+        title: 'Infrastructure {{ .Status | toUpper }}: {{ .GroupLabels.alertname }}'
+        text: '{{ range .Alerts }}{{ .Annotations.summary }}{{ end }}'
+        
+# Mute time periods (for scheduled maintenance)
+mute_time_intervals:
+  - name: 'weekend-maintenance'
+    time_intervals:
+      - times:
+          - start_time: '00:00'
+            end_time: '06:00'
+        weekdays: ['saturday', 'sunday']
+        
+  - name: 'weekly-maintenance'
+    time_intervals:
+      - times:
+          - start_time: '02:00'
+            end_time: '04:00'
+        weekdays: ['wednesday']

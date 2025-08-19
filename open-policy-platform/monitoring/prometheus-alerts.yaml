@@ -1,0 +1,209 @@
+groups:
+  - name: platform-critical
+    interval: 30s
+    rules:
+      # Service Down Alerts
+      - alert: ServiceDown
+        expr: up{job=~".*-service"} == 0
+        for: 2m
+        labels:
+          severity: critical
+          team: platform
+        annotations:
+          summary: "Service {{ $labels.job }} is down"
+          description: "{{ $labels.job }} has been down for more than 2 minutes."
+          runbook: "https://docs.openpolicy.com/runbooks/service-down"
+
+      # API Gateway High Error Rate
+      - alert: APIGatewayHighErrorRate
+        expr: |
+          rate(http_requests_total{job="api-gateway",status=~"5.."}[5m]) > 0.05
+        for: 5m
+        labels:
+          severity: critical
+          team: platform
+        annotations:
+          summary: "High error rate on API Gateway"
+          description: "API Gateway error rate is {{ $value | humanizePercentage }} for the last 5 minutes"
+          dashboard: "https://grafana.openpolicy.com/d/api-gateway"
+
+      # Database Connection Pool Exhausted
+      - alert: DatabaseConnectionPoolExhausted
+        expr: |
+          pg_stat_database_numbackends{datname="openpolicy"} / pg_settings_max_connections > 0.9
+        for: 5m
+        labels:
+          severity: critical
+          team: database
+        annotations:
+          summary: "Database connection pool nearly exhausted"
+          description: "PostgreSQL connection pool is {{ $value | humanizePercentage }} full"
+          runbook: "https://docs.openpolicy.com/runbooks/db-connections"
+
+  - name: platform-warning
+    interval: 60s
+    rules:
+      # High Memory Usage
+      - alert: HighMemoryUsage
+        expr: |
+          (1 - (node_memory_MemAvailable_bytes / node_memory_MemTotal_bytes)) > 0.85
+        for: 10m
+        labels:
+          severity: warning
+          team: infrastructure
+        annotations:
+          summary: "High memory usage on {{ $labels.instance }}"
+          description: "Memory usage is {{ $value | humanizePercentage }} on {{ $labels.instance }}"
+
+      # High CPU Usage
+      - alert: HighCPUUsage
+        expr: |
+          100 - (avg by (instance) (irate(node_cpu_seconds_total{mode="idle"}[5m])) * 100) > 80
+        for: 10m
+        labels:
+          severity: warning
+          team: infrastructure
+        annotations:
+          summary: "High CPU usage on {{ $labels.instance }}"
+          description: "CPU usage is {{ $value }}% on {{ $labels.instance }}"
+
+      # Disk Space Warning
+      - alert: DiskSpaceWarning
+        expr: |
+          (node_filesystem_avail_bytes{mountpoint="/"} / node_filesystem_size_bytes{mountpoint="/"}) < 0.15
+        for: 5m
+        labels:
+          severity: warning
+          team: infrastructure
+        annotations:
+          summary: "Low disk space on {{ $labels.instance }}"
+          description: "Only {{ $value | humanizePercentage }} disk space remaining on {{ $labels.instance }}"
+
+      # Redis Memory Usage
+      - alert: RedisHighMemoryUsage
+        expr: |
+          redis_memory_used_bytes / redis_memory_max_bytes > 0.8
+        for: 5m
+        labels:
+          severity: warning
+          team: database
+        annotations:
+          summary: "Redis memory usage is high"
+          description: "Redis is using {{ $value | humanizePercentage }} of available memory"
+
+      # Elasticsearch Cluster Health
+      - alert: ElasticsearchClusterYellow
+        expr: |
+          elasticsearch_cluster_health_status{color="yellow"} == 1
+        for: 10m
+        labels:
+          severity: warning
+          team: search
+        annotations:
+          summary: "Elasticsearch cluster health is yellow"
+          description: "Elasticsearch cluster has been in yellow state for 10 minutes"
+
+  - name: service-performance
+    interval: 30s
+    rules:
+      # API Response Time
+      - alert: APIHighResponseTime
+        expr: |
+          histogram_quantile(0.95, rate(http_request_duration_seconds_bucket[5m])) > 1
+        for: 10m
+        labels:
+          severity: warning
+          team: platform
+        annotations:
+          summary: "High API response time on {{ $labels.service }}"
+          description: "95th percentile response time is {{ $value }}s for {{ $labels.service }}"
+
+      # Queue Backlog
+      - alert: QueueBacklog
+        expr: |
+          rabbitmq_queue_messages_ready > 10000
+        for: 10m
+        labels:
+          severity: warning
+          team: platform
+        annotations:
+          summary: "High message backlog in {{ $labels.queue }}"
+          description: "{{ $value }} messages waiting in queue {{ $labels.queue }}"
+
+      # Scraper Failures
+      - alert: ScraperHighFailureRate
+        expr: |
+          rate(scraper_failures_total[1h]) > 0.1
+        for: 30m
+        labels:
+          severity: warning
+          team: data
+        annotations:
+          summary: "High scraper failure rate for {{ $labels.scraper }}"
+          description: "Scraper {{ $labels.scraper }} has {{ $value }} failures per second"
+
+  - name: business-metrics
+    interval: 60s
+    rules:
+      # No New Data
+      - alert: NoNewPolicyData
+        expr: |
+          increase(policies_created_total[1h]) == 0
+        for: 2h
+        labels:
+          severity: warning
+          team: data
+        annotations:
+          summary: "No new policies created in 2 hours"
+          description: "Policy scraper may be having issues - no new policies for 2 hours"
+
+      # Search Service Degraded
+      - alert: SearchServiceDegraded
+        expr: |
+          rate(search_requests_failed_total[5m]) / rate(search_requests_total[5m]) > 0.05
+        for: 10m
+        labels:
+          severity: warning
+          team: search
+        annotations:
+          summary: "Search service experiencing high failure rate"
+          description: "{{ $value | humanizePercentage }} of search requests are failing"
+
+      # Authentication Failures
+      - alert: HighAuthenticationFailures
+        expr: |
+          rate(auth_login_failures_total[5m]) > 10
+        for: 5m
+        labels:
+          severity: warning
+          team: security
+        annotations:
+          summary: "High rate of authentication failures"
+          description: "{{ $value }} failed login attempts per second"
+
+  - name: security-alerts
+    interval: 30s
+    rules:
+      # Suspicious Activity
+      - alert: SuspiciousAPIActivity
+        expr: |
+          rate(http_requests_total{status="403"}[5m]) > 1
+        for: 5m
+        labels:
+          severity: warning
+          team: security
+        annotations:
+          summary: "Suspicious API activity detected"
+          description: "{{ $value }} forbidden requests per second from {{ $labels.source_ip }}"
+
+      # SSL Certificate Expiry
+      - alert: SSLCertificateExpiringSoon
+        expr: |
+          probe_ssl_earliest_cert_expiry - time() < 7 * 24 * 60 * 60
+        for: 1h
+        labels:
+          severity: warning
+          team: infrastructure
+        annotations:
+          summary: "SSL certificate expiring soon for {{ $labels.instance }}"
+          description: "SSL certificate for {{ $labels.instance }} expires in {{ $value | humanizeDuration }}"
