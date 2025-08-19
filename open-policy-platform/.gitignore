@@ -17,12 +17,26 @@ azure-secrets.json
 *.crt
 *.p12
 
-# Database Files
+# Database Files - EXCLUDING ALL LARGE FILES
 *.db
 *.sqlite
 *.sqlite3
 *.psql
 *.dump
+*.sql
+database-exports/
+migrations/
+data-exports/
+backup/
+*.backup.sql
+*.full.sql
+*.data.sql
+*.schema.sql
+openparliament.public.sql
+expand_database_structure.sql
+populate_database_with_data.sql
+init_azure_database.sql
+qnap-config.json
 
 # Logs
 *.log
@@ -234,3 +248,17 @@ keys/
 certificates/
 passwords.txt
 credentials.json
+
+# Large files and data
+*.csv
+*.xlsx
+*.xls
+*.json
+scrapers-data/
+data-dumps/
+exports/
+backups/
+*.export
+*.dump
+*.backup
+*.archive
