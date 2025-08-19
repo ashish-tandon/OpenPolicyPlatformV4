@@ -39,27 +39,55 @@ echo -e "${CYAN}📋 Required Secrets for Each Repository:${NC}"
 echo "=================================================="
 
 # Core secrets needed
-declare -A SECRETS
-SECRETS["REPO_SYNC_TOKEN"]="GitHub token for cross-repository synchronization"
-SECRETS["DOCKER_REGISTRY_TOKEN"]="Token for GitHub Container Registry access"
-SECRETS["DEV_SSH_PRIVATE_KEY"]="SSH private key for laptop deployment"
-SECRETS["DEV_SSH_USER"]="SSH username for laptop (usually your username)"
-SECRETS["DEV_SSH_HOST"]="SSH hostname for laptop (localhost or 127.0.0.1)"
-SECRETS["QNAP_SSH_PRIVATE_KEY"]="SSH private key for QNAP staging server"
-SECRETS["QNAP_SSH_USER"]="SSH username for QNAP (usually admin)"
-SECRETS["QNAP_SSH_HOST"]="QNAP server IP address (e.g., 192.168.1.100)"
-SECRETS["AZURE_CREDENTIALS"]="Azure service principal credentials (JSON)"
-SECRETS["AZURE_RESOURCE_GROUP"]="Azure resource group name for production"
-SECRETS["AZURE_AKS_CLUSTER"]="Azure Kubernetes cluster name"
+# Core secrets needed
+SECRETS_REPO_SYNC_TOKEN="GitHub token for cross-repository synchronization"
+SECRETS_DOCKER_REGISTRY_TOKEN="Token for GitHub Container Registry access"
+SECRETS_DEV_SSH_PRIVATE_KEY="SSH private key for laptop deployment"
+SECRETS_DEV_SSH_USER="SSH username for laptop (usually your username)"
+SECRETS_DEV_SSH_HOST="SSH hostname for laptop (localhost or 127.0.0.1)"
+SECRETS_QNAP_SSH_PRIVATE_KEY="SSH private key for QNAP staging server"
+SECRETS_QNAP_SSH_USER="SSH username for QNAP (usually admin)"
+SECRETS_QNAP_SSH_HOST="QNAP server IP address (e.g., 192.168.1.100)"
+SECRETS_AZURE_CREDENTIALS="Azure service principal credentials (JSON)"
+SECRETS_AZURE_RESOURCE_GROUP="Azure resource group name for production"
+SECRETS_AZURE_AKS_CLUSTER="Azure Kubernetes cluster name"
 
 echo -e "${YELLOW}📋 Required Secrets for Each Repository:${NC}"
 echo "=================================================="
 
-for secret in "${!SECRETS[@]}"; do
-    echo -e "${CYAN}🔐 $secret${NC}"
-    echo -e "   ${SECRETS[$secret]}"
-    echo
-done
+echo -e "${CYAN}🔐 REPO_SYNC_TOKEN${NC}"
+echo -e "   ${SECRETS_REPO_SYNC_TOKEN}"
+echo
+echo -e "${CYAN}🔐 DOCKER_REGISTRY_TOKEN${NC}"
+echo -e "   ${SECRETS_DOCKER_REGISTRY_TOKEN}"
+echo
+echo -e "${CYAN}🔐 DEV_SSH_PRIVATE_KEY${NC}"
+echo -e "   ${SECRETS_DEV_SSH_PRIVATE_KEY}"
+echo
+echo -e "${CYAN}🔐 DEV_SSH_USER${NC}"
+echo -e "   ${SECRETS_DEV_SSH_USER}"
+echo
+echo -e "${CYAN}🔐 DEV_SSH_HOST${NC}"
+echo -e "   ${SECRETS_DEV_SSH_HOST}"
+echo
+echo -e "${CYAN}🔐 QNAP_SSH_PRIVATE_KEY${NC}"
+echo -e "   ${SECRETS_QNAP_SSH_PRIVATE_KEY}"
+echo
+echo -e "${CYAN}🔐 QNAP_SSH_USER${NC}"
+echo -e "   ${SECRETS_QNAP_SSH_USER}"
+echo
+echo -e "${CYAN}🔐 QNAP_SSH_HOST${NC}"
+echo -e "   ${SECRETS_QNAP_SSH_HOST}"
+echo
+echo -e "${CYAN}🔐 AZURE_CREDENTIALS${NC}"
+echo -e "   ${SECRETS_AZURE_CREDENTIALS}"
+echo
+echo -e "${CYAN}🔐 AZURE_RESOURCE_GROUP${NC}"
+echo -e "   ${SECRETS_AZURE_RESOURCE_GROUP}"
+echo
+echo -e "${CYAN}🔐 AZURE_AKS_CLUSTER${NC}"
+echo -e "   ${SECRETS_AZURE_AKS_CLUSTER}"
+echo
 
 echo -e "${GREEN}==================================================${NC}"
 echo -e "${GREEN}📝 SETUP INSTRUCTIONS${NC}"
