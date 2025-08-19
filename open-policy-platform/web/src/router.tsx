@@ -23,6 +23,7 @@ import AdminSystem from './pages/admin/system';
 import AdminLogin from './pages/admin/login';
 import AdminApiDocs from './pages/admin/api-docs';
 import AdminEntities from './pages/admin/entities';
+import AdminUsers from './pages/admin/users';
 
 // Protected Route Component
 import ProtectedRoute from './components/shared/ProtectedRoute';
@@ -126,6 +127,10 @@ export const router = createBrowserRouter([
           {
             path: '/admin/api-docs',
             element: <AdminApiDocs />,
+          },
+          {
+            path: '/admin/users',
+            element: <AdminUsers />,
           },
         ],
       },
