@@ -1,0 +1,32 @@
+{{ define "slack.default.title" }}
+[{{ .Status | toUpper }}{{ if eq .Status "firing" }}:{{ .Alerts.Firing | len }}{{ end }}] {{ .GroupLabels.alertname }}
+{{ end }}
+
+{{ define "slack.default.text" }}
+{{ range .Alerts }}
+{{ if .Annotations.summary }}*Summary:* {{ .Annotations.summary }}{{ end }}
+{{ if .Annotations.description }}*Description:* {{ .Annotations.description }}{{ end }}
+
+*Details:*
+{{ range .Labels.SortedPairs }} • *{{ .Name }}:* `{{ .Value }}`
+{{ end }}
+
+{{ if .Annotations.runbook_url }}*Runbook:* <{{ .Annotations.runbook_url }}|View Runbook>{{ end }}
+{{ if .GeneratorURL }}*Source:* <{{ .GeneratorURL }}|View in Prometheus>{{ end }}
+
+---
+{{ end }}
+{{ end }}
+
+{{ define "slack.default.footer" }}
+{{ if eq .Status "resolved" }}✅ Resolved after {{ .Alerts.Resolved | len }} alerts{{ else }}🔥 {{ .Alerts.Firing | len }} alerts firing{{ end }}
+{{ end }}
+
+{{ define "slack.critical.title" }}
+🚨 *CRITICAL ALERT* 🚨
+{{ .GroupLabels.alertname }} - {{ .GroupLabels.service }}
+{{ end }}
+
+{{ define "slack.critical.color" }}
+{{ if eq .Status "firing" }}#FF0000{{ else }}#00FF00{{ end }}
+{{ end }}

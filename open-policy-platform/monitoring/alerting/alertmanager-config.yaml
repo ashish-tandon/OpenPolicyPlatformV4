@@ -1,0 +1,142 @@
+global:
+  resolve_timeout: 5m
+  slack_api_url: '${SLACK_WEBHOOK_URL}'
+  pagerduty_url: 'https://events.pagerduty.com/v2/enqueue'
+
+# Templates for alert formatting
+templates:
+  - '/etc/alertmanager/templates/*.tmpl'
+
+# Route tree
+route:
+  group_by: ['alertname', 'service', 'severity']
+  group_wait: 10s
+  group_interval: 10s
+  repeat_interval: 12h
+  receiver: 'default'
+  
+  routes:
+    # Critical alerts go to PagerDuty and Slack
+    - match:
+        severity: critical
+      receiver: critical-alerts
+      continue: true
+      
+    # High priority alerts to Slack ops channel
+    - match:
+        severity: high
+      receiver: high-priority-alerts
+      
+    # Database alerts to DBA team
+    - match:
+        service: database
+      receiver: database-alerts
+      
+    # Business KPI alerts
+    - match:
+        alertname: BusinessKPI
+      receiver: business-alerts
+
+# Receivers
+receivers:
+  - name: 'default'
+    slack_configs:
+      - channel: '#alerts'
+        title: 'OpenPolicy Platform Alert'
+        text: '{{ range .Alerts }}{{ .Annotations.summary }}{{ end }}'
+        send_resolved: true
+        color: '{{ if eq .Status "firing" }}danger{{ else }}good{{ end }}'
+        
+  - name: 'critical-alerts'
+    pagerduty_configs:
+      - routing_key: '${PAGERDUTY_ROUTING_KEY}'
+        description: '{{ .GroupLabels.alertname }}'
+        severity: 'critical'
+        client: 'OpenPolicy Platform'
+        client_url: 'https://openpolicy.com'
+        details:
+          firing: '{{ .Alerts.Firing | len }}'
+          resolved: '{{ .Alerts.Resolved | len }}'
+          service: '{{ .GroupLabels.service }}'
+    slack_configs:
+      - channel: '#critical-alerts'
+        title: '🚨 CRITICAL: {{ .GroupLabels.alertname }}'
+        text: |
+          {{ range .Alerts }}
+          *Alert:* {{ .Labels.alertname }}
+          *Service:* {{ .Labels.service }}
+          *Description:* {{ .Annotations.description }}
+          *Severity:* {{ .Labels.severity }}
+          *Value:* {{ .Annotations.value }}
+          {{ end }}
+        send_resolved: true
+        actions:
+          - type: button
+            text: 'View in Grafana'
+            url: '{{ (index .Alerts 0).GeneratorURL }}'
+          - type: button
+            text: 'Runbook'
+            url: 'https://wiki.openpolicy.com/runbooks/{{ .GroupLabels.alertname }}'
+            
+  - name: 'high-priority-alerts'
+    slack_configs:
+      - channel: '#ops-alerts'
+        title: '⚠️ {{ .GroupLabels.alertname }}'
+        text: |
+          {{ range .Alerts }}
+          *Service:* {{ .Labels.service }}
+          *Description:* {{ .Annotations.description }}
+          *Current Value:* {{ .Annotations.value }}
+          {{ end }}
+        send_resolved: true
+        
+  - name: 'database-alerts'
+    slack_configs:
+      - channel: '#database-alerts'
+        username: 'Database Bot'
+        icon_emoji: ':database:'
+        title: 'Database Alert: {{ .GroupLabels.alertname }}'
+        text: |
+          {{ range .Alerts }}
+          *Database:* {{ .Labels.database }}
+          *Issue:* {{ .Annotations.summary }}
+          *Query:* `{{ .Labels.query }}`
+          *Duration:* {{ .Annotations.duration }}
+          {{ end }}
+    email_configs:
+      - to: 'dba-team@openpolicy.com'
+        headers:
+          Subject: 'Database Alert: {{ .GroupLabels.alertname }}'
+          
+  - name: 'business-alerts'
+    slack_configs:
+      - channel: '#business-metrics'
+        username: 'KPI Bot'
+        icon_emoji: ':chart_with_upwards_trend:'
+        title: 'Business KPI Alert'
+        text: |
+          {{ range .Alerts }}
+          *Metric:* {{ .Labels.metric }}
+          *Current:* {{ .Annotations.current }}
+          *Threshold:* {{ .Annotations.threshold }}
+          *Impact:* {{ .Annotations.impact }}
+          {{ end }}
+    webhook_configs:
+      - url: 'https://api.openpolicy.com/webhooks/business-alerts'
+        send_resolved: true
+
+# Inhibition rules
+inhibit_rules:
+  # Inhibit lower severity alerts if critical alert is firing
+  - source_match:
+      severity: 'critical'
+    target_match:
+      severity: 'warning'
+    equal: ['alertname', 'service']
+    
+  # Don't alert on individual pods if deployment is down
+  - source_match:
+      alertname: 'DeploymentDown'
+    target_match:
+      alertname: 'PodDown'
+    equal: ['namespace', 'deployment']

@@ -1,0 +1,336 @@
+# Azure AKS-specific values for OpenPolicyPlatform
+# This overrides default values for production deployment on Azure
+
+# Global settings
+global:
+  imageRegistry: "openpolicyacr.azurecr.io/"  # Will be replaced with actual ACR name
+  imagePullSecrets:
+    - name: acr-secret
+  storageClass: "managed-premium"
+  domain: "openpolicy.yourdomain.com"
+  adminDomain: "admin.openpolicy.yourdomain.com"
+
+# Use Azure Files for persistent storage
+persistence:
+  storageClass: "azurefile-csi"
+  
+# PostgreSQL with Azure optimizations
+postgres:
+  enabled: true
+  auth:
+    existingSecret: "platform-secrets"
+    secretKeys:
+      adminPasswordKey: "postgres-password"
+  persistence:
+    size: 100Gi
+    storageClass: "managed-premium"
+  resources:
+    requests:
+      memory: "1Gi"
+      cpu: "1"
+    limits:
+      memory: "2Gi"
+      cpu: "2"
+  metrics:
+    enabled: true
+    serviceMonitor:
+      enabled: true
+
+# Redis with Azure optimizations
+redis:
+  enabled: true
+  auth:
+    enabled: true
+    existingSecret: "platform-secrets"
+    existingSecretPasswordKey: "redis-password"
+  persistence:
+    size: 20Gi
+    storageClass: "managed-premium"
+  resources:
+    requests:
+      memory: "512Mi"
+      cpu: "500m"
+    limits:
+      memory: "1Gi"
+      cpu: "1"
+  metrics:
+    enabled: true
+    serviceMonitor:
+      enabled: true
+
+# Elasticsearch for production
+elasticsearch:
+  replicas: 3
+  minimumMasterNodes: 2
+  persistence:
+    size: 50Gi
+    storageClass: "managed-premium"
+  resources:
+    requests:
+      memory: "2Gi"
+      cpu: "1"
+    limits:
+      memory: "4Gi"
+      cpu: "2"
+
+# API Gateway with high availability
+apiGateway:
+  replicas: 3
+  autoscaling:
+    enabled: true
+    minReplicas: 3
+    maxReplicas: 10
+    targetCPUUtilizationPercentage: 70
+    targetMemoryUtilizationPercentage: 80
+  resources:
+    requests:
+      memory: "512Mi"
+      cpu: "500m"
+    limits:
+      memory: "1Gi"
+      cpu: "1"
+  affinity:
+    podAntiAffinity:
+      preferredDuringSchedulingIgnoredDuringExecution:
+        - weight: 100
+          podAffinityTerm:
+            labelSelector:
+              matchExpressions:
+                - key: app.kubernetes.io/component
+                  operator: In
+                  values:
+                    - api-gateway
+            topologyKey: kubernetes.io/hostname
+
+# Core services with production settings
+services:
+  authService:
+    replicas: 3
+    env:
+      - name: JWT_SECRET
+        valueFrom:
+          secretKeyRef:
+            name: platform-secrets
+            key: jwt-secret
+    resources:
+      requests:
+        memory: "512Mi"
+        cpu: "500m"
+      limits:
+        memory: "1Gi"
+        cpu: "1"
+
+  policyService:
+    replicas: 3
+    resources:
+      requests:
+        memory: "512Mi"
+        cpu: "500m"
+      limits:
+        memory: "1Gi"
+        cpu: "1"
+
+  searchService:
+    replicas: 3
+    resources:
+      requests:
+        memory: "1Gi"
+        cpu: "500m"
+      limits:
+        memory: "2Gi"
+        cpu: "1"
+
+  dashboardService:
+    replicas: 2
+    resources:
+      requests:
+        memory: "512Mi"
+        cpu: "500m"
+      limits:
+        memory: "1Gi"
+        cpu: "1"
+
+# Frontend with CDN optimization
+web:
+  replicas: 3
+  resources:
+    requests:
+      memory: "256Mi"
+      cpu: "250m"
+    limits:
+      memory: "512Mi"
+      cpu: "500m"
+
+adminDashboard:
+  replicas: 2
+  env:
+    - name: ADMIN_PASSWORD
+      valueFrom:
+        secretKeyRef:
+          name: platform-secrets
+          key: admin-password
+  resources:
+    requests:
+      memory: "256Mi"
+      cpu: "250m"
+    limits:
+      memory: "512Mi"
+      cpu: "500m"
+
+# Ingress with Azure Load Balancer
+ingress:
+  enabled: true
+  className: "nginx"
+  annotations:
+    cert-manager.io/cluster-issuer: "letsencrypt-prod"
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/force-ssl-redirect: "true"
+    nginx.ingress.kubernetes.io/proxy-body-size: "100m"
+    nginx.ingress.kubernetes.io/proxy-read-timeout: "300"
+    nginx.ingress.kubernetes.io/proxy-send-timeout: "300"
+    # Azure-specific annotations
+    kubernetes.io/ingress.class: "nginx"
+    nginx.ingress.kubernetes.io/affinity: "cookie"
+    nginx.ingress.kubernetes.io/session-cookie-name: "route"
+    nginx.ingress.kubernetes.io/session-cookie-hash: "sha1"
+  tls:
+    - secretName: openpolicy-tls
+      hosts:
+        - openpolicy.yourdomain.com
+        - admin.openpolicy.yourdomain.com
+
+# Monitoring with Azure Monitor integration
+prometheus:
+  persistence:
+    size: 50Gi
+    storageClass: "managed-premium"
+  serviceMonitor:
+    enabled: true
+  prometheusSpec:
+    retention: 30d
+    resources:
+      requests:
+        memory: "2Gi"
+        cpu: "1"
+      limits:
+        memory: "4Gi"
+        cpu: "2"
+
+grafana:
+  persistence:
+    enabled: true
+    size: 20Gi
+    storageClass: "managed-premium"
+  adminPassword: ""  # Will use secret
+  env:
+    - name: GF_SECURITY_ADMIN_PASSWORD
+      valueFrom:
+        secretKeyRef:
+          name: platform-secrets
+          key: admin-password
+  datasources:
+    datasources.yaml:
+      apiVersion: 1
+      datasources:
+        - name: Prometheus
+          type: prometheus
+          url: http://monitoring-prometheus-server
+          access: proxy
+          isDefault: true
+        - name: Azure Monitor
+          type: grafana-azure-monitor-datasource
+          access: proxy
+
+# Security policies
+networkPolicy:
+  enabled: true
+  policyTypes:
+    - Ingress
+    - Egress
+  ingress:
+    - from:
+        - namespaceSelector:
+            matchLabels:
+              name: open-policy-platform
+        - namespaceSelector:
+            matchLabels:
+              name: ingress-nginx
+  egress:
+    - to:
+        - namespaceSelector:
+            matchLabels:
+              name: open-policy-platform
+    - ports:
+        - protocol: TCP
+          port: 53
+        - protocol: UDP
+          port: 53
+    - to:
+        - ipBlock:
+            cidr: 0.0.0.0/0
+            except:
+              - 169.254.169.254/32  # Block Azure metadata service
+
+# Pod Security Policies
+podSecurityPolicy:
+  enabled: true
+  spec:
+    privileged: false
+    allowPrivilegeEscalation: false
+    requiredDropCapabilities:
+      - ALL
+    volumes:
+      - 'configMap'
+      - 'emptyDir'
+      - 'projected'
+      - 'secret'
+      - 'downwardAPI'
+      - 'persistentVolumeClaim'
+    hostNetwork: false
+    hostIPC: false
+    hostPID: false
+    runAsUser:
+      rule: 'MustRunAsNonRoot'
+    seLinux:
+      rule: 'RunAsAny'
+    supplementalGroups:
+      rule: 'RunAsAny'
+    fsGroup:
+      rule: 'RunAsAny'
+
+# Resource quotas for production
+resourceQuota:
+  enabled: true
+  hard:
+    requests.cpu: "100"
+    requests.memory: "200Gi"
+    requests.storage: "1Ti"
+    persistentvolumeclaims: "50"
+    services.loadbalancers: "5"
+
+# Azure-specific optimizations
+azure:
+  # Use Azure Application Gateway Ingress Controller
+  agic:
+    enabled: false  # Set to true if using AGIC instead of NGINX
+  
+  # Azure Monitor integration
+  monitoring:
+    enabled: true
+    workspaceId: ""  # Add your Log Analytics workspace ID
+    
+  # Azure Key Vault CSI Driver
+  keyVault:
+    enabled: true
+    secretProviderClass: "azure-kvname-system-msi"
+    
+  # Azure Files dynamic provisioning
+  files:
+    enabled: true
+    skuName: "Premium_LRS"
+    
+  # Azure Disk encryption
+  diskEncryption:
+    enabled: true
+    keyVaultURL: ""  # Add your Key Vault URL
+    keyVaultKeyId: ""  # Add your encryption key ID

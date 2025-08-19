@@ -1,0 +1,29 @@
+{{ define "pagerduty.default.description" }}{{ .GroupLabels.alertname }} - {{ .GroupLabels.service }}{{ end }}
+
+{{ define "pagerduty.default.client" }}OpenPolicy Platform{{ end }}
+
+{{ define "pagerduty.default.clientURL" }}{{ (index .Alerts 0).GeneratorURL }}{{ end }}
+
+{{ define "pagerduty.default.details" }}
+{
+  "firing": "{{ .Alerts.Firing | len }}",
+  "resolved": "{{ .Alerts.Resolved | len }}",
+  "alertname": "{{ .GroupLabels.alertname }}",
+  "service": "{{ .GroupLabels.service }}",
+  "severity": "{{ .GroupLabels.severity }}",
+  {{ range .Alerts }}
+  {{ range .Labels.SortedPairs }}
+  "{{ .Name }}": "{{ .Value }}",
+  {{ end }}
+  {{ range .Annotations.SortedPairs }}
+  "annotation_{{ .Name }}": "{{ .Value }}",
+  {{ end }}
+  {{ end }}
+  "num_alerts": "{{ .Alerts | len }}"
+}
+{{ end }}
+
+{{ define "pagerduty.critical.severity" }}critical{{ end }}
+{{ define "pagerduty.high.severity" }}error{{ end }}
+{{ define "pagerduty.medium.severity" }}warning{{ end }}
+{{ define "pagerduty.low.severity" }}info{{ end }}
