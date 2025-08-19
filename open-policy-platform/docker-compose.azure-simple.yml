@@ -1,0 +1,137 @@
+# Open Policy Platform V4 - Simplified Azure Deployment Configuration
+# This version only runs the essential services, using Azure managed services for others
+
+services:
+  # Core API Service
+  api:
+    image: openpolicyacr.azurecr.io/openpolicy-api:latest
+    container_name: openpolicy-azure-api
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - JWT_SECRET=${AZURE_JWT_SECRET}
+      - ENVIRONMENT=development
+      - LOG_LEVEL=INFO
+      - AZURE_STORAGE_ACCOUNT=${AZURE_STORAGE_ACCOUNT}
+      - AZURE_STORAGE_KEY=${AZURE_STORAGE_KEY}
+      - AZURE_APPLICATION_INSIGHTS_CONNECTION_STRING=${AZURE_APP_INSIGHTS_CONNECTION_STRING}
+      - AUTH0_CLIENT_ID=${AUTH0_CLIENT_ID}
+      - AUTH0_CLIENT_SECRET=${AUTH0_CLIENT_SECRET}
+      - AUTH0_DOMAIN=${AUTH0_DOMAIN}
+      - AUTH0_AUDIENCE=${AUTH0_AUDIENCE}
+      - ALLOWED_HOSTS=localhost,127.0.0.1,0.0.0.0
+      - ALLOWED_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+    volumes:
+      - azure-api-logs:/app/logs
+    ports:
+      - "8000:8000"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Web Frontend
+  web:
+    image: openpolicyacr.azurecr.io/openpolicy-web:latest
+    container_name: openpolicy-azure-web
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - VITE_APP_NAME=Open Policy Platform
+      - VITE_AZURE_INSIGHTS_KEY=${AZURE_APP_INSIGHTS_KEY}
+    volumes:
+      - /app/node_modules
+    ports:
+      - "3000:5173"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:5173/ || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Monitoring - Prometheus
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: openpolicy-azure-prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+      - '--storage.tsdb.path=/prometheus'
+      - '--web.console.libraries=/etc/prometheus/console_libraries'
+      - '--web.console.templates=/etc/prometheus/consoles'
+      - '--storage.tsdb.retention.time=200h'
+      - '--web.enable-lifecycle'
+    volumes:
+      - ./monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+      - azure-prometheus-data:/prometheus
+    ports:
+      - "9090:9090"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+  # Monitoring - Grafana
+  grafana:
+    image: grafana/grafana:latest
+    container_name: openpolicy-azure-grafana
+    environment:
+      - GF_SECURITY_ADMIN_PASSWORD=${AZURE_GRAFANA_PASSWORD:-admin}
+      - GF_USERS_ALLOW_SIGN_UP=false
+    volumes:
+      - azure-grafana-data:/var/lib/grafana
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning
+    ports:
+      - "3001:3000"
+    depends_on:
+      - prometheus
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+
+  # Scraper Service - Data Ingestion
+  scraper:
+    image: openpolicy-scraper:latest
+    container_name: openpolicy-azure-scraper
+    environment:
+      - DATABASE_URL=${DATABASE_URL}
+      - REDIS_URL=${REDIS_URL}
+      - LOG_LEVEL=INFO
+      - SCRAPER_INTERVAL=300
+      - SCRAPER_REPORTS_DIR=/app/reports
+      - SCRAPER_LOGS_DIR=/app/logs
+    volumes:
+      - azure-scraper-reports:/app/reports
+      - azure-scraper-logs:/app/logs
+    ports:
+      - "9008:9008"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9008/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+networks:
+  openpolicy-azure-network:
+    driver: bridge
+
+volumes:
+  azure-api-logs:
+  azure-prometheus-data:
+  azure-grafana-data:
+  azure-scraper-reports:
+  azure-scraper-logs:

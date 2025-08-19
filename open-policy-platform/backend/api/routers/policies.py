@@ -8,12 +8,12 @@ from sqlalchemy.orm import Session
 from typing import List, Optional, Dict, Any
 import subprocess
 import json
+import os
 from datetime import datetime, timedelta
 from pydantic import BaseModel
 
 from ..dependencies import get_db
 from ..config import settings
-from config.database import db_config
 
 router = APIRouter()
 
@@ -40,6 +40,8 @@ class PolicyAnalysis(BaseModel):
     results: Dict[str, Any]
     timestamp: str
 
+# STATIC ROUTES - Must come before dynamic routes to avoid conflicts
+
 @router.get("/")
 async def get_policies(
     page: int = Query(1, ge=1),
@@ -52,39 +54,30 @@ async def get_policies(
 ):
     """Get policies with advanced filtering and pagination"""
     try:
-        # Build query based on filters
-        query = "SELECT * FROM bills_bill WHERE 1=1"
-        params = []
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
+        base_query = "SELECT * FROM bills_bill WHERE 1=1"
         
         if search:
-            query += " AND (title ILIKE %s OR content ILIKE %s)"
-            params.extend([f"%{search}%", f"%{search}%"])
-        
+            base_query += f" AND (title ILIKE '%{search}%' OR classification ILIKE '%{search}%')"
         if category:
-            query += " AND classification = %s"
-            params.append(category)
-        
-        if jurisdiction:
-            query += " AND jurisdiction_id = %s"
-            params.append(jurisdiction)
-        
+            base_query += f" AND classification = '{category}'"
         if status:
-            query += " AND status = %s"
-            params.append(status)
+            base_query += f" AND status = '{status}'"
         
-        # Add pagination
         offset = (page - 1) * limit
-        query += f" ORDER BY created_at DESC LIMIT {limit} OFFSET {offset}"
+        query = f"{base_query} ORDER BY id DESC LIMIT {limit} OFFSET {offset}"
         
-        # Execute query
         result = subprocess.run([
-            "psql", "-h", db_config.host, "-U", db_config.username, "-d", db_config.database,
+            "psql", database_url,
             "-c", query,
             "-t", "-A"
         ], capture_output=True, text=True, timeout=30)
         
         policies = []
-        if result.returncode == 0:
+        if result.returncode == 0 and result.stdout.strip():
             lines = result.stdout.strip().split('\n')
             for line in lines:
                 if line.strip():
@@ -92,18 +85,13 @@ async def get_policies(
                     policies.append({
                         "id": fields[0] if len(fields) > 0 else None,
                         "title": fields[1] if len(fields) > 1 else None,
-                        "content": fields[2] if len(fields) > 2 else None,
-                        "category": fields[3] if len(fields) > 3 else None,
-                        "jurisdiction": fields[4] if len(fields) > 4 else None,
-                        "status": fields[5] if len(fields) > 5 else None,
-                        "created_at": fields[6] if len(fields) > 6 else None
+                        "classification": fields[2] if len(fields) > 2 else None,
+                        "session": fields[3] if len(fields) > 3 else None
                     })
         
-        # Get total count
-        count_query = "SELECT COUNT(*) FROM bills_bill"
         count_result = subprocess.run([
-            "psql", "-h", db_config.host, "-U", db_config.username, "-d", db_config.database,
-            "-c", count_query,
+            "psql", database_url,
+            "-c", "SELECT COUNT(*) FROM bills_bill",
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
@@ -127,85 +115,49 @@ async def get_policies(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error retrieving policies: {str(e)}")
 
-@router.get("/{policy_id}")
-async def get_policy(policy_id: int, db: Session = Depends(get_db)):
-    """Get specific policy by ID with detailed information"""
-    try:
-        result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
-            "-c", f"SELECT * FROM bills_bill WHERE id = {policy_id};",
-            "-t", "-A"
-        ], capture_output=True, text=True, timeout=10)
-        
-        if result.returncode != 0:
-            raise HTTPException(status_code=404, detail="Policy not found")
-        
-        lines = result.stdout.strip().split('\n')
-        if not lines or not lines[0].strip():
-            raise HTTPException(status_code=404, detail="Policy not found")
-        
-        fields = lines[0].split('|')
-        policy = {
-            "id": fields[0] if len(fields) > 0 else None,
-            "title": fields[1] if len(fields) > 1 else None,
-            "content": fields[2] if len(fields) > 2 else None,
-            "category": fields[3] if len(fields) > 3 else None,
-            "jurisdiction": fields[4] if len(fields) > 4 else None,
-            "status": fields[5] if len(fields) > 5 else None,
-            "created_at": fields[6] if len(fields) > 6 else None,
-            "updated_at": fields[7] if len(fields) > 7 else None
-        }
-        
-        return policy
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error retrieving policy: {str(e)}")
+@router.get("/search")
+async def search_policies(
+    q: str = Query(..., min_length=1),
+    limit: int = Query(20, ge=1, le=100),
+    db: Session = Depends(get_db)
+):
+    """Simple policy search"""
+    return await search_policies_advanced(q=q, limit=limit, db=db)
 
 @router.get("/search/advanced")
 async def search_policies_advanced(
     q: str = Query(..., min_length=1),
     category: Optional[str] = None,
     jurisdiction: Optional[str] = None,
-    date_from: Optional[str] = None,
-    date_to: Optional[str] = None,
     limit: int = Query(50, ge=1, le=200),
     db: Session = Depends(get_db)
 ):
     """Advanced policy search with multiple criteria"""
     try:
-        # Build advanced search query
-        query = """
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
+        query = f"""
         SELECT * FROM bills_bill 
-        WHERE (title ILIKE %s OR content ILIKE %s OR classification ILIKE %s)
+        WHERE (title ILIKE '%{q}%' OR classification ILIKE '%{q}%')
         """
-        params = [f"%{q}%", f"%{q}%", f"%{q}%"]
         
         if category:
-            query += " AND classification = %s"
-            params.append(category)
-        
+            query += f" AND classification = '{category}'"
         if jurisdiction:
-            query += " AND jurisdiction_id = %s"
-            params.append(jurisdiction)
+            query += f" AND session = '{jurisdiction}'"
         
-        if date_from:
-            query += " AND created_at >= %s"
-            params.append(date_from)
+        query += f" ORDER BY id DESC LIMIT {limit}"
         
-        if date_to:
-            query += " AND created_at <= %s"
-            params.append(date_to)
-        
-        query += f" ORDER BY created_at DESC LIMIT {limit}"
-        
-        # Execute search
         result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
+            "psql", database_url,
             "-c", query,
             "-t", "-A"
         ], capture_output=True, text=True, timeout=30)
         
         policies = []
-        if result.returncode == 0:
+        if result.returncode == 0 and result.stdout.strip():
             lines = result.stdout.strip().split('\n')
             for line in lines:
                 if line.strip():
@@ -213,180 +165,171 @@ async def search_policies_advanced(
                     policies.append({
                         "id": fields[0] if len(fields) > 0 else None,
                         "title": fields[1] if len(fields) > 1 else None,
-                        "content": fields[2] if len(fields) > 2 else None,
-                        "category": fields[3] if len(fields) > 3 else None,
-                        "jurisdiction": fields[4] if len(fields) > 4 else None,
-                        "status": fields[5] if len(fields) > 5 else None,
-                        "created_at": fields[6] if len(fields) > 6 else None
+                        "classification": fields[2] if len(fields) > 2 else None,
+                        "session": fields[3] if len(fields) > 3 else None
                     })
         
         return {
             "query": q,
-            "results": policies,
-            "total_found": len(policies),
+            "policies": policies,
+            "total": len(policies),
             "filters": {
                 "category": category,
-                "jurisdiction": jurisdiction,
-                "date_from": date_from,
-                "date_to": date_to
+                "jurisdiction": jurisdiction
             }
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error searching policies: {str(e)}")
 
-@router.get("/search")
-async def search_policies(
-    q: str = Query(..., min_length=1),
-    db: Session = Depends(get_db)
-):
-    """Simple policy search"""
-    return await search_policies_advanced(q=q, db=db)
-
-@router.get("/categories")
+@router.get("/list/categories")
 async def get_policy_categories(db: Session = Depends(get_db)):
     """Get all available policy categories"""
     try:
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
         result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
-            "-c", "SELECT DISTINCT classification FROM bills_bill WHERE classification IS NOT NULL ORDER BY classification;",
+            "psql", database_url,
+            "-c", "SELECT DISTINCT classification FROM bills_bill WHERE classification IS NOT NULL",
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
         categories = []
-        if result.returncode == 0:
-            lines = result.stdout.strip().split('\n')
-            for line in lines:
-                if line.strip():
-                    categories.append(line.strip())
+        if result.returncode == 0 and result.stdout.strip():
+            categories = [line.strip() for line in result.stdout.split('\n') if line.strip()]
         
-        return {
-            "categories": categories,
-            "total_categories": len(categories)
-        }
+        return {"categories": categories}
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error retrieving categories: {str(e)}")
 
-@router.get("/jurisdictions")
+@router.get("/list/jurisdictions")
 async def get_policy_jurisdictions(db: Session = Depends(get_db)):
     """Get all available policy jurisdictions"""
     try:
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
         result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
-            "-c", "SELECT DISTINCT jurisdiction_id FROM bills_bill WHERE jurisdiction_id IS NOT NULL ORDER BY jurisdiction_id;",
+            "psql", database_url,
+            "-c", "SELECT DISTINCT session FROM bills_bill WHERE session IS NOT NULL",
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
         jurisdictions = []
-        if result.returncode == 0:
-            lines = result.stdout.strip().split('\n')
-            for line in lines:
-                if line.strip():
-                    jurisdictions.append(line.strip())
+        if result.returncode == 0 and result.stdout.strip():
+            jurisdictions = [line.strip() for line in result.stdout.split('\n') if line.strip()]
         
-        return {
-            "jurisdictions": jurisdictions,
-            "total_jurisdictions": len(jurisdictions)
-        }
+        return {"jurisdictions": jurisdictions}
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error retrieving jurisdictions: {str(e)}")
 
-@router.get("/stats")
-async def get_policy_statistics(db: Session = Depends(get_db)):
-    """Get policy statistics and analytics"""
+@router.get("/summary/stats")
+async def get_policy_stats(db: Session = Depends(get_db)):
+    """Get policy statistics"""
     try:
-        # Total policies
-        total_result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
-            "-c", "SELECT COUNT(*) FROM bills_bill;",
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
+        count_result = subprocess.run([
+            "psql", database_url,
+            "-c", "SELECT COUNT(*) FROM bills_bill",
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
-        total_policies = 0
-        if total_result.returncode == 0 and total_result.stdout.strip():
-            total_policies = int(total_result.stdout.strip())
+        total = 0
+        if count_result.returncode == 0 and count_result.stdout.strip():
+            total = int(count_result.stdout.strip())
         
-        # Categories distribution
-        categories_result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
-            "-c", "SELECT classification, COUNT(*) FROM bills_bill WHERE classification IS NOT NULL GROUP BY classification ORDER BY COUNT(*) DESC;",
+        cat_result = subprocess.run([
+            "psql", database_url,
+            "-c", "SELECT classification, COUNT(*) FROM bills_bill GROUP BY classification",
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
-        categories_dist = {}
-        if categories_result.returncode == 0:
-            lines = categories_result.stdout.strip().split('\n')
-            for line in lines:
-                if '|' in line:
-                    parts = line.split('|')
-                    if len(parts) >= 2:
-                        categories_dist[parts[0].strip()] = int(parts[1].strip())
+        categories = {}
+        if cat_result.returncode == 0 and cat_result.stdout.strip():
+            for line in cat_result.stdout.strip().split('\n'):
+                if line.strip():
+                    fields = line.split('|')
+                    if len(fields) >= 2:
+                        categories[fields[0]] = int(fields[1])
         
-        # Recent policies
-        recent_result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
-            "-c", "SELECT COUNT(*) FROM bills_bill WHERE created_at >= NOW() - INTERVAL '30 days';",
-            "-t", "-A"
-        ], capture_output=True, text=True, timeout=10)
-        
-        recent_policies = 0
-        if recent_result.returncode == 0 and recent_result.stdout.strip():
-            recent_policies = int(recent_result.stdout.strip())
-        
-        stats = {
-            "total_policies": total_policies,
-            "recent_policies_30_days": recent_policies,
-            "categories_distribution": categories_dist,
-            "top_categories": dict(list(categories_dist.items())[:5]),
+        return {
+            "total_policies": total,
+            "categories": categories,
             "timestamp": datetime.now().isoformat()
         }
-        
-        return stats
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error retrieving policy statistics: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Error retrieving stats: {str(e)}")
+
+# DYNAMIC ROUTES - Must come after static routes
+
+@router.get("/{policy_id}")
+async def get_policy(policy_id: int, db: Session = Depends(get_db)):
+    """Get specific policy by ID with detailed information"""
+    try:
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
+        result = subprocess.run([
+            "psql", database_url,
+            "-c", f"SELECT * FROM bills_bill WHERE id = {policy_id}",
+            "-t", "-A"
+        ], capture_output=True, text=True, timeout=10)
+        
+        if result.returncode != 0 or not result.stdout.strip():
+            raise HTTPException(status_code=404, detail="Policy not found")
+        
+        fields = result.stdout.strip().split('|')
+        policy = {
+            "id": fields[0] if len(fields) > 0 else None,
+            "title": fields[1] if len(fields) > 1 else None,
+            "classification": fields[2] if len(fields) > 2 else None,
+            "session": fields[3] if len(fields) > 3 else None
+        }
+        
+        return policy
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error retrieving policy: {str(e)}")
 
 @router.get("/{policy_id}/analysis")
 async def analyze_policy(policy_id: int, db: Session = Depends(get_db)):
     """Analyze a specific policy"""
     try:
-        # Get policy content
-        policy_result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
-            "-c", f"SELECT title, content FROM bills_bill WHERE id = {policy_id};",
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
+        result = subprocess.run([
+            "psql", database_url,
+            "-c", f"SELECT title, classification FROM bills_bill WHERE id = {policy_id}",
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
-        if policy_result.returncode != 0 or not policy_result.stdout.strip():
+        if result.returncode != 0 or not result.stdout.strip():
             raise HTTPException(status_code=404, detail="Policy not found")
         
-        fields = policy_result.stdout.strip().split('|')
+        fields = result.stdout.strip().split('|')
         title = fields[0] if len(fields) > 0 else ""
-        content = fields[1] if len(fields) > 1 else ""
+        classification = fields[1] if len(fields) > 1 else ""
         
-        # Basic text analysis
-        word_count = len(content.split()) if content else 0
-        char_count = len(content) if content else 0
-        sentence_count = len([s for s in content.split('.') if s.strip()]) if content else 0
-        
-        # Category analysis
-        category_result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
-            "-c", f"SELECT classification FROM bills_bill WHERE id = {policy_id};",
-            "-t", "-A"
-        ], capture_output=True, text=True, timeout=10)
-        
-        category = "Unknown"
-        if category_result.returncode == 0 and category_result.stdout.strip():
-            category = category_result.stdout.strip()
+        word_count = len(title.split()) if title else 0
+        char_count = len(title) if title else 0
+        sentence_count = title.count('.') + title.count('!') + title.count('?') if title else 0
         
         analysis = {
             "policy_id": policy_id,
             "title": title,
-            "category": category,
-            "text_analysis": {
+            "classification": classification,
+            "metrics": {
                 "word_count": word_count,
                 "character_count": char_count,
                 "sentence_count": sentence_count,
-                "average_words_per_sentence": round(word_count / sentence_count, 2) if sentence_count > 0 else 0
+                "complexity_score": "low" if word_count < 10 else "medium" if word_count < 20 else "high"
             },
             "timestamp": datetime.now().isoformat()
         }
@@ -395,25 +338,30 @@ async def analyze_policy(policy_id: int, db: Session = Depends(get_db)):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error analyzing policy: {str(e)}")
 
+# POST/PUT/DELETE ROUTES
+
 @router.post("/")
 async def create_policy(policy: PolicyCreate, db: Session = Depends(get_db)):
     """Create a new policy"""
     try:
-        # Insert new policy
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
         insert_query = f"""
-        INSERT INTO bills_bill (title, content, classification, jurisdiction_id, status, created_at)
-        VALUES ('{policy.title}', '{policy.content}', '{policy.category}', '{policy.jurisdiction}', '{policy.status}', NOW())
+        INSERT INTO bills_bill (title, classification, session)
+        VALUES ('{policy.title}', '{policy.category}', '{policy.jurisdiction}')
         RETURNING id;
         """
         
         result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
+            "psql", database_url,
             "-c", insert_query,
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
         if result.returncode != 0:
-            raise HTTPException(status_code=500, detail="Error creating policy")
+            raise HTTPException(status_code=500, detail="Failed to create policy")
         
         policy_id = result.stdout.strip()
         
@@ -429,33 +377,31 @@ async def create_policy(policy: PolicyCreate, db: Session = Depends(get_db)):
 async def update_policy(policy_id: int, policy_update: PolicyUpdate, db: Session = Depends(get_db)):
     """Update an existing policy"""
     try:
-        # Build update query
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
         update_parts = []
         if policy_update.title:
             update_parts.append(f"title = '{policy_update.title}'")
-        if policy_update.content:
-            update_parts.append(f"content = '{policy_update.content}'")
         if policy_update.category:
             update_parts.append(f"classification = '{policy_update.category}'")
         if policy_update.jurisdiction:
-            update_parts.append(f"jurisdiction_id = '{policy_update.jurisdiction}'")
-        if policy_update.status:
-            update_parts.append(f"status = '{policy_update.status}'")
+            update_parts.append(f"session = '{policy_update.jurisdiction}'")
         
         if not update_parts:
             raise HTTPException(status_code=400, detail="No fields to update")
         
-        update_parts.append("updated_at = NOW()")
         update_query = f"UPDATE bills_bill SET {', '.join(update_parts)} WHERE id = {policy_id};"
         
         result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
+            "psql", database_url,
             "-c", update_query,
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
         if result.returncode != 0:
-            raise HTTPException(status_code=500, detail="Error updating policy")
+            raise HTTPException(status_code=500, detail="Failed to update policy")
         
         return {
             "message": "Policy updated successfully",
@@ -468,14 +414,18 @@ async def update_policy(policy_id: int, policy_update: PolicyUpdate, db: Session
 async def delete_policy(policy_id: int, db: Session = Depends(get_db)):
     """Delete a policy"""
     try:
+        database_url = os.environ.get("DATABASE_URL")
+        if not database_url:
+            raise HTTPException(status_code=500, detail="Database URL not configured")
+        
         result = subprocess.run([
-            "psql", "-h", "localhost", "-U", "ashishtandon", "-d", "openpolicy",
+            "psql", database_url,
             "-c", f"DELETE FROM bills_bill WHERE id = {policy_id};",
             "-t", "-A"
         ], capture_output=True, text=True, timeout=10)
         
         if result.returncode != 0:
-            raise HTTPException(status_code=500, detail="Error deleting policy")
+            raise HTTPException(status_code=500, detail="Failed to delete policy")
         
         return {
             "message": "Policy deleted successfully",

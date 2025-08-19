@@ -3,7 +3,8 @@ API Configuration Settings
 """
 
 import os
-from typing import List, Optional
+from typing import List, Optional, Union
+from pydantic import field_validator, field_serializer
 from pydantic_settings import BaseSettings
 
 class Settings(BaseSettings):
@@ -33,7 +34,7 @@ class Settings(BaseSettings):
     access_token_expire_minutes: int = 30
     
     # CORS
-    allowed_origins: List[str] = [
+    allowed_origins: Union[str, List[str]] = [
         "http://localhost:3000",
         "http://localhost:5173",
         "http://127.0.0.1:3000",
@@ -41,7 +42,17 @@ class Settings(BaseSettings):
     ]
     
     # Trusted hosts
-    allowed_hosts: List[str] = ["*"]
+    allowed_hosts: Union[str, List[str]] = ["*"]
+    
+    @field_validator('allowed_origins', 'allowed_hosts', mode='before')
+    @classmethod
+    def parse_list_fields(cls, v):
+        """Parse comma-separated strings into lists"""
+        if isinstance(v, str):
+            return [item.strip() for item in v.split(",") if item.strip()]
+        elif isinstance(v, list):
+            return v
+        return v
     
     # Logging
     log_level: str = "INFO"
@@ -65,7 +76,8 @@ class Settings(BaseSettings):
     
     model_config = {
         "env_file": ".env",
-        "case_sensitive": False
+        "case_sensitive": False,
+        "env_parse_none_str": "none"
     }
 
     # Derived properties with fallback to canonical database_url

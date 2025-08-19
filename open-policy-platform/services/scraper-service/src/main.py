@@ -609,6 +609,36 @@ def create_scraper_job(job_data: ScraperJobCreate, current_user: Dict[str, Any] 
         scraper_operations.labels(operation="create", status="error").inc()
         raise HTTPException(status_code=500, detail="Internal server error")
 
+# Temporary endpoint without authentication for development
+@app.post("/jobs/public", status_code=HTTPStatus.CREATED)
+def create_scraper_job_public(job_data: ScraperJobCreate):
+    """Create a new scraper job without authentication (development only)"""
+    start_time = time.time()
+    
+    try:
+        # Create job with default user
+        new_job = web_scraper.create_job(job_data.dict(), "system_admin")
+        
+        # Update metrics
+        scraper_operations.labels(operation="create", status="success").inc()
+        
+        # Calculate duration for metrics
+        duration = time.time() - start_time
+        scraper_duration.observe(duration)
+        
+        logger.info(f"Public scraper job created: {new_job['id']} - {new_job['name']}")
+        
+        return {
+            "status": "success",
+            "message": "Scraper job created successfully (public endpoint)",
+            "job": new_job
+        }
+        
+    except Exception as e:
+        logger.error(f"Error creating public scraper job: {str(e)}")
+        scraper_operations.labels(operation="create", status="error").inc()
+        raise HTTPException(status_code=500, detail="Internal server error")
+
 @app.get("/jobs")
 def list_scraper_jobs(
     status: Optional[str] = Query(None, description="Filter by job status"),

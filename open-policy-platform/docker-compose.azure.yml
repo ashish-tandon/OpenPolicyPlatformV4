@@ -1,7 +1,7 @@
 # Open Policy Platform V4 - Azure Deployment Configuration
 # Optimized for Azure Container Instances and Azure Container Registry
 
-version: '3.8'
+
 
 services:
   # PostgreSQL Database (Azure Database for PostgreSQL)
