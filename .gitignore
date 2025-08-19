@@ -1,41 +1,165 @@
-# Python
+# OpenPolicyPlatform V5 - Comprehensive Gitignore
+
+# ========================================
+# LEGACY AND ARCHIVE DIRECTORIES
+# ========================================
+legacy/
+archive/
+backups/
+old-versions/
+deprecated/
+
+# ========================================
+# ENVIRONMENT AND SECRETS
+# ========================================
+.env
+.env.*
+!.env.example
+!.env.template
+env.azure.complete
+env.production
+env.local
+env.secure
+secrets/
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+*.p7b
+*.p7c
+*.p7m
+*.p7s
+*.crt
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+*.p7b
+*.p7c
+*.p7m
+*.p7s
+
+# ========================================
+# DATABASES AND DATA FILES
+# ========================================
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+*.dump
+*.backup
+*.bak
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
+database-exports/
+scrapers-data/
+data/
+databases/
+postgres-data/
+redis-data/
+elasticsearch-data/
+
+# ========================================
+# DOCKER AND CONTAINERS
+# ========================================
+.dockerignore
+docker-compose.override.yml
+docker-compose.local.yml
+docker-compose.azure.yml
+docker-compose.qnap.yml
+docker-compose.complete.yml
+docker-compose.full.yml
+docker-compose.working.yml
+docker-compose.azure-*.yml
+docker-compose.*.yml
+!docker-compose.yml
+!docker-compose.core.yml
+!docker-compose.monitoring.yml
+
+# ========================================
+# LOGS AND TEMPORARY FILES
+# ========================================
+logs/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.pid
+*.lock
+
+# ========================================
+# NODE AND WEB DEPENDENCIES
+# ========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+.pnp
+.pnp.js
+.next/
+.nuxt/
+dist/
+build/
+out/
+
+# ========================================
+# PYTHON AND VIRTUAL ENVIRONMENTS
+# ========================================
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
-
-# Virtual environments
-venv/
 env/
+venv/
 ENV/
+env.bak/
+venv.bak/
 .venv/
-.env/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
 
-# IDE
+# ========================================
+# IDE AND EDITOR FILES
+# ========================================
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
 
-# OS
+# ========================================
+# OS GENERATED FILES
+# ========================================
 .DS_Store
 .DS_Store?
 ._*
@@ -43,86 +167,132 @@ ENV/
 .Trashes
 ehthumbs.db
 Thumbs.db
+desktop.ini
 
-# Logs
-*.log
-logs/
-log/
-
-# Cache
-.cache/
-_cache/
-*.cache
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Node modules (for web components)
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Build outputs
-dist/
+# ========================================
+# BUILD AND DEPLOYMENT
+# ========================================
 build/
-*.tgz
+dist/
+out/
+target/
+*.egg-info/
+*.egg
+*.whl
 *.tar.gz
+*.zip
+*.rar
+*.7z
 
-# Coverage reports
-htmlcov/
+# ========================================
+# TESTING AND COVERAGE
+# ========================================
 .coverage
-.coverage.*
+htmlcov/
+.tox/
+.pytest_cache/
 coverage.xml
 *.cover
 .hypothesis/
-.pytest_cache/
+test-results/
+test-output/
 
-# Jupyter Notebook
-.ipynb_checkpoints
+# ========================================
+# MONITORING AND METRICS
+# ========================================
+prometheus-data/
+grafana-data/
+elasticsearch-data/
+logstash-data/
+fluentd-data/
+monitoring-data/
 
-# pyenv
-.python-version
+# ========================================
+# AZURE AND CLOUD SPECIFIC
+# ========================================
+.azure/
+azure-credentials/
+*.publishsettings
+*.pfx
+*.p12
+*.key
+*.crt
+*.pem
+*.cer
+*.der
 
-# Backup files
-*.bak
+# ========================================
+# QNAP AND NAS SPECIFIC
+# ========================================
+.qnap/
+qnap-config.json
+qnap-credentials/
+nas-config/
+
+# ========================================
+# SCRAPER AND DATA COLLECTION
+# ========================================
+scrapers-data/
+scraped-data/
+raw-data/
+processed-data/
+data-exports/
+data-imports/
+
+# ========================================
+# BACKUP AND RECOVERY
+# ========================================
+backups/
+recovery/
+disaster-recovery/
+backup-*.sql
+recovery-*.sql
 *.backup
-*.old
+*.bak
+*.dump
 
-# Temporary files
-*.tmp
-*.temp
+# ========================================
+# SECURITY AND COMPLIANCE
+# ========================================
+security/
+compliance/
+audit-logs/
+security-scans/
+vulnerability-reports/
+penetration-tests/
+
+# ========================================
+# DOCUMENTATION BUILD
+# ========================================
+docs/build/
+docs/_build/
+docs/.doctrees/
+docs/api/_build/
+docs/api/.doctrees/
+
+# ========================================
+# TEMPORARY AND CACHE
+# ========================================
 temp/
 tmp/
+cache/
+.cache/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
 
-# Docker
-.dockerignore
-
-# Kubernetes
-*.kubeconfig
-
-# Helm
-charts/*/charts/
-charts/*/requirements.lock
-
-# Terraform
-*.tfstate
-*.tfstate.*
-.terraform/
-.terraform.lock.hcl
-
-# Ansible
-*.retry
-
-# Monitoring
-prometheus_data/
-grafana_data/
+# ========================================
+# KEEP IMPORTANT FILES
+# ========================================
+!.env.example
+!.env.template
+!docker-compose.yml
+!docker-compose.core.yml
+!docker-compose.monitoring.yml
+!README.md
+!LICENSE
+!CHANGELOG.md
+!CONTRIBUTING.md
+!CODE_OF_CONDUCT.md

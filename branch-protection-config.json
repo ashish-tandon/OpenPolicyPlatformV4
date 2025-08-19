@@ -1,0 +1,38 @@
+{
+  "branch_protection": {
+    "main": {
+      "required_status_checks": {
+        "strict": true,
+        "contexts": [
+          "code-quality",
+          "security-scan",
+          "build-containers"
+        ]
+      },
+      "enforce_admins": true,
+      "required_pull_request_reviews": {
+        "required_approving_review_count": 2,
+        "dismiss_stale_reviews": true,
+        "require_code_owner_reviews": true
+      },
+      "restrictions": {
+        "users": [],
+        "teams": ["admin-team"]
+      }
+    },
+    "develop": {
+      "required_status_checks": {
+        "strict": false,
+        "contexts": [
+          "code-quality",
+          "security-scan"
+        ]
+      },
+      "enforce_admins": false,
+      "required_pull_request_reviews": {
+        "required_approving_review_count": 1,
+        "dismiss_stale_reviews": true
+      }
+    }
+  }
+}

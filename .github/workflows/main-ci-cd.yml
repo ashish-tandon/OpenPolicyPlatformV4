@@ -1,0 +1,208 @@
+name: 🚀 OpenPolicyPlatform V5 - Main CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+  workflow_dispatch:
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: ${{ github.repository }}
+
+jobs:
+  # ========================================
+  # CODE QUALITY & TESTING
+  # ========================================
+  
+  code-quality:
+    name: 🔍 Code Quality & Testing
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+      
+    - name: 🐍 Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: 🟢 Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: 📦 Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install pytest pytest-cov flake8 black isort mypy
+        
+    - name: 📦 Install Node.js dependencies
+      run: |
+        cd open-policy-platform/apps/web
+        npm ci
+        
+    - name: 🔍 Run Python linting
+      run: |
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        black --check .
+        isort --check-only .
+        mypy .
+        
+    - name: 🔍 Run Node.js linting
+      run: |
+        cd open-policy-platform/apps/web
+        npm run lint
+        
+    - name: 🧪 Run Python tests
+      run: |
+        pytest --cov=. --cov-report=xml --cov-report=html
+        
+    - name: 🧪 Run Node.js tests
+      run: |
+        cd open-policy-platform/apps/web
+        npm test
+        
+    - name: 📊 Upload coverage reports
+      uses: codecov/codecov-action@v3
+      with:
+        file: ./coverage.xml
+        flags: unittests
+        name: codecov-umbrella
+
+  # ========================================
+  # SECURITY SCANNING
+  # ========================================
+  
+  security-scan:
+    name: 🔒 Security Scanning
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+      
+    - name: 🔍 Run Trivy vulnerability scanner
+      uses: aquasecurity/trivy-action@master
+      with:
+        scan-type: 'fs'
+        scan-ref: '.'
+        format: 'sarif'
+        output: 'trivy-results.sarif'
+        
+    - name: 🔍 Run Bandit security linter
+      run: |
+        pip install bandit
+        bandit -r . -f json -o bandit-report.json
+        
+    - name: 🔍 Run Safety check
+      run: |
+        pip install safety
+        safety check --json --output safety-report.json
+        
+    - name: 📊 Upload security results
+      uses: github/codeql-action/upload-sarif@v2
+      with:
+        sarif_file: trivy-results.sarif
+
+  # ========================================
+  # BUILD & TEST CONTAINERS
+  # ========================================
+  
+  build-containers:
+    name: 🐳 Build & Test Containers
+    runs-on: ubuntu-latest
+    needs: [code-quality, security-scan]
+    
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+      
+    - name: 🔐 Set up Docker Buildx
+      uses: docker/setup-buildx-action@v3
+      
+    - name: 🔐 Log in to Container Registry
+      uses: docker/login-action@v3
+      with:
+        registry: ${{ env.REGISTRY }}
+        username: ${{ github.actor }}
+        password: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 🐳 Build and test containers
+      run: |
+        # Build core services
+        docker build -t ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}/api-gateway:latest ./open-policy-platform/services/api-gateway
+        docker build -t ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}/web:latest ./open-policy-platform/apps/web
+        
+        # Test containers
+        docker run --rm ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}/api-gateway:latest --help
+        docker run --rm ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}/web:latest --help
+        
+    - name: 📊 Upload container scan results
+      uses: aquasecurity/trivy-action@master
+      with:
+        image-ref: '${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}/api-gateway:latest'
+        format: 'sarif'
+        output: 'container-scan-results.sarif'
+
+  # ========================================
+  # DEPLOYMENT
+  # ========================================
+  
+  deploy-staging:
+    name: 🚀 Deploy to Staging
+    runs-on: ubuntu-latest
+    needs: [build-containers]
+    if: github.ref == 'refs/heads/develop'
+    environment: staging
+    
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+      
+    - name: 🐳 Deploy to staging
+      run: |
+        echo "🚀 Deploying to staging environment..."
+        # Add your staging deployment commands here
+        # Example: kubectl apply -f k8s/staging/
+        
+    - name: 🔍 Health check
+      run: |
+        echo "🔍 Running health checks..."
+        # Add your health check commands here
+        
+  deploy-production:
+    name: 🚀 Deploy to Production
+    runs-on: ubuntu-latest
+    needs: [build-containers]
+    if: github.ref == 'refs/heads/main'
+    environment: production
+    
+    steps:
+    - name: 📥 Checkout code
+      uses: actions/checkout@v4
+      
+    - name: 🐳 Deploy to production
+      run: |
+        echo "🚀 Deploying to production environment..."
+        # Add your production deployment commands here
+        # Example: kubectl apply -f k8s/production/
+        
+    - name: 🔍 Health check
+      run: |
+        echo "🔍 Running health checks..."
+        # Add your health check commands here
+        
+    - name: 🏷️ Create release
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v${{ github.run_number }}
+        release_name: Release v${{ github.run_number }}
+        draft: false
+        prerelease: false

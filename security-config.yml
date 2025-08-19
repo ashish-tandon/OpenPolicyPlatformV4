@@ -1,0 +1,38 @@
+# Security configuration for OpenPolicyPlatform V5
+
+## Dependabot Configuration
+dependabot:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+
+## CodeQL Analysis
+codeql:
+  languages: ["python", "javascript", "go"]
+  queries: security-extended, security-and-quality
+
+## Secret Scanning
+secret-scanning:
+  push-protection: true
+  alert-retention: 90
+
+## Security Policies
+security-policies:
+  - name: "Vulnerability Disclosure"
+    url: "SECURITY.md"
+  - name: "Code of Conduct"
+    url: "CODE_OF_CONDUCT.md"

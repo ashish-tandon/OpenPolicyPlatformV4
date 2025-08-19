@@ -1,0 +1,40 @@
+{
+  "repositories": [
+    {
+      "name": "openpolicy-platform-core",
+      "description": "Core platform services and infrastructure",
+      "type": "core",
+      "services": ["api-gateway", "postgres", "redis", "nginx"]
+    },
+    {
+      "name": "openpolicy-platform-services",
+      "description": "Business logic microservices",
+      "type": "services",
+      "services": ["auth", "policy", "analytics", "monitoring", "etl", "scraper"]
+    },
+    {
+      "name": "openpolicy-platform-web",
+      "description": "Web applications and frontend",
+      "type": "frontend",
+      "services": ["web", "admin-dashboard", "mobile-web"]
+    },
+    {
+      "name": "openpolicy-platform-monitoring",
+      "description": "Monitoring, logging, and observability",
+      "type": "monitoring",
+      "services": ["prometheus", "grafana", "elasticsearch", "logstash", "fluentd"]
+    },
+    {
+      "name": "openpolicy-platform-deployment",
+      "description": "Deployment configurations and scripts",
+      "type": "deployment",
+      "services": ["docker", "kubernetes", "helm", "terraform"]
+    },
+    {
+      "name": "openpolicy-platform-docs",
+      "description": "Documentation and API references",
+      "type": "documentation",
+      "services": ["docs", "api-specs", "guides"]
+    }
+  ]
+}

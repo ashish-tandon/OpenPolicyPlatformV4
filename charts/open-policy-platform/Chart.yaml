@@ -1,0 +1,17 @@
+apiVersion: v2
+name: open-policy-platform
+description: OpenPolicyPlatform V5 - Policy Management Platform
+type: application
+version: 0.1.0
+appVersion: "5.0.0"
+keywords:
+  - policy
+  - governance
+  - analytics
+  - monitoring
+home: https://github.com/ashish-tandon/openpolicy-platform-v5
+sources:
+  - https://github.com/ashish-tandon/openpolicy-platform-v5
+maintainers:
+  - name: OpenPolicyPlatform Team
+    email: team@openpolicyplatform.org
