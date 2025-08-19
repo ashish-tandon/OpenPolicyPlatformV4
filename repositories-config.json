@@ -1,38 +1,38 @@
 {
   "repositories": [
     {
-      "name": "openpolicy-platform-core",
-      "description": "Core platform services and infrastructure",
+      "name": "openpolicy-platform-v5-core",
+      "description": "Core platform services and infrastructure for OpenPolicyPlatform V5",
       "type": "core",
       "services": ["api-gateway", "postgres", "redis", "nginx"]
     },
     {
-      "name": "openpolicy-platform-services",
-      "description": "Business logic microservices",
+      "name": "openpolicy-platform-v5-services",
+      "description": "Business logic microservices for OpenPolicyPlatform V5",
       "type": "services",
       "services": ["auth", "policy", "analytics", "monitoring", "etl", "scraper"]
     },
     {
-      "name": "openpolicy-platform-web",
-      "description": "Web applications and frontend",
+      "name": "openpolicy-platform-v5-web",
+      "description": "Web applications and frontend for OpenPolicyPlatform V5",
       "type": "frontend",
       "services": ["web", "admin-dashboard", "mobile-web"]
     },
     {
-      "name": "openpolicy-platform-monitoring",
-      "description": "Monitoring, logging, and observability",
+      "name": "openpolicy-platform-v5-monitoring",
+      "description": "Monitoring, logging, and observability for OpenPolicyPlatform V5",
       "type": "monitoring",
       "services": ["prometheus", "grafana", "elasticsearch", "logstash", "fluentd"]
     },
     {
-      "name": "openpolicy-platform-deployment",
-      "description": "Deployment configurations and scripts",
+      "name": "openpolicy-platform-v5-deployment",
+      "description": "Deployment configurations and scripts for OpenPolicyPlatform V5",
       "type": "deployment",
       "services": ["docker", "kubernetes", "helm", "terraform"]
     },
     {
-      "name": "openpolicy-platform-docs",
-      "description": "Documentation and API references",
+      "name": "openpolicy-platform-v5-docs",
+      "description": "Documentation and API references for OpenPolicyPlatform V5",
       "type": "documentation",
       "services": ["docs", "api-specs", "guides"]
     }

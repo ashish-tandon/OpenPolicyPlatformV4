@@ -9,14 +9,14 @@ echo "🚀 Creating OpenPolicyPlatform V5 Repositories..."
 # GitHub organization/user
 ORG="ashish-tandon"
 
-# Repository names
+# Repository names for OpenPolicyPlatform V5
 REPOS=(
-    "openpolicy-platform-core"
-    "openpolicy-platform-services"
-    "openpolicy-platform-web"
-    "openpolicy-platform-monitoring"
-    "openpolicy-platform-deployment"
-    "openpolicy-platform-docs"
+    "openpolicy-platform-v5-core"
+    "openpolicy-platform-v5-services"
+    "openpolicy-platform-v5-web"
+    "openpolicy-platform-v5-monitoring"
+    "openpolicy-platform-v5-deployment"
+    "openpolicy-platform-v5-docs"
 )
 
 # Create each repository

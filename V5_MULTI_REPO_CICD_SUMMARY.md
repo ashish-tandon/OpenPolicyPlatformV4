@@ -18,12 +18,12 @@ OpenPolicyPlatform V5 has been completely restructured with a **multi-repository
 
 | Repository | Purpose | Services | Type |
 |------------|---------|----------|------|
-| **openpolicy-platform-core** | Core infrastructure | API Gateway, PostgreSQL, Redis, Nginx | Core |
-| **openpolicy-platform-services** | Business logic | Auth, Policy, Analytics, ETL, Scraper | Microservices |
-| **openpolicy-platform-web** | Frontend applications | Web App, Admin Dashboard, Mobile Web | Frontend |
-| **openpolicy-platform-monitoring** | Observability | Prometheus, Grafana, ELK Stack | Monitoring |
-| **openpolicy-platform-deployment** | Infrastructure | Docker, Kubernetes, Helm, Terraform | DevOps |
-| **openpolicy-platform-docs** | Documentation | Guides, API specs, Architecture docs | Documentation |
+| **openpolicy-platform-v5-core** | Core infrastructure | API Gateway, PostgreSQL, Redis, Nginx | Core |
+| **openpolicy-platform-v5-services** | Business logic | Auth, Policy, Analytics, ETL, Scraper | Microservices |
+| **openpolicy-platform-v5-web** | Frontend applications | Web App, Admin Dashboard, Mobile Web | Frontend |
+| **openpolicy-platform-v5-monitoring** | Observability | Prometheus, Grafana, ELK Stack | Monitoring |
+| **openpolicy-platform-v5-deployment** | Infrastructure | Docker, Kubernetes, Helm, Terraform | DevOps |
+| **openpolicy-platform-v5-docs** | Documentation | Guides, API specs, Architecture docs | Documentation |
 
 ### **Repository Benefits**
 - **Independent development** and deployment cycles
