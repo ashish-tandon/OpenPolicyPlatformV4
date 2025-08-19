@@ -1,0 +1,217 @@
+version: '3.8'
+
+services:
+  # Gateway Layer
+  nginx-gateway:
+    container_name: openpolicy-gateway
+    build:
+      context: ./infrastructure/gateway
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+      - "8080:8080"
+    depends_on:
+      - api
+      - web
+    networks:
+      - openpolicy-network
+    volumes:
+      - ./infrastructure/gateway/nginx.conf:/etc/nginx/nginx.conf:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # API Service
+  api:
+    container_name: openpolicy-api
+    build:
+      context: ./infrastructure
+      dockerfile: Dockerfile
+    environment:
+      - APP_NAME=OpenPolicyPlatform
+      - APP_ENV=production
+      - APP_DEBUG=false
+      - APP_URL=http://localhost
+      - DB_CONNECTION=pgsql
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_DATABASE=openpolicy
+      - DB_USERNAME=openpolicy
+      - DB_PASSWORD=openpolicy123
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - CACHE_DRIVER=redis
+      - SESSION_DRIVER=redis
+      - QUEUE_CONNECTION=redis
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - openpolicy-network
+    volumes:
+      - ./infrastructure:/var/www/html
+      - api-storage:/var/www/html/storage
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/v1/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Web Application
+  web:
+    container_name: openpolicy-web
+    build:
+      context: ./open-policy-platform/web
+      dockerfile: Dockerfile
+    environment:
+      - NODE_ENV=production
+      - REACT_APP_API_URL=http://localhost/api
+    ports:
+      - "3000:3000"
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # PostgreSQL Database
+  postgres:
+    container_name: openpolicy-postgres
+    image: postgres:15-alpine
+    environment:
+      - POSTGRES_DB=openpolicy
+      - POSTGRES_USER=openpolicy
+      - POSTGRES_PASSWORD=openpolicy123
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./database/init:/docker-entrypoint-initdb.d
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Redis Cache
+  redis:
+    container_name: openpolicy-redis
+    image: redis:7-alpine
+    command: redis-server /usr/local/etc/redis/redis.conf
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+      - ./config/redis.conf:/usr/local/etc/redis/redis.conf
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Scraper Service
+  scraper:
+    container_name: openpolicy-scraper
+    build:
+      context: ./scrapers
+      dockerfile: Dockerfile
+    environment:
+      - PYTHONUNBUFFERED=1
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379
+      - SCRAPER_INTERVAL=3600
+    depends_on:
+      - postgres
+      - redis
+      - api
+    networks:
+      - openpolicy-network
+    volumes:
+      - ./scrapers:/app
+      - scraper-logs:/app/logs
+    restart: unless-stopped
+
+  # Admin Dashboard
+  admin:
+    container_name: openpolicy-admin
+    build:
+      context: ./open-policy-platform/mobile/admin-open-policy
+      dockerfile: Dockerfile
+    environment:
+      - NODE_ENV=production
+      - VITE_API_URL=http://localhost/api
+    ports:
+      - "3001:3000"
+    depends_on:
+      - api
+    networks:
+      - openpolicy-network
+    restart: unless-stopped
+
+  # Queue Worker
+  queue-worker:
+    container_name: openpolicy-queue
+    build:
+      context: ./infrastructure
+      dockerfile: Dockerfile
+    command: php artisan queue:work --sleep=3 --tries=3
+    environment:
+      - APP_ENV=production
+      - DB_HOST=postgres
+      - REDIS_HOST=redis
+    depends_on:
+      - postgres
+      - redis
+      - api
+    networks:
+      - openpolicy-network
+    volumes:
+      - ./infrastructure:/var/www/html
+      - api-storage:/var/www/html/storage
+    restart: unless-stopped
+
+  # Scheduler
+  scheduler:
+    container_name: openpolicy-scheduler
+    build:
+      context: ./infrastructure
+      dockerfile: Dockerfile
+    command: sh -c "while true; do php artisan schedule:run --verbose --no-interaction; sleep 60; done"
+    environment:
+      - APP_ENV=production
+      - DB_HOST=postgres
+      - REDIS_HOST=redis
+    depends_on:
+      - postgres
+      - redis
+      - api
+    networks:
+      - openpolicy-network
+    volumes:
+      - ./infrastructure:/var/www/html
+      - api-storage:/var/www/html/storage
+    restart: unless-stopped
+
+networks:
+  openpolicy-network:
+    driver: bridge
+
+volumes:
+  postgres-data:
+  redis-data:
+  api-storage:
+  scraper-logs:

@@ -12,6 +12,8 @@ require __DIR__.'/v1/app.php';
 require __DIR__.'/v1/admin.php';
 // route for web info
 require __DIR__.'/v1/web.php';
+// route for unified API v1
+require __DIR__.'/v1/api.php';
 
 // Route::post('/upload-db', [DeveloperController::class, 'uploadDb']);
 
