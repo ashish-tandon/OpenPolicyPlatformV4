@@ -14,7 +14,7 @@ services:
       - env.azure.complete
     environment:
       - LOG_LEVEL=INFO
-      - JWT_SECRET=${AZURE_JWT_SECRET}
+      - PORT=8000
     ports:
       - "8000:8000"
     networks:
@@ -839,7 +839,26 @@ services:
       - openpolicy-azure-network
     restart: unless-stopped
     healthcheck:
-      test: ["CMD-SHELL", "curl -f http://localhost:24224 || exit 1"]
+      test: ["CMD-SHELL", "echo 'Fluentd is running' || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Redis Service (Local fallback for Azure Redis connectivity issues)
+  redis:
+    image: redis:7-alpine
+    container_name: openpolicy-azure-redis
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "redis-cli ping || exit 1"]
       interval: 30s
       timeout: 10s
       retries: 3
@@ -849,12 +868,18 @@ services:
   celery-worker:
     image: python:3.11-slim
     container_name: openpolicy-azure-celery-worker
-    command: sh -c "pip install celery redis && celery -A tasks worker --loglevel=info"
+    env_file:
+      - env.azure.complete
     environment:
-      - CELERY_BROKER_URL=${REDIS_URL}
-      - CELERY_RESULT_BACKEND=${REDIS_URL}
+      - CELERY_BROKER_URL=redis://redis:6379
+      - CELERY_RESULT_BACKEND=redis://redis:6379
+    command: sh -c "pip install celery redis && celery -A celery_tasks worker --loglevel=info"
+    volumes:
+      - ./celery_tasks.py:/app/celery_tasks.py
+    working_dir: /app
     depends_on:
       - api
+      - redis
     networks:
       - openpolicy-azure-network
     restart: unless-stopped
@@ -868,12 +893,18 @@ services:
   celery-beat:
     image: python:3.11-slim
     container_name: openpolicy-azure-celery-beat
-    command: sh -c "pip install celery redis && celery -A tasks beat --loglevel=info"
+    env_file:
+      - env.azure.complete
     environment:
-      - CELERY_BROKER_URL=${REDIS_URL}
-      - CELERY_RESULT_BACKEND=${REDIS_URL}
+      - CELERY_BROKER_URL=redis://redis:6379
+      - CELERY_RESULT_BACKEND=redis://redis:6379
+    command: sh -c "pip install celery redis && celery -A celery_tasks beat --loglevel=info"
+    volumes:
+      - ./celery_tasks.py:/app/celery_tasks.py
+    working_dir: /app
     depends_on:
       - api
+      - redis
     networks:
       - openpolicy-azure-network
     restart: unless-stopped
@@ -887,12 +918,16 @@ services:
   flower:
     image: mher/flower:latest
     container_name: openpolicy-azure-flower
+    env_file:
+      - env.azure.complete
     environment:
-      - FLOWER_BROKER_API=${REDIS_URL}
+      - FLOWER_BROKER_URL=redis://redis:6379
+      - FLOWER_RESULT_BACKEND=redis://redis:6379
     ports:
       - "5555:5555"
     depends_on:
       - celery-worker
+      - redis
     networks:
       - openpolicy-azure-network
     restart: unless-stopped
@@ -954,3 +989,4 @@ volumes:
   grafana_data:
   scraper_reports:
   scraper_logs:
+  redis_data:

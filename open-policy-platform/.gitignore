@@ -262,3 +262,10 @@ backups/
 *.dump
 *.backup
 *.archive
+
+# Additional Confidential Files
+.env
+.env.azure
+.env.qnap
+azure-config.json
+qnap-config.json
