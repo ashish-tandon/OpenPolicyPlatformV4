@@ -1,0 +1,79 @@
+# 🧪 Test Environment Configuration (QNAP)
+# OpenPolicyPlatform V5 - Staging Environment
+
+environment:
+  name: staging
+  type: qnap-nas
+  description: "Staging environment on QNAP NAS server"
+  location: "QNAP NAS Server"
+
+deployment:
+  method: docker-compose
+  compose_file: docker-compose.complete.yml
+  auto_restart: true
+  health_checks: true
+  backup_enabled: true
+  backup_schedule: "0 2 * * *"  # Daily at 2 AM
+
+services:
+  - name: postgres
+    port: 5432
+    health_check: "pg_isready -U openpolicy"
+    volume: "/share/Container/postgres-data"
+    
+  - name: redis
+    port: 6379
+    health_check: "redis-cli ping"
+    volume: "/share/Container/redis-data"
+    
+  - name: elasticsearch
+    port: 9200
+    health_check: "curl -f http://localhost:9200/_cluster/health"
+    volume: "/share/Container/elasticsearch-data"
+    
+  - name: kibana
+    port: 5601
+    health_check: "curl -f http://localhost:5601/api/status"
+    
+  - name: grafana
+    port: 3001
+    health_check: "curl -f http://localhost:3001/api/health"
+    volume: "/share/Container/grafana-data"
+    
+  - name: prometheus
+    port: 9090
+    health_check: "curl -f http://localhost:9090/-/healthy"
+    volume: "/share/Container/prometheus-data"
+    
+  - name: api-gateway
+    port: 9000
+    health_check: "curl -f http://localhost:9000/health"
+    
+  - name: web-frontend
+    port: 3000
+    health_check: "curl -f http://localhost:3000/health"
+
+monitoring:
+  log_level: INFO
+  metrics_enabled: true
+  alerting: true
+  alert_channels:
+    - email: "admin@company.com"
+    - slack: "#staging-alerts"
+  
+storage:
+  nas_mount: "/share/Container"
+  backup_location: "/share/Container/backups"
+  data_retention: "30 days"
+  
+security:
+  ssl_enabled: true
+  auth_required: true
+  cors_enabled: true
+  firewall_rules:
+    - port: 22
+      description: "SSH access"
+    - port: 80
+      description: "HTTP access"
+    - port: 443
+      description: "HTTPS access"

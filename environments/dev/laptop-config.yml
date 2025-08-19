@@ -1,0 +1,56 @@
+# 🖥️ Development Environment Configuration (Laptop)
+# OpenPolicyPlatform V5 - Local Development
+
+environment:
+  name: development
+  type: laptop
+  description: "Local development environment on developer laptop"
+
+deployment:
+  method: docker-compose
+  compose_file: docker-compose.complete.yml
+  auto_restart: true
+  health_checks: true
+
+services:
+  - name: postgres
+    port: 5432
+    health_check: "pg_isready -U openpolicy"
+    
+  - name: redis
+    port: 6379
+    health_check: "redis-cli ping"
+    
+  - name: elasticsearch
+    port: 9200
+    health_check: "curl -f http://localhost:9200/_cluster/health"
+    
+  - name: kibana
+    port: 5601
+    health_check: "curl -f http://localhost:5601/api/status"
+    
+  - name: grafana
+    port: 3001
+    health_check: "curl -f http://localhost:3001/api/health"
+    
+  - name: prometheus
+    port: 9090
+    health_check: "curl -f http://localhost:9090/-/healthy"
+    
+  - name: api-gateway
+    port: 9000
+    health_check: "curl -f http://localhost:9000/health"
+    
+  - name: web-frontend
+    port: 3000
+    health_check: "curl -f http://localhost:3000/health"
+
+monitoring:
+  log_level: DEBUG
+  metrics_enabled: true
+  alerting: false
+  
+security:
+  ssl_enabled: false
+  auth_required: false
+  cors_enabled: true
