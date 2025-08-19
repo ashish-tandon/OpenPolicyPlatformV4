@@ -1,30 +1,20 @@
-version: '3.8'
-
 # 🚀 Open Policy Platform V4 - Complete Azure Deployment
 # This file deploys ALL available services to Azure
 
 services:
+  # Environment Configuration
+  # Load all environment variables from env.azure.complete
+  # This ensures all services have access to Azure configuration
+  
   # Core API Service
   api:
     image: openpolicyacr.azurecr.io/openpolicy-api:latest
     container_name: openpolicy-azure-api
+    env_file:
+      - env.azure.complete
     environment:
-      - DATABASE_URL=${DATABASE_URL}
-      - REDIS_URL=${REDIS_URL}
-      - AZURE_KEY_VAULT_URL=${AZURE_KEY_VAULT_URL}
-      - AZURE_STORAGE_ACCOUNT=${AZURE_STORAGE_ACCOUNT}
-      - AZURE_STORAGE_KEY=${AZURE_STORAGE_KEY}
-      - AZURE_SEARCH_SERVICE=${AZURE_SEARCH_SERVICE}
-      - AZURE_SEARCH_KEY=${AZURE_SEARCH_KEY}
-      - ENVIRONMENT=${ENVIRONMENT}
       - LOG_LEVEL=INFO
-      - ALLOWED_HOSTS=${ALLOWED_HOSTS}
-      - ALLOWED_ORIGINS=${ALLOWED_ORIGINS}
       - JWT_SECRET=${AZURE_JWT_SECRET}
-      - AUTH0_DOMAIN=${AUTH0_DOMAIN}
-      - AUTH0_CLIENT_ID=${AUTH0_CLIENT_ID}
-      - AUTH0_CLIENT_SECRET=${AUTH0_CLIENT_SECRET}
-      - AUTH0_AUDIENCE=${AUTH0_AUDIENCE}
     ports:
       - "8000:8000"
     networks:
@@ -41,10 +31,8 @@ services:
   web:
     image: openpolicyacr.azurecr.io/openpolicy-web:latest
     container_name: openpolicy-azure-web
-    environment:
-      - VITE_API_URL=${VITE_API_URL}
-      - VITE_APP_NAME=${VITE_APP_NAME}
-      - VITE_AZURE_INSIGHTS_KEY=${AZURE_APP_INSIGHTS_KEY}
+    env_file:
+      - env.azure.complete
     ports:
       - "3000:5173"
     depends_on:
@@ -781,6 +769,181 @@ services:
     networks:
       - openpolicy-azure-network
     restart: unless-stopped
+
+  # ELK Stack - Centralized Logging
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.11.0
+    container_name: openpolicy-azure-elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - "9200:9200"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9200/_cluster/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  logstash:
+    image: docker.elastic.co/logstash/logstash:8.11.0
+    container_name: openpolicy-azure-logstash
+    ports:
+      - "5044:5044"
+      - "9600:9600"
+      - "5001:5001"
+    depends_on:
+      - elasticsearch
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:9600 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.11.0
+    container_name: openpolicy-azure-kibana
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    ports:
+      - "5601:5601"
+    depends_on:
+      - elasticsearch
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5601/api/status || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  fluentd:
+    image: fluent/fluentd:v1.16-1
+    container_name: openpolicy-azure-fluentd
+    ports:
+      - "24224:24224"
+    depends_on:
+      - elasticsearch
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:24224 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Background Processing Services
+  celery-worker:
+    image: python:3.11-slim
+    container_name: openpolicy-azure-celery-worker
+    command: sh -c "pip install celery redis && celery -A tasks worker --loglevel=info"
+    environment:
+      - CELERY_BROKER_URL=${REDIS_URL}
+      - CELERY_RESULT_BACKEND=${REDIS_URL}
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "echo 'Celery worker running' || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  celery-beat:
+    image: python:3.11-slim
+    container_name: openpolicy-azure-celery-beat
+    command: sh -c "pip install celery redis && celery -A tasks beat --loglevel=info"
+    environment:
+      - CELERY_BROKER_URL=${REDIS_URL}
+      - CELERY_RESULT_BACKEND=${REDIS_URL}
+    depends_on:
+      - api
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "echo 'Celery beat running' || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  flower:
+    image: mher/flower:latest
+    container_name: openpolicy-azure-flower
+    environment:
+      - FLOWER_BROKER_API=${REDIS_URL}
+    ports:
+      - "5555:5555"
+    depends_on:
+      - celery-worker
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5555 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Load Balancer & Gateway
+  gateway:
+    image: nginx:alpine
+    container_name: openpolicy-azure-gateway
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api
+      - web
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:80 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+  # Test Database
+  postgres-test:
+    image: postgres:15
+    container_name: openpolicy-azure-postgres-test
+    environment:
+      - POSTGRES_DB=openpolicy_test
+      - POSTGRES_USER=openpolicy
+      - POSTGRES_PASSWORD=test_password
+    ports:
+      - "5433:5432"
+    networks:
+      - openpolicy-azure-network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy_test || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
 
 networks:
   openpolicy-azure-network:
