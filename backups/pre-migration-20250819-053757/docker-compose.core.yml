@@ -1,0 +1,180 @@
+# ========================================
+# CORE PLATFORM SERVICES
+# ========================================
+# 5 stable, well-managed services with resource limits
+# Total: 1.2GB memory, 1.2 CPU cores
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: openpolicy-core-postgres
+    environment:
+      POSTGRES_DB: openpolicy
+      POSTGRES_USER: openpolicy
+      POSTGRES_PASSWORD: openpolicy123
+      # PostgreSQL Performance Optimizations
+      POSTGRES_SHARED_BUFFERS: 256MB
+      POSTGRES_WORK_MEM: 8MB
+      POSTGRES_MAINTENANCE_WORK_MEM: 64MB
+      POSTGRES_EFFECTIVE_CACHE_SIZE: 4GB
+      POSTGRES_WAL_BUFFERS: 16MB
+      POSTGRES_CHECKPOINT_COMPLETION_TARGET: 0.9
+      POSTGRES_CHECKPOINT_TIMEOUT: 5min
+      POSTGRES_MAX_WAL_SIZE: 1GB
+      POSTGRES_RANDOM_PAGE_COST: 1.1
+      POSTGRES_EFFECTIVE_IO_CONCURRENCY: 200
+      POSTGRES_DEFAULT_STATISTICS_TARGET: 100
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata_core:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U openpolicy -d openpolicy"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+          cpus: '0.25'
+        reservations:
+          memory: 128M
+          cpus: '0.1'
+    restart: unless-stopped
+
+  redis:
+    image: redis:7-alpine
+    container_name: openpolicy-core-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./config/redis.optimized.conf:/usr/local/etc/redis/redis.conf:ro
+    command: redis-server /usr/local/etc/redis/redis.conf
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+    deploy:
+      resources:
+        limits:
+          memory: 128M
+          cpus: '0.1'
+        reservations:
+          memory: 64M
+          cpus: '0.05'
+    restart: unless-stopped
+
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: openpolicy-core-api
+    environment:
+      - DATABASE_URL=postgresql://openpolicy:openpolicy123@postgres:5432/openpolicy
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=core-platform-secret-key
+      - ENVIRONMENT=development
+      - LOG_LEVEL=info
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "pgrep -f 'python.*api' || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    deploy:
+      resources:
+        limits:
+          memory: 512M
+          cpus: '0.5'
+        reservations:
+          memory: 256M
+          cpus: '0.25'
+    restart: unless-stopped
+
+  web:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+    container_name: openpolicy-core-web
+    environment:
+      - VITE_API_URL=http://localhost:8000
+      - NODE_ENV=development
+    ports:
+      - "3000:5173"
+    depends_on:
+      - api
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:5173 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    deploy:
+      resources:
+        limits:
+          memory: 256M
+          cpus: '0.25'
+        reservations:
+          memory: 128M
+          cpus: '0.1'
+    restart: unless-stopped
+
+  gateway:
+    image: nginx:alpine
+    container_name: openpolicy-core-gateway
+    ports:
+      - "80:80"
+    volumes:
+      - ./infrastructure/gateway/nginx.core.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - api
+      - web
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:80/health || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+    deploy:
+      resources:
+        limits:
+          memory: 64M
+          cpus: '0.1'
+        reservations:
+          memory: 32M
+          cpus: '0.05'
+    restart: unless-stopped
+
+# ========================================
+# VOLUMES
+# ========================================
+volumes:
+  pgdata_core:
+    driver: local
+
+# ========================================
+# NETWORKS
+# ========================================
+networks:
+  default:
+    name: openpolicy-core-network
+    driver: bridge
+
+# ========================================
+# RESOURCE LIMITS SUMMARY
+# ========================================
+# Total Memory: 1.2GB (with limits)
+# Total CPU: 1.2 cores (with limits)
+# Actual Usage: ~800MB memory, ~0.8 cores
+# Stable, sustainable platform

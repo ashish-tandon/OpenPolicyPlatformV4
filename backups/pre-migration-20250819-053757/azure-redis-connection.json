@@ -1,0 +1,89 @@
+{
+  "azure_redis": {
+    "name": "openpolicy-redis",
+    "resource_group": "openpolicy-platform-rg",
+    "location": "canadacentral",
+    "sku": "Basic",
+    "capacity": 0,
+    "family": "C",
+    "redis_version": "6.0",
+    "endpoints": {
+      "non_ssl": {
+        "host": "openpolicy-redis.redis.cache.windows.net",
+        "port": 6379,
+        "url": "openpolicy-redis.redis.cache.windows.net:6379"
+      },
+      "ssl": {
+        "host": "openpolicy-redis.redis.cache.windows.net",
+        "port": 6380,
+        "url": "openpolicy-redis.redis.cache.windows.net:6380"
+      }
+    },
+    "connection_strings": {
+      "non_ssl": "openpolicy-redis.redis.cache.windows.net:6379,password=<PRIMARY_KEY>",
+      "ssl": "openpolicy-redis.redis.cache.windows.net:6380,password=<PRIMARY_KEY>,ssl=True"
+    },
+    "security": {
+      "tls_version": "1.2",
+      "public_network_access": "Enabled",
+      "non_ssl_port_enabled": true,
+      "ssl_port_enabled": true
+    },
+    "monitoring": {
+      "application_insights": "openpolicy-appinsights",
+      "key_vault": "openpolicy-keyvault",
+      "metrics_enabled": true,
+      "diagnostic_settings": true
+    },
+    "performance": {
+      "max_clients": 256,
+      "memory_policy": "allkeys-lru",
+      "databases": 16,
+      "connection_pooling": true
+    },
+    "deployment_status": {
+      "provisioning_state": "Succeeded",
+      "health_status": "Healthy",
+      "last_updated": "2025-01-27"
+    }
+  },
+  "environment_variables": {
+    "REDIS_HOST": "openpolicy-redis.redis.cache.windows.net",
+    "REDIS_PORT": "6379",
+    "REDIS_SSL_PORT": "6380",
+    "REDIS_PASSWORD": "<PRIMARY_KEY>",
+    "REDIS_URL": "redis://:<PRIMARY_KEY>@openpolicy-redis.redis.cache.windows.net:6379",
+    "REDIS_SSL_URL": "rediss://:<PRIMARY_KEY>@openpolicy-redis.redis.cache.windows.net:6380"
+  },
+  "docker_compose_integration": {
+    "redis_service": {
+      "image": "redis:7-alpine",
+      "ports": ["6379:6379"],
+      "environment": [
+        "REDIS_HOST=openpolicy-redis.redis.cache.windows.net",
+        "REDIS_PORT=6379",
+        "REDIS_PASSWORD=${REDIS_PASSWORD}"
+      ],
+      "command": "redis-server --requirepass ${REDIS_PASSWORD}"
+    }
+  },
+  "application_integration": {
+    "python": {
+      "redis_url": "redis://:<PRIMARY_KEY>@openpolicy-redis.redis.cache.windows.net:6379",
+      "connection_pool": {
+        "max_connections": 20,
+        "retry_on_timeout": true,
+        "socket_connect_timeout": 5,
+        "socket_timeout": 5
+      }
+    },
+    "nodejs": {
+      "redis_url": "redis://:<PRIMARY_KEY>@openpolicy-redis.redis.cache.windows.net:6379",
+      "options": {
+        "retryDelayOnFailover": 100,
+        "enableReadyCheck": false,
+        "maxRetriesPerRequest": 3
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "migration_started": "$(date -u +"%Y-%m-%dT%H:%M:%SZ")",
+  "source_repository": "OpenPolicyPlatformV4",
+  "target_architecture": "6-layer",
+  "layers": {
+    "infrastructure": {
+      "status": "pending",
+      "services": 15,
+      "repository": "openpolicy-infrastructure"
+    },
+    "data": {
+      "status": "pending",
+      "services": 8,
+      "repository": "openpolicy-data"
+    },
+    "business": {
+      "status": "pending",
+      "services": 10,
+      "repository": "openpolicy-business"
+    },
+    "frontend": {
+      "status": "pending",
+      "services": 3,
+      "repository": "openpolicy-frontend"
+    },
+    "legacy": {
+      "status": "pending",
+      "services": 3,
+      "repository": "openpolicy-legacy"
+    },
+    "orchestration": {
+      "status": "pending",
+      "services": 0,
+      "repository": "openpolicy-orchestration"
+    }
+  },
+  "total_services": 39,
+  "completion_percentage": 0
+}
