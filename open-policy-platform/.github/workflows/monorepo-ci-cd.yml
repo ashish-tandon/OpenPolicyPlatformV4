@@ -1,0 +1,375 @@
+name: Monorepo CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, develop, release/* ]
+  pull_request:
+    branches: [ main, develop ]
+  workflow_dispatch:
+    inputs:
+      deploy_environment:
+        description: 'Environment to deploy to'
+        required: true
+        default: 'staging'
+        type: choice
+        options:
+          - staging
+          - production
+          - qnap
+
+env:
+  DOCKER_BUILDKIT: 1
+  COMPOSE_DOCKER_CLI_BUILD: 1
+
+jobs:
+  # Detect which services changed
+  changes:
+    runs-on: ubuntu-latest
+    outputs:
+      core-services: ${{ steps.filter.outputs.core-services }}
+      business-services: ${{ steps.filter.outputs.business-services }}
+      data-services: ${{ steps.filter.outputs.data-services }}
+      web: ${{ steps.filter.outputs.web }}
+      mobile: ${{ steps.filter.outputs.mobile }}
+      infrastructure: ${{ steps.filter.outputs.infrastructure }}
+      
+    steps:
+    - uses: actions/checkout@v3
+    
+    - uses: dorny/paths-filter@v2
+      id: filter
+      with:
+        filters: |
+          core-services:
+            - 'services/api-gateway/**'
+            - 'services/auth-service/**'
+            - 'services/policy-service/**'
+            - 'services/notification-service/**'
+            - 'services/config-service/**'
+          business-services:
+            - 'services/analytics-service/**'
+            - 'services/monitoring-service/**'
+            - 'services/etl-service/**'
+            - 'services/search-service/**'
+            - 'services/dashboard-service/**'
+          data-services:
+            - 'services/scraper-service/**'
+            - 'services/representatives-service/**'
+            - 'services/committees-service/**'
+            - 'services/debates-service/**'
+            - 'services/votes-service/**'
+          web:
+            - 'apps/web/**'
+          mobile:
+            - 'apps/mobile/**'
+          infrastructure:
+            - 'infrastructure/**'
+            - 'charts/**'
+            - 'docker-compose*.yml'
+
+  # Lint and test changed services
+  test-services:
+    needs: changes
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - service-group: core-services
+            changed: ${{ needs.changes.outputs.core-services }}
+          - service-group: business-services
+            changed: ${{ needs.changes.outputs.business-services }}
+          - service-group: data-services
+            changed: ${{ needs.changes.outputs.data-services }}
+    
+    steps:
+    - uses: actions/checkout@v3
+      if: matrix.changed == 'true'
+    
+    - name: Set up Python
+      if: matrix.changed == 'true'
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: Run tests for ${{ matrix.service-group }}
+      if: matrix.changed == 'true'
+      run: |
+        echo "Testing ${{ matrix.service-group }}"
+        # Add specific test commands for each service group
+
+  # Test web frontend
+  test-web:
+    needs: changes
+    if: needs.changes.outputs.web == 'true'
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+        cache-dependency-path: apps/web/package-lock.json
+    
+    - name: Install dependencies
+      run: |
+        cd apps/web
+        npm ci
+    
+    - name: Lint
+      run: |
+        cd apps/web
+        npm run lint
+    
+    - name: Test
+      run: |
+        cd apps/web
+        npm run test:ci
+    
+    - name: Build
+      run: |
+        cd apps/web
+        npm run build
+
+  # Security scanning
+  security-scan:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Run Trivy vulnerability scanner
+      uses: aquasecurity/trivy-action@master
+      with:
+        scan-type: 'fs'
+        scan-ref: '.'
+        format: 'sarif'
+        output: 'trivy-results.sarif'
+    
+    - name: Upload Trivy scan results
+      uses: github/codeql-action/upload-sarif@v2
+      with:
+        sarif_file: 'trivy-results.sarif'
+    
+    - name: Run Snyk security scan
+      uses: snyk/actions/python@master
+      env:
+        SNYK_TOKEN: ${{ secrets.SNYK_TOKEN }}
+      with:
+        args: --severity-threshold=high
+
+  # Build Docker images
+  build-images:
+    needs: [test-services, test-web, security-scan]
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    
+    strategy:
+      matrix:
+        service:
+          - api-gateway
+          - auth-service
+          - policy-service
+          - notification-service
+          - config-service
+          - analytics-service
+          - monitoring-service
+          - etl-service
+          - scraper-service
+          - search-service
+          - dashboard-service
+          - web
+          - admin-dashboard
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v2
+    
+    - name: Log in to Docker Hub
+      uses: docker/login-action@v2
+      with:
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_PASSWORD }}
+    
+    - name: Log in to Azure Container Registry
+      uses: docker/login-action@v2
+      with:
+        registry: ${{ secrets.ACR_REGISTRY }}
+        username: ${{ secrets.ACR_USERNAME }}
+        password: ${{ secrets.ACR_PASSWORD }}
+    
+    - name: Build and push ${{ matrix.service }}
+      uses: docker/build-push-action@v4
+      with:
+        context: .
+        file: ./services/${{ matrix.service }}/Dockerfile
+        push: true
+        tags: |
+          ${{ secrets.DOCKER_USERNAME }}/opp-${{ matrix.service }}:latest
+          ${{ secrets.DOCKER_USERNAME }}/opp-${{ matrix.service }}:${{ github.sha }}
+          ${{ secrets.ACR_REGISTRY }}/opp-${{ matrix.service }}:latest
+          ${{ secrets.ACR_REGISTRY }}/opp-${{ matrix.service }}:${{ github.sha }}
+        cache-from: type=gha
+        cache-to: type=gha,mode=max
+
+  # Deploy to staging
+  deploy-staging:
+    needs: build-images
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/develop'
+    environment: staging
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Azure Login
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+    
+    - name: Set up Kubectl
+      uses: azure/setup-kubectl@v3
+    
+    - name: Deploy to AKS Staging
+      run: |
+        helm upgrade --install open-policy-platform ./charts/open-policy-platform \
+          --namespace staging \
+          --create-namespace \
+          --values ./charts/open-policy-platform/values-staging.yaml \
+          --set global.image.tag=${{ github.sha }} \
+          --wait
+
+  # Deploy to production
+  deploy-production:
+    needs: build-images
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    environment: production
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Azure Login
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+    
+    - name: Deploy to AKS Production (Canary)
+      run: |
+        # Deploy canary version (10% traffic)
+        helm upgrade --install open-policy-platform-canary ./charts/open-policy-platform \
+          --namespace production \
+          --values ./charts/open-policy-platform/values-prod.yaml \
+          --set global.image.tag=${{ github.sha }} \
+          --set canary.enabled=true \
+          --set canary.weight=10 \
+          --wait
+        
+        # Wait for canary metrics
+        sleep 300
+        
+        # Check canary health
+        CANARY_HEALTH=$(kubectl get deploy -n production -l version=canary -o json | jq '.items[].status.conditions[] | select(.type=="Progressing") | .status')
+        
+        if [ "$CANARY_HEALTH" == "True" ]; then
+          echo "Canary deployment healthy, proceeding with full rollout"
+          
+          # Full production deployment
+          helm upgrade --install open-policy-platform ./charts/open-policy-platform \
+            --namespace production \
+            --values ./charts/open-policy-platform/values-prod.yaml \
+            --set global.image.tag=${{ github.sha }} \
+            --set canary.enabled=false \
+            --wait
+        else
+          echo "Canary deployment failed, rolling back"
+          helm rollback open-policy-platform-canary -n production
+          exit 1
+        fi
+
+  # Deploy to QNAP
+  deploy-qnap:
+    needs: build-images
+    runs-on: ubuntu-latest
+    if: github.event.inputs.deploy_environment == 'qnap'
+    environment: qnap
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Deploy to QNAP
+      env:
+        QNAP_HOST: ${{ secrets.QNAP_HOST }}
+        QNAP_USER: ${{ secrets.QNAP_USER }}
+        QNAP_SSH_KEY: ${{ secrets.QNAP_SSH_KEY }}
+      run: |
+        # Set up SSH
+        mkdir -p ~/.ssh
+        echo "$QNAP_SSH_KEY" > ~/.ssh/qnap_key
+        chmod 600 ~/.ssh/qnap_key
+        
+        # Copy deployment files
+        scp -i ~/.ssh/qnap_key -r ./deployment/qnap/* $QNAP_USER@$QNAP_HOST:/share/Container/open-policy-platform/
+        
+        # Execute deployment
+        ssh -i ~/.ssh/qnap_key $QNAP_USER@$QNAP_HOST 'cd /share/Container/open-policy-platform && ./deploy.sh'
+
+  # Post-deployment tests
+  smoke-tests:
+    needs: [deploy-staging, deploy-production, deploy-qnap]
+    runs-on: ubuntu-latest
+    if: always()
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Run smoke tests
+      run: |
+        # Determine environment
+        if [[ "${{ github.ref }}" == "refs/heads/develop" ]]; then
+          ENVIRONMENT="staging"
+          API_URL="${{ secrets.STAGING_API_URL }}"
+        elif [[ "${{ github.ref }}" == "refs/heads/main" ]]; then
+          ENVIRONMENT="production"
+          API_URL="${{ secrets.PROD_API_URL }}"
+        else
+          ENVIRONMENT="qnap"
+          API_URL="${{ secrets.QNAP_API_URL }}"
+        fi
+        
+        # Run smoke tests
+        ./scripts/smoke-test.sh "$API_URL"
+    
+    - name: Notify deployment status
+      uses: 8398a7/action-slack@v3
+      with:
+        status: ${{ job.status }}
+        text: |
+          Deployment to ${{ env.ENVIRONMENT }} completed
+          Commit: ${{ github.sha }}
+          Author: ${{ github.actor }}
+        webhook_url: ${{ secrets.SLACK_WEBHOOK }}
+      if: always()
+
+  # Generate and publish documentation
+  documentation:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Generate API documentation
+      run: |
+        # Generate OpenAPI specs
+        ./scripts/generate-api-docs.sh
+    
+    - name: Deploy documentation
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs/_site
